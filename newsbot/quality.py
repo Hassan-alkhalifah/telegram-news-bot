@@ -48,6 +48,16 @@ def filler_reason(article: Article, filters: Filters) -> str | None:
     return None
 
 
+def blocked_reason(article: Article, filters: Filters) -> str | None:
+    """Why this article must never be posted (18+ and other unwanted subjects), or None."""
+    text = " ".join((article.title, article.summary, *article.tags))
+    for pattern in filters.blocked:
+        match = pattern.search(text)
+        if match:
+            return f"blocked word '{match.group(0)}'"
+    return None
+
+
 @lru_cache(maxsize=32768)
 def story_words(text: str) -> frozenset[str]:
     """The meaningful words of a title: no small words, no plurals or tenses, XIV read as 14."""

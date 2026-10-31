@@ -124,3 +124,13 @@ def test_digest_day_survives_other_changes():
     assert empty.digest_day == ""
     assert marked.pruned(NOW, retention_days=7).digest_day == "2026-10-31"
     assert marked.with_record("k", record()).digest_day == "2026-10-31"
+
+
+def test_arabic_title_and_weekly_day_are_saved(tmp_path):
+    path = tmp_path / "posted.json"
+    rec = PostedRecord(at=NOW, title="T", topic="AI", status="posted", title_ar="عنوان")
+    save_state(path, BotState.empty().with_record("k", rec).with_weekly_day("2026-10-30"))
+    loaded = load_state(path)
+    assert loaded.records["k"].title_ar == "عنوان"
+    assert loaded.weekly_day == "2026-10-30"
+    assert loaded.with_digest_day("2026-10-31").weekly_day == "2026-10-30"

@@ -110,3 +110,76 @@ def test_broken_yaml(tmp_path):
     path.write_text("topics: [unclosed", encoding="utf-8")
     with pytest.raises(ConfigError, match="YAML"):
         load_config(path)
+
+
+def test_repo_config_has_the_new_sections():
+    config = load_config(ROOT / "config.yaml")
+    assert config.style.banner and config.style.brand_name == "SAV NEWS"
+    assert config.style.read_button and config.style.share_button and config.style.name_hashtags == 2
+    assert config.arabic.enabled and config.arabic.top_story_label and config.arabic.read_button
+    assert config.weekly.enabled and config.weekly.weekday == 4 and config.weekly.size == 10
+    assert config.weekly.poll and 2 <= config.weekly.poll_options <= 10
+    assert {t.suit for t in config.topics} == {"spade", "heart", "diamond", "club"}
+    assert all(t.arabic_name and t.arabic_hashtag for t in config.topics)
+    assert "Nintendo" in config.topic("Games").names
+    blocked = config.filters.blocked
+    assert any(p.search("New hentai game on Steam") for p in blocked)
+    assert any(p.search("Online casino ads banned") for p in blocked)
+    assert any(p.search("Beer brand sponsors esports team") for p in blocked)
+    assert not any(p.search("Apple's big bet on AI glasses") for p in blocked)
+    assert not any(p.search("AI model speeds up drug discovery") for p in blocked)
+
+
+@pytest.mark.parametrize(
+    "mutate, message",
+    [
+        (lambda d: d.update(weekly={"weekday": "funday"}), "weekday"),
+        (lambda d: d.update(weekly={"poll_options": 20}), "poll_options"),
+        (lambda d: d.update(arabic={"enabled": "yes"}), "enabled"),
+        (lambda d: d.update(arabic={"colour": "red"}), "Unknown"),
+        (lambda d: d.update(style={"banner": "yes"}), "banner"),
+        (lambda d: d.update(style={"name_hashtags": 9}), "name_hashtags"),
+        (lambda d: d["topics"][0].update(suit="joker"), "suit"),
+        (lambda d: d["topics"][0].update(arabic_hashtag="two words"), "arabic_hashtag"),
+        (lambda d: d.update(filters={"blocked": ["(bad"]}), "blocked"),
+    ],
+)
+def test_invalid_new_sections_are_rejected(mutate, message):
+    data = valid_data()
+    mutate(data)
+    with pytest.raises(ConfigError, match=message):
+        parse_config(data)
+
+
+def test_weekday_names_are_understood():
+    data = valid_data()
+    data["weekly"] = {"weekday": "Monday"}
+    assert parse_config(data).weekly.weekday == 0
+
+
+@pytest.mark.parametrize(
+    "title",
+    [
+        "Wine 10 brings big Proton gains for Linux gaming",
+        "SpongeBob: The Cosmic Shake heads back to Bikini Bottom",
+        "Metal Gear Solid Delta: Naked Snake returns in new trailer",
+        "Escort missions are finally fun in this new RPG",
+    ],
+)
+def test_blocked_words_leave_harmless_news_alone(title):
+    blocked = load_config(ROOT / "config.yaml").filters.blocked
+    assert not any(p.search(title) for p in blocked)
+
+
+@pytest.mark.parametrize(
+    "title",
+    [
+        "Topless scene removed from game",
+        "Rule 34 artists target new anime",
+        "BDSM visual novel banned",
+        "Escort service app",
+    ],
+)
+def test_blocked_words_catch_more_adult_terms(title):
+    blocked = load_config(ROOT / "config.yaml").filters.blocked
+    assert any(p.search(title) for p in blocked)

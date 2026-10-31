@@ -2,3 +2,8 @@ feedparser==6.0.14
 requests==2.34.2
 PyYAML==6.0.3
 python-dotenv==1.2.4
+# Pillow 13 fixes many image-decoder security bugs but needs Python 3.11+ (GitHub uses 3.12).
+Pillow==13.0.0; python_version >= "3.11"
+Pillow==12.3.0; python_version < "3.11"
+arabic-reshaper==3.0.1
+python-bidi==0.6.12

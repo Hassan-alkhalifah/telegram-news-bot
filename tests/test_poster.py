@@ -10,13 +10,13 @@ class FakeClient:
         self.calls = []
         self.photo_error = photo_error
 
-    def send_photo(self, chat_id, photo, caption):
+    def send_photo(self, chat_id, photo, caption, buttons=None):
         self.calls.append(("photo", photo))
         if self.photo_error:
             raise self.photo_error
         return {}
 
-    def send_message(self, chat_id, text, preview_url=None):
+    def send_message(self, chat_id, text, preview_url=None, buttons=None):
         self.calls.append(("text", preview_url))
         return {}
 
@@ -56,3 +56,37 @@ def test_article_without_image_is_sent_as_text():
     article = make_article(url="https://site.com/b", image_url=None)
     assert post_article(client, "@c", article, "cap") == "text"
     assert client.calls == [("text", "https://site.com/b")]
+
+
+class BannerClient(FakeClient):
+    def __init__(self, failures=0):
+        super().__init__()
+        self.failures = failures
+
+    def send_photo(self, chat_id, photo, caption, buttons=None):
+        self.calls.append(("photo", "banner" if isinstance(photo, bytes) else photo))
+        if self.failures:
+            self.failures -= 1
+            raise TelegramError("photo not accepted")
+        return {}
+
+    def send_message(self, chat_id, text, preview_url=None, buttons=None):
+        self.calls.append(("text", preview_url))
+        return {}
+
+
+def test_banner_is_sent_first():
+    client = BannerClient()
+    assert post_article(client, "@c", make_article(), "cap", banner=b"jpeg") == "banner"
+    assert client.calls == [("photo", "banner")]
+
+
+def test_banner_failure_falls_back_to_the_news_photo_then_text():
+    client = BannerClient(failures=2)
+    article = make_article(url="https://site.com/a", image_url="https://cdn.com/i.jpg")
+    assert post_article(client, "@c", article, "cap", banner=b"jpeg") == "text"
+    assert client.calls == [
+        ("photo", "banner"),
+        ("photo", "https://cdn.com/i.jpg"),
+        ("text", "https://site.com/a"),
+    ]

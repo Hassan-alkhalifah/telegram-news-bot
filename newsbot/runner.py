@@ -1,4 +1,5 @@
-"""One bot run: read feeds, pick the strongest stories, post them, remember them, maybe send the digest."""
+"""One bot run: read feeds, pick the strongest stories, post them to the English (and Arabic) channel,
+remember them, and send the evening and weekly posts when they are due."""
 
 import logging
 import time
@@ -9,13 +10,14 @@ from pathlib import Path
 
 import requests
 
-from newsbot.digest import build_digest, date_label, digest_day_if_due, digest_entries
+from newsbot.banner import download_photo
+from newsbot.editions import arabic_edition, english_edition
 from newsbot.feeds import collect_articles
-from newsbot.formatter import build_caption
 from newsbot.images import fetch_og_image
 from newsbot.models import Article, Config, Settings, Story
-from newsbot.poster import post_article
+from newsbot.publish import Target, render_post, send_story, story_tags, translate_story
 from newsbot.quality import first_sentence
+from newsbot.scheduled import ScheduledOutcome, send_scheduled
 from newsbot.selector import Selection, select_stories
 from newsbot.state import (
     DUPLICATE,
@@ -30,6 +32,7 @@ from newsbot.state import (
     set_aside,
 )
 from newsbot.telegram import FatalTelegramError, TelegramClient, TelegramError, UncertainDeliveryError
+from newsbot.translate import DeepLTranslator, TranslationError
 
 log = logging.getLogger(__name__)
 
@@ -43,10 +46,27 @@ class RunResult:
     unconfirmed: int = 0  # sent, but Telegram gave no clear answer; remembered as posted
     duplicates: int = 0
     failed_posts: int = 0
+    arabic_posted: int = 0
     feeds_failed: int = 0
     feeds_total: int = 0
     digest_sent: bool = False
+    weekly_sent: bool = False
     fatal_error: str | None = None
+
+
+@dataclass(frozen=True)
+class _Run:
+    """Everything a run needs to post."""
+
+    config: Config
+    session: requests.Session
+    client: TelegramClient
+    english: Target
+    arabic: Target | None
+    translator: DeepLTranslator | None
+    state_path: str | Path
+    now: datetime
+    sleep: Callable[[float], None]
 
 
 @dataclass(frozen=True)
@@ -55,7 +75,9 @@ class _PostOutcome:
     posted: int = 0
     unconfirmed: int = 0
     failed: int = 0
-    fatal_error: str | None = None
+    arabic_posted: int = 0
+    fatal_error: str | None = None  # English setup problem: nothing else is sent this run
+    arabic_error: str | None = None  # Arabic setup problem: English carries on, the run is still red
 
 
 def run_once(
@@ -68,12 +90,15 @@ def run_once(
     now: datetime,
     dry_run: bool = False,
     force_digest: bool = False,
+    force_weekly: bool = False,
+    arabic_chat_id: str | None = None,
+    translator: DeepLTranslator | None = None,
+    banners_dir: Path | None = None,
     sleep: Callable[[float], None] = time.sleep,
     out: Out = print,
 ) -> RunResult:
     settings = config.settings
     state, broken_state = _load_state(state_path, now, settings, dry_run)
-
     feeds = collect_articles(session, config, now)
     base = RunResult(feeds_failed=len(feeds.failed), feeds_total=feeds.total)
     if feeds.total and len(feeds.failed) == feeds.total:
@@ -89,40 +114,62 @@ def run_once(
         log.info("Skipping repeat story: %s (%s)", article.title, article.source)
         state = _remember(state, article, DUPLICATE, now)
     _log_selection(selection)
-
     stories = [_with_image(session, s, settings.request_timeout_seconds) for s in selection.to_post]
+    english = Target(chat_id, english_edition(config))
+    arabic = _arabic_target(config, arabic_chat_id, translator)
     if dry_run:
-        _show_dry_run(stories, state, config, now, force_digest, out)
+        _show_dry_run(
+            stories,
+            state,
+            config,
+            english,
+            arabic,
+            now,
+            (force_digest, force_weekly),
+            banners_dir,
+            session,
+            out,
+        )
         return replace(base, would_post=len(stories), duplicates=len(selection.duplicates))
 
     if client is None:
         raise ValueError("A Telegram client is required unless dry_run is True")
-    outcome = _post_all(client, chat_id, stories, state, state_path, now, config, sleep)
-    state, digest_sent, digest_error = outcome.state, False, None
+    run = _Run(config, session, client, english, arabic, translator, state_path, now, sleep)
+    outcome = _post_all(run, stories, state)
+    scheduled = ScheduledOutcome(state=outcome.state)
     if outcome.fatal_error is None:
-        state, digest_sent, digest_error = _send_digest_if_due(
-            client, chat_id, state, config, now, force_digest, out
+        scheduled = send_scheduled(
+            client, english, arabic, outcome.state, config, now, force_digest, force_weekly, out
         )
-    save_state(state_path, state)
+    save_state(state_path, scheduled.state)
     return replace(
         base,
         posted=outcome.posted,
         unconfirmed=outcome.unconfirmed,
         duplicates=len(selection.duplicates),
         failed_posts=outcome.failed,
-        digest_sent=digest_sent,
-        fatal_error=outcome.fatal_error or digest_error,
+        arabic_posted=outcome.arabic_posted,
+        digest_sent=scheduled.digest_sent,
+        weekly_sent=scheduled.weekly_sent,
+        fatal_error=outcome.fatal_error or scheduled.fatal_error or outcome.arabic_error,
     )
+
+
+def _arabic_target(config: Config, chat_id: str | None, translator: DeepLTranslator | None) -> Target | None:
+    if config.arabic.enabled and chat_id and translator is not None:
+        return Target(chat_id, arabic_edition(config, chat_id))
+    return None
 
 
 def _log_selection(selection: Selection) -> None:
     log.info(
         "%d chosen for this run, %d strong stories waiting, %d weak stories skipped for now, "
-        "%d filler skipped, %d repeats skipped",
+        "%d filler skipped, %d blocked (18+ and other unwanted subjects), %d repeats skipped",
         len(selection.to_post),
         selection.waiting,
         selection.weak,
         selection.filler,
+        selection.blocked,
         len(selection.duplicates),
     )
 
@@ -166,49 +213,104 @@ def _seed(state: BotState, articles: Iterable[Article], now: datetime, settings:
     return state
 
 
-def _post_all(
-    client: TelegramClient,
-    chat_id: str,
-    stories: list[Story],
-    state: BotState,
-    state_path: str | Path,
-    now: datetime,
-    config: Config,
-    sleep: Callable[[float], None],
-) -> _PostOutcome:
-    settings = config.settings
-    posted = unconfirmed = failed = 0
+def _post_all(run: _Run, stories: list[Story], state: BotState) -> _PostOutcome:
+    counts = {"posted": 0, "unconfirmed": 0, "failed": 0, "arabic": 0}
+    arabic, arabic_problem = run.arabic, None
     for index, story in enumerate(stories):
         if index:
-            sleep(settings.post_delay_seconds)
-        lead = story.lead
-        caption = build_caption(story, config.style, settings.top_story_min_sources)
-        try:
-            kind = post_article(client, chat_id, lead, caption)
-            log.info(
-                "Posted (%s) [%s] score %d, %d site(s): %s",
-                kind,
-                lead.topic,
-                story.score,
-                story.sources,
-                lead.title,
+            run.sleep(run.config.settings.post_delay_seconds)
+        photo = (
+            download_photo(run.session, story.lead.image_url, run.config.settings.request_timeout_seconds)
+            if run.config.style.banner
+            else None
+        )
+        tags = story_tags(story, run.config)
+        state, result, fatal = _post_english(run, story, photo, tags, state)
+        if fatal:
+            return _PostOutcome(
+                state, counts["posted"], counts["unconfirmed"], counts["failed"], counts["arabic"], fatal
             )
-            state, posted = _remember_story(state, story, POSTED, now), posted + 1
-        except FatalTelegramError as exc:
-            return _PostOutcome(state, posted, unconfirmed, failed, fatal_error=str(exc))
-        except UncertainDeliveryError as exc:
-            log.warning("%s. It may already be in the channel, so it will not be sent again.", exc)
-            state, unconfirmed = _remember_story(state, story, POSTED, now), unconfirmed + 1
-        except TelegramError as exc:
-            failed += 1
-            if exc.retryable:
-                log.warning("Could not post %s: %s (will try again next run)", lead.url, exc)
-                continue
-            log.warning("Telegram rejected %s: %s (will not try again)", lead.url, exc)
-            # Only the lead is given up on; another site's version of the story can still be posted.
-            state = _remember(state, lead, FAILED, now)
-        save_state(state_path, state)  # after every post, so a crash cannot cause a repeat
-    return _PostOutcome(state, posted, unconfirmed, failed)
+        counts[result] += 1
+        save_state(run.state_path, state)  # after every post, so a crash cannot cause a repeat
+        if result in ("posted", "unconfirmed") and arabic is not None:
+            state, sent, stop = _post_arabic(run, arabic, story, photo, tags, state)
+            counts["arabic"] += sent
+            if stop:
+                arabic, arabic_problem = None, stop if stop.startswith("Arabic channel") else arabic_problem
+            save_state(run.state_path, state)
+    return _PostOutcome(
+        state,
+        counts["posted"],
+        counts["unconfirmed"],
+        counts["failed"],
+        counts["arabic"],
+        arabic_error=arabic_problem,
+    )
+
+
+def _post_english(
+    run: _Run, story: Story, photo: bytes | None, tags: list[str], state: BotState
+) -> tuple[BotState, str, str | None]:
+    """Returns the new state, what happened ("posted", "unconfirmed" or "failed"), and a setup error."""
+    lead = story.lead
+    try:
+        kind = send_story(
+            run.client, run.english, story, render_post(story, run.english.edition, run.config, photo, tags)
+        )
+    except FatalTelegramError as exc:
+        return state, "failed", str(exc)
+    except UncertainDeliveryError as exc:
+        log.warning("%s. It may already be in the channel, so it will not be sent again.", exc)
+        return _remember_story(state, story, POSTED, run.now), "unconfirmed", None
+    except TelegramError as exc:
+        if exc.retryable:
+            log.warning("Could not post %s: %s (will try again next run)", lead.url, exc)
+            return state, "failed", None
+        log.warning("Telegram rejected %s: %s (will not try again)", lead.url, exc)
+        # Only the lead is given up on; another site's version of the story can still be posted.
+        return _remember(state, lead, FAILED, run.now), "failed", None
+    log.info(
+        "Posted (%s) [%s] score %d, %d site(s): %s", kind, lead.topic, story.score, story.sources, lead.title
+    )
+    return _remember_story(state, story, POSTED, run.now), "posted", None
+
+
+def _post_arabic(
+    run: _Run, target: Target, story: Story, photo: bytes | None, tags: list[str], state: BotState
+) -> tuple[BotState, int, str | None]:
+    """Best effort. Returns the new state, 1 if posted, and why Arabic must stop for this run (if so).
+
+    A stop message starting with "Arabic channel" is a setup problem that turns the run red.
+    """
+    if run.translator is None:  # only happens if the Arabic channel was set up without DeepL
+        return state, 0, None
+    try:
+        arabic_story = translate_story(run.translator, story, run.config)
+        send_story(
+            run.client,
+            target,
+            arabic_story,
+            render_post(arabic_story, target.edition, run.config, photo, tags),
+        )
+    except TranslationError as exc:
+        log.warning("Arabic version skipped: %s", exc)
+        if exc.bad_key:
+            return state, 0, f"Arabic channel: {exc}"
+        return state, 0, (str(exc) if exc.quota_reached else None)
+    except FatalTelegramError as exc:
+        return state, 0, f"Arabic channel: {exc}"
+    except UncertainDeliveryError as exc:
+        log.warning("Arabic: %s. It may already be in the channel.", exc)
+        return state, 0, None
+    except TelegramError as exc:
+        log.warning("Could not post the Arabic version of %s: %s", story.lead.url, exc)
+        return state, 0, None
+    except Exception:  # a surprise in the Arabic step must never undo or repeat the English post
+        log.exception("Arabic version of %s failed unexpectedly", story.lead.url)
+        return state, 0, None
+    record = state.records[story.lead.key]
+    log.info("Posted in Arabic: %s", arabic_story.lead.title)
+    return state.with_record(story.lead.key, replace(record, title_ar=arabic_story.lead.title)), 1, None
 
 
 def _remember_story(state: BotState, story: Story, status: str, now: datetime) -> BotState:
@@ -235,58 +337,34 @@ def _remember(
     return state.with_record(article.key, record)
 
 
-def _send_digest_if_due(
-    client: TelegramClient | None,
-    chat_id: str,
+def _show_dry_run(
+    stories: list[Story],
     state: BotState,
     config: Config,
+    english: Target,
+    arabic: Target | None,
     now: datetime,
-    force: bool,
+    forced: tuple[bool, bool],
+    banners_dir: Path | None,
+    session: requests.Session,
     out: Out,
-) -> tuple[BotState, bool, str | None]:
-    """Returns the new state, whether a digest was sent, and a fatal setup error if one happened.
-
-    With no client (dry run) the digest is only printed.
-    """
-    settings = config.digest
-    day = digest_day_if_due(state, settings, now, force)
-    if day is None:
-        return state, False, None
-    entries = digest_entries(state, config, settings, now)
-    needed = 1 if force else settings.min_stories
-    if len(entries) < needed:
-        log.info("Digest skipped for %s: only %d story(ies) posted in the last 24 hours", day, len(entries))
-        # A forced digest with nothing to list must not use up the scheduled evening digest.
-        keep_day_open = client is None or force
-        return (state if keep_day_open else state.with_digest_day(day)), False, None
-    text = build_digest(entries, settings.title, date_label(now, settings), config.style)
-    if client is None:
-        out(f"----- DIGEST for {day}\n{text}\n")
-        return state, False, None
-    try:
-        client.send_message(chat_id, text, preview_url=entries[0].url)
-    except FatalTelegramError as exc:
-        return state, False, str(exc)
-    except UncertainDeliveryError as exc:
-        log.warning("%s. The digest may already be in the channel, so it is not sent again today.", exc)
-        return state.with_digest_day(day), True, None
-    except TelegramError as exc:
-        if exc.retryable:
-            log.warning("Could not send the digest: %s (will try again next run)", exc)
-            return state, False, None
-        log.warning("Telegram rejected the digest: %s (no digest today)", exc)
-        return state.with_digest_day(day), False, None
-    log.info("Digest sent for %s with %d stories", day, len(entries))
-    return state.with_digest_day(day), True, None
-
-
-def _show_dry_run(
-    stories: list[Story], state: BotState, config: Config, now: datetime, force_digest: bool, out: Out
 ) -> None:
-    """Print the posts and the digest exactly as a real run would send them. Nothing is sent or saved."""
-    for story in stories:
-        out(_preview(story, config))
-    _send_digest_if_due(None, "", state, config, now, force_digest, out)
+    """Print the posts and scheduled posts exactly as a real run would send them. Nothing is sent or saved.
+
+    Arabic versions are not translated in a dry run, so previews never use DeepL's monthly allowance.
+    """
+    for number, story in enumerate(stories, start=1):
+        photo = download_photo(session, story.lead.image_url, config.settings.request_timeout_seconds)
+        post = render_post(
+            story, english.edition, config, photo if config.style.banner else None, story_tags(story, config)
+        )
+        out(_preview(story, post.caption))
+        if banners_dir is not None and post.banner:
+            banners_dir.mkdir(parents=True, exist_ok=True)
+            (banners_dir / f"banner_{number}.jpg").write_bytes(post.banner)
+        if arabic is not None:
+            out(f"(also translated into Arabic and posted to {arabic.chat_id})\n")
+    send_scheduled(None, english, arabic, state, config, now, forced[0], forced[1], out)
 
 
 def _with_image(session: requests.Session, story: Story, timeout: float) -> Story:
@@ -296,11 +374,11 @@ def _with_image(session: requests.Session, story: Story, timeout: float) -> Stor
     return replace(story, lead=replace(story.lead, image_url=image)) if image else story
 
 
-def _preview(story: Story, config: Config) -> str:
+def _preview(story: Story, caption: str) -> str:
     lead = story.lead
     when = lead.published.strftime("%Y-%m-%d %H:%M UTC")
     return (
         f"----- [{lead.topic}] {lead.source} | {when} | score {story.score}, {story.sources} site(s)\n"
-        f"image: {lead.image_url or '(none, will use link preview)'}\n"
-        f"{build_caption(story, config.style, config.settings.top_story_min_sources)}\n"
+        f"image: {lead.image_url or '(none, banner uses the brand background)'}\n"
+        f"{caption}\n"
     )

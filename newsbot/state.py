@@ -33,6 +33,7 @@ class PostedRecord:
     score: int = 0  # how strong the story was (see config.yaml, min_score)
     sources: int = 1  # how many sites reported it
     summary: str = ""  # first sentence; helps spot the same news reworded on a later day
+    title_ar: str = ""  # the Arabic title, when the story was also posted to the Arabic channel
 
 
 def _frozen(mapping: Mapping | None = None) -> Mapping:
@@ -44,6 +45,7 @@ class BotState:
     records: Mapping[str, PostedRecord] = field(default_factory=_frozen)
     topic_last_posted: Mapping[str, datetime] = field(default_factory=_frozen)
     digest_day: str = ""  # local date (YYYY-MM-DD) of the last evening digest
+    weekly_day: str = ""  # local date of the last weekly top 10
 
     @classmethod
     def empty(cls) -> "BotState":
@@ -63,6 +65,9 @@ class BotState:
 
     def with_digest_day(self, day: str) -> "BotState":
         return replace(self, digest_day=day)
+
+    def with_weekly_day(self, day: str) -> "BotState":
+        return replace(self, weekly_day=day)
 
     def pruned(self, now: datetime, retention_days: int) -> "BotState":
         cutoff = now - timedelta(days=retention_days)
@@ -90,11 +95,13 @@ def _to_dict(state: BotState) -> dict[str, Any]:
                 "score": r.score,
                 "sources": r.sources,
                 "summary": r.summary,
+                "title_ar": r.title_ar,
             }
             for key, r in sorted(state.records.items())
         },
         "topic_last_posted": {topic: at.isoformat() for topic, at in sorted(state.topic_last_posted.items())},
         "digest_day": state.digest_day,
+        "weekly_day": state.weekly_day,
     }
 
 
@@ -114,6 +121,7 @@ def _from_dict(data: Mapping[str, Any]) -> BotState:
             score=int(item.get("score", 0)),
             sources=int(item.get("sources", 1)),
             summary=str(item.get("summary", "")),
+            title_ar=str(item.get("title_ar", "")),
         )
         for key, item in data.get("posted", {}).items()
     }
@@ -122,6 +130,7 @@ def _from_dict(data: Mapping[str, Any]) -> BotState:
         records=_frozen(records),
         topic_last_posted=_frozen(topic_times),
         digest_day=str(data.get("digest_day", "")),
+        weekly_day=str(data.get("weekly_day", "")),
     )
 
 

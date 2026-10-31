@@ -2,8 +2,8 @@ name: News bot
 
 on:
   schedule:
-    # Every 30 minutes (UTC). GitHub can start scheduled runs a few minutes late when it is busy.
-    - cron: "7,37 * * * *"
+    # Every 15 minutes (UTC). GitHub can start scheduled runs a few minutes late when it is busy.
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
     inputs:
       dry_run:
@@ -12,6 +12,14 @@ on:
         default: false
       digest_now:
         description: "Send the daily top stories post now"
+        type: boolean
+        default: false
+      weekly_now:
+        description: "Send the weekly top 10 and its poll now"
+        type: boolean
+        default: false
+      setup_language_picker:
+        description: "Post and pin the 'choose your language' message in both channels (does nothing else)"
         type: boolean
         default: false
 
@@ -47,12 +55,22 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          # Optional: both must be set for the Arabic channel to run.
+          TELEGRAM_ARABIC_CHANNEL_ID: ${{ secrets.TELEGRAM_ARABIC_CHANNEL_ID }}
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
           DRY_RUN: ${{ inputs.dry_run }}
           DIGEST_NOW: ${{ inputs.digest_now }}
+          WEEKLY_NOW: ${{ inputs.weekly_now }}
+          SETUP_PICKER: ${{ inputs.setup_language_picker }}
         run: |
+          if [ "$SETUP_PICKER" = "true" ]; then
+            python -m newsbot --setup-language-picker
+            exit $?
+          fi
           args=()
           if [ "$DRY_RUN" = "true" ]; then args+=(--dry-run); fi
           if [ "$DIGEST_NOW" = "true" ]; then args+=(--digest-now); fi
+          if [ "$WEEKLY_NOW" = "true" ]; then args+=(--weekly-now); fi
           python -m newsbot "${args[@]}"
 
       # Runs even if posting failed halfway, so stories already sent are never sent again.

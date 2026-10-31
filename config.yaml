@@ -40,22 +40,81 @@ style:
   channel_signature: "@sav_news_channel"
   # Shown next to the topic for stories reported by several sites (see top_story_min_sources).
   top_story_label: "TOP STORY"
+  # The name on the banner next to the logo.
+  brand_name: "SAV NEWS"
+  # true: every post gets a branded banner (news photo, headline, logo). false: the plain news photo.
+  banner: true
+  # Extra hashtags for big names in the story (#Nintendo, #OpenAI). 0 turns them off.
+  name_hashtags: 2
+  # The two buttons under every post, and the word before the site's name.
+  read_button: "Read full story"
+  share_button: "Share"
+  source_label: "Source"
+
+# The Arabic twin channel. It gets every post translated by DeepL.
+# It only runs when the TELEGRAM_ARABIC_CHANNEL_ID and DEEPL_API_KEY secrets are set.
+arabic:
+  enabled: true
+  # Empty: uses the Arabic channel's @username.
+  channel_signature: ""
+  top_story_label: "خبر بارز"
+  read_button: "اقرأ الخبر كاملاً"
+  share_button: "مشاركة"
+  source_label: "المصدر"
+  digest_title: "🔥 أهم 5 أخبار اليوم"
+  weekly_title: "🏆 أهم 10 أخبار الأسبوع"
+  poll_question: "ما أهم خبر هذا الأسبوع؟"
 
 # One extra post each evening with the day's biggest stories.
 digest:
   enabled: true
   # Local time to send it (the first check after this hour sends it).
   local_hour: 21
-  # Your time zone as hours from UTC. Saudi Arabia is 3.
+  # Your time zone as hours from UTC. Saudi Arabia is 3. The weekly post uses it too.
   utc_offset_hours: 3
   # How many stories to list, and the fewest worth sending a digest for.
   size: 5
   min_stories: 3
   title: "🔥 Today's top 5"
 
+# One post each week with the week's biggest stories, followed by a poll.
+weekly:
+  enabled: true
+  weekday: friday
+  local_hour: 20
+  size: 10
+  min_stories: 3
+  title: "🏆 Top 10 of the week"
+  poll: true
+  poll_question: "Which was the biggest news this week?"
+  # How many of the week's top stories are offered as answers.
+  poll_options: 5
+
+# The pinned welcome post that lets new readers pick their language (see README, "Language picker").
+language_picker:
+  text: |-
+    Welcome to SAV NEWS: the biggest AI, games, anime and tech news, as it happens.
+    Choose your language below.
+
+    أهلاً بك في SAV NEWS: أهم أخبار الذكاء الاصطناعي والألعاب والأنمي والتقنية أولاً بأول.
+    اختر لغتك من الأسفل.
+  english_button: "English"
+  arabic_button: "العربية"
+
 # Rules for what counts as filler and what counts as real news.
 # Patterns are regular expressions and ignore upper/lower case.
 filters:
+  # 18+ and other unwanted subjects. A story is never posted when its title, summary or the site's
+  # tags match one of these. The filter reads text only; it cannot look inside photos.
+  blocked:
+    # sexual content and nudity
+    - '\b(sex|sexual\w*|sexy|porn\w*|nsfw|nudes?|nudity|naked(?! snake)|topless|nipples?|boobs?|genitals?|hentai|ecchi|futanari|erotic\w*|onlyfans|fetish\w*|kink\w*|bdsm|incest|orgy|orgies|milfs?|lewd|xxx|r-?18|rule ?34|adults?[- ]only|adult (games?|content|films?|videos?|visual novels?|sites?)|strip ?clubs?|strippers?|playboy|fakku|nutaku|brothels?|prostitut\w*|escort (service|agency|agencies|girls?)s?|lingerie|bikinis?(?! bottom))\b|(?<!\d)18\+'
+    # gambling and betting ("bet" alone is left out: "Apple's big bet on AI" is fine)
+    - '\b(gambl\w*|casinos?|betting|bookmakers?|sportsbooks?|wager\w*|slot machines?|lotter(y|ies)|poker|roulette|blackjack)\b'
+    # alcohol and drugs ("drugs" alone is left out: "AI speeds up drug discovery" is fine)
+    # ("Wine" alone is left out: it is also the Linux tool behind Proton gaming)
+    - '\b(alcohol\w*|beers?|wine (bars?|tastings?|bottles?|brands?|lists?)|red wine|white wine|whisk(e)?y|vodka|liquor|cocktails?|drunk\w*|brewer(y|ies)|cannabis|marijuana|cocaine|heroin|meth|methamphetamine|opioids?|narcotics?|psychedelics?|lsd|psilocybin|magic mushrooms|vap(e|es|ing)|cigarettes?|tobacco|nicotine|drug dealers?|recreational drugs?|illegal drugs?|overdos\w*)\b'
+
   # Feed categories that mark filler.
   skip_tags:
     - Features
@@ -117,7 +176,8 @@ filters:
     - '\bseason \d+\b|\b\d+(st|nd|rd|th) (season|part|cour)\b|\bnew season\b|\bgets (an? )?(tv )?anime\b|\banime adaptation\b|\b(film|movie)\b'
     - '\braises? \$|\bfunding\b|\b(billion|trillion)\b|\bstock (crash|plunge|soar)\w*|\bprice (hike|increase|cut)s?\b|\braises? prices?\b'
 
-# Each topic has a hashtag, an emoji shown at the top of its posts, big names, and RSS feeds.
+# Each topic has a hashtag, an emoji shown at the top of its posts, a card suit for its banner badge
+# (spade, heart, diamond or club, from the logo), its Arabic name and hashtag, big names, and RSS feeds.
 # The same site in two topics counts once when the bot counts how many sites report a story.
 # To add a source: add "- name: ..." and "url: ..." lines under "feeds".
 # To turn a source off: put "#" in front of its two lines.
@@ -125,6 +185,9 @@ topics:
   - name: AI
     hashtag: AI
     emoji: "🤖"
+    suit: spade
+    arabic_name: "الذكاء الاصطناعي"
+    arabic_hashtag: "ذكاء_اصطناعي"
     big_names: [OpenAI, ChatGPT, GPT, Anthropic, Claude, Google, Gemini, DeepMind, Meta, Llama, Microsoft, Copilot, Nvidia, Apple Intelligence, xAI, Grok, Mistral, DeepSeek, Sam Altman, Elon Musk]
     feeds:
       - name: The Verge
@@ -143,6 +206,9 @@ topics:
   - name: Games
     hashtag: Games
     emoji: "🎮"
+    suit: heart
+    arabic_name: "ألعاب"
+    arabic_hashtag: "ألعاب"
     big_names: [Nintendo, Switch 2, PlayStation, PS5, Sony, Xbox, Steam, Valve, GTA, Grand Theft Auto, Rockstar, Call of Duty, Activision, Blizzard, Ubisoft, EA, Bethesda, Elder Scrolls, Fallout, Zelda, Mario, Pokemon, Pokémon, Final Fantasy, Square Enix, Capcom, Resident Evil, Elden Ring, FromSoftware, Kojima, Minecraft, Fortnite, Epic Games, Halo, God of War, Witcher, CD Projekt, Cyberpunk, Silksong, Marvel, Doom, Pikmin]
     feeds:
       - name: IGN
@@ -174,6 +240,9 @@ topics:
   - name: Anime
     hashtag: Anime
     emoji: "🍥"
+    suit: diamond
+    arabic_name: "أنمي"
+    arabic_hashtag: "أنمي"
     # Fewer anime sources exist, so one strong word or one big name is enough here.
     min_score: 1
     big_names: [One Piece, Jujutsu Kaisen, Demon Slayer, Chainsaw Man, Attack on Titan, My Hero Academia, Dragon Ball, Naruto, Boruto, Bleach, Spy x Family, Frieren, Solo Leveling, Dandadan, Kaiju No. 8, Blue Lock, Oshi no Ko, Hunter x Hunter, Ghibli, Miyazaki, Shinkai, MAPPA, Toei, Crunchyroll, Netflix, Pokemon, Pokémon, Gundam, Evangelion, Re:Zero, Sakamoto Days, One-Punch Man, Haikyu, Sanrio]
@@ -192,6 +261,9 @@ topics:
   - name: Tech
     hashtag: Tech
     emoji: "📱"
+    suit: club
+    arabic_name: "تقنية"
+    arabic_hashtag: "تقنية"
     big_names: [Apple, iPhone, iPad, Mac, iOS, Samsung, Galaxy, Google, Pixel, Android, Microsoft, Windows, Nvidia, AMD, Intel, Qualcomm, Tesla, SpaceX, Meta, Amazon, OnePlus, Xiaomi, WhatsApp, YouTube, TikTok, Instagram, Starlink, OpenAI]
     feeds:
       - name: The Verge

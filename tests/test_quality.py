@@ -240,3 +240,13 @@ def test_a_bridging_headline_does_not_hide_an_unrelated_story(copies):
             assert matcher.related(story.lead.title, other.title), (story.lead.title, other.title)
     if copies == 5:  # the plain Monster Hunter title leads, so Okami must be split off
         assert any(s.lead == okami for s in stories)
+
+
+def test_blocked_reason_on_real_stories():
+    from newsbot.quality import blocked_reason
+
+    assert blocked_reason(
+        live_article("Cult PC-98 Zombie Gore Fest"), REPO.filters
+    )  # tagged as adult erotica
+    blocked = [a.title for a in live_articles() if blocked_reason(a, REPO.filters)]
+    assert len(blocked) == 1

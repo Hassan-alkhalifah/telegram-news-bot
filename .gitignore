@@ -15,3 +15,6 @@ htmlcov/
 
 # A broken state file the bot set aside (see newsbot/state.py)
 data/*.corrupt
+
+# Banner previews from --dry-run --banners-dir
+banners-preview/

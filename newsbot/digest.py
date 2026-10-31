@@ -1,13 +1,16 @@
-"""The evening digest: one post listing the day's strongest stories."""
+"""The evening digest and the weekly top 10: posts that list the strongest stories already posted."""
 
 import html
 from dataclasses import dataclass
 from datetime import datetime, timedelta
 
-from newsbot.models import Config, DigestSettings, PostStyle
+from newsbot.models import Config, DigestSettings, WeeklySettings
 from newsbot.state import POSTED, BotState, PostedRecord
+from newsbot.text import truncate
 
-_LOOKBACK = timedelta(hours=24)
+DAY = timedelta(hours=24)
+WEEK = timedelta(days=7)
+_POLL_OPTION_LIMIT = 100  # Telegram's limit per poll answer
 
 
 @dataclass(frozen=True)
@@ -19,15 +22,15 @@ class DigestEntry:
     sources: int
 
 
-def local_time(now: datetime, settings: DigestSettings) -> datetime:
-    return now + timedelta(hours=settings.utc_offset_hours)
+def local_time(now: datetime, utc_offset_hours: float) -> datetime:
+    return now + timedelta(hours=utc_offset_hours)
 
 
 def digest_day_if_due(
     state: BotState, settings: DigestSettings, now: datetime, force: bool = False
 ) -> str | None:
     """The local date to send a digest for, or None when it is not time yet or it was already sent."""
-    local = local_time(now, settings)
+    local = local_time(now, settings.utc_offset_hours)
     day = local.date().isoformat()
     if force:
         return day
@@ -36,23 +39,49 @@ def digest_day_if_due(
     return day
 
 
+def weekly_day_if_due(
+    state: BotState, settings: WeeklySettings, utc_offset_hours: float, now: datetime, force: bool = False
+) -> str | None:
+    """The local date of this week's top 10, or None when it is not the day and hour yet, or already sent."""
+    local = local_time(now, utc_offset_hours)
+    day = local.date().isoformat()
+    if force:
+        return day
+    if (
+        not settings.enabled
+        or local.weekday() != settings.weekday
+        or local.hour < settings.local_hour
+        or state.weekly_day == day
+    ):
+        return None
+    return day
+
+
 def digest_entries(
-    state: BotState, config: Config, settings: DigestSettings, now: datetime
+    state: BotState,
+    config: Config,
+    now: datetime,
+    lookback: timedelta = DAY,
+    size: int = 5,
+    arabic: bool = False,
 ) -> list[DigestEntry]:
-    """Stories posted in the 24 hours before this run, strongest first.
+    """Stories posted before this run within `lookback`, strongest first.
 
-    Posts from this run itself are left out, so the digest never repeats what went out a moment ago.
+    Posts from this run itself are left out, so a digest never repeats what went out a moment ago.
+    The Arabic list uses Arabic titles and skips stories that were not posted in Arabic.
     """
-    since = now - _LOOKBACK
+    since = now - lookback
     records = [r for r in state.records.values() if r.status == POSTED and r.url and since <= r.at < now]
+    if arabic:
+        records = [r for r in records if r.title_ar]
     records.sort(key=lambda r: (r.score, r.at), reverse=True)
-    return [_entry(r, config) for r in records[: settings.size]]
+    return [_entry(r, config, arabic) for r in records[:size]]
 
 
-def _entry(record: PostedRecord, config: Config) -> DigestEntry:
+def _entry(record: PostedRecord, config: Config, arabic: bool) -> DigestEntry:
     topic = config.topic(record.topic)
     return DigestEntry(
-        title=record.title,
+        title=record.title_ar if arabic else record.title,
         url=record.url,
         emoji=topic.emoji if topic else "",
         hashtag=topic.hashtag if topic else record.topic,
@@ -60,7 +89,7 @@ def _entry(record: PostedRecord, config: Config) -> DigestEntry:
     )
 
 
-def build_digest(entries: list[DigestEntry], title: str, date_label: str, style: PostStyle) -> str:
+def build_digest(entries: list[DigestEntry], title: str, date_label: str, signature: str) -> str:
     lines = [
         f"{n}. "
         + (f"{_escape(e.emoji)} " if e.emoji else "")
@@ -68,13 +97,25 @@ def build_digest(entries: list[DigestEntry], title: str, date_label: str, style:
         for n, e in enumerate(entries, start=1)
     ]
     text = f"<b>{_escape(title)}</b>\n{_escape(date_label)}\n\n" + "\n".join(lines)
-    if style.channel_signature:
-        text += f"\n\n{_escape(style.channel_signature)}"
+    if signature:
+        text += f"\n\n{_escape(signature)}"
     return text
 
 
-def date_label(now: datetime, settings: DigestSettings) -> str:
-    local = local_time(now, settings)
+def poll_options(entries: list[DigestEntry], count: int) -> list[str]:
+    """Poll answers from the top stories: short enough for Telegram and never repeated."""
+    options: list[str] = []
+    for entry in entries:
+        option = truncate(entry.title, _POLL_OPTION_LIMIT)
+        if option and option not in options:
+            options.append(option)
+        if len(options) == count:
+            break
+    return options
+
+
+def date_label(now: datetime, utc_offset_hours: float) -> str:
+    local = local_time(now, utc_offset_hours)
     return f"{local.day} {local:%b %Y}"
 
 

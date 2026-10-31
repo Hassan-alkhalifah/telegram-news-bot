@@ -6,7 +6,7 @@ from dataclasses import dataclass, replace
 from datetime import datetime, timedelta, timezone
 
 from newsbot.models import Article, Config, Story
-from newsbot.quality import StoryMatcher, filler_reason, group_stories, story_score
+from newsbot.quality import StoryMatcher, blocked_reason, filler_reason, group_stories, story_score
 from newsbot.state import BotState
 
 log = logging.getLogger(__name__)
@@ -24,6 +24,7 @@ class Selection:
     waiting: int = 0  # strong stories left for a later run because of max_posts_per_run
     weak: int = 0  # below min_score for now; they can grow stronger as more sites report them
     filler: int = 0  # lists, guides, deals, reviews and columns that were skipped
+    blocked: int = 0  # 18+ and other unwanted subjects that were skipped
 
 
 def select_stories(articles: Iterable[Article], state: BotState, config: Config, now: datetime) -> Selection:
@@ -31,7 +32,8 @@ def select_stories(articles: Iterable[Article], state: BotState, config: Config,
     articles = list(articles)
     cutoff = now - timedelta(hours=settings.max_age_hours)
     fresh = _unique_by_key(a for a in articles if a.published >= cutoff and not state.has(a.key))
-    news = [a for a in fresh if not _is_filler(a, config)]
+    allowed = [a for a in fresh if not _is_blocked(a, config)]
+    news = [a for a in allowed if not _is_filler(a, config)]
 
     known = _known_versions(
         state, articles, since=now - timedelta(hours=settings.max_age_hours + _REPEAT_EXTRA_HOURS)
@@ -51,7 +53,8 @@ def select_stories(articles: Iterable[Article], state: BotState, config: Config,
         duplicates=tuple(duplicates),
         waiting=len(distinct) - len(picked),
         weak=len(scored) - len(strong),
-        filler=len(fresh) - len(news),
+        filler=len(allowed) - len(news),
+        blocked=len(fresh) - len(allowed),
     )
 
 
@@ -72,6 +75,13 @@ def _unique_by_key(articles: Iterable[Article]) -> list[Article]:
             seen.add(article.key)
             unique.append(article)
     return unique
+
+
+def _is_blocked(article: Article, config: Config) -> bool:
+    reason = blocked_reason(article, config.filters)
+    if reason:
+        log.info("Blocked (%s): %s", reason, article.title)
+    return reason is not None
 
 
 def _is_filler(article: Article, config: Config) -> bool:

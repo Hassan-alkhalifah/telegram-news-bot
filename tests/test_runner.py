@@ -1,7 +1,6 @@
 import json
 from datetime import datetime, timedelta, timezone
 
-import requests
 import responses
 
 from newsbot.models import DigestSettings
@@ -9,7 +8,7 @@ from newsbot.runner import run_once
 from newsbot.state import BotState, PostedRecord, load_state, save_state
 from newsbot.telegram import TelegramClient
 from newsbot.web import make_session
-from tests.helpers import API, NOW, TOKEN, make_config, rss, rss_item, unique_title
+from tests.helpers import API, NOW, TOKEN, make_config, refused, rss, rss_item, unique_title
 
 THUMB = '<media:thumbnail url="https://cdn.example.com/{n}.jpg"/>'
 
@@ -164,7 +163,7 @@ def test_temporary_failure_is_retried_next_run(tmp_path):
     register_one_story(config)
     for method in ("sendPhoto", "sendMessage"):
         for _ in range(3):
-            responses.post(f"{API}/{method}", body=requests.ConnectionError("network is down"))
+            responses.post(f"{API}/{method}", body=refused())
     state_path = tmp_path / "posted.json"
 
     result = run(config, state_path)
@@ -389,7 +388,7 @@ def test_dry_run_previews_a_forced_digest_and_changes_nothing(tmp_path):
 def test_digest_that_fails_to_send_is_tried_again_next_run(tmp_path):
     config = make_config(digest=DIGEST)
     register_empty_feeds(config)
-    responses.post(f"{API}/sendMessage", body=requests.ConnectionError("network down"))
+    responses.post(f"{API}/sendMessage", body=refused())
     state_path = tmp_path / "posted.json"
     save_posted(state_path, "First story")
 

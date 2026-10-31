@@ -6,7 +6,7 @@ import responses
 
 from newsbot.telegram import FatalTelegramError, TelegramClient, TelegramError, UncertainDeliveryError
 from newsbot.web import make_session
-from tests.helpers import API, TOKEN
+from tests.helpers import API, TOKEN, refused, reset
 
 
 def make_client(sleeps=None):
@@ -181,7 +181,7 @@ def test_network_error_never_shows_the_token():
     for _ in range(3):
         responses.post(
             f"{API}/sendMessage",
-            body=requests.ConnectionError(f"Max retries exceeded with url: {API}/sendMessage"),
+            body=refused(f"{API}/sendMessage"),
         )
     sleeps = []
     with pytest.raises(TelegramError) as caught:
@@ -205,3 +205,67 @@ def test_setup_helper_methods():
     assert client.get_updates() == []
     assert sent_body(1) == {"chat_id": "@chan"}
     assert sent_body(2) == {"chat_id": "@chan", "user_id": 9}
+
+
+BUTTONS = {"inline_keyboard": [[{"text": "Read", "url": "https://e.com/1"}]]}
+
+
+@responses.activate
+def test_send_photo_uploads_a_banner_with_buttons():
+    responses.post(f"{API}/sendPhoto", json={"ok": True, "result": {"message_id": 7}})
+    result = make_client().send_photo("@chan", b"\xff\xd8jpegbytes", "<b>x</b>", buttons=BUTTONS)
+    assert result == {"message_id": 7}
+    body = responses.calls[0].request.body
+    assert b'filename="banner.jpg"' in body and b"jpegbytes" in body
+    assert b'name="reply_markup"' in body and json.dumps(BUTTONS).encode() in body
+    assert b'name="parse_mode"' in body and b"HTML" in body
+
+
+@responses.activate
+def test_send_photo_by_link_and_message_with_buttons():
+    responses.post(f"{API}/sendPhoto", json={"ok": True, "result": {}})
+    responses.post(f"{API}/sendMessage", json={"ok": True, "result": {}})
+    client = make_client()
+    client.send_photo("@chan", "https://cdn/p.jpg", "x", buttons=BUTTONS)
+    client.send_message("@chan", "x", preview_url="https://e.com/1", buttons=BUTTONS)
+    assert sent_body(0)["reply_markup"] == BUTTONS and sent_body(0)["photo"] == "https://cdn/p.jpg"
+    assert sent_body(1)["reply_markup"] == BUTTONS
+
+
+@responses.activate
+def test_send_poll_and_pin():
+    responses.post(f"{API}/sendPoll", json={"ok": True, "result": {"message_id": 3}})
+    responses.post(f"{API}/pinChatMessage", json={"ok": True, "result": True})
+    client = make_client()
+    client.send_poll("@chan", "Which?", ["A", "B"])
+    client.pin_chat_message("@chan", 3)
+    assert sent_body(0) == {
+        "chat_id": "@chan",
+        "question": "Which?",
+        "options": [{"text": "A"}, {"text": "B"}],
+    }
+    assert sent_body(1) == {"chat_id": "@chan", "message_id": 3, "disable_notification": True}
+
+
+@responses.activate
+def test_a_poll_is_never_sent_twice():
+    responses.post(f"{API}/sendPoll", body="Bad Gateway", status=502)
+    with pytest.raises(UncertainDeliveryError):
+        make_client().send_poll("@chan", "Which?", ["A", "B"])
+    assert len(responses.calls) == 1
+
+
+@responses.activate
+def test_connection_drop_during_an_upload_is_not_repeated():
+    responses.post(f"{API}/sendPhoto", body=reset())
+    with pytest.raises(UncertainDeliveryError):
+        make_client().send_photo("@chan", b"jpeg", "x")
+    assert len(responses.calls) == 1
+
+
+@responses.activate
+def test_connection_drop_on_a_safe_request_is_retried():
+    responses.post(f"{API}/getMe", body=reset())
+    responses.post(f"{API}/getMe", json={"ok": True, "result": {"id": 1}})
+    sleeps = []
+    assert make_client(sleeps).get_me() == {"id": 1}

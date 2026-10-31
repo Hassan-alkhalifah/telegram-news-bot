@@ -5,7 +5,7 @@ from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime
 from pathlib import Path
 
-from newsbot.models import Article, Config, FeedSource, Settings, Story, Topic
+from newsbot.models import Article, Config, FeedSource, PostStyle, Settings, Story, Topic
 from newsbot.text import url_key
 
 NOW = datetime(2026, 10, 31, 12, 0, tzinfo=timezone.utc)
@@ -41,7 +41,15 @@ def make_story(lead: Article, *others: Article, score: int = 0) -> Story:
 
 
 def make_config(
-    topics=("AI", "Games"), *, filters=None, style=None, digest=None, topic_extra=None, **settings
+    topics=("AI", "Games"),
+    *,
+    filters=None,
+    style=None,
+    digest=None,
+    arabic=None,
+    weekly=None,
+    topic_extra=None,
+    **settings,
 ):
     """A small config. min_score defaults to 0 so tests about other things are not filtered out."""
     topic_extra = topic_extra or {}
@@ -54,7 +62,16 @@ def make_config(
         )
         for name in topics
     )
-    extra = {k: v for k, v in (("filters", filters), ("style", style), ("digest", digest)) if v is not None}
+    # Banners are off unless a test asks for them: other tests check the plain photo link.
+    style = style if style is not None else PostStyle(banner=False)
+    pairs = (
+        ("filters", filters),
+        ("style", style),
+        ("digest", digest),
+        ("arabic", arabic),
+        ("weekly", weekly),
+    )
+    extra = {k: v for k, v in pairs if v is not None}
     return Config(
         settings=Settings(**{"post_delay_seconds": 0, "min_score": 0, **settings}), topics=built, **extra
     )
@@ -114,3 +131,21 @@ def rss(*items: str) -> bytes:
         + "".join(items)
         + "</channel></rss>"
     ).encode("utf-8")
+
+
+def refused(url: str = "https://example.com") -> Exception:
+    """A connection error where nothing reached the server (safe to retry)."""
+    import requests
+    from urllib3.exceptions import MaxRetryError, NewConnectionError
+
+    return requests.ConnectionError(MaxRetryError(None, url, NewConnectionError(None, "Connection refused")))
+
+
+def reset() -> Exception:
+    """A connection that broke after the request was sent (the server may have acted on it)."""
+    import requests
+    from urllib3.exceptions import ProtocolError
+
+    return requests.ConnectionError(
+        ProtocolError("Connection aborted.", ConnectionResetError("reset by peer"))
+    )

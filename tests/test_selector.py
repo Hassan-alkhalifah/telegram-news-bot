@@ -225,3 +225,18 @@ def test_only_recent_posts_count_as_repeats():
 
     assert after_old.duplicates == () and len(after_old.to_post) == 1
     assert after_recent.duplicates == (article,)
+
+
+def test_blocked_stories_are_never_posted():
+    filters = Filters(blocked=(re.compile(r"\bcasinos?\b", re.I),))
+    bad = make_article(url="https://e.com/bad", title="New online casino launches in Europe")
+    tagged = make_article(url="https://e.com/tag", title=unique_title("tagged"), tags=("Casino",))
+    in_summary = make_article(
+        url="https://e.com/sum", title=unique_title("sum"), summary="Visit the casino today."
+    )
+    good = make_article(url="https://e.com/good", title=unique_title("good"))
+    selection = select_stories(
+        [bad, tagged, in_summary, good], BotState.empty(), make_config(filters=filters), NOW
+    )
+    assert leads(selection) == (good,)
+    assert selection.blocked == 3

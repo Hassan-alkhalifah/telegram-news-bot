@@ -1,11 +1,13 @@
 """Small Telegram Bot API client with retries, flood-control waits and clear setup errors."""
 
+import json
 import logging
 import time
 from collections.abc import Callable
 from typing import Any
 
 import requests
+from urllib3.exceptions import NewConnectionError
 
 log = logging.getLogger(__name__)
 
@@ -13,7 +15,7 @@ API_BASE = "https://api.telegram.org"
 MAX_FLOOD_WAIT = 60  # seconds; Telegram's retry_after can be longer than a run should block
 DEFAULT_FLOOD_WAIT = 5
 # Methods that publish something. Repeating one after Telegram may have done it could post twice.
-_POSTING_METHODS = frozenset({"sendPhoto", "sendMessage"})
+_POSTING_METHODS = frozenset({"sendPhoto", "sendMessage", "sendPoll"})
 
 
 class TelegramError(Exception):
@@ -51,14 +53,31 @@ class TelegramClient:
         self._sleep = sleep
         self._max_attempts = max_attempts
 
-    def send_photo(self, chat_id: str, photo_url: str, caption: str) -> Any:
-        payload = {"chat_id": chat_id, "photo": photo_url, "caption": caption, "parse_mode": "HTML"}
-        return self._call("sendPhoto", payload)
+    def send_photo(self, chat_id: str, photo: str | bytes, caption: str, buttons: dict | None = None) -> Any:
+        """`photo` is a link Telegram downloads itself, or the bytes of an image to upload (a banner)."""
+        payload: dict[str, Any] = {"chat_id": chat_id, "caption": caption, "parse_mode": "HTML"}
+        if buttons:
+            payload["reply_markup"] = buttons
+        if isinstance(photo, bytes):
+            return self._call("sendPhoto", payload, files={"photo": ("banner.jpg", photo, "image/jpeg")})
+        return self._call("sendPhoto", {**payload, "photo": photo})
 
-    def send_message(self, chat_id: str, text: str, preview_url: str | None = None) -> Any:
+    def send_message(
+        self, chat_id: str, text: str, preview_url: str | None = None, buttons: dict | None = None
+    ) -> Any:
         preview = {"url": preview_url, "prefer_large_media": True} if preview_url else {"is_disabled": True}
         payload = {"chat_id": chat_id, "text": text, "parse_mode": "HTML", "link_preview_options": preview}
+        if buttons:
+            payload["reply_markup"] = buttons
         return self._call("sendMessage", payload)
+
+    def send_poll(self, chat_id: str, question: str, options: list[str]) -> Any:
+        payload = {"chat_id": chat_id, "question": question, "options": [{"text": o} for o in options]}
+        return self._call("sendPoll", payload)
+
+    def pin_chat_message(self, chat_id: str, message_id: int) -> Any:
+        payload = {"chat_id": chat_id, "message_id": message_id, "disable_notification": True}
+        return self._call("pinChatMessage", payload)
 
     def get_me(self) -> Any:
         return self._call("getMe")
@@ -72,13 +91,13 @@ class TelegramClient:
     def get_updates(self) -> Any:
         return self._call("getUpdates")
 
-    def _call(self, method: str, payload: dict[str, Any] | None = None) -> Any:
+    def _call(self, method: str, payload: dict[str, Any] | None = None, files: dict | None = None) -> Any:
         url = f"{API_BASE}/bot{self._token}/{method}"
         posting = method in _POSTING_METHODS
         for attempt in range(1, self._max_attempts + 1):
             last_try = attempt == self._max_attempts
             try:
-                response = self._session.post(url, json=payload or {}, timeout=self._timeout)
+                response = self._send(url, payload or {}, files)
             except requests.RequestException as exc:
                 # "from None" below: the original exception text contains the token.
                 reason = self._redact(str(exc))
@@ -114,6 +133,13 @@ class TelegramClient:
             raise _classify(method, code, description)
         raise TelegramError(f"{method}: gave up after {self._max_attempts} attempts")  # pragma: no cover
 
+    def _send(self, url: str, payload: dict[str, Any], files: dict | None) -> requests.Response:
+        if not files:
+            return self._session.post(url, json=payload, timeout=self._timeout)
+        # A file upload is multipart form data: every field is text, so objects go in as JSON text.
+        form = {k: v if isinstance(v, str) else json.dumps(v) for k, v in payload.items()}
+        return self._session.post(url, data=form, files=files, timeout=self._timeout)
+
     def _redact(self, text: str) -> str:
         return text.replace(self._token, "<token>")
 
@@ -121,15 +147,16 @@ class TelegramClient:
 def _may_have_arrived(exc: requests.RequestException) -> bool:
     """Whether a failed post might still have been published.
 
-    Connection errors count as "never arrived": nearly always the connection could not be made, and
-    treating them as published would drop a story whenever the network blips. Read timeouts and broken
-    answers count as "may have arrived", because Telegram may have posted and only the reply was lost.
+    Only a connection that never opened (refused, name lookup failed, connect timeout) is safe to
+    send again. A read timeout or a connection that broke mid-upload may have reached Telegram.
     """
     if isinstance(exc, requests.ConnectTimeout):
         return False
-    if isinstance(exc, requests.Timeout):
-        return True
-    return not isinstance(exc, requests.ConnectionError)
+    if isinstance(exc, requests.ConnectionError):
+        reason = exc.args[0] if exc.args else None
+        inner = getattr(reason, "reason", reason)  # requests wraps urllib3's MaxRetryError(reason=...)
+        return not isinstance(inner, NewConnectionError)
+    return True
 
 
 def _json_or_empty(response: requests.Response) -> dict[str, Any]:

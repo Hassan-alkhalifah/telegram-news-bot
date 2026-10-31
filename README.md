@@ -1,16 +1,19 @@
 # Telegram News Bot
 
-Posts the latest **AI, Games, Anime and Tech** news to one Telegram channel.
+Posts the latest **AI, Games, Anime and Tech** news to Telegram, in English and (optionally) Arabic.
 
-- Checks 28 news sites (RSS feeds) every 30 minutes.
-- Posts only **strong news**: it skips filler (top-10 lists, how-tos, reviews, deals, opinion columns) and prefers stories that several sites report at the same time.
-- Each post has the article image, a topic line with an emoji (`🎮 GAMES`), a **TOP STORY** label when 3 or more sites report it, the title in bold, a short summary, the source with a "Read more" link, a hashtag and your channel name.
-- At most 3 posts per check, strongest first. A quiet half hour posts nothing rather than something weak.
+- Checks 28 news sites (RSS feeds) every 15 minutes.
+- Posts only **strong news**. It skips filler (top-10 lists, how-tos, reviews, deals, opinion columns) and prefers stories that several sites report at the same time.
+- Never posts **18+ and other unwanted subjects**: sexual content, gambling, alcohol and drugs (list in `config.yaml`).
+- Every post gets a **branded banner**: the news photo, the headline in big letters, your logo, a topic badge with a card suit (♠ AI, ♥ Games, ♦ Anime, ♣ Tech), and your channel name.
+- Under the banner: the topic, a **TOP STORY** label when 3 or more sites report it, the headline, a short summary, the source, hashtags (`#Games #Nintendo`) and two buttons: **Read full story** and **Share**.
+- At most 3 posts per check, strongest first. A quiet check posts nothing rather than something weak.
 - Never posts the same news twice, even when another site words it differently.
-- Every evening at 21:00 (Saudi time) it posts the day's top 5 stories.
+- Every evening at 21:00 (Saudi time): the day's **top 5**. Every Friday at 20:00: the **top 10 of the week** and a **poll**.
+- **Arabic twin channel** (optional): every post is translated with DeepL (free plan) and posted with an Arabic banner. A pinned welcome post lets new readers choose English or Arabic.
 - Runs free on GitHub Actions. Your PC can be off.
 
-The setup takes about 15 minutes. Follow the steps in order.
+The basic setup takes about 15 minutes. Follow the steps in order. Step 6 (Arabic) is optional.
 
 ---
 
@@ -32,7 +35,7 @@ The setup takes about 15 minutes. Follow the steps in order.
 
 1. Open the channel, tap its name, then **Administrators** (or **Manage Channel > Administrators**).
 2. **Add Admin**, search for your bot's username, and select it.
-3. Make sure **Post Messages** is turned on. Save.
+3. Turn on **Post Messages** and **Edit Messages** (Edit is needed to pin the language picker). Save.
 
 ## Step 4: Test it on your PC (recommended)
 
@@ -45,31 +48,31 @@ Copy-Item .env.example .env
 notepad .env
 ```
 
-In Notepad, fill in the two values and save:
+In Notepad, fill in the values and save:
 
 ```
 TELEGRAM_BOT_TOKEN=123456789:AAH...your token...
 TELEGRAM_CHANNEL_ID=@my_news_channel
 ```
 
-Now run these three commands, one at a time:
+Now run these commands, one at a time:
 
 ```powershell
 # 1. Checks the token, the channel, and that the bot can post. Sends nothing.
 .venv\Scripts\python -m newsbot --check
 
-# 2. Shows the posts it would send right now. Sends nothing, saves nothing.
-.venv\Scripts\python -m newsbot --dry-run
+# 2. Shows the posts it would send right now and saves their banners in a folder. Sends nothing.
+.venv\Scripts\python -m newsbot --dry-run --banners-dir banners-preview
 
-# 3. Posts for real (up to 4 posts) and remembers them in data\posted.json.
+# 3. Posts for real (up to 3 posts) and remembers them in data\posted.json.
 .venv\Scripts\python -m newsbot
 ```
 
 If `--check` says "All good", the Telegram side is ready.
 
-## Step 5: Put it on GitHub so it runs every 30 minutes
+## Step 5: Put it on GitHub so it runs by itself
 
-**Public or private repository?** Use **public**. GitHub Actions is free for public repositories. The token is stored in GitHub Secrets, which nobody else can see, even in a public repository. A private repository also works, but the runs (about 1,440 a month) use up most of your free monthly Actions allowance.
+**Public or private repository?** Use **public**. GitHub Actions is free for public repositories. The token is stored in GitHub Secrets, which nobody else can see, even in a public repository.
 
 With the GitHub CLI (`gh`), run this in PowerShell in this folder:
 
@@ -82,13 +85,27 @@ gh secret set TELEGRAM_BOT_TOKEN
 gh secret set TELEGRAM_CHANNEL_ID
 ```
 
-Each `gh secret set` asks you to paste the value.
+Each `gh secret set` asks you to paste the value. Without the CLI: create an empty repository on github.com, push this folder, then add the secrets in **Settings > Secrets and variables > Actions > New repository secret**.
 
-Without the CLI: create an empty repository on github.com, push this folder to it, then open **Settings > Secrets and variables > Actions > New repository secret** and add `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHANNEL_ID`.
-
-**Start it:** open the repository's **Actions** tab, select **News bot**, then **Run workflow**. The first run posts right away. After that it runs by itself every 30 minutes. Scheduled runs can start a few minutes late when GitHub is busy.
+**Start it:** open the repository's **Actions** tab, select **News bot**, then **Run workflow**. After that it runs by itself every 15 minutes. GitHub can start scheduled runs late, and a new repository can take a few hours before its first scheduled run.
 
 `.env` is in `.gitignore`, so your token is never uploaded.
+
+## Step 6 (optional): Arabic channel and language picker
+
+1. **Create the Arabic channel** (Step 2), public, for example `t.me/my_news_ar`. Add the bot as an admin with **Post Messages** and **Edit Messages** (Step 3).
+2. **Get a free DeepL key:** on deepl.com, sign up for the **DeepL API Free** plan (the API plan, not the translator app), then copy your key from your DeepL account (it ends in `:fx`). The free plan allows 500,000 characters a month; this bot uses roughly 300,000.
+3. **Add two secrets** on GitHub (and the same lines in `.env` to test on your PC):
+
+   ```powershell
+   gh secret set TELEGRAM_ARABIC_CHANNEL_ID   # for example @my_news_ar
+   gh secret set DEEPL_API_KEY
+   ```
+
+4. **Check it:** `.venv\Scripts\python -m newsbot --check` now also checks the Arabic channel and the DeepL key.
+5. **Pin the language picker:** Actions tab > News bot > Run workflow > tick **Post and pin the 'choose your language' message**. It posts a welcome banner with **English** and **العربية** buttons in both channels and pins it, so it is the first thing new readers see.
+
+From then on, every story goes to both channels. If DeepL's monthly allowance runs out, the Arabic channel pauses until the next month and the English channel goes on as normal.
 
 ---
 
@@ -97,38 +114,46 @@ Without the CLI: create an empty repository on github.com, push this folder to i
 Everything is in `config.yaml`, with a comment on every line:
 
 - **Sources:** add, remove or turn off feeds under each topic. Extra sources are already listed with `#` in front of them; remove the `#` to turn one on.
-- **How many posts:** `max_posts_per_run` (posts per check; there are 2 checks per hour).
+- **How many posts:** `max_posts_per_run` (posts per check; there are 4 checks per hour).
 - **How strong a story must be:** `min_score`. A story gets 2 points for every extra site that reports it, 1 point for a strong word in its title (announced, delayed, trailer, season 2, ...) and 1 point for a big name of its topic (Nintendo, OpenAI, One Piece, ...). Lower it for more posts, raise it for fewer. Anime has its own lower `min_score`, because fewer anime sites exist.
-- **Big names:** `big_names` under each topic.
-- **What counts as filler:** `filters` (feed categories, link parts, and title patterns). **Strong words:** `filters` > `strong_words`.
-- **The look:** `style` (your channel name at the bottom of posts, the TOP STORY label) and `emoji` under each topic.
+- **18+ and unwanted subjects:** `filters` > `blocked`. **Filler:** the other `filters`.
+- **The look:** `style` (banner on/off, brand name, channel name, button labels, how many name hashtags) and, under each topic, `emoji`, `suit`, `arabic_name` and `arabic_hashtag`.
+- **Arabic labels and titles:** `arabic`.
 - **Evening top 5:** `digest` (on/off, hour, your time zone, how many stories, title).
-- **How old a story can be:** `max_age_hours`.
-- **Summary length:** `summary_max_chars`.
-- **New topic:** copy a topic block, change `name`, `hashtag`, `emoji`, `big_names` and `feeds`.
+- **Weekly top 10 and poll:** `weekly` (day, hour, how many stories, poll question and answers).
+- **The language picker text:** `language_picker`.
+- **New topic:** copy a topic block, then change its name, hashtag, emoji, suit, Arabic name and hashtag, big names and feeds.
 
-To see what a change does without posting, run `.venv\Scripts\python -m newsbot --dry-run -v`. The `-v` adds a line for every filler story it skipped and why.
+To see what a change does without posting, run `.venv\Scripts\python -m newsbot --dry-run -v --banners-dir banners-preview`. The `-v` adds a line for every filler story it skipped and why; the banners land in the `banners-preview` folder. Then commit and push the change.
 
-**Send the top 5 now:** Actions tab > News bot > Run workflow > tick **Send the daily top stories post now**. On your PC: `.venv\Scripts\python -m newsbot --digest-now` (add `--dry-run` to only see it).
+**Send something now** (Actions tab > News bot > Run workflow, or on your PC):
 
-Run `.venv\Scripts\python -m newsbot --dry-run` after a change to see the result. Then commit and push the change.
+| Tick in "Run workflow" | On your PC |
+|---|---|
+| Send the daily top stories post now | `.venv\Scripts\python -m newsbot --digest-now` |
+| Send the weekly top 10 and its poll now | `.venv\Scripts\python -m newsbot --weekly-now` |
+| Post and pin the 'choose your language' message | `.venv\Scripts\python -m newsbot --setup-language-picker` |
 
-**How often it checks** is set in `.github/workflows/news-bot.yml` (`cron: "7,37 * * * *"` means minutes 7 and 37 of every hour, UTC).
+Add `--dry-run` on your PC to only see the result.
+
+**How often it checks** is set in `.github/workflows/news-bot.yml` (`cron: "7,22,37,52 * * * *"` means minutes 7, 22, 37 and 52 of every hour, UTC).
 
 **Pause the bot:** Actions tab > News bot > the `...` menu > **Disable workflow**. Enable it the same way.
 
 ## How it works
 
 1. Downloads every feed in `config.yaml`. A broken feed is logged and skipped; the others still post.
-2. Keeps stories newer than `max_age_hours` that are not in `data/posted.json`, and drops filler.
-3. Drops a story that is the same news as something already posted, even when the words differ (it compares titles and first sentences, and counts rare words like a game's name more than common words).
+2. Keeps stories newer than `max_age_hours` that are not in `data/posted.json`, and drops 18+ stories and filler.
+3. Drops a story that is the same news as something posted in the last 36 hours, even when the words differ (it compares titles and first sentences, and counts rare words like a game's name more than common words).
 4. Groups the same story from different sites together and scores it (see `min_score` above). Stories below the bar wait: if more sites report them later, they can still make it.
 5. Picks up to `max_posts_per_run` stories: the topic with the strongest story first, then topics take turns.
-6. Posts each story as a photo with a caption. If a feed has no image, it uses the image from the article page. If Telegram rejects the image, it sends a text post with a link preview instead.
+6. Draws the banner and posts it with the caption and buttons. If Telegram refuses the banner, it tries the plain news photo, then a text post with a link preview.
    - If Telegram rejects a story completely, the bot remembers that and does not try it again.
    - If the network fails, the story is tried again in the next run.
    - If Telegram gives no clear answer (a timeout or a server error after sending), the bot counts the story as posted, so it can never appear twice.
-7. Saves `data/posted.json` after every post. On GitHub, the workflow commits that file back to the repository, so the bot remembers between runs. You will see commits named "chore: update posted news list"; that is normal. Run `git pull` before you push your own changes.
+7. If the Arabic channel is set up, translates the headline and summary with DeepL and posts the Arabic version.
+8. Sends the evening top 5 and the weekly top 10 when they are due. They list stories posted before the current run, so nothing is repeated a moment after it went out.
+9. Saves `data/posted.json` after every post. On GitHub, the workflow commits that file back, so the bot remembers between runs. You will see commits named "chore: update posted news list"; that is normal. Run `git pull` before you push your own changes.
 
 ## Private channel
 
@@ -139,13 +164,19 @@ A private channel has no `@username`, so the bot needs its number:
 3. Run `.venv\Scripts\python -m newsbot --find-chat-id` (with only `TELEGRAM_BOT_TOKEN` filled in `.env`).
 4. Copy the number it shows (it starts with `-100`) into `TELEGRAM_CHANNEL_ID`.
 
+The language picker needs both channels to be public, because its buttons link to their `t.me` addresses.
+
 ## Troubleshooting
 
 | What you see | What to do |
 |---|---|
 | `bot token was rejected (401)` | The token is wrong or was revoked. In @BotFather send `/mybots`, pick your bot, open **API Token**, and update `.env` or the GitHub secret. |
-| `chat not found` | `TELEGRAM_CHANNEL_ID` is wrong, or the bot is not in the channel. Public channel: use `@username`. Private: use `--find-chat-id`. |
+| `chat not found` | The channel id is wrong, or the bot is not in the channel. Public channel: use `@username`. Private: use `--find-chat-id`. |
 | `not an admin` / `need administrator rights` | Make the bot an admin with **Post Messages** turned on (Step 3). |
+| `Arabic channel: ...` (the run is red) | The Arabic channel or the DeepL key has a setup problem; the English channel still posted. Run `--check` on your PC to see which one. |
+| `Arabic channel is off` | Only one of `TELEGRAM_ARABIC_CHANNEL_ID` and `DEEPL_API_KEY` is set. Set both. |
+| `DeepL's monthly character limit is used up` | The Arabic channel pauses until next month. English goes on. |
+| Language picker posted but not pinned | Give the bot **Edit Messages** in that channel (Step 3) and run it again, or pin the post by hand. |
 | `Feed failed: Games/IGN (HTTP 403)` | That site blocked the bot for now. The other feeds still post. If it keeps happening, turn that feed off in `config.yaml`. |
 | `All news feeds failed` | Internet problem, or the sites are all blocking. Check again later. |
 | `Nothing could be posted this run` (the run is red) | Every post this run was refused. Read the `WARNING` lines just above it in the log. |
@@ -153,7 +184,7 @@ A private channel has no `@username`, so the bot needs its number:
 | `The posted-stories file could not be read` | Nothing to do. The bot set the broken file aside and re-learned the current stories without posting them; the next run is normal. |
 | No posts, `0 chosen for this run` | Nothing new since the last check. Normal. |
 | The channel feels too quiet | Lower `min_score` in `config.yaml` (for example to 1), or raise `max_posts_per_run`. The log line `... weak stories skipped for now` shows how many stories missed the bar. |
-| No top 5 post in the evening | It needs at least `min_stories` posts from the last 24 hours. The log says `Digest skipped` with the reason. |
+| No top 5 or top 10 post | It needs at least `min_stories` posts from the period. The log says `Digest skipped` or `Weekly skipped` with the reason. |
 | The Actions schedule stopped | Actions tab > News bot > **Enable workflow**. |
 
 Every run's log is in the **Actions** tab: open a run, then the **post-news** job.
@@ -171,16 +202,23 @@ Code layout (`newsbot/`):
 
 | File | Job |
 |---|---|
-| `cli.py` | Command line: normal run, `--dry-run`, `--check`, `--find-chat-id` |
+| `cli.py` | Command line: normal run and all the options above |
 | `runner.py` | One run from start to end |
 | `feeds.py` | Download and read RSS/Atom feeds |
 | `images.py` | Find an image in the feed or on the article page |
-| `selector.py` | Pick which stories to post (fresh, not filler, not a repeat, strong enough, strongest first) |
-| `quality.py` | Filler rules, finding the same story on several sites, scoring |
-| `digest.py` | The evening top 5 post |
-| `formatter.py` | Build the post text (topic line, TOP STORY, headline, summary, link), within Telegram's 1024-character caption limit |
+| `quality.py` | 18+ and filler rules, finding the same story on several sites, scoring |
+| `selector.py` | Pick which stories to post (fresh, allowed, not a repeat, strong enough, strongest first) |
+| `banner.py` | Draw the branded banner (English and mirrored Arabic) and the welcome banner |
+| `formatter.py` | The caption, the two buttons and the name hashtags, within Telegram's 1024-character caption limit |
+| `editions.py` | The English and Arabic labels for each channel |
+| `publish.py` | Turn a story into a post for one channel and send it; translate it |
+| `translate.py` | DeepL client |
+| `digest.py`, `scheduled.py` | The evening top 5 and the weekly top 10 with its poll |
 | `telegram.py` | Telegram Bot API client with retries and clear setup errors |
-| `poster.py` | Send a photo post, or fall back to a text post |
+| `poster.py` | Send the banner, or fall back to the photo, then text |
+| `setup_tools.py` | `--check`, `--find-chat-id`, `--setup-language-picker` |
 | `state.py` | Remember posted stories in `data/posted.json` |
 | `config.py` | Read and check `config.yaml` |
 | `text.py` | Clean HTML, shorten text, split sentences, normalise links |
+
+Fonts in `assets/fonts` are Oswald and Noto Kufi Arabic (SIL Open Font License, files included). The logo badge and suit icons in `assets/brand` are cut from the channel logo.
