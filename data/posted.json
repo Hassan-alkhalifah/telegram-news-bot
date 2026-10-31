@@ -1,59 +1,192 @@
 {
  "version": 1,
  "posted": {
+  "animecorner.me/isshiki-san-wants-to-know-about-love-anime-reveals-new-trailer-opening-theme-song-artist": {
+   "at": "2026-10-31T19:01:53.204888+00:00",
+   "title": "Isshiki-san Wants to Know About Love Anime Reveals New Trailer, Opening Theme Song Artist",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://animecorner.me/isshiki-san-wants-to-know-about-love-anime-reveals-new-trailer-opening-theme-song-artist/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Isshiki-san Wants to Know About Love anime revealed a new trailer and the opening…"
+  },
+  "animenewsnetwork.com/news/2026-10-31/cosplayer-enako-sings-voice-acts-in-isshiki-san-wants-to-know-about-love-anime/.243383": {
+   "at": "2026-10-31T19:01:53.204888+00:00",
+   "title": "Cosplayer Enako Sings, Voice-Acts in Isshiki-san Wants to Know About Love Anime",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://www.animenewsnetwork.com/news/2026-10-31/cosplayer-enako-sings-voice-acts-in-isshiki-san-wants-to-know-about-love-anime/.243383",
+   "score": 3,
+   "sources": 2,
+   "summary": "New promo video previews opening theme"
+  },
+  "animenewsnetwork.com/news/2026-10-31/final-fantasy-xiv-game-reveals-february-19-early-access-date-for-evercold-expansion-new-job-zephyr/.243380": {
+   "at": "2026-10-31T19:01:53.204888+00:00",
+   "title": "Final Fantasy XIV Game Reveals February 19 Early Access Date for 'Evercold' Expansion, New Job Zephyr",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://www.animenewsnetwork.com/news/2026-10-31/final-fantasy-xiv-game-reveals-february-19-early-access-date-for-evercold-expansion-new-job-zephyr/.243380",
+   "score": 0,
+   "sources": 1,
+   "summary": "General launch for expansion is on February 23; Evangelion collab also highlighted in video"
+  },
   "animenewsnetwork.com/news/2026-10-31/romelia-war-chronicle-anime-2nd-part-unveils-april-2027-debut-ending-song-artist/.243390": {
    "at": "2026-10-31T18:14:06.683532+00:00",
    "title": "Romelia War Chronicle Anime's 2nd Part Unveils April 2027 Debut, Ending Song's Artist",
    "topic": "Anime",
-   "status": "posted"
+   "status": "posted",
+   "url": "",
+   "score": 0,
+   "sources": 1,
+   "summary": ""
   },
   "crunchyroll.com/news/features/2026/10/31/best-anime-characters-trick-or-treat": {
    "at": "2026-10-31T18:24:19.596609+00:00",
    "title": "10 Best Anime Characters to Take Trick-Or-Treating",
    "topic": "Anime",
-   "status": "posted"
+   "status": "posted",
+   "url": "",
+   "score": 0,
+   "sources": 1,
+   "summary": ""
+  },
+  "crunchyroll.com/news/latest/2026/10/31/romelia-war-chronicle-cour-2-anime-scheduled-for-april-2027": {
+   "at": "2026-10-31T19:01:53.204888+00:00",
+   "title": "Romelia War Chronicle Cour 2 Anime Scheduled for April 2027",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://crunchyroll.com/news/latest/2026/10/31/romelia-war-chronicle-cour-2-anime-scheduled-for-april-2027",
+   "score": 0,
+   "sources": 1,
+   "summary": "New ending theme song performer revealed for ongoing adaptation of fantasy light novels"
   },
   "engadget.com/2300257/drawbacks-you-should-know-before-buying-playstation-5": {
    "at": "2026-10-31T18:14:06.683532+00:00",
    "title": "4 drawbacks you should know before buying a PlayStation 5",
    "topic": "Tech",
-   "status": "posted"
+   "status": "posted",
+   "url": "",
+   "score": 0,
+   "sources": 1,
+   "summary": ""
   },
   "engadget.com/2301962/bolt-graphics-powers-on-first-zeus-gpu": {
    "at": "2026-10-31T18:24:19.596609+00:00",
    "title": "Bolt Graphics powers on its first Zeus GPU",
    "topic": "Tech",
-   "status": "posted"
+   "status": "posted",
+   "url": "",
+   "score": 0,
+   "sources": 1,
+   "summary": ""
+  },
+  "eurogamer.net/final-fantasy-14-evercold-zephyr-job-release-date": {
+   "at": "2026-10-31T19:01:53.204888+00:00",
+   "title": "Final Fantasy 14 reveals Evercold’s second new job and February release date, with pre-orders opening next week",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/final-fantasy-14-evercold-zephyr-job-release-date",
+   "score": 0,
+   "sources": 1,
+   "summary": "Final Fantasy 14 's next expansion, Evercold, will launch on 23rd February 2027, and its second new job is zephyr, a physical ranged DPS that fights with a crossbow and a bird."
   },
   "eurogamer.net/modern-warfare-4-itaewon-footage-removed-activision-apology": {
    "at": "2026-10-31T18:24:19.596609+00:00",
    "title": "Activision to remove Itaewon crowd crush footage from Call of Duty: Modern Warfare 4 and apologises to victims' families",
    "topic": "Games",
-   "status": "posted"
+   "status": "posted",
+   "url": "",
+   "score": 0,
+   "sources": 1,
+   "summary": ""
   },
   "eurogamer.net/pubg-live-action-netflix-series-donald-glover": {
    "at": "2026-10-31T18:14:06.683532+00:00",
    "title": "PUBG live-action series in the works at Netflix, with Donald Glover set to direct and star",
    "topic": "Games",
-   "status": "posted"
+   "status": "posted",
+   "url": "",
+   "score": 0,
+   "sources": 1,
+   "summary": ""
+  },
+  "gsmarena.com/whatsapp_group_status-news-75298.php": {
+   "at": "2026-10-31T19:01:53.204888+00:00",
+   "title": "WhatsApp announces new features, including Group Status",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.gsmarena.com/whatsapp_group_status-news-75298.php",
+   "score": 2,
+   "sources": 1,
+   "summary": "WhatsApp has announced new features."
+  },
+  "insider-gaming.com/final-fantasy-14-evercold-release-date": {
+   "at": "2026-10-31T19:01:53.204888+00:00",
+   "title": "Final Fantasy 14: Evercold Delayed to February 2027",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://insider-gaming.com/final-fantasy-14-evercold-release-date/",
+   "score": 10,
+   "sources": 5,
+   "summary": "Final Fantasy 14 Evercold release date is set for February 23, 2027."
+  },
+  "kotaku.com/final-fantasy-14-evercold-gets-a-month-long-delay-but-an-awesome-new-trailer-2000751936": {
+   "at": "2026-10-31T19:01:53.204888+00:00",
+   "title": "Final Fantasy 14 Evercold Gets A Month Long Delay But An Awesome New Trailer",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/final-fantasy-14-evercold-gets-a-month-long-delay-but-an-awesome-new-trailer-2000751936",
+   "score": 0,
+   "sources": 1,
+   "summary": "This looks awesome"
+  },
+  "pcgamer.com/games/final-fantasy/final-fantasy-14-evercold-delayed-to-february-preorders-start-next-week": {
+   "at": "2026-10-31T19:01:53.204888+00:00",
+   "title": "Final Fantasy 14: Evercold delayed to February, preorders start next week",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-evercold-delayed-to-february-preorders-start-next-week/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Surely, one of these is the actual, no joke, FINAL fantasy?"
   },
   "techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round": {
    "at": "2026-10-31T18:14:06.683532+00:00",
    "title": "OpenAI reportedly lowers funding target for new round",
    "topic": "AI",
-   "status": "posted"
+   "status": "posted",
+   "url": "",
+   "score": 0,
+   "sources": 1,
+   "summary": ""
+  },
+  "the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite": {
+   "at": "2026-10-31T19:01:53.204888+00:00",
+   "title": "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/",
+   "score": 0,
+   "sources": 1,
+   "summary": "OpenAI raised only about $11 billion in its latest funding round, less than half of the $30 billion it was targeting."
   },
   "theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code": {
    "at": "2026-10-31T18:24:19.596609+00:00",
    "title": "I built an AI Tamagotchi before Meta could",
    "topic": "AI",
-   "status": "posted"
+   "status": "posted",
+   "url": "",
+   "score": 0,
+   "sources": 1,
+   "summary": ""
   }
  },
  "topic_last_posted": {
   "AI": "2026-10-31T18:24:19.596609+00:00",
-  "Anime": "2026-10-31T18:24:19.596609+00:00",
-  "Games": "2026-10-31T18:24:19.596609+00:00",
-  "Tech": "2026-10-31T18:24:19.596609+00:00"
- }
+  "Anime": "2026-10-31T19:01:53.204888+00:00",
+  "Games": "2026-10-31T19:01:53.204888+00:00",
+  "Tech": "2026-10-31T19:01:53.204888+00:00"
+ },
+ "digest_day": "2026-10-31"
 }
