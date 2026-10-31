@@ -1,6 +1,6 @@
 import pytest
 
-from newsbot.text import clean_html, title_similarity, truncate, url_key, utf16_len
+from newsbot.text import clean_html, first_sentences, truncate, url_key, utf16_len
 
 
 class TestCleanHtml:
@@ -78,28 +78,23 @@ class TestUrlKey:
         assert url_key("https://site.com/") == "site.com/"
 
 
-class TestTitleSimilarity:
-    def test_identical(self):
-        assert title_similarity("Nintendo reveals Switch 3", "Nintendo reveals Switch 3") == 1.0
-
-    def test_same_story_reworded(self):
-        a = "Nintendo announces new Zelda game for Switch 2"
-        b = "New Zelda game announced by Nintendo for Switch 2"
-        assert title_similarity(a, b) >= 0.6
-
-    def test_different_stories(self):
-        a = "OpenAI releases a new reasoning model"
-        b = "Sony cuts PlayStation 5 price in Europe"
-        assert title_similarity(a, b) < 0.2
-
-    def test_case_and_punctuation_ignored(self):
-        assert title_similarity("Apple's iPhone 18: first look!", "apples iphone 18 first look") == 1.0
-
-    def test_very_short_titles_need_exact_match(self):
-        assert title_similarity("Weekly roundup", "Weekly news roundup") == 0.0
-        assert title_similarity("Weekly roundup", "weekly roundup") == 1.0
-
-
 def test_odd_markup_never_crashes():
     # Python 3.10's HTMLParser raises AssertionError on "<![" followed by a non-keyword.
     assert "Odd title" in clean_html("<![ b Odd title")
+
+
+class TestFirstSentences:
+    def test_keeps_whole_sentences_that_fit(self):
+        assert first_sentences("One two. Three four. Five six seven.", 20) == "One two. Three four."
+
+    def test_long_first_sentence_is_cut_at_a_word(self):
+        result = first_sentences("word " * 50, 20)
+        assert result.endswith("…") and len(result) <= 20
+
+    def test_short_text_is_unchanged(self):
+        assert first_sentences("Just one.", 200) == "Just one."
+
+    def test_initials_do_not_end_a_sentence(self):
+        assert first_sentences("The U.S. government banned it. More text follows here.", 35) == (
+            "The U.S. government banned it."
+        )

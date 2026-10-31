@@ -26,7 +26,7 @@ def test_save_and_load_round_trip(tmp_path):
     save_state(path, state)
     loaded = load_state(path)
     assert loaded.has("k1") and loaded.has("k2")
-    assert loaded.recent_titles() == ("Title one",)
+    assert loaded.recent_titles() == ("Title one", "Dup")
     assert loaded.topic_last_posted == {"AI": NOW}
     assert dict(loaded.records) == dict(state.records)
 
@@ -38,10 +38,10 @@ def test_with_record_leaves_original_unchanged():
     assert updated.has("k1")
 
 
-def test_duplicate_records_do_not_count_as_posts():
+def test_other_sites_versions_count_as_known_titles_but_not_as_posts():
     state = BotState.empty().with_record("k", record("Dup", status="duplicate"))
     assert state.topic_last_posted == {}
-    assert state.recent_titles() == ()
+    assert state.recent_titles() == ("Dup",)
 
 
 def test_pruned_drops_old_records():
@@ -86,3 +86,41 @@ def test_file_is_readable_utf8(tmp_path):
     path = tmp_path / "posted.json"
     save_state(path, BotState.empty().with_record("k", record("Kimetsu no Yaiba 鬼滅")))
     assert "鬼滅" in path.read_text(encoding="utf-8")
+
+
+def test_link_score_sources_and_digest_day_are_saved(tmp_path):
+    path = tmp_path / "posted.json"
+    full = PostedRecord(
+        at=NOW,
+        title="T",
+        topic="AI",
+        status="posted",
+        url="https://e.com/1",
+        score=5,
+        sources=3,
+        summary="First sentence.",
+    )
+    save_state(path, BotState.empty().with_record("k", full).with_digest_day("2026-10-31"))
+    loaded = load_state(path)
+    assert loaded.records["k"] == full
+    assert loaded.digest_day == "2026-10-31"
+
+
+def test_files_from_the_first_version_still_load(tmp_path):
+    path = tmp_path / "posted.json"
+    path.write_text(
+        '{"version": 1, "posted": {"k": {"at": "2026-10-31T12:00:00+00:00", "title": "T", "topic": "AI",'
+        ' "status": "posted"}}, "topic_last_posted": {}}',
+        encoding="utf-8",
+    )
+    loaded = load_state(path)
+    assert (loaded.records["k"].url, loaded.records["k"].score, loaded.records["k"].sources) == ("", 0, 1)
+    assert loaded.digest_day == ""
+
+
+def test_digest_day_survives_other_changes():
+    empty = BotState.empty()
+    marked = empty.with_digest_day("2026-10-31")
+    assert empty.digest_day == ""
+    assert marked.pruned(NOW, retention_days=7).digest_day == "2026-10-31"
+    assert marked.with_record("k", record()).digest_day == "2026-10-31"

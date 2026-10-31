@@ -47,6 +47,7 @@ def main(argv: Sequence[str] | None = None, env_file: str | None = ".env") -> in
             state_path=args.state,
             now=_now(),
             dry_run=True,
+            force_digest=args.digest_now,
         )
         return _report(result)
 
@@ -63,7 +64,13 @@ def main(argv: Sequence[str] | None = None, env_file: str | None = ".env") -> in
     if args.find_chat_id:
         return run_find_chat_id(client)
     result = run_once(
-        config=config, session=session, client=client, chat_id=chat_id, state_path=args.state, now=_now()
+        config=config,
+        session=session,
+        client=client,
+        chat_id=chat_id,
+        state_path=args.state,
+        now=_now(),
+        force_digest=args.digest_now,
     )
     return _report(result)
 
@@ -89,6 +96,11 @@ def _parse_args(argv: Sequence[str] | None) -> argparse.Namespace:
     )
     mode.add_argument(
         "--find-chat-id", action="store_true", help="show the numeric id of channels the bot has seen"
+    )
+    parser.add_argument(
+        "--digest-now",
+        action="store_true",
+        help="send the daily top stories post now, whatever the time (with --dry-run: only show it)",
     )
     parser.add_argument("--config", default="config.yaml", help="config file (default: config.yaml)")
     parser.add_argument(
@@ -127,7 +139,7 @@ def _now() -> datetime:
 
 def _report(result: RunResult) -> int:
     log.info(
-        "Done. posted=%d unconfirmed=%d would_post=%d repeats_skipped=%d failed=%d feeds_failed=%d/%d",
+        "Done. posted=%d unconfirmed=%d would_post=%d repeats_skipped=%d failed=%d feeds_failed=%d/%d digest=%s",
         result.posted,
         result.unconfirmed,
         result.would_post,
@@ -135,6 +147,7 @@ def _report(result: RunResult) -> int:
         result.failed_posts,
         result.feeds_failed,
         result.feeds_total,
+        "sent" if result.digest_sent else "no",
     )
     if result.fatal_error:
         log.error(result.fatal_error)

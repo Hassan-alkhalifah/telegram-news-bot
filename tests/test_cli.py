@@ -21,6 +21,9 @@ CONFIG_YAML = f"""
 settings:
   max_posts_per_run: 2
   post_delay_seconds: 0
+  min_score: 0
+digest:
+  title: Top today
 topics:
   - name: AI
     hashtag: AI
@@ -187,3 +190,23 @@ def test_run_fails_when_nothing_could_be_posted(files, env, caplog):
     responses.post(f"{API}/sendMessage", json=rejected, status=400)
     assert cli(files) == 1
     assert "Nothing could be posted" in caplog.text
+
+
+@responses.activate
+def test_digest_now_with_dry_run_previews_the_digest(files, monkeypatch, capsys):
+    monkeypatch.delenv("TELEGRAM_BOT_TOKEN", raising=False)
+    from newsbot.state import BotState, PostedRecord, save_state
+
+    record = PostedRecord(
+        at=datetime.now(timezone.utc) - timedelta(hours=1),
+        title="Earlier big story",
+        topic="AI",
+        status="posted",
+        url="https://feed.example.com/0",
+        score=4,
+    )
+    save_state(files["state"], BotState.empty().with_record("feed.example.com/0", record))
+    responses.get(FEED_URL, body=rss())
+    assert cli(files, "--dry-run", "--digest-now") == 0
+    out = capsys.readouterr().out
+    assert "Top today" in out and "Earlier big story" in out

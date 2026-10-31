@@ -2,10 +2,12 @@
 
 Posts the latest **AI, Games, Anime and Tech** news to one Telegram channel.
 
-- Checks 12 news sites (RSS feeds) every 30 minutes.
-- Each post has the article image, the title in bold, a short summary, a topic hashtag (`#AI`, `#Games`, `#Anime`, `#Tech`), the source name and a "Read more" link.
-- Up to 4 posts per check. Topics take turns, so one busy topic cannot fill the channel.
-- Never posts the same link twice, and skips a story when another site already reported it with a very similar title.
+- Checks 28 news sites (RSS feeds) every 30 minutes.
+- Posts only **strong news**: it skips filler (top-10 lists, how-tos, reviews, deals, opinion columns) and prefers stories that several sites report at the same time.
+- Each post has the article image, a topic line with an emoji (`🎮 GAMES`), a **TOP STORY** label when 3 or more sites report it, the title in bold, a short summary, the source with a "Read more" link, a hashtag and your channel name.
+- At most 3 posts per check, strongest first. A quiet half hour posts nothing rather than something weak.
+- Never posts the same news twice, even when another site words it differently.
+- Every evening at 21:00 (Saudi time) it posts the day's top 5 stories.
 - Runs free on GitHub Actions. Your PC can be off.
 
 The setup takes about 15 minutes. Follow the steps in order.
@@ -96,9 +98,18 @@ Everything is in `config.yaml`, with a comment on every line:
 
 - **Sources:** add, remove or turn off feeds under each topic. Extra sources are already listed with `#` in front of them; remove the `#` to turn one on.
 - **How many posts:** `max_posts_per_run` (posts per check; there are 2 checks per hour).
+- **How strong a story must be:** `min_score`. A story gets 2 points for every extra site that reports it, 1 point for a strong word in its title (announced, delayed, trailer, season 2, ...) and 1 point for a big name of its topic (Nintendo, OpenAI, One Piece, ...). Lower it for more posts, raise it for fewer. Anime has its own lower `min_score`, because fewer anime sites exist.
+- **Big names:** `big_names` under each topic.
+- **What counts as filler:** `filters` (feed categories, link parts, and title patterns). **Strong words:** `filters` > `strong_words`.
+- **The look:** `style` (your channel name at the bottom of posts, the TOP STORY label) and `emoji` under each topic.
+- **Evening top 5:** `digest` (on/off, hour, your time zone, how many stories, title).
 - **How old a story can be:** `max_age_hours`.
 - **Summary length:** `summary_max_chars`.
-- **New topic:** copy a topic block, change `name`, `hashtag` and `feeds`.
+- **New topic:** copy a topic block, change `name`, `hashtag`, `emoji`, `big_names` and `feeds`.
+
+To see what a change does without posting, run `.venv\Scripts\python -m newsbot --dry-run -v`. The `-v` adds a line for every filler story it skipped and why.
+
+**Send the top 5 now:** Actions tab > News bot > Run workflow > tick **Send the daily top stories post now**. On your PC: `.venv\Scripts\python -m newsbot --digest-now` (add `--dry-run` to only see it).
 
 Run `.venv\Scripts\python -m newsbot --dry-run` after a change to see the result. Then commit and push the change.
 
@@ -109,14 +120,15 @@ Run `.venv\Scripts\python -m newsbot --dry-run` after a change to see the result
 ## How it works
 
 1. Downloads every feed in `config.yaml`. A broken feed is logged and skipped; the others still post.
-2. Keeps stories newer than `max_age_hours` that are not in `data/posted.json`.
-3. Drops a story when its title is too close to one already posted (the same news from another site).
-4. Picks up to `max_posts_per_run` stories, newest first, with topics taking turns.
-5. Posts each story as a photo with a caption. If a feed has no image, it uses the image from the article page. If Telegram rejects the image, it sends a text post with a link preview instead.
+2. Keeps stories newer than `max_age_hours` that are not in `data/posted.json`, and drops filler.
+3. Drops a story that is the same news as something already posted, even when the words differ (it compares titles and first sentences, and counts rare words like a game's name more than common words).
+4. Groups the same story from different sites together and scores it (see `min_score` above). Stories below the bar wait: if more sites report them later, they can still make it.
+5. Picks up to `max_posts_per_run` stories: the topic with the strongest story first, then topics take turns.
+6. Posts each story as a photo with a caption. If a feed has no image, it uses the image from the article page. If Telegram rejects the image, it sends a text post with a link preview instead.
    - If Telegram rejects a story completely, the bot remembers that and does not try it again.
    - If the network fails, the story is tried again in the next run.
    - If Telegram gives no clear answer (a timeout or a server error after sending), the bot counts the story as posted, so it can never appear twice.
-6. Saves `data/posted.json` after every post. On GitHub, the workflow commits that file back to the repository, so the bot remembers between runs. You will see commits named "chore: update posted news list"; that is normal. Run `git pull` before you push your own changes.
+7. Saves `data/posted.json` after every post. On GitHub, the workflow commits that file back to the repository, so the bot remembers between runs. You will see commits named "chore: update posted news list"; that is normal. Run `git pull` before you push your own changes.
 
 ## Private channel
 
@@ -140,6 +152,8 @@ A private channel has no `@username`, so the bot needs its number:
 | `Could not save data/posted.json` | Settings > Actions > General > Workflow permissions: choose **Read and write permissions**, then run the workflow again. |
 | `The posted-stories file could not be read` | Nothing to do. The bot set the broken file aside and re-learned the current stories without posting them; the next run is normal. |
 | No posts, `0 chosen for this run` | Nothing new since the last check. Normal. |
+| The channel feels too quiet | Lower `min_score` in `config.yaml` (for example to 1), or raise `max_posts_per_run`. The log line `... weak stories skipped for now` shows how many stories missed the bar. |
+| No top 5 post in the evening | It needs at least `min_stories` posts from the last 24 hours. The log says `Digest skipped` with the reason. |
 | The Actions schedule stopped | Actions tab > News bot > **Enable workflow**. |
 
 Every run's log is in the **Actions** tab: open a run, then the **post-news** job.
@@ -161,10 +175,12 @@ Code layout (`newsbot/`):
 | `runner.py` | One run from start to end |
 | `feeds.py` | Download and read RSS/Atom feeds |
 | `images.py` | Find an image in the feed or on the article page |
-| `selector.py` | Pick which stories to post (fresh, new, not a repeat, topics take turns) |
-| `formatter.py` | Build the post text, within Telegram's 1024-character caption limit |
+| `selector.py` | Pick which stories to post (fresh, not filler, not a repeat, strong enough, strongest first) |
+| `quality.py` | Filler rules, finding the same story on several sites, scoring |
+| `digest.py` | The evening top 5 post |
+| `formatter.py` | Build the post text (topic line, TOP STORY, headline, summary, link), within Telegram's 1024-character caption limit |
 | `telegram.py` | Telegram Bot API client with retries and clear setup errors |
 | `poster.py` | Send a photo post, or fall back to a text post |
 | `state.py` | Remember posted stories in `data/posted.json` |
 | `config.py` | Read and check `config.yaml` |
-| `text.py` | Clean HTML, shorten text, compare titles, normalise links |
+| `text.py` | Clean HTML, shorten text, split sentences, normalise links |

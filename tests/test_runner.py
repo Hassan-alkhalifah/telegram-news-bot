@@ -1,8 +1,10 @@
 import json
+from datetime import datetime, timedelta, timezone
 
 import requests
 import responses
 
+from newsbot.models import DigestSettings
 from newsbot.runner import run_once
 from newsbot.state import BotState, PostedRecord, load_state, save_state
 from newsbot.telegram import TelegramClient
@@ -16,7 +18,7 @@ def no_sleep(_seconds):
     return None
 
 
-def run(config, state_path, dry_run=False, out=None):
+def run(config, state_path, dry_run=False, out=None, now=NOW, force_digest=False):
     session = make_session()
     client = None if dry_run else TelegramClient(TOKEN, session, timeout=5, sleep=no_sleep)
     return run_once(
@@ -25,8 +27,9 @@ def run(config, state_path, dry_run=False, out=None):
         client=client,
         chat_id="@chan",
         state_path=state_path,
-        now=NOW,
+        now=now,
         dry_run=dry_run,
+        force_digest=force_digest,
         sleep=no_sleep,
         out=(out.append if out is not None else print),
     )
@@ -256,3 +259,224 @@ def test_broken_state_file_is_kept_when_feeds_are_down(tmp_path):
     assert "feeds" in result.fatal_error
     assert state_path.read_text(encoding="utf-8") == "{broken"
     assert not (tmp_path / "posted.json.corrupt").exists()
+
+
+@responses.activate
+def test_record_keeps_link_score_and_site_count(tmp_path):
+    config = make_config(topics=("AI", "Games"), max_posts_per_run=4)
+    register_feeds(config)
+    responses.post(f"{API}/sendPhoto", json={"ok": True, "result": {"message_id": 1}})
+    state_path = tmp_path / "posted.json"
+    run(config, state_path)
+    record = load_state(state_path).records["ai.example.com/1"]
+    assert (record.url, record.sources, record.status) == ("https://ai.example.com/1", 1, "posted")
+
+
+@responses.activate
+def test_same_story_from_two_sites_is_posted_once_and_both_remembered(tmp_path):
+    config = make_config(topics=("AI", "Games"))
+    words = "Nintendo announces Switch 3 with launch date and price"
+    responses.get(
+        config.topics[0].feeds[0].url,
+        body=rss(rss_item(words, "https://ai.example.com/s3", extra=THUMB.format(n=3))),
+    )
+    responses.get(
+        config.topics[1].feeds[0].url, body=rss(rss_item(words + " leaked", "https://games.example.com/s3"))
+    )
+    responses.post(f"{API}/sendPhoto", json={"ok": True, "result": {"message_id": 1}})
+    state_path = tmp_path / "posted.json"
+
+    result = run(config, state_path)
+
+    assert result.posted == 1
+    statuses = {k: r.status for k, r in load_state(state_path).records.items()}
+    assert sorted(statuses.values()) == ["duplicate", "posted"]
+    assert set(statuses) == {"ai.example.com/s3", "games.example.com/s3"}
+
+
+DIGEST = DigestSettings(
+    enabled=True, local_hour=21, utc_offset_hours=3, size=5, min_stories=1, title="Top today"
+)
+EVENING = datetime(2026, 10, 31, 18, 30, tzinfo=timezone.utc)  # 21:30 in UTC+3
+
+
+def save_posted(state_path, *titles):
+    state = BotState.empty()
+    for n, title in enumerate(titles):
+        record = PostedRecord(
+            at=EVENING - timedelta(hours=1),
+            title=title,
+            topic="AI",
+            status="posted",
+            url=f"https://e.com/{n}",
+            score=n,
+        )
+        state = state.with_record(f"e.com/{n}", record)
+    save_state(state_path, state)
+
+
+def register_empty_feeds(config):
+    for topic in config.topics:
+        responses.get(topic.feeds[0].url, body=rss())
+
+
+@responses.activate
+def test_digest_is_sent_once_in_the_evening(tmp_path):
+    config = make_config(digest=DIGEST)
+    register_empty_feeds(config)
+    responses.post(f"{API}/sendMessage", json={"ok": True, "result": {"message_id": 9}})
+    state_path = tmp_path / "posted.json"
+    save_posted(state_path, "First story", "Second story")
+
+    result = run(config, state_path, now=EVENING)
+
+    assert result.digest_sent
+    [call] = telegram_calls()
+    body = json.loads(call.request.body)
+    assert "Top today" in body["text"] and body["text"].index("Second story") < body["text"].index(
+        "First story"
+    )
+    assert body["link_preview_options"]["url"] == "https://e.com/1"
+    assert load_state(state_path).digest_day == "2026-10-31"
+
+    again = run(config, state_path, now=EVENING + timedelta(minutes=30))
+    assert not again.digest_sent
+    assert len(telegram_calls()) == 1
+
+
+@responses.activate
+def test_no_digest_before_the_hour(tmp_path):
+    config = make_config(digest=DIGEST)
+    register_empty_feeds(config)
+    state_path = tmp_path / "posted.json"
+    save_posted(state_path, "First story")
+    result = run(config, state_path, now=EVENING - timedelta(hours=4))
+    assert not result.digest_sent
+    assert telegram_calls() == []
+
+
+@responses.activate
+def test_too_few_stories_skips_the_digest_for_the_day(tmp_path):
+    config = make_config(
+        digest=DigestSettings(enabled=True, local_hour=21, utc_offset_hours=3, min_stories=3)
+    )
+    register_empty_feeds(config)
+    state_path = tmp_path / "posted.json"
+    save_posted(state_path, "Only one story")
+    result = run(config, state_path, now=EVENING)
+    assert not result.digest_sent
+    assert telegram_calls() == []
+    assert load_state(state_path).digest_day == "2026-10-31"
+
+
+@responses.activate
+def test_dry_run_previews_a_forced_digest_and_changes_nothing(tmp_path):
+    config = make_config()
+    register_empty_feeds(config)
+    state_path = tmp_path / "posted.json"
+    save_posted(state_path, "First story")
+    before = state_path.read_text(encoding="utf-8")
+    out = []
+
+    run(config, state_path, dry_run=True, out=out, now=EVENING, force_digest=True)
+
+    assert "First story" in "\n".join(out)
+    assert telegram_calls() == []
+    assert state_path.read_text(encoding="utf-8") == before
+
+
+@responses.activate
+def test_digest_that_fails_to_send_is_tried_again_next_run(tmp_path):
+    config = make_config(digest=DIGEST)
+    register_empty_feeds(config)
+    responses.post(f"{API}/sendMessage", body=requests.ConnectionError("network down"))
+    state_path = tmp_path / "posted.json"
+    save_posted(state_path, "First story")
+
+    result = run(config, state_path, now=EVENING)
+
+    assert not result.digest_sent and result.fatal_error is None
+    assert load_state(state_path).digest_day == ""
+
+
+@responses.activate
+def test_digest_setup_error_is_reported(tmp_path):
+    config = make_config(digest=DIGEST)
+    register_empty_feeds(config)
+    responses.post(
+        f"{API}/sendMessage",
+        json={
+            "ok": False,
+            "error_code": 403,
+            "description": "Forbidden: bot was kicked from the channel chat",
+        },
+        status=403,
+    )
+    state_path = tmp_path / "posted.json"
+    save_posted(state_path, "First story")
+
+    result = run(config, state_path, now=EVENING)
+
+    assert "kicked" in result.fatal_error
+    assert load_state(state_path).digest_day == ""
+
+
+@responses.activate
+def test_digest_with_an_unclear_answer_is_not_sent_twice(tmp_path):
+    config = make_config(digest=DIGEST)
+    register_empty_feeds(config)
+    responses.post(f"{API}/sendMessage", body="Bad Gateway", status=502)
+    state_path = tmp_path / "posted.json"
+    save_posted(state_path, "First story")
+
+    first = run(config, state_path, now=EVENING)
+    second = run(config, state_path, now=EVENING + timedelta(minutes=30))
+
+    assert first.digest_sent and not second.digest_sent
+    assert len(telegram_calls()) == 1
+    assert load_state(state_path).digest_day == "2026-10-31"
+
+
+@responses.activate
+def test_digest_rejected_by_telegram_is_dropped_for_the_day(tmp_path):
+    config = make_config(digest=DIGEST)
+    register_empty_feeds(config)
+    rejected = {"ok": False, "error_code": 400, "description": "Bad Request: can't parse entities"}
+    responses.post(f"{API}/sendMessage", json=rejected, status=400)
+    state_path = tmp_path / "posted.json"
+    save_posted(state_path, "First story")
+
+    result = run(config, state_path, now=EVENING)
+
+    assert not result.digest_sent and result.fatal_error is None
+    assert load_state(state_path).digest_day == "2026-10-31"
+
+
+@responses.activate
+def test_forced_digest_with_nothing_to_list_keeps_the_evening_digest(tmp_path):
+    config = make_config(digest=DIGEST)
+    register_empty_feeds(config)
+    state_path = tmp_path / "posted.json"
+    save_posted(state_path)  # nothing posted yet
+
+    result = run(config, state_path, now=EVENING - timedelta(hours=6), force_digest=True)
+
+    assert not result.digest_sent
+    assert telegram_calls() == []
+    assert load_state(state_path).digest_day == ""
+
+
+@responses.activate
+def test_dry_run_digest_matches_the_real_run(tmp_path):
+    """The preview lists earlier posts only, exactly like a real run would."""
+    config = make_config(topics=("AI", "Games"), max_posts_per_run=4)
+    register_feeds(config)
+    state_path = tmp_path / "posted.json"
+    save_posted(state_path, "Posted earlier today")
+    out = []
+
+    run(config, state_path, dry_run=True, out=out, now=EVENING, force_digest=True)
+
+    digest = next(text for text in out if text.startswith("----- DIGEST"))
+    assert "Posted earlier today" in digest
+    assert unique_title("aione") not in digest

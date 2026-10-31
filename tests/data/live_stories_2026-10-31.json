@@ -1,0 +1,2415 @@
+[
+{
+"topic": "AI",
+"source": "The Verge AI",
+"title": "I built an AI Tamagotchi before Meta could",
+"summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi.",
+"tags": [
+"AI",
+"Anthropic",
+"Gadgets",
+"Meta",
+"Tech"
+],
+"link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code"
+},
+{
+"topic": "AI",
+"source": "The Verge AI",
+"title": "Apple Intelligence is finally coming to China with iOS 27.3",
+"summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors.",
+"tags": [
+"AI",
+"Apple",
+"iOS",
+"News",
+"Tech"
+],
+"link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
+},
+{
+"topic": "AI",
+"source": "The Verge AI",
+"title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+"summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers.",
+"tags": [
+"AI",
+"News",
+"OpenAI",
+"Tech"
+],
+"link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
+},
+{
+"topic": "AI",
+"source": "The Verge AI",
+"title": "The biggest names in AI are backing a new way to opt out of scraping",
+"summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable.",
+"tags": [
+"AI",
+"Anthropic",
+"Google",
+"Microsoft",
+"News",
+"Tech"
+],
+"link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+},
+{
+"topic": "AI",
+"source": "TechCrunch AI",
+"title": "OpenAI reportedly lowers funding target for new round",
+"summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+"tags": [
+"AI",
+"Fundraising",
+"OpenAI"
+],
+"link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+},
+{
+"topic": "AI",
+"source": "TechCrunch AI",
+"title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+"summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+"tags": [
+"AI",
+"TC"
+],
+"link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+},
+{
+"topic": "AI",
+"source": "TechCrunch AI",
+"title": "Ollie, a privacy-focused AI assistant, is shutting down",
+"summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+"tags": [
+"AI",
+"Apps",
+"Startups",
+"AI assistant",
+"ollie"
+],
+"link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
+},
+{
+"topic": "AI",
+"source": "TechCrunch AI",
+"title": "Intel’s stock crashes, knocking $12B from government’s stake",
+"summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+"tags": [
+"AI",
+"Enterprise",
+"TC",
+"Intel"
+],
+"link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
+},
+{
+"topic": "AI",
+"source": "TechCrunch AI",
+"title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+"summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+"tags": [
+"AI",
+"Anthropic",
+"In Brief",
+"IPO"
+],
+"link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+},
+{
+"topic": "AI",
+"source": "TechCrunch AI",
+"title": "Last-minute Halloween costumes for tech nerds",
+"summary": "No Halloween costume?",
+"tags": [
+"TC",
+"Media & Entertainment",
+"AI",
+"Halloween"
+],
+"link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/"
+},
+{
+"topic": "AI",
+"source": "TechCrunch AI",
+"title": "Cracks are emerging in the AI spending boom",
+"summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+"tags": [
+"AI",
+"Enterprise",
+"ai infrastructure",
+"Alphabet",
+"Amazon",
+"big tech"
+],
+"link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/"
+},
+{
+"topic": "AI",
+"source": "Ars AI",
+"title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+"summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
+"tags": [
+"AI",
+"Tech",
+"ai data centers",
+"boom supersonic",
+"data centers",
+"natural gas"
+],
+"link": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/"
+},
+{
+"topic": "AI",
+"source": "Ars AI",
+"title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+"summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+"tags": [
+"AI",
+"Biz & IT",
+"Security",
+"Anthropic",
+"Claude",
+"cursor"
+],
+"link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
+},
+{
+"topic": "AI",
+"source": "Ars AI",
+"title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+"summary": "People who love AI don't always love telling others they used it.",
+"tags": [
+"AI",
+"Policy",
+"Dartmouth",
+"high ed"
+],
+"link": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/"
+},
+{
+"topic": "AI",
+"source": "Ars AI",
+"title": "Basically no one is using AI agents for their DoorDash orders",
+"summary": "But it's still early days for the relatively new e-commerce use case.",
+"tags": [
+"AI",
+"delivery",
+"doordash",
+"eCommerce",
+"food",
+"online ordering"
+],
+"link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/"
+},
+{
+"topic": "AI",
+"source": "Wired AI",
+"title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+"summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+"tags": [
+"Security",
+"Security / Cyberattacks and Hacks",
+"Kernel Panic",
+"malware",
+"artificial intelligence",
+"hackers"
+],
+"link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/"
+},
+{
+"topic": "AI",
+"source": "Wired AI",
+"title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+"summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+"tags": [
+"Business",
+"Business / Artificial Intelligence",
+"Meta",
+"agentic AI",
+"Retail",
+"earnings"
+],
+"link": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/"
+},
+{
+"topic": "AI",
+"source": "Wired AI",
+"title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+"summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+"tags": [
+"Science",
+"Science / Biotech",
+"artificial intelligence",
+"Anthropic",
+"Claude",
+"brains"
+],
+"link": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/"
+},
+{
+"topic": "AI",
+"source": "Wired AI",
+"title": "How a Contractor’s Claude Agent Got Into the Pentagon",
+"summary": "This week on Uncanny Valley, we also discuss Anthropic’s IPO filing and the volunteers gearing up to counter ICE at the midterms.",
+"tags": [
+"Business",
+"Business / Artificial Intelligence",
+"Business / Big Tech",
+"Uncanny Valley Podcast",
+"podcasts",
+"Anthropic"
+],
+"link": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/"
+},
+{
+"topic": "AI",
+"source": "The Decoder",
+"title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
+"summary": "Starting November 29, OpenAI will use data from Daybreak Blue sessions to train its models, even when users have turned off training.",
+"tags": [
+"AI in practice",
+"Artificial Intelligence",
+"Short News",
+"OpenAI"
+],
+"link": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/"
+},
+{
+"topic": "AI",
+"source": "The Decoder",
+"title": "Beekeeping tips and wrestling advice can train AI models to sabotage oversight",
+"summary": "Anthropic used Claude to automatically generate training data that looks harmless but trains smaller models to misbehave, such as sabotaging oversight or deceiving users.",
+"tags": [
+"AI research",
+"Artificial Intelligence",
+"Anthropic",
+"Claude"
+],
+"link": "https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/"
+},
+{
+"topic": "AI",
+"source": "The Decoder",
+"title": "Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams",
+"summary": "Microsoft is offering voluntary severance packages to about 60,000 employees, roughly a quarter of its workforce, in the second such program this year.",
+"tags": [
+"AI and society",
+"Artificial Intelligence",
+"Short News",
+"Investments",
+"Microsoft"
+],
+"link": "https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/"
+},
+{
+"topic": "AI",
+"source": "The Decoder",
+"title": "Google Deepmind creates a global map of forests with satellite data and AI",
+"summary": "Google Deepmind and the World Resources Institute have released ForTy, a global map that classifies forests and other land into six categories, including primary forest, plantations, and tree crops.",
+"tags": [
+"AI research",
+"Artificial Intelligence",
+"Deepmind",
+"Google Deepmind"
+],
+"link": "https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/"
+},
+{
+"topic": "AI",
+"source": "The Decoder",
+"title": "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite",
+"summary": "OpenAI raised only about $11 billion in its latest funding round, less than half of the $30 billion it was targeting.",
+"tags": [
+"AI in practice",
+"Artificial Intelligence",
+"Anthropic",
+"OpenAI"
+],
+"link": "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/"
+},
+{
+"topic": "AI",
+"source": "The Decoder",
+"title": "A Claude model autonomously chose a gene therapy and operated on a mouse brain with no human decision-making",
+"summary": "An AI agent performed brain surgery on an epileptic mouse, picking the drug, the brain target, and the injection coordinates on its own.",
+"tags": [
+"AI research",
+"Artificial Intelligence",
+"AI and labor",
+"AI and medicine",
+"AI in medicine",
+"Anthropic"
+],
+"link": "https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/"
+},
+{
+"topic": "Games",
+"source": "IGN",
+"title": "Nintendo Reveals Surprise Pikmin Day Direct",
+"summary": "Nintendo has revealed a surprise Nintendo Direct for Pikmin Day because it has apparently decided that's a thing now.",
+"tags": [],
+"link": "https://www.ign.com/articles/nintendo-reveals-surprise-pikmin-day-direct"
+},
+{
+"topic": "Games",
+"source": "IGN",
+"title": "Costco Reveals Its Full Black Friday Ad and Sale Dates for 2026",
+"summary": "Costco has officially revealed its annual Holiday Savings ad and you can already start browsing what will be discounted this year.",
+"tags": [],
+"link": "https://www.ign.com/articles/costco-reveals-its-full-black-friday-ad-and-sale-dates-for-2026"
+},
+{
+"topic": "Games",
+"source": "IGN",
+"title": "By Skipping Last-Gen Systems, Stranger Than Heaven is Allowing RGG Studio to Fully Leverage the Power of Current-Gen Consoles at Long Last",
+"summary": "By Skipping Last-Gen Systems, Stranger Than Heaven is Allowing RGG Studio to Fully Leverage the Power of Current-Gen Consoles at Long Last",
+"tags": [],
+"link": "https://www.ign.com/articles/by-skipping-last-gen-systems-stranger-than-heaven-is-allowing-rgg-studio-to-fully-leverage-the-power-of-current-gen-consoles-at-long-last"
+},
+{
+"topic": "Games",
+"source": "IGN",
+"title": "Final Fantasy XIV Evercold Delayed, New Release Date Announced at FFXIV Fan Fest",
+"summary": "The MMORPG's next expansion was set to launch shortly after the new year, but Warriors of Light will have to wait a bit longer.",
+"tags": [],
+"link": "https://www.ign.com/articles/final-fantasy-xiv-evercold-delayed-new-release-date-announced-at-ffxiv-fan-fest"
+},
+{
+"topic": "Games",
+"source": "IGN",
+"title": "Stranger Than Heaven Features Optional “Cheats” to Make its Combat Easier",
+"summary": "Stranger Than Heaven Features Optional “Cheats” to Make its Combat Easier",
+"tags": [],
+"link": "https://www.ign.com/articles/stranger-than-heaven-features-optional-cheats-to-make-its-combat-easier"
+},
+{
+"topic": "Games",
+"source": "IGN",
+"title": "Chronicles: Medieval Developer 'At Real Risk of Closing' Before Release as Funding 'No Longer in Place'",
+"summary": "Chronicles: Medieval developer Raw Power Games posted a chilling warning on its social media pages, warning that the studio might close before it can launch the Early Access version of its medieval open-world action/strategy sandbox because funding for the team is \"no longer in place.\"",
+"tags": [],
+"link": "https://www.ign.com/articles/chronicles-medieval-developer-at-real-risk-of-closing-before-release-as-funding-no-longer-in-place"
+},
+{
+"topic": "Games",
+"source": "IGN",
+"title": "Xbox's Doom, Wolfenstein Developers Working 'More Closely Than Ever' Following Xbox 'Reset' Layoffs",
+"summary": "Bethesda and Xbox development studio id Software, maker of the Doom franchise, has deepened its partnership with fellow Bethesda and Xbox studio MachineGames, makers of the most recent Wolfenstein games as well as 2024's Indiana Jones and the Great Circle.",
+"tags": [],
+"link": "https://www.ign.com/articles/xboxs-doom-wolfenstein-developers-working-more-closely-than-ever-following-xbox-reset-layoffs"
+},
+{
+"topic": "Games",
+"source": "IGN",
+"title": "Hideo Kojima Makes Surprise Cameo in New My Chemical Romance Animated Short",
+"summary": "Death Stranding creator Hideo Kojima showed up for a cameo role in a new animated short from legendary rock outfit My Chemical Romance.",
+"tags": [],
+"link": "https://www.ign.com/articles/hideo-kojima-makes-surprise-cameo-in-new-my-chemical-romance-animated-short"
+},
+{
+"topic": "Games",
+"source": "IGN",
+"title": "Bungie Says 'Don't Buy Marathon as a Donation' as Destiny Players Look to Support Studio's Future",
+"summary": "As Bungie plots a future for more Destiny, head of product Josh Deane has clarified that players don't need to \"buy Marathon as a donation\" just to support the studio's plans.",
+"tags": [],
+"link": "https://www.ign.com/articles/bungie-says-dont-buy-marathon-as-a-donation-as-destiny-players-look-to-support-studios-future"
+},
+{
+"topic": "Games",
+"source": "IGN",
+"title": "VRChat Devs Spark Outrage After Refusing to Include AI Label Despite 95% of Fans Asking for It",
+"summary": "The developers of VRChat have created a rift in the virtual platform’s user base after announcing that it would not include labels to categorize AI-generated content, despite around 95% of users asking for some sort of AI filter in a survey.",
+"tags": [],
+"link": "https://www.ign.com/articles/vrchat-devs-spark-outrage-after-refusing-to-include-ai-label-despite-95-of-fans-asking-for-it"
+},
+{
+"topic": "Games",
+"source": "IGN",
+"title": "Buckingham Palace Honors Patrick Stewart… by Playing the Wrong Star Trek Theme Music",
+"summary": "The Band of the Grenadier Guards performed a medley of Star Trek themes in honor of Sir Patrick Stewart – none of which were the theme music of the show the late actor starred in.",
+"tags": [],
+"link": "https://www.ign.com/articles/buckingham-palace-honors-patrick-stewart-by-playing-the-wrong-star-trek-theme-music"
+},
+{
+"topic": "Games",
+"source": "IGN",
+"title": "Hedgehog Dies After Being Spray Painted Blue to Look Like Sonic",
+"summary": "An animal rescuer is condemning vandals who spray-painted a hedgehog blue, presumably to make it look like Sega’s beloved mascot character, Sonic the Hedgehog.",
+"tags": [],
+"link": "https://www.ign.com/articles/hedgehog-dies-after-being-spray-painted-blue-to-look-like-sonic"
+},
+{
+"topic": "Games",
+"source": "IGN",
+"title": "Ubisoft Confirms There Is 'No Other Assassin's Creed Remake Actively in Development'",
+"summary": "Ubisoft said more Assassin's Creed games are on the way, but don't expect to see remakes like Black Flag Resynced anytime soon.",
+"tags": [],
+"link": "https://www.ign.com/articles/ubisoft-confirms-there-is-no-other-assassins-creed-remake-actively-in-development"
+},
+{
+"topic": "Games",
+"source": "IGN",
+"title": "Grand Theft Auto VI: The Original Score Is Up for Preorder",
+"summary": "Grand Theft Auto VI: The Original Score is a three-hour compilation of new music from Justice, and it's available to preorder now on CD and vinyl.",
+"tags": [],
+"link": "https://www.ign.com/articles/grand-theft-auto-vi-the-original-score-where-to-buy"
+},
+{
+"topic": "Games",
+"source": "IGN",
+"title": "Reddit Will Soon Require You to Be Logged In, Likely Because of AI Overviews",
+"summary": "Over the years, Reddit has become almost the default message board for most of the internet, and as such houses answers to thousands of questions that anyone could access, even without an account.",
+"tags": [],
+"link": "https://www.ign.com/articles/reddit-will-soon-require-you-to-be-logged-in-likely-because-of-ai-overviews"
+},
+{
+"topic": "Games",
+"source": "IGN",
+"title": "'It's Better if You Don't Have Many Expectations' — Hideki Kamiya Opens Up on Okami Sequel",
+"summary": "IGN got the chance to bend Hideki Kamiya’s ear about the long-awaited Okami sequel at Lucca Comics and Games Festival 2026, where he shed some light on his creative process and addressed fans’ expectations about the upcoming title.",
+"tags": [],
+"link": "https://www.ign.com/articles/its-better-if-you-dont-have-many-expectations-hideki-kamiya-opens-up-on-okami-sequel"
+},
+{
+"topic": "Games",
+"source": "IGN",
+"title": "Crypto Hackers Steal $6.3 Billion From Binance in 'Largest Bank Heist in Human History'",
+"summary": "“The largest bank heist in human history.” That’s what Thursday’s $6.3 billion crypto hack of Binance is being called by insiders.",
+"tags": [],
+"link": "https://www.ign.com/articles/crypto-hackers-steal-63-billion-from-binance-in-largest-bank-heist-in-human-history"
+},
+{
+"topic": "Games",
+"source": "Eurogamer",
+"title": "PUBG live-action series in the works at Netflix, with Donald Glover set to direct and star",
+"summary": "PUBG is being turned into a live-action series for Netflix, with Donald Glover set to direct, write, executive produce, and star.",
+"tags": [
+"Battle Royale",
+"Bluehole Studio",
+"First person",
+"Multiplayer Competitive",
+"Multiplayer Cooperative",
+"PC"
+],
+"link": "https://www.eurogamer.net/pubg-live-action-netflix-series-donald-glover"
+},
+{
+"topic": "Games",
+"source": "Eurogamer",
+"title": "Activision to remove Itaewon crowd crush footage from Call of Duty: Modern Warfare 4 and apologises to victims' families",
+"summary": "Activision has apologised to the bereaved families of the Itaewon crowd crush victims and confirmed it will remove real footage of the tragedy from Call of Duty: Modern Warfare 4.",
+"tags": [
+"Activision",
+"Call of Duty: Modern Warfare 4 (2026)",
+"First person",
+"FPS",
+"Infinity Ward",
+"Military"
+],
+"link": "https://www.eurogamer.net/modern-warfare-4-itaewon-footage-removed-activision-apology"
+},
+{
+"topic": "Games",
+"source": "Eurogamer",
+"title": "The Mortuary Assistant dev on laying his cancelled Paranormal Activity game to rest, resurrecting it as a Halloween freebie, and a potential return to his biggest game",
+"summary": "Halloween feels like an especially appropriate time for Playable Archive's arrival.",
+"tags": [
+"Action Adventure",
+"DarkStone Digital",
+"DreadXP",
+"First person",
+"Indie",
+"Nintendo Switch"
+],
+"link": "https://www.eurogamer.net/playable-archive-paranormal-activity-threshold-the-mortuary-assistant-interview"
+},
+{
+"topic": "Games",
+"source": "Eurogamer",
+"title": "Final Fantasy 14 reveals Evercold’s second new job and February release date, with pre-orders opening next week",
+"summary": "Final Fantasy 14 's next expansion, Evercold, will launch on 23rd February 2027, and its second new job is zephyr, a physical ranged DPS that fights with a crossbow and a bird.",
+"tags": [
+"Final Fantasy XIV: Evercold",
+"Mac",
+"MMO",
+"MMORPG",
+"Multiplayer Competitive",
+"Multiplayer Cooperative"
+],
+"link": "https://www.eurogamer.net/final-fantasy-14-evercold-zephyr-job-release-date"
+},
+{
+"topic": "Games",
+"source": "Eurogamer",
+"title": "Silent Hill: Townfall adds new Hard difficulty in latest update",
+"summary": "Silent Hill: Townfall has added a new Hard difficulty mode and rebalanced every existing setting to make room for it.",
+"tags": [
+"Action Adventure",
+"First person",
+"Horror",
+"Konami",
+"No Code",
+"patches"
+],
+"link": "https://www.eurogamer.net/silent-hill-townfall-hard-mode-update"
+},
+{
+"topic": "Games",
+"source": "Eurogamer",
+"title": "A former volunteer is threatening legal action against fan-made game project Skyblivion",
+"summary": "A former volunteer is threatening legal action against Skyblivion, the long-running fan remake of Oblivion built in Skyrim's engine, over code they contributed to the project.",
+"tags": [
+"Action Adventure",
+"Bethesda Game Studios",
+"Bethesda Softworks",
+"Community",
+"fan games",
+"First person"
+],
+"link": "https://www.eurogamer.net/skyblivion-former-volunteer-legal-threats"
+},
+{
+"topic": "Games",
+"source": "Eurogamer",
+"title": "Silver Pines is a great survival horror throwback with an unexpected Metroidvania twist, but it makes me glad the genre's moved on",
+"summary": "It's those bloody typewriters all over again.",
+"tags": [
+"Action Adventure",
+"Horror",
+"Indie",
+"Metroidvania",
+"Nintendo Switch",
+"Nintendo Switch 2"
+],
+"link": "https://www.eurogamer.net/silver-pines-now-playing"
+},
+{
+"topic": "Games",
+"source": "Eurogamer",
+"title": "What we've been playing - \"I've been intrigued by horrible images of live-action sequences for weeks\"",
+"summary": "Happy Halloween!",
+"tags": [
+"Action Adventure",
+"Amnesia: The Dark Descent",
+"Android",
+"Exploration",
+"First person",
+"Frictional Games"
+],
+"link": "https://www.eurogamer.net/what-weve-been-playing-tenebris-somnia-moonlight-peaks-amnesia"
+},
+{
+"topic": "Games",
+"source": "Eurogamer",
+"title": "GOTY hopeful Mina the Hollower bought the studio financial stability \"for now,\" while the Shovel Knight devs work on a new 3D game",
+"summary": "Yacht Club Games has confirmed that most of its developers are now working on a brand new 3D game (potentially Shovel Knight 3D), after the critically-acclaimed Mina the Hollower did well enough for the team to continue.",
+"tags": [
+"Action Adventure",
+"Bird view / Isometric",
+"Indie",
+"Mac",
+"Mina the Hollower",
+"Multiplayer Competitive"
+],
+"link": "https://www.eurogamer.net/shovel-knight-3d-mina-financial-stability"
+},
+{
+"topic": "Games",
+"source": "Eurogamer",
+"title": "Blizzard hints at console ports for World of Warcraft: Forever - \"Play it wherever you want and, at some point, on whatever you want\"",
+"summary": "After more than two decades dominating the PC MMO battlefield, it sounds like Blizzard Entertainment 's taking the idea of a World of Warcraft console port more seriously than ever.",
+"tags": [
+"Blizzard Entertainment",
+"First person",
+"MMO",
+"MMORPG",
+"Multiplayer Competitive",
+"PC"
+],
+"link": "https://www.eurogamer.net/blizzard-console-port-hints-world-of-warcraft-forever"
+},
+{
+"topic": "Games",
+"source": "PC Gamer",
+"title": "Yacht Club confirms Mina the Hollower was the shot in the arm it needed stay alive—'for now'",
+"summary": "Randomizer and speedrunner settings are up next for the spooky Zelda-like.",
+"tags": [
+"Adventure",
+"Games"
+],
+"link": "https://www.pcgamer.com/games/adventure/yacht-club-confirms-mina-the-hollower-was-the-shot-in-the-arm-it-needed-stay-alive-for-now/"
+},
+{
+"topic": "Games",
+"source": "PC Gamer",
+"title": "The top 10 scariest RPGs I've ever played⁠—and one I'm too afraid to try",
+"summary": "Number 6 will SPOOK you (for 1d6 psychic damage).",
+"tags": [
+"RPG",
+"Games"
+],
+"link": "https://www.pcgamer.com/games/rpg/the-top-10-scariest-rpgs-ive-ever-played-and-one-im-too-afraid-to-try/"
+},
+{
+"topic": "Games",
+"source": "PC Gamer",
+"title": "The votes are in, and PC Gamer readers have picked the scariest game on PC",
+"summary": "The final battle came down to Amnesia: The Dark Descent and Alien: Isolation.",
+"tags": [
+"Horror",
+"Games"
+],
+"link": "https://www.pcgamer.com/games/horror/the-votes-are-in-and-pc-gamer-readers-have-picked-the-scariest-game-on-pc/"
+},
+{
+"topic": "Games",
+"source": "PC Gamer",
+"title": "'Are we going too far with this?': One of the worst scenes in Outlast had its devs debating whether to add it to the game or not",
+"summary": "How far is too far in a universe that constantly pushes gore to its limits?",
+"tags": [
+"Horror",
+"Games"
+],
+"link": "https://www.pcgamer.com/games/horror/are-we-going-too-far-with-this-one-of-the-worst-scenes-in-outlast-had-its-devs-debating-whether-to-add-it-to-the-game-or-not/"
+},
+{
+"topic": "Games",
+"source": "PC Gamer",
+"title": "I spoke to one of the world's only gaming political scientists and he taught me how to avoid getting murdered in Arc Raiders",
+"summary": "\"Players want to feel like they're powerful and can do something cool.\"",
+"tags": [
+"Third Person Shooter",
+"Games"
+],
+"link": "https://www.pcgamer.com/games/third-person-shooter/i-spoke-to-one-of-the-worlds-only-gaming-political-scientists-and-he-taught-me-how-to-avoid-getting-murdered-in-arc-raiders/"
+},
+{
+"topic": "Games",
+"source": "PC Gamer",
+"title": "Dune: Awakening is getting a free DLC that adds a whole new map and swaps out sand for snow",
+"summary": "Funcom will also \"continue expanding the game\" through 2027.",
+"tags": [
+"MMO",
+"Games"
+],
+"link": "https://www.pcgamer.com/games/mmo/dune-awakening-is-getting-a-free-dlc-that-adds-a-whole-new-map-and-swaps-out-sand-for-snow/"
+},
+{
+"topic": "Games",
+"source": "PC Gamer",
+"title": "id Software co-director says the Doom developer is 'working more closely with MachineGames than ever' after Xbox laid off 'about half of our studio'",
+"summary": "MachineGames is rumoured to be working on a third Wolfenstein game.",
+"tags": [
+"FPS",
+"Games"
+],
+"link": "https://www.pcgamer.com/games/fps/id-software-co-director-says-the-doom-developer-is-working-more-closely-with-machinegames-than-ever-after-xbox-laid-off-about-half-of-our-studio/"
+},
+{
+"topic": "Games",
+"source": "PC Gamer",
+"title": "How fast do you type, and has playing MMOs improved your typing in any way?",
+"summary": "On my touch-type, touch-type telephone.",
+"tags": [
+"MMO",
+"Games"
+],
+"link": "https://www.pcgamer.com/games/mmo/how-fast-do-you-type-and-has-playing-mmos-improved-your-typing-in-any-way/"
+},
+{
+"topic": "Games",
+"source": "PC Gamer",
+"title": "Anthropic updates Claude to 'steer it away' from letting users clone games following weeks of Steam being inundated with AI slop",
+"summary": "Anthropic updates Claude to 'steer it away' from letting users clone other games.",
+"tags": [
+"Gaming Industry"
+],
+"link": "https://www.pcgamer.com/gaming-industry/anthropic-updates-claude-to-steer-it-away-from-letting-users-clone-games-following-weeks-of-steam-being-inundated-with-ai-slop/"
+},
+{
+"topic": "Games",
+"source": "PC Gamer",
+"title": "Red Barrels' co-founder is just as confused as we are as to why no one's tried to replicate Outlast's success: 'Honestly, I don't know'",
+"summary": "You'd think someone else would've successfully taken gore to the next level.",
+"tags": [
+"Horror",
+"Games"
+],
+"link": "https://www.pcgamer.com/games/horror/red-barrels-co-founder-is-just-as-confused-as-we-are-as-to-why-no-ones-tried-to-replicate-outlasts-success-honestly-i-dont-know/"
+},
+{
+"topic": "Games",
+"source": "PC Gamer",
+"title": "I'm 100% here for a more grounded, realistic GTA 6, one I believe won't come at the expense of its usual haphazard chaos",
+"summary": "I hope Rockstar makes us work a little harder to wreak our usual mayhem.",
+"tags": [
+"Grand Theft Auto",
+"Games",
+"Action"
+],
+"link": "https://www.pcgamer.com/games/grand-theft-auto/im-100-percent-here-for-a-more-grounded-realistic-gta-6-one-i-believe-wont-come-at-the-expense-of-its-usual-haphazard-chaos/"
+},
+{
+"topic": "Games",
+"source": "PC Gamer",
+"title": "AI-powered game development is 'leading to an explosion of content,' Roblox says, as it brags about 70,000 games published on its platform in the last 5 months alone",
+"summary": "Two days after Steam admitted it has an AI slop problem, Roblox basically bragged about the same thing.",
+"tags": [
+"AI",
+"Software"
+],
+"link": "https://www.pcgamer.com/software/ai/ai-powered-game-development-is-leading-to-an-explosion-of-content-roblox-says-as-it-brags-about-70-000-games-published-on-its-platform-in-the-last-5-months-alone/"
+},
+{
+"topic": "Games",
+"source": "PC Gamer",
+"title": "Soulframe opens up for everyone next week as the Warframe devs prepare the fantasy action RPG for one of its 'biggest, most violent' updates ever next month",
+"summary": "Verse of the Veilands will radically change the structure of the game so it's easier for new players to follow.",
+"tags": [
+"RPG",
+"Games"
+],
+"link": "https://www.pcgamer.com/games/rpg/soulframe-opens-up-for-everyone-today-as-the-warframe-devs-prepare-the-fantasy-action-rpg-for-one-of-its-biggest-most-violent-updates-ever-next-month/"
+},
+{
+"topic": "Games",
+"source": "PC Gamer",
+"title": "New games in 2027: Fable, Final Fantasy 7, and (maybe) GTA 6 on PC",
+"summary": "This is where I'd put the GTA 6 PC release date, if we had one.",
+"tags": [
+"Games"
+],
+"link": "https://www.pcgamer.com/games/new-pc-games-2027/"
+},
+{
+"topic": "Games",
+"source": "PC Gamer",
+"title": "Star Trek Online players are holding public vigils to mourn Patrick Stewart",
+"summary": "In orbit and planetside, the MMO's player base is honoring its most-loved captain.",
+"tags": [
+"MMO",
+"Games"
+],
+"link": "https://www.pcgamer.com/games/mmo/star-trek-online-players-are-holding-public-vigils-to-mourn-patrick-stewart/"
+},
+{
+"topic": "Games",
+"source": "PC Gamer",
+"title": "Romero Games has a new publisher for the game Xbox abandoned, but its 110-person team is now just 16 devs: 'I needed to basically design a new game that could use as much of that stuff as possible'",
+"summary": "Champions adjust.",
+"tags": [
+"FPS",
+"Games"
+],
+"link": "https://www.pcgamer.com/games/fps/romero-games-has-a-new-publisher-for-the-game-xbox-abandoned-but-its-110-person-team-is-now-just-16-devs-i-needed-to-basically-design-a-new-game-that-could-use-as-much-of-that-stuff-as-possible/"
+},
+{
+"topic": "Games",
+"source": "VGC",
+"title": "The Arduview is the world’s first fully transparent handheld, including the screen",
+"summary": "The small credit card-sized handheld has hit its goal on Kickstarter",
+"tags": [
+"News"
+],
+"link": "https://www.videogameschronicle.com/news/the-arduview-is-the-worlds-first-fully-transparent-handheld-including-the-screen/"
+},
+{
+"topic": "Games",
+"source": "VGC",
+"title": "Fanatical’s Mystery Chest Bundle offers up to 25 mystery Steam keys for $17.49, with a chance to get Phantom Blade Zero",
+"summary": "Other prizes could be won on top of the games on offer, including a Steam Frame",
+"tags": [
+"News"
+],
+"link": "https://www.videogameschronicle.com/news/fanaticals-mystery-chest-bundle-offers-up-to-25-mystery-steam-keys-for-17-49-with-a-chance-to-get-phantom-blade-zero/"
+},
+{
+"topic": "Games",
+"source": "Gematsu",
+"title": "Final Fantasy XIV: Evercold expansion delayed to February 23, 2027",
+"summary": "Final Fantasy XIV: Evercold, the patch 8.0 expansion for Final Fantasy XIV, will launch on …",
+"tags": [
+"PC",
+"PS4",
+"PS5",
+"Switch 2",
+"Xbox Series",
+"Clips"
+],
+"link": "https://www.gematsu.com/2026/10/final-fantasy-xiv-evercold-expansion-delayed-to-february-23-2027"
+},
+{
+"topic": "Games",
+"source": "Gematsu",
+"title": "Silver Palace launches December 14",
+"summary": "Free-to-play open-world action adventure RPG Silver Palace will launch for PlayStation 5, PC via client …",
+"tags": [
+"PC",
+"PS5",
+"Smartphone",
+"Clips",
+"Elementa",
+"Release Dates"
+],
+"link": "https://www.gematsu.com/2026/10/silver-palace-launches-december-14"
+},
+{
+"topic": "Games",
+"source": "Insider Gaming",
+"title": "What Is Hello! Pikmin? Nintendo’s New Animated Shorts",
+"summary": "Hello!",
+"tags": [
+"News",
+"Gaming",
+"Nintendo",
+"Nintendo Switch 2",
+"Pikmin 4",
+"Video Game News"
+],
+"link": "https://insider-gaming.com/hello-pikmin-nintendo-pictures-explained/"
+},
+{
+"topic": "Games",
+"source": "Insider Gaming",
+"title": "Pikmin 4 Switch 2 Edition Launches November 12, 2026",
+"summary": "As announced during the first Pikmin Day Direct, Pikmin 4 Nintendo Switch 2 Edition arrives November 12, 2026, with Dandori Academy.",
+"tags": [
+"News",
+"Gaming",
+"Nintendo",
+"Nintendo Switch 2",
+"Pikmin 4",
+"Video Game News"
+],
+"link": "https://insider-gaming.com/pikmin-4-switch-2-edition-release-date/"
+},
+{
+"topic": "Games",
+"source": "Insider Gaming",
+"title": "How to Build Mitya In Genshin Impact—Best Teams, Rotations, Stats & Artifacts",
+"summary": "Make sure you have the best Mitya build if you're playing Genshin Impact by using our complete guide on teams, stats, and more.",
+"tags": [
+"Guides",
+"PC",
+"PS4",
+"PS5",
+"Xbox One",
+"Xbox Series S"
+],
+"link": "https://insider-gaming.com/mitya-build-genshin-impact/"
+},
+{
+"topic": "Games",
+"source": "Insider Gaming",
+"title": "Final Fantasy 14: Evercold Delayed to February 2027",
+"summary": "Final Fantasy 14 Evercold release date is set for February 23, 2027.",
+"tags": [
+"News",
+"Final Fantasy 14: Evercold",
+"MMORPG",
+"Nintendo Switch 2",
+"PC",
+"PS5"
+],
+"link": "https://insider-gaming.com/final-fantasy-14-evercold-release-date/"
+},
+{
+"topic": "Games",
+"source": "Insider Gaming",
+"title": "Silver Palace Arrives on PS5, PC, and Mobile This December",
+"summary": "Silver Palace release date is set for December 14.",
+"tags": [
+"News",
+"Android",
+"Elementa",
+"iOS",
+"PC",
+"PS5"
+],
+"link": "https://insider-gaming.com/silver-palace-release-date/"
+},
+{
+"topic": "Games",
+"source": "Insider Gaming",
+"title": "Phantom Blade Zero Trophy & Achievement Guide",
+"summary": "Phantom Blade Zero Trophy & Achievement Guide: Unlock all trophies with a complete walkthrough, collectibles guide, missables, and tips.",
+"tags": [
+"Guides",
+"Achievement Guide",
+"PC",
+"Phantom Blade Zero",
+"PS5",
+"Trophy Guide"
+],
+"link": "https://insider-gaming.com/phantom-blade-zero-trophy-achievement-guide/"
+},
+{
+"topic": "Games",
+"source": "Insider Gaming",
+"title": "ALGS Split 2 Playoffs Groups Results: The Bracket Stage is Set",
+"summary": "The Group Stage of the ALGS Split 2 Playoffs has concluded with dark horses DINOS leading the pack heading into the Bracket Stage",
+"tags": [
+"Esports",
+"Features",
+"Other Games",
+"Apex Legends",
+"Respawn Entertainment"
+],
+"link": "https://insider-gaming.com/algs-split-2-playoffs-groups-results-the-bracket-stage-is-set/"
+},
+{
+"topic": "Games",
+"source": "Insider Gaming",
+"title": "Team Liquid and G2 Esports Eliminated From LoL Worlds 2026",
+"summary": "Both the LCS and LEC champions have been eliminated from LoL Worlds 2026 with the final day of Swiss Stages now looking stacked",
+"tags": [
+"Esports",
+"Features",
+"League of Legends",
+"League Worlds",
+"Riot Games",
+"Worlds 2026"
+],
+"link": "https://insider-gaming.com/team-liquid-g2-eliminated-lol-worlds-2026/"
+},
+{
+"topic": "Games",
+"source": "Insider Gaming",
+"title": "Star Fox-Inspired Wild Blue Skies Is Out Now on Switch",
+"summary": "Chuhai Labs and Balor Games bring Wild Blue Skies to Nintendo Switch, joining existing PC, PS5 and XBOX versions.",
+"tags": [
+"News",
+"balor games",
+"Gaming",
+"Nintendo Switch",
+"Nintendo Switch 2",
+"PC"
+],
+"link": "https://insider-gaming.com/star-fox-inspired-wild-blue-skies-is-out-now-on-switch/"
+},
+{
+"topic": "Games",
+"source": "Insider Gaming",
+"title": "For Fun Tyler at ALGS Split 2: “We want to prove to people that we can win, that we can do it under pressure”",
+"summary": "Speaking at the start of Day 2 of ALGS Split 2 Playoffs, Tyler talks about For Fun Esports' great start and how they are dealing with tilt",
+"tags": [
+"Esports",
+"Features",
+"Other Games",
+"ALGS",
+"Apex Legends",
+"Respawn Entertainment"
+],
+"link": "https://insider-gaming.com/for-fun-tyler-interview-algs-split-2-2026/"
+},
+{
+"topic": "Games",
+"source": "Nintendo Life",
+"title": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #7 - Grave Expectations",
+"summary": "Dampé my spirits.",
+"tags": [],
+"link": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-7-grave-expectations"
+},
+{
+"topic": "Games",
+"source": "Nintendo Life",
+"title": "Nintendo Drops Surprise 'Pikmin Day' Direct",
+"summary": "Yes, Pikmin Day.",
+"tags": [],
+"link": "https://www.nintendolife.com/news/2026/10/nintendo-drops-surprise-pikmin-day-direct"
+},
+{
+"topic": "Games",
+"source": "Nintendo Life",
+"title": "Talking Point: What Are You Playing This Weekend? (31st October)",
+"summary": "The spooky weekend is upon us.",
+"tags": [],
+"link": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-31st-october"
+},
+{
+"topic": "Games",
+"source": "Nintendo Life",
+"title": "Video: Nintendo Highlights Eight New Things In Zelda: Ocarina Of Time (Switch 2)",
+"summary": "What are you most excited about?",
+"tags": [],
+"link": "https://www.nintendolife.com/news/2026/10/video-nintendo-highlights-eight-new-things-in-zelda-ocarina-of-time-switch-2"
+},
+{
+"topic": "Games",
+"source": "Nintendo Life",
+"title": "\"It's Absolutely Still In Progress\" - Yacht Club Shares An Update About Mina The Hollower's Physical Release",
+"summary": "The team is also working on \"more post-release features\".",
+"tags": [],
+"link": "https://www.nintendolife.com/news/2026/10/its-absolutely-still-in-progress-yacht-club-shares-an-update-about-mina-the-hollowers-physical-release"
+},
+{
+"topic": "Games",
+"source": "Nintendo Life",
+"title": "Final Fantasy XIV Online's Sixth Expansion 'Evercold' Launches February 2027",
+"summary": "New job and much more revealed.",
+"tags": [],
+"link": "https://www.nintendolife.com/news/2026/10/final-fantasy-xiv-onlines-sixth-expansion-evercold-launches-february-2027"
+},
+{
+"topic": "Games",
+"source": "Nintendo Life",
+"title": "Video: 11 Exciting New Games Coming To Switch 1 & 2 In November 2026",
+"summary": "Zelda, Pikmin, Stellar Blade and much more!",
+"tags": [],
+"link": "https://www.nintendolife.com/news/2026/10/video-11-exciting-new-games-coming-to-switch-1-and-2-in-november-2026"
+},
+{
+"topic": "Games",
+"source": "Nintendo Life",
+"title": "Digital Foundry Delivers Its Tech Verdict On Call Of Duty: Modern Warfare 4 On Switch 2",
+"summary": "Is it really all that 'Modern'?",
+"tags": [],
+"link": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-tech-verdict-on-call-of-duty-modern-warfare-4-on-switch-2"
+},
+{
+"topic": "Games",
+"source": "Push Square",
+"title": "Poll: Are You Happy with Your PS Plus Essential Games for November 2026?",
+"summary": "Plus or minus?",
+"tags": [],
+"link": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-november-2026"
+},
+{
+"topic": "Games",
+"source": "Push Square",
+"title": "Meet Marvel Tokon's Newest Fighting Soul in Full Phoenix Cyclops Character Guide",
+"summary": "Sweet Scott Summers child.",
+"tags": [],
+"link": "https://www.pushsquare.com/news/2026/10/meet-marvel-tokons-newest-fighting-soul-in-full-phoenix-cyclops-character-guide"
+},
+{
+"topic": "Games",
+"source": "Push Square",
+"title": "PS5 Adds Another Free Open World Game to Your Rotation with Surprise Silver Palace Release Date",
+"summary": "A console exclusive for now.",
+"tags": [],
+"link": "https://www.pushsquare.com/news/2026/10/ps5-adds-another-free-open-world-game-to-your-rotation-with-surprise-silver-palace-release-date"
+},
+{
+"topic": "Games",
+"source": "Push Square",
+"title": "Guide: These 28+ PS5 and PS Plus Games Are Coming Out Next Week (2nd-8th November)",
+"summary": "Godzilla: Destroy All Monsters!",
+"tags": [],
+"link": "https://www.pushsquare.com/guides/these-28plus-ps5-and-ps-plus-games-are-coming-out-next-week-2nd-8th-november"
+},
+{
+"topic": "Games",
+"source": "Push Square",
+"title": "PS5 Dynamic Pricing Concerns Revived by New Sony Job Listing",
+"summary": "Company looking for someone to lead initiative.",
+"tags": [],
+"link": "https://www.pushsquare.com/news/2026/10/ps5-dynamic-pricing-concerns-revived-by-new-sony-job-listing"
+},
+{
+"topic": "Games",
+"source": "Push Square",
+"title": "Talking Point: What Are You Playing This Weekend? - Issue 656",
+"summary": "Raise hell.",
+"tags": [],
+"link": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-656"
+},
+{
+"topic": "Games",
+"source": "Kotaku",
+"title": "Cult PC-98 Zombie Gore Fest Re-Animated On Steam With First Official English Port",
+"summary": "Dead of the Brian was developer FairyTale’s first foray out of erotica into horror and funnily enough that seems to be the case with its new publisher too",
+"tags": [
+"Culture",
+"Fakku",
+"Horror",
+"Retro",
+"Zombies"
+],
+"link": "https://kotaku.com/cult-pc-98-zombie-gore-fest-re-animated-on-steam-with-first-official-english-port-2000751956"
+},
+{
+"topic": "Games",
+"source": "Kotaku",
+"title": "Going Back To Kingdom Hearts’ Tarzan Level Is About To Make Me Crash Out",
+"summary": "It’s time for the end of the first month of Guiding Key , Kotaku ’s Kingdom Hearts replay series",
+"tags": [
+"Commentary",
+"Games",
+"Opinion",
+"Guiding Key",
+"Kingdom Hearts"
+],
+"link": "https://kotaku.com/kingdom-hearts-tarzan-alice-wonderland-hercules-cloud-2000751714"
+},
+{
+"topic": "Games",
+"source": "Kotaku",
+"title": "15 Excellent Horror Games You Can Get On Steam For Less Than $10 Each",
+"summary": "Terrors of all genres await",
+"tags": [
+"Tips & Guides",
+"Halloween",
+"Horror",
+"Sale",
+"Spooky Week 2026",
+"Steam"
+],
+"link": "https://kotaku.com/15-excellent-horror-games-you-can-get-on-steam-for-less-than-10-each-2000751713"
+},
+{
+"topic": "Games",
+"source": "Kotaku",
+"title": "Shigeru Miyamoto Declares November 1st Pikmin Day In Surprise Nintendo Direct",
+"summary": "While there were no new games announced, the Direct provided updates for the upcoming edition of Pikmin 4, Pikmin Bloom and crocheted hats",
+"tags": [
+"Culture",
+"Nintendo",
+"Nintendo Direct",
+"Pikmin",
+"Pikmin 4",
+"pikmin bloom"
+],
+"link": "https://kotaku.com/shigeru-miyamoto-declares-november-1st-pikmin-day-in-surprise-nintendo-direct-2000751948"
+},
+{
+"topic": "Games",
+"source": "Kotaku",
+"title": "The Outlast Trials Is An Exercise In Bad Taste And Good Politics",
+"summary": "This multiplayer prequel is as gruesome as it is relevant",
+"tags": [
+"Culture",
+"Halloween",
+"Horror",
+"Spooky Week 2026",
+"The Outlast Trials"
+],
+"link": "https://kotaku.com/the-outlast-trials-is-an-exercise-in-bad-taste-and-good-politics-2000750631"
+},
+{
+"topic": "Games",
+"source": "Kotaku",
+"title": "Doom Director Says ‘We’re Doing Great’ After Half Of id Software Was Laid Off",
+"summary": "The studio is collaborating more closely than ever with MachineGames",
+"tags": [
+"Commentary",
+"News",
+"Doom: The Dark Ages",
+"Id Software",
+"MachineGames",
+"Wolfenstein 3"
+],
+"link": "https://kotaku.com/doom-director-says-were-doing-great-after-half-of-id-software-was-laid-off-2000751940"
+},
+{
+"topic": "Games",
+"source": "Kotaku",
+"title": "Final Fantasy 14 Evercold Gets A Month Long Delay But An Awesome New Trailer",
+"summary": "This looks awesome",
+"tags": [
+"News",
+"Delay",
+"Evercold",
+"Final Fantasy XIV",
+"MMORPG",
+"Trailer"
+],
+"link": "https://kotaku.com/final-fantasy-14-evercold-gets-a-month-long-delay-but-an-awesome-new-trailer-2000751936"
+},
+{
+"topic": "Games",
+"source": "Kotaku",
+"title": "If Walmart Canceled Your Zelda Switch 2 Pre-Order, The Store’s Giving You 48 Hours To Get A New One",
+"summary": "The retailer started canceling pre-orders a day before they were supposed to arrive",
+"tags": [
+"Culture",
+"Games",
+"News",
+"Nintendo Switch 2",
+"The Legend of Zelda: Ocarina Of Time"
+],
+"link": "https://kotaku.com/if-walmart-canceled-your-zelda-switch-2-pre-order-the-stores-giving-you-48-hours-to-get-a-new-one-2000751739"
+},
+{
+"topic": "Games",
+"source": "Kotaku",
+"title": "Sam Altman Thinks It’s Good If You Can’t Afford RAM For Your PC",
+"summary": "The OpenAI boss wants all the RAM for himself, seriously",
+"tags": [
+"Commentary",
+"Tech",
+"AI",
+"OpenAI",
+"RAM",
+"Sam Altman"
+],
+"link": "https://kotaku.com/sam-altman-thinks-its-good-if-you-cant-afford-ram-for-your-pc-2000751732"
+},
+{
+"topic": "Games",
+"source": "Kotaku",
+"title": "Oh No, Who Turned Out The Lights In Anor Londo?!",
+"summary": "Me.",
+"tags": [
+"Game Diary",
+"Games",
+"Dark Souls",
+"FromSoftware"
+],
+"link": "https://kotaku.com/oh-no-who-turned-out-the-lights-in-anor-londo-2000751662"
+},
+{
+"topic": "Games",
+"source": "Kotaku",
+"title": "I Completed Big Walk’s Final, Best-Hidden Secret Puzzle, And The Reward Was Delightful",
+"summary": "I still don't know what you call them",
+"tags": [
+"Game Diary",
+"Games",
+"Big Walk",
+"Indie"
+],
+"link": "https://kotaku.com/i-completed-big-walks-final-best-hidden-secret-puzzle-and-the-reward-was-delightful-2000751661"
+},
+{
+"topic": "Games",
+"source": "Kotaku",
+"title": "With AO3 Down, Try The Warhammer 40,000 Novels For Your Angsty Fic Fix",
+"summary": "I'm as serious as an angst-ridden, 'there was only one drop-pod' heart attack",
+"tags": [
+"Entertainment",
+"Sci-Fi",
+"Warhammer 40K"
+],
+"link": "https://kotaku.com/with-ao3-down-try-the-warhammer-40000-novels-for-your-angsty-fic-fix-2000751688"
+},
+{
+"topic": "Games",
+"source": "Kotaku",
+"title": "Fans Think Blizzard Is Teasing A Return To Its Most Beloved Setting In World Of Warcraft: Forever",
+"summary": "There's a chill in the air",
+"tags": [
+"Games",
+"News",
+"World of Warcraft",
+"World of Warcraft: Forever"
+],
+"link": "https://kotaku.com/fans-think-blizzard-is-teasing-a-return-to-its-most-beloved-setting-in-world-of-warcraft-forever-2000751630"
+},
+{
+"topic": "Games",
+"source": "Kotaku",
+"title": "Anthropic Nerfs Claude Again To Stop Users From Making AI Slop Out Of Any ‘Specific Existing Game’",
+"summary": "Anthropic's new Claude guardrail is stopping users from recreating a game 'even if it is renamed or called original'",
+"tags": [
+"News",
+"AI",
+"Anthropic",
+"Claude",
+"Vibe coding"
+],
+"link": "https://kotaku.com/anthropic-nerfs-claude-again-to-stop-users-from-making-ai-slop-out-of-any-specific-existing-game-2000751665"
+},
+{
+"topic": "Games",
+"source": "Kotaku",
+"title": "18 Excellent Horror Games That Are Free With Game Pass For Halloween 2026",
+"summary": "The Xbox subscription service has some good spooky picks",
+"tags": [
+"Feature",
+"Tips & Guides",
+"Game Pass",
+"Halloween",
+"Horror"
+],
+"link": "https://kotaku.com/game-pass-horror-halloween-pc-resident-evil-2000640197"
+},
+{
+"topic": "Games",
+"source": "Kotaku",
+"title": "Overwatch’s First Year-Long Story Reached Its Climax As Fans Ask What Was Even The Point",
+"summary": "Was Vendetta a wasted villain used for Doomfist’s growth?",
+"tags": [
+"Culture",
+"Games",
+"News",
+"Overwatch"
+],
+"link": "https://kotaku.com/overwatch-reign-of-talon-vendetta-doomfist-cinematic-fight-2000751678"
+},
+{
+"topic": "Games",
+"source": "Kotaku",
+"title": "Castlevania: Belmont’s Curse: The Kotaku Review",
+"summary": "Belmont's Curse reminds you of how fun Metroidvanias can be while falling just short of claiming the genre throne",
+"tags": [
+"Games",
+"Reviews",
+"Castlevania: Belmont’s Curse"
+],
+"link": "https://kotaku.com/castlevania-belmonts-curse-the-kotaku-review-2000751626"
+},
+{
+"topic": "Anime",
+"source": "ANN",
+"title": "Romelia War Chronicle Anime's 2nd Part Unveils April 2027 Debut, Ending Song's Artist",
+"summary": "Hiro Shimono to perform ending theme",
+"tags": [
+"Anime"
+],
+"link": "https://www.animenewsnetwork.com/news/2026-10-31/romelia-war-chronicle-anime-2nd-part-unveils-april-2027-debut-ending-song-artist/.243390"
+},
+{
+"topic": "Anime",
+"source": "ANN",
+"title": "Comisma, Sumitomo Mitsui Trust Bank Establish Anime Production Fund",
+"summary": "Fund to offer investment opportunities to companies that have previously found it difficult to enter anime business",
+"tags": [
+"Anime",
+"Industry"
+],
+"link": "https://www.animenewsnetwork.com/news/2026-10-31/comisma-sumitomo-mitsui-trust-bank-establish-anime-production-fund/.243384"
+},
+{
+"topic": "Anime",
+"source": "ANN",
+"title": "Cosplayer Enako Sings, Voice-Acts in Isshiki-san Wants to Know About Love Anime",
+"summary": "New promo video previews opening theme",
+"tags": [
+"Anime"
+],
+"link": "https://www.animenewsnetwork.com/news/2026-10-31/cosplayer-enako-sings-voice-acts-in-isshiki-san-wants-to-know-about-love-anime/.243383"
+},
+{
+"topic": "Anime",
+"source": "ANN",
+"title": "Final Fantasy XIV Game Reveals February 19 Early Access Date for 'Evercold' Expansion, New Job Zephyr",
+"summary": "General launch for expansion is on February 23; Evangelion collab also highlighted in video",
+"tags": [
+"Games"
+],
+"link": "https://www.animenewsnetwork.com/news/2026-10-31/final-fantasy-xiv-game-reveals-february-19-early-access-date-for-evercold-expansion-new-job-zephyr/.243380"
+},
+{
+"topic": "Anime",
+"source": "ANN",
+"title": "Inherit the Winds Anime Reveals 4 More Cast Members, New Visual",
+"summary": "Franchise also gets short story, novel in Japanese",
+"tags": [
+"Anime"
+],
+"link": "https://www.animenewsnetwork.com/news/2026-10-31/inherit-the-winds-anime-reveals-4-more-cast-members-new-visual/.243373"
+},
+{
+"topic": "Anime",
+"source": "ANN",
+"title": "Sanrio's Kuromi Character Gets 1st Film in 2027",
+"summary": "Announced on Kuromi's birthday, Halloween, after 3 net anime series",
+"tags": [
+"Anime"
+],
+"link": "https://www.animenewsnetwork.com/news/2026-10-30/sanrio-kuromi-character-gets-1st-film-in-2027/.243372"
+},
+{
+"topic": "Anime",
+"source": "ANN",
+"title": "North American Anime, Manga Releases, October 25-31",
+"summary": "Yaiba: Samurai Legend, Sword of the Demon Hunter anime; Naruto x Teenage Mutant Ninja Turtles—Manga Style Edition, Tojima Wants to be a Kamen Rider manga ship",
+"tags": [
+"Anime",
+"Manga",
+"Novels",
+"Games"
+],
+"link": "https://www.animenewsnetwork.com/news/2026-10-30/north-american-anime-manga-releases-october-25-31/.243223"
+},
+{
+"topic": "Anime",
+"source": "ANN",
+"title": "Brazil's CCXP Screens World Premiere of Garena Free Fire Game's Free Fire Daybreak Anime",
+"summary": "Screening takes place at São Paulo Expo on December 5",
+"tags": [
+"Anime",
+"Events"
+],
+"link": "https://www.animenewsnetwork.com/news/2026-10-30/brazil-ccxp-screens-world-premiere-of-garena-free-fire-game-free-fire-daybreak-anime/.243371"
+},
+{
+"topic": "Anime",
+"source": "Crunchyroll",
+"title": "10 Best Anime Characters to Take Trick-Or-Treating",
+"summary": "What would Halloween be like with anime characters?",
+"tags": [
+"Features"
+],
+"link": "https://crunchyroll.com/news/features/2026/10/31/best-anime-characters-trick-or-treat"
+},
+{
+"topic": "Anime",
+"source": "Crunchyroll",
+"title": "Romelia War Chronicle Cour 2 Anime Scheduled for April 2027",
+"summary": "New ending theme song performer revealed for ongoing adaptation of fantasy light novels",
+"tags": [
+"Latest News"
+],
+"link": "https://crunchyroll.com/news/latest/2026/10/31/romelia-war-chronicle-cour-2-anime-scheduled-for-april-2027"
+},
+{
+"topic": "Anime",
+"source": "Crunchyroll",
+"title": "ROUNDUP: Anime Gets into the Halloween 2026 Spirit with Spooky Visuals and Illustrations",
+"summary": "A highlight package of this year's tricks and treats from your favorite anime!",
+"tags": [
+"Latest News"
+],
+"link": "https://crunchyroll.com/news/latest/2026/10/31/anime-halloween-art-roundup-2026"
+},
+{
+"topic": "Anime",
+"source": "Crunchyroll",
+"title": "Inherit the Winds Anime Reveals Four More Cast Members",
+"summary": "The original series begins airing in January 2027",
+"tags": [
+"Latest News"
+],
+"link": "https://crunchyroll.com/news/latest/2026/10/31/inherit-the-winds-anime-nishiki-niimi-kisaburo-kawai-toshimaro-yoshida-kyusai-momoyama-cast"
+},
+{
+"topic": "Anime",
+"source": "Crunchyroll",
+"title": "Isshiki-san Wants to Know About Love Anime Opening Theme Song Previewed in New Trailer",
+"summary": "The police rom-com series debuts in January 2027",
+"tags": [
+"Latest News"
+],
+"link": "https://crunchyroll.com/news/latest/2026/10/31/isshiki-san-wants-to-know-about-love-anime-opening-theme-song-main-trailer"
+},
+{
+"topic": "Anime",
+"source": "Crunchyroll",
+"title": "FINAL FANTASY XIV: Evercold Reveals February 23 Launch Date, New Job and More",
+"summary": "A fresh look at the new Ranged DPS and multiple areas",
+"tags": [
+"Latest News"
+],
+"link": "https://crunchyroll.com/news/latest/2026/10/31/final-fantasy-xiv-evercold-february-23-2027-release-date-zephyr-ranged-job"
+},
+{
+"topic": "Anime",
+"source": "Crunchyroll",
+"title": "Voice Actor Nobuhiko Okamoto to Release 40th-Birthday Photobook in February 2027",
+"summary": "Shooting took place in Kyoto, Kobe, and near the Kanto region",
+"tags": [
+"Latest News"
+],
+"link": "https://crunchyroll.com/news/latest/2026/10/31/voice-actor-nobuhiko-okamoto-40th-birthday-photobook-february-2027"
+},
+{
+"topic": "Anime",
+"source": "Crunchyroll",
+"title": "Kagura Nana Releases The Detective Is Already Dead Season 2 Anime Ending Song Music Video",
+"summary": "The new season is currently available on Crunchyroll",
+"tags": [
+"Latest News"
+],
+"link": "https://crunchyroll.com/news/latest/2026/10/31/the-detective-is-already-dead-season-2-anime-ending-song-music-video-kagura-nana"
+},
+{
+"topic": "Anime",
+"source": "Crunchyroll",
+"title": "Sanrio Mascot Kuromi Gets Anime Movie Slated for 2027",
+"summary": "Details on the international release will be announced at a later date",
+"tags": [
+"Latest News"
+],
+"link": "https://crunchyroll.com/news/latest/2026/10/31/kuromi-sanrio-mascot-first-anime-movie-2027"
+},
+{
+"topic": "Anime",
+"source": "MyAnimeList",
+"title": "Supporting Cast for 'Kaze wo Tsugumono' Announced",
+"summary": "The official website for the Kaze wo Tsugumono (Inherit the Winds) original television anime announced supporting cast on Saturday.",
+"tags": [],
+"link": "https://myanimelist.net/news/74888954?_location=rss"
+},
+{
+"topic": "Anime",
+"source": "MyAnimeList",
+"title": "Sumitomo Mitsui Trust Bank, Comisma Plan 10 Billion Yen Anime Production Fund",
+"summary": "Sumitomo Mitsui Trust Bank and IP platform company Comisma have agreed in principle to establish an investment fund focused on anime production, targeting 10 billion yen (approximately US$63.4 million) in assets under management by the end of fiscal 2027.",
+"tags": [],
+"link": "https://myanimelist.net/news/74888629?_location=rss"
+},
+{
+"topic": "Anime",
+"source": "Anime Corner",
+"title": "Isshiki-san Wants to Know About Love Anime Reveals New Trailer, Opening Theme Song Artist",
+"summary": "Isshiki-san Wants to Know About Love anime revealed a new trailer and the opening…",
+"tags": [
+"Anime News",
+"News"
+],
+"link": "https://animecorner.me/isshiki-san-wants-to-know-about-love-anime-reveals-new-trailer-opening-theme-song-artist/"
+},
+{
+"topic": "Anime",
+"source": "Anime Corner",
+"title": "Hiragi-san's House of Vampires Gets Anime",
+"summary": "Hiragi-san's House of Vampires manga by Miki Yoshikawa (A Couple of Cuckoos) is getting…",
+"tags": [
+"Anime News",
+"News"
+],
+"link": "https://animecorner.me/hiragi-sans-house-of-vampires-gets-anime/"
+},
+{
+"topic": "Anime",
+"source": "Siliconera",
+"title": "Double Fine’s Thank You Bus Driver Game Relies on Its Gimmicks",
+"summary": "There’s a lot going on in Thank You Bus Driver, due to the number of gimmicks to monitor in the new Double Fine game.",
+"tags": [
+"Featured",
+"PC",
+"Double Fine",
+"Europe",
+"North America",
+"Playtests"
+],
+"link": "https://www.siliconera.com/double-fines-thank-you-bus-driver-game-relies-on-its-gimmicks/"
+},
+{
+"topic": "Anime",
+"source": "Siliconera",
+"title": "One Piece Pirate Warriors 4 Losing Film Red Song Pack",
+"summary": "The One Piece Pirate Warriors 4 song pack DLC with tracks Uta sang in One Piece Film Red will be delisted next month.",
+"tags": [
+"News",
+"Nintendo Switch",
+"Nintendo Switch 2",
+"PC",
+"PlayStation 4",
+"PlayStation 5"
+],
+"link": "https://www.siliconera.com/one-piece-pirate-warriors-4-losing-film-red-song-pack/"
+},
+{
+"topic": "Anime",
+"source": "Siliconera",
+"title": "Resident Evil 30th Anniversary Photo Frame Camera Launched",
+"summary": "Capcom opened a Resident Evil 30th Anniversary Photo Frame Camera Launched page worldwide ahead of Halloween.",
+"tags": [
+"News",
+"Nintendo Switch 2",
+"PC",
+"PlayStation 5",
+"Xbox Series X",
+"Capcom"
+],
+"link": "https://www.siliconera.com/resident-evil-30th-anniversary-photo-frame-camera-launched/"
+},
+{
+"topic": "Anime",
+"source": "Siliconera",
+"title": "Suzie Yeung Cast as English Voice of Hachiware in Chiikawa",
+"summary": "The acoustic video for the Chiikawa theme song \"Mumbling to Myself\" revealed Suzie Yeung as the English voice of Hachiware.",
+"tags": [
+"Anime",
+"News",
+"Chiikawa",
+"Europe",
+"Japan",
+"North America"
+],
+"link": "https://www.siliconera.com/suzie-yeung-cast-as-english-voice-of-hachiware-in-chiikawa/"
+},
+{
+"topic": "Tech",
+"source": "The Verge",
+"title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
+"summary": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode.",
+"tags": [
+"Microsoft",
+"News",
+"Tech",
+"Windows"
+],
+"link": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings"
+},
+{
+"topic": "Tech",
+"source": "The Verge",
+"title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
+"summary": "While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card.",
+"tags": [
+"Apple",
+"Apple Event 2026",
+"Deals",
+"Gadgets",
+"Laptops",
+"Tech"
+],
+"link": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale"
+},
+{
+"topic": "Tech",
+"source": "The Verge",
+"title": "Touchscreens everywhere!",
+"summary": "Hi, friends!",
+"tags": [
+"Gadgets",
+"Gaming",
+"Installer",
+"Tech"
+],
+"link": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer"
+},
+{
+"topic": "Tech",
+"source": "The Verge",
+"title": "Exclusive details about Akai’s MPC Sample Key",
+"summary": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight.",
+"tags": [
+"Entertainment",
+"Gadgets",
+"Music",
+"Tech"
+],
+"link": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive"
+},
+{
+"topic": "Tech",
+"source": "Engadget",
+"title": "4 drawbacks you should know before buying a PlayStation 5",
+"summary": "The PS5 isn't as good of a buy today as it was early in its life, so you should be aware of the drawbacks in this awkward console generation.",
+"tags": [
+"PlayStation"
+],
+"link": "https://www.engadget.com/2300257/drawbacks-you-should-know-before-buying-playstation-5/"
+},
+{
+"topic": "Tech",
+"source": "Engadget",
+"title": "Bolt Graphics powers on its first Zeus GPU",
+"summary": "Bolt Graphics has been working on its simulation-centric Zeus GPU for a while now and has reached a significant milestone: a successful test run.",
+"tags": [
+"Computing"
+],
+"link": "https://www.engadget.com/2301962/bolt-graphics-powers-on-first-zeus-gpu/"
+},
+{
+"topic": "Tech",
+"source": "Engadget",
+"title": "These Samsung Galaxy Watches won't be getting the new One UI update",
+"summary": "Samsung has released the latest version of its wearable OS, One UI 9 Watch, and most of its watch lineup will get the update - except these.",
+"tags": [
+"Samsung"
+],
+"link": "https://www.engadget.com/2301961/samsung-galaxy-watches-not-getting-one-ui-update/"
+},
+{
+"topic": "Tech",
+"source": "Engadget",
+"title": "How to fix your phone screen when it's unresponsive to touch​",
+"summary": "Few things are more annoying than an unresponsive touchscreen.",
+"tags": [
+"Smartphones"
+],
+"link": "https://www.engadget.com/2301246/how-to-fix-phone-screen-unresponsive-to-touch/"
+},
+{
+"topic": "Tech",
+"source": "Engadget",
+"title": "How building a cheap home server could save you money in the long run",
+"summary": "Using an old PC to create your own server can save you quite a bit of money through a couple of avenues.",
+"tags": [
+"Accessories",
+"TV & Movies",
+"Streaming"
+],
+"link": "https://www.engadget.com/2301243/how-building-cheap-home-server-save-money/"
+},
+{
+"topic": "Tech",
+"source": "Engadget",
+"title": "Why your Spotify might be using so much storage",
+"summary": "Spotify can be a storage hog if you don't have your device's settings optimized.",
+"tags": [
+"Smartphones",
+"Tablets",
+"Streaming"
+],
+"link": "https://www.engadget.com/2300259/why-spotify-uses-so-much-storage/"
+},
+{
+"topic": "Tech",
+"source": "Engadget",
+"title": "How long is too long for a USB cable?",
+"summary": "USB cables, much like their HDMI cousins, have limits on how long they can be.",
+"tags": [
+"Accessories"
+],
+"link": "https://www.engadget.com/2301242/how-long-should-usb-cable-be-maximum-length/"
+},
+{
+"topic": "Tech",
+"source": "Engadget",
+"title": "NASA's second year-long Mars simulation mission ends today",
+"summary": "The second crew that spent a year inside NASA's simulated Mars habitat is emerging today, and the agency will stream it live.",
+"tags": [
+"Space"
+],
+"link": "https://www.engadget.com/2303277/nasa-second-year-long-mars-simulation-mission-ends-today/"
+},
+{
+"topic": "Tech",
+"source": "Engadget",
+"title": "GNSS Vs GPS: What's the difference?",
+"summary": "GNSS and GPS are common terms in the world of satellite navigation.",
+"tags": [
+"Mobile"
+],
+"link": "https://www.engadget.com/2300262/gnss-vs-gps-differences/"
+},
+{
+"topic": "Tech",
+"source": "Engadget",
+"title": "Traveling with electronics? These 5 items could raise TSA red flags",
+"summary": "Travel is stressful enough.",
+"tags": [
+"Accessories"
+],
+"link": "https://www.engadget.com/2301241/tsa-electronics-red-flags/"
+},
+{
+"topic": "Tech",
+"source": "Engadget",
+"title": "The Amazon Fire TV Stick setting you should try for better audio",
+"summary": "Dialogue is an important part of any movie or TV show, but it isn't always as clear as we would like.",
+"tags": [
+"TV & Movies"
+],
+"link": "https://www.engadget.com/2299191/amazon-fire-tv-stick-setting-better-audio/"
+},
+{
+"topic": "Tech",
+"source": "Engadget",
+"title": "What is the purpose of reposting on Instagram and how do you do it?",
+"summary": "It's the easiest way to share posts and reels you like with all of your followers.",
+"tags": [
+"Social Media"
+],
+"link": "https://www.engadget.com/2301218/repost-with-instagram-purpose-how-to-do/"
+},
+{
+"topic": "Tech",
+"source": "Engadget",
+"title": "Sam Altman is upset at you for hoarding RAM in your own computer",
+"summary": "Sam Altman, in an interview, said it's 'terrible' for people to have 'a bunch of the world's limited supply of DRAM' that they barely use.",
+"tags": [
+"AI"
+],
+"link": "https://www.engadget.com/2303266/sam-altman-says-its-terrible-dram-computer/"
+},
+{
+"topic": "Tech",
+"source": "Engadget",
+"title": "Is IMAX 3D a better experience than 2D? Here's what to know",
+"summary": "While IMAX 3D may sound bigger and better, there are a handful of distinct advantages and disadvantages to both movie-viewing experiences.",
+"tags": [
+"Entertainment"
+],
+"link": "https://www.engadget.com/2300266/imax-3d-vs-2d-which-is-better-experience/"
+},
+{
+"topic": "Tech",
+"source": "Engadget",
+"title": "Why SNES games are so expensive",
+"summary": "Scarcity and increased interest in retro games makes for an expensive combo.",
+"tags": [
+"Nintendo"
+],
+"link": "https://www.engadget.com/2301220/why-snes-games-so-expensive/"
+},
+{
+"topic": "Tech",
+"source": "Engadget",
+"title": "5 Samsung One UI features you won't get with other Android phones",
+"summary": "Samsung doesn't just make great phone and tablet hardware; its One UI is also a standout, offering many features you just can't get elsewhere.",
+"tags": [
+"Smartphones",
+"Samsung"
+],
+"link": "https://www.engadget.com/2299207/one-ui-features-not-on-other-androids/"
+},
+{
+"topic": "Tech",
+"source": "Engadget",
+"title": "What is a PDF reader and do you really need a dedicated one on your phone?",
+"summary": "If you don't know what a PDF reader for your phone is, this is the time to learn about it all.",
+"tags": [
+"Smartphones"
+],
+"link": "https://www.engadget.com/2300318/what-is-pdf-reader-do-you-need-on-phone/"
+},
+{
+"topic": "Tech",
+"source": "Engadget",
+"title": "Microsoft really wants you to sell that Xbox you're not using",
+"summary": "Microsoft wants owners to trade in their unused Xbox Series X and S consoles.",
+"tags": [
+"Xbox",
+"Microsoft"
+],
+"link": "https://www.engadget.com/2299867/microsoft-really-wants-you-to-sell-that-xbox-youre-not-using/"
+},
+{
+"topic": "Tech",
+"source": "Engadget",
+"title": "CDs are back, but they come with a modern problem",
+"summary": "With CD sales on the rise again, collectors are finding that enjoying their favorite tunes is more challenging than ever in the modern audio landscape.",
+"tags": [
+"Entertainment"
+],
+"link": "https://www.engadget.com/2298767/cds-are-back-modern-listening-complicated/"
+},
+{
+"topic": "Tech",
+"source": "Engadget",
+"title": "Here's how much the iPhone Pro cost in 2019 vs. 2026",
+"summary": "The iPhone Pro has changed plenty since it was released in 2019, but how do the 2026 iPhone Pro prices fare in comparison with its original price?",
+"tags": [
+"Smartphones",
+"Apple"
+],
+"link": "https://www.engadget.com/2300201/how-much-iphone-pro-cost-2021-vs-2026/"
+},
+{
+"topic": "Tech",
+"source": "9to5Google",
+"title": "Motorola Signature 27 specs detailed in new video, including Tandem OLED display",
+"summary": "Ahead of its launch next week, a new video offers a closer look at the Motorola Signature 27 as well as confirming some key specs.",
+"tags": [
+"News"
+],
+"link": "https://9to5google.com/2026/10/31/motorola-signature-27-specs-hands-on/"
+},
+{
+"topic": "Tech",
+"source": "9to5Google",
+"title": "Samsung mercilessly mocks iPhone Duo ‘crackgate’ in Galaxy Z Fold 8 ads [Video]",
+"summary": "Samsung isn’t holding back when it comes to the iPhone Duo’s messy start.",
+"tags": [
+"News"
+],
+"link": "https://9to5google.com/2026/10/30/samsung-mocks-iphone-duo-crackgate-galaxy-z-fold-8/"
+},
+{
+"topic": "Tech",
+"source": "9to5Google",
+"title": "Pixelated 123: The primary value is the clock",
+"summary": "Welcome to Pixelated episode 123.",
+"tags": [
+"News"
+],
+"link": "https://9to5google.com/2026/10/30/pixelated-123-the-primary-value-is-the-clock/"
+},
+{
+"topic": "Tech",
+"source": "9to5Google",
+"title": "The 12th Google Store is opening on November 6",
+"summary": "Following San Diego and Tokyo in 2026, the next Google Store is opening in Houston on November 6.",
+"tags": [
+"News"
+],
+"link": "https://9to5google.com/2026/10/30/google-store-houston/"
+},
+{
+"topic": "Tech",
+"source": "9to5Mac",
+"title": "PSA: Today’s the last day to purchase discounted cushion kits for Beats 360",
+"summary": "Apple introduced the new Beats 360 headphones about a month and a half ago.",
+"tags": [
+"News"
+],
+"link": "https://9to5mac.com/2026/10/31/last-day-to-purchase-discounted-beats-360-cushion-kits/"
+},
+{
+"topic": "Tech",
+"source": "9to5Mac",
+"title": "MacBook Pro with PROLED XDR looks awesome, but I’m not rushing to upgrade",
+"summary": "After five years, Apple released its first major MacBook Pro overhaul since the M1 Pro/M1 Max models, and well… it was a little bit underwhelming from a design perspective.",
+"tags": [
+"News"
+],
+"link": "https://9to5mac.com/2026/10/31/heres-why-im-not-rushing-to-buy-macbook-pro-oled/"
+},
+{
+"topic": "Tech",
+"source": "9to5Mac",
+"title": "Apple Maps begins blurring NASA, Space Force, and Air Force bases",
+"summary": "You’re not a real space or aviation nerd unless you’ve taken to a map service and zoomed on the historic NASA launch pads or your local Air Force Bases, just for fun, you know?",
+"tags": [
+"News"
+],
+"link": "https://spaceexplored.com/2026/10/30/apple-maps-begins-blurring-nasa-space-force-and-air-force-bases/"
+},
+{
+"topic": "Tech",
+"source": "9to5Mac",
+"title": "Apple @ Work: Next to a growing token bill, Macs might start looking like a bargain",
+"summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform.",
+"tags": [
+"News"
+],
+"link": "https://9to5mac.com/2026/10/31/apple-work-next-to-a-token-bill-macs-might-start-looking-like-a-bargain/"
+},
+{
+"topic": "Tech",
+"source": "9to5Mac",
+"title": "9to5Mac Overtime 088: Finally, a touchscreen MacBook",
+"summary": "Jeff and Fernando discuss everything from Apple’s big week of new hardware releases, including the M6 MacBook Pro, iPad mini 8 with OLED, and, of course, Apple’s new MacBook Pro w/ PROLED XDR Display.",
+"tags": [
+"News"
+],
+"link": "https://9to5mac.com/2026/10/31/9to5mac-overtime-088-finally-a-touchscreen-macbook/"
+},
+{
+"topic": "Tech",
+"source": "9to5Mac",
+"title": "Download all 20 Apple HomeView wallpapers in light and dark mode here",
+"summary": "Apple tonight rolled out the HomeView 27.2 system update, ahead of the device’s official launch on November 13.",
+"tags": [
+"News"
+],
+"link": "https://9to5mac.com/2026/10/30/download-all-20-apple-homeview-wallpapers-in-light-and-dark-mode-here/"
+},
+{
+"topic": "Tech",
+"source": "9to5Mac",
+"title": "WhatsApp announces four new features to make group chats easier to manage",
+"summary": "In a blog post this week, WhatsApp confirmed that it is rolling out four new features designed to make it easier to manage group chats and keep track of what’s going on in each one.",
+"tags": [
+"News"
+],
+"link": "https://9to5mac.com/2026/10/30/whatsapp-announces-four-new-features-to-make-group-chats-easier-to-manage/"
+},
+{
+"topic": "Tech",
+"source": "9to5Mac",
+"title": "9to5Mac Daily: October 30, 2026 – New HomePod features, more",
+"summary": "Listen to a recap of the top stories of the day from 9to5Mac .",
+"tags": [
+"News"
+],
+"link": "https://9to5mac.com/2026/10/30/daily-october-30-2026/"
+},
+{
+"topic": "Tech",
+"source": "9to5Mac",
+"title": "Apple confirms iOS 27.3 beta is coming next week with Apple Intelligence in China",
+"summary": "Apple today took the unusual step of confirming when its next iOS developer beta is expected to arrive, as part of an announcement detailing the upcoming launch of Apple Intelligence in China.",
+"tags": [
+"News"
+],
+"link": "https://9to5mac.com/2026/10/30/apple-confirms-ios-27-3-beta-is-coming-next-week-with-apple-intelligence-in-china/"
+},
+{
+"topic": "Tech",
+"source": "9to5Mac",
+"title": "‘Pluribus’ season 2 reportedly begins filming tomorrow",
+"summary": "According to a report published earlier this month, the second season of Apple TV’s acclaimed sci-fi drama ‘ Pluribus ’ is scheduled to begin filming tomorrow, October 31, in Albuquerque, New Mexico.",
+"tags": [
+"News"
+],
+"link": "https://9to5mac.com/2026/10/30/pluribus-season-2-reportedly-begins-filming-tomorrow/"
+},
+{
+"topic": "Tech",
+"source": "9to5Mac",
+"title": "‘Knives Out’ director launches iPhone camera app that shoots like his movies",
+"summary": "Hollywood director Rian Johnson ( Star Wars: The Last Jedi ) announced a new iPhone camera app that uses the same image processing techniques as his ‘ Knives Out ‘ films.",
+"tags": [
+"News"
+],
+"link": "https://9to5mac.com/2026/10/30/knives-out-director-launches-iphone-camera-app-that-shoots-like-his-movies/"
+},
+{
+"topic": "Tech",
+"source": "9to5Mac",
+"title": "iOS 27.2 adds two FaceTime features, including a personal favorite",
+"summary": "iOS 27.2 adds new features to Messages , Podcasts , Photos , and more—including some easy-to-miss upgrades to FaceTime.",
+"tags": [
+"News"
+],
+"link": "https://9to5mac.com/2026/10/30/ios-27-2-adds-two-facetime-features-including-a-personal-favorite/"
+},
+{
+"topic": "Tech",
+"source": "9to5Mac",
+"title": "Security Bite: This iOS 27.2 camera bug still isn’t enough to make me buy a camera cover",
+"summary": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform .",
+"tags": [
+"News"
+],
+"link": "https://9to5mac.com/2026/10/30/security-bite-this-ios-27-2-camera-bug-still-isnt-enough-to-make-me-buy-a-camera-cover/"
+},
+{
+"topic": "Tech",
+"source": "GSMArena",
+"title": "Motorola Signature 27 flexes muscle on Geekbench ahead of November 5 launch",
+"summary": "Motorola announced the Signature 27 in September at the Snapdragon Summit, where Qualcomm introduced the Snapdragon 8 Elite Gen 6 and Snapdragon 8 Elite Extreme Gen 6 chips.",
+"tags": [
+"news"
+],
+"link": "https://www.gsmarena.com/motorola_signature_27_key_specs_geekbench-news-75301.php"
+},
+{
+"topic": "Tech",
+"source": "GSMArena",
+"title": "Samsung Galaxy Z Fold9 to bring back a long-lost feature the iPhone Duo has",
+"summary": "Samsung put an under-display camera on the inner screen of its book-style foldables for four generations, starting with the Galaxy Z Fold3 back in 2021 and ending with the Galaxy Z Fold6.",
+"tags": [
+"news"
+],
+"link": "https://www.gsmarena.com/samsung_galaxy_z_fold9_to_bring_back_a_longlost_feature_the_iphone_duo_has-news-75295.php"
+},
+{
+"topic": "Tech",
+"source": "GSMArena",
+"title": "WhatsApp announces new features, including Group Status",
+"summary": "WhatsApp has announced new features.",
+"tags": [
+"news"
+],
+"link": "https://www.gsmarena.com/whatsapp_group_status-news-75298.php"
+},
+{
+"topic": "Tech",
+"source": "GSMArena",
+"title": "Deals: iPhone 17 series on sale, OLED-packing iPad mini and touch-enabled MacBook Pro launch",
+"summary": "Apple launched the iPhone Duo last week and unlike most of its releases, it hasn’t been smooth sailing.",
+"tags": [
+"news"
+],
+"link": "https://www.gsmarena.com/deals_iphone_17_series_on_sale_oledpacking_ipad_mini_and_touchenabled_macbook_pro_launch-news-75286.php"
+},
+{
+"topic": "Tech",
+"source": "GSMArena",
+"title": "Samsung Galaxy Fit4 leaks, key features revealed",
+"summary": "Last week we got our first look at the upcoming Samsung Galaxy Fit4 and we now have some specs to go with the images.",
+"tags": [
+"news"
+],
+"link": "https://www.gsmarena.com/samsung_galaxy_fit4_leaks_key_features_revealed_-news-75289.php"
+},
+{
+"topic": "Tech",
+"source": "GSMArena",
+"title": "Here's when Samsung plans to release its Android XR glasses and where",
+"summary": "Earlier this month, a report out of South Korea claimed that Samsung's Intelligent Eyewear would launch in November, citing \"a Samsung official\".",
+"tags": [
+"news"
+],
+"link": "https://www.gsmarena.com/heres_when_samsung_plans_to_release_its_android_xr_glasses_and_where-news-75290.php"
+},
+{
+"topic": "Tech",
+"source": "GSMArena",
+"title": "Apple iPhone 18 Pro vs. iPhone 18 Pro Max",
+"summary": "It's time for an upgrade, and you are eyeing the new iPhone 18 Pro series.",
+"tags": [
+"news"
+],
+"link": "https://www.gsmarena.com/apple_iphone_18_pro_vs_iphone_18_pro_max_battery_camera_price_compared-news-75173.php"
+},
+{
+"topic": "Tech",
+"source": "GSMArena",
+"title": "The Galaxy S27 Ultra chipset saga continues, here's the latest twist",
+"summary": "Which chipset the Galaxy S27 Ultra will use has turned into quite the saga over the past few months.",
+"tags": [
+"news"
+],
+"link": "https://www.gsmarena.com/the_galaxy_s27_ultra_chipset_saga_continues_heres_the_latest_twist-news-75292.php"
+},
+{
+"topic": "Tech",
+"source": "GSMArena",
+"title": "A new vulnerability can brick your Android phone when receiving the SMS of Death",
+"summary": "Security researcher Mark Blaszczyk found a new scary vulnerability that affects phones running Android 12 or later.",
+"tags": [
+"news"
+],
+"link": "https://www.gsmarena.com/a_new_android_vulnerability_can_leave_your_phone_unusable_when_receiving_the_sms_of_death-news-75288.php"
+},
+{
+"topic": "Tech",
+"source": "GSMArena",
+"title": "Oppo Find X10 review",
+"summary": "",
+"tags": [
+"reviews"
+],
+"link": "https://www.gsmarena.com/oppo_find_x10-review-3007.php"
+},
+{
+"topic": "Tech",
+"source": "Tom's Hardware",
+"title": "French lawmakers approve $11.2 billion internet tax based on traffic usage, costs $0.06 per gigabyte of content accessed",
+"summary": "French lawmakers have approved an amendment proposing a €0.055-per-gigabyte tax on digital content delivered to internet subscribers in France.",
+"tags": [
+"Social Media",
+"Software",
+"Applications"
+],
+"link": "https://www.tomshardware.com/software/social-media/french-lawmakers-approve-usd11-2-billion-internet-tax-based-on-traffic-usage-costs-usd0-65-per-gigabyte-of-content-accessed-us-tech-giants-like-google-and-meta-face-new-levies-on-content-delivered-to-french-subscribers"
+},
+{
+"topic": "Tech",
+"source": "Tom's Hardware",
+"title": "'Ghost Students' using AI to apply for student loans with stolen identities, DOJ's Operation Ghostbusters busts $200 million ring",
+"summary": "Fraudsters are using the identities of high school graduates who skipped college to apply for student loans and steal the excess proceeds that do not go to schools.",
+"tags": [
+"Cybersecurity",
+"Tech Industry"
+],
+"link": "https://www.tomshardware.com/tech-industry/cyber-security/ghost-students-using-ai-to-apply-for-student-loans-with-stolen-identities-dojs-operation-ghostbusters-busts-usd200-million-ring-faking-online-college-attendance-unsuspecting-victims-saddled-with-student-debt-they-didnt-sign-up-for"
+},
+{
+"topic": "Tech",
+"source": "Tom's Hardware",
+"title": "Grab a new 3D printer this Halloween weekend, with prices as low as $199",
+"summary": "Pick up a bargain 3D printer, thanks to these big discounts on resin and filament 3DP models from big names like Creality, Elegoo, Prusa and more.",
+"tags": [
+"3D Printing"
+],
+"link": "https://www.tomshardware.com/3d-printing/grab-a-new-3d-printer-this-halloween-weekend-with-prices-as-low-as-usd199-big-discounts-from-elegoo-creality-prusa-and-more-with-filament-and-resin-printers-and-consumables-on-sale"
+},
+{
+"topic": "Tech",
+"source": "Tom's Hardware",
+"title": "ASRock B860 Challenger Wifi Motherboard Review: Entry-level ATX at a great price, with drawbacks",
+"summary": "ASRock’s B860 Challenger Wifi covers the basics and performs well, but slower USB ports, weaker VRMs, and a dated BIOS keep it from standing out, even at the lower price.",
+"tags": [
+"Motherboards",
+"PC Components"
+],
+"link": "https://www.tomshardware.com/pc-components/motherboards/asrock-b860-challenger-wifi-motherboard-review"
+},
+{
+"topic": "Tech",
+"source": "Tom's Hardware",
+"title": "Firm that lets you rent out your idle Mac for AI inference workloads warns of plummeting token costs",
+"summary": "Mac users sharing their compute for AI inference are seeing declining revenues as token prices continue to drop, with Anthropic token falling 77% in under five months.",
+"tags": [
+"Artificial Intelligence",
+"Tech Industry"
+],
+"link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-that-lets-you-rent-out-your-idle-mac-for-ai-inference-workloads-warns-of-plummeting-token-costs-darkbloom-network-sees-earnings-drop-to-usd1-23-a-day-as-anthropic-tokens-fall-77-percent"
+},
+{
+"topic": "Tech",
+"source": "Tom's Hardware",
+"title": "This week in Tom's Hardware Premium: October 31, 2026",
+"summary": "In case you're not yet subscribed to our Tom's Hardware Premium subscription service, here's what you've been missing out on this week",
+"tags": [
+"Tech Industry"
+],
+"link": "https://www.tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-october-31-2026-vera-cpus-available-on-oracle-clusters-building-an-agentic-cpu-benchmark-and-a-primer-to-llms"
+},
+{
+"topic": "Tech",
+"source": "Tom's Hardware",
+"title": "Intel shifts production capacity from consumer to server CPUs in face of 'unprecedented' AI demand",
+"summary": "Intel is expanding chipmaking and advanced packaging capacity across the U.S., Ireland, and Malaysia to meet surging AI-driven demand for data center CPUs amid shrinking PC market and persistent supply constraints.",
+"tags": [
+"CPUs",
+"PC Components"
+],
+"link": "https://www.tomshardware.com/pc-components/cpus/intel-shifts-production-capacity-from-consumer-to-server-cpus-in-face-of-unprecedented-ai-demand-company-navigating-one-of-the-most-significant-supply-shortages-in-history"
+},
+{
+"topic": "Tech",
+"source": "Tom's Hardware",
+"title": "Developer builds a complete Intel 486 PC emulator in a browser",
+"summary": "A developer has created a full Intel 486 PC system, using 100% pure-JavaScript, in a browser.",
+"tags": [
+"Retro Gaming",
+"Video Games"
+],
+"link": "https://www.tomshardware.com/video-games/retro-gaming/developer-builds-a-complete-intel-486-pc-emulator-in-a-browser-100-percent-pure-javascript-retro486-includes-modular-tabs-for-screen-motherboard-storage-expansion-cards-and-more"
+},
+{
+"topic": "Tech",
+"source": "Tom's Hardware",
+"title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+"summary": "Anthropic's Opus 5.5 model blocking attempts at videogame recreation — users also claim their non-malicious generic reverse-engineering tasks are block",
+"tags": [
+"Artificial Intelligence",
+"Tech Industry"
+],
+"link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked"
+},
+{
+"topic": "Tech",
+"source": "Tom's Hardware",
+"title": "AI agent used to perform controversial brain surgery on a mouse, Anthropic Sonnet controlled motorized surgery rig",
+"summary": "The team had to use Sonnet after Opus 5.5 outright refused to run the experiment, while Opus 5 warned that it could stop working in the midst of the operation.",
+"tags": [
+"Artificial Intelligence",
+"Tech Industry"
+],
+"link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/startup-uses-ai-agent-to-perform-controversial-brain-surgery-on-a-mouse-anthropic-sonnet-controlled-motorized-surgery-rig-ai-given-free-reign-to-treat-epilepsy-with-a-range-of-gene-therapy-vectors-after-opus-5-5-refused-to-conduct-biological-experiment"
+},
+{
+"topic": "Tech",
+"source": "Tom's Hardware",
+"title": "Veteran Microsoft engineer makes his own RAM from scratch using AI",
+"summary": "Expensive memory forces former Microsoft engineer to make his own — Dave Plummer makes PDP-11 RAM from scratch",
+"tags": [
+"RAM",
+"PC Components"
+],
+"link": "https://www.tomshardware.com/pc-components/ram/veteran-microsoft-engineer-makes-his-own-ram-from-scratch-using-ai-attempts-to-build-4mb-of-1970s-pdp-11-ram-from-scratch"
+},
+{
+"topic": "Tech",
+"source": "Tom's Hardware",
+"title": "Modder uses a trash 4-kW air conditioner radiator for his test bench to see how well it can cool a PC",
+"summary": "TrashBench repurposes a trash AC radiator for his test bench to see how well it can cool a PC — RTX 3080 didn't run much above ambient temperature",
+"tags": [
+"Liquid Cooling",
+"PC Components",
+"Cooling"
+],
+"link": "https://www.tomshardware.com/pc-components/liquid-cooling/trashbench-repurposes-a-trash-4-kw-air-conditioner-radiator-for-his-test-bench-to-see-how-well-it-can-cool-a-pc-achieves-a-shocking-28c-on-an-nvidia-rtx-3080"
+},
+{
+"topic": "Tech",
+"source": "Tom's Hardware",
+"title": "3D-printed ghost guns may now have a way to be traced to their source",
+"summary": "Researchers from Curtin University in Australia have come up with a way to potentially track down seized 3D-printed guns to their source by identifying differences in material properties in various PLA products.",
+"tags": [
+"3D Printing"
+],
+"link": "https://www.tomshardware.com/3d-printing/3d-printed-guns-may-now-have-a-way-to-be-traced-to-their-source-australian-researchers-correctly-identify-26-out-of-28-printed-pla-samples-to-their-filament-product"
+},
+{
+"topic": "Tech",
+"source": "Tom's Hardware",
+"title": "Tech sleuth claims to have found the oldest GUI application that still works with Windows 11",
+"summary": "A technology enthusiast claims that the oldest GUI application that still runs on Windows 11 is CDPLAYER.EXE from November 1992.",
+"tags": [
+"Windows",
+"Software",
+"Operating Systems"
+],
+"link": "https://www.tomshardware.com/software/windows/tech-sleuth-claims-to-have-found-the-oldest-gui-application-that-still-works-with-windows-11-cdplayer-exe-from-windows-nt-in-november-1992-wins-the-prize"
+},
+{
+"topic": "Tech",
+"source": "Tom's Hardware",
+"title": "Nvidia store quietly pulls the RTX 5080 following RTX 5090 removal",
+"summary": "First the RTX 5090, now the RTX 5080.",
+"tags": [
+"GPUs",
+"PC Components"
+],
+"link": "https://www.tomshardware.com/pc-components/gpus/nvidia-store-quietly-pulls-the-rtx-5080-following-rtx-5090-removal-street-prices-climb-to-2-2x-over-msrp"
+},
+{
+"topic": "Tech",
+"source": "Tom's Hardware",
+"title": "Intel’s woes wipe out $1 trillion of semiconductor market cap in one day",
+"summary": "Intel's gloomy outlook for its PC business wipes out $1 trillion of semiconductor market capitalization in a day, barely affects Apple.",
+"tags": [
+"CPUs",
+"PC Components"
+],
+"link": "https://www.tomshardware.com/pc-components/cpus/intels-woes-wipe-out-usd1-trillion-of-semiconductor-market-cap-in-one-day-pc-market-bloodbath-leaves-few-chip-stocks-unscathed"
+},
+{
+"topic": "Tech",
+"source": "TechCrunch",
+"title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+"summary": "TikTok may be working to become the app that people use for most of their digital activities.",
+"tags": [
+"Apps",
+"Social",
+"evergeen",
+"evergreens",
+"super app",
+"TikTok"
+],
+"link": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/"
+},
+{
+"topic": "Tech",
+"source": "TechCrunch",
+"title": "I took two iPhones on vacation. The Duo won me over.",
+"summary": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
+"tags": [
+"TC",
+"Hardware",
+"Apple",
+"iPhone",
+"foldable iphone"
+],
+"link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/"
+},
+{
+"topic": "Tech",
+"source": "TechCrunch",
+"title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+"summary": "The money behind the money is thrilled, mostly.",
+"tags": [
+"TC",
+"Venture"
+],
+"link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/"
+},
+{
+"topic": "Tech",
+"source": "TechCrunch",
+"title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+"summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
+"tags": [
+"Enterprise",
+"Startups",
+"defense tech",
+"In Brief",
+"Mergers and Acquisitions",
+"Rune technologies"
+],
+"link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/"
+},
+{
+"topic": "Tech",
+"source": "TechCrunch",
+"title": "Applebee’s exposed customers’ personal data after leaving database password in app",
+"summary": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
+"tags": [
+"Security",
+"applebee's",
+"cybersecurity",
+"dine brands",
+"Exclusive"
+],
+"link": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/"
+},
+{
+"topic": "Tech",
+"source": "TechCrunch",
+"title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+"summary": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal & Manges has been the talk of the legal industry.",
+"tags": [
+"Startups",
+"Legal AI"
+],
+"link": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/"
+}
+]

@@ -1,23 +1,32 @@
-# News bot settings. Edit this file to change sources or limits.
+# News bot settings. Edit this file to change sources, rules or the look of posts.
 # Lines starting with "#" are comments and are ignored.
 
 settings:
   # Most posts the bot sends in one check (it checks every 30 minutes).
-  # 4 means up to 8 posts per hour. Topics take turns so none of them crowds out the rest.
-  max_posts_per_run: 4
+  max_posts_per_run: 3
 
   # Skip stories older than this many hours.
   max_age_hours: 12
 
-  # Longest summary text under the title, in characters.
-  summary_max_chars: 280
+  # Longest summary under the title, in characters. Whole sentences are kept when they fit.
+  summary_max_chars: 200
 
   # Seconds to wait between two posts.
   post_delay_seconds: 3
 
-  # How alike two titles must be (0 to 1) to count as the same story from two sites.
-  # Lower = stricter duplicate filter. 0.6 works well.
-  duplicate_title_similarity: 0.6
+  # How strong a story must be to get posted. Points:
+  #   2 for every extra site that reports the same story (the best sign of big news)
+  #   1 if the title has a "strong word" (announced, delayed, trailer, ...; see filters below)
+  #   1 if it names a big name of its topic (see big_names under each topic)
+  # 2 means: reported by 2+ sites, or one site with both a strong word and a big name.
+  # A topic can set its own min_score (Anime does, because it has fewer sources).
+  min_score: 2
+
+  # Stories reported by at least this many sites get the TOP STORY label.
+  top_story_min_sources: 3
+
+  # How alike two titles must be (0 to 1) to count as the same story on two sites. 0.5 works well.
+  same_story_similarity: 0.5
 
   # How many days the bot remembers what it already posted. Keep it above max_age_hours.
   state_retention_days: 7
@@ -25,12 +34,98 @@ settings:
   # Seconds to wait for a news site or Telegram before giving up.
   request_timeout_seconds: 15
 
-# Each topic has a hashtag (shown under every post) and a list of RSS feeds.
+# How each post looks.
+style:
+  # Added at the end of every post, so people who see a forwarded post can find the channel.
+  channel_signature: "@sav_news_channel"
+  # Shown next to the topic for stories reported by several sites (see top_story_min_sources).
+  top_story_label: "TOP STORY"
+
+# One extra post each evening with the day's biggest stories.
+digest:
+  enabled: true
+  # Local time to send it (the first check after this hour sends it).
+  local_hour: 21
+  # Your time zone as hours from UTC. Saudi Arabia is 3.
+  utc_offset_hours: 3
+  # How many stories to list, and the fewest worth sending a digest for.
+  size: 5
+  min_stories: 3
+  title: "🔥 Today's top 5"
+
+# Rules for what counts as filler and what counts as real news.
+# Patterns are regular expressions and ignore upper/lower case.
+filters:
+  # Feed categories that mark filler.
+  skip_tags:
+    - Features
+    - Feature
+    - Guides
+    - Tips & Guides
+    - Reviews
+    - Review
+    - Opinion
+    - Game Diary
+    - Deals
+    - Podcast
+    - Podcasts
+    - evergreen
+    - evergeen
+    - Installer
+    - Sponsored
+    - Buying Guide
+
+  # Pieces of a link that mark filler.
+  skip_url_parts:
+    - /features/
+    - /feature/
+    - /guides/
+    - /guide/
+    - /deals/
+    - /opinion/
+    - /podcast
+    - /reviews/
+    - -review
+    - /sponsored/
+    - /how-to
+
+  # Titles that are filler: lists, how-tos, explainers, reviews, shopping, columns.
+  skip_titles:
+    - '^\d+\s+.*\byou(r|[’'']ll|[’'']re)?\b'
+    - '^(the\s+)?(top\s+)?\d+\s+(best|excellent|great|biggest|exciting|essential|things|ways|reasons|drawbacks|tips|underrated|scariest|new)\b'
+    - '\b(top|best)\s+\d+\b'
+    - '^how (to|long|much|many|fast|often|do|does|did)\b'
+    - '^what (is|are|we[’'']ve|you|to)\b'
+    - '^why (your|you|you[’'']re|so)\b|^why \w+ (is|are) so\b'
+    - '\bhere[’'']s (what|how) (to|much|you)\b'
+    - '(?-i:\b[Vv]s\.?\s)'
+    - '\?\s*$'
+    - '\breview\b'
+    - '^deals?:|\bdeals\b|\b(on sale|black friday|cyber monday|prime day|coupon|gift card|price drop|lowest price|prices as low as)\b|\bdiscount(ed)?\b'
+    - '\bfor \$\d|\bsave \$\d|\d+% off\b'
+    - '\bup for pre-?order\b|\bwhere to (buy|pre-?order)\b'
+    - '^(talking point|poll|guide|video|countdown|feature|opinion|interview|podcast|quiz|recap|roundup|psa|sponsored|editorial|preview|hands-on|gallery|soapbox)\s*:'
+    - '^\S+ daily:|\bovertime \d+|^pixelated \d+|@ work:|^security bite:|^this week in\b|^what we[’'']ve been playing'
+    - '^(i|i[’'']m|i[’'']ve|i[’'']d|my)\b'
+    - '\b(costumes?|wallpapers|gift guide)\b'
+
+  # Words that mark real news. A title with one of these gets 1 point.
+  strong_words:
+    - '\b(announc|reveal|unveil|launch|confirm|delay|cancel|leak|acquir|acquisition|lawsuit|layoff|recall|breach|apologi[sz])\w*'
+    - '\b(sue[sd]?|ban(s|ned)?|hack(ed|ers)?|laid off|shut(s|ting)? down|ipo|record|dies|died|passes away|passed away)\b'
+    - '\brelease date\b|\btrailer\b|\bfirst look\b|\bpremier\w*|\bsequel\b|\bremake\b'
+    - '\bseason \d+\b|\b\d+(st|nd|rd|th) (season|part|cour)\b|\bnew season\b|\bgets (an? )?(tv )?anime\b|\banime adaptation\b|\b(film|movie)\b'
+    - '\braises? \$|\bfunding\b|\b(billion|trillion)\b|\bstock (crash|plunge|soar)\w*|\bprice (hike|increase|cut)s?\b|\braises? prices?\b'
+
+# Each topic has a hashtag, an emoji shown at the top of its posts, big names, and RSS feeds.
+# The same site in two topics counts once when the bot counts how many sites report a story.
 # To add a source: add "- name: ..." and "url: ..." lines under "feeds".
 # To turn a source off: put "#" in front of its two lines.
 topics:
   - name: AI
     hashtag: AI
+    emoji: "🤖"
+    big_names: [OpenAI, ChatGPT, GPT, Anthropic, Claude, Google, Gemini, DeepMind, Meta, Llama, Microsoft, Copilot, Nvidia, Apple Intelligence, xAI, Grok, Mistral, DeepSeek, Sam Altman, Elon Musk]
     feeds:
       - name: The Verge
         url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
@@ -38,11 +133,17 @@ topics:
         url: https://techcrunch.com/category/artificial-intelligence/feed/
       - name: Ars Technica
         url: https://arstechnica.com/ai/feed/
-      # - name: MIT Technology Review
-      #   url: https://www.technologyreview.com/topic/artificial-intelligence/feed
+      - name: The Decoder
+        url: https://the-decoder.com/feed/
+      - name: Wired
+        url: https://www.wired.com/feed/tag/ai/latest/rss
+      - name: MIT Technology Review
+        url: https://www.technologyreview.com/topic/artificial-intelligence/feed
 
   - name: Games
     hashtag: Games
+    emoji: "🎮"
+    big_names: [Nintendo, Switch 2, PlayStation, PS5, Sony, Xbox, Steam, Valve, GTA, Grand Theft Auto, Rockstar, Call of Duty, Activision, Blizzard, Ubisoft, EA, Bethesda, Elder Scrolls, Fallout, Zelda, Mario, Pokemon, Pokémon, Final Fantasy, Square Enix, Capcom, Resident Evil, Elden Ring, FromSoftware, Kojima, Minecraft, Fortnite, Epic Games, Halo, God of War, Witcher, CD Projekt, Cyberpunk, Silksong, Marvel, Doom, Pikmin]
     feeds:
       - name: IGN
         url: https://feeds.feedburner.com/ign/news
@@ -50,16 +151,32 @@ topics:
         url: https://www.gamespot.com/feeds/news/
       - name: Eurogamer
         url: https://www.eurogamer.net/feed
+      - name: PC Gamer
+        url: https://www.pcgamer.com/rss/
+      - name: Kotaku
+        url: https://kotaku.com/rss
+      - name: VGC
+        url: https://www.videogameschronicle.com/feed/
+      - name: Gematsu
+        url: https://www.gematsu.com/feed
+      - name: Insider Gaming
+        url: https://insider-gaming.com/feed/
+      - name: Nintendo Life
+        url: https://www.nintendolife.com/feeds/latest
+      - name: Push Square
+        url: https://www.pushsquare.com/feeds/latest
       # Polygon also posts movie and TV stories, so it is off by default.
       # - name: Polygon
       #   url: https://www.polygon.com/rss/index.xml
-      # - name: PC Gamer
-      #   url: https://www.pcgamer.com/rss/
       # - name: Rock Paper Shotgun
       #   url: https://www.rockpapershotgun.com/feed
 
   - name: Anime
     hashtag: Anime
+    emoji: "🍥"
+    # Fewer anime sources exist, so one strong word or one big name is enough here.
+    min_score: 1
+    big_names: [One Piece, Jujutsu Kaisen, Demon Slayer, Chainsaw Man, Attack on Titan, My Hero Academia, Dragon Ball, Naruto, Boruto, Bleach, Spy x Family, Frieren, Solo Leveling, Dandadan, Kaiju No. 8, Blue Lock, Oshi no Ko, Hunter x Hunter, Ghibli, Miyazaki, Shinkai, MAPPA, Toei, Crunchyroll, Netflix, Pokemon, Pokémon, Gundam, Evangelion, Re:Zero, Sakamoto Days, One-Punch Man, Haikyu, Sanrio]
     feeds:
       - name: Anime News Network
         url: https://www.animenewsnetwork.com/news/rss.xml?ann-edition=w
@@ -67,13 +184,15 @@ topics:
         url: https://cr-news-api-service.prd.crunchyrollsvc.com/v1/en-US/rss
       - name: MyAnimeList
         url: https://myanimelist.net/rss/news.xml
-      # - name: Anime Corner
-      #   url: https://animecorner.me/feed/
+      - name: Anime Corner
+        url: https://animecorner.me/feed/
       # - name: CBR Anime
       #   url: https://www.cbr.com/feed/category/anime/
 
   - name: Tech
     hashtag: Tech
+    emoji: "📱"
+    big_names: [Apple, iPhone, iPad, Mac, iOS, Samsung, Galaxy, Google, Pixel, Android, Microsoft, Windows, Nvidia, AMD, Intel, Qualcomm, Tesla, SpaceX, Meta, Amazon, OnePlus, Xiaomi, WhatsApp, YouTube, TikTok, Instagram, Starlink, OpenAI]
     feeds:
       - name: The Verge
         url: https://www.theverge.com/rss/tech/index.xml
@@ -81,7 +200,13 @@ topics:
         url: https://www.engadget.com/rss.xml
       - name: Ars Technica
         url: https://feeds.arstechnica.com/arstechnica/gadgets
-      # - name: 9to5Google
-      #   url: https://9to5google.com/feed/
-      # - name: GSMArena
-      #   url: https://www.gsmarena.com/rss-news-reviews.php3
+      - name: 9to5Google
+        url: https://9to5google.com/feed/
+      - name: 9to5Mac
+        url: https://9to5mac.com/feed/
+      - name: GSMArena
+        url: https://www.gsmarena.com/rss-news-reviews.php3
+      - name: Tom's Hardware
+        url: https://www.tomshardware.com/feeds/all
+      - name: TechCrunch
+        url: https://techcrunch.com/feed/

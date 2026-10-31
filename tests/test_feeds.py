@@ -151,3 +151,21 @@ def test_unexpected_error_in_one_feed_does_not_stop_the_others(monkeypatch):
     result = collect_articles(make_session(), config, NOW)
     assert [a.title for a in result.articles] == ["Games story here"]
     assert result.failed == ("AI/AI Feed",)
+
+
+def test_feed_categories_and_topic_emoji_are_kept():
+    topic = Topic(name="Anime", hashtag="Anime", feeds=(SOURCE,), emoji="[E]")
+    item = rss_item(
+        "Tagged story here",
+        "https://ann.example.com/t",
+        extra="<category>Features</category><category>News</category>",
+    )
+    [article] = parse_feed(rss(item), topic, SOURCE, 280, NOW)
+    assert article.tags == ("Features", "News")
+    assert article.emoji == "[E]"
+
+
+def test_summary_keeps_whole_sentences():
+    description = "First sentence here. Second sentence is a bit longer than the first one. Third."
+    [article] = parse(rss(rss_item("Sentences", "https://ann.example.com/s2", description=description)), 45)
+    assert article.summary == "First sentence here."

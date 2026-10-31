@@ -12,7 +12,7 @@ import requests
 
 from newsbot.images import image_from_entry
 from newsbot.models import Article, Config, FeedSource, Topic
-from newsbot.text import clean_html, truncate, url_key
+from newsbot.text import clean_html, first_sentences, truncate, url_key
 
 log = logging.getLogger(__name__)
 
@@ -87,13 +87,20 @@ def _to_article(
         key=url_key(link),
         url=link,
         title=truncate(title, _MAX_TITLE_CHARS),
-        summary=truncate(summary, summary_max_chars),
+        summary=first_sentences(summary, summary_max_chars),
         image_url=image_from_entry(entry, link),
         published=published,
         topic=topic.name,
         hashtag=topic.hashtag,
         source=source.name,
+        emoji=topic.emoji,
+        tags=_tags(entry),
     )
+
+
+def _tags(entry: Mapping[str, Any]) -> tuple[str, ...]:
+    terms = (str(tag.get("term") or "").strip() for tag in entry.get("tags") or [])
+    return tuple(term for term in terms if term)
 
 
 def _summary_html(entry: Mapping[str, Any]) -> str:

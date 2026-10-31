@@ -1,4 +1,4 @@
-"""Text helpers: clean feed HTML, shorten text, compare titles, normalise links."""
+"""Text helpers: clean feed HTML, shorten text, split sentences, normalise links."""
 
 import html
 import re
@@ -17,12 +17,8 @@ _FOOTER_PATTERNS = (
 _SKIP_TAGS = {"script", "style", "noscript", "iframe"}
 _TAG_RE = re.compile(r"<[^>]*>")
 _TRACKING_PARAMS = {"fbclid", "gclid", "mc_cid", "mc_eid", "ref", "cmpid", "ito"}
-_STOPWORDS = frozenset(
-    "a an the and or but of for to in on at by with from as is are was were be been it its "
-    "this that these those you your we our they their he she his her will can now new how why what".split()
-)
-_WORD_RE = re.compile(r"[a-z0-9]+")
-_MIN_WORDS_FOR_FUZZY = 3
+# A sentence ends at . ! or ? followed by a capital or digit, so "U.S. government" stays whole.
+_SENTENCE_END_RE = re.compile(r"(?<=[.!?])\s+(?=[\"'“‘(\[]?[A-Z0-9])")
 
 
 class _TextExtractor(HTMLParser):
@@ -107,14 +103,18 @@ def url_key(url: str) -> str:
     return f"{host}{path or '/'}" + (f"?{query}" if query else "")
 
 
-def _title_words(title: str) -> frozenset[str]:
-    words = _WORD_RE.findall(title.casefold().replace("'", ""))
-    return frozenset(w for w in words if w not in _STOPWORDS)
+def split_sentences(text: str) -> list[str]:
+    return [s for s in _SENTENCE_END_RE.split(text.strip()) if s]
 
 
-def title_similarity(first: str, second: str) -> float:
-    """0..1 overlap of the meaningful words in two titles (Jaccard index)."""
-    a, b = _title_words(first), _title_words(second)
-    if min(len(a), len(b)) < _MIN_WORDS_FOR_FUZZY:
-        return 1.0 if a and a == b else 0.0
-    return len(a & b) / len(a | b)
+def first_sentences(text: str, limit: int) -> str:
+    """Whole sentences from the start that fit in `limit`; a too-long first sentence is cut at a word."""
+    if utf16_len(text) <= limit:
+        return text
+    kept = ""
+    for sentence in split_sentences(text):
+        candidate = f"{kept} {sentence}".strip()
+        if utf16_len(candidate) > limit:
+            break
+        kept = candidate
+    return kept or truncate(text, limit)

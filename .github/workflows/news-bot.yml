@@ -10,6 +10,10 @@ on:
         description: "Dry run: only show what would be posted, send nothing"
         type: boolean
         default: false
+      digest_now:
+        description: "Send the daily top stories post now"
+        type: boolean
+        default: false
 
 permissions: {}
 
@@ -44,12 +48,12 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
           DRY_RUN: ${{ inputs.dry_run }}
+          DIGEST_NOW: ${{ inputs.digest_now }}
         run: |
-          if [ "$DRY_RUN" = "true" ]; then
-            python -m newsbot --dry-run
-          else
-            python -m newsbot
-          fi
+          args=()
+          if [ "$DRY_RUN" = "true" ]; then args+=(--dry-run); fi
+          if [ "$DIGEST_NOW" = "true" ]; then args+=(--digest-now); fi
+          python -m newsbot "${args[@]}"
 
       # Runs even if posting failed halfway, so stories already sent are never sent again.
       # These commits also count as repository activity, which stops GitHub from
