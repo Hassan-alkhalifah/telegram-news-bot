@@ -7,10 +7,28 @@
    "topic": "Anime",
    "status": "posted"
   },
+  "crunchyroll.com/news/features/2026/10/31/best-anime-characters-trick-or-treat": {
+   "at": "2026-10-31T18:24:19.596609+00:00",
+   "title": "10 Best Anime Characters to Take Trick-Or-Treating",
+   "topic": "Anime",
+   "status": "posted"
+  },
   "engadget.com/2300257/drawbacks-you-should-know-before-buying-playstation-5": {
    "at": "2026-10-31T18:14:06.683532+00:00",
    "title": "4 drawbacks you should know before buying a PlayStation 5",
    "topic": "Tech",
+   "status": "posted"
+  },
+  "engadget.com/2301962/bolt-graphics-powers-on-first-zeus-gpu": {
+   "at": "2026-10-31T18:24:19.596609+00:00",
+   "title": "Bolt Graphics powers on its first Zeus GPU",
+   "topic": "Tech",
+   "status": "posted"
+  },
+  "eurogamer.net/modern-warfare-4-itaewon-footage-removed-activision-apology": {
+   "at": "2026-10-31T18:24:19.596609+00:00",
+   "title": "Activision to remove Itaewon crowd crush footage from Call of Duty: Modern Warfare 4 and apologises to victims' families",
+   "topic": "Games",
    "status": "posted"
   },
   "eurogamer.net/pubg-live-action-netflix-series-donald-glover": {
@@ -24,12 +42,18 @@
    "title": "OpenAI reportedly lowers funding target for new round",
    "topic": "AI",
    "status": "posted"
+  },
+  "theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code": {
+   "at": "2026-10-31T18:24:19.596609+00:00",
+   "title": "I built an AI Tamagotchi before Meta could",
+   "topic": "AI",
+   "status": "posted"
   }
  },
  "topic_last_posted": {
-  "AI": "2026-10-31T18:14:06.683532+00:00",
-  "Anime": "2026-10-31T18:14:06.683532+00:00",
-  "Games": "2026-10-31T18:14:06.683532+00:00",
-  "Tech": "2026-10-31T18:14:06.683532+00:00"
+  "AI": "2026-10-31T18:24:19.596609+00:00",
+  "Anime": "2026-10-31T18:24:19.596609+00:00",
+  "Games": "2026-10-31T18:24:19.596609+00:00",
+  "Tech": "2026-10-31T18:24:19.596609+00:00"
  }
 }
