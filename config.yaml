@@ -1,0 +1,87 @@
+# News bot settings. Edit this file to change sources or limits.
+# Lines starting with "#" are comments and are ignored.
+
+settings:
+  # Most posts the bot sends in one check (it checks every 30 minutes).
+  # 4 means up to 8 posts per hour. Topics take turns so none of them crowds out the rest.
+  max_posts_per_run: 4
+
+  # Skip stories older than this many hours.
+  max_age_hours: 12
+
+  # Longest summary text under the title, in characters.
+  summary_max_chars: 280
+
+  # Seconds to wait between two posts.
+  post_delay_seconds: 3
+
+  # How alike two titles must be (0 to 1) to count as the same story from two sites.
+  # Lower = stricter duplicate filter. 0.6 works well.
+  duplicate_title_similarity: 0.6
+
+  # How many days the bot remembers what it already posted. Keep it above max_age_hours.
+  state_retention_days: 7
+
+  # Seconds to wait for a news site or Telegram before giving up.
+  request_timeout_seconds: 15
+
+# Each topic has a hashtag (shown under every post) and a list of RSS feeds.
+# To add a source: add "- name: ..." and "url: ..." lines under "feeds".
+# To turn a source off: put "#" in front of its two lines.
+topics:
+  - name: AI
+    hashtag: AI
+    feeds:
+      - name: The Verge
+        url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+      - name: TechCrunch
+        url: https://techcrunch.com/category/artificial-intelligence/feed/
+      - name: Ars Technica
+        url: https://arstechnica.com/ai/feed/
+      # - name: MIT Technology Review
+      #   url: https://www.technologyreview.com/topic/artificial-intelligence/feed
+
+  - name: Games
+    hashtag: Games
+    feeds:
+      - name: IGN
+        url: https://feeds.feedburner.com/ign/news
+      - name: GameSpot
+        url: https://www.gamespot.com/feeds/news/
+      - name: Eurogamer
+        url: https://www.eurogamer.net/feed
+      # Polygon also posts movie and TV stories, so it is off by default.
+      # - name: Polygon
+      #   url: https://www.polygon.com/rss/index.xml
+      # - name: PC Gamer
+      #   url: https://www.pcgamer.com/rss/
+      # - name: Rock Paper Shotgun
+      #   url: https://www.rockpapershotgun.com/feed
+
+  - name: Anime
+    hashtag: Anime
+    feeds:
+      - name: Anime News Network
+        url: https://www.animenewsnetwork.com/news/rss.xml?ann-edition=w
+      - name: Crunchyroll News
+        url: https://cr-news-api-service.prd.crunchyrollsvc.com/v1/en-US/rss
+      - name: MyAnimeList
+        url: https://myanimelist.net/rss/news.xml
+      # - name: Anime Corner
+      #   url: https://animecorner.me/feed/
+      # - name: CBR Anime
+      #   url: https://www.cbr.com/feed/category/anime/
+
+  - name: Tech
+    hashtag: Tech
+    feeds:
+      - name: The Verge
+        url: https://www.theverge.com/rss/tech/index.xml
+      - name: Engadget
+        url: https://www.engadget.com/rss.xml
+      - name: Ars Technica
+        url: https://feeds.arstechnica.com/arstechnica/gadgets
+      # - name: 9to5Google
+      #   url: https://9to5google.com/feed/
+      # - name: GSMArena
+      #   url: https://www.gsmarena.com/rss-news-reviews.php3

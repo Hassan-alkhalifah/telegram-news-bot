@@ -1,0 +1,28 @@
+[project]
+name = "newsbot"
+version = "1.0.0"
+description = "Telegram channel bot that posts the latest AI, games, anime and tech news from RSS feeds."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-q"
+
+[tool.coverage.run]
+source = ["newsbot"]
+
+[tool.black]
+line-length = 110
+target-version = ["py310"]
+
+[tool.ruff]
+line-length = 110
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "S"]
+ignore = ["E501"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["S101"]

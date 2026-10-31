@@ -1,0 +1,2 @@
+# Keep line endings as LF in the repository (the bot runs on Linux in GitHub Actions).
+* text=auto eol=lf

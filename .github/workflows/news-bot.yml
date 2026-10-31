@@ -1,0 +1,80 @@
+name: News bot
+
+on:
+  schedule:
+    # Every 30 minutes (UTC). GitHub can start scheduled runs a few minutes late when it is busy.
+    - cron: "7,37 * * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run: only show what would be posted, send nothing"
+        type: boolean
+        default: false
+
+permissions: {}
+
+# Never run two copies at once; that could post the same story twice.
+concurrency:
+  group: news-bot
+  cancel-in-progress: false
+
+jobs:
+  post-news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write # lets the "Save" step push data/posted.json
+    steps:
+      # No git credentials on disk while packages install and the bot runs; only the Save step gets them.
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Post news
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          if [ "$DRY_RUN" = "true" ]; then
+            python -m newsbot --dry-run
+          else
+            python -m newsbot
+          fi
+
+      # Runs even if posting failed halfway, so stories already sent are never sent again.
+      # These commits also count as repository activity, which stops GitHub from
+      # switching the schedule off after 60 quiet days.
+      - name: Save the list of posted stories
+        if: always() && inputs.dry_run != true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          [ -f data/posted.json ] || exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/posted.json
+          if git diff --cached --quiet; then
+            echo "Nothing new to save."
+            exit 0
+          fi
+          git commit --quiet -m "chore: update posted news list"
+          remote="https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          for attempt in 1 2 3; do
+            if git pull --rebase --quiet "$remote" "$GITHUB_REF_NAME" && git push --quiet "$remote" "HEAD:$GITHUB_REF_NAME"; then
+              exit 0
+            fi
+            echo "Push attempt $attempt failed, retrying"
+            sleep 5
+          done
+          echo "Could not save data/posted.json. Check Settings > Actions > General > Workflow permissions." >&2
+          exit 1
