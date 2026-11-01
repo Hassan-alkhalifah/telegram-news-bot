@@ -573,6 +573,17 @@
    "summary": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
    "title_ar": "Pixel 11 Pro Fold: مستطيل متين في عالم واسع جداً"
   },
+  "the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help": {
+   "at": "2026-11-01T15:19:41.333043+00:00",
+   "title": "Google wants video AI to understand what people need as they work",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help/",
+   "score": 1,
+   "sources": 1,
+   "summary": "A Google-led research team built StreamVibe, a video agent designed to watch people cook or assemble furniture and speak up only when help is needed.",
+   "title_ar": "Google تريد من الذكاء الاصطناعي الخاص بالفيديو فهم ما يحتاجه الأشخاص أثناء عملهم"
+  },
   "the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage": {
    "at": "2026-11-01T15:13:44.571929+00:00",
    "title": "OpenAI is steering ChatGPT users toward more paid usage",
@@ -595,6 +606,17 @@
    "summary": "OpenAI raised only about $11 billion in its latest funding round, less than half of the $30 billion it was targeting.",
    "title_ar": ""
   },
+  "the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing": {
+   "at": "2026-11-01T15:19:41.333043+00:00",
+   "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
+   "score": 1,
+   "sources": 1,
+   "summary": "OpenAI combines the Chat and Work modes into a single interface.",
+   "title_ar": "دمج الدردشة والعمل القادم من OpenAI في ChatGPT يشير إلى نهاية تسعير الاستخدام المفتوح"
+  },
   "theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code": {
    "at": "2026-10-31T18:24:19.596609+00:00",
    "title": "I built an AI Tamagotchi before Meta could",
@@ -616,13 +638,24 @@
    "sources": 1,
    "summary": "Thingiverse partners with Anycubic to bring models directly to 3D printers.",
    "title_ar": "Anycubic و Thingiverse تعلنان عن شراكة حصرية في الطباعة ثلاثية الأبعاد - منصة MakerOnline توفر نماذج 3MF ملونة بضغطة زر واحدة"
+  },
+  "tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers": {
+   "at": "2026-11-01T15:19:41.333043+00:00",
+   "title": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers",
+   "score": 1,
+   "sources": 1,
+   "summary": "OpenAI CEO Sam Altman met with around 50 Samsung executives in South Korea on October 31 to discuss AI's future, business opportunities and the technology's impact on corporate operations.",
+   "title_ar": "Sam Altman يجتمع مع قيادة Samsung لتأمين المزيد من ذاكرة الوصول العشوائي (RAM) لمراكز البيانات وسط نقص حاد"
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-01T15:13:44.571929+00:00",
+  "AI": "2026-11-01T15:19:41.333043+00:00",
   "Anime": "2026-11-01T15:04:30.961295+00:00",
   "Games": "2026-11-01T15:04:30.961295+00:00",
-  "Tech": "2026-11-01T15:13:44.571929+00:00"
+  "Tech": "2026-11-01T15:19:41.333043+00:00"
  },
  "digest_day": "2026-10-31",
  "weekly_day": ""
