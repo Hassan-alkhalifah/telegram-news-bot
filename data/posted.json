@@ -265,6 +265,17 @@
    "summary": "A report said the company is already working on the second version that's codenamed Max 2.",
    "title_ar": "تقارير تفيد بأن Meta صنعت نموذجاً أولياً لروبوت بشري يمكنه القيام بالأعمال المنزلية"
   },
+  "engadget.com/2303446/all-the-leaks-for-the-portal-prequel-f-stop-have-been-compiled-into-a-playable-game": {
+   "at": "2026-11-01T18:00:42.744929+00:00",
+   "title": "All the leaks for the Portal prequel F-Stop have been compiled into a playable game",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2303446/all-the-leaks-for-the-portal-prequel-f-stop-have-been-compiled-into-a-playable-game/",
+   "score": 0,
+   "sources": 1,
+   "summary": "This rough version is the closest thing to a release we'll see.",
+   "title_ar": ""
+  },
   "eurogamer.net/final-fantasy-14-evercold-zephyr-job-release-date": {
    "at": "2026-10-31T19:01:53.204888+00:00",
    "title": "Final Fantasy 14 reveals Evercold’s second new job and February release date, with pre-orders opening next week",
@@ -606,6 +617,17 @@
    "summary": "MachineGames is rumoured to be working on a third Wolfenstein game.",
    "title_ar": ""
   },
+  "pcgamer.com/games/fps/valves-long-lost-prototype-portal-prequel-appears-online-after-nearly-20-years": {
+   "at": "2026-11-01T18:00:42.744929+00:00",
+   "title": "Valve's long-lost prototype Portal prequel appears online after nearly 20 years",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/games/fps/valves-long-lost-prototype-portal-prequel-appears-online-after-nearly-20-years/",
+   "score": 0,
+   "sources": 1,
+   "summary": "F-Stop was a result of a post-Orange Box, 2007 Valve game jam.",
+   "title_ar": ""
+  },
   "pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt": {
    "at": "2026-11-01T08:08:31.696936+00:00",
    "title": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
@@ -804,6 +826,17 @@
    "summary": "OpenAI CEO Sam Altman met with around 50 Samsung executives in South Korea on October 31 to discuss AI's future, business opportunities and the technology's impact on corporate operations.",
    "title_ar": "Sam Altman يجتمع مع قيادة Samsung لتأمين المزيد من ذاكرة الوصول العشوائي (RAM) لمراكز البيانات وسط نقص حاد"
   },
+  "tomshardware.com/tech-industry/drones/college-student-unofficially-breaks-world-record-for-fastest-jet-powered-drone-with-491-mph-aircraft-built-in-his-dorm-reaper-aims-to-grab-the-usd800-000-boom-prize": {
+   "at": "2026-11-01T18:00:42.744929+00:00",
+   "title": "College student unofficially breaks world record for fastest jet-powered drone with 491 mph aircraft built in his dorm",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/drones/college-student-unofficially-breaks-world-record-for-fastest-jet-powered-drone-with-491-mph-aircraft-built-in-his-dorm-reaper-aims-to-grab-the-usd800-000-boom-prize",
+   "score": 1,
+   "sources": 1,
+   "summary": "An undergraduate student from Georgia Tech is trying his hand at an $800k prize for the fastest jet-powered RC aircraft, achieving 790 km/h (491 mph) and breaking the previous world record.",
+   "title_ar": "طالب جامعي يحطم رقمًا قياسيًا غير رسمي لأسرع طائرة بدون طيار تعمل بالنفث بسرعة 491 ميلًا في الساعة بناها في غرفة سكنه الجامعي"
+  },
   "tomshardware.com/tech-industry/space/usaf-successfully-tests-dropping-spacex-starfall-cargo-drop-pods-from-space-2-200-pound-capsule-drops-military-supplies-in-the-pacific-to-test-starcraft-like-supply-drops": {
    "at": "2026-11-01T15:45:26.599272+00:00",
    "title": "USAF successfully tests dropping SpaceX Starfall cargo drop pods from space",
@@ -831,8 +864,8 @@
   "AI": "2026-11-01T15:19:41.333043+00:00",
   "Anime": "2026-11-01T15:04:30.961295+00:00",
   "Games": "2026-11-01T16:30:37.596792+00:00",
-  "Tech": "2026-11-01T17:45:30.642959+00:00"
+  "Tech": "2026-11-01T18:00:42.744929+00:00"
  },
- "digest_day": "2026-10-31",
+ "digest_day": "2026-11-01",
  "weekly_day": ""
 }
