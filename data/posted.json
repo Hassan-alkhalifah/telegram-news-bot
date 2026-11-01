@@ -199,6 +199,17 @@
    "summary": "",
    "title_ar": ""
   },
+  "engadget.com/2301053/tesla-ditching-solar-roof-tiles-discontinued-good-reason": {
+   "at": "2026-11-01T15:45:26.599272+00:00",
+   "title": "Tesla is ditching its solar roof tiles for a good reason",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2301053/tesla-ditching-solar-roof-tiles-discontinued-good-reason/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Tesla was making solar roof panels that were designed to look like typical roof shingles if you saw them from the street, but they were transparent from above.",
+   "title_ar": "Tesla تتخلى عن بلاط الأسقف الشمسية لسبب وجيه"
+  },
   "engadget.com/2301962/bolt-graphics-powers-on-first-zeus-gpu": {
    "at": "2026-10-31T18:24:19.596609+00:00",
    "title": "Bolt Graphics powers on its first Zeus GPU",
@@ -682,13 +693,35 @@
    "sources": 1,
    "summary": "OpenAI CEO Sam Altman met with around 50 Samsung executives in South Korea on October 31 to discuss AI's future, business opportunities and the technology's impact on corporate operations.",
    "title_ar": "Sam Altman يجتمع مع قيادة Samsung لتأمين المزيد من ذاكرة الوصول العشوائي (RAM) لمراكز البيانات وسط نقص حاد"
+  },
+  "tomshardware.com/tech-industry/space/usaf-successfully-tests-dropping-spacex-starfall-cargo-drop-pods-from-space-2-200-pound-capsule-drops-military-supplies-in-the-pacific-to-test-starcraft-like-supply-drops": {
+   "at": "2026-11-01T15:45:26.599272+00:00",
+   "title": "USAF successfully tests dropping SpaceX Starfall cargo drop pods from space",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/space/usaf-successfully-tests-dropping-spacex-starfall-cargo-drop-pods-from-space-2-200-pound-capsule-drops-military-supplies-in-the-pacific-to-test-starcraft-like-supply-drops",
+   "score": 1,
+   "sources": 1,
+   "summary": "The Rocket Cargo capability should allow U.S. forces to resupply quickly without risking aircrews and equipment, especially in contested areas.",
+   "title_ar": "القوات الجوية الأمريكية تختبر بنجاح إسقاط كبسولات الشحن SpaceX Starfall من الفضاء"
+  },
+  "tomshardware.com/tech-industry/space/voyager-1-probe-to-hit-historic-one-light-day-distance-from-earth-in-17-days-49-year-old-spacecraft-travels-16-billion-miles-and-survives-nearly-ten-times-the-length-of-its-original-five-year-mission": {
+   "at": "2026-11-01T15:45:26.599272+00:00",
+   "title": "Voyager 1 probe to hit historic one light-day distance from Earth in 17 days — 49-year-old spacecraft travels 16 billion miles",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/space/voyager-1-probe-to-hit-historic-one-light-day-distance-from-earth-in-17-days-49-year-old-spacecraft-travels-16-billion-miles-and-survives-nearly-ten-times-the-length-of-its-original-five-year-mission",
+   "score": 1,
+   "sources": 1,
+   "summary": "It took the space probe nearly 50 years to get to one light-day, with NASA scientists and engineers going through lengths to ensure that it could keep operating for as long as possible.",
+   "title_ar": "المسبار Voyager 1 سيصل إلى مسافة تاريخية تبلغ يوماً ضوئياً واحداً عن الأرض خلال 17 يوماً - المركبة الفضائية البالغة من العمر 49 عاماً تقطع 16 مليار ميل"
   }
  },
  "topic_last_posted": {
   "AI": "2026-11-01T15:19:41.333043+00:00",
   "Anime": "2026-11-01T15:04:30.961295+00:00",
   "Games": "2026-11-01T15:04:30.961295+00:00",
-  "Tech": "2026-11-01T15:30:37.378625+00:00"
+  "Tech": "2026-11-01T15:45:26.599272+00:00"
  },
  "digest_day": "2026-10-31",
  "weekly_day": ""
