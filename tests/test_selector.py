@@ -310,8 +310,9 @@ def test_big_news_does_not_wait_for_the_gap():
 
 
 def test_real_day_with_the_repo_settings_mixes_topics():
-    """A day of real stories, checked every 15 minutes: no topic posts twice within an hour (except
-    TOP STORY news), and every topic gets a share."""
+    """A day of real stories, checked every 15 minutes: every topic gets a share, a topic posts at most
+    once per check, no check sits idle while strong news waits, and a topic only skips its hour (outside
+    TOP STORY news) in a check that posts nothing else."""
     from collections import Counter
 
     from newsbot.config import load_config
@@ -325,15 +326,19 @@ def test_real_day_with_the_repo_settings_mixes_topics():
     for step in range(4 * 30):
         now = start + timedelta(minutes=15 * step)
         visible = [a for a in articles if a.published <= now]
-        for story in select_stories(visible, state, config, now).to_post:
+        selection = select_stories(visible, state, config, now)
+        assert selection.to_post or not selection.waiting, f"idle check at {now} with news waiting"
+        topics_now = [s.lead.topic for s in selection.to_post]
+        assert len(topics_now) == len(set(topics_now)), f"one topic posted twice at {now}"
+        for story in selection.to_post:
+            last = state.topic_last_posted.get(story.lead.topic)
+            early = last is not None and now - last < gap - timedelta(minutes=2)
+            if early and story.sources < config.settings.top_story_min_sources:
+                assert topics_now == [story.lead.topic], f"{story.lead.topic} skipped its hour at {now}"
+        for story in selection.to_post:
             posts.append((now, story))
             state = posted(state, story.lead.key, story.lead.title, topic=story.lead.topic, at=now)
 
-    for topic in {s.lead.topic for _, s in posts}:
-        times = [
-            t for t, s in posts if s.lead.topic == topic and s.sources < config.settings.top_story_min_sources
-        ]
-        assert all(later - earlier >= gap for earlier, later in zip(times, times[1:], strict=False)), topic
     by_topic = Counter(s.lead.topic for _, s in posts)
     assert set(by_topic) == {"AI", "Games", "Anime", "Tech"} and min(by_topic.values()) >= 4
 
@@ -347,10 +352,45 @@ def test_check_that_starts_a_few_seconds_early_still_counts_the_hour():
     assert [s.lead.topic for s in selection.to_post] == ["Tech"]
 
 
-def test_a_topic_still_waits_most_of_the_hour():
+def test_a_topic_waits_its_hour_while_another_topic_has_news():
     config = make_config(topics=("Games", "Tech"), max_posts_per_run=3, topic_gap_minutes=60)
     state = posted(
         BotState.empty(), "x.com/1", unique_title("p1"), topic="Tech", at=NOW - timedelta(minutes=50)
     )
-    selection = select_stories(tech_and_games(games_count=0), state, config, NOW)
-    assert selection.to_post == ()
+    selection = select_stories(tech_and_games(), state, config, NOW)
+    assert [s.lead.topic for s in selection.to_post] == ["Games"]
+
+
+def test_the_only_topic_with_news_does_not_wait_but_posts_one_story_per_check():
+    config = make_config(topics=("Games", "Tech"), max_posts_per_run=3, topic_gap_minutes=60)
+    state = posted(
+        BotState.empty(), "x.com/1", unique_title("p1"), topic="Tech", at=NOW - timedelta(minutes=5)
+    )
+    selection = select_stories(tech_and_games(tech_count=3, games_count=0), state, config, NOW)
+    assert [s.lead.topic for s in selection.to_post] == ["Tech"]
+    assert selection.waiting == 2
+
+
+def test_when_every_topic_with_news_is_waiting_the_longest_waiting_goes():
+    config = make_config(topics=("Games", "Tech"), max_posts_per_run=3, topic_gap_minutes=60)
+    state = posted(
+        BotState.empty(), "x.com/1", unique_title("p1"), topic="Tech", at=NOW - timedelta(minutes=10)
+    )
+    state = posted(state, "x.com/2", unique_title("p2"), topic="Games", at=NOW - timedelta(minutes=40))
+    selection = select_stories(tech_and_games(tech_count=2, games_count=2), state, config, NOW)
+    assert [s.lead.topic for s in selection.to_post] == ["Games"]
+
+
+def test_tie_between_waiting_topics_goes_to_the_stronger_story():
+    config = make_config(topics=("Tech", "Games"), max_posts_per_run=3, topic_gap_minutes=60)
+    both = NOW - timedelta(minutes=10)
+    state = posted(BotState.empty(), "x.com/1", unique_title("p1"), topic="Tech", at=both)
+    state = posted(state, "x.com/2", unique_title("p2"), topic="Games", at=both)
+    two_sites = [
+        make_article(
+            url=f"https://s{n}.com/g", title=SAME_WORDS, topic="Games", hashtag="Games", source=f"S{n}"
+        )
+        for n in range(2)
+    ]
+    selection = select_stories(tech_and_games(tech_count=1, games_count=0) + two_sites, state, config, NOW)
+    assert [(s.lead.topic, s.sources) for s in selection.to_post] == [("Games", 2)]

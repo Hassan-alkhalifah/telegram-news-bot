@@ -71,7 +71,9 @@ def _one_per_rested_topic(
 ) -> list[Story]:
     """One story per topic, from topics that waited topic_gap_minutes since their last post.
 
-    TOP STORY news (reported by top_story_min_sources sites) does not wait.
+    TOP STORY news (reported by top_story_min_sources sites) does not wait. The wait is there so other
+    topics get their turn, so it never leaves a check idle: when every topic that has news is still
+    waiting (or only one topic has news), the topic that waited longest posts one story.
     """
     rested_since = now - timedelta(minutes=config.settings.topic_gap_minutes) + _RUN_TIMING_SLACK
     big = config.settings.top_story_min_sources
@@ -83,7 +85,11 @@ def _one_per_rested_topic(
         story = next((s for s in queues[name] if rested or s.sources >= big), None)
         if story is not None:
             picked.append(story)
-    return picked
+    if picked or not order:
+        return picked
+    longest = min(order, key=lambda n: (state.topic_last_posted.get(n, _NEVER), order.index(n)))
+    log.info("No topic's wait is over; %s waited longest, so it posts one story to keep news coming", longest)
+    return [queues[longest][0]]
 
 
 def _known_versions(state: BotState, articles: list[Article], since: datetime) -> list[tuple[str, str]]:
