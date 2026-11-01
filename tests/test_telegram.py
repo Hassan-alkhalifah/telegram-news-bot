@@ -222,6 +222,17 @@ def test_send_photo_uploads_a_banner_with_buttons():
 
 
 @responses.activate
+def test_edit_message_media_replaces_the_picture_caption_and_buttons():
+    responses.post(f"{API}/editMessageMedia", json={"ok": True, "result": {"message_id": 3}})
+    make_client().edit_message_media("@chan", 3, b"\xff\xd8newbanner", "<b>hi</b>", buttons=BUTTONS)
+    body = responses.calls[0].request.body
+    assert b'filename="banner.jpg"' in body and b"newbanner" in body
+    assert b'name="message_id"' in body and b'name="reply_markup"' in body
+    media = {"type": "photo", "media": "attach://banner", "caption": "<b>hi</b>", "parse_mode": "HTML"}
+    assert json.dumps(media).encode() in body
+
+
+@responses.activate
 def test_send_photo_by_link_and_message_with_buttons():
     responses.post(f"{API}/sendPhoto", json={"ok": True, "result": {}})
     responses.post(f"{API}/sendMessage", json={"ok": True, "result": {}})

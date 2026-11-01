@@ -75,6 +75,16 @@ class TelegramClient:
         payload = {"chat_id": chat_id, "question": question, "options": [{"text": o} for o in options]}
         return self._call("sendPoll", payload)
 
+    def edit_message_media(
+        self, chat_id: str, message_id: int, photo: bytes, caption: str, buttons: dict | None = None
+    ) -> Any:
+        """Replace the picture, caption and buttons of a post the bot made (it stays pinned if it was)."""
+        media = {"type": "photo", "media": "attach://banner", "caption": caption, "parse_mode": "HTML"}
+        payload: dict[str, Any] = {"chat_id": chat_id, "message_id": message_id, "media": media}
+        if buttons:
+            payload["reply_markup"] = buttons
+        return self._call("editMessageMedia", payload, files={"banner": ("banner.jpg", photo, "image/jpeg")})
+
     def pin_chat_message(self, chat_id: str, message_id: int) -> Any:
         payload = {"chat_id": chat_id, "message_id": message_id, "disable_notification": True}
         return self._call("pinChatMessage", payload)

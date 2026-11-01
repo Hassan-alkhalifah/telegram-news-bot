@@ -82,34 +82,80 @@ def run_find_chat_id(client: TelegramClient, out: Out = print) -> int:
 def setup_language_picker(
     client: TelegramClient, english_chat: str, arabic_chat: str, config: Config, out: Out = print
 ) -> int:
-    """Post the welcome banner with 'English' and 'Arabic' buttons in both channels, and pin it."""
+    """Post the welcome banner with 'English' and 'Arabic' buttons in both channels, and pin it.
+
+    Run again, it updates the pinned picker in place (new banner, text and buttons) instead of posting
+    a second one.
+    """
     if not (english_chat.startswith("@") and arabic_chat.startswith("@")):
         out("Problem: the language picker links to both channels, so both need a public @username.")
         return FAILED
     picker = config.language_picker
     banner = render_welcome(config.style.brand_name, picker.banner_subtitle, picker.banner_subtitle_ar)
+    links = (f"https://t.me/{english_chat[1:]}", f"https://t.me/{arabic_chat[1:]}")
     buttons = {
         "inline_keyboard": [
             [
-                {"text": picker.english_button, "url": f"https://t.me/{english_chat[1:]}"},
-                {"text": picker.arabic_button, "url": f"https://t.me/{arabic_chat[1:]}"},
+                {"text": picker.english_button, "url": links[0]},
+                {"text": picker.arabic_button, "url": links[1]},
             ]
         ]
     }
+    caption = html.escape(picker.text, quote=False)
     result = OK
     for chat in (english_chat, arabic_chat):
+        pinned_id = _pinned_picker(client, chat, links, out)
+        if pinned_id is not None:
+            result = max(result, _update(client, chat, pinned_id, banner, caption, buttons, out))
+            continue
         try:
-            message = client.send_photo(chat, banner, html.escape(picker.text, quote=False), buttons=buttons)
+            message = client.send_photo(chat, banner, caption, buttons=buttons)
         except TelegramError as exc:
             out(f"Problem: could not post the language picker in {chat}: {exc}")
-            return FAILED
-        try:
-            client.pin_chat_message(chat, message["message_id"])
-            out(f"Pinned the language picker in {chat}.")
-        except TelegramError as exc:
-            out(
-                f"Posted the language picker in {chat} but could not pin it ({exc}). "
-                "Give the bot the 'Edit Messages' right and run this again, or pin it by hand."
-            )
             result = FAILED
+            continue
+        result = max(result, _pin(client, chat, message["message_id"], out))
     return result
+
+
+def _update(
+    client: TelegramClient, chat: str, message_id: int, banner: bytes, caption: str, buttons: dict, out: Out
+) -> int:
+    try:
+        client.edit_message_media(chat, message_id, banner, caption, buttons=buttons)
+    except TelegramError as exc:
+        if "not modified" in str(exc):  # the same banner and text as before (or a retried edit that worked)
+            out(f"The pinned language picker in {chat} is already up to date.")
+            return OK
+        out(f"Problem: could not update the pinned language picker in {chat}: {exc}")
+        return FAILED
+    out(f"Updated the pinned language picker in {chat}.")
+    return OK
+
+
+def _pinned_picker(client: TelegramClient, chat: str, links: tuple[str, str], out: Out) -> int | None:
+    """The id of the pinned post if it is an earlier language picker (a photo with both channel links)."""
+    try:
+        pinned = client.get_chat(chat).get("pinned_message")
+    except (TelegramError, AttributeError) as exc:
+        out(f"Note: could not check the pinned post in {chat} ({exc}), so a new language picker is posted.")
+        return None
+    if not isinstance(pinned, dict) or not pinned.get("photo"):
+        return None
+    rows = (pinned.get("reply_markup") or {}).get("inline_keyboard") or []
+    urls = {button.get("url") for row in rows for button in row if isinstance(button, dict)}
+    message_id = pinned.get("message_id")
+    return message_id if set(links) <= urls and isinstance(message_id, int) else None
+
+
+def _pin(client: TelegramClient, chat: str, message_id: int, out: Out) -> int:
+    try:
+        client.pin_chat_message(chat, message_id)
+    except TelegramError as exc:
+        out(
+            f"Posted the language picker in {chat} but could not pin it ({exc}). "
+            "Give the bot the 'Edit Messages' right and run this again, or pin it by hand."
+        )
+        return FAILED
+    out(f"Pinned the language picker in {chat}.")
+    return OK

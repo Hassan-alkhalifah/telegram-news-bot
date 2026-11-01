@@ -424,9 +424,14 @@ def _suit(name: str) -> Image.Image:
     return Image.open(ASSETS / "brand" / f"suit_{name}.png").convert("RGBA")
 
 
+# Basic layout on every computer: the Arabic is already shaped and put in display order above, and
+# Pillow's Raqm engine (installed on Linux, so on GitHub) would reorder it again and print it backwards.
+_LAYOUT = ImageFont.Layout.BASIC
+
+
 @cache
 def _latin_font(size: int, weight: int) -> ImageFont.FreeTypeFont:
-    font = ImageFont.truetype(str(ASSETS / "fonts" / "Oswald-Variable.ttf"), size)
+    font = ImageFont.truetype(str(ASSETS / "fonts" / "Oswald-Variable.ttf"), size, layout_engine=_LAYOUT)
     font.set_variation_by_axes([weight])
     return font
 
@@ -434,6 +439,8 @@ def _latin_font(size: int, weight: int) -> ImageFont.FreeTypeFont:
 @cache
 def _arabic_font(size: int, weight: int) -> ImageFont.FreeTypeFont:
     # Noto Kufi Arabic has every joined-letter form arabic-reshaper produces (Cairo and Tajawal do not).
-    font = ImageFont.truetype(str(ASSETS / "fonts" / "NotoKufiArabic-Variable.ttf"), size)
+    font = ImageFont.truetype(
+        str(ASSETS / "fonts" / "NotoKufiArabic-Variable.ttf"), size, layout_engine=_LAYOUT
+    )
     font.set_variation_by_axes([weight])
     return font

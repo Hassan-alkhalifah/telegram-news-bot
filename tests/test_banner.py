@@ -3,7 +3,7 @@ import io
 import pytest
 import requests
 import responses
-from PIL import Image
+from PIL import Image, ImageFont
 
 from newsbot.banner import HEIGHT, WIDTH, BannerText, download_photo, render_banner, render_welcome
 from newsbot.web import make_session
@@ -114,6 +114,26 @@ class TestDownloadPhoto:
         monkeypatch.setattr(banner, "_clock", lambda: next(ticks))
         responses.get(self.URL, body=b"abc")
         assert download_photo(make_session(), self.URL, 5) is None
+
+
+def test_fonts_always_ask_for_the_basic_text_engine(monkeypatch):
+    # The bot shapes and orders Arabic itself. Pillow's Raqm engine (present on Linux, absent on
+    # Windows) would do it a second time and print every Arabic word backwards.
+    import newsbot.banner as banner
+
+    engines = []
+    real_truetype = ImageFont.truetype
+
+    def spy(*args, **kwargs):
+        engines.append(kwargs.get("layout_engine"))
+        return real_truetype(*args, **kwargs)
+
+    monkeypatch.setattr(banner.ImageFont, "truetype", spy)
+    banner._latin_font.cache_clear()
+    banner._arabic_font.cache_clear()
+    fonts = (banner._latin_font(41, 700), banner._arabic_font(41, 700))
+    assert engines == [ImageFont.Layout.BASIC, ImageFont.Layout.BASIC]
+    assert all(font.layout_engine == ImageFont.Layout.BASIC for font in fonts)
 
 
 def test_welcome_subtitles_shrink_to_fit():
