@@ -149,3 +149,20 @@ def reset() -> Exception:
     return requests.ConnectionError(
         ProtocolError("Connection aborted.", ConnectionResetError("reset by peer"))
     )
+
+
+GEMINI_KEY = "test-gemini-key-not-real"
+GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent"
+
+
+def gemini_answer(*translations: str) -> dict:
+    """A successful generateContent answer carrying the translations as JSON."""
+    import json
+
+    text = json.dumps({"translations": list(translations)}, ensure_ascii=False)
+    return {"candidates": [{"content": {"role": "model", "parts": [{"text": text}]}, "finishReason": "STOP"}]}
+
+
+def gemini_error(code: int, status: str, message: str = "error", *details: dict) -> dict:
+    """An error body in Google's API format (as seen live for an invalid key)."""
+    return {"error": {"code": code, "message": message, "status": status, "details": list(details)}}

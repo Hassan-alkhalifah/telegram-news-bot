@@ -57,7 +57,7 @@ jobs:
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
           # Optional: both must be set for the Arabic channel to run.
           TELEGRAM_ARABIC_CHANNEL_ID: ${{ secrets.TELEGRAM_ARABIC_CHANNEL_ID }}
-          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           DRY_RUN: ${{ inputs.dry_run }}
           DIGEST_NOW: ${{ inputs.digest_now }}
           WEEKLY_NOW: ${{ inputs.weekly_now }}

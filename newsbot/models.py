@@ -4,6 +4,9 @@ import re
 from dataclasses import dataclass, field
 from datetime import datetime
 
+DEFAULT_GEMINI_MODEL = "gemini-3.5-flash-lite"  # free tier; Google recommends it for new projects
+GEMINI_MODEL_RE = re.compile(r"^[a-z0-9][a-z0-9.-]{0,63}$")
+
 
 @dataclass(frozen=True)
 class FeedSource:
@@ -72,6 +75,7 @@ class ArabicSettings:
     digest_title: str = "أهم أخبار اليوم"
     weekly_title: str = "أهم أخبار الأسبوع"
     poll_question: str = "ما أهم خبر هذا الأسبوع؟"
+    model: str = DEFAULT_GEMINI_MODEL  # the Gemini model that translates
 
 
 @dataclass(frozen=True)

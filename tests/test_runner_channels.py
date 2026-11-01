@@ -11,12 +11,22 @@ from newsbot.models import ArabicSettings, PostStyle, WeeklySettings
 from newsbot.runner import run_once
 from newsbot.state import BotState, PostedRecord, load_state, save_state
 from newsbot.telegram import TelegramClient
-from newsbot.translate import DeepLTranslator
+from newsbot.translate import GeminiTranslator
 from newsbot.web import make_session
-from tests.helpers import API, NOW, TOKEN, make_config, rss, rss_item, unique_title
+from tests.helpers import (
+    API,
+    GEMINI_KEY,
+    GEMINI_URL,
+    NOW,
+    TOKEN,
+    gemini_answer,
+    gemini_error,
+    make_config,
+    rss,
+    rss_item,
+    unique_title,
+)
 
-DEEPL = "https://api-free.deepl.com/v2/translate"
-DEEPL_KEY = "279a2e9d-83b3-c416-7e2d-f721593e42a0:fx"
 ARABIC_TITLE = "عنوان الخبر"
 THUMB = '<media:thumbnail url="https://cdn.example.com/{n}.jpg"/>'
 
@@ -33,7 +43,7 @@ def run(config, state_path, now=NOW, arabic=True, **extra):
         client=TelegramClient(TOKEN, session, timeout=5, sleep=no_sleep),
         chat_id="@chan",
         arabic_chat_id="@chan_ar" if arabic else None,
-        translator=DeepLTranslator(DEEPL_KEY, session, timeout=5, sleep=no_sleep) if arabic else None,
+        translator=GeminiTranslator(GEMINI_KEY, session, timeout=5, sleep=no_sleep) if arabic else None,
         state_path=state_path,
         now=now,
         sleep=no_sleep,
@@ -84,7 +94,7 @@ def test_banner_is_uploaded_with_buttons(tmp_path):
 def test_story_is_posted_in_english_then_in_arabic(tmp_path):
     config = arabic_config()
     register_stories(config)
-    responses.post(DEEPL, json={"translations": [{"text": ARABIC_TITLE}]})
+    responses.post(GEMINI_URL, json=gemini_answer(ARABIC_TITLE))
     responses.post(f"{API}/sendPhoto", json={"ok": True, "result": {"message_id": 1}})
     state_path = tmp_path / "posted.json"
 
@@ -102,21 +112,46 @@ def test_story_is_posted_in_english_then_in_arabic(tmp_path):
 def test_used_up_translations_pause_arabic_but_english_goes_on(tmp_path):
     config = arabic_config()
     register_stories(config, count=2)
-    responses.post(DEEPL, json={"message": "Quota exceeded"}, status=456)
+    responses.post(
+        GEMINI_URL,
+        json=gemini_error(
+            429,
+            "RESOURCE_EXHAUSTED",
+            "quota",
+            {
+                "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+                "violations": [{"quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier"}],
+            },
+        ),
+        status=429,
+    )
     responses.post(f"{API}/sendPhoto", json={"ok": True, "result": {}})
 
     result = run(config, tmp_path / "posted.json")
 
     assert (result.posted, result.arabic_posted, result.fatal_error) == (2, 0, None)
-    assert len([c for c in responses.calls if c.request.url == DEEPL]) == 1  # not tried again this run
+    assert len([c for c in responses.calls if c.request.url == GEMINI_URL]) == 1  # not tried again this run
     assert {body(c)["chat_id"] for c in telegram_calls("sendPhoto")} == {"@chan"}
+
+
+@responses.activate
+def test_gemini_outage_pauses_arabic_for_the_run(tmp_path):
+    config = arabic_config()
+    register_stories(config, count=2)
+    responses.post(GEMINI_URL, json=gemini_error(503, "UNAVAILABLE"), status=503)
+    responses.post(f"{API}/sendPhoto", json={"ok": True, "result": {}})
+
+    result = run(config, tmp_path / "posted.json")
+
+    assert (result.posted, result.arabic_posted, result.fatal_error) == (2, 0, None)
+    assert len([c for c in responses.calls if c.request.url == GEMINI_URL]) == 3  # one story's tries
 
 
 @responses.activate
 def test_arabic_setup_problem_turns_the_run_red_but_english_goes_on(tmp_path):
     config = arabic_config()
     register_stories(config, count=2)
-    responses.post(DEEPL, json={"translations": [{"text": ARABIC_TITLE}]})
+    responses.post(GEMINI_URL, json=gemini_answer(ARABIC_TITLE))
 
     def answer(request):
         if json.loads(request.body)["chat_id"] == "@chan_ar":
@@ -137,15 +172,24 @@ def test_arabic_setup_problem_turns_the_run_red_but_english_goes_on(tmp_path):
 
 
 @responses.activate
-def test_wrong_deepl_key_turns_the_run_red(tmp_path):
+def test_wrong_gemini_key_turns_the_run_red(tmp_path):
     config = arabic_config()
     register_stories(config)
-    responses.post(DEEPL, json={"message": "Authorization failed"}, status=403)
+    responses.post(
+        GEMINI_URL,
+        json=gemini_error(
+            400,
+            "INVALID_ARGUMENT",
+            "API key not valid.",
+            {"@type": "type.googleapis.com/google.rpc.ErrorInfo", "reason": "API_KEY_INVALID"},
+        ),
+        status=400,
+    )
     responses.post(f"{API}/sendPhoto", json={"ok": True, "result": {}})
 
     result = run(config, tmp_path / "posted.json")
 
-    assert result.posted == 1 and "DEEPL_API_KEY" in result.fatal_error
+    assert result.posted == 1 and "GEMINI_API_KEY" in result.fatal_error
 
 
 FRIDAY_EVENING = datetime(2026, 10, 30, 17, 30, tzinfo=timezone.utc)  # Friday 20:30 in UTC+3
@@ -225,7 +269,16 @@ def test_arabic_problem_does_not_stop_the_english_digest(tmp_path):
     )
     config = make_config(topics=("AI",), arabic=ArabicSettings(enabled=True), digest=digest)
     register_stories(config)
-    responses.post(DEEPL, json={"message": "Authorization failed"}, status=403)
+    responses.post(
+        GEMINI_URL,
+        json=gemini_error(
+            400,
+            "INVALID_ARGUMENT",
+            "API key not valid.",
+            {"@type": "type.googleapis.com/google.rpc.ErrorInfo", "reason": "API_KEY_INVALID"},
+        ),
+        status=400,
+    )
     responses.post(f"{API}/sendPhoto", json={"ok": True, "result": {}})
     responses.post(f"{API}/sendMessage", json={"ok": True, "result": {}})
     state_path = tmp_path / "posted.json"
@@ -242,7 +295,7 @@ def test_arabic_problem_does_not_stop_the_english_digest(tmp_path):
     result = run(config, state_path, now=evening)
 
     assert result.posted == 1 and result.digest_sent
-    assert "DEEPL_API_KEY" in result.fatal_error
+    assert "GEMINI_API_KEY" in result.fatal_error
 
 
 @responses.activate

@@ -1,4 +1,4 @@
-"""Setup helpers: check the bot and channels, check the DeepL key, find a channel id, pin the language picker."""
+"""Setup helpers: check the bot and channels, check the Gemini key, find a channel id, pin the language picker."""
 
 import html
 from collections.abc import Callable
@@ -6,7 +6,7 @@ from collections.abc import Callable
 from newsbot.banner import render_welcome
 from newsbot.models import Config
 from newsbot.telegram import TelegramClient, TelegramError
-from newsbot.translate import DeepLTranslator, TranslationError
+from newsbot.translate import GeminiTranslator, TranslationError
 
 OK, FAILED = 0, 1
 Out = Callable[[str], None]
@@ -41,13 +41,15 @@ def run_check(client: TelegramClient, chat_id: str, out: Out = print, label: str
     return OK
 
 
-def check_deepl(translator: DeepLTranslator, out: Out = print) -> int:
+def check_translator(translator: GeminiTranslator, out: Out = print) -> int:
+    """Translate one short headline: proves the key, the model and the free tier all work."""
+    sample = "Breaking news"
     try:
-        used, limit = translator.usage()
+        (arabic,) = translator.to_arabic([sample], context="Tech news")
     except TranslationError as exc:
-        out(f"Problem with DeepL: {exc}")
+        out(f"Problem with Gemini: {exc}")
         return FAILED
-    out(f"DeepL key OK: {used:,} of {limit:,} characters used this month.")
+    out(f"Gemini key OK ({translator.model}): '{sample}' -> '{arabic}'")
     return OK
 
 

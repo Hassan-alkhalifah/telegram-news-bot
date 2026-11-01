@@ -10,7 +10,7 @@ Posts the latest **AI, Games, Anime and Tech** news to Telegram, in English and 
 - At most 3 posts per check, strongest first. A quiet check posts nothing rather than something weak.
 - Never posts the same news twice, even when another site words it differently.
 - Every evening at 21:00 (Saudi time): the day's **top 5**. Every Friday at 20:00: the **top 10 of the week** and a **poll**.
-- **Arabic twin channel** (optional): every post is translated with DeepL (free plan) and posted with an Arabic banner. A pinned welcome post lets new readers choose English or Arabic.
+- **Arabic twin channel** (optional): every post is translated with Google Gemini (free plan) and posted with an Arabic banner. A pinned welcome post lets new readers choose English or Arabic.
 - Runs free on GitHub Actions. Your PC can be off.
 
 The basic setup takes about 15 minutes. Follow the steps in order. Step 6 (Arabic) is optional.
@@ -94,18 +94,20 @@ Each `gh secret set` asks you to paste the value. Without the CLI: create an emp
 ## Step 6 (optional): Arabic channel and language picker
 
 1. **Create the Arabic channel** (Step 2), public, for example `t.me/my_news_ar`. Add the bot as an admin with **Post Messages** and **Edit Messages** (Step 3).
-2. **Get a free DeepL key:** on deepl.com, sign up for the **DeepL API Free** plan (the API plan, not the translator app), then copy your key from your DeepL account (it ends in `:fx`). The free plan allows 500,000 characters a month; this bot uses roughly 300,000.
+2. **Get a free Gemini key:** open [Google AI Studio](https://aistudio.google.com), sign in with your Google account, and create an API key on its **API keys** page. No credit card is needed. The bot makes about 25 to 40 translations a day, well inside the free limits (your limits are shown at [aistudio.google.com/rate-limit](https://aistudio.google.com/rate-limit)).
+   - Do not add a billing account to that Google project. Without billing, Google cannot charge you; at the limit the Arabic posts just pause.
+   - On the free plan, Google may use the text it translates to improve its products. The bot only sends public news headlines and summaries.
 3. **Add two secrets** on GitHub (and the same lines in `.env` to test on your PC):
 
    ```powershell
    gh secret set TELEGRAM_ARABIC_CHANNEL_ID   # for example @my_news_ar
-   gh secret set DEEPL_API_KEY
+   gh secret set GEMINI_API_KEY
    ```
 
-4. **Check it:** `.venv\Scripts\python -m newsbot --check` now also checks the Arabic channel and the DeepL key.
+4. **Check it:** `.venv\Scripts\python -m newsbot --check` now also checks the Arabic channel and translates one test headline with Gemini.
 5. **Pin the language picker:** Actions tab > News bot > Run workflow > tick **Post and pin the 'choose your language' message**. It posts a welcome banner with **English** and **العربية** buttons in both channels and pins it, so it is the first thing new readers see.
 
-From then on, every story goes to both channels. If DeepL's monthly allowance runs out, the Arabic channel pauses until the next month and the English channel goes on as normal.
+From then on, every story goes to both channels. If Gemini's free limit runs out, the Arabic channel pauses and tries again on the next run, and the English channel goes on as normal.
 
 ---
 
@@ -151,7 +153,7 @@ Add `--dry-run` on your PC to only see the result.
    - If Telegram rejects a story completely, the bot remembers that and does not try it again.
    - If the network fails, the story is tried again in the next run.
    - If Telegram gives no clear answer (a timeout or a server error after sending), the bot counts the story as posted, so it can never appear twice.
-7. If the Arabic channel is set up, translates the headline and summary with DeepL and posts the Arabic version.
+7. If the Arabic channel is set up, translates the headline and summary with Google Gemini, checks that the answer really is an Arabic translation, and posts the Arabic version.
 8. Sends the evening top 5 and the weekly top 10 when they are due. They list stories posted before the current run, so nothing is repeated a moment after it went out.
 9. Saves `data/posted.json` after every post. On GitHub, the workflow commits that file back, so the bot remembers between runs. You will see commits named "chore: update posted news list"; that is normal. Run `git pull` before you push your own changes.
 
@@ -173,9 +175,11 @@ The language picker needs both channels to be public, because its buttons link t
 | `bot token was rejected (401)` | The token is wrong or was revoked. In @BotFather send `/mybots`, pick your bot, open **API Token**, and update `.env` or the GitHub secret. |
 | `chat not found` | The channel id is wrong, or the bot is not in the channel. Public channel: use `@username`. Private: use `--find-chat-id`. |
 | `not an admin` / `need administrator rights` | Make the bot an admin with **Post Messages** turned on (Step 3). |
-| `Arabic channel: ...` (the run is red) | The Arabic channel or the DeepL key has a setup problem; the English channel still posted. Run `--check` on your PC to see which one. |
-| `Arabic channel is off` | Only one of `TELEGRAM_ARABIC_CHANNEL_ID` and `DEEPL_API_KEY` is set. Set both. |
-| `DeepL's monthly character limit is used up` | The Arabic channel pauses until next month. English goes on. |
+| `Arabic channel: ...` (the run is red) | The Arabic channel or the Gemini key has a setup problem; the English channel still posted. Run `--check` on your PC to see which one. |
+| `Arabic channel is off` | Only one of `TELEGRAM_ARABIC_CHANNEL_ID` and `GEMINI_API_KEY` is set. Set both. |
+| `Gemini's free limit is used up for now` | The Arabic channel pauses and tries again next run. The daily limit resets at midnight Pacific time (about 10:00 to 11:00 Saudi time). English goes on. |
+| `Gemini does not know this model` | Google retired the model. Put a newer free Flash-Lite model in `config.yaml` under `arabic`, `model`. |
+| `Arabic version skipped: Gemini's answer ...` | Gemini gave an odd answer for one story, so its Arabic post was skipped. Nothing to do. |
 | Language picker posted but not pinned | Give the bot **Edit Messages** in that channel (Step 3) and run it again, or pin the post by hand. |
 | `Feed failed: Games/IGN (HTTP 403)` | That site blocked the bot for now. The other feeds still post. If it keeps happening, turn that feed off in `config.yaml`. |
 | `All news feeds failed` | Internet problem, or the sites are all blocking. Check again later. |
@@ -212,7 +216,7 @@ Code layout (`newsbot/`):
 | `formatter.py` | The caption, the two buttons and the name hashtags, within Telegram's 1024-character caption limit |
 | `editions.py` | The English and Arabic labels for each channel |
 | `publish.py` | Turn a story into a post for one channel and send it; translate it |
-| `translate.py` | DeepL client |
+| `translate.py` | Google Gemini client that translates into Arabic and checks each answer |
 | `digest.py`, `scheduled.py` | The evening top 5 and the weekly top 10 with its poll |
 | `telegram.py` | Telegram Bot API client with retries and clear setup errors |
 | `poster.py` | Send the banner, or fall back to the photo, then text |

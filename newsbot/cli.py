@@ -15,9 +15,9 @@ from dotenv import load_dotenv
 from newsbot.config import ConfigError, load_config
 from newsbot.models import Config
 from newsbot.runner import RunResult, run_once
-from newsbot.setup_tools import check_deepl, run_check, run_find_chat_id, setup_language_picker
+from newsbot.setup_tools import check_translator, run_check, run_find_chat_id, setup_language_picker
 from newsbot.telegram import TelegramClient
-from newsbot.translate import DeepLTranslator
+from newsbot.translate import GeminiTranslator
 from newsbot.web import make_session
 
 log = logging.getLogger("newsbot")
@@ -25,6 +25,7 @@ log = logging.getLogger("newsbot")
 EXIT_OK, EXIT_FAILED, EXIT_SETUP = 0, 1, 2
 _TOKEN_RE = re.compile(r"^\d{5,}:[A-Za-z0-9_-]{30,}$")
 _CHAT_ID_RE = re.compile(r"^(@[A-Za-z][A-Za-z0-9_]{3,31}|-?\d+)$")
+_GEMINI_KEY_RE = re.compile(r"[!-~]{10,}")  # one line of visible characters, no spaces
 
 
 @dataclass(frozen=True)
@@ -32,7 +33,7 @@ class _Secrets:
     token: str
     chat_id: str
     arabic_chat_id: str
-    deepl_key: str
+    gemini_key: str
 
 
 def main(argv: Sequence[str] | None = None, env_file: str | None = ".env") -> int:
@@ -54,7 +55,11 @@ def main(argv: Sequence[str] | None = None, env_file: str | None = ".env") -> in
         return EXIT_SETUP
     session = make_session()
     timeout = config.settings.request_timeout_seconds
-    translator = DeepLTranslator(secrets.deepl_key, session, timeout=timeout) if secrets.deepl_key else None
+    translator = (
+        GeminiTranslator(secrets.gemini_key, session, model=config.arabic.model, timeout=max(timeout, 30))
+        if secrets.gemini_key
+        else None
+    )
     arabic_chat = _arabic_chat(config, secrets)
     run_args = {
         "config": config,
@@ -99,7 +104,9 @@ def _parse_args(argv: Sequence[str] | None) -> argparse.Namespace:
     mode.add_argument(
         "--dry-run", action="store_true", help="show what would be posted; send nothing, save nothing"
     )
-    mode.add_argument("--check", action="store_true", help="check the token, both channels and the DeepL key")
+    mode.add_argument(
+        "--check", action="store_true", help="check the token, both channels and the Gemini key"
+    )
     mode.add_argument(
         "--find-chat-id", action="store_true", help="show the numeric id of channels the bot has seen"
     )
@@ -137,7 +144,7 @@ def _read_secrets() -> _Secrets:
         token=value("TELEGRAM_BOT_TOKEN"),
         chat_id=value("TELEGRAM_CHANNEL_ID"),
         arabic_chat_id=value("TELEGRAM_ARABIC_CHANNEL_ID"),
-        deepl_key=value("DEEPL_API_KEY"),
+        gemini_key=value("GEMINI_API_KEY"),
     )
 
 
@@ -146,6 +153,8 @@ def _secrets_problem(secrets: _Secrets, args: argparse.Namespace) -> str | None:
         return "TELEGRAM_ARABIC_CHANNEL_ID must be the Arabic channel's @username or its numeric id."
     if secrets.arabic_chat_id and secrets.arabic_chat_id.casefold() == secrets.chat_id.casefold():
         return "TELEGRAM_ARABIC_CHANNEL_ID must be a different channel from TELEGRAM_CHANNEL_ID."
+    if secrets.gemini_key and not _GEMINI_KEY_RE.fullmatch(secrets.gemini_key):
+        return "GEMINI_API_KEY looks wrong: paste the key from Google AI Studio as one line, with no spaces."
     if args.dry_run:
         return None
     if not secrets.token:
@@ -166,19 +175,19 @@ def _arabic_chat(config: Config, secrets: _Secrets) -> str | None:
     """The Arabic channel, when it is switched on and both of its secrets are set."""
     if not config.arabic.enabled:
         return None
-    if secrets.arabic_chat_id and secrets.deepl_key:
+    if secrets.arabic_chat_id and secrets.gemini_key:
         return secrets.arabic_chat_id
-    if secrets.arabic_chat_id or secrets.deepl_key:
-        log.warning("Arabic channel is off: set both TELEGRAM_ARABIC_CHANNEL_ID and DEEPL_API_KEY.")
+    if secrets.arabic_chat_id or secrets.gemini_key:
+        log.warning("Arabic channel is off: set both TELEGRAM_ARABIC_CHANNEL_ID and GEMINI_API_KEY.")
     return None
 
 
-def _check_everything(client: TelegramClient, secrets: _Secrets, translator: DeepLTranslator | None) -> int:
+def _check_everything(client: TelegramClient, secrets: _Secrets, translator: GeminiTranslator | None) -> int:
     results = [run_check(client, secrets.chat_id)]
     if secrets.arabic_chat_id:
         results.append(run_check(client, secrets.arabic_chat_id, label="Arabic channel"))
     if translator is not None:
-        results.append(check_deepl(translator))
+        results.append(check_translator(translator))
     return EXIT_FAILED if any(results) else EXIT_OK
 
 

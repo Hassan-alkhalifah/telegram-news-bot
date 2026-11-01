@@ -11,7 +11,7 @@ from newsbot.formatter import build_buttons, build_caption, name_hashtags
 from newsbot.models import Config, Edition, Story, Topic
 from newsbot.poster import post_article
 from newsbot.telegram import TelegramClient
-from newsbot.translate import DeepLTranslator
+from newsbot.translate import GeminiTranslator
 
 log = logging.getLogger(__name__)
 
@@ -51,7 +51,7 @@ def story_tags(story: Story, config: Config) -> list[str]:
     return name_hashtags(story, config.topic(story.lead.topic), config.style.name_hashtags)
 
 
-def translate_story(translator: DeepLTranslator, story: Story, config: Config) -> Story:
+def translate_story(translator: GeminiTranslator, story: Story, config: Config) -> Story:
     """The story with its lead's title and summary in Arabic (the other sites' versions are not needed)."""
     lead = story.lead
     topic = config.topic(lead.topic)

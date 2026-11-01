@@ -117,6 +117,7 @@ def test_repo_config_has_the_new_sections():
     assert config.style.banner and config.style.brand_name == "SAV NEWS"
     assert config.style.read_button and config.style.share_button and config.style.name_hashtags == 2
     assert config.arabic.enabled and config.arabic.top_story_label and config.arabic.read_button
+    assert config.arabic.model == "gemini-3.5-flash-lite"
     assert config.weekly.enabled and config.weekly.weekday == 4 and config.weekly.size == 10
     assert config.weekly.poll and 2 <= config.weekly.poll_options <= 10
     assert {t.suit for t in config.topics} == {"spade", "heart", "diamond", "club"}
@@ -137,6 +138,8 @@ def test_repo_config_has_the_new_sections():
         (lambda d: d.update(weekly={"poll_options": 20}), "poll_options"),
         (lambda d: d.update(arabic={"enabled": "yes"}), "enabled"),
         (lambda d: d.update(arabic={"colour": "red"}), "Unknown"),
+        (lambda d: d.update(arabic={"model": "../evil"}), "model"),
+        (lambda d: d.update(arabic={"model": ""}), "model"),
         (lambda d: d.update(style={"banner": "yes"}), "banner"),
         (lambda d: d.update(style={"name_hashtags": 9}), "name_hashtags"),
         (lambda d: d["topics"][0].update(suit="joker"), "suit"),

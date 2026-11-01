@@ -8,6 +8,8 @@ from typing import Any
 import yaml
 
 from newsbot.models import (
+    DEFAULT_GEMINI_MODEL,
+    GEMINI_MODEL_RE,
     ArabicSettings,
     Config,
     DigestSettings,
@@ -62,6 +64,7 @@ _ARABIC_TEXTS = (
     "digest_title",
     "weekly_title",
     "poll_question",
+    "model",
 )
 _WEEKLY_NUMBER_RULES: _NumberRules = {
     "local_hour": ((int,), 0, 23),
@@ -107,9 +110,7 @@ def parse_config(data: Any) -> Config:
         filters=_parse_filters(data.get("filters") or {}),
         style=_parse_style(data.get("style") or {}),
         digest=_parse_digest(data.get("digest") or {}),
-        arabic=ArabicSettings(
-            **_section(data.get("arabic") or {}, "arabic", texts=_ARABIC_TEXTS, bools=("enabled",))
-        ),
+        arabic=_parse_arabic(data.get("arabic") or {}),
         weekly=_parse_weekly(data.get("weekly") or {}),
         language_picker=LanguagePicker(
             **_section(
@@ -201,6 +202,16 @@ def _section(
         else:
             values[key] = _check_number(key, value, numbers)
     return values
+
+
+def _parse_arabic(raw: Any) -> ArabicSettings:
+    values = _section(raw, "arabic", texts=_ARABIC_TEXTS, bools=("enabled",))
+    model = values.get("model", DEFAULT_GEMINI_MODEL).strip()
+    if not GEMINI_MODEL_RE.fullmatch(model):
+        raise ConfigError(
+            f"'arabic' model must be a Gemini model name like {DEFAULT_GEMINI_MODEL}, got {model!r}."
+        )
+    return ArabicSettings(**{**values, "model": model})
 
 
 def _parse_digest(raw: Any) -> DigestSettings:

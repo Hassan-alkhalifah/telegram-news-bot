@@ -51,10 +51,12 @@ style:
   share_button: "Share"
   source_label: "Source"
 
-# The Arabic twin channel. It gets every post translated by DeepL.
-# It only runs when the TELEGRAM_ARABIC_CHANNEL_ID and DEEPL_API_KEY secrets are set.
+# The Arabic twin channel. It gets every post translated by Google Gemini (free plan).
+# It only runs when the TELEGRAM_ARABIC_CHANNEL_ID and GEMINI_API_KEY secrets are set.
 arabic:
   enabled: true
+  # The Gemini model that translates. If Google retires it, put a newer free Flash-Lite model here.
+  model: gemini-3.5-flash-lite
   # Empty: uses the Arabic channel's @username.
   channel_signature: ""
   top_story_label: "خبر بارز"

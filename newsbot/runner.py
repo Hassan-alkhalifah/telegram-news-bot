@@ -32,7 +32,7 @@ from newsbot.state import (
     set_aside,
 )
 from newsbot.telegram import FatalTelegramError, TelegramClient, TelegramError, UncertainDeliveryError
-from newsbot.translate import DeepLTranslator, TranslationError
+from newsbot.translate import GeminiTranslator, TranslationError
 
 log = logging.getLogger(__name__)
 
@@ -63,7 +63,7 @@ class _Run:
     client: TelegramClient
     english: Target
     arabic: Target | None
-    translator: DeepLTranslator | None
+    translator: GeminiTranslator | None
     state_path: str | Path
     now: datetime
     sleep: Callable[[float], None]
@@ -92,7 +92,7 @@ def run_once(
     force_digest: bool = False,
     force_weekly: bool = False,
     arabic_chat_id: str | None = None,
-    translator: DeepLTranslator | None = None,
+    translator: GeminiTranslator | None = None,
     banners_dir: Path | None = None,
     sleep: Callable[[float], None] = time.sleep,
     out: Out = print,
@@ -155,7 +155,7 @@ def run_once(
     )
 
 
-def _arabic_target(config: Config, chat_id: str | None, translator: DeepLTranslator | None) -> Target | None:
+def _arabic_target(config: Config, chat_id: str | None, translator: GeminiTranslator | None) -> Target | None:
     if config.arabic.enabled and chat_id and translator is not None:
         return Target(chat_id, arabic_edition(config, chat_id))
     return None
@@ -282,7 +282,7 @@ def _post_arabic(
 
     A stop message starting with "Arabic channel" is a setup problem that turns the run red.
     """
-    if run.translator is None:  # only happens if the Arabic channel was set up without DeepL
+    if run.translator is None:  # only happens if the Arabic channel was set up without a translator
         return state, 0, None
     try:
         arabic_story = translate_story(run.translator, story, run.config)
@@ -294,9 +294,9 @@ def _post_arabic(
         )
     except TranslationError as exc:
         log.warning("Arabic version skipped: %s", exc)
-        if exc.bad_key:
+        if exc.setup_problem:
             return state, 0, f"Arabic channel: {exc}"
-        return state, 0, (str(exc) if exc.quota_reached else None)
+        return state, 0, (str(exc) if exc.pauses_run else None)
     except FatalTelegramError as exc:
         return state, 0, f"Arabic channel: {exc}"
     except UncertainDeliveryError as exc:
@@ -351,7 +351,7 @@ def _show_dry_run(
 ) -> None:
     """Print the posts and scheduled posts exactly as a real run would send them. Nothing is sent or saved.
 
-    Arabic versions are not translated in a dry run, so previews never use DeepL's monthly allowance.
+    Arabic versions are not translated in a dry run, so previews never use Gemini's free limit.
     """
     for number, story in enumerate(stories, start=1):
         photo = download_photo(session, story.lead.image_url, config.settings.request_timeout_seconds)

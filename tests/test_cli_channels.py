@@ -1,4 +1,4 @@
-"""Command line: the Arabic channel, DeepL, the language picker, the weekly post and banner previews."""
+"""Command line: the Arabic channel, Gemini, the language picker, the weekly post and banner previews."""
 
 import json
 from datetime import datetime, timedelta, timezone
@@ -7,10 +7,20 @@ import pytest
 import responses
 
 from newsbot.cli import main
-from tests.helpers import API, TOKEN, rfc822, rss, rss_item, unique_title
+from tests.helpers import (
+    API,
+    GEMINI_KEY,
+    GEMINI_URL,
+    TOKEN,
+    gemini_answer,
+    gemini_error,
+    rfc822,
+    rss,
+    rss_item,
+    unique_title,
+)
 
 FEED_URL = "https://feed.example.com/rss"
-DEEPL_KEY = "279a2e9d-83b3-c416-7e2d-f721593e42a0:fx"
 CONFIG_YAML = f"""
 settings:
   max_posts_per_run: 2
@@ -41,7 +51,7 @@ def env(monkeypatch):
     monkeypatch.setenv("TELEGRAM_BOT_TOKEN", TOKEN)
     monkeypatch.setenv("TELEGRAM_CHANNEL_ID", "@my_news")
     monkeypatch.setenv("TELEGRAM_ARABIC_CHANNEL_ID", "@my_news_ar")
-    monkeypatch.setenv("DEEPL_API_KEY", DEEPL_KEY)
+    monkeypatch.setenv("GEMINI_API_KEY", GEMINI_KEY)
     return monkeypatch
 
 
@@ -64,9 +74,16 @@ def test_bad_arabic_channel_id_is_a_setup_error(files, env, caplog):
     assert "TELEGRAM_ARABIC_CHANNEL_ID" in caplog.text
 
 
+@pytest.mark.parametrize("key", ["two words", "line\nbreak", "short"])
+def test_a_mistyped_gemini_key_is_a_setup_error(files, env, caplog, key):
+    env.setenv("GEMINI_API_KEY", key)
+    assert cli(files) == 2
+    assert "GEMINI_API_KEY" in caplog.text and key not in caplog.text
+
+
 @responses.activate
 def test_arabic_needs_both_secrets(files, env, caplog, capsys):
-    env.delenv("DEEPL_API_KEY")
+    env.delenv("GEMINI_API_KEY")
     register_feed()
     assert cli(files, "--dry-run") == 0
     assert "Arabic channel is off" in caplog.text
@@ -80,7 +97,9 @@ def test_dry_run_mentions_the_arabic_version_and_saves_banners(files, env, capsy
     assert cli(files, "--dry-run", "--banners-dir", str(banners)) == 0
     assert "translated into Arabic and posted to @my_news_ar" in capsys.readouterr().out
     assert [p.name for p in banners.iterdir()] == ["banner_1.jpg"]
-    assert not [c for c in responses.calls if "deepl" in c.request.url]  # previews never use DeepL
+    assert not [
+        c for c in responses.calls if "generativelanguage" in c.request.url
+    ]  # previews never use Gemini
 
 
 @responses.activate
@@ -108,22 +127,29 @@ def register_member(status="administrator", **rights):
 
 
 @responses.activate
-def test_check_covers_both_channels_and_deepl(files, env, capsys):
+def test_check_covers_both_channels_and_gemini(files, env, capsys):
     register_member(can_post_messages=True, can_edit_messages=True)
-    responses.get(
-        "https://api-free.deepl.com/v2/usage", json={"character_count": 1200, "character_limit": 500000}
-    )
+    responses.post(GEMINI_URL, json=gemini_answer("أخبار عاجلة"))
     assert cli(files, "--check") == 0
     out = capsys.readouterr().out
-    assert "@my_news_ar" in out and "DeepL key OK" in out and "1,200 of 500,000" in out
+    assert "@my_news_ar" in out and "Gemini key OK" in out and "أخبار عاجلة" in out
 
 
 @responses.activate
-def test_check_reports_a_wrong_deepl_key(files, env, capsys):
+def test_check_reports_a_wrong_gemini_key(files, env, capsys):
     register_member(can_post_messages=True)
-    responses.get("https://api-free.deepl.com/v2/usage", json={"message": "Forbidden"}, status=403)
+    responses.post(
+        GEMINI_URL,
+        json=gemini_error(
+            400,
+            "INVALID_ARGUMENT",
+            "API key not valid.",
+            {"@type": "type.googleapis.com/google.rpc.ErrorInfo", "reason": "API_KEY_INVALID"},
+        ),
+        status=400,
+    )
     assert cli(files, "--check") == 1
-    assert "DEEPL_API_KEY" in capsys.readouterr().out
+    assert "GEMINI_API_KEY" in capsys.readouterr().out
 
 
 @responses.activate
