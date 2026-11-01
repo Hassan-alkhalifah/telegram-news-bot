@@ -19,7 +19,7 @@ settings:
   #   1 if the title has a "strong word" (announced, delayed, trailer, ...; see filters below)
   #   1 if it names a big name of its topic (see big_names under each topic)
   # 2 means: reported by 2+ sites, or one site with both a strong word and a big name.
-  # A topic can set its own min_score (Anime does, because it has fewer sources).
+  # A topic can set its own min_score (AI, Anime and Tech use 1: their sites rarely report the same news).
   min_score: 2
 
   # Stories reported by at least this many sites get the TOP STORY label.
@@ -190,6 +190,8 @@ topics:
     suit: spade
     arabic_name: "الذكاء الاصطناعي"
     arabic_hashtag: "ذكاء_اصطناعي"
+    # AI sites rarely report the same news at once, so one strong word or one big name is enough here.
+    min_score: 1
     big_names: [OpenAI, ChatGPT, GPT, Anthropic, Claude, Google, Gemini, DeepMind, Meta, Llama, Microsoft, Copilot, Nvidia, Apple Intelligence, xAI, Grok, Mistral, DeepSeek, Sam Altman, Elon Musk]
     feeds:
       - name: The Verge
@@ -266,6 +268,8 @@ topics:
     suit: club
     arabic_name: "تقنية"
     arabic_hashtag: "تقنية"
+    # Tech sites rarely report the same news at once, so one strong word or one big name is enough here.
+    min_score: 1
     big_names: [Apple, iPhone, iPad, Mac, iOS, Samsung, Galaxy, Google, Pixel, Android, Microsoft, Windows, Nvidia, AMD, Intel, Qualcomm, Tesla, SpaceX, Meta, Amazon, OnePlus, Xiaomi, WhatsApp, YouTube, TikTok, Instagram, Starlink, OpenAI]
     feeds:
       - name: The Verge

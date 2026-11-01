@@ -123,6 +123,9 @@ def test_repo_config_has_the_new_sections():
     assert {t.suit for t in config.topics} == {"spade", "heart", "diamond", "club"}
     assert all(t.arabic_name and t.arabic_hashtag for t in config.topics)
     assert "Nintendo" in config.topic("Games").names
+    # AI and Tech sites rarely report the same news at once, so one big name or strong word is enough.
+    assert [config.topic(t).min_score for t in ("AI", "Tech", "Anime")] == [1, 1, 1]
+    assert config.topic("Games").min_score is None and config.settings.min_score == 2
     blocked = config.filters.blocked
     assert any(p.search("New hentai game on Steam") for p in blocked)
     assert any(p.search("Online casino ads banned") for p in blocked)

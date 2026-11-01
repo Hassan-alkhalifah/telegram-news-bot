@@ -177,7 +177,10 @@ def test_real_day_posts_each_story_once_and_skips_filler():
     titles = [s.lead.title for s in selection.to_post]
     every_version = [a.title for s in selection.to_post for a in (s.lead, *s.others)]
 
-    assert 15 <= len(titles) <= 40
+    # About 50 a day since AI and Tech need only 1 point (their sites rarely report the same news).
+    assert 15 <= len(titles) <= 60
+    topics = [s.lead.topic for s in selection.to_post]
+    assert topics.count("AI") >= 8 and topics.count("Tech") >= 8
     assert all(filler_reason(s.lead, repo.filters) is None for s in selection.to_post)
     for name in ("Evercold", "Pikmin Day", "Silver Palace", "Sam Altman", "Romelia War Chronicle"):
         assert sum(name.casefold() in t.casefold() for t in titles) <= 1, name
