@@ -167,7 +167,9 @@ def test_real_day_posts_each_story_once_and_skips_filler():
 
     repo = load_config(ROOT / "config.yaml")
     config = repo.__class__(
-        settings=repo.settings.__class__(**{**repo.settings.__dict__, "max_posts_per_run": 50}),
+        settings=repo.settings.__class__(
+            **{**repo.settings.__dict__, "max_posts_per_run": 50, "topic_gap_minutes": 0}
+        ),
         topics=repo.topics,
         filters=repo.filters,
         style=repo.style,
@@ -243,3 +245,94 @@ def test_blocked_stories_are_never_posted():
     )
     assert leads(selection) == (good,)
     assert selection.blocked == 3
+
+
+def tech_and_games(tech_count=3, games_count=1):
+    tech = [
+        make_article(
+            url=f"https://tech.com/{n}",
+            title=unique_title(f"tech{n}x"),
+            topic="Tech",
+            hashtag="Tech",
+            published=NOW - timedelta(minutes=n),
+        )
+        for n in range(tech_count)
+    ]
+    games = [
+        make_article(
+            url=f"https://games.com/{n}", title=unique_title(f"games{n}x"), topic="Games", hashtag="Games"
+        )
+        for n in range(games_count)
+    ]
+    return tech + games
+
+
+def test_with_a_topic_gap_each_topic_posts_once_per_run():
+    config = make_config(topics=("Games", "Tech"), max_posts_per_run=3, topic_gap_minutes=60)
+    selection = select_stories(tech_and_games(), BotState.empty(), config, NOW)
+    assert sorted(s.lead.topic for s in selection.to_post) == ["Games", "Tech"]
+    assert selection.waiting == 2  # the other Tech stories wait for a later run
+
+
+def test_topic_that_posted_recently_waits():
+    config = make_config(topics=("Games", "Tech"), max_posts_per_run=3, topic_gap_minutes=60)
+    state = posted(
+        BotState.empty(), "x.com/1", unique_title("p1"), topic="Tech", at=NOW - timedelta(minutes=20)
+    )
+    selection = select_stories(tech_and_games(), state, config, NOW)
+    assert [s.lead.topic for s in selection.to_post] == ["Games"]
+
+
+def test_topic_that_rested_long_enough_posts_again():
+    config = make_config(topics=("Games", "Tech"), max_posts_per_run=3, topic_gap_minutes=60)
+    state = posted(
+        BotState.empty(), "x.com/1", unique_title("p1"), topic="Tech", at=NOW - timedelta(minutes=61)
+    )
+    selection = select_stories(tech_and_games(games_count=0), state, config, NOW)
+    assert [s.lead.topic for s in selection.to_post] == ["Tech"]
+
+
+def test_big_news_does_not_wait_for_the_gap():
+    config = make_config(
+        topics=("Games", "Tech"), max_posts_per_run=3, topic_gap_minutes=60, top_story_min_sources=3
+    )
+    state = posted(
+        BotState.empty(), "x.com/1", unique_title("p1"), topic="Games", at=NOW - timedelta(minutes=5)
+    )
+    big = [
+        make_article(
+            url=f"https://site{n}.com/g", title=SAME_WORDS, topic="Games", hashtag="Games", source=f"S{n}"
+        )
+        for n in range(3)
+    ]
+    selection = select_stories(big, state, config, NOW)
+    assert [s.sources for s in selection.to_post] == [3]
+
+
+def test_real_day_with_the_repo_settings_mixes_topics():
+    """A day of real stories, checked every 15 minutes: no topic posts twice within an hour (except
+    TOP STORY news), and every topic gets a share."""
+    from collections import Counter
+
+    from newsbot.config import load_config
+    from tests.helpers import ROOT, live_articles
+
+    config = load_config(ROOT / "config.yaml")
+    gap = timedelta(minutes=config.settings.topic_gap_minutes)
+    articles = live_articles()
+    start = min(a.published for a in articles)
+    state, posts = BotState.empty(), []
+    for step in range(4 * 30):
+        now = start + timedelta(minutes=15 * step)
+        visible = [a for a in articles if a.published <= now]
+        for story in select_stories(visible, state, config, now).to_post:
+            posts.append((now, story))
+            state = posted(state, story.lead.key, story.lead.title, topic=story.lead.topic, at=now)
+
+    for topic in {s.lead.topic for _, s in posts}:
+        times = [
+            t for t, s in posts if s.lead.topic == topic and s.sources < config.settings.top_story_min_sources
+        ]
+        assert all(later - earlier >= gap for earlier, later in zip(times, times[1:], strict=False)), topic
+    by_topic = Counter(s.lead.topic for _, s in posts)
+    assert set(by_topic) == {"AI", "Games", "Anime", "Tech"} and min(by_topic.values()) >= 4

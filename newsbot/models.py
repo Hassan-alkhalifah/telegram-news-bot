@@ -39,6 +39,7 @@ class Settings:
     same_story_similarity: float = 0.5
     state_retention_days: int = 7
     request_timeout_seconds: int = 15
+    topic_gap_minutes: int = 0  # a topic waits this long between posts (big news excepted); 0: no wait
 
 
 @dataclass(frozen=True)

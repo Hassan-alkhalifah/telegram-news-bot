@@ -5,6 +5,11 @@ settings:
   # Most posts the bot sends in one check (it checks every 15 minutes).
   max_posts_per_run: 3
 
+  # Minutes a topic waits after a post before it can post again, so the channel mixes AI, Games,
+  # Anime and Tech instead of a run of one topic. TOP STORY news (see top_story_min_sources) never
+  # waits. With a wait, each topic also posts at most one story per check. 0 turns the wait off.
+  topic_gap_minutes: 60
+
   # Skip stories older than this many hours.
   max_age_hours: 12
 

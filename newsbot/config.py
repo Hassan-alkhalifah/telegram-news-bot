@@ -39,6 +39,7 @@ _SETTING_RULES: _NumberRules = {
     "same_story_similarity": ((int, float), 0.2, 1),
     "state_retention_days": ((int,), 1, 90),
     "request_timeout_seconds": ((int,), 1, 120),
+    "topic_gap_minutes": ((int,), 0, 24 * 60),
 }
 _DIGEST_NUMBER_RULES: _NumberRules = {
     "local_hour": ((int,), 0, 23),
