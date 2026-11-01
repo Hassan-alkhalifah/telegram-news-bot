@@ -1,6 +1,17 @@
 {
  "version": 1,
  "posted": {
+  "9to5google.com/2026/11/01/motorola-oneplus-gap": {
+   "at": "2026-11-01T15:30:37.378625+00:00",
+   "title": "Motorola is filling the gap OnePlus left behind, mostly",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/01/motorola-oneplus-gap/",
+   "score": 1,
+   "sources": 1,
+   "summary": "As we near the launch of Motorola’s return to the flagship space, it’s becoming clear that the company is ready to fill a gap left by the departure of OnePlus, though there’s one very obvious…",
+   "title_ar": "موتورولا تملأ الفراغ الذي تركته OnePlus، في الغالب"
+  },
   "animecorner.me/bocchi-the-rock-gets-movie-starring-nijika-and-seika-in-2027": {
    "at": "2026-11-01T15:04:30.961295+00:00",
    "title": "Bocchi the Rock Gets Movie Starring Nijika and Seika in 2027",
@@ -639,6 +650,28 @@
    "summary": "Thingiverse partners with Anycubic to bring models directly to 3D printers.",
    "title_ar": "Anycubic و Thingiverse تعلنان عن شراكة حصرية في الطباعة ثلاثية الأبعاد - منصة MakerOnline توفر نماذج 3MF ملونة بضغطة زر واحدة"
   },
+  "tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops": {
+   "at": "2026-11-01T15:30:37.378625+00:00",
+   "title": "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops",
+   "score": 1,
+   "sources": 1,
+   "summary": "An open-source UEFI tool, nv-uefi-unlocker, lifts Nvidia’s tensor rate cap on RTX 20, 30, and 40-series GPUs under Windows.",
+   "title_ar": "أداة USB مفتوحة المصدر تكسر قيود الذكاء الاصطناعي لبطاقات Nvidia الرسومية ذات السرعة النصفية على نظام Windows"
+  },
+  "tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies": {
+   "at": "2026-11-01T15:30:37.378625+00:00",
+   "title": "Police Chief physically unplugs Flock cameras after the company ignores contract cancellation",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+   "score": 1,
+   "sources": 1,
+   "summary": "The Plymouth City Council was left with no choice but to physically disconnect the cameras after Flock failed to respond to its demands.",
+   "title_ar": "مدير الشرطة يفصل كاميرات Flock يدويًا بعد تجاهل الشركة لإلغاء العقد"
+  },
   "tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers": {
    "at": "2026-11-01T15:19:41.333043+00:00",
    "title": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages",
@@ -655,7 +688,7 @@
   "AI": "2026-11-01T15:19:41.333043+00:00",
   "Anime": "2026-11-01T15:04:30.961295+00:00",
   "Games": "2026-11-01T15:04:30.961295+00:00",
-  "Tech": "2026-11-01T15:19:41.333043+00:00"
+  "Tech": "2026-11-01T15:30:37.378625+00:00"
  },
  "digest_day": "2026-10-31",
  "weekly_day": ""
