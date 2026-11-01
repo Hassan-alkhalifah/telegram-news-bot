@@ -2,7 +2,8 @@ name: News bot
 
 on:
   schedule:
-    # Every 15 minutes (UTC). GitHub can start scheduled runs a few minutes late when it is busy.
+    # Every 15 minutes (UTC), as a backup. GitHub often delays or skips these, so the main timer is
+    # cron-job.org starting the workflow_dispatch below (README Step 7).
     - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
     inputs:

@@ -2,7 +2,7 @@
 # Lines starting with "#" are comments and are ignored.
 
 settings:
-  # Most posts the bot sends in one check (it checks every 30 minutes).
+  # Most posts the bot sends in one check (it checks every 15 minutes).
   max_posts_per_run: 3
 
   # Skip stories older than this many hours.

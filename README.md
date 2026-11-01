@@ -87,7 +87,7 @@ gh secret set TELEGRAM_CHANNEL_ID
 
 Each `gh secret set` asks you to paste the value. Without the CLI: create an empty repository on github.com, push this folder, then add the secrets in **Settings > Secrets and variables > Actions > New repository secret**.
 
-**Start it:** open the repository's **Actions** tab, select **News bot**, then **Run workflow**. After that it runs by itself every 15 minutes. GitHub can start scheduled runs late, and a new repository can take a few hours before its first scheduled run.
+**Start it:** open the repository's **Actions** tab, select **News bot**, then **Run workflow**. After that GitHub's own timer runs it every 15 minutes, in theory. In practice GitHub often skips scheduled runs on small free repositories (this bot once got 3 runs in 17 hours), so set up the outside timer in Step 7.
 
 `.env` is in `.gitignore`, so your token is never uploaded.
 
@@ -108,6 +108,22 @@ Each `gh secret set` asks you to paste the value. Without the CLI: create an emp
 5. **Pin the language picker:** Actions tab > News bot > Run workflow > tick **Post and pin the 'choose your language' message**. It posts a welcome banner with **English** and **العربية** buttons in both channels and pins it, so it is the first thing new readers see.
 
 From then on, every story goes to both channels. If Gemini's free limit runs out, the Arabic channel pauses and tries again on the next run, and the English channel goes on as normal.
+
+## Step 7 (recommended): A reliable timer with cron-job.org
+
+GitHub's built-in timer is "best effort" and can skip runs for hours. The free service [cron-job.org](https://cron-job.org) can instead ask GitHub to run the bot every 15 minutes, and runs started that way are reliable. GitHub's own timer stays on as a backup; if both start at once, the runs wait for each other and nothing is posted twice.
+
+1. **A token that can only start this bot:** on GitHub, open **Settings > Developer settings > Personal access tokens > Fine-grained tokens > Generate new token**.
+   - Name: `news-bot-timer`. Expiration: 1 year.
+   - Repository access: **Only select repositories**, then this repository.
+   - Permissions: **Repository permissions > Actions: Read and write**. Nothing else.
+   - Click **Generate token** and copy it (it starts with `github_pat_`).
+2. **The timer:** sign up at [console.cron-job.org](https://console.cron-job.org/signup) and create a cronjob:
+   - URL: `https://api.github.com/repos/YOUR_NAME/telegram-news-bot/actions/workflows/news-bot.yml/dispatches` (put your GitHub name in place of `YOUR_NAME`).
+   - Schedule: every 15 minutes.
+   - Advanced: request method `POST`; headers `Authorization: Bearer <your token>`, `Accept: application/vnd.github+json` and `Content-Type: application/json`; request body `{"ref":"main"}`.
+   - Turn on the email for failed runs, then click **Test run**. Status `204` (or `200`) means it worked.
+3. **When the token expires** (after a year), cron-job.org emails you about failed runs. Make a new token the same way and paste it into the `Authorization` header. If GitHub ever answers that the API version is no longer supported, add the header `X-GitHub-Api-Version: 2026-03-10`.
 
 ---
 
@@ -181,6 +197,7 @@ The language picker needs both channels to be public, because its buttons link t
 | `Gemini does not know this model` | Google retired the model. Put a newer free Flash-Lite model in `config.yaml` under `arabic`, `model`. |
 | `Arabic version skipped: Gemini's answer ...` | Gemini gave an odd answer for one story, so its Arabic post was skipped. Nothing to do. |
 | Language picker posted but not pinned | Give the bot **Edit Messages** in that channel (Step 3) and run it again, or pin the post by hand. |
+| Hours pass with no new posts | Open the **Actions** tab. If no run started in that time, GitHub skipped its timer: set up Step 7, or check that the cron-job.org job is still on (it switches a job off after many failures, for example an expired token). |
 | `Feed failed: Games/IGN (HTTP 403)` | That site blocked the bot for now. The other feeds still post. If it keeps happening, turn that feed off in `config.yaml`. |
 | `All news feeds failed` | Internet problem, or the sites are all blocking. Check again later. |
 | `Nothing could be posted this run` (the run is red) | Every post this run was refused. Read the `WARNING` lines just above it in the log. |
