@@ -12,6 +12,9 @@ from newsbot.state import BotState
 log = logging.getLogger(__name__)
 
 _NEVER = datetime.min.replace(tzinfo=timezone.utc)
+# Timed runs start a few seconds before or after each quarter hour, so "an hour since the last post"
+# allows this much slack; otherwise a topic could miss its turn by seconds and wait 15 more minutes.
+_RUN_TIMING_SLACK = timedelta(minutes=2)
 # Posts older than max_age_hours plus this are not compared for repeats, so a follow-up a day or two
 # later (a trailer after its announcement) is not mistaken for the same news.
 _REPEAT_EXTRA_HOURS = 24
@@ -70,7 +73,7 @@ def _one_per_rested_topic(
 
     TOP STORY news (reported by top_story_min_sources sites) does not wait.
     """
-    rested_since = now - timedelta(minutes=config.settings.topic_gap_minutes)
+    rested_since = now - timedelta(minutes=config.settings.topic_gap_minutes) + _RUN_TIMING_SLACK
     big = config.settings.top_story_min_sources
     picked: list[Story] = []
     for name in order:

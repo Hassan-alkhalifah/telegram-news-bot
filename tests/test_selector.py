@@ -336,3 +336,21 @@ def test_real_day_with_the_repo_settings_mixes_topics():
         assert all(later - earlier >= gap for earlier, later in zip(times, times[1:], strict=False)), topic
     by_topic = Counter(s.lead.topic for _, s in posts)
     assert set(by_topic) == {"AI", "Games", "Anime", "Tech"} and min(by_topic.values()) >= 4
+
+
+def test_check_that_starts_a_few_seconds_early_still_counts_the_hour():
+    # The timer starts runs a few seconds before or after each quarter hour.
+    config = make_config(topics=("Games", "Tech"), max_posts_per_run=3, topic_gap_minutes=60)
+    last = NOW - timedelta(minutes=59, seconds=48)
+    state = posted(BotState.empty(), "x.com/1", unique_title("p1"), topic="Tech", at=last)
+    selection = select_stories(tech_and_games(games_count=0), state, config, NOW)
+    assert [s.lead.topic for s in selection.to_post] == ["Tech"]
+
+
+def test_a_topic_still_waits_most_of_the_hour():
+    config = make_config(topics=("Games", "Tech"), max_posts_per_run=3, topic_gap_minutes=60)
+    state = posted(
+        BotState.empty(), "x.com/1", unique_title("p1"), topic="Tech", at=NOW - timedelta(minutes=50)
+    )
+    selection = select_stories(tech_and_games(games_count=0), state, config, NOW)
+    assert selection.to_post == ()
