@@ -34,6 +34,17 @@
    "summary": "A new leak strengthens a previous rumor that the Galaxy S27 Pro and Galaxy S27 Ultra will get an improved version of Samsung’s Privacy Display, used on this year’s flagship. more…",
    "title_ar": "شاشة الخصوصية في هاتفي Galaxy S27 Pro و Galaxy S27 Ultra تبدو أكثر واعدة في أحدث تسريب"
   },
+  "9to5google.com/2026/11/02/google-android-tv-box-backdoor-shut-down": {
+   "at": "2026-11-02T20:21:15.672806+00:00",
+   "title": "Google shuts down a sneaky malware backdoor on millions of Android TV and Google TV boxes",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/02/google-android-tv-box-backdoor-shut-down/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Google has confirmed that an Android TV device maker snuck a backdoor for malware onto certified devices, which is leading to security improvements for the ecosystem as a whole. more…",
+   "title_ar": "جوجل تغلق باب خلفي خبيث للبرمجيات الضارة على ملايين أجهزة Android TV و Google TV"
+  },
   "9to5google.com/2026/11/02/samsungs-android-xr-intelligent-eyewear-reportedly-launches-in-december": {
    "at": "2026-11-02T15:45:29.496589+00:00",
    "title": "Samsung’s Android XR ‘Intelligent Eyewear’ reportedly launches in December",
@@ -2448,7 +2459,7 @@
   "AI": "2026-11-02T20:15:26.662291+00:00",
   "Anime": "2026-11-02T19:30:39.655199+00:00",
   "Games": "2026-11-02T20:00:42.058591+00:00",
-  "Tech": "2026-11-02T19:45:29.490155+00:00"
+  "Tech": "2026-11-02T20:21:15.672806+00:00"
  },
  "digest_day": "2026-11-02",
  "weekly_day": ""
