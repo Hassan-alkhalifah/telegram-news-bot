@@ -2135,6 +2135,17 @@
    "summary": "Canva is giving digital creatives a new way to design, illustrate, and edit photos on their iPads, and it doesn't have to cost them a thing.",
    "title_ar": "استوديو الإبداع Affinity متوفر الآن على iPad مجاناً"
   },
+  "theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program": {
+   "at": "2026-11-02T20:45:30.518254+00:00",
+   "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+   "score": 1,
+   "sources": 1,
+   "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000…",
+   "title_ar": "OpenAI تقترح محطات طاقة لمراكز البيانات كطريقة لحماية المناطق المجاورة"
+  },
   "theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones": {
    "at": "2026-11-02T19:00:44.340026+00:00",
    "title": "Anthropic clamps down on Claude’s AI video game clones",
@@ -2478,7 +2489,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-02T20:15:26.662291+00:00",
+  "AI": "2026-11-02T20:45:30.518254+00:00",
   "Anime": "2026-11-02T20:30:38.404496+00:00",
   "Games": "2026-11-02T20:00:42.058591+00:00",
   "Tech": "2026-11-02T20:21:15.672806+00:00"
