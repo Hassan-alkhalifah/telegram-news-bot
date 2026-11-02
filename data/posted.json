@@ -1013,6 +1013,17 @@
    "summary": "\"He's cooking up a storm\".",
    "title_ar": "Capcom تكشف رسمياً عن الزعيم الرابع من أعداء الروبوت في لعبة Mega Man: Dual Override"
   },
+  "nintendolife.com/news/2026/11/googles-ocarina-of-time-easter-egg-will-transport-you-back-to-the-internet-of-old": {
+   "at": "2026-11-02T13:00:52.648293+00:00",
+   "title": "Google's Ocarina Of Time Easter Egg Will Transport You Back To The Internet Of Old",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/googles-ocarina-of-time-easter-egg-will-transport-you-back-to-the-internet-of-old",
+   "score": 0,
+   "sources": 1,
+   "summary": "Links to the past.",
+   "title_ar": ""
+  },
   "nintendolife.com/news/2026/11/hoyoverse-announces-cosy-galactic-life-sim-petit-planet-for-switch-2": {
    "at": "2026-11-02T03:30:35.984463+00:00",
    "title": "HoYoverse Announces Cosy Galactic Life Sim 'Petit Planet' For Switch 2",
@@ -1176,6 +1187,17 @@
    "score": 2,
    "sources": 1,
    "summary": "Third-person game with co-op, it's reported.",
+   "title_ar": ""
+  },
+  "pushsquare.com/news/2026/11/sony-fighting-gta-6-ps5-piracy-with-new-firmware-demands": {
+   "at": "2026-11-02T13:00:52.648293+00:00",
+   "title": "Sony Fighting GTA 6 PS5 Piracy with New Firmware Demands",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pushsquare.com/news/2026/11/sony-fighting-gta-6-ps5-piracy-with-new-firmware-demands",
+   "score": 0,
+   "sources": 1,
+   "summary": "Today's new PS5 firmware reportedly required.",
    "title_ar": ""
   },
   "pushsquare.com/news/2026/11/yakuza-creators-gang-of-dragon-ps5-game-and-new-studio-officially-dead": {
@@ -1497,6 +1519,17 @@
    "summary": "The game will reportedly not be live-service, nor will it be Days Gone 2",
    "title_ar": ""
   },
+  "videogameschronicle.com/news/googles-zelda-ocarina-of-time-easter-egg-transports-users-back-to-1998": {
+   "at": "2026-11-02T13:00:52.648293+00:00",
+   "title": "Google’s Zelda Ocarina of Time easter egg transports users back to 1998",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.videogameschronicle.com/news/googles-zelda-ocarina-of-time-easter-egg-transports-users-back-to-1998/",
+   "score": 3,
+   "sources": 2,
+   "summary": "By clicking the Master Sword, you can travel back in time to the old Google homepage",
+   "title_ar": ""
+  },
   "videogameschronicle.com/news/nagoshi-studio-officially-closes-after-netease-cuts-funding": {
    "at": "2026-11-02T08:15:37.115988+00:00",
    "title": "Nagoshi Studio officially closes after NetEase cuts funding",
@@ -1523,7 +1556,7 @@
  "topic_last_posted": {
   "AI": "2026-11-02T12:15:28.702385+00:00",
   "Anime": "2026-11-02T12:30:37.836048+00:00",
-  "Games": "2026-11-02T12:30:37.836048+00:00",
+  "Games": "2026-11-02T13:00:52.648293+00:00",
   "Tech": "2026-11-02T12:45:29.337502+00:00"
  },
  "digest_day": "2026-11-01",
