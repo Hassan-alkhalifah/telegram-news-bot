@@ -2157,6 +2157,17 @@
    "summary": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts": {
+   "at": "2026-11-02T23:15:33.462657+00:00",
+   "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+   "score": 1,
+   "sources": 1,
+   "summary": "The one-year-old startup is now valued at $300 million.",
+   "title_ar": "شركة Trajectory ت جمع 45 مليون دولار لجعل تدريب نماذج الذكاء الاصطناعي في متناول الخبراء غير التقنيين"
+  },
   "techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees": {
    "at": "2026-11-02T19:45:29.490155+00:00",
    "title": "Web host Squarespace lays off 19% of its employees",
@@ -2643,7 +2654,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-02T22:15:30.278175+00:00",
+  "AI": "2026-11-02T23:15:33.462657+00:00",
   "Anime": "2026-11-02T21:30:41.253089+00:00",
   "Games": "2026-11-02T22:00:45.938205+00:00",
   "Tech": "2026-11-02T23:00:41.158077+00:00"
