@@ -1387,6 +1387,17 @@
    "summary": "The Plymouth City Council was left with no choice but to physically disconnect the cameras after Flock failed to respond to its demands.",
    "title_ar": "مدير الشرطة يفصل كاميرات Flock يدويًا بعد تجاهل الشركة لإلغاء العقد"
   },
+  "tomshardware.com/tech-industry/cyber-security/hackers-claim-to-have-stolen-23tb-of-data-from-russian-statistics-body-including-ukraine-war-casualty-figures-russian-federal-state-statistics-service-admits-its-servers-were-hit-by-coordinated-cyberattacks": {
+   "at": "2026-11-02T12:45:29.337502+00:00",
+   "title": "Hackers claim to have stolen 23TB of data from Russian statistics body, including Ukraine war casualty figures — Russian Federal State Statistics Service admits its servers were hit by coordinated cyberattacks",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-claim-to-have-stolen-23tb-of-data-from-russian-statistics-body-including-ukraine-war-casualty-figures-russian-federal-state-statistics-service-admits-its-servers-were-hit-by-coordinated-cyberattacks",
+   "score": 1,
+   "sources": 1,
+   "summary": "Russia's Rosstat admitted that its servers were attacked by hackers but denies data leaks which appear to show as many as 50,000 military deaths per month.",
+   "title_ar": "قراصنة يزعمون سرقة 23 تيرابايت من البيانات التابعة لهيئة الإحصاء الروسية، بما في ذلك أرقام ضحايا حرب أوكرانيا، وهيئة الإحصاء الاتحادية الروسية تعقر بتعرض خوادمها لهجمات سيبرانية منسقة"
+  },
   "tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely": {
    "at": "2026-11-01T21:15:25.660775+00:00",
    "title": "New AI-driven Windows malware feeds stolen data to Claude to rank victims’ assets by value, then deletes itself — payload builds custom target assessment, can switch models if one refuses, or skip the AI step entirely",
@@ -1513,7 +1524,7 @@
   "AI": "2026-11-02T12:15:28.702385+00:00",
   "Anime": "2026-11-02T12:30:37.836048+00:00",
   "Games": "2026-11-02T12:30:37.836048+00:00",
-  "Tech": "2026-11-02T11:45:35.487590+00:00"
+  "Tech": "2026-11-02T12:45:29.337502+00:00"
  },
  "digest_day": "2026-11-01",
  "weekly_day": ""
