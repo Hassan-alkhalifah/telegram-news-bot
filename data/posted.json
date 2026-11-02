@@ -243,6 +243,17 @@
    "summary": "Windows 11 has a sneaky menu that connects you with Settings, Task Manager, Event Viewer, and more in one place.",
    "title_ar": "هذه القائمة المخفية في Windows 11 يمكن أن توفر لك وقتاً ثميناً عند استكشاف الأخطاء وإصلاحها"
   },
+  "engadget.com/2300324/android-auto-next-update-could-upset-work-life-balance": {
+   "at": "2026-11-02T00:45:27.780459+00:00",
+   "title": "Android Auto could upset your work-life balance with its next update",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2300324/android-auto-next-update-could-upset-work-life-balance/",
+   "score": 1,
+   "sources": 1,
+   "summary": "A hidden toggle buried in the Android Auto app's code isn't functional yet.",
+   "title_ar": "Android Auto قد يزعج التوازن بين العمل والحياة مع التحديث القادم"
+  },
   "engadget.com/2301053/tesla-ditching-solar-roof-tiles-discontinued-good-reason": {
    "at": "2026-11-01T15:45:26.599272+00:00",
    "title": "Tesla is ditching its solar roof tiles for a good reason",
@@ -1007,7 +1018,7 @@
   "AI": "2026-11-01T22:00:42.086582+00:00",
   "Anime": "2026-11-01T15:04:30.961295+00:00",
   "Games": "2026-11-01T19:30:36.771597+00:00",
-  "Tech": "2026-11-01T21:15:25.660775+00:00"
+  "Tech": "2026-11-02T00:45:27.780459+00:00"
  },
  "digest_day": "2026-11-01",
  "weekly_day": ""
