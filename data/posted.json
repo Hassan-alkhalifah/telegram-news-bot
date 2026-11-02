@@ -639,6 +639,17 @@
    "summary": "Nagoshi Studio, the studio formed by Yakuza creator Toshiro Nagoshi at NetEase, has been shut down before it even released its first game.",
    "title_ar": ""
   },
+  "gamespot.com/articles/xbox-game-pass-is-losing-14-games-in-november": {
+   "at": "2026-11-02T15:30:39.796760+00:00",
+   "title": "Xbox Game Pass Is Losing 14 Games In November",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.gamespot.com/articles/xbox-game-pass-is-losing-14-games-in-november/",
+   "score": 3,
+   "sources": 2,
+   "summary": "It's the start of a new month, which means new additions and departures on Xbox Game Pass.",
+   "title_ar": "خدمة Xbox Game Pass تفقد 14 لعبة في شهر نوفمبر"
+  },
   "gematsu.com/2026/10/rumor-persona-remake-footage-appears-online": {
    "at": "2026-10-31T22:48:03.271654+00:00",
    "title": "Rumor: Persona remake footage appears online",
@@ -991,6 +1002,17 @@
    "summary": "Silver Palace release date is set for December 14.",
    "title_ar": ""
   },
+  "insider-gaming.com/xbox-game-pass-will-remove-14-games-in-november": {
+   "at": "2026-11-02T15:30:39.796760+00:00",
+   "title": "XBOX Game Pass Will Remove 14 Games in November",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/xbox-game-pass-will-remove-14-games-in-november/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Dragon Ball Xenoverse 2, GoldenEye 007 and 12 other games will be removed from XBOX Game Pass in November 2026.",
+   "title_ar": ""
+  },
   "insider-gaming.com/zach-creggers-resident-evil-crosses-400m-worldwide": {
    "at": "2026-11-02T05:15:29.856973+00:00",
    "title": "Zach Cregger’s Resident Evil Crosses $400M Worldwide",
@@ -1187,6 +1209,17 @@
    "score": 0,
    "sources": 1,
    "summary": "The free-to-play title launches in 2027.",
+   "title_ar": ""
+  },
+  "nintendolife.com/news/2026/11/nintendo-wanted-to-remake-ocarina-of-time-to-trigger-new-insights-for-future-titles": {
+   "at": "2026-11-02T15:30:39.796760+00:00",
+   "title": "Nintendo Wanted To Remake Ocarina Of Time To \"Trigger New Insights\" For Future Titles",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/nintendo-wanted-to-remake-ocarina-of-time-to-trigger-new-insights-for-future-titles",
+   "score": 0,
+   "sources": 1,
+   "summary": "Out with the old, in with the Aonuma.",
    "title_ar": ""
   },
   "nintendolife.com/news/2026/11/the-pokemon-company-is-counting-down-to-a-mysterious-date-on-social-media": {
@@ -1629,6 +1662,17 @@
    "summary": "An open-source UEFI tool, nv-uefi-unlocker, lifts Nvidia’s tensor rate cap on RTX 20, 30, and 40-series GPUs under Windows.",
    "title_ar": "أداة USB مفتوحة المصدر تكسر قيود الذكاء الاصطناعي لبطاقات Nvidia الرسومية ذات السرعة النصفية على نظام Windows"
   },
+  "tomshardware.com/tech-industry/artificial-intelligence/elon-musk-mocks-openai-ceo-sam-altmans-claim-that-pcs-having-ram-is-terrible-the-people-deserve-to-have-their-ram-too": {
+   "at": "2026-11-02T15:30:39.796760+00:00",
+   "title": "Elon Musk mocks OpenAI CEO Sam Altman's claim that PCs having RAM is terrible",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-mocks-openai-ceo-sam-altmans-claim-that-pcs-having-ram-is-terrible-the-people-deserve-to-have-their-ram-too",
+   "score": 0,
+   "sources": 1,
+   "summary": "SpaceX CEO Musk posted a meme to X mocking Altman's belief that it's \"",
+   "title_ar": ""
+  },
   "tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies": {
    "at": "2026-11-01T15:30:37.378625+00:00",
    "title": "Police Chief physically unplugs Flock cameras after the company ignores contract cancellation",
@@ -1809,7 +1853,7 @@
  "topic_last_posted": {
   "AI": "2026-11-02T15:15:28.902107+00:00",
   "Anime": "2026-11-02T15:00:47.495136+00:00",
-  "Games": "2026-11-02T14:30:40.680772+00:00",
+  "Games": "2026-11-02T15:30:39.796760+00:00",
   "Tech": "2026-11-02T14:45:30.048882+00:00"
  },
  "digest_day": "2026-11-01",
