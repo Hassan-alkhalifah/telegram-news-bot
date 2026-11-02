@@ -683,6 +683,17 @@
    "summary": "A potential deal with Boost Mobile could serve as a shortcut to establishing SpaceX as a mobile carrier.",
    "title_ar": ""
   },
+  "eurogamer.net/anthropic-claude-generative-ai-game-clones-update": {
+   "at": "2026-11-02T19:15:29.735059+00:00",
+   "title": "As the controversy around AI-created video game copies continues, Anthropic seemingly restricts Claude's cloning abilities",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/anthropic-claude-generative-ai-game-clones-update",
+   "score": 0,
+   "sources": 1,
+   "summary": "An update to Anthropic's Claude AI software has seemingly blocked the creation of outright clones or copies of existing games.",
+   "title_ar": ""
+  },
   "eurogamer.net/final-fantasy-14-evercold-zephyr-job-release-date": {
    "at": "2026-10-31T19:01:53.204888+00:00",
    "title": "Final Fantasy 14 reveals Evercold’s second new job and February release date, with pre-orders opening next week",
@@ -2003,6 +2014,17 @@
    "summary": "Saudi Aramco is buying into Humain, the company meant to turn Saudi Arabia into a global AI hub.",
    "title_ar": "أرامكو السعودية تستحوذ على حصة بنسبة 49 بالمئة في شركة الذكاء الاصطناعي Humain بصفقة قيمتها 2.6 مليار دولار"
   },
+  "the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product": {
+   "at": "2026-11-02T19:15:29.735059+00:00",
+   "title": "SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/",
+   "score": 1,
+   "sources": 1,
+   "summary": "SpaceXSI is apparently cutting usage limits for its AI agent Grok Bot, less than two weeks after Musk called it his fastest-growing product.",
+   "title_ar": "SpaceXSI تخفض على ما يبدو حصص روبوت Grok بعد أسابيع من وصف ماسك له بأنه منتجه الأسرع نمواً"
+  },
   "theverge.com/1024283/canva-affinity-for-ipad-design-app-availability": {
    "at": "2026-11-02T14:45:30.048882+00:00",
    "title": "Affinity’s creative studio is now available on iPad for free",
@@ -2111,6 +2133,17 @@
    "score": 0,
    "sources": 1,
    "summary": "The Raspberry Pi 16GB has gone up in price by $80 to $385.",
+   "title_ar": ""
+  },
+  "tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks": {
+   "at": "2026-11-02T19:15:29.735059+00:00",
+   "title": "Anthropic confirms new Claude Code limits to prevent game cloning, users report blocking reverse engineering tasks",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks",
+   "score": 0,
+   "sources": 1,
+   "summary": "Anthropic employee confirms that Claude Code now has orders not to reproduce game IP — company \"iterating to ensure [...] the right balance\"",
    "title_ar": ""
   },
   "tomshardware.com/tech-industry/artificial-intelligence/elon-musk-mocks-openai-ceo-sam-altmans-claim-that-pcs-having-ram-is-terrible-the-people-deserve-to-have-their-ram-too": {
@@ -2302,7 +2335,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-02T18:15:26.353173+00:00",
+  "AI": "2026-11-02T19:15:29.735059+00:00",
   "Anime": "2026-11-02T18:30:39.929258+00:00",
   "Games": "2026-11-02T19:00:44.340026+00:00",
   "Tech": "2026-11-02T18:45:27.787421+00:00"
