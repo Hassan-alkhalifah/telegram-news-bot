@@ -2366,6 +2366,17 @@
    "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass…",
    "title_ar": "صحيفة The New York Times تقاضي متصفح الويب Brave بسبب استخراج بيانات الذكاء الاصطناعي وتجاوز جدران الحماية"
   },
+  "theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings": {
+   "at": "2026-11-02T22:45:31.621575+00:00",
+   "title": "Apple set an iPhone sales record even without a new standard iPhone",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
+   "score": 2,
+   "sources": 1,
+   "summary": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh.",
+   "title_ar": "أبل تسجل رقماً قياسياً في مبيعات iPhone حتى بدون طراز iPhone العادي الجديد"
+  },
   "tomshardware.com/3d-printing/anycubic-and-thingiverse-announce-exclusive-3d-printing-partnership-makeronline-platform-to-offer-1-click-multicolor-3mf-models": {
    "at": "2026-11-01T15:13:44.571929+00:00",
    "title": "Anycubic and Thingiverse announce exclusive 3D printing partnership — MakerOnline platform to offer '1-click' multicolor 3MF models",
@@ -2624,7 +2635,7 @@
   "AI": "2026-11-02T22:15:30.278175+00:00",
   "Anime": "2026-11-02T21:30:41.253089+00:00",
   "Games": "2026-11-02T22:00:45.938205+00:00",
-  "Tech": "2026-11-02T22:30:34.209028+00:00"
+  "Tech": "2026-11-02T22:45:31.621575+00:00"
  },
  "digest_day": "2026-11-02",
  "weekly_day": ""
