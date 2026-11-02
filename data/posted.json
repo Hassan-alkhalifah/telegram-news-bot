@@ -1948,6 +1948,17 @@
    "summary": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees": {
+   "at": "2026-11-02T19:45:29.490155+00:00",
+   "title": "Web host Squarespace lays off 19% of its employees",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+   "title_ar": ""
+  },
   "the-decoder.com/anthropic-grows-revenue-twelvefold-but-posts-23-billion-loss": {
    "at": "2026-11-02T16:30:39.781850+00:00",
    "title": "Anthropic grows revenue twelvefold but posts $23 billion loss",
@@ -2112,6 +2123,17 @@
    "sources": 2,
    "summary": "The Raspberry Pi 5 with 16GB of RAM now costs $385 after an $80 price hike, the latest in a string of increases driven by the ongoing RAM shortage.",
    "title_ar": "جهاز Raspberry Pi 5 بمساحة 16 غيغابايت يشهد ارتفاعاً آخر \"حتمياً\" في أسعار الذاكرة العشوائية"
+  },
+  "theverge.com/tech/1024447/squarespace-layoffs-19-percent": {
+   "at": "2026-11-02T19:45:29.490155+00:00",
+   "title": "Squarespace is laying off 19 percent of employees",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent",
+   "score": 2,
+   "sources": 2,
+   "summary": "The website-building platform Squarespace is laying off 19 percent of its employees as it works to \"simplify\" its operations, Squarespace spokesperson Jeff Seedman says in a statement to The Verge.",
+   "title_ar": ""
   },
   "tomshardware.com/3d-printing/anycubic-and-thingiverse-announce-exclusive-3d-printing-partnership-makeronline-platform-to-offer-1-click-multicolor-3mf-models": {
    "at": "2026-11-01T15:13:44.571929+00:00",
@@ -2360,7 +2382,7 @@
   "AI": "2026-11-02T19:15:29.735059+00:00",
   "Anime": "2026-11-02T19:30:39.655199+00:00",
   "Games": "2026-11-02T19:00:44.340026+00:00",
-  "Tech": "2026-11-02T18:45:27.787421+00:00"
+  "Tech": "2026-11-02T19:45:29.490155+00:00"
  },
  "digest_day": "2026-11-02",
  "weekly_day": ""
