@@ -584,6 +584,17 @@
    "summary": "An EA office building in Madrid was vandalized with the words \"Save Mass Effect\" just days after the company announced it had shuttered series developer BioWare.",
    "title_ar": ""
   },
+  "ign.com/articles/sony-issues-yet-another-ps5-firmware-update-as-jailbreak-whac-a-mole-continues-ahead-of-gta-6-release": {
+   "at": "2026-11-02T10:06:23.400760+00:00",
+   "title": "Sony Issues Yet Another PS5 Firmware Update as Jailbreak Whac-a-Mole Continues Ahead of GTA 6 Release",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.ign.com/articles/sony-issues-yet-another-ps5-firmware-update-as-jailbreak-whac-a-mole-continues-ahead-of-gta-6-release",
+   "score": 3,
+   "sources": 2,
+   "summary": "Sony has released yet another PS5 firmware update as it battles to keep a lid on the homebrew community’s ongoing effort to jailbreak the console ahead of the release of GTA 6.",
+   "title_ar": "سوني تطلق تحديث برمجيات آخر لجهاز PS5 مع استمرار محاولات كسر الحماية قبيل إصدار لعبة GTA 6"
+  },
   "ign.com/articles/yakuza-series-creator-toshiro-nagoshis-studio-has-officially-shut-down-before-releasing-a-game": {
    "at": "2026-11-02T09:45:31.555325+00:00",
    "title": "Yakuza Series Creator Toshiro Nagoshi's Studio Has Officially Shut Down Before Releasing a Game",
@@ -980,6 +991,17 @@
    "summary": "A console exclusive for now.",
    "title_ar": ""
   },
+  "pushsquare.com/news/2026/11/new-ps5-firmware-update-available-now-as-sony-cracks-down-on-jailbreaks": {
+   "at": "2026-11-02T10:06:23.400760+00:00",
+   "title": "New PS5 Firmware Update Available Now as Sony Cracks Down on Jailbreaks",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pushsquare.com/news/2026/11/new-ps5-firmware-update-available-now-as-sony-cracks-down-on-jailbreaks",
+   "score": 0,
+   "sources": 1,
+   "summary": "What does version 26.07-14.22.00 do?",
+   "title_ar": ""
+  },
   "pushsquare.com/news/2026/11/rumour-alleged-persona-1-remake-gameplay-leaks-online": {
    "at": "2026-11-01T01:34:51.899703+00:00",
    "title": "Rumour: Alleged Persona 1 Remake Gameplay Leaks Online",
@@ -1237,7 +1259,7 @@
  "topic_last_posted": {
   "AI": "2026-11-01T22:00:42.086582+00:00",
   "Anime": "2026-11-02T07:30:35.400454+00:00",
-  "Games": "2026-11-02T09:30:48.226575+00:00",
+  "Games": "2026-11-02T10:06:23.400760+00:00",
   "Tech": "2026-11-02T05:45:33.590101+00:00"
  },
  "digest_day": "2026-11-01",
