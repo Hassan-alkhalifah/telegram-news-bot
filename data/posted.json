@@ -111,6 +111,17 @@
    "summary": "A succession of bugs over the years have seen daylight saving time changes cause problems for Apple Watches , and the problem has occurred again this year.",
    "title_ar": "شاشة Apple Watch الدائم تشغيله تعرض وقتاً خاطئاً؟ إليك الحل"
   },
+  "9to5mac.com/2026/11/02/apple-forecasts-its-biggest-revenue-quarter-ever-despite-supply-constraints": {
+   "at": "2026-11-02T23:45:42.407749+00:00",
+   "title": "Apple forecasts its biggest revenue quarter ever despite supply constraints",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/02/apple-forecasts-its-biggest-revenue-quarter-ever-despite-supply-constraints/",
+   "score": 0,
+   "sources": 1,
+   "summary": "During today’s earnings call following its fiscal Q4 2026 report, Apple said it expects its December quarter “to be the best quarter for revenue in the history of the company.” Here are the details…",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/02/apple-releases-new-tvos-27-2-build-ahead-of-updated-apple-tv-4k-launch": {
    "at": "2026-11-02T21:00:41.789774+00:00",
    "title": "Apple releases new tvOS 27.2 build ahead of updated Apple TV 4K launch [U]",
@@ -671,6 +682,17 @@
    "sources": 1,
    "summary": "A hidden toggle buried in the Android Auto app's code isn't functional yet.",
    "title_ar": "Android Auto قد يزعج التوازن بين العمل والحياة مع التحديث القادم"
+  },
+  "engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use": {
+   "at": "2026-11-02T23:45:42.407749+00:00",
+   "title": "Why it's important to use a microSD Express card with your Nintendo Switch 2",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+   "score": 2,
+   "sources": 2,
+   "summary": "The Switch 2 has expandable storage that you should take advantage of.",
+   "title_ar": "لماذا من المهم استخدام بطاقة microSD Express مع جهاز Nintendo Switch 2"
   },
   "engadget.com/2301053/tesla-ditching-solar-roof-tiles-discontinued-good-reason": {
    "at": "2026-11-01T15:45:26.599272+00:00",
@@ -2432,6 +2454,17 @@
    "summary": "An open-source UEFI tool, nv-uefi-unlocker, lifts Nvidia’s tensor rate cap on RTX 20, 30, and 40-series GPUs under Windows.",
    "title_ar": "أداة USB مفتوحة المصدر تكسر قيود الذكاء الاصطناعي لبطاقات Nvidia الرسومية ذات السرعة النصفية على نظام Windows"
   },
+  "tomshardware.com/pc-components/microsd-cards/triple-your-nintendo-switch-2s-storage-for-just-usd99-save-usd50-on-this-ultra-fast-512gb-samsung-p9-microsd-card-for-a-limited-time-only": {
+   "at": "2026-11-02T23:45:42.407749+00:00",
+   "title": "Triple your Nintendo Switch 2's storage for just $99",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/pc-components/microsd-cards/triple-your-nintendo-switch-2s-storage-for-just-usd99-save-usd50-on-this-ultra-fast-512gb-samsung-p9-microsd-card-for-a-limited-time-only",
+   "score": 0,
+   "sources": 1,
+   "summary": "A 34% price cut at Amazon means you can get the Samsung P9 512GB microSD Express card for the Nintendo Switch 2 for just $99.99 right now.",
+   "title_ar": ""
+  },
   "tomshardware.com/raspberry-pi/16gb-raspberry-pi-5-hiked-to-usd385-more-than-triple-its-launch-price-makers-are-already-shifting-to-pico-esp32-for-small-projects-mini-pcs-for-more-ambitious-tasks": {
    "at": "2026-11-02T16:45:43.277150+00:00",
    "title": "16GB Raspberry Pi 5 hiked to $385, more than triple its launch price — makers are already shifting to Pico/ESP32 for small projects, mini PCs for more ambitious tasks",
@@ -2668,7 +2701,7 @@
   "AI": "2026-11-02T23:15:33.462657+00:00",
   "Anime": "2026-11-02T21:30:41.253089+00:00",
   "Games": "2026-11-02T22:00:45.938205+00:00",
-  "Tech": "2026-11-02T23:30:37.670127+00:00"
+  "Tech": "2026-11-02T23:45:42.407749+00:00"
  },
  "digest_day": "2026-11-02",
  "weekly_day": ""
