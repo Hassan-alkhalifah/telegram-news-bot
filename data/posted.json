@@ -716,6 +716,17 @@
    "summary": "Fans have speculated on which studio is leading the development of The Legend of Zelda: Ocarina of Time remake since it was first announced, and a new Ask the Developer feature from Nintendo appears…",
    "title_ar": ""
   },
+  "gamespot.com/articles/xbox-game-pass-has-a-busy-november-ahead-with-several-day-one-launches": {
+   "at": "2026-11-02T16:45:43.277150+00:00",
+   "title": "Xbox Game Pass Has A Busy November Ahead With Several Day-One Launches",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/xbox-game-pass-has-a-busy-november-ahead-with-several-day-one-launches/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The start of the month is a good time to be an Xbox Game Pass subscriber, as that's when Microsoft reveals the next batch of games coming to the service.",
+   "title_ar": ""
+  },
   "gamespot.com/articles/xbox-game-pass-is-losing-14-games-in-november": {
    "at": "2026-11-02T15:30:39.796760+00:00",
    "title": "Xbox Game Pass Is Losing 14 Games In November",
@@ -1310,6 +1321,17 @@
    "summary": "The free-to-play title launches in 2027.",
    "title_ar": ""
   },
+  "nintendolife.com/news/2026/11/nintendo-shares-ocarina-of-time-switch-2-design-sketches": {
+   "at": "2026-11-02T16:45:43.277150+00:00",
+   "title": "Nintendo Shares Ocarina Of Time Switch 2 Design Sketches",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/nintendo-shares-ocarina-of-time-switch-2-design-sketches",
+   "score": 0,
+   "sources": 1,
+   "summary": "Ink's awakening.",
+   "title_ar": ""
+  },
   "nintendolife.com/news/2026/11/nintendo-wanted-to-remake-ocarina-of-time-to-trigger-new-insights-for-future-titles": {
    "at": "2026-11-02T15:30:39.796760+00:00",
    "title": "Nintendo Wanted To Remake Ocarina Of Time To \"Trigger New Insights\" For Future Titles",
@@ -1750,6 +1772,17 @@
    "summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances.",
    "title_ar": ""
   },
+  "theverge.com/tech/1024342/raspberry-pi-5-16gb-price-hike-ram": {
+   "at": "2026-11-02T16:45:43.277150+00:00",
+   "title": "The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.theverge.com/tech/1024342/raspberry-pi-5-16gb-price-hike-ram",
+   "score": 3,
+   "sources": 2,
+   "summary": "The Raspberry Pi 5 with 16GB of RAM now costs $385 after an $80 price hike, the latest in a string of increases driven by the ongoing RAM shortage.",
+   "title_ar": "جهاز Raspberry Pi 5 بمساحة 16 غيغابايت يشهد ارتفاعاً آخر \"حتمياً\" في أسعار الذاكرة العشوائية"
+  },
   "tomshardware.com/3d-printing/anycubic-and-thingiverse-announce-exclusive-3d-printing-partnership-makeronline-platform-to-offer-1-click-multicolor-3mf-models": {
    "at": "2026-11-01T15:13:44.571929+00:00",
    "title": "Anycubic and Thingiverse announce exclusive 3D printing partnership — MakerOnline platform to offer '1-click' multicolor 3MF models",
@@ -1771,6 +1804,17 @@
    "sources": 1,
    "summary": "An open-source UEFI tool, nv-uefi-unlocker, lifts Nvidia’s tensor rate cap on RTX 20, 30, and 40-series GPUs under Windows.",
    "title_ar": "أداة USB مفتوحة المصدر تكسر قيود الذكاء الاصطناعي لبطاقات Nvidia الرسومية ذات السرعة النصفية على نظام Windows"
+  },
+  "tomshardware.com/raspberry-pi/16gb-raspberry-pi-5-hiked-to-usd385-more-than-triple-its-launch-price-makers-are-already-shifting-to-pico-esp32-for-small-projects-mini-pcs-for-more-ambitious-tasks": {
+   "at": "2026-11-02T16:45:43.277150+00:00",
+   "title": "16GB Raspberry Pi 5 hiked to $385, more than triple its launch price — makers are already shifting to Pico/ESP32 for small projects, mini PCs for more ambitious tasks",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/raspberry-pi/16gb-raspberry-pi-5-hiked-to-usd385-more-than-triple-its-launch-price-makers-are-already-shifting-to-pico-esp32-for-small-projects-mini-pcs-for-more-ambitious-tasks",
+   "score": 0,
+   "sources": 1,
+   "summary": "The Raspberry Pi 16GB has gone up in price by $80 to $385.",
+   "title_ar": ""
   },
   "tomshardware.com/tech-industry/artificial-intelligence/elon-musk-mocks-openai-ceo-sam-altmans-claim-that-pcs-having-ram-is-terrible-the-people-deserve-to-have-their-ram-too": {
    "at": "2026-11-02T15:30:39.796760+00:00",
@@ -1964,7 +2008,7 @@
   "AI": "2026-11-02T16:30:39.781850+00:00",
   "Anime": "2026-11-02T16:15:31.542451+00:00",
   "Games": "2026-11-02T16:00:47.508762+00:00",
-  "Tech": "2026-11-02T15:45:29.496589+00:00"
+  "Tech": "2026-11-02T16:45:43.277150+00:00"
  },
  "digest_day": "2026-11-01",
  "weekly_day": ""
