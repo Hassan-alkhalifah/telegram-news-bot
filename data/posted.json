@@ -386,6 +386,17 @@
    "summary": "Game will feature illustrations by Hakuōki's Yone Kazuki; 1st teaser video will debut at AGF 2026 event next weekend",
    "title_ar": "شركتا Voltage وToei Animation تكشفان عن لعبة Otome بعنوان Kakan Ruirui: The Caged Lantern of Yomi للإصدار في عام 2027 على جهاز Switch"
   },
+  "arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom": {
+   "at": "2026-11-02T18:15:26.353173+00:00",
+   "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+   "score": 3,
+   "sources": 2,
+   "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
+   "title_ar": "قواعد Claude الجديدة ضد استنساخ الألعاب لن توقف طفرة النسخ بالذكاء الاصطناعي"
+  },
   "crunchyroll.com/news/announcements/2026/11/2/dive-in-wonderland-anime-film-releases-united-states-canada-release-november-16": {
    "at": "2026-11-02T17:15:30.378763+00:00",
    "title": "Dive in Wonderland Anime Film Releases in U.S., Canada on November 16",
@@ -617,6 +628,17 @@
    "summary": "It's unclear what will happen to the studio's work on Gang of Dragon.",
    "title_ar": ""
   },
+  "engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network": {
+   "at": "2026-11-02T18:15:26.353173+00:00",
+   "title": "SpaceX is reportedly looking at buying Boost Mobile or using its cell network",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+   "score": 0,
+   "sources": 1,
+   "summary": "A potential deal with Boost Mobile could serve as a shortcut to establishing SpaceX as a mobile carrier.",
+   "title_ar": ""
+  },
   "eurogamer.net/final-fantasy-14-evercold-zephyr-job-release-date": {
    "at": "2026-10-31T19:01:53.204888+00:00",
    "title": "Final Fantasy 14 reveals Evercold’s second new job and February release date, with pre-orders opening next week",
@@ -648,6 +670,17 @@
    "score": 0,
    "sources": 1,
    "summary": "",
+   "title_ar": ""
+  },
+  "eurogamer.net/nintendo-fast-travel-legend-of-zelda-ocarina-of-time-remake": {
+   "at": "2026-11-02T18:15:26.353173+00:00",
+   "title": "Nintendo tried adding fast travel to The Legend of Zelda: Ocarina of Time remake, before devs realised \"we were missing out on the moments of discovery\"",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/nintendo-fast-travel-legend-of-zelda-ocarina-of-time-remake",
+   "score": 0,
+   "sources": 1,
+   "summary": "The Legend of Zelda: Ocarina of Time is being wrapped up in all kinds of modern touches for its imminent Nintendo Switch 2 remake (that owl seems to be less chatty , for starters), but there's at…",
    "title_ar": ""
   },
   "eurogamer.net/persona-1-remake-be-your-true-mind-leak": {
@@ -692,6 +725,17 @@
    "score": 0,
    "sources": 1,
    "summary": "",
+   "title_ar": ""
+  },
+  "gamespot.com/articles/claude-code-just-got-a-new-rule-stop-copying-other-people-games": {
+   "at": "2026-11-02T18:15:26.353173+00:00",
+   "title": "Claude Code Just Got A New Rule: Stop Copying Other People’s Games",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/claude-code-just-got-a-new-rule-stop-copying-other-people-games/",
+   "score": 0,
+   "sources": 1,
+   "summary": "AI clones and vibe-coded copycat games have become a huge headache for developers recently, but it looks like an update to Anthropic's Claude Code's \"rules\" has been pushed out.",
    "title_ar": ""
   },
   "gamespot.com/articles/dave-bautista-is-looking-more-like-kratos-after-packing-on-20-pounds-of-muscle": {
@@ -2170,7 +2214,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-02T17:15:30.378763+00:00",
+  "AI": "2026-11-02T18:15:26.353173+00:00",
   "Anime": "2026-11-02T17:30:36.565273+00:00",
   "Games": "2026-11-02T18:00:44.382651+00:00",
   "Tech": "2026-11-02T17:45:26.788345+00:00"
