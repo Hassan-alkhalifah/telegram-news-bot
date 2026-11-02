@@ -122,6 +122,17 @@
    "summary": "Apple code sleuther pdfu has discovered evidence that HomeView will be able to serve as a HomeKit security camera.",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/02/openai-is-retiring-chatgpt-classic-app-will-soon-combine-chat-and-work-tabs-in-new-app": {
+   "at": "2026-11-02T20:15:26.662291+00:00",
+   "title": "OpenAI is retiring ChatGPT Classic app, will soon combine Chat and Work tabs in new app",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/02/openai-is-retiring-chatgpt-classic-app-will-soon-combine-chat-and-work-tabs-in-new-app/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Users who still rely on the ChatGPT Classic app were greeted today with a message informing them that the app will soon be retired.",
+   "title_ar": ""
+  },
   "animecorner.me/bocchi-the-rock-gets-movie-starring-nijika-and-seika-in-2027": {
    "at": "2026-11-01T15:04:30.961295+00:00",
    "title": "Bocchi the Rock Gets Movie Starring Nijika and Seika in 2027",
@@ -1046,6 +1057,17 @@
    "summary": "Niftski, the speedrunning world record holder for Super Mario Bros., beat his own record on a Halloween livestream while dressed as Mario.",
    "title_ar": ""
   },
+  "ign.com/articles/nintendo-explains-why-it-chose-to-do-another-the-legend-of-zelda-ocarina-of-time-remake": {
+   "at": "2026-11-02T20:15:26.662291+00:00",
+   "title": "Nintendo Explains Why It Chose to Do Another The Legend of Zelda: Ocarina of Time Remake",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/nintendo-explains-why-it-chose-to-do-another-the-legend-of-zelda-ocarina-of-time-remake",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nintendo has explained why it chose to develop another The Legend of Zelda: Ocarina of Time remake.",
+   "title_ar": ""
+  },
   "ign.com/articles/nintendo-reveals-development-team-behind-the-legend-of-zelda-ocarina-of-time-remake": {
    "at": "2026-11-02T17:30:36.565273+00:00",
    "title": "Nintendo Reveals Development Team Behind The Legend of Zelda: Ocarina of Time Remake",
@@ -1926,6 +1948,17 @@
    "summary": "Ford said it's making an \"explicit commitment\" to its customers that \"their vehicle data is safe\" with the company.",
    "title_ar": "Ford تطلق \"وعد الخصوصية\" وتوضح كيف ولماذا تستخدم بيانات العملاء"
   },
+  "techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping": {
+   "at": "2026-11-02T20:15:26.662291+00:00",
+   "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted and unlawfully distributing it to its own customers, like Anthropic and…",
+   "title_ar": ""
+  },
   "techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition": {
    "at": "2026-11-02T15:15:28.902107+00:00",
    "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
@@ -2145,6 +2178,17 @@
    "sources": 2,
    "summary": "The website-building platform Squarespace is laying off 19 percent of its employees as it works to \"simplify\" its operations, Squarespace spokesperson Jeff Seedman says in a statement to The Verge.",
    "title_ar": ""
+  },
+  "theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times": {
+   "at": "2026-11-02T20:15:26.662291+00:00",
+   "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+   "score": 3,
+   "sources": 2,
+   "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass…",
+   "title_ar": "صحيفة The New York Times تقاضي متصفح الويب Brave بسبب استخراج بيانات الذكاء الاصطناعي وتجاوز جدران الحماية"
   },
   "tomshardware.com/3d-printing/anycubic-and-thingiverse-announce-exclusive-3d-printing-partnership-makeronline-platform-to-offer-1-click-multicolor-3mf-models": {
    "at": "2026-11-01T15:13:44.571929+00:00",
@@ -2401,7 +2445,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-02T19:15:29.735059+00:00",
+  "AI": "2026-11-02T20:15:26.662291+00:00",
   "Anime": "2026-11-02T19:30:39.655199+00:00",
   "Games": "2026-11-02T20:00:42.058591+00:00",
   "Tech": "2026-11-02T19:45:29.490155+00:00"
