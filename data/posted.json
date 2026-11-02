@@ -419,6 +419,17 @@
    "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
    "title_ar": "قواعد Claude الجديدة ضد استنساخ الألعاب لن توقف طفرة النسخ بالذكاء الاصطناعي"
   },
+  "arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat": {
+   "at": "2026-11-02T19:00:44.340026+00:00",
+   "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
+   "title_ar": ""
+  },
   "crunchyroll.com/news/announcements/2026/11/2/dive-in-wonderland-anime-film-releases-united-states-canada-release-november-16": {
    "at": "2026-11-02T17:15:30.378763+00:00",
    "title": "Dive in Wonderland Anime Film Releases in U.S., Canada on November 16",
@@ -991,6 +1002,17 @@
    "summary": "Elon Musk has joined the growing backlash over OpenAI CEO Sam Altman's recent comments on RAM.",
    "title_ar": ""
   },
+  "ign.com/articles/is-v-in-edgerunners-2-is-there-a-cyberpunk-2077-canon-ending-and-what-about-season-3-we-asked-the-showrunner-in-a-new-interview": {
+   "at": "2026-11-02T19:00:44.340026+00:00",
+   "title": "Is V in Edgerunners 2? Is There a Cyberpunk 2077 Canon Ending? And What About Season 3? We Asked the Showrunner in a New Interview",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.ign.com/articles/is-v-in-edgerunners-2-is-there-a-cyberpunk-2077-canon-ending-and-what-about-season-3-we-asked-the-showrunner-in-a-new-interview",
+   "score": 4,
+   "sources": 2,
+   "summary": "Edgerunners 2 showrunner Bartosz Sztybor on all things Cyberpunk, including V's apparent appearance, canon endings, and more.",
+   "title_ar": "هل تظهر V في Edgerunners 2؟ وهل توجد نهاية معتمدة لـ Cyberpunk 2077؟ وماذا عن الموسم الثالث؟ سألنا مخرج العمل في مقابلة جديدة"
+  },
   "ign.com/articles/niftski-breaks-super-mario-bros-world-record": {
    "at": "2026-11-02T12:15:28.702385+00:00",
    "title": "Speedrunner Breaks Super Mario Bros. World Record While Dressed as the Italian Plumber, Now Just 2 Frames From Theoretical Perfect Run",
@@ -1286,6 +1308,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Zach Cregger’s Resident Evil reportedly tops $400 million worldwide, passing Weapons as his biggest film and setting a franchise record.",
+   "title_ar": ""
+  },
+  "kotaku.com/cyberpunk-edgerunners-season-2-canon-2077-ending-v-2000752388": {
+   "at": "2026-11-02T19:00:44.340026+00:00",
+   "title": "No, Cyberpunk: Edgerunners II Didn’t Canonize A 2077 Ending",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/cyberpunk-edgerunners-season-2-canon-2077-ending-v-2000752388",
+   "score": 0,
+   "sources": 1,
+   "summary": "The show takes place after CD Projekt Red’s RPG, but its showrunner says it’s not invalidating player decisions",
    "title_ar": ""
   },
   "kotaku.com/doom-director-says-were-doing-great-after-half-of-id-software-was-laid-off-2000751940": {
@@ -1981,6 +2014,17 @@
    "summary": "Canva is giving digital creatives a new way to design, illustrate, and edit photos on their iPads, and it doesn't have to cost them a thing.",
    "title_ar": "استوديو الإبداع Affinity متوفر الآن على iPad مجاناً"
   },
+  "theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones": {
+   "at": "2026-11-02T19:00:44.340026+00:00",
+   "title": "Anthropic clamps down on Claude’s AI video game clones",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+   "score": 0,
+   "sources": 1,
+   "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware.",
+   "title_ar": ""
+  },
   "theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code": {
    "at": "2026-10-31T18:24:19.596609+00:00",
    "title": "I built an AI Tamagotchi before Meta could",
@@ -2260,7 +2304,7 @@
  "topic_last_posted": {
   "AI": "2026-11-02T18:15:26.353173+00:00",
   "Anime": "2026-11-02T18:30:39.929258+00:00",
-  "Games": "2026-11-02T18:00:44.382651+00:00",
+  "Games": "2026-11-02T19:00:44.340026+00:00",
   "Tech": "2026-11-02T18:45:27.787421+00:00"
  },
  "digest_day": "2026-11-02",
