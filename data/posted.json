@@ -1057,6 +1057,17 @@
    "summary": "An update to Anthropic's Claude AI software has seemingly blocked the creation of outright clones or copies of existing games.",
    "title_ar": ""
   },
+  "eurogamer.net/call-of-duty-modern-warfare-4-player-engagement-black-ops-7": {
+   "at": "2026-11-03T11:30:39.439292+00:00",
+   "title": "It looks like Call of Duty: Modern Warfare 4 had fewer active players at launch in the US compared to last year's Black Ops 7",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-player-engagement-black-ops-7",
+   "score": 2,
+   "sources": 1,
+   "summary": "It's been speculated for a while that Call of Duty may be losing its lustre.",
+   "title_ar": "يبدو أن Call of Duty: Modern Warfare 4 سجلت عدد لاعبين نشطين أقل عند الإطلاق في الولايات المتحدة مقارنة بـ Black Ops 7 للعام الماضي."
+  },
   "eurogamer.net/final-fantasy-14-evercold-zephyr-job-release-date": {
    "at": "2026-10-31T19:01:53.204888+00:00",
    "title": "Final Fantasy 14 reveals Evercold’s second new job and February release date, with pre-orders opening next week",
@@ -3305,7 +3316,7 @@
  "topic_last_posted": {
   "AI": "2026-11-03T10:45:27.965892+00:00",
   "Anime": "2026-11-03T10:45:27.965892+00:00",
-  "Games": "2026-11-03T03:45:28.861488+00:00",
+  "Games": "2026-11-03T11:30:39.439292+00:00",
   "Tech": "2026-11-03T11:15:29.723345+00:00"
  },
  "digest_day": "2026-11-02",
