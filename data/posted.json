@@ -419,6 +419,17 @@
    "summary": "Apple has released the first iOS 27.3 developer beta for iPhone.",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/03/first-macos-sequoia-15-8-3-and-macos-tahoe-26-7-3-rcs-now-available": {
+   "at": "2026-11-03T18:30:50.083575+00:00",
+   "title": "First macOS Sequoia 15.8.3 and macOS Tahoe 26.7.3 RCs now available",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/03/first-macos-sequoia-15-8-3-and-macos-tahoe-26-7-3-rcs-now-available/",
+   "score": 0,
+   "sources": 1,
+   "summary": "In addition to the release of macOS 27.3 beta 1, Apple is also rolling out the first release candidates of macOS Sequoia 15.8.3 and macOS Tahoe 26.7.3.",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/03/how-rising-apple-costs-are-reshaping-the-trade-in-market": {
    "at": "2026-11-03T11:00:45.253052+00:00",
    "title": "Apple @ Work Podcast: How rising Apple costs are reshaping the trade-in market",
@@ -846,6 +857,17 @@
    "score": 0,
    "sources": 1,
    "summary": "HIDIVE streams chibi -style sketch show spinoff on Friday",
+   "title_ar": ""
+  },
+  "animenewsnetwork.com/news/2026-11-03/hyperspace-neptunia-unlimited-game-heads-west-in-2027/.243488": {
+   "at": "2026-11-03T18:30:50.083575+00:00",
+   "title": "Hyperspace Neptunia: Unlimited Game Heads West in 2027",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-03/hyperspace-neptunia-unlimited-game-heads-west-in-2027/.243488",
+   "score": 0,
+   "sources": 1,
+   "summary": "Game launches for Switch 2, Switch, PS5, PS4, PC",
    "title_ar": ""
   },
   "animenewsnetwork.com/news/2026-11-03/new-girls-band-cry-anime-film-teaser-unveils-may-21-opening/.243482": {
@@ -1694,6 +1716,17 @@
    "sources": 1,
    "summary": "Microsoft has announced new titles coming to Game Pass in early to mid November, including …",
    "title_ar": ""
+  },
+  "gematsu.com/2026/11/hyperspace-neptunia-unlimited-coming-west-in-2027-for-ps5-switch-2-ps4-switch-and-pc": {
+   "at": "2026-11-03T18:30:50.083575+00:00",
+   "title": "Hyperspace Neptunia: Unlimited coming west in 2027 for PS5, Switch 2, PS4, Switch, and PC",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.gematsu.com/2026/11/hyperspace-neptunia-unlimited-coming-west-in-2027-for-ps5-switch-2-ps4-switch-and-pc",
+   "score": 3,
+   "sources": 2,
+   "summary": "Idea Factory International will release Compile Heart-developed Hyperspace Neptunia: Unlimited for PlayStation 5, Switch 2, …",
+   "title_ar": "لعبة Hyperspace Neptunia: Unlimited قادمة إلى الغرب في عام 2027 لأجهزة PS5 و Switch 2 و PS4 و Switch و PC"
   },
   "gematsu.com/2026/11/nagoshi-studio-shuts-down": {
    "at": "2026-11-02T07:30:35.400454+00:00",
@@ -4357,6 +4390,17 @@
    "summary": "By clicking the Master Sword, you can travel back in time to the old Google homepage",
    "title_ar": ""
   },
+  "videogameschronicle.com/news/itch-mass-deletes-ai-slop-lets-users-filter-out-any-ai-assisted-games": {
+   "at": "2026-11-03T18:30:50.083575+00:00",
+   "title": "Itch mass deletes ‘AI slop’, lets users filter out any AI assisted games",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.videogameschronicle.com/news/itch-mass-deletes-ai-slop-lets-users-filter-out-any-ai-assisted-games/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Itch users can now filter out any game that has an generative AI disclaimer",
+   "title_ar": ""
+  },
   "videogameschronicle.com/news/nagoshi-studio-officially-closes-after-netease-cuts-funding": {
    "at": "2026-11-02T08:15:37.115988+00:00",
    "title": "Nagoshi Studio officially closes after NetEase cuts funding",
@@ -4438,7 +4482,7 @@
  "topic_last_posted": {
   "AI": "2026-11-03T17:45:32.846690+00:00",
   "Anime": "2026-11-03T16:15:29.602523+00:00",
-  "Games": "2026-11-03T18:00:48.398575+00:00",
+  "Games": "2026-11-03T18:30:50.083575+00:00",
   "Tech": "2026-11-03T18:15:40.258026+00:00"
  },
  "digest_day": "2026-11-03",
