@@ -3202,6 +3202,17 @@
    "summary": "An undergraduate student from Georgia Tech is trying his hand at an $800k prize for the fastest jet-powered RC aircraft, achieving 790 km/h (491 mph) and breaking the previous world record.",
    "title_ar": "طالب جامعي يحطم رقمًا قياسيًا غير رسمي لأسرع طائرة بدون طيار تعمل بالنفث بسرعة 491 ميلًا في الساعة بناها في غرفة سكنه الجامعي"
   },
+  "tomshardware.com/tech-industry/semiconductors/ai-chip-smugglers-exploit-trade-control-loophole-to-bring-banned-hbm-from-south-korea-into-china-expensive-memory-chips-packaged-with-cheap-unsanctioned-processors-to-become-legal-exports": {
+   "at": "2026-11-03T12:15:31.737415+00:00",
+   "title": "AI chip smugglers exploit trade control loophole to bring banned HBM from South Korea into China — expensive memory chips packaged with cheap, unsanctioned processors to become legal exports",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/semiconductors/ai-chip-smugglers-exploit-trade-control-loophole-to-bring-banned-hbm-from-south-korea-into-china-expensive-memory-chips-packaged-with-cheap-unsanctioned-processors-to-become-legal-exports",
+   "score": 1,
+   "sources": 1,
+   "summary": "Customs authorities only check the performance specifications of a server's processors, allowing smugglers to attach high-end memory chips to low-end processors and ship them into China.",
+   "title_ar": "مستخرجو شرائح الذكاء الاصطناعي يستغلون ثغرة في قيود التجارة لإدخال ذاكرة HBM المحظورة من كوريا الجنوبية إلى الصين — شرائح ذاكرة باهظة الثمن تُغلف مع معالجات رخيصة وغير خاضعة للعقوبات لتصبح صادرات قانونية."
+  },
   "tomshardware.com/tech-industry/space/usaf-successfully-tests-dropping-spacex-starfall-cargo-drop-pods-from-space-2-200-pound-capsule-drops-military-supplies-in-the-pacific-to-test-starcraft-like-supply-drops": {
    "at": "2026-11-01T15:45:26.599272+00:00",
    "title": "USAF successfully tests dropping SpaceX Starfall cargo drop pods from space",
@@ -3328,7 +3339,7 @@
   "AI": "2026-11-03T10:45:27.965892+00:00",
   "Anime": "2026-11-03T10:45:27.965892+00:00",
   "Games": "2026-11-03T11:30:39.439292+00:00",
-  "Tech": "2026-11-03T11:45:31.720541+00:00"
+  "Tech": "2026-11-03T12:15:31.737415+00:00"
  },
  "digest_day": "2026-11-02",
  "weekly_day": ""
