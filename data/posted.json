@@ -1244,6 +1244,39 @@
    "summary": "Samsung's Galaxy Ring now offers more advanced sleep apnea detection following FDA approval of the new feature in July.3 replies",
    "title_ar": ""
   },
+  "engadget.com/2305420/microsoft-has-listed-some-concrete-ways-that-windows-11-is-getting-better-with-8gb-of-ram": {
+   "at": "2026-11-03T17:15:30.293246+00:00",
+   "title": "Microsoft has listed some concrete ways that Windows 11 is getting better with 8GB of RAM",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2305420/microsoft-has-listed-some-concrete-ways-that-windows-11-is-getting-better-with-8gb-of-ram/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Windows 11 users with 8GB of RAM should start noticing improved performance in a wide range of apps.",
+   "title_ar": ""
+  },
+  "engadget.com/2305424/the-next-elder-scrolls-game-is-officially-called-sentinel": {
+   "at": "2026-11-03T17:15:30.293246+00:00",
+   "title": "The next Elder Scrolls game is officially called Sentinel",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2305424/the-next-elder-scrolls-game-is-officially-called-sentinel/",
+   "score": 0,
+   "sources": 1,
+   "summary": "There's still no word on when The Elder Scrolls VI will arrive.",
+   "title_ar": ""
+  },
+  "engadget.com/2305432/google-says-that-students-in-schools-that-ban-ai-wont-have-access-to-search": {
+   "at": "2026-11-03T17:15:30.293246+00:00",
+   "title": "Google says students in schools that ban AI won't have access to Search",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2305432/google-says-that-students-in-schools-that-ban-ai-wont-have-access-to-search/",
+   "score": 0,
+   "sources": 1,
+   "summary": "This is another example of how closely Google Search is tied to the company's AI products.",
+   "title_ar": ""
+  },
   "eurogamer.net/anthropic-claude-generative-ai-game-clones-update": {
    "at": "2026-11-02T19:15:29.735059+00:00",
    "title": "As the controversy around AI-created video game copies continues, Anthropic seemingly restricts Claude's cloning abilities",
@@ -3620,6 +3653,17 @@
    "summary": "Xbox's former chief operating officer, Helen Chiang, suddenly left Microsoft less than two weeks ago after being promoted into the role in July.",
    "title_ar": ""
   },
+  "theverge.com/news/1025142/windows-11-8gb-ram-memory-improvements-speed-performance": {
+   "at": "2026-11-03T17:15:30.293246+00:00",
+   "title": "Windows 11 is now ‘up to 40 percent faster’ on PCs with 8GB of RAM",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.theverge.com/news/1025142/windows-11-8gb-ram-memory-improvements-speed-performance",
+   "score": 5,
+   "sources": 3,
+   "summary": "Microsoft has been doing a lot of work to improve memory usage and increase performance on Windows 11 PCs over the past year.",
+   "title_ar": ""
+  },
   "theverge.com/news/1025273/the-elder-scrolls-vi-sentinel-name-announcement": {
    "at": "2026-11-03T15:15:38.086780+00:00",
    "title": "The Elder Scrolls VI officially has a name: Sentinel",
@@ -3850,6 +3894,17 @@
    "sources": 1,
    "summary": "The developer's latest experiment takes Windows 11's hardware requirements to an extreme, managing to retain basic desktop functionality with just 128MB of memory, although the resulting…",
    "title_ar": "مطور ينجح في تشغيل نظام Windows 11 26H2 بذاكرة عشوائية RAM سعة 128 ميجابايت فقط، أي ما يعادل 3.1% فقط من الحد الأدنى الموصى به — التثبيت المخفض يمكنه الوصول إلى سطح المكتب، مستكشف الملفات، والمفكرة"
+  },
+  "tomshardware.com/software/windows/windows-11-8gb-ram-configurations-get-a-performance-boost-as-ai-demand-keeps-pushing-prices-up-microsoft-says-windows-is-now-20-percent-more-responsive-multitasking-40-percent-faster-on-memory-constrained-machines": {
+   "at": "2026-11-03T17:15:30.293246+00:00",
+   "title": "Windows 11 8GB RAM configurations get a performance boost — As AI demand keeps pushing prices up, Microsoft says Windows is now 20% more responsive, multitasking 40% faster on memory-constrained machines",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/software/windows/windows-11-8gb-ram-configurations-get-a-performance-boost-as-ai-demand-keeps-pushing-prices-up-microsoft-says-windows-is-now-20-percent-more-responsive-multitasking-40-percent-faster-on-memory-constrained-machines",
+   "score": 0,
+   "sources": 1,
+   "summary": "Microsoft claims that it has made drastic improvements to the performance of Windows 11 while using 8GB of RAM.",
+   "title_ar": ""
   },
   "tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks": {
    "at": "2026-11-02T19:15:29.735059+00:00",
@@ -4197,7 +4252,7 @@
   "AI": "2026-11-03T16:45:30.803913+00:00",
   "Anime": "2026-11-03T16:15:29.602523+00:00",
   "Games": "2026-11-03T16:45:30.803913+00:00",
-  "Tech": "2026-11-03T17:00:45.520558+00:00"
+  "Tech": "2026-11-03T17:15:30.293246+00:00"
  },
  "digest_day": "2026-11-02",
  "weekly_day": ""
