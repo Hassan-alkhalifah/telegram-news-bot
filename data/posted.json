@@ -496,6 +496,17 @@
    "summary": "Apple just released the first betas of iOS 27.3, iPadOS 27.3, and macOS 27.3, with some big changes to Safari.",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/03/ios-27-3-brings-apple-intelligence-features-to-china": {
+   "at": "2026-11-03T19:45:44.659341+00:00",
+   "title": "iOS 27.3 brings Apple Intelligence features to China",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/03/ios-27-3-brings-apple-intelligence-features-to-china/",
+   "score": 0,
+   "sources": 1,
+   "summary": "iOS 27.3 beta 1 is here , and it includes the first Apple Intelligence features in China.",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/03/ios-27-3-expands-siri-ai-with-many-new-capabilities-across-apple-apps": {
    "at": "2026-11-03T19:30:52.532851+00:00",
    "title": "iOS 27.3 expands Siri AI with many new capabilities across Apple apps",
@@ -1453,6 +1464,17 @@
    "summary": "This is another example of how closely Google Search is tied to the company's AI products.",
    "title_ar": ""
   },
+  "engadget.com/2305699/itchio-adds-a-filter-for-games-with-gen-ai-disclosures": {
+   "at": "2026-11-03T19:45:44.659341+00:00",
+   "title": "Itch.io adds a filter for games with gen AI disclosures",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2305699/itchio-adds-a-filter-for-games-with-gen-ai-disclosures/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Your turn, Steam.",
+   "title_ar": ""
+  },
   "eurogamer.net/anthropic-claude-generative-ai-game-clones-update": {
    "at": "2026-11-02T19:15:29.735059+00:00",
    "title": "As the controversy around AI-created video game copies continues, Anthropic seemingly restricts Claude's cloning abilities",
@@ -1748,6 +1770,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Fans have speculated on which studio is leading the development of The Legend of Zelda: Ocarina of Time remake since it was first announced, and a new Ask the Developer feature from Nintendo appears…",
+   "title_ar": ""
+  },
+  "gamespot.com/articles/wow-forever-wont-get-more-class-balance-changes-any-time-soon": {
+   "at": "2026-11-03T19:45:44.659341+00:00",
+   "title": "WoW: Forever Won’t Get More Class Balance Changes Any Time Soon",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/wow-forever-wont-get-more-class-balance-changes-any-time-soon/",
+   "score": 0,
+   "sources": 1,
+   "summary": "World of Warcraft: Forever is gearing up for launch with some major class balance changes , but don't expect any more for at least a month.",
    "title_ar": ""
   },
   "gamespot.com/articles/xbox-game-pass-has-a-busy-november-ahead-with-several-day-one-launches": {
@@ -4005,6 +4038,17 @@
    "summary": "People hate data centers.",
    "title_ar": ""
   },
+  "theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search": {
+   "at": "2026-11-03T19:45:44.659341+00:00",
+   "title": "OpenAI says ChatGPT is catching up to Google in search",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+   "score": 1,
+   "sources": 1,
+   "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run…",
+   "title_ar": "OpenAI تقول إن ChatGPT يلحق بـ Google في مجال البحث"
+  },
   "theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code": {
    "at": "2026-10-31T18:24:19.596609+00:00",
    "title": "I built an AI Tamagotchi before Meta could",
@@ -4689,7 +4733,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-03T18:45:38.152068+00:00",
+  "AI": "2026-11-03T19:45:44.659341+00:00",
   "Anime": "2026-11-03T19:00:56.600026+00:00",
   "Games": "2026-11-03T19:30:52.532851+00:00",
   "Tech": "2026-11-03T19:15:31.102048+00:00"
