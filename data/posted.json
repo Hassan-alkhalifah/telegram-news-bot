@@ -1002,6 +1002,17 @@
    "summary": "Snap CEO Evan Spiegel was due to testify in the upcoming trial.",
    "title_ar": ""
   },
+  "engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features": {
+   "at": "2026-11-03T09:30:39.176920+00:00",
+   "title": "Apple's latest watchOS 27 beta enables Siri Recap and Live Rewind audio features",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+   "score": 1,
+   "sources": 1,
+   "summary": "First revealed at the company's event in September, Apple's AI-powered Apple Watch features are finally landing in beta.",
+   "title_ar": "إصدار Beta الأخير من نظام watchOS 27 لشركة Apple يفعّل ميزات Siri Recap و Live Rewind الصوتية"
+  },
   "eurogamer.net/anthropic-claude-generative-ai-game-clones-update": {
    "at": "2026-11-02T19:15:29.735059+00:00",
    "title": "As the controversy around AI-created video game copies continues, Anthropic seemingly restricts Claude's cloning abilities",
@@ -1099,6 +1110,17 @@
    "score": 0,
    "sources": 1,
    "summary": "",
+   "title_ar": ""
+  },
+  "eurogamer.net/sony-bend-studio-next-playstation-game-2027": {
+   "at": "2026-11-03T09:30:39.176920+00:00",
+   "title": "Days Gone studio's next PlayStation exclusive to be revealed and released in 2027, according to new report",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/sony-bend-studio-next-playstation-game-2027",
+   "score": 0,
+   "sources": 1,
+   "summary": "Sony's Bend Studio, perhaps one of its lesser discussed development houses, has apparently been deep in development on its next title.",
    "title_ar": ""
   },
   "eurogamer.net/yakuza-creator-new-studio-closed-netease": {
@@ -2046,6 +2068,17 @@
    "sources": 1,
    "summary": "Here are the North American anime, manga, and light novel releases for November.",
    "title_ar": ""
+  },
+  "myanimelist.net/news/74900432?_location=rss": {
+   "at": "2026-11-03T09:30:39.176920+00:00",
+   "title": "'Hyouken no Majutsushi ga Sekai wo Suberu II' Announces Additional Cast",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://myanimelist.net/news/74900432?_location=rss",
+   "score": 1,
+   "sources": 1,
+   "summary": "The official website for the television anime adaptation of Nana Mikoshiba's Hyouken no Majutsushi ga Sekai wo Suberu (The Iceblade Sorcerer Shall Rule the World) light novel announced five…",
+   "title_ar": "الإعلان عن طاقم تمثيل إضافي لأنمي Hyouken no Majutsushi ga Sekai wo Suberu II"
   },
   "nintendolife.com/news/2026/10/nintendo-drops-surprise-pikmin-day-direct": {
    "at": "2026-10-31T21:50:03.458663+00:00",
@@ -3161,9 +3194,9 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-03T03:30:37.819085+00:00",
-  "Anime": "2026-11-03T04:45:26.654505+00:00",
+  "Anime": "2026-11-03T09:30:39.176920+00:00",
   "Games": "2026-11-03T03:45:28.861488+00:00",
-  "Tech": "2026-11-03T06:45:27.952446+00:00"
+  "Tech": "2026-11-03T09:30:39.176920+00:00"
  },
  "digest_day": "2026-11-02",
  "weekly_day": ""
