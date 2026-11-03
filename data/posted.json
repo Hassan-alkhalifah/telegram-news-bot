@@ -452,6 +452,17 @@
    "summary": "iOS 27.2 arrived last week with a variety of new features and changes for iPhone.",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/03/ios-27-3-adds-all-new-apple-health-app-details-here": {
+   "at": "2026-11-03T18:45:38.152068+00:00",
+   "title": "iOS 27.3 adds all-new Apple Health app, details here",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/03/ios-27-3-adds-all-new-apple-health-app-details-here/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Apple released iOS 27.3 beta 1 today, and it reintroduces the all-new Health app that was first available for testing during the iOS 27.2 beta.",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/03/iphone-18-will-have-two-upgrades-inspired-by-pro-models-per-leak": {
    "at": "2026-11-03T17:00:45.520558+00:00",
    "title": "iPhone 18 will have two upgrades inspired by ‘Pro’ models, per leak",
@@ -2707,6 +2718,17 @@
    "summary": "The record-smashing Niftski seems to credit the dress-up routine with taking an edge off, bringing him two frames away from a perfect run",
    "title_ar": "عداء سريع مرتدٍ زي ماريو يحطم الرقم القياسي العالمي للعبة Super Mario Bros. في بث هالوين: \"هل يمكنني الخروج عن الشخصية من فضلك\""
   },
+  "kotaku.com/nintendo-rehired-one-of-the-original-voice-actors-for-the-ocarina-of-time-remake-without-even-realizing-it-2000752765": {
+   "at": "2026-11-03T18:45:38.152068+00:00",
+   "title": "Nintendo Rehired One Of The Original Voice Actors For The Ocarina Of Time Remake Without Even Realizing It",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/nintendo-rehired-one-of-the-original-voice-actors-for-the-ocarina-of-time-remake-without-even-realizing-it-2000752765",
+   "score": 0,
+   "sources": 1,
+   "summary": "'None of us saw that coming'",
+   "title_ar": ""
+  },
   "kotaku.com/original-zelda-ocarina-of-time-director-calls-the-infamous-water-temple-overdue-homework-for-the-remake-2000752762": {
    "at": "2026-11-03T16:45:30.803913+00:00",
    "title": "The Director Of The Original Zelda: Ocarina Of Time Calls Fixing The Infamous Water Temple ‘Overdue Homework’",
@@ -3620,6 +3642,17 @@
    "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
    "title_ar": "جوجل تسمح للمدارس بتعطيل أدوات الذكاء الاصطناعي الخاصة بها، ولكن على حساب البحث"
   },
+  "techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood": {
+   "at": "2026-11-03T18:45:38.152068+00:00",
+   "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+   "title_ar": ""
+  },
   "the-decoder.com/anthropic-cracks-down-on-game-cloning-in-claude-code-after-wave-of-ai-built-knockoffs": {
    "at": "2026-11-03T10:00:41.819308+00:00",
    "title": "Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs",
@@ -3884,6 +3917,17 @@
    "summary": "SpaceX has discussed a deal with Boost Mobile to launch its own service through the budget-friendly carrier, according to a report from The Washington Post.",
    "title_ar": ""
   },
+  "theverge.com/streaming/1025029/netflix-ai-discover-recommendations": {
+   "at": "2026-11-03T18:45:38.152068+00:00",
+   "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+   "score": 2,
+   "sources": 2,
+   "summary": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch.",
+   "title_ar": "نتفليكس ستعرض عليك توصيات مخصصة عبر تبويب \"AI Discover\" الجديد"
+  },
   "theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features": {
    "at": "2026-11-01T17:45:30.642959+00:00",
    "title": "Apple’s HomeView could add security camera features",
@@ -3981,6 +4025,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift.",
+   "title_ar": ""
+  },
+  "theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta": {
+   "at": "2026-11-03T18:45:38.152068+00:00",
+   "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+   "score": 0,
+   "sources": 1,
+   "summary": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now.",
    "title_ar": ""
   },
   "theverge.com/tech/1025160/adobe-umg-wmg-premiere-mobile-licensed-music": {
@@ -4480,7 +4535,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-03T17:45:32.846690+00:00",
+  "AI": "2026-11-03T18:45:38.152068+00:00",
   "Anime": "2026-11-03T16:15:29.602523+00:00",
   "Games": "2026-11-03T18:30:50.083575+00:00",
   "Tech": "2026-11-03T18:15:40.258026+00:00"
