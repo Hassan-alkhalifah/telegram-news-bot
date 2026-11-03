@@ -166,6 +166,17 @@
    "summary": "If you’re sick of AI search and all the business of modern Google search, this week’s Google easter egg will take you back 28 years to a simpler time when Ocarina of Time was the pinnacle of gaming…",
    "title_ar": ""
   },
+  "9to5google.com/2026/11/03/peak-design-new-charging-accessories": {
+   "at": "2026-11-03T21:15:33.592896+00:00",
+   "title": "Peak Design’s new wireless charging stand pulls double duty, literally",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5google.com/2026/11/03/peak-design-new-charging-accessories/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The three new charging accessories from Peak Design hit the high notes, like (dual) Qi2 wireless charging and wired fast charging without bulky bricks. more…",
+   "title_ar": ""
+  },
   "9to5google.com/2026/11/03/xiaomi-confirms-android-17-hyperos-4-rollout-schedule-device-list": {
    "at": "2026-11-03T15:45:31.163856+00:00",
    "title": "Xiaomi confirms Android 17 HyperOS 4 rollout schedule for these devices",
@@ -604,6 +615,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Apple has officially kicked off a new wave of developer betas, with beta 1 debuting for watchOS 27.3, iPadOS 27.3, tvOS 27.3, and more. more…",
+   "title_ar": ""
+  },
+  "9to5mac.com/2026/11/03/xcode-27-3-adds-github-copilot-to-its-built-in-coding-assistant": {
+   "at": "2026-11-03T21:15:33.592896+00:00",
+   "title": "Xcode 27.3 adds GitHub Copilot to its built-in coding assistant",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/03/xcode-27-3-adds-github-copilot-to-its-built-in-coding-assistant/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Apple released Xcode 27.3 beta 1 today with multiple new features, chief among them an expansion of its built-in coding assistant to support GitHub Copilot.",
    "title_ar": ""
   },
   "animecorner.me/bocchi-the-rock-gets-movie-starring-nijika-and-seika-in-2027": {
@@ -2552,6 +2574,17 @@
    "sources": 1,
    "summary": "World of Warcraft Forever is just a day away, and now that the beta has concluded Blizzard has released its patch notes for the release build of the game.",
    "title_ar": ""
+  },
+  "ign.com/articles/xbox-made-an-alligator-shaped-series-x-and-you-can-win-it-before-gta-6-launches": {
+   "at": "2026-11-03T21:15:33.592896+00:00",
+   "title": "Xbox Made an Alligator-Shaped Series X, and You Can Win It Before GTA 6 Launches",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.ign.com/articles/xbox-made-an-alligator-shaped-series-x-and-you-can-win-it-before-gta-6-launches",
+   "score": 2,
+   "sources": 1,
+   "summary": "GTA 6 is mere weeks away from launch, and to celebrate, Xbox is bringing the wildlife of Leonida to players’ living rooms with a one-of-a-kind console.",
+   "title_ar": "أكس بوكس تبتكر جهاز Series X بتصميم تمساح، ويمكنك الفوز به قبل إطلاق GTA 6"
   },
   "ign.com/articles/yakuza-series-creator-toshiro-nagoshis-studio-has-officially-shut-down-before-releasing-a-game": {
    "at": "2026-11-02T09:45:31.555325+00:00",
@@ -4966,7 +4999,7 @@
  "topic_last_posted": {
   "AI": "2026-11-03T20:45:37.881443+00:00",
   "Anime": "2026-11-03T20:00:53.301248+00:00",
-  "Games": "2026-11-03T20:30:38.194635+00:00",
+  "Games": "2026-11-03T21:15:33.592896+00:00",
   "Tech": "2026-11-03T21:00:42.717530+00:00"
  },
  "digest_day": "2026-11-03",
