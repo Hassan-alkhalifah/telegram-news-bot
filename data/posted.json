@@ -2399,6 +2399,17 @@
    "summary": "Itch has clamped down on the deluge of low effort generative AI games flooding its store, confirming the removal of a couple of terabytes of \"AI slop.\"",
    "title_ar": "متجر الألعاب المستقلة Itch يحذف \"تيرابايتات قليلة من محتوى الذكاء الاصطناعي الرديء\" ويضيف مرشح \"بدون ذكاء اصطناعي\" لنتائج البحث"
   },
+  "ign.com/articles/mike-flanagan-teases-very-cool-and-unexpected-on-ramp-into-the-world-of-warhammer-40000-for-henry-cavills-amazon-tv-show": {
+   "at": "2026-11-03T21:45:30.556880+00:00",
+   "title": "Mike Flanagan Teases 'Very Cool and Unexpected On-Ramp' Into the World of Warhammer 40,000 for Henry Cavill's Amazon TV Show",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.ign.com/articles/mike-flanagan-teases-very-cool-and-unexpected-on-ramp-into-the-world-of-warhammer-40000-for-henry-cavills-amazon-tv-show",
+   "score": 2,
+   "sources": 2,
+   "summary": "Horror specialist Mike Flanagan has issued an update on his hotly anticipated live-action Warhammer 40,000 TV series starring Henry Cavill, teasing something “unexpected” for fans.",
+   "title_ar": "Mike Flanagan يلمح إلى مدخل رائع للغاية وغير متوقع لعالم Warhammer 40,000 في مسلسل Amazon التلفزيوني الخاص بـ Henry Cavill"
+  },
   "ign.com/articles/niftski-breaks-super-mario-bros-world-record": {
    "at": "2026-11-02T12:15:28.702385+00:00",
    "title": "Speedrunner Breaks Super Mario Bros. World Record While Dressed as the Italian Plumber, Now Just 2 Frames From Theoretical Perfect Run",
@@ -3596,6 +3607,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Nagoshi Studio revealed Gang of Dragon less than a year ago, but it ran into trouble just a few months later.",
+   "title_ar": ""
+  },
+  "pcgamer.com/movies-tv/mike-flanagan-thinks-warhammer-is-a-fascinating-world-but-cant-tell-us-anything-else-about-the-upcoming-warhammer-40-000-project-because-henry-cavill-would-be-furious": {
+   "at": "2026-11-03T21:45:30.556880+00:00",
+   "title": "Mike Flanagan thinks 'Warhammer is a fascinating world' but can't tell us anything else about the upcoming Warhammer 40,000 project because 'Henry Cavill would be furious'",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/movies-tv/mike-flanagan-thinks-warhammer-is-a-fascinating-world-but-cant-tell-us-anything-else-about-the-upcoming-warhammer-40-000-project-because-henry-cavill-would-be-furious/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Give me blood, give me gore, give me Space Marines.",
    "title_ar": ""
   },
   "pcgamer.com/software/ai/just-deleted-a-couple-terabytes-of-ai-slop-itch-io-pushes-back-against-the-flood-of-ai-on-its-storefront": {
@@ -5032,7 +5054,7 @@
  "topic_last_posted": {
   "AI": "2026-11-03T20:45:37.881443+00:00",
   "Anime": "2026-11-03T20:00:53.301248+00:00",
-  "Games": "2026-11-03T21:15:33.592896+00:00",
+  "Games": "2026-11-03T21:45:30.556880+00:00",
   "Tech": "2026-11-03T21:30:45.725959+00:00"
  },
  "digest_day": "2026-11-03",
