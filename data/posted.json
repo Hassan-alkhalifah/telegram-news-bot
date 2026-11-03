@@ -1651,6 +1651,17 @@
    "summary": "The app stores will stay open for both devices after support ends next year.",
    "title_ar": ""
   },
+  "engadget.com/2306095/nvidia-dlss-5-update-rtx-remix-enhance-older-games": {
+   "at": "2026-11-03T23:15:36.216929+00:00",
+   "title": "NVIDIA's controversial DLSS 5 is coming to RTX Remix to 'enhance' older games",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2306095/nvidia-dlss-5-update-rtx-remix-enhance-older-games/",
+   "score": 1,
+   "sources": 1,
+   "summary": "The NVIDIA modding platform lets you remaster classic games with modern graphics, and now DLSS 5 is included.",
+   "title_ar": "تكنولوجيا DLSS 5 المثيرة للجدل من NVIDIA قادمة إلى RTX Remix لتحسين الألعاب القديمة"
+  },
   "eurogamer.net/anthropic-claude-generative-ai-game-clones-update": {
    "at": "2026-11-02T19:15:29.735059+00:00",
    "title": "As the controversy around AI-created video game copies continues, Anthropic seemingly restricts Claude's cloning abilities",
@@ -3079,6 +3090,17 @@
    "score": 0,
    "sources": 1,
    "summary": "The show takes place after CD Projekt Red’s RPG, but its showrunner says it’s not invalidating player decisions",
+   "title_ar": ""
+  },
+  "kotaku.com/devs-are-being-forced-to-delay-their-games-on-steam-and-they-think-its-because-of-the-ai-slop-flood-2000752839": {
+   "at": "2026-11-03T23:15:36.216929+00:00",
+   "title": "Devs Are Blaming A Flood Of AI Slop On Steam For Delaying Their Games",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/devs-are-being-forced-to-delay-their-games-on-steam-and-they-think-its-because-of-the-ai-slop-flood-2000752839",
+   "score": 0,
+   "sources": 1,
+   "summary": "'Oh no, we are not releasing on the same day as Zelda '",
    "title_ar": ""
   },
   "kotaku.com/doom-director-says-were-doing-great-after-half-of-id-software-was-laid-off-2000751940": {
@@ -5231,7 +5253,7 @@
   "AI": "2026-11-03T22:45:28.621366+00:00",
   "Anime": "2026-11-03T20:00:53.301248+00:00",
   "Games": "2026-11-03T22:15:27.993072+00:00",
-  "Tech": "2026-11-03T23:00:42.667321+00:00"
+  "Tech": "2026-11-03T23:15:36.216929+00:00"
  },
  "digest_day": "2026-11-03",
  "weekly_day": ""
