@@ -133,6 +133,17 @@
    "summary": "Google has confirmed that some Pixel Watches are experiencing unexpected battery drain, but it also says a fix is already available. more…",
    "title_ar": "جوجل تؤكد وجود مشكلة تستنزف بطاريات Pixel Watch وتطلق تحديثاً لحلها"
   },
+  "9to5google.com/2026/11/03/google-search-ai-guided-learning-changes": {
+   "at": "2026-11-03T20:45:37.881443+00:00",
+   "title": "Google will disable Search for students unless schools accept AI features in ‘Guided Learning’ push",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5google.com/2026/11/03/google-search-ai-guided-learning-changes/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Google is today launching new AI settings for schools, but with the big catch that Search is fully disabled if AI features are turned off entirely. more…",
+   "title_ar": ""
+  },
   "9to5google.com/2026/11/03/googles-ocarina-of-time-easter-egg-is-a-blast-from-the-past": {
    "at": "2026-11-03T13:15:30.838414+00:00",
    "title": "Google’s Ocarina of Time easter egg is a blast from the past",
@@ -4082,6 +4093,17 @@
    "summary": "OpenAI raised only about $11 billion in its latest funding round, less than half of the $30 billion it was targeting.",
    "title_ar": ""
   },
+  "the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week": {
+   "at": "2026-11-03T20:45:37.881443+00:00",
+   "title": "OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/",
+   "score": 1,
+   "sources": 1,
+   "summary": "OpenAI's hardware team used GPT-6 Astra to design a device for the Codex coding agent in under a week, handling everything from the enclosure to the circuit board to the firmware.",
+   "title_ar": "OpenAI تؤكد أن GPT-6 Astra صمم جهازاً عتادياً من الصفر في أقل من أسبوع"
+  },
   "the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing": {
    "at": "2026-11-01T15:19:41.333043+00:00",
    "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
@@ -4411,6 +4433,28 @@
    "sources": 2,
    "summary": "Reddit is testing ads on another area of its platform: search.",
    "title_ar": "ريديت يضيف المزيد من الإعلانات"
+  },
+  "theverge.com/tech/1025694/apple-siri-ai-third-party-apps": {
+   "at": "2026-11-03T20:45:37.881443+00:00",
+   "title": "Apple starts giving Siri AI access to third-party apps",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+   "score": 0,
+   "sources": 1,
+   "summary": "Apple will now let Siri AI perform actions across third-party apps.",
+   "title_ar": ""
+  },
+  "theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery": {
+   "at": "2026-11-03T20:45:37.881443+00:00",
+   "title": "iPhone 18 rumors suggest a bigger battery, higher price next year",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery",
+   "score": 0,
+   "sources": 1,
+   "summary": "After Apple raised iPhone prices earlier this year, a new rumor claims it plans to launch the base iPhone 18 with a higher price, too.",
+   "title_ar": ""
   },
   "tomshardware.com/3d-printing/anycubic-and-thingiverse-announce-exclusive-3d-printing-partnership-makeronline-platform-to-offer-1-click-multicolor-3mf-models": {
    "at": "2026-11-01T15:13:44.571929+00:00",
@@ -4876,7 +4920,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-03T19:45:44.659341+00:00",
+  "AI": "2026-11-03T20:45:37.881443+00:00",
   "Anime": "2026-11-03T20:00:53.301248+00:00",
   "Games": "2026-11-03T20:30:38.194635+00:00",
   "Tech": "2026-11-03T20:15:30.414182+00:00"
