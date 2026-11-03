@@ -397,6 +397,28 @@
    "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform.",
    "title_ar": "بودكاست Apple @ Work: كيف تُعيد تكاليف Apple المتصاعدة صياغة سوق التبديل والاستبدال"
   },
+  "9to5mac.com/2026/11/03/ios-27-2-adds-two-new-features-ive-been-really-loving": {
+   "at": "2026-11-03T17:00:45.520558+00:00",
+   "title": "iOS 27.2 adds two new features I’ve been really loving",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/03/ios-27-2-adds-two-new-features-ive-been-really-loving/",
+   "score": 0,
+   "sources": 1,
+   "summary": "iOS 27.2 arrived last week with a variety of new features and changes for iPhone.",
+   "title_ar": ""
+  },
+  "9to5mac.com/2026/11/03/iphone-18-will-have-two-upgrades-inspired-by-pro-models-per-leak": {
+   "at": "2026-11-03T17:00:45.520558+00:00",
+   "title": "iPhone 18 will have two upgrades inspired by ‘Pro’ models, per leak",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/03/iphone-18-will-have-two-upgrades-inspired-by-pro-models-per-leak/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Apple has yet to launch the iPhone 18, with only 18 Pro and Duo models debuting this fall.",
+   "title_ar": "تسريبات تشير إلى أن iPhone 18 سيحظى بترقيتين مستوحاة من طرازات Pro"
+  },
   "animecorner.me/bocchi-the-rock-gets-movie-starring-nijika-and-seika-in-2027": {
    "at": "2026-11-01T15:04:30.961295+00:00",
    "title": "Bocchi the Rock Gets Movie Starring Nijika and Seika in 2027",
@@ -748,6 +770,17 @@
    "sources": 1,
    "summary": "Film won Kau Ka Hōkū Award, honoring international filmmaker's 1st/2nd feature",
    "title_ar": "فلم We Are Aliens يفوز بجائزة في مهرجان هاواي السينمائي الدولي"
+  },
+  "animenewsnetwork.com/news/2026-11-03/cyberpunk-edgerunners-2-anime-streams-new-music-videos/.243487": {
+   "at": "2026-11-03T17:00:45.520558+00:00",
+   "title": "Cyberpunk Edgerunners 2 Anime Streams New Music Videos",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-03/cyberpunk-edgerunners-2-anime-streams-new-music-videos/.243487",
+   "score": 0,
+   "sources": 1,
+   "summary": "Jack-Amin Ibrahim directs new music video about Weak Kingsley, Avida",
+   "title_ar": ""
   },
   "animenewsnetwork.com/news/2026-11-03/emaqi-service-adds-naruto-kaiju-no-8-spy-x-family-2-more-viz-media-titles-8-new-exclusive-manga/.243412": {
    "at": "2026-11-03T14:15:31.312366+00:00",
@@ -1429,6 +1462,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Nagoshi Studio, the studio formed by Yakuza creator Toshiro Nagoshi at NetEase, has been shut down before it even released its first game.",
+   "title_ar": ""
+  },
+  "gamespot.com/articles/one-popular-pc-game-storefront-has-had-enough-of-ai-slop-and-its-taking-action": {
+   "at": "2026-11-03T17:00:45.520558+00:00",
+   "title": "One Popular PC Game Storefront Has Had Enough Of AI Slop, And It’s Taking Action",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/one-popular-pc-game-storefront-has-had-enough-of-ai-slop-and-its-taking-action/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Indie game storefront Itch.io has announced it removed \"a couple terabytes of AI slop\" and has begun taking steps to combat the deluge of AI-created games appearing on the platform.",
    "title_ar": ""
   },
   "gamespot.com/articles/phantom-blade-zero-put-up-some-massive-sales-numbers": {
@@ -3719,6 +3763,17 @@
    "summary": "Apple will soon start asking developers to provide more details about their apps to enforce new App Store age rating requirements for dating and location-sharing features.",
    "title_ar": ""
   },
+  "theverge.com/tech/1025411/google-turn-off-search-ai-features": {
+   "at": "2026-11-03T17:00:45.520558+00:00",
+   "title": "Google is entirely disabling Search in schools that don’t want AI",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+   "score": 0,
+   "sources": 1,
+   "summary": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times.",
+   "title_ar": ""
+  },
   "tomshardware.com/3d-printing/anycubic-and-thingiverse-announce-exclusive-3d-printing-partnership-makeronline-platform-to-offer-1-click-multicolor-3mf-models": {
    "at": "2026-11-01T15:13:44.571929+00:00",
    "title": "Anycubic and Thingiverse announce exclusive 3D printing partnership — MakerOnline platform to offer '1-click' multicolor 3MF models",
@@ -4142,7 +4197,7 @@
   "AI": "2026-11-03T16:45:30.803913+00:00",
   "Anime": "2026-11-03T16:15:29.602523+00:00",
   "Games": "2026-11-03T16:45:30.803913+00:00",
-  "Tech": "2026-11-03T16:30:38.991106+00:00"
+  "Tech": "2026-11-03T17:00:45.520558+00:00"
  },
  "digest_day": "2026-11-02",
  "weekly_day": ""
