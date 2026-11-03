@@ -2531,6 +2531,17 @@
    "summary": "Cisco Talos says the VOLTA infostealer sends stolen victim data to Claude Opus 4.6 to rank assets by monetization value.",
    "title_ar": "برمجية خبيثة جديدة لنظام Windows مدعومة بالذكاء الاصطناعي تغذي نموذج Claude بالبيانات المسروقة لترتيب أصول الضحايا حسب القيمة ثم تحذف نفسها - حمولة البرمجية تبني تقييماً مخصصاً للهدف ويمكنها تبديل النماذج إذا رفض أحدها أو تخطي خطوة الذكاء الاصطناعي تماماً"
   },
+  "tomshardware.com/tech-industry/cyber-security/nvidia-brev-security-breach-may-have-exposed-ssh-keys-used-to-access-customer-vms-investigation-finds-unauthorized-activity-spanning-16-days-but-no-evidence-of-misuse": {
+   "at": "2026-11-03T00:00:41.874410+00:00",
+   "title": "Nvidia Brev security breach may have exposed SSH keys used to access customer VMs",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/nvidia-brev-security-breach-may-have-exposed-ssh-keys-used-to-access-customer-vms-investigation-finds-unauthorized-activity-spanning-16-days-but-no-evidence-of-misuse",
+   "score": 2,
+   "sources": 1,
+   "summary": "Nvidia is investigating a security incident involving its Brev cloud development platform after detecting unauthorized activity between October 4 and October 20.",
+   "title_ar": "ختراق أمني في Nvidia Brev قد يكون كشف مفاتيح SSH المستخدمة للوصول إلى الأجهزة الافتراضية للعملاء"
+  },
   "tomshardware.com/tech-industry/cyber-security/supermarket-freezers-across-europe-struck-in-second-crippling-cyberattack-hackers-raise-temperatures-to-50-degrees-celsius-in-belgium-and-sweden-destroying-food-stocks": {
    "at": "2026-11-02T11:45:35.487590+00:00",
    "title": "Supermarket freezers across Europe struck in second crippling cyberattack — hackers raise temperatures to 50 degrees Celsius in Belgium and Sweden, destroying food stocks",
@@ -2701,7 +2712,7 @@
   "AI": "2026-11-02T23:15:33.462657+00:00",
   "Anime": "2026-11-02T21:30:41.253089+00:00",
   "Games": "2026-11-02T22:00:45.938205+00:00",
-  "Tech": "2026-11-02T23:45:42.407749+00:00"
+  "Tech": "2026-11-03T00:00:41.874410+00:00"
  },
  "digest_day": "2026-11-02",
  "weekly_day": ""
