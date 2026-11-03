@@ -111,6 +111,17 @@
    "summary": "Good morning!",
    "title_ar": ""
   },
+  "9to5google.com/2026/11/03/google-releases-fix-for-pixel-watch-battery-drain": {
+   "at": "2026-11-03T17:46:58.096261+00:00",
+   "title": "Google confirms something was draining Pixel Watch batteries, fix rolling out",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/03/google-releases-fix-for-pixel-watch-battery-drain/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Google has confirmed that some Pixel Watches are experiencing unexpected battery drain, but it also says a fix is already available. more…",
+   "title_ar": "جوجل تؤكد وجود مشكلة تستنزف بطاريات Pixel Watch وتطلق تحديثاً لحلها"
+  },
   "9to5google.com/2026/11/03/googles-ocarina-of-time-easter-egg-is-a-blast-from-the-past": {
    "at": "2026-11-03T13:15:30.838414+00:00",
    "title": "Google’s Ocarina of Time easter egg is a blast from the past",
@@ -4307,7 +4318,7 @@
   "AI": "2026-11-03T17:45:32.846690+00:00",
   "Anime": "2026-11-03T16:15:29.602523+00:00",
   "Games": "2026-11-03T17:30:42.298260+00:00",
-  "Tech": "2026-11-03T17:15:30.293246+00:00"
+  "Tech": "2026-11-03T17:46:58.096261+00:00"
  },
  "digest_day": "2026-11-02",
  "weekly_day": ""
