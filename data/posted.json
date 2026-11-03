@@ -837,6 +837,17 @@
    "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
    "title_ar": "قواعد Claude الجديدة ضد استنساخ الألعاب لن توقف طفرة النسخ بالذكاء الاصطناعي"
   },
+  "arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too": {
+   "at": "2026-11-03T18:00:48.398575+00:00",
+   "title": "Google will let schools skip AI tools, but they have to give up search, too",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Google will offer schools AI tools that allegedly don't give away the answers.",
+   "title_ar": ""
+  },
   "arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat": {
    "at": "2026-11-02T19:00:44.340026+00:00",
    "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
@@ -1298,6 +1309,17 @@
    "sources": 1,
    "summary": "An update to Anthropic's Claude AI software has seemingly blocked the creation of outright clones or copies of existing games.",
    "title_ar": ""
+  },
+  "eurogamer.net/arc-raiders-ai-voice-acting-would-go-crazy": {
+   "at": "2026-11-03T18:00:48.398575+00:00",
+   "title": "Arc Raiders devs say that using generative AI voice acting was necessary as actors \"would just go crazy if they had to read all of that\"",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.eurogamer.net/arc-raiders-ai-voice-acting-would-go-crazy",
+   "score": 2,
+   "sources": 2,
+   "summary": "Developers at Embark Studios, the company behind Arc Raiders , have spoken on the use of generative AI voice acting in the extraction shooter.",
+   "title_ar": "مطوروا Arc Raiders يقولون إن استخدام التمثيل الصوتي بالذكاء الاصطناعي التوليدي كان ضرورياً لأن الممثلين \"سيصابون بالجنون لو اضطروا لقراءة كل ذلك\""
   },
   "eurogamer.net/call-of-duty-modern-warfare-4-player-engagement-black-ops-7": {
    "at": "2026-11-03T11:30:39.439292+00:00",
@@ -2487,6 +2509,17 @@
    "summary": "Helen Chiang has broken her silence after weeks of speculation",
    "title_ar": ""
   },
+  "kotaku.com/arc-raiders-ai-voice-acting-embark-studios-video-shani-celeste-2000752744": {
+   "at": "2026-11-03T18:00:48.398575+00:00",
+   "title": "Arc Raiders Developers Try To Rationalize Using AI Voice Actors In Peculiar New Video",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/arc-raiders-ai-voice-acting-embark-studios-video-shani-celeste-2000752744",
+   "score": 0,
+   "sources": 1,
+   "summary": "'The actors would just go crazy if they had to read all of that!'",
+   "title_ar": ""
+  },
   "kotaku.com/creative-director-says-he-wanted-to-make-south-of-midnight-but-doesnt-think-xbox-should-have-funded-it-2000752408": {
    "at": "2026-11-03T02:00:44.167169+00:00",
    "title": "South Of Midnight Director Says He Doesn’t Think Xbox Should Have Funded It",
@@ -3068,6 +3101,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Nagoshi Studio revealed Gang of Dragon less than a year ago, but it ran into trouble just a few months later.",
+   "title_ar": ""
+  },
+  "pcgamer.com/software/ai/just-deleted-a-couple-terabytes-of-ai-slop-itch-io-pushes-back-against-the-flood-of-ai-on-its-storefront": {
+   "at": "2026-11-03T18:00:48.398575+00:00",
+   "title": "'Just deleted a couple terabytes of AI slop': Itch.io pushes back against the flood of AI on its storefront",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/software/ai/just-deleted-a-couple-terabytes-of-ai-slop-itch-io-pushes-back-against-the-flood-of-ai-on-its-storefront/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Itch.io has also expanded its AI filters, enabling users to exclude games made with different types of generative AI.",
    "title_ar": ""
   },
   "pushsquare.com/news/2026/10/ps5-adds-another-free-open-world-game-to-your-rotation-with-surprise-silver-palace-release-date": {
@@ -4317,9 +4361,9 @@
  "topic_last_posted": {
   "AI": "2026-11-03T17:45:32.846690+00:00",
   "Anime": "2026-11-03T16:15:29.602523+00:00",
-  "Games": "2026-11-03T17:30:42.298260+00:00",
+  "Games": "2026-11-03T18:00:48.398575+00:00",
   "Tech": "2026-11-03T17:46:58.096261+00:00"
  },
- "digest_day": "2026-11-02",
+ "digest_day": "2026-11-03",
  "weekly_day": ""
 }
