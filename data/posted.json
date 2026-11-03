@@ -650,6 +650,17 @@
    "summary": "Film won Kau Ka Hōkū Award, honoring international filmmaker's 1st/2nd feature",
    "title_ar": "فلم We Are Aliens يفوز بجائزة في مهرجان هاواي السينمائي الدولي"
   },
+  "animenewsnetwork.com/news/2026-11-03/the-iceblade-sorcerer-shall-rule-the-world-season-2-unveils-5-cast-members/.243478": {
+   "at": "2026-11-03T10:45:27.965892+00:00",
+   "title": "The Iceblade Sorcerer Shall Rule the World Season 2 Unveils 5 Cast Members",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-03/the-iceblade-sorcerer-shall-rule-the-world-season-2-unveils-5-cast-members/.243478",
+   "score": 1,
+   "sources": 1,
+   "summary": "Yūki Wakai, Toshiyuki Morikawa, Tetsu Inada, Daiki Hamano, Riona Imaizumi join anime's cast from episode 5 on Thursday",
+   "title_ar": "الإعلان عن انضمام 5 ممثلي أصوات لموسم الثاني من أنمي The Iceblade Sorcerer Shall Rule the World"
+  },
   "arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom": {
    "at": "2026-11-02T18:15:26.353173+00:00",
    "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
@@ -1013,6 +1024,17 @@
    "summary": "First revealed at the company's event in September, Apple's AI-powered Apple Watch features are finally landing in beta.",
    "title_ar": "إصدار Beta الأخير من نظام watchOS 27 لشركة Apple يفعّل ميزات Siri Recap و Live Rewind الصوتية"
   },
+  "engadget.com/2305017/apple-start-mandating-age-requirements-dating-apps": {
+   "at": "2026-11-03T10:45:27.965892+00:00",
+   "title": "Apple will start mandating age requirements for dating apps",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2305017/apple-start-mandating-age-requirements-dating-apps/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Apple developers will have to declare whether their app enables dating between real people and/or AI companions, so the company can apply the proper age rating.",
+   "title_ar": "أبل ستبدأ في فرض متطلبات العمر لتطبيقات المواعدة"
+  },
   "eurogamer.net/anthropic-claude-generative-ai-game-clones-update": {
    "at": "2026-11-02T19:15:29.735059+00:00",
    "title": "As the controversy around AI-created video game copies continues, Anthropic seemingly restricts Claude's cloning abilities",
@@ -1319,6 +1341,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Apple launched the iPad mini (2026) last week, with an OLED screen and the A20 Pro chip.",
+   "title_ar": ""
+  },
+  "gsmarena.com/apple_reports_record_quarter__iphone_and_mac_sales_are_up_services_reach_an_alltime_high-news-75321.php": {
+   "at": "2026-11-03T10:45:27.965892+00:00",
+   "title": "Apple reports record quarter - iPhone and Mac sales are up, Services reach an all-time high",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/apple_reports_record_quarter__iphone_and_mac_sales_are_up_services_reach_an_alltime_high-news-75321.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "Apple announced a record $114.5 billion in revenue for the three months ending in September (which is Apple’s fiscal Q4) with a gross margin of 47.9%.",
    "title_ar": ""
   },
   "gsmarena.com/elon_musks_spacex_may_buy_boost_mobile_to_make_starlink_into_a_fullfledged_carrier-news-75317.php": {
@@ -2696,6 +2729,17 @@
    "summary": "Anthropic swings back to an operating loss ahead of its blockbuster IPO.",
    "title_ar": "شركة Anthropic تضاعف إيراداتها اثني عشر ضعفاً لكنها تسجل خسارة بقيمة 23 مليار دولار"
   },
+  "the-decoder.com/bug-hunters-can-now-earn-up-to-172000-from-openai-as-company-ramps-up-security": {
+   "at": "2026-11-03T10:45:27.965892+00:00",
+   "title": "Bug hunters can now earn up to $172,000 from OpenAI as company ramps up security",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/bug-hunters-can-now-earn-up-to-172000-from-openai-as-company-ramps-up-security/",
+   "score": 1,
+   "sources": 1,
+   "summary": "OpenAI quadruples bug bounty payouts and launches new internal security sprint.",
+   "title_ar": "يمكن لصيادي الثغرات الآن كسب ما يصل إلى 172,000 دولار من OpenAI مع تكثيف الشركة لإجراءات الأمان"
+  },
   "the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help": {
    "at": "2026-11-01T15:19:41.333043+00:00",
    "title": "Google wants video AI to understand what people need as they work",
@@ -3226,10 +3270,10 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-03T03:30:37.819085+00:00",
-  "Anime": "2026-11-03T09:30:39.176920+00:00",
+  "AI": "2026-11-03T10:45:27.965892+00:00",
+  "Anime": "2026-11-03T10:45:27.965892+00:00",
   "Games": "2026-11-03T03:45:28.861488+00:00",
-  "Tech": "2026-11-03T09:30:39.176920+00:00"
+  "Tech": "2026-11-03T10:45:27.965892+00:00"
  },
  "digest_day": "2026-11-02",
  "weekly_day": ""
