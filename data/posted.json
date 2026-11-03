@@ -3444,6 +3444,17 @@
    "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute": {
+   "at": "2026-11-03T17:45:32.846690+00:00",
+   "title": "Anthropic is still grappling with the economics of compute",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+   "score": 1,
+   "sources": 1,
+   "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+   "title_ar": "شركة Anthropic لا تزال تصارع اقتصاديات القدرة الحاسوبية"
+  },
   "techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search": {
    "at": "2026-11-03T16:45:30.803913+00:00",
    "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
@@ -4115,6 +4126,17 @@
    "summary": "It took the space probe nearly 50 years to get to one light-day, with NASA scientists and engineers going through lengths to ensure that it could keep operating for as long as possible.",
    "title_ar": "المسبار Voyager 1 سيصل إلى مسافة تاريخية تبلغ يوماً ضوئياً واحداً عن الأرض خلال 17 يوماً - المركبة الفضائية البالغة من العمر 49 عاماً تقطع 16 مليار ميل"
   },
+  "videogameschronicle.com/news/a-new-retro-inspired-game-based-on-bill-ted-is-in-development": {
+   "at": "2026-11-03T17:45:32.846690+00:00",
+   "title": "A new retro-inspired game based on Bill & Ted is in development",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.videogameschronicle.com/news/a-new-retro-inspired-game-based-on-bill-ted-is-in-development/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Bill & Ted's Excellent Adventure: Arcade features the voices of Keanu Reeves and Alex Winter",
+   "title_ar": ""
+  },
   "videogameschronicle.com/news/a-trailer-for-a-remake-of-the-original-persona-appears-to-have-leaked": {
    "at": "2026-11-02T12:00:43.931499+00:00",
    "title": "A trailer for a remake of the original Persona appears to have leaked",
@@ -4282,7 +4304,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-03T16:45:30.803913+00:00",
+  "AI": "2026-11-03T17:45:32.846690+00:00",
   "Anime": "2026-11-03T16:15:29.602523+00:00",
   "Games": "2026-11-03T17:30:42.298260+00:00",
   "Tech": "2026-11-03T17:15:30.293246+00:00"
