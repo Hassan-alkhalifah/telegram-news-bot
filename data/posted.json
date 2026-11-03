@@ -199,6 +199,17 @@
    "summary": "Apple has confirmed it’s releasing the first iOS 27.3 beta this week, but it seems a separate new software update might be launching soon for all users: iOS 27.2.1. more…",
    "title_ar": "قد يتم إطلاق تحديث iOS 27.2.1 قريباً كالتحديث القادم لهواتف iPhone"
   },
+  "9to5mac.com/2026/11/02/john-ternus-addresses-iphone-duo-supply-constraints-display-issue": {
+   "at": "2026-11-03T02:00:44.167169+00:00",
+   "title": "John Ternus addresses iPhone Duo supply constraints, display issue",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/02/john-ternus-addresses-iphone-duo-supply-constraints-display-issue/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Today Apple reported record Q4 earnings , which beat Wall Street expectations overall.",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/02/openai-is-retiring-chatgpt-classic-app-will-soon-combine-chat-and-work-tabs-in-new-app": {
    "at": "2026-11-02T20:15:26.662291+00:00",
    "title": "OpenAI is retiring ChatGPT Classic app, will soon combine Chat and Work tabs in new app",
@@ -1585,6 +1596,17 @@
    "summary": "Silver Palace release date is set for December 14.",
    "title_ar": ""
   },
+  "insider-gaming.com/south-of-midnight-creative-director-wouldnt-have-funded": {
+   "at": "2026-11-03T02:00:44.167169+00:00",
+   "title": "South of Midnight Creative Director Says He Wouldn’t Have Funded the Game",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/south-of-midnight-creative-director-wouldnt-have-funded/",
+   "score": 0,
+   "sources": 1,
+   "summary": "In a new interview, South of Midnight creative director David Sears says he wouldn't have funded the game if it was his own money.",
+   "title_ar": ""
+  },
   "insider-gaming.com/xbox-game-pass-will-remove-14-games-in-november": {
    "at": "2026-11-02T15:30:39.796760+00:00",
    "title": "XBOX Game Pass Will Remove 14 Games in November",
@@ -1617,6 +1639,17 @@
    "sources": 1,
    "summary": "Helen Chiang has broken her silence after weeks of speculation",
    "title_ar": ""
+  },
+  "kotaku.com/creative-director-says-he-wanted-to-make-south-of-midnight-but-doesnt-think-xbox-should-have-funded-it-2000752408": {
+   "at": "2026-11-03T02:00:44.167169+00:00",
+   "title": "South Of Midnight Director Says He Doesn’t Think Xbox Should Have Funded It",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://kotaku.com/creative-director-says-he-wanted-to-make-south-of-midnight-but-doesnt-think-xbox-should-have-funded-it-2000752408",
+   "score": 3,
+   "sources": 2,
+   "summary": "'In hindsight at least, it was unsustainable'",
+   "title_ar": "مخرج لعبة South Of Midnight يقول إنه لا يعتقد أن Xbox كان يجب أن يمولها"
   },
   "kotaku.com/cyberpunk-edgerunners-season-2-canon-2077-ending-v-2000752388": {
    "at": "2026-11-02T19:00:44.340026+00:00",
@@ -2531,6 +2564,17 @@
    "summary": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh.",
    "title_ar": "أبل تسجل رقماً قياسياً في مبيعات iPhone حتى بدون طراز iPhone العادي الجديد"
   },
+  "theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints": {
+   "at": "2026-11-03T02:00:44.167169+00:00",
+   "title": "Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
+   "score": 0,
+   "sources": 1,
+   "summary": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift.",
+   "title_ar": ""
+  },
   "tomshardware.com/3d-printing/anycubic-and-thingiverse-announce-exclusive-3d-printing-partnership-makeronline-platform-to-offer-1-click-multicolor-3mf-models": {
    "at": "2026-11-01T15:13:44.571929+00:00",
    "title": "Anycubic and Thingiverse announce exclusive 3D printing partnership — MakerOnline platform to offer '1-click' multicolor 3MF models",
@@ -2810,7 +2854,7 @@
  "topic_last_posted": {
   "AI": "2026-11-02T23:15:33.462657+00:00",
   "Anime": "2026-11-03T01:00:42.503653+00:00",
-  "Games": "2026-11-03T00:45:29.329340+00:00",
+  "Games": "2026-11-03T02:00:44.167169+00:00",
   "Tech": "2026-11-03T01:45:26.963082+00:00"
  },
  "digest_day": "2026-11-02",
