@@ -2344,6 +2344,17 @@
    "summary": "The Legend of Zelda: Ocarina of Time is being wrapped up in all kinds of modern touches for its imminent Nintendo Switch 2 remake (that owl seems to be less chatty , for starters), but there's at…",
    "title_ar": ""
   },
+  "eurogamer.net/nintendo-switch-2-cartridge-macronix-ending-rom-manufacturing": {
+   "at": "2026-11-04T16:30:51.966192+00:00",
+   "title": "One of Nintendo's Switch and Switch 2 cartridge manufacturers is exiting the business, which could make physical games more expensive",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/nintendo-switch-2-cartridge-macronix-ending-rom-manufacturing",
+   "score": 0,
+   "sources": 1,
+   "summary": "Macronix, longtime Nintendo hardware partner and one of the main producers of ROM memory, has announced it's leaving the business.",
+   "title_ar": ""
+  },
   "eurogamer.net/persona-1-remake-be-your-true-mind-leak": {
    "at": "2026-11-01T16:45:26.631923+00:00",
    "title": "Footage of a Persona 1 remake has seemingly leaked online",
@@ -2508,6 +2519,17 @@
    "sources": 2,
    "summary": "ArenaNet may be hard at work on a new entry in the Guild Wars series , but it apparently won't stop it from releasing brand-new content for the 21-year-old original.",
    "title_ar": "لعبة Guild Wars تحصل على أول توسعة جديدة لها منذ ما يقريب من 20 عاماً"
+  },
+  "gamespot.com/articles/nintendo-could-have-a-new-cartridge-problem-on-its-hands": {
+   "at": "2026-11-04T16:30:51.966192+00:00",
+   "title": "Nintendo Could Have A New Cartridge Problem On Its Hands",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.gamespot.com/articles/nintendo-could-have-a-new-cartridge-problem-on-its-hands/",
+   "score": 3,
+   "sources": 2,
+   "summary": "As PlayStation prepares to embrace an all-digital future starting in 2028, Nintendo is seen as one of the last bastions of physical games with its Switch cartridges.",
+   "title_ar": "Nintendo قد تواجه مشكلة جديدة تتعلق بأشرطة الألعاب"
   },
   "gamespot.com/articles/one-popular-pc-game-storefront-has-had-enough-of-ai-slop-and-its-taking-action": {
    "at": "2026-11-03T17:00:45.520558+00:00",
@@ -4511,6 +4533,17 @@
    "summary": "Your move, GTA.",
    "title_ar": ""
   },
+  "nintendolife.com/news/2026/11/pokemon-pokopias-limited-time-apples-to-applin-event-begins-this-month": {
+   "at": "2026-11-04T16:30:51.966192+00:00",
+   "title": "Pokémon Pokopia's Limited-Time 'Apples To Applin' Event Begins This Month",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/pokemon-pokopias-limited-time-apples-to-applin-event-begins-this-month",
+   "score": 0,
+   "sources": 1,
+   "summary": "Applin of my eye.",
+   "title_ar": ""
+  },
   "nintendolife.com/news/2026/11/pokemon-pokopias-second-dlc-wave-launches-next-month": {
    "at": "2026-11-04T15:30:43.804235+00:00",
    "title": "Pokémon Pokopia's Second DLC Wave Launches Next Month",
@@ -5400,6 +5433,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks.",
+   "title_ar": ""
+  },
+  "techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai": {
+   "at": "2026-11-04T16:30:51.966192+00:00",
+   "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
    "title_ar": ""
   },
   "techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank": {
@@ -6638,7 +6682,7 @@
  "topic_last_posted": {
   "AI": "2026-11-04T16:00:45.753677+00:00",
   "Anime": "2026-11-04T16:15:30.490234+00:00",
-  "Games": "2026-11-04T15:45:29.255565+00:00",
+  "Games": "2026-11-04T16:30:51.966192+00:00",
   "Tech": "2026-11-04T15:45:29.255565+00:00"
  },
  "digest_day": "2026-11-03",
