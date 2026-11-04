@@ -2245,6 +2245,17 @@
    "summary": "This was the Cybertruck of elections.",
    "title_ar": ""
   },
+  "engadget.com/2306727/redditor-uses-ai-to-get-switch-games-running-natively-on-apple-tv": {
+   "at": "2026-11-04T17:30:37.039359+00:00",
+   "title": "Redditor uses AI to get Switch games running natively on Apple TV",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2306727/redditor-uses-ai-to-get-switch-games-running-natively-on-apple-tv/",
+   "score": 1,
+   "sources": 1,
+   "summary": "The TVPort project is another example of people using Claude Code to bring software to other platforms",
+   "title_ar": "مستخدم على Reddit يستخدم الذكاء الاصطناعي لتشغيل ألعاب Switch بشكل محلي على Apple TV"
+  },
   "eurogamer.net/anthropic-claude-generative-ai-game-clones-update": {
    "at": "2026-11-02T19:15:29.735059+00:00",
    "title": "As the controversy around AI-created video game copies continues, Anthropic seemingly restricts Claude's cloning abilities",
@@ -2562,6 +2573,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Nagoshi Studio, the studio formed by Yakuza creator Toshiro Nagoshi at NetEase, has been shut down before it even released its first game.",
+   "title_ar": ""
+  },
+  "gamespot.com/articles/god-of-war-laufey-delayed": {
+   "at": "2026-11-04T17:30:37.039359+00:00",
+   "title": "God Of War Laufey Delayed",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/god-of-war-laufey-delayed/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Santa Monica Studios has delayed God of War Laufey .",
    "title_ar": ""
   },
   "gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course": {
@@ -3268,6 +3290,17 @@
    "summary": "It has been months since Xiaomi launched the 46mm Xiaomi Watch S5.",
    "title_ar": "تسريبات Xiaomi Watch S5 بحجم 41 مليمتر: توقع زيادة كبيرة في سعة البطارية"
   },
+  "ign.com/articles/ai-slop-fuelled-steam-backlog-preventing-games-from-hitting-launch-targets": {
+   "at": "2026-11-04T17:30:37.039359+00:00",
+   "title": "Valve Says It's Seen a 'Significant Increase' in Steam Game Submissions in Recent Months, Amid 'AI Slop' Claims",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/ai-slop-fuelled-steam-backlog-preventing-games-from-hitting-launch-targets",
+   "score": 0,
+   "sources": 1,
+   "summary": "Valve’s approval process has always taken a bit of time, but it’s taking much longer lately because of the staggering volume of games hoping to launch on the platform — an issue that’s only grown…",
+   "title_ar": ""
+  },
   "ign.com/articles/blackpinks-jisoo-confirms-she-referenced-resident-evils-ada-wong-in-new-music-video": {
    "at": "2026-11-03T00:45:29.329340+00:00",
    "title": "Blackpink's Jisoo Confirms She Referenced Resident Evil's Ada Wong in New Music Video",
@@ -3354,6 +3387,17 @@
    "score": 0,
    "sources": 1,
    "summary": "After the runaway success of Wardogs, a new sandbox multiplayer shooter in Early Access on PC, the team at Bulkhead is taking a well-deserved break.",
+   "title_ar": ""
+  },
+  "ign.com/articles/god-of-war-laufey-delayed-to-may-2027": {
+   "at": "2026-11-04T17:30:37.039359+00:00",
+   "title": "God of War Laufey Delayed to May 2027",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/god-of-war-laufey-delayed-to-may-2027",
+   "score": 0,
+   "sources": 1,
+   "summary": "God of War Laufey will no longer be released in February, as Sony Santa Monica has pushed it back to May 2027.",
    "title_ar": ""
   },
   "ign.com/articles/gta-6-preload-times-and-install-size-confirmed-rockstar-announces-physical-cover-art-poster-and-map-of-leonida": {
@@ -6892,7 +6936,7 @@
   "AI": "2026-11-04T17:00:48.764116+00:00",
   "Anime": "2026-11-04T17:15:28.098046+00:00",
   "Games": "2026-11-04T17:15:28.098046+00:00",
-  "Tech": "2026-11-04T16:45:26.072895+00:00"
+  "Tech": "2026-11-04T17:30:37.039359+00:00"
  },
  "digest_day": "2026-11-03",
  "weekly_day": ""
