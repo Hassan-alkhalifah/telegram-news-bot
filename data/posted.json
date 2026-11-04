@@ -1684,6 +1684,17 @@
    "summary": "Not all endings are happy in Night City",
    "title_ar": ""
   },
+  "crunchyroll.com/news/latest/2026/11/4/dragons-dogma-2-dark-arisen-delicious-in-dungeon-anime-collaboration": {
+   "at": "2026-11-04T17:00:48.764116+00:00",
+   "title": "Dragon's Dogma 2: Dark Arisen Announces Delicious in Dungeon Collaboration",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://crunchyroll.com/news/latest/2026/11/4/dragons-dogma-2-dark-arisen-delicious-in-dungeon-anime-collaboration",
+   "score": 0,
+   "sources": 1,
+   "summary": "Laios and Marcille Pawns and outfit sets are available in-game starting today",
+   "title_ar": ""
+  },
   "crunchyroll.com/news/latest/2026/11/4/game-sekai-tensei-dankatsu-gamer-wa-dungeon-shuukatsu-no-susume-wo-hajime-kara-play-suru-anime-reveals-new-teaser-trailer-cast": {
    "at": "2026-11-04T12:15:30.516593+00:00",
    "title": "Game Sekai Tensei \"DANKATSU\": Gamer wa \"Dungeon Shuukatsu no Susume\" wo \"Hajime kara\" Play Suru Anime Reveals New Teaser Trailer & Cast",
@@ -2541,6 +2552,17 @@
    "sources": 2,
    "summary": "ArenaNet may be hard at work on a new entry in the Guild Wars series , but it apparently won't stop it from releasing brand-new content for the 21-year-old original.",
    "title_ar": "لعبة Guild Wars تحصل على أول توسعة جديدة لها منذ ما يقريب من 20 عاماً"
+  },
+  "gamespot.com/articles/nexus-mods-wont-ban-ai-mods-but-it-wont-let-them-hide-either": {
+   "at": "2026-11-04T17:00:48.764116+00:00",
+   "title": "Nexus Mods Won’t Ban AI Mods, But It Won’t Let Them Hide Either",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/nexus-mods-wont-ban-ai-mods-but-it-wont-let-them-hide-either/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nexus Mods owner Victor \"Foledinho\" Folmann has outlined plans to make AI disclosures mandatory for PC mods uploaded to the site.",
+   "title_ar": ""
   },
   "gamespot.com/articles/nintendo-could-have-a-new-cartridge-problem-on-its-hands": {
    "at": "2026-11-04T16:30:51.966192+00:00",
@@ -5589,6 +5611,17 @@
    "summary": "MIT researchers show that OpenAI's GPT-6 Astra can read and deliberately rewrite the weights of other AI models without traditional training.",
    "title_ar": "GPT-6 Astra يرى الماتريكس ويعيد برمجة نماذج الذكاء الاصطناعي الأخرى مباشرة من خلال أوزانها"
   },
+  "the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations": {
+   "at": "2026-11-04T17:00:48.764116+00:00",
+   "title": "New open-source benchmark reveals reasoning as the biggest bottleneck for AI in cloud operations",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/",
+   "score": 1,
+   "sources": 1,
+   "summary": "CloudOpsBench is a new open-source benchmark that measures how well AI agents handle typical DevOps tasks in the cloud, from fixing services and removing resources to restricting access rights…",
+   "title_ar": "مؤشر قياس جديد مفتوح المصدر يوضح أن الاستدلال هو العائق الأكبر أمام الذكاء الاصطناعي في العمليات السحابية"
+  },
   "the-decoder.com/nvidia-pushes-cloud-customers-to-cut-back-on-china-business": {
    "at": "2026-11-03T12:30:39.683094+00:00",
    "title": "Nvidia pushes cloud customers to cut back on China business",
@@ -6568,6 +6601,17 @@
    "summary": "Each game is at least 80% off, with Rebirth on sale for $7.49 / £7.49",
    "title_ar": ""
   },
+  "videogameschronicle.com/news/fing-annoying-sam-altman-claims-comments-about-pc-gamers-buying-ram-taken-out-of-context": {
+   "at": "2026-11-04T17:00:48.764116+00:00",
+   "title": "‘F***ing annoying’: Sam Altman claims comments about PC gamers buying RAM ‘taken out of context’",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.videogameschronicle.com/news/fing-annoying-sam-altman-claims-comments-about-pc-gamers-buying-ram-taken-out-of-context/",
+   "score": 0,
+   "sources": 1,
+   "summary": "OpenAI CEO responds to critics after he expressed frustration over PC owners buying RAM for personal use",
+   "title_ar": ""
+  },
   "videogameschronicle.com/news/former-xbox-coo-denies-claims-she-was-fired-for-a-policy-violation-says-reports-are-not-the-whole-story": {
    "at": "2026-11-03T13:45:29.669395+00:00",
    "title": "Former Xbox COO denies claims she was ‘fired for a policy violation’, says reports are ‘not the whole story’",
@@ -6735,7 +6779,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-04T16:00:45.753677+00:00",
+  "AI": "2026-11-04T17:00:48.764116+00:00",
   "Anime": "2026-11-04T16:15:30.490234+00:00",
   "Games": "2026-11-04T16:30:51.966192+00:00",
   "Tech": "2026-11-04T16:45:26.072895+00:00"
