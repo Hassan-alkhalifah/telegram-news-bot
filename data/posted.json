@@ -188,6 +188,17 @@
    "summary": "If you’re sick of AI search and all the business of modern Google search, this week’s Google easter egg will take you back 28 years to a simpler time when Ocarina of Time was the pinnacle of gaming…",
    "title_ar": ""
   },
+  "9to5google.com/2026/11/03/microsoft-authenticator-google-one-backup-change": {
+   "at": "2026-11-04T03:45:28.087898+00:00",
+   "title": "Microsoft Authenticator is ditching its own password backup for Google One",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/03/microsoft-authenticator-google-one-backup-change/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Microsoft is ditching its own password backup option for the Microsoft Authenticator app for Android and instead using Google One for that service. more…",
+   "title_ar": "تطبيق Microsoft Authenticator يستبدل ميزة النسخ الاحتياطي لكلمات المرور الخاصة به بخدمة Google One"
+  },
   "9to5google.com/2026/11/03/peak-design-new-charging-accessories": {
    "at": "2026-11-03T21:15:33.592896+00:00",
    "title": "Peak Design’s new wireless charging stand pulls double duty, literally",
@@ -3719,6 +3730,17 @@
    "summary": "Production company Warner Bros.",
    "title_ar": ""
   },
+  "myanimelist.net/news/74903023?_location=rss": {
+   "at": "2026-11-04T03:45:28.087898+00:00",
+   "title": "'Watashi wo Center ni Suru to Chikaimasu ka?' Reveals Main Cast, Staff, Opening Theme, Teaser Promo",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://myanimelist.net/news/74903023?_location=rss",
+   "score": 0,
+   "sources": 1,
+   "summary": "The official website of the Watashi wo Center ni Suru to Chikaimasu ka?",
+   "title_ar": ""
+  },
   "nintendolife.com/news/2026/10/nintendo-drops-surprise-pikmin-day-direct": {
    "at": "2026-10-31T21:50:03.458663+00:00",
    "title": "Nintendo Drops Surprise 'Pikmin Day' Direct",
@@ -5616,7 +5638,7 @@
   "AI": "2026-11-04T00:15:29.863184+00:00",
   "Anime": "2026-11-04T03:30:35.902926+00:00",
   "Games": "2026-11-03T22:15:27.993072+00:00",
-  "Tech": "2026-11-04T03:15:30.028335+00:00"
+  "Tech": "2026-11-04T03:45:28.087898+00:00"
  },
  "digest_day": "2026-11-03",
  "weekly_day": ""
