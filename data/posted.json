@@ -1750,6 +1750,17 @@
    "summary": "This is another example of how closely Google Search is tied to the company's AI products.",
    "title_ar": ""
   },
+  "engadget.com/2305576/razer-unveils-the-raiju-v3-pro-signature-edition-ps5-controller": {
+   "at": "2026-11-04T02:42:21.975227+00:00",
+   "title": "Razer unveils the Raiju V3 Pro Signature Edition PS5 controller",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2305576/razer-unveils-the-raiju-v3-pro-signature-edition-ps5-controller/",
+   "score": 1,
+   "sources": 1,
+   "summary": "It sure is pretty and will likely be expensive.",
+   "title_ar": "Razer تكشف عن وحدة التحكم Raiju V3 Pro Signature Edition لجهاز PS5"
+  },
   "engadget.com/2305699/itchio-adds-a-filter-for-games-with-gen-ai-disclosures": {
    "at": "2026-11-03T19:45:44.659341+00:00",
    "title": "Itch.io adds a filter for games with gen AI disclosures",
@@ -5539,7 +5550,7 @@
   "AI": "2026-11-04T00:15:29.863184+00:00",
   "Anime": "2026-11-04T01:45:27.842566+00:00",
   "Games": "2026-11-03T22:15:27.993072+00:00",
-  "Tech": "2026-11-04T02:30:37.479110+00:00"
+  "Tech": "2026-11-04T02:42:21.975227+00:00"
  },
  "digest_day": "2026-11-03",
  "weekly_day": ""
