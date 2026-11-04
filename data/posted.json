@@ -298,6 +298,17 @@
    "summary": "Using a computer with 8GB of RAM in 2026 is rough, to say the least, but as RAMageddon rages on, Microsoft says it is making improvements to using a Windows PC with less memory available. more…",
    "title_ar": ""
   },
+  "9to5google.com/2026/11/04/nothing-teaser-new-ai-screen-less-product-launch": {
+   "at": "2026-11-04T19:45:32.239025+00:00",
+   "title": "Nothing teases screen-less product launching next month, ‘couldn’t have been an app’",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5google.com/2026/11/04/nothing-teaser-new-ai-screen-less-product-launch/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nothing has confirmed it will launch a new “AI-native” product in December, something that “couldn’t have been an app.” more…",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/01/heres-the-best-option-for-an-iphone-duo-kickstand": {
    "at": "2026-11-01T16:45:26.631923+00:00",
    "title": "Here’s how I’m solving the iPhone Duo kickstand problem, without any bulk",
@@ -2981,6 +2992,17 @@
    "sources": 2,
    "summary": "Idea Factory International will release Compile Heart-developed Hyperspace Neptunia: Unlimited for PlayStation 5, Switch 2, …",
    "title_ar": "لعبة Hyperspace Neptunia: Unlimited قادمة إلى الغرب في عام 2027 لأجهزة PS5 و Switch 2 و PS4 و Switch و PC"
+  },
+  "gematsu.com/2026/11/megs-monster-coming-to-ps5-on-march-1-2027": {
+   "at": "2026-11-04T19:45:32.239025+00:00",
+   "title": "Meg’s Monster coming to PS5 on March 1, 2027",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gematsu.com/2026/11/megs-monster-coming-to-ps5-on-march-1-2027",
+   "score": 0,
+   "sources": 1,
+   "summary": "Odencat will release a PlayStation 5 version of RPG adventure game Meg’s Monster on March …",
+   "title_ar": ""
   },
   "gematsu.com/2026/11/nagoshi-studio-shuts-down": {
    "at": "2026-11-02T07:30:35.400454+00:00",
@@ -6194,6 +6216,17 @@
    "summary": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot.",
    "title_ar": "ChatGPT سيقوم الآن بإنشاء صور GIF متحركة لك"
   },
+  "theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei": {
+   "at": "2026-11-04T19:45:32.239025+00:00",
+   "title": "Nothing teases a screen-free AI device ahead of launch next month",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+   "score": 3,
+   "sources": 2,
+   "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December.",
+   "title_ar": "Nothing تشوق لجهاز ذكاء اصطناعي بدون شاشة قبيل إطلاقه الشهر المقبل"
+  },
   "theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code": {
    "at": "2026-10-31T18:24:19.596609+00:00",
    "title": "I built an AI Tamagotchi before Meta could",
@@ -7230,7 +7263,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-04T19:00:48.294999+00:00",
+  "AI": "2026-11-04T19:45:32.239025+00:00",
   "Anime": "2026-11-04T17:15:28.098046+00:00",
   "Games": "2026-11-04T19:30:39.314730+00:00",
   "Tech": "2026-11-04T19:15:27.950554+00:00"
