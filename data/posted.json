@@ -837,6 +837,17 @@
    "summary": "iOS 27.3 is packed with new features for iPhone, and it also includes a noteworthy CarPlay change: a redesign of the Apple Music app. more…",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/04/ios-27-3-upgrades-apple-music-in-two-ways-heres-whats-new": {
+   "at": "2026-11-04T19:00:48.294999+00:00",
+   "title": "iOS 27.3 upgrades Apple Music in two ways, here’s what’s new",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/04/ios-27-3-upgrades-apple-music-in-two-ways-heres-whats-new/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Apple Music is getting two upgrades in iOS 27.3, which just debuted in beta this week.",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/04/macbook-neo-2-is-coming-and-apple-reportedly-expects-a-massive-hit": {
    "at": "2026-11-04T16:45:26.072895+00:00",
    "title": "MacBook Neo 2 is coming, and Apple reportedly expects a massive hit",
@@ -2287,6 +2298,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Santa Monica Studio will use the extra time to push the game \"to its fullest potential.\"",
+   "title_ar": ""
+  },
+  "engadget.com/2306886/nintendos-main-switch-cartridge-supplier-is-leaving-the-rom-business": {
+   "at": "2026-11-04T19:00:48.294999+00:00",
+   "title": "Nintendo's main Switch cartridge supplier is leaving the ROM business",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2306886/nintendos-main-switch-cartridge-supplier-is-leaving-the-rom-business/",
+   "score": 0,
+   "sources": 1,
+   "summary": "This is potentially terrible news for those who love physical media.",
    "title_ar": ""
   },
   "eurogamer.net/anthropic-claude-generative-ai-game-clones-update": {
@@ -5886,6 +5908,17 @@
    "summary": "Nvidia has told some cloud customers to take on less business from Chinese companies.",
    "title_ar": "Nvidia تدفع عملاء الحوسبة السحابية لتقليص أعمالهم في الصين"
   },
+  "the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents": {
+   "at": "2026-11-04T19:00:48.294999+00:00",
+   "title": "OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents/",
+   "score": 2,
+   "sources": 1,
+   "summary": "OpenAI is buying Pierre Computer Company, the startup whose libraries already power the coding agent Codex.",
+   "title_ar": "OpenAI تستحوذ على شركة Pierre Computer Company لجعل Git يواكب وكلاء البرمجة المدعومين بالذكاء الاصطناعي"
+  },
   "the-decoder.com/openai-hires-ex-army-secretary-gaining-bipartisan-reach-just-as-midterms-loom": {
    "at": "2026-11-03T15:15:38.086780+00:00",
    "title": "OpenAI hires ex-Army Secretary, gaining bipartisan reach just as midterms loom",
@@ -7098,7 +7131,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-04T18:15:37.475646+00:00",
+  "AI": "2026-11-04T19:00:48.294999+00:00",
   "Anime": "2026-11-04T17:15:28.098046+00:00",
   "Games": "2026-11-04T18:45:30.308269+00:00",
   "Tech": "2026-11-04T18:30:39.203464+00:00"
