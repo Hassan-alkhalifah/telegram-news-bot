@@ -2421,6 +2421,17 @@
    "summary": "The Nano Controller is adopting a Google Stadia trick.",
    "title_ar": ""
   },
+  "engadget.com/2307356/snap-has-more-than-30-million-paid-subscribers-across-snapchat-and-other-plans": {
+   "at": "2026-11-04T23:36:20.568389+00:00",
+   "title": "Snap has more than 30 million paid subscribers across Snapchat+ and other plans",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2307356/snap-has-more-than-30-million-paid-subscribers-across-snapchat-and-other-plans/",
+   "score": 2,
+   "sources": 2,
+   "summary": "Power users seem more than willing to pay for AI-powered effects.",
+   "title_ar": "تجاوز عدد المشتركين المدفوعين في Snap أكثر من 30 مليون مشترك عبر Snapchat+ والخطط الأخرى"
+  },
   "eurogamer.net/anthropic-claude-generative-ai-game-clones-update": {
    "at": "2026-11-02T19:15:29.735059+00:00",
    "title": "As the controversy around AI-created video game copies continues, Anthropic seemingly restricts Claude's cloning abilities",
@@ -6315,6 +6326,17 @@
    "summary": "Glade Brook, Coatue and T.",
    "title_ar": "قفزة في تقييم Revolut بنسبة 53% ليصل إلى 115 مليار دولار في عملية بيع أسهم جديدة مع استعداده لإطلاق بنك أمريكي"
   },
+  "techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers": {
+   "at": "2026-11-04T23:36:20.568389+00:00",
+   "title": "Snapchat surpasses 30M paid subscribers",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for…",
+   "title_ar": ""
+  },
   "the-decoder.com/anthropic-cracks-down-on-game-cloning-in-claude-code-after-wave-of-ai-built-knockoffs": {
    "at": "2026-11-03T10:00:41.819308+00:00",
    "title": "Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs",
@@ -7761,7 +7783,7 @@
   "AI": "2026-11-04T23:15:29.604400+00:00",
   "Anime": "2026-11-04T20:15:26.466159+00:00",
   "Games": "2026-11-04T23:30:36.446248+00:00",
-  "Tech": "2026-11-04T23:00:43.614099+00:00"
+  "Tech": "2026-11-04T23:36:20.568389+00:00"
  },
  "digest_day": "2026-11-04",
  "weekly_day": ""
