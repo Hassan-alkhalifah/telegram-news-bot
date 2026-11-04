@@ -1629,6 +1629,17 @@
    "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
    "title_ar": ""
   },
+  "arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters": {
+   "at": "2026-11-04T22:15:31.253879+00:00",
+   "title": "AMD's record quarter: Data center business doubles, while gaming craters",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/",
+   "score": 2,
+   "sources": 1,
+   "summary": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.",
+   "title_ar": "ربع قياسي لشركة AMD: قطاع مراكز البيانات يتضاعف بينما يتراجع قطاع الألعاب"
+  },
   "crunchyroll.com/news/announcements/2026/11/2/dive-in-wonderland-anime-film-releases-united-states-canada-release-november-16": {
    "at": "2026-11-02T17:15:30.378763+00:00",
    "title": "Dive in Wonderland Anime Film Releases in U.S., Canada on November 16",
@@ -6183,6 +6194,17 @@
    "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month": {
+   "at": "2026-11-04T22:15:31.253879+00:00",
+   "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+   "score": 0,
+   "sources": 1,
+   "summary": "While it's not yet clear what kind of product the smart phone startup is cooking up, Nothing's CEO said that product is designed to leverage AI for productivity gains.",
+   "title_ar": ""
+  },
   "techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election": {
    "at": "2026-11-04T21:30:39.367622+00:00",
    "title": "OpenAI is already trying to shape the 2028 election",
@@ -7629,7 +7651,7 @@
   "AI": "2026-11-04T22:00:43.675176+00:00",
   "Anime": "2026-11-04T20:15:26.466159+00:00",
   "Games": "2026-11-04T21:15:28.835953+00:00",
-  "Tech": "2026-11-04T21:45:29.144850+00:00"
+  "Tech": "2026-11-04T22:15:31.253879+00:00"
  },
  "digest_day": "2026-11-04",
  "weekly_day": ""
