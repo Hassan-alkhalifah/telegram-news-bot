@@ -2091,6 +2091,17 @@
    "summary": "Rockstar Games have revealed the pre-load date and time for Grand Theft Auto 6 .",
    "title_ar": ""
   },
+  "eurogamer.net/guild-wars-1-afterlife-announced-20-years": {
+   "at": "2026-11-04T11:15:37.694533+00:00",
+   "title": "Guild Wars gets its first major gameplay update in almost 20 years",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/guild-wars-1-afterlife-announced-20-years",
+   "score": 0,
+   "sources": 1,
+   "summary": "ArenaNet and co-dev studio 2Weeks have announced Guild Wars Afterlife - the first major update for the game in nearly 20 years.",
+   "title_ar": ""
+  },
   "eurogamer.net/id-software-doing-great-losing-half-the-studio": {
    "at": "2026-11-02T16:00:47.508762+00:00",
    "title": "\"We're doing great,\" says id Software boss, despite losing \"about half of our studio\" amid devastating Xbox cuts",
@@ -2255,6 +2266,17 @@
    "sources": 1,
    "summary": "Nagoshi Studio, the studio formed by Yakuza creator Toshiro Nagoshi at NetEase, has been shut down before it even released its first game.",
    "title_ar": ""
+  },
+  "gamespot.com/articles/guild-wars-is-getting-its-first-new-expansion-in-almost-20-years": {
+   "at": "2026-11-04T11:15:37.694533+00:00",
+   "title": "Guild Wars Is Getting Its First New Expansion In Almost 20 Years",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.gamespot.com/articles/guild-wars-is-getting-its-first-new-expansion-in-almost-20-years/",
+   "score": 2,
+   "sources": 2,
+   "summary": "ArenaNet may be hard at work on a new entry in the Guild Wars series , but it apparently won't stop it from releasing brand-new content for the 21-year-old original.",
+   "title_ar": "لعبة Guild Wars تحصل على أول توسعة جديدة لها منذ ما يقريب من 20 عاماً"
   },
   "gamespot.com/articles/one-popular-pc-game-storefront-has-had-enough-of-ai-slop-and-its-taking-action": {
    "at": "2026-11-03T17:00:45.520558+00:00",
@@ -5534,6 +5556,17 @@
    "summary": "The Plymouth City Council was left with no choice but to physically disconnect the cameras after Flock failed to respond to its demands.",
    "title_ar": "مدير الشرطة يفصل كاميرات Flock يدويًا بعد تجاهل الشركة لإلغاء العقد"
   },
+  "tomshardware.com/tech-industry/cyber-security/certified-android-tv-manufacturer-put-unauthorized-backdoor-in-set-top-boxes-google-reveals-oem-sold-access-to-criminal-affiliates-for-1-3-million-devices-used-massive-network-as-botnet-for-ad-fraud-residential-proxy": {
+   "at": "2026-11-04T11:15:37.694533+00:00",
+   "title": "Certified Android TV manufacturer put unauthorized backdoor in 1.3 million set-top boxes, Google reveals — OEM sold access to criminal affiliates, used massive network as botnet for ad fraud, residential proxy",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/certified-android-tv-manufacturer-put-unauthorized-backdoor-in-set-top-boxes-google-reveals-oem-sold-access-to-criminal-affiliates-for-1-3-million-devices-used-massive-network-as-botnet-for-ad-fraud-residential-proxy",
+   "score": 0,
+   "sources": 1,
+   "summary": "Google discovered and shut down a backdoor built into millions of Google TV and Android TV set-top boxes built by Videostrong Technology Co.",
+   "title_ar": ""
+  },
   "tomshardware.com/tech-industry/cyber-security/hackers-claim-to-have-stolen-23tb-of-data-from-russian-statistics-body-including-ukraine-war-casualty-figures-russian-federal-state-statistics-service-admits-its-servers-were-hit-by-coordinated-cyberattacks": {
    "at": "2026-11-02T12:45:29.337502+00:00",
    "title": "Hackers claim to have stolen 23TB of data from Russian statistics body, including Ukraine war casualty figures — Russian Federal State Statistics Service admits its servers were hit by coordinated cyberattacks",
@@ -5901,7 +5934,7 @@
  "topic_last_posted": {
   "AI": "2026-11-04T00:15:29.863184+00:00",
   "Anime": "2026-11-04T11:00:51.913627+00:00",
-  "Games": "2026-11-04T08:15:29.016238+00:00",
+  "Games": "2026-11-04T11:15:37.694533+00:00",
   "Tech": "2026-11-04T10:15:31.173841+00:00"
  },
  "digest_day": "2026-11-03",
