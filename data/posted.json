@@ -793,6 +793,17 @@
    "summary": "Opting for more RAM or storage when buying Apple devices has always been an expensive business, with the company famously charging huge markups.",
    "title_ar": "WSJ: أبل لا تزال تتقاضى 300% من التكلفة مقابل ترقيات ساخن تخزين iPhone"
   },
+  "9to5mac.com/2026/11/04/ios-27-3-adds-carplay-redesign-for-apple-music-heres-whats-new": {
+   "at": "2026-11-04T15:00:44.805791+00:00",
+   "title": "iOS 27.3 adds CarPlay redesign for Apple Music, here’s what’s new",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/04/ios-27-3-adds-carplay-redesign-for-apple-music-heres-whats-new/",
+   "score": 0,
+   "sources": 1,
+   "summary": "iOS 27.3 is packed with new features for iPhone, and it also includes a noteworthy CarPlay change: a redesign of the Apple Music app. more…",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/04/more-ads-coming-to-reddit-platform-will-evaluate-how-users-respond": {
    "at": "2026-11-04T13:45:30.062049+00:00",
    "title": "More ads coming to Reddit, platform will evaluate how users respond",
@@ -3235,6 +3246,17 @@
    "summary": "Nintendo has discussed the changes it has made to the notoriously difficult Water Temple for The Legend of Zelda: Ocarina of Time remake.",
    "title_ar": ""
   },
+  "ign.com/articles/openai-boss-sam-altman-addresses-backlash-after-saying-it-was-terrible-for-people-to-have-ram-in-their-pcs": {
+   "at": "2026-11-04T15:00:44.805791+00:00",
+   "title": "OpenAI Boss Sam Altman Addresses Backlash After Saying It Was 'Terrible' for People to Have RAM in Their PCs",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/openai-boss-sam-altman-addresses-backlash-after-saying-it-was-terrible-for-people-to-have-ram-in-their-pcs",
+   "score": 0,
+   "sources": 1,
+   "summary": "OpenAI boss Sam Altman has addressed the backlash over comments he made in a recent interview, where he said he thought it was “terrible” for people to have RAM in their PCs rather than a data center.",
+   "title_ar": ""
+  },
   "ign.com/articles/persona-1-remake-footage-seemingly-leaks-online": {
    "at": "2026-10-31T22:48:03.271654+00:00",
    "title": "Persona 1 Remake Footage Seemingly Leaks Online",
@@ -5457,6 +5479,17 @@
    "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run…",
    "title_ar": "OpenAI تقول إن ChatGPT يلحق بـ Google في مجال البحث"
   },
+  "theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments": {
+   "at": "2026-11-04T15:00:44.805791+00:00",
+   "title": "Sam Altman addresses RAM comments: people should ‘put as much as they want in their computers’",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+   "score": 3,
+   "sources": 2,
+   "summary": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases.",
+   "title_ar": "Sam Altman يرد على تعليقات الذاكرة العشوائية: يجب على الناس وضع القدر الذي يريدونه في حواسيبهم"
+  },
   "theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code": {
    "at": "2026-10-31T18:24:19.596609+00:00",
    "title": "I built an AI Tamagotchi before Meta could",
@@ -5543,6 +5576,17 @@
    "score": 3,
    "sources": 2,
    "summary": "SpaceX has discussed a deal with Boost Mobile to launch its own service through the budget-friendly carrier, according to a report from The Washington Post.",
+   "title_ar": ""
+  },
+  "theverge.com/science/1026287/spacex-qualcomm-starlink-mobile-5g-netwowrk": {
+   "at": "2026-11-04T15:00:44.805791+00:00",
+   "title": "SpaceX is working with Qualcomm to build its Starlink Mobile 5G network",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/science/1026287/spacex-qualcomm-starlink-mobile-5g-netwowrk",
+   "score": 0,
+   "sources": 1,
+   "summary": "SpaceX is teaming up with Qualcomm to build out its nationwide mobile network.",
    "title_ar": ""
   },
   "theverge.com/streaming/1025029/netflix-ai-discover-recommendations": {
@@ -6361,7 +6405,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-04T14:00:46.156114+00:00",
+  "AI": "2026-11-04T15:00:44.805791+00:00",
   "Anime": "2026-11-04T11:45:29.651133+00:00",
   "Games": "2026-11-04T14:30:35.109962+00:00",
   "Tech": "2026-11-04T14:45:33.499331+00:00"
