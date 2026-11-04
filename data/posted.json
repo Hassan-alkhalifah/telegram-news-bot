@@ -1552,6 +1552,17 @@
    "summary": "Not all endings are happy in Night City",
    "title_ar": ""
   },
+  "crunchyroll.com/news/latest/2026/11/4/game-sekai-tensei-dankatsu-gamer-wa-dungeon-shuukatsu-no-susume-wo-hajime-kara-play-suru-anime-reveals-new-teaser-trailer-cast": {
+   "at": "2026-11-04T12:15:30.516593+00:00",
+   "title": "Game Sekai Tensei \"DANKATSU\": Gamer wa \"Dungeon Shuukatsu no Susume\" wo \"Hajime kara\" Play Suru Anime Reveals New Teaser Trailer & Cast",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://crunchyroll.com/news/latest/2026/11/4/game-sekai-tensei-dankatsu-gamer-wa-dungeon-shuukatsu-no-susume-wo-hajime-kara-play-suru-anime-reveals-new-teaser-trailer-cast",
+   "score": 0,
+   "sources": 1,
+   "summary": "Adaptation based on light novel series broadcasts in Japan in January",
+   "title_ar": ""
+  },
   "crunchyroll.com/news/latest/2026/11/4/made-in-abyss-mezameru-shinpi-anime-film-theme-song-lyric-video": {
    "at": "2026-11-04T01:45:27.842566+00:00",
    "title": "Made in Abyss: Mezameru Shinpi Anime Film Shares Theme Song Lyric Video",
@@ -2441,6 +2452,17 @@
    "score": 0,
    "sources": 1,
    "summary": "A video reel showcasing what appears to be work-in-progress footage of a Revelations: Persona remake …",
+   "title_ar": ""
+  },
+  "gematsu.com/2026/11/arcade-archives-exzisus-launches-november-5": {
+   "at": "2026-11-04T12:15:30.516593+00:00",
+   "title": "Arcade Archives Exzisus launches November 5",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gematsu.com/2026/11/arcade-archives-exzisus-launches-november-5",
+   "score": 0,
+   "sources": 1,
+   "summary": "Arcade Archives 2 Exzisus will launch for PlayStation 5, Xbox Series, and Switch 2, and …",
    "title_ar": ""
   },
   "gematsu.com/2026/11/bill-teds-excellent-adventure-arcade-announced-for-ps5-xbox-series-switch-and-pc": {
@@ -5171,6 +5193,17 @@
    "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware.",
    "title_ar": ""
   },
+  "theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3": {
+   "at": "2026-11-04T12:15:30.516593+00:00",
+   "title": "Google hasn’t figured out how to make AI pay like its search engine",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+   "score": 1,
+   "sources": 1,
+   "summary": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week.",
+   "title_ar": "غوغل لم تتوصل بعد إلى كيفية جعل الذكاء الاصطناعي مربحاً مثل محرك بحثها"
+  },
   "theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses": {
    "at": "2026-11-03T15:15:38.086780+00:00",
    "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
@@ -6020,7 +6053,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-04T00:15:29.863184+00:00",
+  "AI": "2026-11-04T12:15:30.516593+00:00",
   "Anime": "2026-11-04T11:45:29.651133+00:00",
   "Games": "2026-11-04T11:15:37.694533+00:00",
   "Tech": "2026-11-04T11:30:34.913892+00:00"
