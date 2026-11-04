@@ -2168,6 +2168,17 @@
    "summary": "",
    "title_ar": ""
   },
+  "eurogamer.net/nexus-mods-gen-ai-disclosure-rules": {
+   "at": "2026-11-04T12:30:37.923216+00:00",
+   "title": "Nexus Mods introduces new AI disclosure rules, but won't ban AI mods outright",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/nexus-mods-gen-ai-disclosure-rules",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nexus Mods, the largest website for finding and downloading PC mods, has revealed new guidelines aimed at properly identifying mods created entirely using gen-AI or those created with AI assistance.",
+   "title_ar": ""
+  },
   "eurogamer.net/nintendo-fast-travel-legend-of-zelda-ocarina-of-time-remake": {
    "at": "2026-11-02T18:15:26.353173+00:00",
    "title": "Nintendo tried adding fast travel to The Legend of Zelda: Ocarina of Time remake, before devs realised \"we were missing out on the moments of discovery\"",
@@ -2826,6 +2837,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Samsung launched the Galaxy S26 Ultra earlier this year with a Privacy Display feature, and next year's Galaxy S27 Pro and Galaxy S27 Ultra are rumored to have it, too.",
+   "title_ar": ""
+  },
+  "gsmarena.com/samsung_galaxy_s27_pro_processor_revealed-news-75339.php": {
+   "at": "2026-11-04T12:30:37.923216+00:00",
+   "title": "New info reveals the Samsung Galaxy S27 Pro won't be powered by the Snapdragon 8 Elite Extreme Gen 6",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_processor_revealed-news-75339.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "There's been a lot of talk lately about the chipset powering the Samsung Galaxy S27 Ultra, with a recent rumor claiming the smartphone would come with the Snapdragon 8 Elite Extreme Gen 6, at least…",
    "title_ar": ""
   },
   "gsmarena.com/samsung_galaxy_s27_ultra_dummy_unit-news-75322.php": {
@@ -5578,6 +5600,28 @@
    "summary": "Samsung, SK hynix, and Micron are facing strong demand for memory from AI data centers, prompting manufacturers to prioritize higher-margin server products and high-bandwidth memory.",
    "title_ar": ""
   },
+  "tomshardware.com/pc-components/gpu-drivers/open-source-project-renders-your-windows-11-desktop-using-the-npu-rather-than-the-gpu-npu-driver-can-only-run-at-2-to-3-hz-targets-30-hz-performance": {
+   "at": "2026-11-04T12:30:37.923216+00:00",
+   "title": "Open source project renders your Windows 11 desktop using the NPU rather than the GPU — ‘npu-driver’ can only run at 2 to 3 Hz, targets 30 Hz performance",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/pc-components/gpu-drivers/open-source-project-renders-your-windows-11-desktop-using-the-npu-rather-than-the-gpu-npu-driver-can-only-run-at-2-to-3-hz-targets-30-hz-performance",
+   "score": 0,
+   "sources": 1,
+   "summary": "Open source developers have released a prototype driver for Windows 11 that renders the desktop using an NPU instead of the system’s (i)GPU.",
+   "title_ar": ""
+  },
+  "tomshardware.com/pc-components/gpus/nvidia-can-only-fulfill-1-percent-of-chinas-massive-usd70-billion-gpu-order-for-ai-chips-report-claims-supply-constraints-choke-export-friendly-rtx-pro-5500-deliveries-despite-huge-demand": {
+   "at": "2026-11-04T12:30:37.923216+00:00",
+   "title": "Nvidia can only fulfill 1% of China’s massive $70 billion GPU order for AI chips, report claims — supply constraints choke export-friendly RTX Pro 5500 deliveries despite huge demand",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-can-only-fulfill-1-percent-of-chinas-massive-usd70-billion-gpu-order-for-ai-chips-report-claims-supply-constraints-choke-export-friendly-rtx-pro-5500-deliveries-despite-huge-demand",
+   "score": 2,
+   "sources": 1,
+   "summary": "Just 1% of chips promised to major Chinese companies to power their AI ambitions will be delivered, according to reports.",
+   "title_ar": "تقرير يدعي أن Nvidia تستطيع تلبية 1% فقط من طلب الصين الضخم البالغ 70 مليار دولار لوحات معالجة الرسومات المخصصة للذكاء الاصطناعي - قيود الإمداد تعيق تسليم بطاقات RTX Pro 5500 المتوافقة مع التصدير على الرغم من الطلب الهائل"
+  },
   "tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops": {
    "at": "2026-11-01T15:30:37.378625+00:00",
    "title": "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows",
@@ -6056,7 +6100,7 @@
   "AI": "2026-11-04T12:15:30.516593+00:00",
   "Anime": "2026-11-04T11:45:29.651133+00:00",
   "Games": "2026-11-04T11:15:37.694533+00:00",
-  "Tech": "2026-11-04T11:30:34.913892+00:00"
+  "Tech": "2026-11-04T12:30:37.923216+00:00"
  },
  "digest_day": "2026-11-03",
  "weekly_day": ""
