@@ -2003,6 +2003,17 @@
    "summary": "Binance has revealed more details about the cyber attack that resulted in the loss of $6.34 billion in digital assets.",
    "title_ar": ""
   },
+  "engadget.com/2306269/apple-music-selfie-sing-karaoke-video": {
+   "at": "2026-11-04T11:30:34.913892+00:00",
+   "title": "Apple Music's upcoming feature will let you record yourself doing karaoke",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2306269/apple-music-selfie-sing-karaoke-video/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Apple Music will launch 'Selfie Sing' with iOS 27.3.",
+   "title_ar": ""
+  },
   "eurogamer.net/anthropic-claude-generative-ai-game-clones-update": {
    "at": "2026-11-02T19:15:29.735059+00:00",
    "title": "As the controversy around AI-created video game copies continues, Anthropic seemingly restricts Claude's cloning abilities",
@@ -2838,6 +2849,17 @@
    "sources": 1,
    "summary": "The Xiaomi 18 Pro and Xiaomi 18 Pro Max debuted in China in September, with Xiaomi subsequently confirming plans for a global launch.",
    "title_ar": "سلسلة Xiaomi 18 Pro ستتوفر عالمياً هذا الشهر"
+  },
+  "gsmarena.com/xiaomi_sets_the_hyperos_4_update_rollout_schedule-news-75340.php": {
+   "at": "2026-11-04T11:30:34.913892+00:00",
+   "title": "Xiaomi unveils the HyperOS 4 update rollout schedule",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/xiaomi_sets_the_hyperos_4_update_rollout_schedule-news-75340.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "Xiaomi’s HyperOS 4 has a deeper integration with iOS – this includes easier sharing of photos, files, contacts and web pages with iPhone users.",
+   "title_ar": ""
   },
   "gsmarena.com/xiaomi_watch_s5_41mm_leaks_expect_a_big_increase_in_battery_capacity-news-75323.php": {
    "at": "2026-11-03T14:45:27.918274+00:00",
@@ -5446,6 +5468,17 @@
    "summary": "Nick Saraev says Amazon closed his account after canceling Nvidia DGX Spark orders; Tim Sweeney reports canceled orders after a GPU buy.",
    "title_ar": "مبتكر يقول إن أمازون أغلقت حسابه بعد أن حاول شراء 7 أجهزة Nvidia DGX Spark"
   },
+  "tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections": {
+   "at": "2026-11-04T11:30:34.913892+00:00",
+   "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+   "score": 1,
+   "sources": 1,
+   "summary": "AMD's data center business surges as strong demand for Epyc processors and Instinct accelerators continues and sales of client hardware declines only slightly.",
+   "title_ar": "AMD تتوقع تفوق مبيعاتها على مبيعات Intel في الربع الرابع لأول مرة في التاريخ"
+  },
   "tomshardware.com/pc-components/dram/apple-faces-unprecedented-memory-cost-increases-as-ram-prices-continue-to-surge-manufacturing-bill-climbs-by-usd33-billion-rising-component-expenses-threaten-margins-through-the-holiday-quarter-and-into-2027": {
    "at": "2026-11-03T14:30:37.121067+00:00",
    "title": "Apple faces unprecedented memory cost increases as RAM prices continue to surge, manufacturing bill climbs by $33 billion — rising component expenses threaten margins through the holiday quarter and into 2027",
@@ -5935,7 +5968,7 @@
   "AI": "2026-11-04T00:15:29.863184+00:00",
   "Anime": "2026-11-04T11:00:51.913627+00:00",
   "Games": "2026-11-04T11:15:37.694533+00:00",
-  "Tech": "2026-11-04T10:15:31.173841+00:00"
+  "Tech": "2026-11-04T11:30:34.913892+00:00"
  },
  "digest_day": "2026-11-03",
  "weekly_day": ""
