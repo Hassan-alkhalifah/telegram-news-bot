@@ -199,6 +199,17 @@
    "summary": "Welcome to episode 50 of The Sideload, a 9to5Google podcast.",
    "title_ar": "The Sideload 050: الهواتف التي ترفض Samsung و Google صنعها"
   },
+  "9to5google.com/2026/11/03/xbox-nano-controller-cloud-gaming-stadia": {
+   "at": "2026-11-04T02:45:27.474884+00:00",
+   "title": "Google’s Stadia Controller dream lives on in the $50 Xbox Nano Controller",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/03/xbox-nano-controller-cloud-gaming-stadia/",
+   "score": 1,
+   "sources": 1,
+   "summary": "The Stadia Controller introduced the idea of connecting directly to cloud gaming via its own Wi-Fi connection and, while Google’s platform is long dead, that dream lives on in the latest Xbox…",
+   "title_ar": "حلم وحدة تحكم Stadia من Google يستمِر في وحدة تحكم Xbox Nano بسعر 50 دولاراً"
+  },
   "9to5google.com/2026/11/03/xiaomi-confirms-android-17-hyperos-4-rollout-schedule-device-list": {
    "at": "2026-11-03T15:45:31.163856+00:00",
    "title": "Xiaomi confirms Android 17 HyperOS 4 rollout schedule for these devices",
@@ -671,6 +682,17 @@
    "sources": 1,
    "summary": "Apple has yet to launch the iPhone 18, with only 18 Pro and Duo models debuting this fall.",
    "title_ar": "تسريبات تشير إلى أن iPhone 18 سيحظى بترقيتين مستوحاة من طرازات Pro"
+  },
+  "9to5mac.com/2026/11/03/macos-27-3-includes-cool-looking-pro-screensaver-from-new-touchscreen-macbook-pro": {
+   "at": "2026-11-04T02:45:27.474884+00:00",
+   "title": "macOS 27.3 includes cool-looking ‘Pro’ screensaver from new touchscreen MacBook Pro",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/03/macos-27-3-includes-cool-looking-pro-screensaver-from-new-touchscreen-macbook-pro/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Included in today’s macOS 27.3 beta 1 is a great-looking screensaver featuring an animated version of the new MacBook Pro with PROLED XDR Displa y wallpaper.",
+   "title_ar": ""
   },
   "9to5mac.com/2026/11/03/stick-season-2-premieres-on-apple-tv": {
    "at": "2026-11-04T02:15:32.587032+00:00",
@@ -5550,7 +5572,7 @@
   "AI": "2026-11-04T00:15:29.863184+00:00",
   "Anime": "2026-11-04T01:45:27.842566+00:00",
   "Games": "2026-11-03T22:15:27.993072+00:00",
-  "Tech": "2026-11-04T02:42:21.975227+00:00"
+  "Tech": "2026-11-04T02:45:27.474884+00:00"
  },
  "digest_day": "2026-11-03",
  "weekly_day": ""
