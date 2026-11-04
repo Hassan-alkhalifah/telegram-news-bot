@@ -2421,6 +2421,17 @@
    "summary": "Arkane Studios, which spent the last several months in limbo following Xbox's decision to divest itself from the studio, has apparently received buyout offers from several bidders.",
    "title_ar": ""
   },
+  "eurogamer.net/arkane-union-xbox-more-expensive-marvels-blade": {
+   "at": "2026-11-04T20:45:43.117162+00:00",
+   "title": "Arkane union says closing the studio \"would probably be more expensive\" for Xbox than simply finishing Marvel's Blade",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/arkane-union-xbox-more-expensive-marvels-blade",
+   "score": 0,
+   "sources": 1,
+   "summary": "Xbox would probably spend more money shutting down Arkane Lyon than it would trying to finish and release Marvel's Blade, according to a union representing workers from the beloved imsim studio.",
+   "title_ar": ""
+  },
   "eurogamer.net/call-of-duty-modern-warfare-4-player-engagement-black-ops-7": {
    "at": "2026-11-03T11:30:39.439292+00:00",
    "title": "It looks like Call of Duty: Modern Warfare 4 had fewer active players at launch in the US compared to last year's Black Ops 7",
@@ -6733,6 +6744,17 @@
    "summary": "Apple will start checking iCloud items that are accessible to anyone who has the link for \"harmful content\" starting with iOS 27.3 and other 27.3 updates, the company says.",
    "title_ar": ""
   },
+  "theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system": {
+   "at": "2026-11-04T20:45:43.117162+00:00",
+   "title": "Gemini for Home now plugs into AT&T’s smart security system",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+   "score": 1,
+   "sources": 1,
+   "summary": "AT&T's smart home security system now integrates with Gemini for Home.",
+   "title_ar": "تطبيق Gemini for Home يرتبط الآن بنظام الأمان الذكي من AT&T"
+  },
   "tomshardware.com/3d-printing/anycubic-and-thingiverse-announce-exclusive-3d-printing-partnership-makeronline-platform-to-offer-1-click-multicolor-3mf-models": {
    "at": "2026-11-01T15:13:44.571929+00:00",
    "title": "Anycubic and Thingiverse announce exclusive 3D printing partnership — MakerOnline platform to offer '1-click' multicolor 3MF models",
@@ -7406,7 +7428,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-04T19:45:32.239025+00:00",
+  "AI": "2026-11-04T20:45:43.117162+00:00",
   "Anime": "2026-11-04T20:15:26.466159+00:00",
   "Games": "2026-11-04T20:30:37.302821+00:00",
   "Tech": "2026-11-04T20:00:43.920914+00:00"
