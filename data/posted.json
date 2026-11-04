@@ -4082,6 +4082,17 @@
    "summary": "Ubisoft is reportedly among multiple suitors preparing bids to try and purchase French developer Arkane Lyon, makers of the Dishonored series and the upcoming Marvel's Blade, from Microsoft in the…",
    "title_ar": ""
   },
+  "ign.com/articles/world-of-warcraft-forever-launch-live-blog": {
+   "at": "2026-11-04T23:15:29.604400+00:00",
+   "title": "World of Warcraft Forever Launch Live Blog",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/world-of-warcraft-forever-launch-live-blog",
+   "score": 0,
+   "sources": 1,
+   "summary": "World of Warcraft Forever launch day live blog.",
+   "title_ar": ""
+  },
   "ign.com/articles/world-of-warcraft-forever-launch-patch-notes-bring-controller-support-and-massive-class-changes": {
    "at": "2026-11-03T20:00:53.301248+00:00",
    "title": "World of Warcraft Forever Launch Patch Notes Bring Controller Support and Massive Class Changes",
@@ -6326,6 +6337,17 @@
    "summary": "Anthropic has released FlashProve, a research prototype that uses cryptography to verify whether an AI response actually came from the claimed model.",
    "title_ar": ""
   },
+  "the-decoder.com/anthropics-text-watermark-is-easy-to-bypass-on-several-older-claude-models": {
+   "at": "2026-11-04T23:15:29.604400+00:00",
+   "title": "Anthropic's text watermark is easy to bypass on several older Claude models",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/anthropics-text-watermark-is-easy-to-bypass-on-several-older-claude-models/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Anthropic is rolling out text watermarks to four more Claude models ahead of the EU AI Act's December deadline.",
+   "title_ar": "من السهل تجاوز علامة Anthropic النصية المائية في عدة إصدارات أقدم من نماذج Claude"
+  },
   "the-decoder.com/bug-hunters-can-now-earn-up-to-172000-from-openai-as-company-ramps-up-security": {
    "at": "2026-11-03T10:45:27.965892+00:00",
    "title": "Bug hunters can now earn up to $172,000 from OpenAI as company ramps up security",
@@ -7714,7 +7736,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-04T22:30:50.457501+00:00",
+  "AI": "2026-11-04T23:15:29.604400+00:00",
   "Anime": "2026-11-04T20:15:26.466159+00:00",
   "Games": "2026-11-04T22:45:35.770215+00:00",
   "Tech": "2026-11-04T23:00:43.614099+00:00"
