@@ -3455,6 +3455,17 @@
    "summary": "Itch has clamped down on the deluge of low effort generative AI games flooding its store, confirming the removal of a couple of terabytes of \"AI slop.\"",
    "title_ar": "متجر الألعاب المستقلة Itch يحذف \"تيرابايتات قليلة من محتوى الذكاء الاصطناعي الرديء\" ويضيف مرشح \"بدون ذكاء اصطناعي\" لنتائج البحث"
   },
+  "ign.com/articles/kfc-reveals-official-avengers-doomsday-menu-worthy-of-dr-doom": {
+   "at": "2026-11-04T18:00:46.079217+00:00",
+   "title": "KFC Reveals Official Avengers: Doomsday Menu 'Worthy' of Dr. Doom",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.ign.com/articles/kfc-reveals-official-avengers-doomsday-menu-worthy-of-dr-doom",
+   "score": 2,
+   "sources": 1,
+   "summary": "Dr.",
+   "title_ar": "KFC تكشف عن قائمة طعام رسمية لـ Avengers: Doomsday \"تليق\" بـ Dr. Doom"
+  },
   "ign.com/articles/mike-flanagan-teases-very-cool-and-unexpected-on-ramp-into-the-world-of-warhammer-40000-for-henry-cavills-amazon-tv-show": {
    "at": "2026-11-03T21:45:30.556880+00:00",
    "title": "Mike Flanagan Teases 'Very Cool and Unexpected On-Ramp' Into the World of Warhammer 40,000 for Henry Cavill's Amazon TV Show",
@@ -7001,9 +7012,9 @@
  "topic_last_posted": {
   "AI": "2026-11-04T17:00:48.764116+00:00",
   "Anime": "2026-11-04T17:15:28.098046+00:00",
-  "Games": "2026-11-04T17:45:29.700813+00:00",
+  "Games": "2026-11-04T18:00:46.079217+00:00",
   "Tech": "2026-11-04T17:57:51.907889+00:00"
  },
- "digest_day": "2026-11-03",
+ "digest_day": "2026-11-04",
  "weekly_day": ""
 }
