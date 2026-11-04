@@ -837,6 +837,17 @@
    "summary": "Apple released Xcode 27.3 beta 1 today with multiple new features, chief among them an expansion of its built-in coding assistant to support GitHub Copilot.",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/04/apple-disables-siri-ai-waitlist-in-ios-27-with-one-exception": {
+   "at": "2026-11-04T20:30:37.302821+00:00",
+   "title": "Apple disables Siri AI waitlist in iOS 27, with one exception",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/04/apple-disables-siri-ai-waitlist-in-ios-27-with-one-exception/",
+   "score": 0,
+   "sources": 1,
+   "summary": "When Siri AI launched in iOS 27 earlier this fall, Apple used a waitlist to gate access.",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/04/apple-still-charging-300-of-costs-on-iphone-storage-upgrades-says-wsj": {
    "at": "2026-11-04T13:00:42.744788+00:00",
    "title": "Apple still charging 300% of costs on iPhone storage upgrades, says WSJ",
@@ -2366,6 +2377,17 @@
    "summary": "This is potentially terrible news for those who love physical media.",
    "title_ar": ""
   },
+  "engadget.com/2307085/xbox-is-testing-two-new-controller-options-for-cloud-gaming": {
+   "at": "2026-11-04T20:30:37.302821+00:00",
+   "title": "Xbox is testing two new controller options for Cloud Gaming",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2307085/xbox-is-testing-two-new-controller-options-for-cloud-gaming/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The Nano Controller is adopting a Google Stadia trick.",
+   "title_ar": ""
+  },
   "eurogamer.net/anthropic-claude-generative-ai-game-clones-update": {
    "at": "2026-11-02T19:15:29.735059+00:00",
    "title": "As the controversy around AI-created video game copies continues, Anthropic seemingly restricts Claude's cloning abilities",
@@ -2727,6 +2749,39 @@
    "score": 0,
    "sources": 1,
    "summary": "The video game research company Sensor Tower has updated its GTA 6 sales tracker to reveal the latest, albeit unofficial, sales data for the open-world crime game.",
+   "title_ar": ""
+  },
+  "gamespot.com/articles/gta-6-is-a-massive-download-but-you-may-qualify-for-a-free-speed-boost-to-download-it-faster": {
+   "at": "2026-11-04T20:30:37.302821+00:00",
+   "title": "GTA 6 Is A Massive Download, But You May Qualify For A Free Speed Boost To Download It Faster",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/gta-6-is-a-massive-download-but-you-may-qualify-for-a-free-speed-boost-to-download-it-faster/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Grand Theft Auto 6 launches on November 19, and the game's file size, 212GB , is truly massive.",
+   "title_ar": ""
+  },
+  "gamespot.com/articles/gta-6-survey-reveals-people-really-want-gta-online-but-it-hasnt-been-confirmed-yet": {
+   "at": "2026-11-04T20:30:37.302821+00:00",
+   "title": "GTA 6 Survey Reveals People Really Want GTA Online, But It Hasn’t Been Confirmed Yet",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.gamespot.com/articles/gta-6-survey-reveals-people-really-want-gta-online-but-it-hasnt-been-confirmed-yet/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Grand Theft Auto 6 releases on November 19, and a lot of people are very excited to play some kind of online mode, according to a new study.",
+   "title_ar": "استطلاع رأي حول GTA 6 يكشف أن اللاعبين يرغبون حقاً في لعبة GTA Online، لكن لم يتم تأكيدها حتى الآن"
+  },
+  "gamespot.com/articles/gta-6-will-now-come-to-stores-sooner-but-its-not-playable-right-away": {
+   "at": "2026-11-04T20:30:37.302821+00:00",
+   "title": "GTA 6 Will Now Come To Stores Sooner, But It’s Not Playable Right Away",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/gta-6-will-now-come-to-stores-sooner-but-its-not-playable-right-away/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Rockstar Games has announced that Grand Theft Auto 6 will now released in stores two days earlier than anticipated--but this doesn't change anything about when you'll actually be able to play the…",
    "title_ar": ""
   },
   "gamespot.com/articles/guild-wars-is-getting-its-first-new-expansion-in-almost-20-years": {
@@ -7353,7 +7408,7 @@
  "topic_last_posted": {
   "AI": "2026-11-04T19:45:32.239025+00:00",
   "Anime": "2026-11-04T20:15:26.466159+00:00",
-  "Games": "2026-11-04T19:30:39.314730+00:00",
+  "Games": "2026-11-04T20:30:37.302821+00:00",
   "Tech": "2026-11-04T20:00:43.920914+00:00"
  },
  "digest_day": "2026-11-04",
