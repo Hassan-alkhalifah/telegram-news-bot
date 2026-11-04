@@ -3829,6 +3829,17 @@
    "summary": "Horror specialist Mike Flanagan has issued an update on his hotly anticipated live-action Warhammer 40,000 TV series starring Henry Cavill, teasing something “unexpected” for fans.",
    "title_ar": "Mike Flanagan يلمح إلى مدخل رائع للغاية وغير متوقع لعالم Warhammer 40,000 في مسلسل Amazon التلفزيوني الخاص بـ Henry Cavill"
   },
+  "ign.com/articles/mob-entertainment-lays-off-almost-entire-escape-from-playtime-team": {
+   "at": "2026-11-04T23:30:36.446248+00:00",
+   "title": "Mob Entertainment Lays Off 'Almost Entire' Escape From Playtime Team",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.ign.com/articles/mob-entertainment-lays-off-almost-entire-escape-from-playtime-team",
+   "score": 3,
+   "sources": 2,
+   "summary": "A former member of Mob Entertainment’s Escape from Playtime Team claims “almost all” staff working on the project have been laid off.",
+   "title_ar": "شركة Mob Entertainment تسرح \"เกือบทั้งหมด\" من فريق عمل Escape from Playtime"
+  },
   "ign.com/articles/netflix-calls-its-new-ai-discover-feature-a-test-kitchen-to-tailor-viewers-recommendations": {
    "at": "2026-11-03T23:00:42.667321+00:00",
    "title": "Netflix Calls Its New AI Discover Feature a 'Test Kitchen' to Tailor Viewers' Recommendations",
@@ -4224,6 +4235,17 @@
    "sources": 6,
    "summary": "Bethesda has officially confirmed that the next Elder Scrolls game will be called Elder Scrolls VI: Sentinel.",
    "title_ar": "Bethesda تؤكد رسمياً أن لعبة The Elder Scrolls 6: Sentinel هي لعبتها القادمة"
+  },
+  "insider-gaming.com/escape-from-playtime-layoffs-mob-entertainment": {
+   "at": "2026-11-04T23:30:36.446248+00:00",
+   "title": "Escape From Playtime Team Hit By Layoffs at Mob Entertainment",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/escape-from-playtime-layoffs-mob-entertainment/",
+   "score": 0,
+   "sources": 1,
+   "summary": "While Escape From Playtime is continuing with development, many of the team members working on the game at Mob Entertainment were let go.",
+   "title_ar": ""
   },
   "insider-gaming.com/fallout-season-3-filming-wrap": {
    "at": "2026-11-01T18:45:27.576503+00:00",
@@ -7738,7 +7760,7 @@
  "topic_last_posted": {
   "AI": "2026-11-04T23:15:29.604400+00:00",
   "Anime": "2026-11-04T20:15:26.466159+00:00",
-  "Games": "2026-11-04T22:45:35.770215+00:00",
+  "Games": "2026-11-04T23:30:36.446248+00:00",
   "Tech": "2026-11-04T23:00:43.614099+00:00"
  },
  "digest_day": "2026-11-04",
