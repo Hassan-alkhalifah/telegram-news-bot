@@ -5842,6 +5842,17 @@
    "summary": "AI disclosure policies are also part of company’s attempt to counter growing spam games",
    "title_ar": ""
   },
+  "kotaku.com/legend-zelda-ocarina-time-remake-midnight-launch-nintendo-2000754150": {
+   "at": "2026-11-05T17:15:31.951208+00:00",
+   "title": "Zelda: Ocarina Of Time Remake’s Midnight Launch Turns Fans Out In Droves Like It’s 1998 All Over Again",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/legend-zelda-ocarina-time-remake-midnight-launch-nintendo-2000754150",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nintendo fans pulled up for a game they could have easily just downloaded",
+   "title_ar": ""
+  },
   "kotaku.com/lore-obssessed-fans-think-the-elder-scrolls-6-sentinel-is-connected-to-skyrim-2000753341": {
    "at": "2026-11-04T19:15:27.950554+00:00",
    "title": "Lore-Obssessed Fans Think The Elder Scrolls 6: Sentinel Is Connected To Skyrim",
@@ -6412,6 +6423,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Get it while you can.",
+   "title_ar": ""
+  },
+  "nintendolife.com/news/2026/11/nintendo-is-currently-not-considering-more-switch-2-price-changes": {
+   "at": "2026-11-05T17:15:31.951208+00:00",
+   "title": "Nintendo Is Currently Not Considering More Switch 2 Price Changes",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/nintendo-is-currently-not-considering-more-switch-2-price-changes",
+   "score": 0,
+   "sources": 1,
+   "summary": "Well, that's good.",
    "title_ar": ""
   },
   "nintendolife.com/news/2026/11/nintendo-joins-the-accessible-games-initiative-adopting-a-bunch-of-new-eshop-game-tags": {
@@ -8218,6 +8240,17 @@
    "summary": "After partnering with Moises earlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs.",
    "title_ar": "يمكنك نشر الموسيقى المنشأة بالذكاء الاصطناعي مباشرة على SoundCloud من ElevenLabs"
   },
+  "theverge.com/entertainment/1026282/grimes-ai-movie": {
+   "at": "2026-11-05T17:15:31.951208+00:00",
+   "title": "Grimes is going to star in an AI movie that’s coming to theaters",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
+   "score": 1,
+   "sources": 1,
+   "summary": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie.",
+   "title_ar": "Grimes ستشارك في بطولة فيلم ذكاء اصطناعي قادم إلى دور السينما"
+  },
   "theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code": {
    "at": "2026-10-31T18:24:19.596609+00:00",
    "title": "I built an AI Tamagotchi before Meta could",
@@ -9507,7 +9540,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-05T16:30:41.806402+00:00",
+  "AI": "2026-11-05T17:15:31.951208+00:00",
   "Anime": "2026-11-05T17:00:51.314286+00:00",
   "Games": "2026-11-05T16:30:41.806402+00:00",
   "Tech": "2026-11-05T16:45:32.458722+00:00"
