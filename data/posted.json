@@ -2201,6 +2201,17 @@
    "summary": "It has all the bells and whistles (and cameras).",
    "title_ar": ""
   },
+  "arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones": {
+   "at": "2026-11-05T22:45:28.890258+00:00",
+   "title": "Sony revives the original Walkman headphones, adds USB-C",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/",
+   "score": 2,
+   "sources": 2,
+   "summary": "Orange ear cushions included.",
+   "title_ar": "سوني تعيد إحياء سماعات Walkman الأصلية وتضيف منفذ USB-C"
+  },
   "arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder": {
    "at": "2026-11-05T22:00:46.497693+00:00",
    "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
@@ -4456,6 +4467,17 @@
    "summary": "Apple unveiled the Apple Watch Series 12 and Watch Ultra 4 back in September, along with a set of microphone-based features it calls Audio Intelligence.",
    "title_ar": ""
   },
+  "gsmarena.com/counterpoint_global_dram_revenue_grows_by_369_in_q3-news-75368.php": {
+   "at": "2026-11-05T22:45:28.890258+00:00",
+   "title": "Counterpoint: global DRAM revenue grows by 369% in Q3",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/counterpoint_global_dram_revenue_grows_by_369_in_q3-news-75368.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "Global DRAM revenue has increased by an insane 369% year-over-year thanks to strong demand for the stuff, which goes towards building new AI accelerators and data centers.",
+   "title_ar": ""
+  },
   "gsmarena.com/elon_musks_spacex_may_buy_boost_mobile_to_make_starlink_into_a_fullfledged_carrier-news-75317.php": {
    "at": "2026-11-03T03:30:37.819085+00:00",
    "title": "Elon Musk's SpaceX may buy Boost Mobile to make Starlink into a full-fledged carrier",
@@ -4751,6 +4773,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Google has announced that its AI products will soon be switched off by default for K-12 student accounts.",
+   "title_ar": ""
+  },
+  "gsmarena.com/sony_brings_back_the_original_walkman_headphones_with_usbc-news-75372.php": {
+   "at": "2026-11-05T22:45:28.890258+00:00",
+   "title": "Sony brings back the original Walkman headphones with USB-C",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/sony_brings_back_the_original_walkman_headphones_with_usbc-news-75372.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "Back in 1979, Sony launched the original Walkman TPS-L2 cassette player alongside the MDR-3 headphones, and together they helped popularize listening to music on the go.",
    "title_ar": ""
   },
   "gsmarena.com/sony_xperia_10_vii_xperia_10_viii_android_17_update-news-75358.php": {
@@ -6315,6 +6348,17 @@
    "summary": "We're fast now",
    "title_ar": ""
   },
+  "kotaku.com/legend-zelda-ocarina-of-time-microphone-songs-instruments-2000754324": {
+   "at": "2026-11-05T22:45:28.890258+00:00",
+   "title": "One Of The Coolest New Features In The Ocarina Of Time Remake Is Equal Parts Impressive And Hysterical",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/legend-zelda-ocarina-of-time-microphone-songs-instruments-2000754324",
+   "score": 0,
+   "sources": 1,
+   "summary": "The titular instrument accepts all kinds of inputs, including just straight up yelling",
+   "title_ar": ""
+  },
   "kotaku.com/legend-zelda-ocarina-of-time-remake-switch-2-jump-button-2000754255": {
    "at": "2026-11-05T21:45:30.047697+00:00",
    "title": "Zelda Fans Are Being Personally Victimized By Ocarina Of Time Remake’s Jump Button",
@@ -7567,6 +7611,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Him being annoyed has not made DRAM cheaper, however.",
+   "title_ar": ""
+  },
+  "pcgamer.com/software/platforms/xbox-enters-the-faster-pc-launcher-arms-race-its-app-loads-faster-now-too": {
+   "at": "2026-11-05T22:45:28.890258+00:00",
+   "title": "Xbox enters the 'faster PC launcher' arms race, its app loads faster now too",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/software/platforms/xbox-enters-the-faster-pc-launcher-arms-race-its-app-loads-faster-now-too/",
+   "score": 0,
+   "sources": 1,
+   "summary": "An updated version of the Xbox PC app available to Xbox Insiders loads up to 60% faster, and it's got some other nice improvements too.",
    "title_ar": ""
   },
   "pcgamer.com/software/security/dodgy-download-and-spoofed-job-ad-led-to-usd6-3-billion-binance-hack-attacker-offered-fake-software-and-fake-job-to-infiltrate-company-wallets-and-steal-billions": {
@@ -10302,7 +10357,7 @@
   "AI": "2026-11-05T22:30:38.968567+00:00",
   "Anime": "2026-11-05T19:00:46.804487+00:00",
   "Games": "2026-11-05T21:15:28.679773+00:00",
-  "Tech": "2026-11-05T22:15:31.814072+00:00"
+  "Tech": "2026-11-05T22:45:28.890258+00:00"
  },
  "digest_day": "2026-11-05",
  "weekly_day": ""
