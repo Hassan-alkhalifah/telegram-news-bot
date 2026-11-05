@@ -5490,6 +5490,17 @@
    "summary": "'None of us saw that coming'",
    "title_ar": ""
   },
+  "kotaku.com/nintendo-switch-2-sales-profit-report-tomodachi-life-zelda-ocarina-2000754139": {
+   "at": "2026-11-05T13:30:38.940025+00:00",
+   "title": "Nintendo’s Switch 2 Sales Fell 37 Percent This Year, But Game Sales Are Growing Fast",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/nintendo-switch-2-sales-profit-report-tomodachi-life-zelda-ocarina-2000754139",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nintendo's FY2027 earnings report is a mixed bag, mostly saved by strong software sales from titles such as Tomodachi Life: Living the Dream and Rhythm Heaven Groove",
+   "title_ar": ""
+  },
   "kotaku.com/nintendo-switch-cart-rom-physical-media-data-centers-manufacture-2000753293": {
    "at": "2026-11-04T16:45:26.072895+00:00",
    "title": "Another Blow For Physical Media As Nintendo’s Switch Cartridge Chip Manufacturer Pivots To Data Centers",
@@ -8427,6 +8438,17 @@
    "summary": "Customs authorities only check the performance specifications of a server's processors, allowing smugglers to attach high-end memory chips to low-end processors and ship them into China.",
    "title_ar": "مستخرجو شرائح الذكاء الاصطناعي يستغلون ثغرة في قيود التجارة لإدخال ذاكرة HBM المحظورة من كوريا الجنوبية إلى الصين — شرائح ذاكرة باهظة الثمن تُغلف مع معالجات رخيصة وغير خاضعة للعقوبات لتصبح صادرات قانونية."
   },
+  "tomshardware.com/tech-industry/semiconductors/marvell-to-buy-lumentum-in-usd115-billion-all-stock-deal-combined-company-to-supply-scale-up-and-scale-in-optics-for-ai-data-centers": {
+   "at": "2026-11-05T13:30:38.940025+00:00",
+   "title": "Marvell to buy Lumentum in $115 billion all-stock deal",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/semiconductors/marvell-to-buy-lumentum-in-usd115-billion-all-stock-deal-combined-company-to-supply-scale-up-and-scale-in-optics-for-ai-data-centers",
+   "score": 1,
+   "sources": 1,
+   "summary": "Marvell has agreed to acquire Lumentum for $115 billion, combining its optical DSPs, SerDes, silicon photonics, and networking silicon with Lumentum’s lasers, transceivers, optical switches, and InP…",
+   "title_ar": "Marvell تستحوذ على Lumentum في صفقة أسهم بالكامل بقيمة 115 مليار دولار"
+  },
   "tomshardware.com/tech-industry/space/usaf-successfully-tests-dropping-spacex-starfall-cargo-drop-pods-from-space-2-200-pound-capsule-drops-military-supplies-in-the-pacific-to-test-starcraft-like-supply-drops": {
    "at": "2026-11-01T15:45:26.599272+00:00",
    "title": "USAF successfully tests dropping SpaceX Starfall cargo drop pods from space",
@@ -8806,7 +8828,7 @@
   "AI": "2026-11-05T12:30:45.143879+00:00",
   "Anime": "2026-11-05T11:00:46.187741+00:00",
   "Games": "2026-11-05T13:00:48.790758+00:00",
-  "Tech": "2026-11-05T13:15:29.773242+00:00"
+  "Tech": "2026-11-05T13:30:38.940025+00:00"
  },
  "digest_day": "2026-11-04",
  "weekly_day": ""
