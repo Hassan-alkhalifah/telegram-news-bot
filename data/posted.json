@@ -5985,6 +5985,17 @@
    "summary": "This looks awesome",
    "title_ar": ""
   },
+  "kotaku.com/final-fantasy-producer-says-after-ff7-remake-trilogy-square-enix-will-invest-in-new-games-2000754228": {
+   "at": "2026-11-05T19:45:28.930730+00:00",
+   "title": "Final Fantasy Producer Says After FF7 Remake Trilogy, Square Enix Will Invest In New Games",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/final-fantasy-producer-says-after-ff7-remake-trilogy-square-enix-will-invest-in-new-games-2000754228",
+   "score": 0,
+   "sources": 1,
+   "summary": "But Yoshinori Kitase acknowledged that the streets want a Final Fantasy VI remake too",
+   "title_ar": ""
+  },
   "kotaku.com/four-small-changes-in-the-ocarina-of-time-remake-that-zelda-fans-have-found-and-arent-thrilled-about-2000754215": {
    "at": "2026-11-05T18:15:31.101764+00:00",
    "title": "Four Small Changes In The Ocarina Of Time Remake That Zelda Fans Have Found And Aren’t Thrilled About",
@@ -8196,6 +8207,17 @@
    "summary": "Anthropic is rolling out text watermarks to four more Claude models ahead of the EU AI Act's December deadline.",
    "title_ar": "من السهل تجاوز علامة Anthropic النصية المائية في عدة إصدارات أقدم من نماذج Claude"
   },
+  "the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model": {
+   "at": "2026-11-05T19:45:28.930730+00:00",
+   "title": "Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Baidu releases ERNIE 5.5 Flash Base: a 280-billion-parameter MoE model pre-trained on 33.5 trillion tokens, shipped deliberately without fine-tuning, so developers can take it wherever they want.",
+   "title_ar": "بايدو تطلق نموذج ERNIE 5.5 Flash Base المفتوح المصدر بـ 280 مليار معلمة كنموذج أساسي"
+  },
   "the-decoder.com/bug-hunters-can-now-earn-up-to-172000-from-openai-as-company-ramps-up-security": {
    "at": "2026-11-03T10:45:27.965892+00:00",
    "title": "Bug hunters can now earn up to $172,000 from OpenAI as company ramps up security",
@@ -9881,7 +9903,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-05T19:15:30.189106+00:00",
+  "AI": "2026-11-05T19:45:28.930730+00:00",
   "Anime": "2026-11-05T19:00:46.804487+00:00",
   "Games": "2026-11-05T18:15:31.101764+00:00",
   "Tech": "2026-11-05T19:30:41.607294+00:00"
