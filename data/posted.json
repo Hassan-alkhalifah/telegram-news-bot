@@ -2751,6 +2751,17 @@
    "summary": "Power users seem more than willing to pay for AI-powered effects.",
    "title_ar": "تجاوز عدد المشتركين المدفوعين في Snap أكثر من 30 مليون مشترك عبر Snapchat+ والخطط الأخرى"
   },
+  "engadget.com/2307590/openai-says-it-will-protect-local-resources-and-report-on-the-impact-of-its-data-centers": {
+   "at": "2026-11-05T12:45:28.942289+00:00",
+   "title": "OpenAI says it will protect local resources and report on the impact of its data centers",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2307590/openai-says-it-will-protect-local-resources-and-report-on-the-impact-of-its-data-centers/",
+   "score": 1,
+   "sources": 1,
+   "summary": "OpenAI claims its new pledges were in the works before Americans voted strongly against the data center boom.",
+   "title_ar": "OpenAI تقول إنها ستتحمي الموارد المحلية وستُقدم تقارير حول تأثير مراكز البيانات الخاصة بها"
+  },
   "eurogamer.net/anthropic-claude-generative-ai-game-clones-update": {
    "at": "2026-11-02T19:15:29.735059+00:00",
    "title": "As the controversy around AI-created video game copies continues, Anthropic seemingly restricts Claude's cloning abilities",
@@ -3861,6 +3872,17 @@
    "sources": 1,
    "summary": "While we wait for Motorola to fully take the wraps off the Signature 27, its next flagship smartphone, the company has partnered up with Danny Winget for an exclusive hands-on promo video showcasing…",
    "title_ar": "هاتف Motorola Signature 27 يظهر في فيديو ترويجي عملي قبل الإطلاق"
+  },
+  "gsmarena.com/nothing_is_launching_an_ainative_product_next_month_design_teased-news-75361.php": {
+   "at": "2026-11-05T12:45:28.942289+00:00",
+   "title": "Nothing is launching an AI-native product next month, design teased",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/nothing_is_launching_an_ainative_product_next_month_design_teased-news-75361.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "In September 2025, Nothing CEO Carl Pei revealed that the company planned to launch its first AI-native products in 2026.",
+   "title_ar": ""
   },
   "gsmarena.com/oneplus_turbo_6vs_debuts_quietly_with_same_specs_as_turbo_6v-news-75306.php": {
    "at": "2026-11-02T10:30:41.703676+00:00",
@@ -8718,7 +8740,7 @@
   "AI": "2026-11-05T12:30:45.143879+00:00",
   "Anime": "2026-11-05T11:00:46.187741+00:00",
   "Games": "2026-11-05T12:30:45.143879+00:00",
-  "Tech": "2026-11-05T12:15:30.265605+00:00"
+  "Tech": "2026-11-05T12:45:28.942289+00:00"
  },
  "digest_day": "2026-11-04",
  "weekly_day": ""
