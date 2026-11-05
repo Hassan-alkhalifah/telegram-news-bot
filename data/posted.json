@@ -1904,6 +1904,17 @@
    "summary": "Campaign to raise €7,000 launches on November 19",
    "title_ar": "Yayū Murata يطلق حملة Kickstarter للمجلد الثاني من مانغا Across the Strange Edge، وبنسخة مجلدة فاخرة ذات غلاف صلب"
   },
+  "animenewsnetwork.com/news/2026-11-05/crunchyhroll-to-stream-dragon-ball-super-beerus-anime-english-dub-on-november-12/.243565": {
+   "at": "2026-11-05T18:00:47.629020+00:00",
+   "title": "Crunchyhroll to Stream Dragon Ball Super: Beerus Anime's English Dub on November 12",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-05/crunchyhroll-to-stream-dragon-ball-super-beerus-anime-english-dub-on-november-12/.243565",
+   "score": 0,
+   "sources": 1,
+   "summary": "English trailer previews returning dub cast",
+   "title_ar": ""
+  },
   "animenewsnetwork.com/news/2026-11-05/fool-night-anime-trailer-reveals-theme-songs-additional-cast/.243524": {
    "at": "2026-11-05T11:00:46.187741+00:00",
    "title": "Fool Night Anime's Trailer Reveals Theme Songs, Additional Cast",
@@ -5677,6 +5688,17 @@
    "summary": "Dragon Ball Xenoverse 2, GoldenEye 007 and 12 other games will be removed from XBOX Game Pass in November 2026.",
    "title_ar": ""
   },
+  "insider-gaming.com/xbox-pc-app-update-faster": {
+   "at": "2026-11-05T18:00:47.629020+00:00",
+   "title": "XBOX PC App Update Makes It ‘60% Faster’",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/xbox-pc-app-update-faster/",
+   "score": 0,
+   "sources": 1,
+   "summary": "A new update has arrived for the XBOX PC App which makes the application 60% faster.",
+   "title_ar": ""
+  },
   "insider-gaming.com/zach-creggers-resident-evil-crosses-400m-worldwide": {
    "at": "2026-11-02T05:15:29.856973+00:00",
    "title": "Zach Cregger’s Resident Evil Crosses $400M Worldwide",
@@ -7855,6 +7877,17 @@
    "summary": "Amazon has made Uber Eats as its official restaurant delivery partner for Prime members in the United States.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool": {
+   "at": "2026-11-05T18:00:47.629020+00:00",
+   "title": "Claude can now analyze your spending with its new Personal Finance tool",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+   "score": 0,
+   "sources": 1,
+   "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+   "title_ar": ""
+  },
   "techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud": {
    "at": "2026-11-05T15:30:43.251885+00:00",
    "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
@@ -8294,6 +8327,17 @@
    "sources": 2,
    "summary": "After partnering with Moises earlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs.",
    "title_ar": "يمكنك نشر الموسيقى المنشأة بالذكاء الاصطناعي مباشرة على SoundCloud من ElevenLabs"
+  },
+  "theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance": {
+   "at": "2026-11-05T18:00:47.629020+00:00",
+   "title": "Claude AI can plug directly into your bank account",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+   "score": 3,
+   "sources": 2,
+   "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank…",
+   "title_ar": "ذكاء Claude الاصطناعي يمكنه الاتصال مباشرة بحسابك المصرفي"
   },
   "theverge.com/entertainment/1026282/grimes-ai-movie": {
    "at": "2026-11-05T17:15:31.951208+00:00",
@@ -9617,11 +9661,11 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-05T17:15:31.951208+00:00",
+  "AI": "2026-11-05T18:00:47.629020+00:00",
   "Anime": "2026-11-05T17:45:32.503326+00:00",
   "Games": "2026-11-05T16:30:41.806402+00:00",
   "Tech": "2026-11-05T17:30:42.806592+00:00"
  },
- "digest_day": "2026-11-04",
+ "digest_day": "2026-11-05",
  "weekly_day": ""
 }
