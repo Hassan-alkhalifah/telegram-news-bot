@@ -375,6 +375,17 @@
    "summary": "Motorola is officially back in the flagship space, with its new Signature 27 phone available for pre-order starting today, but it’ll cost a pretty penny. more…",
    "title_ar": ""
   },
+  "9to5google.com/2026/11/05/phone-by-google-246-new-icon": {
+   "at": "2026-11-05T19:05:28.496552+00:00",
+   "title": "Phone by Google 246 beta brings gradient icon redesign on Android",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/05/phone-by-google-246-new-icon/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Following the Messages update earlier this week , Phone by Google has received its redesigned gradient icon in the beta channel. more…",
+   "title_ar": "تطبيق Phone by Google في نسخته التجريبية 246 يجلب تصميماً جديداً للأيقونات المتدرجة على نظام Android"
+  },
   "9to5google.com/2026/11/05/the-android-17-coloros-17-update-november-2026-device-list": {
    "at": "2026-11-05T17:30:42.806592+00:00",
    "title": "The Android 17 ColorOS 17 update is coming to 6 more OnePlus devices this month",
@@ -1090,6 +1101,28 @@
    "summary": "Having the right context is what makes AI tools useful.",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/05/apple-releases-first-ios-27-3-public-beta-with-redesigned-health-app-and-more": {
+   "at": "2026-11-05T19:05:28.496552+00:00",
+   "title": "Apple releases first iOS 27.3 public beta with redesigned Health app and more",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/05/apple-releases-first-ios-27-3-public-beta-with-redesigned-health-app-and-more/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Apple has released the first iOS 27.3 public beta for iPhone.",
+   "title_ar": ""
+  },
+  "9to5mac.com/2026/11/05/apple-releases-ipados-27-3-public-beta-and-more-heres-whats-new": {
+   "at": "2026-11-05T19:05:28.496552+00:00",
+   "title": "Apple releases iPadOS 27.3 public beta and more, here’s what’s new",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/05/apple-releases-ipados-27-3-public-beta-and-more-heres-whats-new/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Public beta testers, Apple is now rolling out the first public betas for iPadOS 27.3, tvOS 27.3, and more.",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/05/apple-tv-unveils-return-of-hit-comedy-from-ted-lasso-shrinking-creator": {
    "at": "2026-11-05T18:30:39.633520+00:00",
    "title": "Apple TV unveils return of hit comedy from Ted Lasso, Shrinking creator",
@@ -1121,6 +1154,17 @@
    "score": 0,
    "sources": 1,
    "summary": "iOS 27.3 is coming next month and is packed with new features, including some that make Apple One Premier more compelling than ever. more…",
+   "title_ar": ""
+  },
+  "9to5mac.com/2026/11/05/macos-27-3-golden-gate-public-beta-1-now-available-heres-everything-new": {
+   "at": "2026-11-05T19:05:28.496552+00:00",
+   "title": "macOS 27.3 Golden Gate public beta 1 now available, here’s everything new",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/05/macos-27-3-golden-gate-public-beta-1-now-available-heres-everything-new/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Following the release of macOS 27.3 developer beta 1 , Apple is now rolling out the first test build for users enrolled in the public beta.",
    "title_ar": ""
   },
   "9to5mac.com/2026/11/05/nintendo-switch-games-running-natively-on-apple-tv-using-claude-code-port": {
@@ -9807,7 +9851,7 @@
   "AI": "2026-11-05T18:45:31.351822+00:00",
   "Anime": "2026-11-05T19:00:46.804487+00:00",
   "Games": "2026-11-05T18:15:31.101764+00:00",
-  "Tech": "2026-11-05T18:30:39.633520+00:00"
+  "Tech": "2026-11-05T19:05:28.496552+00:00"
  },
  "digest_day": "2026-11-05",
  "weekly_day": ""
