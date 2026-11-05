@@ -2938,6 +2938,17 @@
    "summary": "Sony's Bend Studio, perhaps one of its lesser discussed development houses, has apparently been deep in development on its next title.",
    "title_ar": ""
   },
+  "eurogamer.net/sony-playstation-fy-2026-wolverine-sales": {
+   "at": "2026-11-05T10:45:30.891181+00:00",
+   "title": "PlayStation sees record high player numbers and increased revenue for Q2 2026, and a lot of that success is down to Marvel's Wolverine",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.eurogamer.net/sony-playstation-fy-2026-wolverine-sales",
+   "score": 2,
+   "sources": 1,
+   "summary": "As part of today's (Thursday 5th November, 2026) financial results, Sony has confirmed that monthly active users, referred to as MAU, across both PlayStation 4 and 5, reached 127 million in September.",
+   "title_ar": "بلايستيشن تسجل رقماً قياسياً في أعداد اللاعبين وزيادة في الإيرادات للربع الثاني من عام 2026، والكثير من هذا النجاح يعود إلى لعبة Marvel's Wolverine"
+  },
   "eurogamer.net/steam-games-approvals-delayed-valve-response": {
    "at": "2026-11-05T09:30:35.604484+00:00",
    "title": "Valve explains why it's running behind on Steam game approvals, asks developers to perform basic release checks to prevent re-reviews",
@@ -8295,6 +8306,17 @@
    "summary": "A simple decision to let players jump whenever they wanted has big implications for Zelda: Ocarina of Time remake",
    "title_ar": ""
   },
+  "videogameschronicle.com/news/nintendo-switch-2-sales-have-dropped-37-but-its-still-comfortably-beating-the-original-console": {
+   "at": "2026-11-05T10:45:30.891181+00:00",
+   "title": "Nintendo Switch 2 sales have dropped 37%, but it’s still comfortably beating the original console",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.videogameschronicle.com/news/nintendo-switch-2-sales-have-dropped-37-but-its-still-comfortably-beating-the-original-console/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nintendo Switch 2 has sold 26.35 million consoles as sales continue to slow",
+   "title_ar": ""
+  },
   "videogameschronicle.com/news/pokemon-pokopias-second-expansion-announced-for-december": {
    "at": "2026-11-04T15:30:43.804235+00:00",
    "title": "Pokémon Pokopia’s second expansion announced for December",
@@ -8409,7 +8431,7 @@
  "topic_last_posted": {
   "AI": "2026-11-04T23:15:29.604400+00:00",
   "Anime": "2026-11-05T09:30:35.604484+00:00",
-  "Games": "2026-11-05T10:30:37.364125+00:00",
+  "Games": "2026-11-05T10:45:30.891181+00:00",
   "Tech": "2026-11-05T09:30:35.604484+00:00"
  },
  "digest_day": "2026-11-04",
