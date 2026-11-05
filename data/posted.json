@@ -8064,6 +8064,17 @@
    "summary": "The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder": {
+   "at": "2026-11-05T19:15:30.189106+00:00",
+   "title": "Meta’s warns that election backlash against data centers could make AI expansion harder",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+   "title_ar": ""
+  },
   "techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027": {
    "at": "2026-11-05T18:45:31.351822+00:00",
    "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
@@ -8206,6 +8217,17 @@
    "sources": 1,
    "summary": "A Google-led research team built StreamVibe, a video agent designed to watch people cook or assemble furniture and speak up only when help is needed.",
    "title_ar": "Google تريد من الذكاء الاصطناعي الخاص بالفيديو فهم ما يحتاجه الأشخاص أثناء عملهم"
+  },
+  "the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent": {
+   "at": "2026-11-05T19:15:30.189106+00:00",
+   "title": "Google's Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Google Deepmind is making Gemini Omni 1.2 Flash generally available.",
+   "title_ar": "Gemini Omni 1.2 Flash من Google يمدد مقاطع فيديو الذكاء الاصطناعي إلى 15 ثانية ويخفض الأسعار بنسبة 30 بالمئة"
   },
   "the-decoder.com/gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights": {
    "at": "2026-11-04T16:00:45.753677+00:00",
@@ -9848,7 +9870,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-05T18:45:31.351822+00:00",
+  "AI": "2026-11-05T19:15:30.189106+00:00",
   "Anime": "2026-11-05T19:00:46.804487+00:00",
   "Games": "2026-11-05T18:15:31.101764+00:00",
   "Tech": "2026-11-05T19:05:28.496552+00:00"
