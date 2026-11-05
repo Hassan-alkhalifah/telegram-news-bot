@@ -1915,6 +1915,17 @@
    "summary": "Tempalay, Nowlu perform theme songs for November 26 anime",
    "title_ar": ""
   },
+  "animenewsnetwork.com/news/2026-11-05/good-smile-company-partially-reopens-on-november-6-following-data-breach-of-online-store/.243561": {
+   "at": "2026-11-05T17:45:32.503326+00:00",
+   "title": "Good Smile Company Partially Reopens on November 6 Following Data Breach of Online Store",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-05/good-smile-company-partially-reopens-on-november-6-following-data-breach-of-online-store/.243561",
+   "score": 1,
+   "sources": 1,
+   "summary": "Store reopens for viewing product information only after company discovered breach on October 23",
+   "title_ar": "شركة Good Smile Company تعيد فتح أبوابها جزئياً في 6 نوفمبر إثر اختراق بيانات متجرها الإلكتروني"
+  },
   "animenewsnetwork.com/news/2026-11-05/mages-works-on-new-girls-und-panzer-console-game/.243557": {
    "at": "2026-11-05T14:00:48.343435+00:00",
    "title": "MAGES. Works on New Girls und Panzer Console Game",
@@ -5446,6 +5457,17 @@
    "summary": "Sales data for Nintendo Switch 2 hardware and software units has been revealed, with the former crossing 26 million.",
    "title_ar": ""
   },
+  "insider-gaming.com/ocarina-of-time-remake-voice-actors-announced": {
+   "at": "2026-11-05T17:45:32.503326+00:00",
+   "title": "Voice Actors for The Legend of Zelda: Ocarina of Time Remake Announced",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/ocarina-of-time-remake-voice-actors-announced/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The cast of The Legend of Zelda: Ocarina of Time remake features Familiar voices like Matthew Mercer and Erica Mendez, among others",
+   "title_ar": ""
+  },
   "insider-gaming.com/petit-planet-coming-december": {
    "at": "2026-11-01T19:00:40.981834+00:00",
    "title": "Petit Planet Brings Cozy ‘Galactic Life Sim’ Experience in December",
@@ -6698,6 +6720,17 @@
    "score": 0,
    "sources": 1,
    "summary": "A special broadcast timed in with Pikmin Day.",
+   "title_ar": ""
+  },
+  "nintendolife.com/news/2026/11/we-have-so-many-questions-about-this-stellar-blade-launch-trailer": {
+   "at": "2026-11-05T17:45:32.503326+00:00",
+   "title": "We Have So Many Questions About This Stellar Blade Launch Trailer",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/we-have-so-many-questions-about-this-stellar-blade-launch-trailer",
+   "score": 0,
+   "sources": 1,
+   "summary": "\"Take EVE everywhere\".",
    "title_ar": ""
   },
   "nintendolife.com/news/2026/11/xenoblade-chronicles-studio-monolith-soft-helped-out-with-the-zelda-ocarina-of-time-remake": {
@@ -9585,7 +9618,7 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-05T17:15:31.951208+00:00",
-  "Anime": "2026-11-05T17:00:51.314286+00:00",
+  "Anime": "2026-11-05T17:45:32.503326+00:00",
   "Games": "2026-11-05T16:30:41.806402+00:00",
   "Tech": "2026-11-05T17:30:42.806592+00:00"
  },
