@@ -3158,6 +3158,17 @@
    "summary": "The updated app, rolling out to Xbox Insiders first, launches up to 60 percent faster.",
    "title_ar": ""
   },
+  "engadget.com/2308419/tiktok-just-released-a-standalone-shop-app-but-its-not-in-america-just-yet": {
+   "at": "2026-11-05T20:15:30.329042+00:00",
+   "title": "TikTok just released a standalone Shop app, but it's not in America just yet",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2308419/tiktok-just-released-a-standalone-shop-app-but-its-not-in-america-just-yet/",
+   "score": 0,
+   "sources": 1,
+   "summary": "It offers exclusive deals and other goodies.",
+   "title_ar": ""
+  },
   "eurogamer.net/anthropic-claude-generative-ai-game-clones-update": {
    "at": "2026-11-02T19:15:29.735059+00:00",
    "title": "As the controversy around AI-created video game copies continues, Anthropic seemingly restricts Claude's cloning abilities",
@@ -3563,6 +3574,17 @@
    "score": 0,
    "sources": 1,
    "summary": "As the fate of Arkane Lyon hangs in the balance, a union representing workers from the French studio offered strong words toward Arkane's parent company, Microsoft.",
+   "title_ar": ""
+  },
+  "gamespot.com/articles/buy-games-on-prime-your-membership-now-gets-you-free-uber-eats-delivery-too": {
+   "at": "2026-11-05T20:15:30.329042+00:00",
+   "title": "Buy Games On Prime? Your Membership Now Gets You Free Uber Eats Delivery, Too",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/buy-games-on-prime-your-membership-now-gets-you-free-uber-eats-delivery-too/",
+   "score": 0,
+   "sources": 1,
+   "summary": "If you're among the millions of Amazon Prime subscribers--maybe you use the platform to buy games--you're getting a new perk in the form of free delivery with Uber Eats.",
    "title_ar": ""
   },
   "gamespot.com/articles/claude-code-just-got-a-new-rule-stop-copying-other-people-games": {
@@ -8141,6 +8163,17 @@
    "summary": "The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar": {
+   "at": "2026-11-05T20:15:30.329042+00:00",
+   "title": "Meta says US users can now video chat with their Muse AI avatar",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+   "title_ar": "ميتا تقول إن المستخدمين في الولايات المتحدة يمكنهم الآن إجراء مكالمات فيديو مع شخصية Muse AI الافتراضية الخاصة بهم"
+  },
   "techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder": {
    "at": "2026-11-05T19:15:30.189106+00:00",
    "title": "Meta’s warns that election backlash against data centers could make AI expansion harder",
@@ -9958,7 +9991,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-05T19:45:28.930730+00:00",
+  "AI": "2026-11-05T20:15:30.329042+00:00",
   "Anime": "2026-11-05T19:00:46.804487+00:00",
   "Games": "2026-11-05T18:15:31.101764+00:00",
   "Tech": "2026-11-05T20:00:45.432604+00:00"
