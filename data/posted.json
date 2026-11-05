@@ -6425,6 +6425,17 @@
    "summary": "\"One night only\" at the Nintendo Pop Up Shop.",
    "title_ar": ""
   },
+  "nintendolife.com/news/2026/11/zelda-ocarina-of-times-director-was-chosen-for-his-ability-to-solve-problems-very-aggressively": {
+   "at": "2026-11-05T14:45:32.295150+00:00",
+   "title": "Zelda: Ocarina Of Time's Director Was Chosen For His Ability To \"Solve Problems Very Aggressively\"",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-times-director-was-chosen-for-his-ability-to-solve-problems-very-aggressively",
+   "score": 0,
+   "sources": 1,
+   "summary": "\"This has been a really good experience\".",
+   "title_ar": ""
+  },
   "pcgamer.com/games/action/control-resonant-is-remedys-fastest-selling-game-to-date-tripling-the-studios-quarterly-revenue": {
    "at": "2026-11-03T22:00:41.602826+00:00",
    "title": "Control Resonant is Remedy's fastest-selling game to date, tripling the studio's quarterly revenue",
@@ -7436,6 +7447,17 @@
    "sources": 1,
    "summary": "The change will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
    "title_ar": "Waymo تؤكد أنها ستغير علاقتها مع Uber في يناير 2028"
+  },
+  "techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents": {
+   "at": "2026-11-05T14:45:32.295150+00:00",
+   "title": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+   "score": 2,
+   "sources": 2,
+   "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+   "title_ar": ""
   },
   "techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime": {
    "at": "2026-11-05T11:00:46.187741+00:00",
@@ -8911,6 +8933,17 @@
    "summary": "A simple decision to let players jump whenever they wanted has big implications for Zelda: Ocarina of Time remake",
    "title_ar": ""
   },
+  "videogameschronicle.com/news/nintendo-says-it-is-not-considering-a-switch-2-price-hike": {
+   "at": "2026-11-05T14:45:32.295150+00:00",
+   "title": "Nintendo says it is not considering a Switch 2 price hike",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.videogameschronicle.com/news/nintendo-says-it-is-not-considering-a-switch-2-price-hike/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nintendo says it has enough memory and doesn't need to up the Switch 2's price",
+   "title_ar": ""
+  },
   "videogameschronicle.com/news/nintendo-switch-2-sales-have-dropped-37-but-its-still-comfortably-beating-the-original-console": {
    "at": "2026-11-05T10:45:30.891181+00:00",
    "title": "Nintendo Switch 2 sales have dropped 37%, but it’s still comfortably beating the original console",
@@ -9010,6 +9043,17 @@
    "summary": "Aonuma says he's surprised at how few changes they made, despite being free to make more",
    "title_ar": "منتج سلسلة Zelda السيد Aonuma أراد إعادة صنع لعبة Ocarina of Time \"لتحفيز رؤى جديدة\" لدى المطورين الشباب في الفريق"
   },
+  "wired.com/story/aina-smart-ring": {
+   "at": "2026-11-05T14:45:32.295150+00:00",
+   "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://www.wired.com/story/aina-smart-ring/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants.",
+   "title_ar": ""
+  },
   "wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out": {
    "at": "2026-11-04T20:15:26.466159+00:00",
    "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
@@ -9034,7 +9078,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-05T14:15:31.311921+00:00",
+  "AI": "2026-11-05T14:45:32.295150+00:00",
   "Anime": "2026-11-05T11:00:46.187741+00:00",
   "Games": "2026-11-05T14:00:48.343435+00:00",
   "Tech": "2026-11-05T14:30:41.670815+00:00"
