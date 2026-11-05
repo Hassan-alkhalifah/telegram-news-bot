@@ -3180,6 +3180,17 @@
    "summary": "It offers exclusive deals and other goodies.",
    "title_ar": ""
   },
+  "engadget.com/2308483/a-bioware-documentary-is-set-to-arrive-next-year": {
+   "at": "2026-11-05T20:45:31.270612+00:00",
+   "title": "A BioWare documentary is set to arrive next year",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2308483/a-bioware-documentary-is-set-to-arrive-next-year/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Massive Effect: The BioWare Story started filming two years before EA shut down the studio.",
+   "title_ar": ""
+  },
   "eurogamer.net/anthropic-claude-generative-ai-game-clones-update": {
    "at": "2026-11-02T19:15:29.735059+00:00",
    "title": "As the controversy around AI-created video game copies continues, Anthropic seemingly restricts Claude's cloning abilities",
@@ -7349,6 +7360,17 @@
    "summary": "Itch.io has also expanded its AI filters, enabling users to exclude games made with different types of generative AI.",
    "title_ar": ""
   },
+  "pcgamer.com/software/ai/sam-altman-is-annoyed-his-dram-comment-was-taken-out-of-context": {
+   "at": "2026-11-05T20:45:31.270612+00:00",
+   "title": "Sam Altman is annoyed his DRAM comment was 'taken out of context'",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/software/ai/sam-altman-is-annoyed-his-dram-comment-was-taken-out-of-context/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Him being annoyed has not made DRAM cheaper, however.",
+   "title_ar": ""
+  },
   "pcgamer.com/software/security/dodgy-download-and-spoofed-job-ad-led-to-usd6-3-billion-binance-hack-attacker-offered-fake-software-and-fake-job-to-infiltrate-company-wallets-and-steal-billions": {
    "at": "2026-11-04T12:00:41.974476+00:00",
    "title": "Dodgy download and spoofed job ad led to $6.3 billion Binance hack: attacker offered fake software and fake job to infiltrate company wallets and steal billions",
@@ -8470,6 +8492,17 @@
    "sources": 1,
    "summary": "OpenAI's hardware team used GPT-6 Astra to design a device for the Codex coding agent in under a week, handling everything from the enclosure to the circuit board to the firmware.",
    "title_ar": "OpenAI تؤكد أن GPT-6 Astra صمم جهازاً عتادياً من الصفر في أقل من أسبوع"
+  },
+  "the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them": {
+   "at": "2026-11-05T20:45:31.270612+00:00",
+   "title": "OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/",
+   "score": 1,
+   "sources": 1,
+   "summary": "With GPT-6 Cyber, OpenAI is introducing an AI model built to find security vulnerabilities in software, develop exploits, and suggest patches.",
+   "title_ar": "GPT-6 Cyber من OpenAI قادرة علىاختراق الأنظمة واقتراح طرق إصلاحها"
   },
   "the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing": {
    "at": "2026-11-01T15:19:41.333043+00:00",
@@ -10002,7 +10035,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-05T20:15:30.329042+00:00",
+  "AI": "2026-11-05T20:45:31.270612+00:00",
   "Anime": "2026-11-05T19:00:46.804487+00:00",
   "Games": "2026-11-05T18:15:31.101764+00:00",
   "Tech": "2026-11-05T20:30:38.644512+00:00"
