@@ -452,6 +452,17 @@
    "summary": "A new Discord client built in Rust is looking pretty shiny and clean, even on low-end Android phones. more…",
    "title_ar": "تطبيق Discord على وشك أن يصبح أسرع بكثير على هواتف أندرويد"
   },
+  "9to5google.com/2026/11/06/galaxy-smarttag-3-available-from-samsung": {
+   "at": "2026-11-06T21:45:29.793891+00:00",
+   "title": "Galaxy SmartTag 3 hits Samsung online store as single tracker or four-pack",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/06/galaxy-smarttag-3-available-from-samsung/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Samsung’s latest generation of item trackers for Galaxy devices is available online in two colors, starting at $29 . more…",
+   "title_ar": "جهاز Galaxy SmartTag 3 يصل إلى متجر سامسونج الإلكتروني كجهاز تعقب فردي أو في حزمة من أربعة أجهزة"
+  },
   "9to5google.com/2026/11/06/garmin-fenix-e-garmin-venu-3s-garmin-deal": {
    "at": "2026-11-06T17:00:48.163456+00:00",
    "title": "Two more Garmin smartwatches are down to record-low prices",
@@ -10044,6 +10055,17 @@
    "summary": "Elon Musk said the company will use the factory space to make more Cybercabs.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple": {
+   "at": "2026-11-06T21:45:29.793891+00:00",
+   "title": "The Duo apps are coming, says Apple",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+   "score": 0,
+   "sources": 1,
+   "summary": "There are now 100K Duo-optimized apps, says Apple, and thousands more arrive daily.",
+   "title_ar": ""
+  },
   "the-decoder.com/after-midterm-rout-openai-tries-to-win-over-communities-it-needs-for-ai-expansion": {
    "at": "2026-11-05T16:30:41.806402+00:00",
    "title": "After midterm rout, OpenAI tries to win over communities it needs for AI expansion",
@@ -12205,7 +12227,7 @@
   "AI": "2026-11-06T18:30:40.801085+00:00",
   "Anime": "2026-11-06T21:30:40.876239+00:00",
   "Games": "2026-11-06T19:00:49.997125+00:00",
-  "Tech": "2026-11-06T21:15:34.658606+00:00"
+  "Tech": "2026-11-06T21:45:29.793891+00:00"
  },
  "digest_day": "2026-11-06",
  "weekly_day": "2026-11-06"
