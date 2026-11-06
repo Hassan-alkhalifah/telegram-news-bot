@@ -4082,6 +4082,17 @@
    "summary": "Nagoshi Studio has officially shut down and its first game called Gang of Dragon is seemingly no more, months after publisher NetEase pulled funding from the Yakuza-like project.",
    "title_ar": ""
   },
+  "gamespot.com/articles/after-ea-saudi-arabia-is-reportedly-setting-its-sights-on-one-of-gamings-biggest-engines": {
+   "at": "2026-11-06T13:45:29.016263+00:00",
+   "title": "After EA, Saudi Arabia Is Reportedly Setting Its Sights On One Of Gaming’s Biggest Engines",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/after-ea-saudi-arabia-is-reportedly-setting-its-sights-on-one-of-gamings-biggest-engines/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Unity Software is reportedly being eyed as the next acquisition by Saudi Arabia's Public Investment Fund and a consortium of investors, including US private equity firm Silver Lake Partners.",
+   "title_ar": ""
+  },
   "gamespot.com/articles/arkane-union-accuses-microsoft-of-sabotaging-development-of-marvels-blade": {
    "at": "2026-11-05T16:30:41.806402+00:00",
    "title": "Arkane Union Accuses Microsoft Of “Sabotaging” Development Of Marvel’s Blade",
@@ -6973,6 +6984,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Bethesda's next RPG might be years away, but fans are already theorizing about when it takes place and how it might involve time travel",
+   "title_ar": ""
+  },
+  "kotaku.com/mandatory-nier-automata-update-accidentally-requires-366gb-i-just-need-to-delete-90-percent-of-my-computer-to-install-this-2000754623": {
+   "at": "2026-11-06T13:45:29.016263+00:00",
+   "title": "Mandatory Nier: Automata Update Accidentally Requires 366GB: ‘I Just Need To Delete 90 Percent Of My Computer To Install This’",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/mandatory-nier-automata-update-accidentally-requires-366gb-i-just-need-to-delete-90-percent-of-my-computer-to-install-this-2000754623",
+   "score": 0,
+   "sources": 1,
+   "summary": "Square Enix is investigating the problem",
    "title_ar": ""
   },
   "kotaku.com/mario-dressed-speedrunner-breaks-world-super-mario-bros-record-on-halloween-stream-can-i-please-break-character-2000752087": {
@@ -10473,6 +10495,17 @@
    "summary": "An open-source UEFI tool, nv-uefi-unlocker, lifts Nvidia’s tensor rate cap on RTX 20, 30, and 40-series GPUs under Windows.",
    "title_ar": "أداة USB مفتوحة المصدر تكسر قيود الذكاء الاصطناعي لبطاقات Nvidia الرسومية ذات السرعة النصفية على نظام Windows"
   },
+  "tomshardware.com/pc-components/gpus/six-pallets-of-nvidia-gpus-worth-usd11-4-million-stolen-in-california-cargo-heist-authorities-investigate-after-truck-posing-as-a-food-transport-company-disappears": {
+   "at": "2026-11-06T13:45:29.016263+00:00",
+   "title": "Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/pc-components/gpus/six-pallets-of-nvidia-gpus-worth-usd11-4-million-stolen-in-california-cargo-heist-authorities-investigate-after-truck-posing-as-a-food-transport-company-disappears",
+   "score": 1,
+   "sources": 1,
+   "summary": "The latest incident comes amid growing concerns over GPU theft, with experts warning that advanced Nvidia chips can command significantly higher prices abroad and could end up in black-market…",
+   "title_ar": "سرقة 6 منصات نقالة من وحدات معالجة الرسومات Nvidia بقيمة 11.4 مليون دولار في عملية سطو على شحنة في كاليفورنيا"
+  },
   "tomshardware.com/pc-components/microsd-cards/triple-your-nintendo-switch-2s-storage-for-just-usd99-save-usd50-on-this-ultra-fast-512gb-samsung-p9-microsd-card-for-a-limited-time-only": {
    "at": "2026-11-02T23:45:42.407749+00:00",
    "title": "Triple your Nintendo Switch 2's storage for just $99",
@@ -11336,7 +11369,7 @@
   "AI": "2026-11-06T13:15:28.055106+00:00",
   "Anime": "2026-11-06T13:30:36.938603+00:00",
   "Games": "2026-11-06T12:30:40.145912+00:00",
-  "Tech": "2026-11-06T13:00:44.301191+00:00"
+  "Tech": "2026-11-06T13:45:29.016263+00:00"
  },
  "digest_day": "2026-11-05",
  "weekly_day": ""
