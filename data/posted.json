@@ -4852,6 +4852,17 @@
    "summary": "WhatsApp has announced new features.",
    "title_ar": ""
   },
+  "gsmarena.com/whatsapp_is_bringing_iosstyle_chat_previews_to_android-news-75371.php": {
+   "at": "2026-11-06T00:15:28.858447+00:00",
+   "title": "WhatsApp is bringing iOS-style chat previews to Android",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.gsmarena.com/whatsapp_is_bringing_iosstyle_chat_previews_to_android-news-75371.php",
+   "score": 1,
+   "sources": 1,
+   "summary": "WhatsApp has long let you turn read receipts off entirely, but if you keep them on, there's no easy way on Android to see what someone sent you without them knowing you've read it.",
+   "title_ar": "WhatsApp يضيف معاينات المحادثات على غرار نظام iOS إلى أجهزة Android"
+  },
   "gsmarena.com/whatsapp_starts_suggesting_your_latest_photos_and_videos_right_in_your_chats-news-75335.php": {
    "at": "2026-11-04T06:15:28.571362+00:00",
    "title": "WhatsApp starts suggesting your latest photos and videos right in your chats",
@@ -8768,6 +8779,17 @@
    "summary": "CloudOpsBench is a new open-source benchmark that measures how well AI agents handle typical DevOps tasks in the cloud, from fixing services and removing resources to restricting access rights…",
    "title_ar": "مؤشر قياس جديد مفتوح المصدر يوضح أن الاستدلال هو العائق الأكبر أمام الذكاء الاصطناعي في العمليات السحابية"
   },
+  "the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark": {
+   "at": "2026-11-06T00:15:28.858447+00:00",
+   "title": "No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/",
+   "score": 0,
+   "sources": 1,
+   "summary": "SemiAnalysis is putting AI agents through simulated knowledge work in its new GDPx benchmark, covering everything from chip design to quant trading.",
+   "title_ar": ""
+  },
   "the-decoder.com/nvidia-pushes-cloud-customers-to-cut-back-on-china-business": {
    "at": "2026-11-03T12:30:39.683094+00:00",
    "title": "Nvidia pushes cloud customers to cut back on China business",
@@ -10478,7 +10500,7 @@
   "AI": "2026-11-06T00:11:52.992372+00:00",
   "Anime": "2026-11-05T19:00:46.804487+00:00",
   "Games": "2026-11-05T23:00:45.952140+00:00",
-  "Tech": "2026-11-06T00:00:47.468108+00:00"
+  "Tech": "2026-11-06T00:15:28.858447+00:00"
  },
  "digest_day": "2026-11-05",
  "weekly_day": ""
