@@ -6722,6 +6722,17 @@
    "summary": "The show takes place after CD Projekt Red’s RPG, but its showrunner says it’s not invalidating player decisions",
    "title_ar": ""
   },
+  "kotaku.com/deus-ex-warren-spector-ea-bioware-csuite-dragon-age-mass-effect-2000754612": {
+   "at": "2026-11-06T13:00:44.301191+00:00",
+   "title": "Deus Ex Creator Warren Spector Tears BioWare-Closing EA Executives A New One",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/deus-ex-warren-spector-ea-bioware-csuite-dragon-age-mass-effect-2000754612",
+   "score": 0,
+   "sources": 1,
+   "summary": "In a furious new screed, Spector lets rip at the c-suites who never take responsibility for failure",
+   "title_ar": ""
+  },
   "kotaku.com/devs-are-being-forced-to-delay-their-games-on-steam-and-they-think-its-because-of-the-ai-slop-flood-2000752839": {
    "at": "2026-11-03T23:15:36.216929+00:00",
    "title": "Devs Are Blaming A Flood Of AI Slop On Steam For Delaying Their Games",
@@ -10693,6 +10704,17 @@
    "summary": "Nvidia has told cloud providers who use its data center products that they must sell less than half of their services to Chinese companies as part of a new policy that will further impact China's…",
    "title_ar": ""
   },
+  "tomshardware.com/tech-industry/data-centers/nvidia-wants-to-repurpose-over-130-old-telco-buildings-as-tiny-data-centers-report-claims-company-in-talks-with-brightspeed-after-pitching-idea-to-parent-company-apollo-global-management": {
+   "at": "2026-11-06T13:00:44.301191+00:00",
+   "title": "Nvidia wants to repurpose over 130 old telco buildings as tiny data centers, report claims",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-wants-to-repurpose-over-130-old-telco-buildings-as-tiny-data-centers-report-claims-company-in-talks-with-brightspeed-after-pitching-idea-to-parent-company-apollo-global-management",
+   "score": 1,
+   "sources": 1,
+   "summary": "Brightspeed has over 130 facilities located across the U.S., with Nvidia estimating that they could produce up to 1GW of compute capacity.",
+   "title_ar": "تقرير يوكد أن Nvidia ترغب في إعادة استخدام أكثر من 130 مبنى قديم لشركات الاتصالات لتكون مراكز بيانات صغيرة"
+  },
   "tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue": {
    "at": "2026-11-02T19:30:39.655199+00:00",
    "title": "OpenAI considers rebranding data centers to 'AI compute campuses\" as data center backlash intensifies — company reportedly sees 2028 presidential election becoming an 'AI issue'",
@@ -11210,6 +11232,17 @@
    "summary": "A new report suggests that Arkane Lyon could go indie, or be bought by Ubisoft",
    "title_ar": ""
   },
+  "videogameschronicle.com/news/xbox-is-updating-its-pc-app-promising-60-faster-boot-times-and-an-easier-to-use-game-library": {
+   "at": "2026-11-06T13:00:44.301191+00:00",
+   "title": "Xbox is updating its PC app, promising 60% faster boot times and an easier to use game library",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.videogameschronicle.com/news/xbox-is-updating-its-pc-app-promising-60-faster-boot-times-and-an-easier-to-use-game-library/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Xbox Insiders can try the updated app now before it rolls out to everyone",
+   "title_ar": ""
+  },
   "videogameschronicle.com/news/xboxs-first-wave-of-november-game-pass-releases-includes-vampire-crawlers": {
    "at": "2026-11-03T21:00:42.717530+00:00",
    "title": "Xbox’s first wave of November Game Pass releases includes Vampire Crawlers",
@@ -11270,7 +11303,7 @@
   "AI": "2026-11-06T12:45:31.311446+00:00",
   "Anime": "2026-11-06T04:15:29.971399+00:00",
   "Games": "2026-11-06T12:30:40.145912+00:00",
-  "Tech": "2026-11-06T12:15:30.890822+00:00"
+  "Tech": "2026-11-06T13:00:44.301191+00:00"
  },
  "digest_day": "2026-11-05",
  "weekly_day": ""
