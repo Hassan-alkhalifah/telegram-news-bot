@@ -1409,6 +1409,17 @@
    "summary": "iOS 27.2 arrived last week, and among its changes for Apple Photos , the update adds an invisible watermarking feature when you use certain editing tools.",
    "title_ar": "تحديث iOS 27.2 يضيف ميزة العلامة المائية غير المرئية في تطبيق Apple Photos، وإليك كيف تعمل"
   },
+  "9to5mac.com/2026/11/06/ios-27-2-adds-three-new-ways-to-customize-your-iphone": {
+   "at": "2026-11-06T19:00:49.997125+00:00",
+   "title": "iOS 27.2 adds three new ways to customize your iPhone",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/06/ios-27-2-adds-three-new-ways-to-customize-your-iphone/",
+   "score": 0,
+   "sources": 1,
+   "summary": "iOS 27.2 launched last week with a lot of new features, and also several ways you can customize your iPhone.",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/06/next-years-iphone-pro-redesign-will-drop-an-important-button-per-leak": {
    "at": "2026-11-06T16:30:39.001163+00:00",
    "title": "Next year’s iPhone Pro redesign will drop an important button, per leak",
@@ -6194,6 +6205,17 @@
    "summary": "Sony and Lionsgate have teamed up for the live-action Naruto movie, which is targeting a spring 2027 start date.",
    "title_ar": ""
   },
+  "ign.com/articles/sony-announces-new-ps-plus-perks-fans-hate-them": {
+   "at": "2026-11-06T19:00:49.997125+00:00",
+   "title": "Sony Announces New PS Plus 'Perks' for YouTube and Other Services, but Fans Say They're 'Not Real Perks'",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.ign.com/articles/sony-announces-new-ps-plus-perks-fans-hate-them",
+   "score": 4,
+   "sources": 2,
+   "summary": "Sony has announced a range of new “perks” for PS Plus, including a three-month trial to YouTube Premium, as well as trials and discounts for other services.",
+   "title_ar": "سوني تعلن عن ميزات جديدة في PS Plus لخدمة YouTube وغيره، لكن المعجبين يقولون إنها ليست ميزات حقيقية"
+  },
   "ign.com/articles/sony-announces-official-marvels-wolverine-sales-figure-for-the-first-time-raises-playstation-sales-forecast-with-gta-6-imminent": {
    "at": "2026-11-05T12:30:45.143879+00:00",
    "title": "Sony Announces Official Marvel's Wolverine Sales Figure for the First Time, Raises PlayStation Sales Forecast With GTA 6 Imminent",
@@ -8921,6 +8943,17 @@
    "sources": 1,
    "summary": "Game Informer to share new details.",
    "title_ar": "الكشف عن تطور Lara Croft من PS1 إلى PS5 في قصة الغلاف لـ Tomb Raider"
+  },
+  "pushsquare.com/news/2026/11/new-ps-plus-perks-revealed-includes-discounts-and-free-trials": {
+   "at": "2026-11-06T19:00:49.997125+00:00",
+   "title": "New PS Plus Perks Revealed, Includes Discounts and Free Trials",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pushsquare.com/news/2026/11/new-ps-plus-perks-revealed-includes-discounts-and-free-trials",
+   "score": 0,
+   "sources": 1,
+   "summary": "Available in the UK, France, and Germany.",
+   "title_ar": ""
   },
   "pushsquare.com/news/2026/11/new-ps5-firmware-update-available-now-as-sony-cracks-down-on-jailbreaks": {
    "at": "2026-11-02T10:06:23.400760+00:00",
@@ -11951,7 +11984,7 @@
  "topic_last_posted": {
   "AI": "2026-11-06T18:30:40.801085+00:00",
   "Anime": "2026-11-06T13:30:36.938603+00:00",
-  "Games": "2026-11-06T18:15:31.150483+00:00",
+  "Games": "2026-11-06T19:00:49.997125+00:00",
   "Tech": "2026-11-06T18:45:28.515662+00:00"
  },
  "digest_day": "2026-11-06",
