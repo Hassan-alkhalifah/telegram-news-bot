@@ -3598,6 +3598,17 @@
    "summary": "Perplexity launches personal AI agents that can act as your 'teammates.'",
    "title_ar": ""
   },
+  "engadget.com/2308903/googles-find-hub-can-finally-notify-you-if-youve-left-a-tracker-behind": {
+   "at": "2026-11-06T13:15:28.055106+00:00",
+   "title": "Google's Find Hub can finally notify you if you've left a tracker behind",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2308903/googles-find-hub-can-finally-notify-you-if-youve-left-a-tracker-behind/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Google has rolled out 'Notify when left behind' separation alerts for your tracking devices.",
+   "title_ar": ""
+  },
   "eurogamer.net/anthropic-claude-generative-ai-game-clones-update": {
    "at": "2026-11-02T19:15:29.735059+00:00",
    "title": "As the controversy around AI-created video game copies continues, Anthropic seemingly restricts Claude's cloning abilities",
@@ -9285,6 +9296,17 @@
    "summary": "The app will offer personalized product recommendations, shopping through live streams and short-form videos, app-exclusive deals, in-app checkout, order tracking and customer support.",
    "title_ar": "TikTok تطلق بهدوء تطبيق TikTok Shop مستقل"
   },
+  "techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots": {
+   "at": "2026-11-06T13:15:28.055106+00:00",
+   "title": "Physicl raises $10M to make the digital world real enough for robots",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+   "title_ar": "شركة Physicl تجمع 10 ملايين دولار لجعل العالم الرقمي واقعياً بما يكفي للروبوتات"
+  },
   "the-decoder.com/after-midterm-rout-openai-tries-to-win-over-communities-it-needs-for-ai-expansion": {
    "at": "2026-11-05T16:30:41.806402+00:00",
    "title": "After midterm rout, OpenAI tries to win over communities it needs for AI expansion",
@@ -11300,7 +11322,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-06T12:45:31.311446+00:00",
+  "AI": "2026-11-06T13:15:28.055106+00:00",
   "Anime": "2026-11-06T04:15:29.971399+00:00",
   "Games": "2026-11-06T12:30:40.145912+00:00",
   "Tech": "2026-11-06T13:00:44.301191+00:00"
