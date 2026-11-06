@@ -7800,6 +7800,17 @@
    "summary": "What does version 26.07-14.22.00 do?",
    "title_ar": ""
   },
+  "pushsquare.com/news/2026/11/petition-to-save-mass-effect-dev-bioware-to-be-considered-by-canadas-government": {
+   "at": "2026-11-06T00:11:52.992372+00:00",
+   "title": "Petition to Save Mass Effect Dev BioWare to Be Considered by Canada's Government",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pushsquare.com/news/2026/11/petition-to-save-mass-effect-dev-bioware-to-be-considered-by-canadas-government",
+   "score": 0,
+   "sources": 1,
+   "summary": "Paragon action.",
+   "title_ar": ""
+  },
   "pushsquare.com/news/2026/11/phantom-blade-zero-is-an-instant-hit-with-4-million-sales-on-ps5-pc": {
    "at": "2026-11-02T10:45:28.923457+00:00",
    "title": "Phantom Blade Zero Is an Instant Hit with 4 Million Sales on PS5, PC",
@@ -8471,6 +8482,17 @@
    "summary": "Amazon has made Uber Eats as its official restaurant delivery partner for Prime members in the United States.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system": {
+   "at": "2026-11-06T00:11:52.992372+00:00",
+   "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+   "score": 1,
+   "sources": 1,
+   "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+   "title_ar": "Box تستخدم نموذج Nemotron من Nvidia لنظام جديد لاسترجاع المحتوى مخصص للوكلاء الذكية"
+  },
   "techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool": {
    "at": "2026-11-05T18:00:47.629020+00:00",
    "title": "Claude can now analyze your spending with its new Personal Finance tool",
@@ -8502,6 +8524,17 @@
    "score": 0,
    "sources": 1,
    "summary": "The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.",
+   "title_ar": ""
+  },
+  "techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law": {
+   "at": "2026-11-06T00:11:52.992372+00:00",
+   "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+   "score": 0,
+   "sources": 1,
+   "summary": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
    "title_ar": ""
   },
   "techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar": {
@@ -9527,6 +9560,17 @@
    "summary": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US.",
    "title_ar": "مالك T-Mobile تعليقاً على إطلاق إيلون ماسك لشبكة محمولة: \"أهلاً بك في الحفل\""
   },
+  "theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings": {
+   "at": "2026-11-06T00:11:52.992372+00:00",
+   "title": "Airbnb is working on an AI travel agent",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+   "score": 0,
+   "sources": 1,
+   "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today.",
+   "title_ar": ""
+  },
   "theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation": {
    "at": "2026-11-04T22:00:43.675176+00:00",
    "title": "Uber only fulfilled 4 rides from AI agents last quarter",
@@ -10431,7 +10475,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-05T23:45:29.925994+00:00",
+  "AI": "2026-11-06T00:11:52.992372+00:00",
   "Anime": "2026-11-05T19:00:46.804487+00:00",
   "Games": "2026-11-05T23:00:45.952140+00:00",
   "Tech": "2026-11-06T00:00:47.468108+00:00"
