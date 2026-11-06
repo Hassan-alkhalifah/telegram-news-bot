@@ -3763,6 +3763,17 @@
    "summary": "The bloc said the platform needs to change how the For You page works to help protect users' mental health.",
    "title_ar": ""
   },
+  "engadget.com/2309307/fox-wraps-up-its-dollar22-billion-roku-deal": {
+   "at": "2026-11-06T19:45:32.060723+00:00",
+   "title": "Fox wraps up its $22 billion Roku deal",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2309307/fox-wraps-up-its-dollar22-billion-roku-deal/",
+   "score": 1,
+   "sources": 1,
+   "summary": "No Hannity on your home screen, at least for now.",
+   "title_ar": "شركة Fox تنهي صفقة استحواذها على Roku بقيمة 22 مليار دولار"
+  },
   "eurogamer.net/anthropic-claude-generative-ai-game-clones-update": {
    "at": "2026-11-02T19:15:29.735059+00:00",
    "title": "As the controversy around AI-created video game copies continues, Anthropic seemingly restricts Claude's cloning abilities",
@@ -4895,6 +4906,17 @@
    "sources": 2,
    "summary": "Open-world creature-catching adventure RPG Honkai: Nexus Anima will launch for PC, iOS, and Android in …",
    "title_ar": "إطلاق لعبة Honkai: Nexus Anima في ربيع 2027؛ وبدء الاختبار التجريبي المغلق الأخير في 25 نوفمبر"
+  },
+  "gematsu.com/2026/11/hozy-for-ps5-xbox-series-launches-november-9": {
+   "at": "2026-11-06T19:45:32.060723+00:00",
+   "title": "Hozy for PS5, Xbox Series launches November 9",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gematsu.com/2026/11/hozy-for-ps5-xbox-series-launches-november-9",
+   "score": 0,
+   "sources": 1,
+   "summary": "Cozy renovation and cleaning game Hozy will launch for PlayStation 5 and Xbox Series on …",
+   "title_ar": ""
   },
   "gematsu.com/2026/11/hyperspace-neptunia-unlimited-coming-west-in-2027-for-ps5-switch-2-ps4-switch-and-pc": {
    "at": "2026-11-03T18:30:50.083575+00:00",
@@ -12007,7 +12029,7 @@
   "AI": "2026-11-06T18:30:40.801085+00:00",
   "Anime": "2026-11-06T13:30:36.938603+00:00",
   "Games": "2026-11-06T19:00:49.997125+00:00",
-  "Tech": "2026-11-06T19:30:38.070730+00:00"
+  "Tech": "2026-11-06T19:45:32.060723+00:00"
  },
  "digest_day": "2026-11-06",
  "weekly_day": "2026-11-06"
