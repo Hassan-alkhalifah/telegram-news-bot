@@ -1255,6 +1255,17 @@
    "summary": "Apple has filed a preliminary prospectus with the SEC outlining plans to issue seven series of bonds.",
    "title_ar": "تقرير: مبيعات السندات التي تخطط لها Apple بقيمة 7 مليارات دولار تجذب طلباً يبلغ أربعة أضعاف"
   },
+  "9to5mac.com/2026/11/05/report-ipad-shipments-drop-27-5-as-global-tablet-market-plunges-in-q3": {
+   "at": "2026-11-06T01:00:43.465124+00:00",
+   "title": "Report: iPad shipments drop 27.5% as global tablet market plunges in Q3",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/05/report-ipad-shipments-drop-27-5-as-global-tablet-market-plunges-in-q3/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Despite global iPad shipments dropping 27.5% year-over-year in the third calendar quarter, Apple maintained its lead in the tablet market, according to a new report released today.",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/05/resident-evil-director-zach-cregger-explains-why-the-iphone-is-vital-to-his-work": {
    "at": "2026-11-05T12:15:30.265605+00:00",
    "title": "Resident Evil director Zach Cregger explains why the iPhone is vital to his work",
@@ -2123,6 +2134,17 @@
    "sources": 1,
    "summary": "Ivan Shibata, Hibiku Yamamura star in Sunrise anime",
    "title_ar": ""
+  },
+  "animenewsnetwork.com/news/2026-11-05/ninja-skooler-anime-unveils-pilot-film-images-song/.243571": {
+   "at": "2026-11-06T01:00:43.465124+00:00",
+   "title": "Ninja Skooler Anime Unveils Pilot Film, Images, Song",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-05/ninja-skooler-anime-unveils-pilot-film-images-song/.243571",
+   "score": 1,
+   "sources": 1,
+   "summary": "Shunsuke Takarai to direct light-hearted ninja anime based on concept by Kinema Citrus",
+   "title_ar": "أنمي Ninja Skooler يكشف عن فيلم تجريبي وصور وأغنية"
   },
   "animenewsnetwork.com/news/2026-11-05/nintendo-switch-2-sells-over-26-million-units/.243567": {
    "at": "2026-11-05T21:00:46.840060+00:00",
@@ -9131,6 +9153,17 @@
    "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents.",
    "title_ar": "Perplexity تطلق نسختها الخاصة من وكلاء الذكاء الاصطناعي المخصصة للعمل"
   },
+  "theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda": {
+   "at": "2026-11-06T01:00:43.465124+00:00",
+   "title": "OpenAI is stepping back from NDAs for data center projects",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+   "score": 0,
+   "sources": 1,
+   "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center…",
+   "title_ar": ""
+  },
   "theverge.com/entertainment/1026282/grimes-ai-movie": {
    "at": "2026-11-05T17:15:31.951208+00:00",
    "title": "Grimes is going to star in an AI movie that’s coming to theaters",
@@ -10531,7 +10564,7 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-06T00:11:52.992372+00:00",
-  "Anime": "2026-11-05T19:00:46.804487+00:00",
+  "Anime": "2026-11-06T01:00:43.465124+00:00",
   "Games": "2026-11-05T23:00:45.952140+00:00",
   "Tech": "2026-11-06T00:45:32.110622+00:00"
  },
