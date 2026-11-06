@@ -3576,6 +3576,17 @@
    "summary": "Following news of EA's decision to shut down iconic RPG studio BioWare , Canadian fans of the studio have escalated their grievances to the governmental level, calling on the Canadian Government to…",
    "title_ar": ""
   },
+  "eurogamer.net/bioware-closure-warren-spector-comments-accountability": {
+   "at": "2026-11-06T10:15:33.164477+00:00",
+   "title": "\"Is there any accountability left in this world?\" Warren Spector pops off at EA executives and their massive payouts as BioWare shuts down",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.eurogamer.net/bioware-closure-warren-spector-comments-accountability",
+   "score": 4,
+   "sources": 2,
+   "summary": "It's only been two weeks since we last heard Warren Spector sound off about EA's sudden decision to close BioWare , following the publisher's acquisition by Saudi Arabia's PIF and venture capitalist…",
+   "title_ar": "\"هل تبقى أي حساب في هذا العالم؟\" واررن سبيكتور يهاجم مسؤولي EA ومكافآتهم الضخمة مع إغلاق BioWare"
+  },
   "eurogamer.net/call-of-duty-modern-warfare-4-player-engagement-black-ops-7": {
    "at": "2026-11-03T11:30:39.439292+00:00",
    "title": "It looks like Call of Duty: Modern Warfare 4 had fewer active players at launch in the US compared to last year's Black Ops 7",
@@ -3893,6 +3904,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Following the release of yesterday's brief new The Elder Scrolls 6: Sentinel teaser trailer , story speculation is running rampant across communities dedicated to the fantasy series, with fans…",
+   "title_ar": ""
+  },
+  "eurogamer.net/unity-game-engine-saudi-arabia-silver-lake": {
+   "at": "2026-11-06T10:15:33.164477+00:00",
+   "title": "After gobbling up EA, Saudi Arabia and private equity firm Silver Lake reportedly looking to buy Unity",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/unity-game-engine-saudi-arabia-silver-lake",
+   "score": 0,
+   "sources": 1,
+   "summary": "After acquiring EA for $55bn earlier this year , Saudi Arabia and private equity firm Silver Lake are reportedly in the market for another massive video game company.",
    "title_ar": ""
   },
   "eurogamer.net/world-of-warcraft-forever-launch-smooth": {
@@ -6964,6 +6986,17 @@
    "summary": "Xbox is trying to cut the studio loose without closing it",
    "title_ar": "Ubisoft من بين المتقدمين لعرض شراء استوديو Arkane مطور لعبة Marvel's Blade"
   },
+  "kotaku.com/unity-buyout-saudi-arabia-pif-ea-silver-lake-engine-controversy-2000754368": {
+   "at": "2026-11-06T10:15:33.164477+00:00",
+   "title": "Unity Is In $21.5 Billion Buyout Talks With Saudi Arabia’s PIF",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/unity-buyout-saudi-arabia-pif-ea-silver-lake-engine-controversy-2000754368",
+   "score": 0,
+   "sources": 1,
+   "summary": "The buyout would increase the Saudi government's influence in gaming mere months after purchasing EA",
+   "title_ar": ""
+  },
   "kotaku.com/valves-cancelled-portal-prequel-f-stop-has-leaked-2000752082": {
    "at": "2026-11-01T15:04:30.961295+00:00",
    "title": "Valve’s Cancelled Portal Prequel F-Stop Has Leaked",
@@ -8018,6 +8051,17 @@
    "score": 0,
    "sources": 1,
    "summary": "There might be hope for Arkane after all: A new report says multiple companies have made offers for it.",
+   "title_ar": ""
+  },
+  "pcgamer.com/gaming-industry/warren-spector-sounds-even-angrier-about-biowares-closure-as-he-recounts-the-massive-salaries-of-ea-execs-is-there-any-accountability-left-in-this-world": {
+   "at": "2026-11-06T10:15:33.164477+00:00",
+   "title": "Warren Spector sounds even angrier about BioWare's closure as he recounts the massive salaries of EA execs: 'Is there ANY accountability left in this world?'",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/gaming-industry/warren-spector-sounds-even-angrier-about-biowares-closure-as-he-recounts-the-massive-salaries-of-ea-execs-is-there-any-accountability-left-in-this-world/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Two weeks after his uncharacteristically spicy comments on the demise of BioWare, Spector's anger clearly has not subsided.",
    "title_ar": ""
   },
   "pcgamer.com/gaming-industry/xbox-coo-who-left-after-just-3-months-shoots-down-claims-she-was-fired-for-a-policy-violation-says-her-story-is-about-core-values": {
@@ -10983,7 +11027,7 @@
  "topic_last_posted": {
   "AI": "2026-11-06T00:11:52.992372+00:00",
   "Anime": "2026-11-06T04:15:29.971399+00:00",
-  "Games": "2026-11-06T07:45:30.683095+00:00",
+  "Games": "2026-11-06T10:15:33.164477+00:00",
   "Tech": "2026-11-06T06:15:34.095556+00:00"
  },
  "digest_day": "2026-11-05",
