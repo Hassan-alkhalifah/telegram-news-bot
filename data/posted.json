@@ -1343,6 +1343,17 @@
    "summary": "Select WhatsApp users on TestFlight and in the main app are now seeing the option to expand an image in the app’s photo editor.",
    "title_ar": "إطلاق أداة توسيع الصور المدعومة بالذكاء الاصطناعي في تطبيق WhatsApp على نظام iOS"
   },
+  "9to5mac.com/2026/11/06/apple-confirms-7-5-billion-bond-sale-following-strong-investor-demand": {
+   "at": "2026-11-06T12:15:30.890822+00:00",
+   "title": "Apple confirms $7.5 billion bond sale following strong investor demand",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/06/apple-confirms-7-5-billion-bond-sale-following-strong-investor-demand/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Following yesterday’s report that Apple was preparing to raise approximately $7 billion through a bond offering, the company has now finalized terms with the SEC, confirming a slightly larger amount.",
+   "title_ar": ""
+  },
   "animecorner.me/black-clover-season-2-episode-6-previews-noelle-and-charlotte-facing-vanica": {
    "at": "2026-11-04T10:30:38.697022+00:00",
    "title": "Black Clover Season 2 Episode 6 Previews Noelle and Charlotte Facing Vanica",
@@ -3706,6 +3717,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Rockstar Games have released 38 new screenshots of Grand Theft Auto 6 , ahead of its release later this month.",
+   "title_ar": ""
+  },
+  "eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone": {
+   "at": "2026-11-06T12:15:30.890822+00:00",
+   "title": "Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone",
+   "score": 0,
+   "sources": 1,
+   "summary": "Former Rockstar Games North technical director Obbe Vermeij believes that the possibility of AI vibe coded ports of Grand Theft Auto 6 could push Rockstar to create an official PC version sooner…",
    "title_ar": ""
   },
   "eurogamer.net/grand-theft-auto-6-pre-load-date": {
@@ -10264,6 +10286,17 @@
    "summary": "Grab a cheap upgrade from a top brand with this Samsung 43-inch M7 M70F 4K UHD monitor, down to just $279.99, giving you a smart display for TV, movies, and productivity.",
    "title_ar": ""
   },
+  "tomshardware.com/pc-components/chipsets/intels-next-gen-nova-lake-needs-new-motherboards-what-we-expect-from-nova-point-and-z990-z970-and-b960-chipsets": {
+   "at": "2026-11-06T12:15:30.890822+00:00",
+   "title": "Intel’s next-gen Nova Lake needs new motherboards — what we expect from Nova Point and Z990, Z970, and B960 chipsets",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/pc-components/chipsets/intels-next-gen-nova-lake-needs-new-motherboards-what-we-expect-from-nova-point-and-z990-z970-and-b960-chipsets",
+   "score": 1,
+   "sources": 1,
+   "summary": "New Intel CPUs mean a new LGA 1954 socket and new motherboards.",
+   "title_ar": "جيل Intel القادم Nova Lake يحتاج إلى لوحات أم جديدة - ما نتوقعه من شرائح Nova Point و Z990 و Z970 و B960"
+  },
   "tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections": {
    "at": "2026-11-04T11:30:34.913892+00:00",
    "title": "AMD expects to outsell Intel in Q4 for the first time in history",
@@ -11171,7 +11204,7 @@
   "AI": "2026-11-06T11:45:27.974169+00:00",
   "Anime": "2026-11-06T04:15:29.971399+00:00",
   "Games": "2026-11-06T11:45:27.974169+00:00",
-  "Tech": "2026-11-06T12:00:44.962591+00:00"
+  "Tech": "2026-11-06T12:15:30.890822+00:00"
  },
  "digest_day": "2026-11-05",
  "weekly_day": ""
