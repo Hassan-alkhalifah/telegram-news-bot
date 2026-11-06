@@ -2454,6 +2454,17 @@
    "summary": "Orange ear cushions included.",
    "title_ar": "سوني تعيد إحياء سماعات Walkman الأصلية وتضيف منفذ USB-C"
   },
+  "arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update": {
+   "at": "2026-11-06T17:45:29.611858+00:00",
+   "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Meta won't force Facebook page owners to allow AI training on linked content.",
+   "title_ar": "\"هل تعتقد Meta أننا لا نستطيع القراءة؟\" Meta تتراجع عن تحديث شروط تجارية مشبوهة."
+  },
   "arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder": {
    "at": "2026-11-05T22:00:46.497693+00:00",
    "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
@@ -11850,7 +11861,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-06T16:00:45.829982+00:00",
+  "AI": "2026-11-06T17:45:29.611858+00:00",
   "Anime": "2026-11-06T13:30:36.938603+00:00",
   "Games": "2026-11-06T17:15:33.215483+00:00",
   "Tech": "2026-11-06T17:30:39.361377+00:00"
