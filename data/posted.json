@@ -1519,6 +1519,17 @@
    "summary": "The previously announced Promise Me the Spotlight anime adaptation revealed a key visual along…",
    "title_ar": ""
   },
+  "animecorner.me/rainy-day-serenade-anime-reveals-key-visual-teaser-trailer-main-cast-april-2027-premiere": {
+   "at": "2026-11-06T12:30:40.145912+00:00",
+   "title": "Rainy Day Serenade Anime Reveals Key Visual, Teaser Trailer, Main Cast, April 2027 Premiere",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://animecorner.me/rainy-day-serenade-anime-reveals-key-visual-teaser-trailer-main-cast-april-2027-premiere/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Rainy Day Serenade anime revealed a key visual and teaser trailer on Friday, featuring…",
+   "title_ar": ""
+  },
   "animecorner.me/reincarnation-in-the-game-world-dan-katsu-reveals-new-trailer-featuring-additional-cast-theme-songs": {
    "at": "2026-11-04T13:15:29.055625+00:00",
    "title": "Reincarnation in the Game World Dan-Katsu Reveals New Trailer Featuring Additional Cast, Theme Songs",
@@ -3642,6 +3653,17 @@
    "summary": "Following news of EA's decision to shut down iconic RPG studio BioWare , Canadian fans of the studio have escalated their grievances to the governmental level, calling on the Canadian Government to…",
    "title_ar": ""
   },
+  "eurogamer.net/bioware-closure-documentary-release": {
+   "at": "2026-11-06T12:30:40.145912+00:00",
+   "title": "Following BioWare's shock closure, a new documentary capturing its final moments is coming next year",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/bioware-closure-documentary-release",
+   "score": 0,
+   "sources": 1,
+   "summary": "A documentary detailing the history of beloved Mass Effect studio BioWare is releasing next year, and will cover last month's shock closure of the studio, following the private acquisition of owner…",
+   "title_ar": ""
+  },
   "eurogamer.net/bioware-closure-warren-spector-comments-accountability": {
    "at": "2026-11-06T10:15:33.164477+00:00",
    "title": "\"Is there any accountability left in this world?\" Warren Spector pops off at EA executives and their massive payouts as BioWare shuts down",
@@ -3949,6 +3971,17 @@
    "sources": 1,
    "summary": "As part of today's (Thursday 5th November, 2026) financial results, Sony has confirmed that monthly active users, referred to as MAU, across both PlayStation 4 and 5, reached 127 million in September.",
    "title_ar": "بلايستيشن تسجل رقماً قياسياً في أعداد اللاعبين وزيادة في الإيرادات للربع الثاني من عام 2026، والكثير من هذا النجاح يعود إلى لعبة Marvel's Wolverine"
+  },
+  "eurogamer.net/square-enix-nier-automata-update-required-file-size-366gb": {
+   "at": "2026-11-06T12:30:40.145912+00:00",
+   "title": "Square Enix accidentally botches a Nier: Automata update, balloons required file size from 50GB to 366GB on PC",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/square-enix-nier-automata-update-required-file-size-366gb",
+   "score": 0,
+   "sources": 1,
+   "summary": "Yesterday, Nier: Automata received a new patch on Steam, adding more language support to the title - it can now be played with Korean, Simplified Chinese, and Traditional Chinese options - but this…",
+   "title_ar": ""
   },
   "eurogamer.net/steam-games-approvals-delayed-valve-response": {
    "at": "2026-11-05T09:30:35.604484+00:00",
@@ -5643,6 +5676,17 @@
    "sources": 1,
    "summary": "Nexus Mods has reacted to the deluge of AI mods by enforcing mandatory disclosure for mods with AI-assisted code, and letting users filter AI-assisted mods out of their search criteria or preferences.",
    "title_ar": ""
+  },
+  "ign.com/articles/nier-automata-dev-working-on-fix-patch-that-bloated-game-size-366gb": {
+   "at": "2026-11-06T12:30:40.145912+00:00",
+   "title": "Nier: Automata Dev Working on Fix for Patch That Accidentally Bloated the Game Size to 366GB on PC",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.ign.com/articles/nier-automata-dev-working-on-fix-patch-that-bloated-game-size-366gb",
+   "score": 3,
+   "sources": 2,
+   "summary": "Nier: Automata got a patch yesterday to add support for more languages to the game (Korean, Simplified Chinese, and Traditional Chinese), but it accidentally bloated the game file size to 366GB on PC.",
+   "title_ar": "مطور لعبة Nier: Automata يعمل على إصلاح تحديث تسبب بطريق الخطأ في تضخم حجم اللعبة على أجهزة الحاسب الشخصي إلى 366 جيجابايت"
   },
   "ign.com/articles/niftski-breaks-super-mario-bros-world-record": {
    "at": "2026-11-02T12:15:28.702385+00:00",
@@ -11203,7 +11247,7 @@
  "topic_last_posted": {
   "AI": "2026-11-06T11:45:27.974169+00:00",
   "Anime": "2026-11-06T04:15:29.971399+00:00",
-  "Games": "2026-11-06T11:45:27.974169+00:00",
+  "Games": "2026-11-06T12:30:40.145912+00:00",
   "Tech": "2026-11-06T12:15:30.890822+00:00"
  },
  "digest_day": "2026-11-05",
