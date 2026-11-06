@@ -2454,6 +2454,17 @@
    "summary": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.",
    "title_ar": "ربع قياسي لشركة AMD: قطاع مراكز البيانات يتضاعف بينما يتراجع قطاع الألعاب"
   },
+  "arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition": {
+   "at": "2026-11-06T20:00:45.927835+00:00",
+   "title": "Artist pulls popular screensaver from Roku OS because of Fox acquisition",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
+   "score": 3,
+   "sources": 2,
+   "summary": "Developer: “I can’t be part of the Fox world.”",
+   "title_ar": "فنان يسحب شاشة توقف شهيرة من نظام Roku OS بسبب استحواذ Fox"
+  },
   "arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag": {
    "at": "2026-11-05T14:00:48.343435+00:00",
    "title": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
@@ -3774,6 +3785,17 @@
    "summary": "No Hannity on your home screen, at least for now.",
    "title_ar": "شركة Fox تنهي صفقة استحواذها على Roku بقيمة 22 مليار دولار"
   },
+  "engadget.com/2309631/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans": {
+   "at": "2026-11-06T20:00:45.927835+00:00",
+   "title": "Google's eyewear partners can't keep a lid on its smart glasses plans",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2309631/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Gentle Monster shared that its \"Intelligent Eyewear\" will be available to pre-order on November 12.",
+   "title_ar": ""
+  },
   "eurogamer.net/anthropic-claude-generative-ai-game-clones-update": {
    "at": "2026-11-02T19:15:29.735059+00:00",
    "title": "As the controversy around AI-created video game copies continues, Anthropic seemingly restricts Claude's cloning abilities",
@@ -4201,6 +4223,17 @@
    "score": 0,
    "sources": 1,
    "summary": "After acquiring EA for $55bn earlier this year , Saudi Arabia and private equity firm Silver Lake are reportedly in the market for another massive video game company.",
+   "title_ar": ""
+  },
+  "eurogamer.net/updated-xbox-pc-app-faster-asha-sharma": {
+   "at": "2026-11-06T20:00:45.927835+00:00",
+   "title": "Updated Xbox PC app promises 60% faster loading and easier access to games, but CEO Asha Sharma says there's \"plenty more to do\"",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/updated-xbox-pc-app-faster-asha-sharma",
+   "score": 0,
+   "sources": 1,
+   "summary": "The Xbox PC app hasn't had the best track record in recent years, but Microsoft is promising that it's now much faster and easier to use than before.",
    "title_ar": ""
   },
   "eurogamer.net/world-of-warcraft-forever-hotfix-flag-carrier-plainsrunning": {
@@ -9835,6 +9868,17 @@
    "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku": {
+   "at": "2026-11-06T20:00:45.927835+00:00",
+   "title": "Fox completes its $22B acquisition of Roku",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+   "score": 0,
+   "sources": 1,
+   "summary": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.",
+   "title_ar": ""
+  },
   "techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent": {
    "at": "2026-11-06T18:45:28.515662+00:00",
    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
@@ -12029,7 +12073,7 @@
   "AI": "2026-11-06T18:30:40.801085+00:00",
   "Anime": "2026-11-06T13:30:36.938603+00:00",
   "Games": "2026-11-06T19:00:49.997125+00:00",
-  "Tech": "2026-11-06T19:45:32.060723+00:00"
+  "Tech": "2026-11-06T20:00:45.927835+00:00"
  },
  "digest_day": "2026-11-06",
  "weekly_day": "2026-11-06"
