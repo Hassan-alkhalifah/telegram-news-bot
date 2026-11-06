@@ -3697,6 +3697,28 @@
    "summary": "Other Worlds: A Stranger Things Adventure takes place in Nevada in the 1950s.",
    "title_ar": ""
   },
+  "engadget.com/2309285/youll-soon-be-able-to-text-alexa-to-shop-on-amazon": {
+   "at": "2026-11-06T17:30:39.361377+00:00",
+   "title": "You'll soon be able to text Alexa to shop on Amazon",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2309285/youll-soon-be-able-to-text-alexa-to-shop-on-amazon/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The latest Alexa for shopping feature is initially available by invite in the US.",
+   "title_ar": ""
+  },
+  "engadget.com/2309300/the-eu-accuses-tiktoks-rabbit-hole-algorithm-of-breaching-its-content-rules": {
+   "at": "2026-11-06T17:30:39.361377+00:00",
+   "title": "The EU accuses TikTok's 'rabbit hole' algorithm of breaching its content rules",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2309300/the-eu-accuses-tiktoks-rabbit-hole-algorithm-of-breaching-its-content-rules/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The bloc said the platform needs to change how the For You page works to help protect users' mental health.",
+   "title_ar": ""
+  },
   "eurogamer.net/anthropic-claude-generative-ai-game-clones-update": {
    "at": "2026-11-02T19:15:29.735059+00:00",
    "title": "As the controversy around AI-created video game copies continues, Anthropic seemingly restricts Claude's cloning abilities",
@@ -10781,6 +10803,17 @@
    "summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant.",
    "title_ar": "أمازون ستسمح لك بإرسال قائمة التسوق الخاصة بك إلى Alexa عبر الرسائل النصية"
   },
+  "theverge.com/tech/1028597/tiktok-eu-for-you-algorithm-rabbit-hole-effect": {
+   "at": "2026-11-06T17:30:39.361377+00:00",
+   "title": "TikTok’s For You page needs to change, says the EU",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.theverge.com/tech/1028597/tiktok-eu-for-you-algorithm-rabbit-hole-effect",
+   "score": 4,
+   "sources": 2,
+   "summary": "The European Commission claims TikTok broke its online platform rules by offering a recommendation algorithm that creates a \"rabbit hole effect\" on users.",
+   "title_ar": "الاتحاد الأوروبي يقول إن صفحة For You في TikTok بحاجة إلى تغيير"
+  },
   "theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete": {
    "at": "2026-11-06T15:15:28.605792+00:00",
    "title": "Apple has a secret list of banned autocomplete phrases including ‘dictator Trump’ and ‘covid is a hoax’",
@@ -11820,7 +11853,7 @@
   "AI": "2026-11-06T16:00:45.829982+00:00",
   "Anime": "2026-11-06T13:30:36.938603+00:00",
   "Games": "2026-11-06T17:15:33.215483+00:00",
-  "Tech": "2026-11-06T17:00:48.163456+00:00"
+  "Tech": "2026-11-06T17:30:39.361377+00:00"
  },
  "digest_day": "2026-11-05",
  "weekly_day": "2026-11-06"
