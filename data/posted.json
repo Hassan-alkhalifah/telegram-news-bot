@@ -507,6 +507,17 @@
    "summary": "Following a sizable release last month, Google Health is rolling out another big update with version 5.12. more…",
    "title_ar": "إطلاق تحديث Google Health 5.12 مع ميزة تسجيل ضغط الدم والحمل يدوياً والمزيد"
   },
+  "9to5google.com/2026/11/06/google-nest-doorbell-live-view-broken-reports": {
+   "at": "2026-11-06T23:30:35.166907+00:00",
+   "title": "Google’s original Nest Doorbell is broken for many right now",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/06/google-nest-doorbell-live-view-broken-reports/",
+   "score": 1,
+   "sources": 1,
+   "summary": "An issue with Google’s original Nest Doorbell has left live view of the video feed broken for many owners, and there’s no word on a fix just yet. more…",
+   "title_ar": "جرس الباب الأصلي Nest Doorbell من Google معطل لدى الكثيرين في الوقت الحالي"
+  },
   "9to5mac.com/2026/11/01/heres-the-best-option-for-an-iphone-duo-kickstand": {
    "at": "2026-11-01T16:45:26.631923+00:00",
    "title": "Here’s how I’m solving the iPhone Duo kickstand problem, without any bulk",
@@ -8834,6 +8845,17 @@
    "summary": "In 39 new screenshots, Rockstar flaunts exciting new genres of Florida Man.",
    "title_ar": ""
   },
+  "pcgamer.com/games/grand-theft-auto/rockstars-having-sale-on-old-gta-games-on-the-only-platform-grand-theft-auto-6-isnt-coming-to-ours": {
+   "at": "2026-11-06T23:30:35.166907+00:00",
+   "title": "Rockstar's having sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to (ours)",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstars-having-sale-on-old-gta-games-on-the-only-platform-grand-theft-auto-6-isnt-coming-to-ours/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Are we being trolled here?",
+   "title_ar": ""
+  },
   "pcgamer.com/games/grand-theft-auto/zelnick-doesnt-regret-gta-6s-delay-because-shipping-an-unfinished-game-rarely-ends-well-there-was-a-very-high-profile-release-that-fell-into-this-category": {
    "at": "2026-11-06T11:45:27.974169+00:00",
    "title": "Zelnick doesn't regret GTA 6's delay because shipping an unfinished game rarely ends well: 'There was a very high profile release that fell into this category'",
@@ -12359,7 +12381,7 @@
   "AI": "2026-11-06T23:00:44.345049+00:00",
   "Anime": "2026-11-06T21:30:40.876239+00:00",
   "Games": "2026-11-06T19:00:49.997125+00:00",
-  "Tech": "2026-11-06T23:15:30.591449+00:00"
+  "Tech": "2026-11-06T23:30:35.166907+00:00"
  },
  "digest_day": "2026-11-06",
  "weekly_day": "2026-11-06"
