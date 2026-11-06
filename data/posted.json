@@ -331,6 +331,17 @@
    "summary": "The Redmagic 12 Pro is the first Snapdragon-based Android phone to support the Linux Terminal introduced in Android 16 for Pixel phones. more…",
    "title_ar": "وصول أول هاتف مزود بمعالج Snapdragon مع دعم طرفية Linux لأندرويد"
   },
+  "9to5google.com/2026/11/05/android-auto-gemini-call-text-voice-command-bug": {
+   "at": "2026-11-06T04:30:39.198324+00:00",
+   "title": "Android Auto’s latest Gemini failing keeps asking ‘who do you want to call’",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/05/android-auto-gemini-call-text-voice-command-bug/",
+   "score": 1,
+   "sources": 1,
+   "summary": "The switch to Gemini on Android Auto has resulted in some good functionality add-ons, but also some very noticeable slip-ups.",
+   "title_ar": "الخلل الأخير في Gemini عبر Android Auto يستمر في طرح سؤال \"من تريد أن تتصل؟\""
+  },
   "9to5google.com/2026/11/05/android-xr-glasses-pre-order": {
    "at": "2026-11-05T20:00:45.432604+00:00",
    "title": "First Android XR ‘Intelligent Eyewear’ glasses go on pre-order next week",
@@ -10775,7 +10786,7 @@
   "AI": "2026-11-06T00:11:52.992372+00:00",
   "Anime": "2026-11-06T04:15:29.971399+00:00",
   "Games": "2026-11-06T01:45:28.548321+00:00",
-  "Tech": "2026-11-06T04:00:41.848682+00:00"
+  "Tech": "2026-11-06T04:30:39.198324+00:00"
  },
  "digest_day": "2026-11-05",
  "weekly_day": ""
