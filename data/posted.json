@@ -10297,6 +10297,17 @@
    "summary": "An undergraduate student from Georgia Tech is trying his hand at an $800k prize for the fastest jet-powered RC aircraft, achieving 790 km/h (491 mph) and breaking the previous world record.",
    "title_ar": "طالب جامعي يحطم رقمًا قياسيًا غير رسمي لأسرع طائرة بدون طيار تعمل بالنفث بسرعة 491 ميلًا في الساعة بناها في غرفة سكنه الجامعي"
   },
+  "tomshardware.com/tech-industry/policy/chinese-ai-lab-moonshot-reportedly-looked-at-european-data-centers-to-access-nvidia-chips-report-claims-kimi-maker-primarily-interested-in-inferencing-capacity-but-also-asked-about-training-clusters": {
+   "at": "2026-11-06T04:45:30.525792+00:00",
+   "title": "Chinese AI lab Moonshot reportedly looked at European data centers to access Nvidia chips, report claims",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/policy/chinese-ai-lab-moonshot-reportedly-looked-at-european-data-centers-to-access-nvidia-chips-report-claims-kimi-maker-primarily-interested-in-inferencing-capacity-but-also-asked-about-training-clusters",
+   "score": 1,
+   "sources": 1,
+   "summary": "The lab is reportedly interested in renting at least 8,000 Nvidia Blackwell GPUs.",
+   "title_ar": "تقرير يزعم أن مختبر الذكاء الاصطناعي الصيني Moonshot نظر في مراكز بيانات أوروبية للوصول إلى رقاقات Nvidia"
+  },
   "tomshardware.com/tech-industry/semiconductors/ai-chip-smugglers-exploit-trade-control-loophole-to-bring-banned-hbm-from-south-korea-into-china-expensive-memory-chips-packaged-with-cheap-unsanctioned-processors-to-become-legal-exports": {
    "at": "2026-11-03T12:15:31.737415+00:00",
    "title": "AI chip smugglers exploit trade control loophole to bring banned HBM from South Korea into China — expensive memory chips packaged with cheap, unsanctioned processors to become legal exports",
@@ -10786,7 +10797,7 @@
   "AI": "2026-11-06T00:11:52.992372+00:00",
   "Anime": "2026-11-06T04:15:29.971399+00:00",
   "Games": "2026-11-06T01:45:28.548321+00:00",
-  "Tech": "2026-11-06T04:30:39.198324+00:00"
+  "Tech": "2026-11-06T04:45:30.525792+00:00"
  },
  "digest_day": "2026-11-05",
  "weekly_day": ""
