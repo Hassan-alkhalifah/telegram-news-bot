@@ -1365,6 +1365,17 @@
    "summary": "Following yesterday’s report that Apple was preparing to raise approximately $7 billion through a bond offering, the company has now finalized terms with the SEC, confirming a slightly larger amount.",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/06/apple-says-there-are-already-over-100000-apps-built-for-iphone-duo": {
+   "at": "2026-11-06T18:00:48.524230+00:00",
+   "title": "Apple says there are already over 100,000 apps built for iPhone Duo",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/06/apple-says-there-are-already-over-100000-apps-built-for-iphone-duo/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Apple released the iPhone Duo two weeks ago, and the app story is quickly taking shape.",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/06/apple-store-now-offers-extended-holiday-returns-for-all-products-2026": {
    "at": "2026-11-06T14:58:01.880967+00:00",
    "title": "Apple Store now offers extended holiday returns for all products",
@@ -10836,6 +10847,17 @@
    "summary": "A researcher found over 100,000 words and phrases in \"every major language\" that are blocked from autocomplete and swipe-type in iOS, Reuters reports.",
    "title_ar": "شركة Apple تمتلك قائمة سرية من عبارات الإكمال التلقائي المحظورة تتضمن \"dictator Trump\" و \"covid is a hoax\""
   },
+  "theverge.com/tech/1028813/apple-iphone-duo-optimized-apps": {
+   "at": "2026-11-06T18:00:48.524230+00:00",
+   "title": "The iPhone Duo has more than 100,000 optimized apps, Apple says",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps",
+   "score": 3,
+   "sources": 2,
+   "summary": "Apple's iPhone Duo has been officially on sale for two weeks, and the company said today that the App Store now has over 100,000 apps that are built for the foldable.",
+   "title_ar": "آبل تقول إن iPhone Duo يضم أكثر من 100,000 تطبيق محسّن"
+  },
   "theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation": {
    "at": "2026-11-04T22:00:43.675176+00:00",
    "title": "Uber only fulfilled 4 rides from AI agents last quarter",
@@ -11864,8 +11886,8 @@
   "AI": "2026-11-06T17:45:29.611858+00:00",
   "Anime": "2026-11-06T13:30:36.938603+00:00",
   "Games": "2026-11-06T17:15:33.215483+00:00",
-  "Tech": "2026-11-06T17:30:39.361377+00:00"
+  "Tech": "2026-11-06T18:00:48.524230+00:00"
  },
- "digest_day": "2026-11-05",
+ "digest_day": "2026-11-06",
  "weekly_day": "2026-11-06"
 }
