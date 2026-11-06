@@ -441,6 +441,17 @@
    "summary": "All of OnePlus’s latest devices are getting ColorOS 17, including the much-beloved OnePlus Open foldable. more…",
    "title_ar": "تحديث Android 17 مع ColorOS 17 قادم إلى 6 أجهزة إضافية من OnePlus هذا الشهر"
   },
+  "9to5google.com/2026/11/06/discord-is-about-to-get-way-way-faster-on-your-android-phone": {
+   "at": "2026-11-06T18:45:28.515662+00:00",
+   "title": "Discord is about to get way, way faster on your Android phone",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/06/discord-is-about-to-get-way-way-faster-on-your-android-phone/",
+   "score": 1,
+   "sources": 1,
+   "summary": "A new Discord client built in Rust is looking pretty shiny and clean, even on low-end Android phones. more…",
+   "title_ar": "تطبيق Discord على وشك أن يصبح أسرع بكثير على هواتف أندرويد"
+  },
   "9to5google.com/2026/11/06/garmin-fenix-e-garmin-venu-3s-garmin-deal": {
    "at": "2026-11-06T17:00:48.163456+00:00",
    "title": "Two more Garmin smartwatches are down to record-low prices",
@@ -5908,6 +5919,17 @@
    "summary": "The live-action Stranger Things prequel series has its first teaser trailer and a 2028 release window, Netflix has announced.",
    "title_ar": "الإعلان التشويقي الأول وموعد الإصدار في Netflix في عام 2028 لمسلسل البادئة الحية لـ Stranger Things"
   },
+  "ign.com/articles/mass-effect-is-dead-but-the-official-bioware-store-is-still-releasing-new-merch-for-n7-day": {
+   "at": "2026-11-06T18:45:28.515662+00:00",
+   "title": "Mass Effect Is Dead, But the Official Bioware Store Is Still Releasing New Merch for N7 Day",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/mass-effect-is-dead-but-the-official-bioware-store-is-still-releasing-new-merch-for-n7-day",
+   "score": 0,
+   "sources": 1,
+   "summary": "Wounds are still fresh coming into this year’s N7 Day, a day traditionally dedicated to celebrating Mass Effect’s history and announcing updates about its future.",
+   "title_ar": ""
+  },
   "ign.com/articles/maya-hawke-gets-key-role-in-live-action-magic-the-gathering-movie": {
    "at": "2026-11-04T21:45:29.144850+00:00",
    "title": "Maya Hawke Gets ‘Key’ Role in Live-Action Magic: The Gathering Movie",
@@ -6093,6 +6115,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Phantom Blade Zero is officially the next big thing.",
+   "title_ar": ""
+  },
+  "ign.com/articles/ratchet-clank-ranger-rumble-shutting-down": {
+   "at": "2026-11-06T18:45:28.515662+00:00",
+   "title": "Ratchet & Clank: Ranger Rumble Shutting Down Less Than a Year After Launch",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/ratchet-clank-ranger-rumble-shutting-down",
+   "score": 0,
+   "sources": 1,
+   "summary": "It was announced less than a year ago, but Ratchet & Clank: Ranger Rumble — a mobile spin-off of the flagship PlayStation series — has been canceled.",
    "title_ar": ""
   },
   "ign.com/articles/rockstar-games-releases-39-new-gta-6-screenshots-to-celebrate-two-weeks-from-launch": {
@@ -9736,6 +9769,17 @@
    "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent": {
+   "at": "2026-11-06T18:45:28.515662+00:00",
+   "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Meta's Muse agents continue to get new features and integrations.",
+   "title_ar": ""
+  },
   "techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots": {
    "at": "2026-11-06T13:15:28.055106+00:00",
    "title": "Physicl raises $10M to make the digital world real enough for robots",
@@ -11908,7 +11952,7 @@
   "AI": "2026-11-06T18:30:40.801085+00:00",
   "Anime": "2026-11-06T13:30:36.938603+00:00",
   "Games": "2026-11-06T18:15:31.150483+00:00",
-  "Tech": "2026-11-06T18:00:48.524230+00:00"
+  "Tech": "2026-11-06T18:45:28.515662+00:00"
  },
  "digest_day": "2026-11-06",
  "weekly_day": "2026-11-06"
