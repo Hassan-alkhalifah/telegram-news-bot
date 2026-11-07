@@ -3719,6 +3719,17 @@
    "summary": "This is another example of how closely Google Search is tied to the company's AI products.",
    "title_ar": ""
   },
+  "engadget.com/2305444/how-ios-warn-password-shows-up-data-leak": {
+   "at": "2026-11-07T15:30:38.484509+00:00",
+   "title": "How iOS can warn you when one of your passwords shows up in a data leak",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2305444/how-ios-warn-password-shows-up-data-leak/",
+   "score": 2,
+   "sources": 1,
+   "summary": "You'll be warned if your credentials stored in Apple Passwords are weak or compromised so you can take appropriate action.",
+   "title_ar": "كيف تنبهك iOS عندما تظهر إحدى كلمات المرور الخاصة بك في تسريب للبيانات"
+  },
   "engadget.com/2305576/razer-unveils-the-raiju-v3-pro-signature-edition-ps5-controller": {
    "at": "2026-11-04T02:42:21.975227+00:00",
    "title": "Razer unveils the Raiju V3 Pro Signature Edition PS5 controller",
@@ -12898,7 +12909,7 @@
   "AI": "2026-11-07T12:30:40.014275+00:00",
   "Anime": "2026-11-07T11:45:30.033570+00:00",
   "Games": "2026-11-06T19:00:49.997125+00:00",
-  "Tech": "2026-11-07T15:00:43.506793+00:00"
+  "Tech": "2026-11-07T15:30:38.484509+00:00"
  },
  "digest_day": "2026-11-06",
  "weekly_day": "2026-11-06"
