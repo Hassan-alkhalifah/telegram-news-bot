@@ -3664,6 +3664,17 @@
    "summary": "Your Samsung phone gets improvements to the camera, gestures, privacy and much more with One UI 9.",
    "title_ar": "10 من أروع الميزات في تحديث One UI 9 الجديد من Samsung"
   },
+  "engadget.com/2305351/windows-powertoys-automate-pc-tasks": {
+   "at": "2026-11-07T15:00:43.506793+00:00",
+   "title": "Windows PowerToys can automate some of your more tedious PC tasks",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2305351/windows-powertoys-automate-pc-tasks/",
+   "score": 1,
+   "sources": 1,
+   "summary": "PowerToys is a secret weapon for Windows users, with tons of handy utilities to help you save time on your PC every day.",
+   "title_ar": "أداة Windows PowerToys يمكنها أتمتة بعض مهام حاسوبك الأكثر مللاً"
+  },
   "engadget.com/2305373/world-of-warcraft-forever-blizzard-had-to-reconnect-with-what-made-wow-great-in-the-first-place": {
    "at": "2026-11-03T20:15:30.414182+00:00",
    "title": "With World of Warcraft: Forever, Blizzard had to reconnect with what made WoW great in the first place",
@@ -12068,6 +12079,17 @@
    "summary": "Tesla is ramping up its custom silicon ambitions with training-oriented Dojo D3 that can eventually go to orbital data centers and massive SI6 inference accelerator.",
    "title_ar": "تيلا تكشف عن خريطة طريق لمسارعت الذكاء الاصطناعي وتعتمد علامة تجارية جديدة باسم SI في دفعة \"الذكاء الخارق\""
   },
+  "tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips": {
+   "at": "2026-11-07T15:00:43.506793+00:00",
+   "title": "US intelligence believes Jensen Huang had romantic relationship with Chinese spy in honeypot operation",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips",
+   "score": 0,
+   "sources": 1,
+   "summary": "U.S. intelligence sources suggest that Nvidia chief Jensen Huang was targeted by Chinese intelligence in a 'honeypot' operation involving Megaspeed executive Alice Huang.",
+   "title_ar": ""
+  },
   "tomshardware.com/tech-industry/big-tech/nvidia-tightens-tracking-of-ai-gpus-in-southeast-asia-as-chinese-chip-smuggling-draws-scrutiny-report-claims-cloud-providers-must-join-monitoring-program-to-qualify-for-official-partner-status": {
    "at": "2026-11-06T14:00:46.653685+00:00",
    "title": "Nvidia tightens tracking of AI GPUs in Southeast Asia as Chinese chip smuggling draws scrutiny, report claims",
@@ -12854,7 +12876,7 @@
   "AI": "2026-11-07T12:30:40.014275+00:00",
   "Anime": "2026-11-07T11:45:30.033570+00:00",
   "Games": "2026-11-06T19:00:49.997125+00:00",
-  "Tech": "2026-11-07T14:45:30.367174+00:00"
+  "Tech": "2026-11-07T15:00:43.506793+00:00"
  },
  "digest_day": "2026-11-06",
  "weekly_day": "2026-11-06"
