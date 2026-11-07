@@ -11815,6 +11815,17 @@
    "summary": "Samsung, SK hynix, and Micron are facing strong demand for memory from AI data centers, prompting manufacturers to prioritize higher-margin server products and high-bandwidth memory.",
    "title_ar": ""
   },
+  "tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability": {
+   "at": "2026-11-07T13:15:29.398607+00:00",
+   "title": "TSMC denies exploring 3D DRAM at Nvidia's request",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability",
+   "score": 1,
+   "sources": 1,
+   "summary": "Nvidia reportedly asks TSMC to produce '3D DRAM' to address memory shortages.",
+   "title_ar": "TSMC تنفي دراسة تطوير 3D DRAM بناءً على طلب Nvidia"
+  },
   "tomshardware.com/pc-components/gpu-drivers/open-source-project-renders-your-windows-11-desktop-using-the-npu-rather-than-the-gpu-npu-driver-can-only-run-at-2-to-3-hz-targets-30-hz-performance": {
    "at": "2026-11-04T12:30:37.923216+00:00",
    "title": "Open source project renders your Windows 11 desktop using the NPU rather than the GPU — ‘npu-driver’ can only run at 2 to 3 Hz, targets 30 Hz performance",
@@ -12766,7 +12777,7 @@
   "AI": "2026-11-07T12:30:40.014275+00:00",
   "Anime": "2026-11-07T11:45:30.033570+00:00",
   "Games": "2026-11-06T19:00:49.997125+00:00",
-  "Tech": "2026-11-07T12:45:28.631638+00:00"
+  "Tech": "2026-11-07T13:15:29.398607+00:00"
  },
  "digest_day": "2026-11-06",
  "weekly_day": "2026-11-06"
