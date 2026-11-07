@@ -4566,6 +4566,17 @@
    "summary": "Yesterday, Nier: Automata received a new patch on Steam, adding more language support to the title - it can now be played with Korean, Simplified Chinese, and Traditional Chinese options - but this…",
    "title_ar": ""
   },
+  "eurogamer.net/star-wars-zero-company-bit-reactor-layoffs": {
+   "at": "2026-11-07T20:15:30.281780+00:00",
+   "title": "Star Wars Zero Company studio Bit Reactor lays off staff, a month after bringing furloughed developers back",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.eurogamer.net/star-wars-zero-company-bit-reactor-layoffs",
+   "score": 3,
+   "sources": 2,
+   "summary": "Star Wars Zero Company developer Bit Reactor has laid off an unspecified number of staff, a month after bringing some of its furloughed team back to work.",
+   "title_ar": "استوديو Bit Reactor المطور لـ Star Wars Zero Company يسرح موظفين، بعد شهر من إعادة مطورين موقوفين عن العمل"
+  },
   "eurogamer.net/steam-games-approvals-delayed-valve-response": {
    "at": "2026-11-05T09:30:35.604484+00:00",
    "title": "Valve explains why it's running behind on Steam game approvals, asks developers to perform basic release checks to prevent re-reviews",
@@ -8790,6 +8801,17 @@
    "summary": "Yes, Aonuma knows how much you hate those Iron Boots.",
    "title_ar": ""
   },
+  "nintendolife.com/news/2026/11/icymi-call-of-duty-warzone-is-now-available-for-switch-2": {
+   "at": "2026-11-07T20:15:30.281780+00:00",
+   "title": "ICYMI: Call Of Duty: Warzone Is Now Available For Switch 2",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/icymi-call-of-duty-warzone-is-now-available-for-switch-2",
+   "score": 0,
+   "sources": 1,
+   "summary": "Download it for free from the eShop.",
+   "title_ar": ""
+  },
   "nintendolife.com/news/2026/11/japanese-charts-switch-2-sales-get-a-nice-bump-ahead-of-zelda-ocarina-of-time": {
    "at": "2026-11-05T16:45:32.458722+00:00",
    "title": "Japanese Charts: Switch 2 Sales Get A Nice Bump Ahead Of Zelda: Ocarina Of Time",
@@ -9349,6 +9371,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Square Enix is 'working to resolve the issue'.",
+   "title_ar": ""
+  },
+  "pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff": {
+   "at": "2026-11-07T20:15:30.281780+00:00",
+   "title": "After furloughing its developers and then hiring some of them back, Star Wars Zero Company developer has laid off an unspecified number of staff",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff/",
+   "score": 0,
+   "sources": 1,
+   "summary": "\"While it stings, I'm really proud of what we built together.\"",
    "title_ar": ""
   },
   "pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt": {
@@ -12952,7 +12985,7 @@
  "topic_last_posted": {
   "AI": "2026-11-07T16:00:43.048411+00:00",
   "Anime": "2026-11-07T16:30:39.398823+00:00",
-  "Games": "2026-11-07T19:30:37.184718+00:00",
+  "Games": "2026-11-07T20:15:30.281780+00:00",
   "Tech": "2026-11-07T18:17:31.895218+00:00"
  },
  "digest_day": "2026-11-07",
