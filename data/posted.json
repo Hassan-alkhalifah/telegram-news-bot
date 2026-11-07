@@ -10627,6 +10627,17 @@
    "summary": "A Google-led research team built StreamVibe, a video agent designed to watch people cook or assemble furniture and speak up only when help is needed.",
    "title_ar": "Google تريد من الذكاء الاصطناعي الخاص بالفيديو فهم ما يحتاجه الأشخاص أثناء عملهم"
   },
+  "the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff": {
+   "at": "2026-11-07T10:00:43.593310+00:00",
+   "title": "Google's AI detects high blood pressure from a regular smartwatch without a cuff",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Google Research built an AI that spots signs of high blood pressure using only the pulse and motion sensors in a standard smartwatch, no cuff needed.",
+   "title_ar": "ذكاء اصطناعي من Google يكتشف ارتفاع ضغط الدم من ساعة ذكية عادية دون الحاجة إلى حزام ضغط"
+  },
   "the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent": {
    "at": "2026-11-05T19:15:30.189106+00:00",
    "title": "Google's Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent",
@@ -10736,6 +10747,17 @@
    "sources": 1,
    "summary": "OpenAI is now capping the number of paid ChatGPT accounts per device and payment card.",
    "title_ar": "OpenAI تدفع مستخدمي ChatGPT نحو المزيد من الاستخدام المدفوع"
+  },
+  "the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital": {
+   "at": "2026-11-07T10:00:43.593310+00:00",
+   "title": "OpenAI lands an $11 billion funding round, but has to court dentists for more capital",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/",
+   "score": 0,
+   "sources": 1,
+   "summary": "OpenAI has secured $11 billion in fresh capital, the first tranche of a round that values the company at $1.25 trillion.",
+   "title_ar": ""
   },
   "the-decoder.com/openai-prepares-lobbying-blitz-for-a-post-midterm-washington": {
    "at": "2026-11-02T11:00:42.230317+00:00",
@@ -12653,7 +12675,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-06T23:00:44.345049+00:00",
+  "AI": "2026-11-07T10:00:43.593310+00:00",
   "Anime": "2026-11-07T09:45:30.274251+00:00",
   "Games": "2026-11-06T19:00:49.997125+00:00",
   "Tech": "2026-11-07T08:15:26.948595+00:00"
