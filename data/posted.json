@@ -518,6 +518,17 @@
    "summary": "An issue with Google’s original Nest Doorbell has left live view of the video feed broken for many owners, and there’s no word on a fix just yet. more…",
    "title_ar": "جرس الباب الأصلي Nest Doorbell من Google معطل لدى الكثيرين في الوقت الحالي"
   },
+  "9to5google.com/2026/11/06/oppo-find-n7-global-launch-confirmed": {
+   "at": "2026-11-07T00:00:45.243854+00:00",
+   "title": "Oppo confirms its next foldable will actually know what a ‘global’ release is",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/06/oppo-find-n7-global-launch-confirmed/",
+   "score": 1,
+   "sources": 1,
+   "summary": "The Oppo Find N6 is a stunning foldable but, for the second year in a row, it really stretches the definition of what a “global” release means.",
+   "title_ar": "Oppo تؤكد أن هاتفها القابل للطي القادم سيحظى بإطلاق عالمي حقاً"
+  },
   "9to5mac.com/2026/11/01/heres-the-best-option-for-an-iphone-duo-kickstand": {
    "at": "2026-11-01T16:45:26.631923+00:00",
    "title": "Here’s how I’m solving the iPhone Duo kickstand problem, without any bulk",
@@ -7294,6 +7305,17 @@
    "summary": "In a new interview, South of Midnight creative director David Sears says he wouldn't have funded the game if it was his own money.",
    "title_ar": ""
   },
+  "insider-gaming.com/stranger-than-heaven-netflix-adaptation": {
+   "at": "2026-11-07T00:00:45.243854+00:00",
+   "title": "Sega Plans Stranger Than Heaven Live-Action Adaptation at Netflix",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/stranger-than-heaven-netflix-adaptation/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Sega has announced plans to develop a live-action adaptation of Stranger Than Heaven before the game is even released.",
+   "title_ar": ""
+  },
   "insider-gaming.com/the-elder-scrolls-6-sentinel-is-still-years-away": {
    "at": "2026-11-03T16:15:29.602523+00:00",
    "title": "The Elder Scrolls 6: Sentinel is Still “Years Away”",
@@ -10759,6 +10781,17 @@
    "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center…",
    "title_ar": ""
   },
+  "theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation": {
+   "at": "2026-11-07T00:00:45.243854+00:00",
+   "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+   "score": 0,
+   "sources": 1,
+   "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg.",
+   "title_ar": ""
+  },
   "theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy": {
    "at": "2026-11-06T20:15:35.094932+00:00",
    "title": "All the latest updates on AI data centers",
@@ -12381,7 +12414,7 @@
   "AI": "2026-11-06T23:00:44.345049+00:00",
   "Anime": "2026-11-06T21:30:40.876239+00:00",
   "Games": "2026-11-06T19:00:49.997125+00:00",
-  "Tech": "2026-11-06T23:30:35.166907+00:00"
+  "Tech": "2026-11-07T00:00:45.243854+00:00"
  },
  "digest_day": "2026-11-06",
  "weekly_day": "2026-11-06"
