@@ -529,6 +529,17 @@
    "summary": "The Oppo Find N6 is a stunning foldable but, for the second year in a row, it really stretches the definition of what a “global” release means.",
    "title_ar": "Oppo تؤكد أن هاتفها القابل للطي القادم سيحظى بإطلاق عالمي حقاً"
   },
+  "9to5google.com/2026/11/07/oppo-reportedly-cancels-find-x10-ultra-thanks-to-ramageddon": {
+   "at": "2026-11-07T12:30:40.014275+00:00",
+   "title": "Oppo reportedly cancels Find X10 Ultra thanks to RAMageddon",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5google.com/2026/11/07/oppo-reportedly-cancels-find-x10-ultra-thanks-to-ramageddon/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The Oppo Find X9 Ultra was my favorite new phone of 2026 but, thanks to RAMageddon, the company is apparently canceling its sequel. more…",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/01/heres-the-best-option-for-an-iphone-duo-kickstand": {
    "at": "2026-11-01T16:45:26.631923+00:00",
    "title": "Here’s how I’m solving the iPhone Duo kickstand problem, without any bulk",
@@ -11100,6 +11111,17 @@
    "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center…",
    "title_ar": ""
   },
+  "theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development": {
+   "at": "2026-11-07T12:30:40.014275+00:00",
+   "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+   "score": 1,
+   "sources": 1,
+   "summary": "Anthropic is using AI to build more powerful AI.",
+   "title_ar": "لماذا يثير تقرير جديد حول أتمتة Anthropic لتطوير الذكاء الاصطناعي قلق الباحثين"
+  },
   "theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation": {
    "at": "2026-11-07T00:00:45.243854+00:00",
    "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
@@ -12730,7 +12752,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-07T10:00:43.593310+00:00",
+  "AI": "2026-11-07T12:30:40.014275+00:00",
   "Anime": "2026-11-07T11:45:30.033570+00:00",
   "Games": "2026-11-06T19:00:49.997125+00:00",
   "Tech": "2026-11-07T11:15:27.620497+00:00"
