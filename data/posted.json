@@ -12068,6 +12068,17 @@
    "summary": "Just 1% of chips promised to major Chinese companies to power their AI ambitions will be delivered, according to reports.",
    "title_ar": "تقرير يدعي أن Nvidia تستطيع تلبية 1% فقط من طلب الصين الضخم البالغ 70 مليار دولار لوحات معالجة الرسومات المخصصة للذكاء الاصطناعي - قيود الإمداد تعيق تسليم بطاقات RTX Pro 5500 المتوافقة مع التصدير على الرغم من الطلب الهائل"
   },
+  "tomshardware.com/pc-components/gpus/open-source-gpu-task-manager-reveals-exactly-whats-eating-your-vram-microsoft-vps-new-gpu-taskman-tool-reveals-every-process-using-your-gpu-how-much-memory-each-uses-and-breaks-down-ai-and-llm-workloads": {
+   "at": "2026-11-08T13:45:27.525579+00:00",
+   "title": "Open-source GPU task manager reveals exactly what's eating your VRAM",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/pc-components/gpus/open-source-gpu-task-manager-reveals-exactly-whats-eating-your-vram-microsoft-vps-new-gpu-taskman-tool-reveals-every-process-using-your-gpu-how-much-memory-each-uses-and-breaks-down-ai-and-llm-workloads",
+   "score": 1,
+   "sources": 1,
+   "summary": "A new open-source GitHub project called gputaskman has been released by Microsoft VP Scott Hanselman.",
+   "title_ar": "مدير مهام للـ GPU مفتوح المصدر يكشف بدقة ما يستهلك الـ VRAM الخاص بك"
+  },
   "tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops": {
    "at": "2026-11-01T15:30:37.378625+00:00",
    "title": "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows",
@@ -13063,7 +13074,7 @@
   "AI": "2026-11-07T22:15:32.119452+00:00",
   "Anime": "2026-11-08T12:00:46.750004+00:00",
   "Games": "2026-11-08T08:00:44.797125+00:00",
-  "Tech": "2026-11-08T13:30:40.169555+00:00"
+  "Tech": "2026-11-08T13:45:27.525579+00:00"
  },
  "digest_day": "2026-11-07",
  "weekly_day": "2026-11-06"
