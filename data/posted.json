@@ -12079,6 +12079,17 @@
    "summary": "A homelab enthusiast is retiring a Microsoft Exchange installation that began with Exchange 5.5 on Windows NT 4 in 1999.",
    "title_ar": "متحمس يتخلى عن خادم Microsoft Exchange الذاتي بعد 27 عاماً وينقل صناديق البريد إلى Microsoft 365"
   },
+  "tomshardware.com/software/linux/the-end-of-an-era-as-linux-7-5-purges-the-last-30-year-old-intel-mmx-optimizations-from-pentium-age-open-source-os-retires-ancient-1997-pentium-instructions-to-streamline-code": {
+   "at": "2026-11-08T14:45:30.299487+00:00",
+   "title": "The end of an era as Linux 7.5 purges the last 30-year-old Intel MMX optimizations from Pentium age",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/software/linux/the-end-of-an-era-as-linux-7-5-purges-the-last-30-year-old-intel-mmx-optimizations-from-pentium-age-open-source-os-retires-ancient-1997-pentium-instructions-to-streamline-code",
+   "score": 1,
+   "sources": 1,
+   "summary": "Linux developers are preparing to make Intel’s ancient MultiMedia eXtensions irrelevant, with the last MMX code now set to be removed from the kernel.",
+   "title_ar": "نهاية حقبة مع إزالة Linux 7.5 لآخر تحسينات Intel MMX التي يعود تاريخها إلى 30 عاماً من عصر Pentium"
+  },
   "tomshardware.com/software/windows/developer-manages-to-run-windows-11-26h2-with-just-128mb-of-ram-just-3-1-percent-of-recommended-minimum-stripped-down-installation-can-access-desktop-file-explorer-and-notepad": {
    "at": "2026-11-03T11:45:31.720541+00:00",
    "title": "Developer manages to run Windows 11 26H2 with just 128MB of RAM, just 3.1% of recommended minimum — stripped-down installation can access Desktop, File Explorer, and Notepad",
@@ -13008,7 +13019,7 @@
   "AI": "2026-11-08T14:30:40.295364+00:00",
   "Anime": "2026-11-08T12:00:46.750004+00:00",
   "Games": "2026-11-08T08:00:44.797125+00:00",
-  "Tech": "2026-11-08T13:45:27.525579+00:00"
+  "Tech": "2026-11-08T14:45:30.299487+00:00"
  },
  "digest_day": "2026-11-07",
  "weekly_day": "2026-11-06"
