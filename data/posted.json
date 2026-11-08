@@ -12101,17 +12101,6 @@
    "summary": "Russia's Rosstat admitted that its servers were attacked by hackers but denies data leaks which appear to show as many as 50,000 military deaths per month.",
    "title_ar": "قراصنة يزعمون سرقة 23 تيرابايت من البيانات التابعة لهيئة الإحصاء الروسية، بما في ذلك أرقام ضحايا حرب أوكرانيا، وهيئة الإحصاء الاتحادية الروسية تعقر بتعرض خوادمها لهجمات سيبرانية منسقة"
   },
-  "tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely": {
-   "at": "2026-11-01T21:15:25.660775+00:00",
-   "title": "New AI-driven Windows malware feeds stolen data to Claude to rank victims’ assets by value, then deletes itself — payload builds custom target assessment, can switch models if one refuses, or skip the AI step entirely",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely",
-   "score": 1,
-   "sources": 1,
-   "summary": "Cisco Talos says the VOLTA infostealer sends stolen victim data to Claude Opus 4.6 to rank assets by monetization value.",
-   "title_ar": "برمجية خبيثة جديدة لنظام Windows مدعومة بالذكاء الاصطناعي تغذي نموذج Claude بالبيانات المسروقة لترتيب أصول الضحايا حسب القيمة ثم تحذف نفسها - حمولة البرمجية تبني تقييماً مخصصاً للهدف ويمكنها تبديل النماذج إذا رفض أحدها أو تخطي خطوة الذكاء الاصطناعي تماماً"
-  },
   "tomshardware.com/tech-industry/cyber-security/nvidia-brev-security-breach-may-have-exposed-ssh-keys-used-to-access-customer-vms-investigation-finds-unauthorized-activity-spanning-16-days-but-no-evidence-of-misuse": {
    "at": "2026-11-03T00:00:41.874410+00:00",
    "title": "Nvidia Brev security breach may have exposed SSH keys used to access customer VMs",
