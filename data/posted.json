@@ -1,17 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/01/googlebook-detachables": {
-   "at": "2026-11-01T20:15:26.773549+00:00",
-   "title": "Google says Googlebook ‘detachables’ are coming soon",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/01/googlebook-detachables/",
-   "score": 1,
-   "sources": 1,
-   "summary": "At the Android Dev Summit 2026 earlier this week, Google said that Googlebook detachables will be the next form factor after clamshells and convertibles. more…",
-   "title_ar": "جوجل تصرّح بأن أجهزة Googlebook القابلة للفصل قادمة قريبًا"
-  },
   "9to5google.com/2026/11/02/aawireless-charge-qi2": {
    "at": "2026-11-03T05:15:40.514458+00:00",
    "title": "AAWireless expands beyond Android Auto adapters with new cooled Qi2 car charger",
@@ -4092,6 +4081,17 @@
    "sources": 1,
    "summary": "The latest Alexa for shopping feature is initially available by invite in the US.",
    "title_ar": ""
+  },
+  "engadget.com/2309286/why-apple-m6-chip-cant-compete-any-nvidia-gpu": {
+   "at": "2026-11-08T20:15:31.264620+00:00",
+   "title": "Why Apple's M6 Chip Can't Hold Its Own Against Any NVIDIA GPU",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2309286/why-apple-m6-chip-cant-compete-any-nvidia-gpu/",
+   "score": 1,
+   "sources": 1,
+   "summary": "With the announcement of its M6, Apple is stepping into a new generation of its processors.",
+   "title_ar": "لماذا لا يمكن لشريحة Apple M6 منافسة أي معالج رسوميات من NVIDIA"
   },
   "engadget.com/2309300/the-eu-accuses-tiktoks-rabbit-hole-algorithm-of-breaching-its-content-rules": {
    "at": "2026-11-06T17:30:39.361377+00:00",
@@ -12744,7 +12744,7 @@
   "AI": "2026-11-08T14:30:40.295364+00:00",
   "Anime": "2026-11-08T12:00:46.750004+00:00",
   "Games": "2026-11-08T08:00:44.797125+00:00",
-  "Tech": "2026-11-08T20:00:42.963385+00:00"
+  "Tech": "2026-11-08T20:15:31.264620+00:00"
  },
  "digest_day": "2026-11-08",
  "weekly_day": "2026-11-06"
