@@ -3411,6 +3411,17 @@
    "summary": "Adaptation based on light novel series broadcasts in Japan in January 2027",
    "title_ar": ""
   },
+  "crunchyroll.com/news/latest/2026/11/8/harajuku-himegoto-house-anime-media-mix-project-announced": {
+   "at": "2026-11-08T15:00:44.656552+00:00",
+   "title": "Harajuku Himegoto House Anime and Media Mix Project Announced",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://crunchyroll.com/news/latest/2026/11/8/harajuku-himegoto-house-anime-media-mix-project-announced",
+   "score": 0,
+   "sources": 1,
+   "summary": "Check out a teaser trailer for the \"cute hitmen\" project",
+   "title_ar": ""
+  },
   "crunchyroll.com/news/latest/2026/11/8/minami-ke-korekara-anime-april-2027-release-date-teaser-trailer-visual": {
    "at": "2026-11-08T07:00:43.948081+00:00",
    "title": "Minami-ke: Korekara Anime Reveals April 2027 Broadcast, Teaser Trailer and Visual",
@@ -11881,6 +11892,17 @@
    "summary": "Meta will now allow you to build customized, app-like experiences within its Muse AI assistant.",
    "title_ar": "ذكاء Muse من Meta يمكنه إنشاء مساحات مخصصة لنسخة التطبيق التي تحتاجها الآن"
   },
+  "theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview": {
+   "at": "2026-11-08T15:00:44.656552+00:00",
+   "title": "Chatbots might be coming to Apple’s HomeView",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+   "score": 1,
+   "sources": 1,
+   "summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub.",
+   "title_ar": "قد تتوفر روبوتات الدردشة في جهاز HomeView من Apple"
+  },
   "theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation": {
    "at": "2026-11-04T22:00:43.675176+00:00",
    "title": "Uber only fulfilled 4 rides from AI agents last quarter",
@@ -13019,7 +13041,7 @@
   "AI": "2026-11-08T14:30:40.295364+00:00",
   "Anime": "2026-11-08T12:00:46.750004+00:00",
   "Games": "2026-11-08T08:00:44.797125+00:00",
-  "Tech": "2026-11-08T14:45:30.299487+00:00"
+  "Tech": "2026-11-08T15:00:44.656552+00:00"
  },
  "digest_day": "2026-11-07",
  "weekly_day": "2026-11-06"
