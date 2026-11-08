@@ -4159,6 +4159,17 @@
    "summary": "Apple Music Classical now has a black-and-white logo, as well.",
    "title_ar": ""
   },
+  "engadget.com/2310316/suno-ai-music-generator-sued-again-for-copyright-infringement": {
+   "at": "2026-11-08T20:30:37.478300+00:00",
+   "title": "Suno AI music generator sued again for copyright infringement",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2310316/suno-ai-music-generator-sued-again-for-copyright-infringement/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Groups that own the music rights to Elvis Presley and Eminem's tracks filed the latest lawsuits.",
+   "title_ar": "موقع Suno لتوليد الموسيقى بالذكاء الاصطناعي يواجه دعوى قضائية جديدة بتهمة انتهاك حقوق الطبع والنشر"
+  },
   "eurogamer.net/anthropic-claude-generative-ai-game-clones-update": {
    "at": "2026-11-02T19:15:29.735059+00:00",
    "title": "As the controversy around AI-created video game copies continues, Anthropic seemingly restricts Claude's cloning abilities",
@@ -11089,6 +11100,17 @@
    "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse.",
    "title_ar": ""
   },
+  "theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy": {
+   "at": "2026-11-08T20:30:37.478300+00:00",
+   "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State…",
+   "title_ar": ""
+  },
   "theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy": {
    "at": "2026-11-06T20:15:35.094932+00:00",
    "title": "All the latest updates on AI data centers",
@@ -12744,7 +12766,7 @@
   "AI": "2026-11-08T14:30:40.295364+00:00",
   "Anime": "2026-11-08T12:00:46.750004+00:00",
   "Games": "2026-11-08T08:00:44.797125+00:00",
-  "Tech": "2026-11-08T20:15:31.264620+00:00"
+  "Tech": "2026-11-08T20:30:37.478300+00:00"
  },
  "digest_day": "2026-11-08",
  "weekly_day": "2026-11-06"
