@@ -9945,17 +9945,6 @@
    "summary": "Data centers are deeply unpopular.",
    "title_ar": "OpenAI قد تعيد تسمية مراكز البيانات الخاصة بها لتصبح ‘حرم الحوسبة الذكية’"
   },
-  "techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world": {
-   "at": "2026-11-01T15:13:44.571929+00:00",
-   "title": "Pixel 11 Pro Fold: Sturdy rectengale in a wide wide world",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
-   "title_ar": "Pixel 11 Pro Fold: مستطيل متين في عالم واسع جداً"
-  },
   "techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries": {
    "at": "2026-11-02T14:15:27.321484+00:00",
    "title": "A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries",
@@ -10924,17 +10913,6 @@
    "summary": "OpenAI hires Dan Driscoll, the former civilian head of the US Army, as \"Senior Counselor for National Security Modernization,\" likely to win government contracts and help shape AI rules for the…",
    "title_ar": "OpenAI تعين وزيراً سابقاً للجيش، محققةً تقارباً بين الحزبين مع اقتراب الانتخابات النصفية"
   },
-  "the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage": {
-   "at": "2026-11-01T15:13:44.571929+00:00",
-   "title": "OpenAI is steering ChatGPT users toward more paid usage",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/",
-   "score": 1,
-   "sources": 1,
-   "summary": "OpenAI is now capping the number of paid ChatGPT accounts per device and payment card.",
-   "title_ar": "OpenAI تدفع مستخدمي ChatGPT نحو المزيد من الاستخدام المدفوع"
-  },
   "the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital": {
    "at": "2026-11-07T10:00:43.593310+00:00",
    "title": "OpenAI lands an $11 billion funding round, but has to court dentists for more capital",
@@ -11859,17 +11837,6 @@
    "summary": "AI agents won't be stealing Uber's lunch any time soon.",
    "title_ar": "أوبر نفذت 4 رحلات فقط عبر وكلاء الذكاء الاصطناعي في الربع الماضي"
   },
-  "tomshardware.com/3d-printing/anycubic-and-thingiverse-announce-exclusive-3d-printing-partnership-makeronline-platform-to-offer-1-click-multicolor-3mf-models": {
-   "at": "2026-11-01T15:13:44.571929+00:00",
-   "title": "Anycubic and Thingiverse announce exclusive 3D printing partnership — MakerOnline platform to offer '1-click' multicolor 3MF models",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/3d-printing/anycubic-and-thingiverse-announce-exclusive-3d-printing-partnership-makeronline-platform-to-offer-1-click-multicolor-3mf-models",
-   "score": 1,
-   "sources": 1,
-   "summary": "Thingiverse partners with Anycubic to bring models directly to 3D printers.",
-   "title_ar": "Anycubic و Thingiverse تعلنان عن شراكة حصرية في الطباعة ثلاثية الأبعاد - منصة MakerOnline توفر نماذج 3MF ملونة بضغطة زر واحدة"
-  },
   "tomshardware.com/desktops/mini-pcs/amazon-closes-ai-creators-account-after-he-attempts-to-buy-seven-nvidia-dgx-spark-mini-pcs-epic-ceo-tim-sweeney-says-his-regular-orders-were-canceled-before-arrival-after-he-tried-to-buy-two-gpus": {
    "at": "2026-11-03T11:15:29.723345+00:00",
    "title": "Creator says Amazon closed his account after he tried to buy seven Nvidia DGX Sparks",
@@ -11968,6 +11935,17 @@
    "sources": 1,
    "summary": "Just 1% of chips promised to major Chinese companies to power their AI ambitions will be delivered, according to reports.",
    "title_ar": "تقرير يدعي أن Nvidia تستطيع تلبية 1% فقط من طلب الصين الضخم البالغ 70 مليار دولار لوحات معالجة الرسومات المخصصة للذكاء الاصطناعي - قيود الإمداد تعيق تسليم بطاقات RTX Pro 5500 المتوافقة مع التصدير على الرغم من الطلب الهائل"
+  },
+  "tomshardware.com/pc-components/gpus/nvidia-released-its-8800-gtx-gpu-20-years-ago-today-celebrates-with-steam-game-homage-interactive-demos-eye-watering-minimum-requirements-include-rtx-4070-32gb-ram-and-30gb-storage": {
+   "at": "2026-11-08T15:15:30.521363+00:00",
+   "title": "Nvidia released its 8800 GTX GPU 20 years ago today, celebrates with Steam game homage",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-released-its-8800-gtx-gpu-20-years-ago-today-celebrates-with-steam-game-homage-interactive-demos-eye-watering-minimum-requirements-include-rtx-4070-32gb-ram-and-30gb-storage",
+   "score": 1,
+   "sources": 1,
+   "summary": "On this day in 2006, Nvidia released the legendary GeForce 8800 GTX graphics card and it is celebrating the event with a very demanding (but free) interactive Steam demo.",
+   "title_ar": "Nvidia أطلقت بطاقتها الرسومية 8800 GTX قبل 20 عاماً من اليوم وتحتفل بذكراها عبر تحية في لعبة على Steam"
   },
   "tomshardware.com/pc-components/gpus/open-source-gpu-task-manager-reveals-exactly-whats-eating-your-vram-microsoft-vps-new-gpu-taskman-tool-reveals-every-process-using-your-gpu-how-much-memory-each-uses-and-breaks-down-ai-and-llm-workloads": {
    "at": "2026-11-08T13:45:27.525579+00:00",
@@ -12997,7 +12975,7 @@
   "AI": "2026-11-08T14:30:40.295364+00:00",
   "Anime": "2026-11-08T12:00:46.750004+00:00",
   "Games": "2026-11-08T08:00:44.797125+00:00",
-  "Tech": "2026-11-08T15:05:38.712882+00:00"
+  "Tech": "2026-11-08T15:15:30.521363+00:00"
  },
  "digest_day": "2026-11-07",
  "weekly_day": "2026-11-06"
