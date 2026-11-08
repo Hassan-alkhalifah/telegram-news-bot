@@ -12200,6 +12200,17 @@
    "summary": "Last week, Google released its latest AI model, Gemini 4 Carbon, topping intelligence rankings charts.",
    "title_ar": "Google تكشف عن نموذج الذكاء الاصطناعي الجديد Gemini 4 Carbon متفوقاً بفارق ضئيل على Claude Opus 5.5، وتؤكد الاختبارات القياسية أن النموذج الرائدة هو الأقل عرضة للهلوسة أيضاً"
   },
+  "tomshardware.com/tech-industry/artificial-intelligence/homelabber-uses-second-gen-optane-memory-sticks-to-run-a-2-8-trillion-parameter-ai-model-on-cpu-alone-warns-that-optanes-extreme-heat-can-burn-out-nearby-memory-dram-used-blower-fans-to-prevent-melting-ram": {
+   "at": "2026-11-08T12:30:37.246959+00:00",
+   "title": "Homelabber uses second-gen Optane memory sticks to run a 2.8-trillion-parameter AI model on CPU alone",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabber-uses-second-gen-optane-memory-sticks-to-run-a-2-8-trillion-parameter-ai-model-on-cpu-alone-warns-that-optanes-extreme-heat-can-burn-out-nearby-memory-dram-used-blower-fans-to-prevent-melting-ram",
+   "score": 1,
+   "sources": 1,
+   "summary": "A Reddit homelab user ran Moonshot AI’s 2.8-trillion-parameter Kimi K3 CPU-only on Optane PMem 200 at 0.85 tokens/s with a 1-bit quant.",
+   "title_ar": "مطور مختبر منزلي يستخدم وحدات ذاكرة Optane من الجيل الثاني لتشغيل نموذج ذكاء اصطناعي بـ 2.8 تريليون معلمة على وحدة المعالجة المركزية وحدها"
+  },
   "tomshardware.com/tech-industry/artificial-intelligence/tesla-unveils-ai-accelerator-roadmap-adopts-new-si-branding-in-super-intelligence-push-si6-to-bring-80x-more-compute-performance-dojo-3-headed-to-space": {
    "at": "2026-11-06T12:00:44.962591+00:00",
    "title": "Tesla unveils AI accelerator roadmap, adopts new 'SI' branding in 'Super Intelligence' push",
@@ -13019,7 +13030,7 @@
   "AI": "2026-11-07T22:15:32.119452+00:00",
   "Anime": "2026-11-08T12:00:46.750004+00:00",
   "Games": "2026-11-08T08:00:44.797125+00:00",
-  "Tech": "2026-11-08T11:45:30.157130+00:00"
+  "Tech": "2026-11-08T12:30:37.246959+00:00"
  },
  "digest_day": "2026-11-07",
  "weekly_day": "2026-11-06"
