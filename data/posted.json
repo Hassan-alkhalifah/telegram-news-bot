@@ -12,17 +12,6 @@
    "summary": "At the Android Dev Summit 2026 earlier this week, Google said that Googlebook detachables will be the next form factor after clamshells and convertibles. more…",
    "title_ar": "جوجل تصرّح بأن أجهزة Googlebook القابلة للفصل قادمة قريبًا"
   },
-  "9to5google.com/2026/11/01/motorola-oneplus-gap": {
-   "at": "2026-11-01T15:30:37.378625+00:00",
-   "title": "Motorola is filling the gap OnePlus left behind, mostly",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/01/motorola-oneplus-gap/",
-   "score": 1,
-   "sources": 1,
-   "summary": "As we near the launch of Motorola’s return to the flagship space, it’s becoming clear that the company is ready to fill a gap left by the departure of OnePlus, though there’s one very obvious…",
-   "title_ar": "موتورولا تملأ الفراغ الذي تركته OnePlus، في الغالب"
-  },
   "9to5google.com/2026/11/02/aawireless-charge-qi2": {
    "at": "2026-11-03T05:15:40.514458+00:00",
    "title": "AAWireless expands beyond Android Auto adapters with new cooled Qi2 car charger",
@@ -1628,6 +1617,17 @@
    "sources": 1,
    "summary": "Next spring, Apple will take the stage to unveil the second-generation iPhone Air to the world, after taking a bit more time to go back to the drawing board and incorporate a second camera into the…",
    "title_ar": "iPhone Air 2 قادم العام القادم، وإليك السبب وراء امتلاكه ما يثبته أكثر من أي وقت مضى"
+  },
+  "9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report": {
+   "at": "2026-11-08T15:30:39.314498+00:00",
+   "title": "Apple aiming to make Siri ‘more like an agent’ as soon as next year: report",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Apple finally shipped its long awaited personalized Siri with iOS 27.",
+   "title_ar": "تقرير: شركة Apple تسعى لجعل Siri \"أقرب إلى الوكيل\" في أقرب وقت العام المقبل"
   },
   "animecorner.me/black-clover-season-2-episode-6-previews-noelle-and-charlotte-facing-vanica": {
    "at": "2026-11-04T10:30:38.697022+00:00",
@@ -8691,6 +8691,17 @@
    "summary": "The Spy x Family Anime Extra Mission II special event announced a fourth season and a second theatrical movie on Sunday, revealing a teaser visual (pictured) for Season 4.",
    "title_ar": ""
   },
+  "myanimelist.net/news/74917765?_location=rss": {
+   "at": "2026-11-08T15:30:39.314498+00:00",
+   "title": "'Boku no Suki na Hito ga Suki na Hito' Reveals Main Cast, Staff, Teaser Promo, Spring 2027 Premiere",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://myanimelist.net/news/74917765?_location=rss",
+   "score": 0,
+   "sources": 1,
+   "summary": "Production company Avex Pictures opened an official website for a television anime adaptation of Sekina Aoi and Ryou Tsuzura's Boku no Suki na Hito ga Suki na Hito (My Crush's Crush) manga on…",
+   "title_ar": ""
+  },
   "nintendolife.com/news/2026/11/after-cancelling-zelda-switch-2-pre-orders-walmart-is-now-supposedly-sending-out-usd519-gift-cards": {
    "at": "2026-11-03T03:45:28.861488+00:00",
    "title": "After Cancelling Zelda Switch 2 Pre-Orders, Walmart Is Now Supposedly Sending Out $519 Gift Cards",
@@ -10792,17 +10803,6 @@
    "summary": "OpenAI is adding a GIF feature to ChatGPT.",
    "title_ar": ""
   },
-  "the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help": {
-   "at": "2026-11-01T15:19:41.333043+00:00",
-   "title": "Google wants video AI to understand what people need as they work",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help/",
-   "score": 1,
-   "sources": 1,
-   "summary": "A Google-led research team built StreamVibe, a video agent designed to watch people cook or assemble furniture and speak up only when help is needed.",
-   "title_ar": "Google تريد من الذكاء الاصطناعي الخاص بالفيديو فهم ما يحتاجه الأشخاص أثناء عملهم"
-  },
   "the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff": {
    "at": "2026-11-07T10:00:43.593310+00:00",
    "title": "Google's AI detects high blood pressure from a regular smartwatch without a cuff",
@@ -10967,17 +10967,6 @@
    "sources": 1,
    "summary": "With GPT-6 Cyber, OpenAI is introducing an AI model built to find security vulnerabilities in software, develop exploits, and suggest patches.",
    "title_ar": "GPT-6 Cyber من OpenAI قادرة علىاختراق الأنظمة واقتراح طرق إصلاحها"
-  },
-  "the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing": {
-   "at": "2026-11-01T15:19:41.333043+00:00",
-   "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
-   "score": 1,
-   "sources": 1,
-   "summary": "OpenAI combines the Chat and Work modes into a single interface.",
-   "title_ar": "دمج الدردشة والعمل القادم من OpenAI في ChatGPT يشير إلى نهاية تسعير الاستخدام المفتوح"
   },
   "the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent": {
    "at": "2026-11-06T17:00:48.163456+00:00",
@@ -11958,17 +11947,6 @@
    "summary": "A new open-source GitHub project called gputaskman has been released by Microsoft VP Scott Hanselman.",
    "title_ar": "مدير مهام للـ GPU مفتوح المصدر يكشف بدقة ما يستهلك الـ VRAM الخاص بك"
   },
-  "tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops": {
-   "at": "2026-11-01T15:30:37.378625+00:00",
-   "title": "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops",
-   "score": 1,
-   "sources": 1,
-   "summary": "An open-source UEFI tool, nv-uefi-unlocker, lifts Nvidia’s tensor rate cap on RTX 20, 30, and 40-series GPUs under Windows.",
-   "title_ar": "أداة USB مفتوحة المصدر تكسر قيود الذكاء الاصطناعي لبطاقات Nvidia الرسومية ذات السرعة النصفية على نظام Windows"
-  },
   "tomshardware.com/pc-components/gpus/six-pallets-of-nvidia-gpus-worth-usd11-4-million-stolen-in-california-cargo-heist-authorities-investigate-after-truck-posing-as-a-food-transport-company-disappears": {
    "at": "2026-11-06T13:45:29.016263+00:00",
    "title": "Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist",
@@ -12178,17 +12156,6 @@
    "summary": "Nvidia's Jensen Huang officially called to Congress due to reports of Chinese plot — officials mention growing concerns over national security",
    "title_ar": "استدعاء جينسن هوانغ رئيس Nvidia رسمياً إلى الكونغرس بسبب تقارير عن مؤامرة تجسس صينية"
   },
-  "tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies": {
-   "at": "2026-11-01T15:30:37.378625+00:00",
-   "title": "Police Chief physically unplugs Flock cameras after the company ignores contract cancellation",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
-   "score": 1,
-   "sources": 1,
-   "summary": "The Plymouth City Council was left with no choice but to physically disconnect the cameras after Flock failed to respond to its demands.",
-   "title_ar": "مدير الشرطة يفصل كاميرات Flock يدويًا بعد تجاهل الشركة لإلغاء العقد"
-  },
   "tomshardware.com/tech-industry/cryptocurrency/binance-heist-began-with-fake-job-interviews-and-a-malicious-homebrew-download-attackers-used-adulterated-software-and-social-engineering-to-gain-access-to-billions-in-assets": {
    "at": "2026-11-04T13:15:29.055625+00:00",
    "title": "Binance heist began with fake job interviews and a malicious Homebrew download",
@@ -12364,17 +12331,6 @@
    "sources": 1,
    "summary": "The protesters stormed over the walls and took over the construction site, with the Stop Dirty Data Centers coalition saying that more actions are planned across Europe.",
    "title_ar": ""
-  },
-  "tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers": {
-   "at": "2026-11-01T15:19:41.333043+00:00",
-   "title": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers",
-   "score": 1,
-   "sources": 1,
-   "summary": "OpenAI CEO Sam Altman met with around 50 Samsung executives in South Korea on October 31 to discuss AI's future, business opportunities and the technology's impact on corporate operations.",
-   "title_ar": "Sam Altman يجتمع مع قيادة Samsung لتأمين المزيد من ذاكرة الوصول العشوائي (RAM) لمراكز البيانات وسط نقص حاد"
   },
   "tomshardware.com/tech-industry/data-centers/spacex-loses-bid-to-dismiss-lawsuit-over-xai-data-center-pollution-judge-rules-mississippi-gas-turbines-are-not-exempt-from-the-clean-air-act": {
    "at": "2026-11-02T12:15:28.702385+00:00",
@@ -12975,7 +12931,7 @@
   "AI": "2026-11-08T14:30:40.295364+00:00",
   "Anime": "2026-11-08T12:00:46.750004+00:00",
   "Games": "2026-11-08T08:00:44.797125+00:00",
-  "Tech": "2026-11-08T15:15:30.521363+00:00"
+  "Tech": "2026-11-08T15:30:39.314498+00:00"
  },
  "digest_day": "2026-11-07",
  "weekly_day": "2026-11-06"
