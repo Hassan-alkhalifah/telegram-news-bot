@@ -23,17 +23,6 @@
    "summary": "Good morning!",
    "title_ar": "الألعاب على نظام Android تشهد نهضة"
   },
-  "9to5google.com/2026/11/02/galaxy-s27-privacy-display-improved-brightness": {
-   "at": "2026-11-02T18:45:27.787421+00:00",
-   "title": "Privacy Display on Galaxy S27 Pro and S27 Ultra looks more promising in latest leak",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/02/galaxy-s27-privacy-display-improved-brightness/",
-   "score": 2,
-   "sources": 1,
-   "summary": "A new leak strengthens a previous rumor that the Galaxy S27 Pro and Galaxy S27 Ultra will get an improved version of Samsung’s Privacy Display, used on this year’s flagship. more…",
-   "title_ar": "شاشة الخصوصية في هاتفي Galaxy S27 Pro و Galaxy S27 Ultra تبدو أكثر واعدة في أحدث تسريب"
-  },
   "9to5google.com/2026/11/02/google-android-tv-box-backdoor-shut-down": {
    "at": "2026-11-02T20:21:15.672806+00:00",
    "title": "Google shuts down a sneaky malware backdoor on millions of Android TV and Google TV boxes",
@@ -3312,6 +3301,17 @@
    "summary": "Crunchyroll streams all current seasons and the CODE: WHITE film",
    "title_ar": "الإعلان عن الموسم الرابع من SPY x FAMILY وفيلم أنمي جديد لعام 2027"
   },
+  "crunchyroll.com/news/latest/2026/11/9/atelier-karia-the-night-kingdom-the-guide-of-memories-story-trailer": {
+   "at": "2026-11-09T18:45:31.961057+00:00",
+   "title": "Atelier Karia: The Night Kingdom & the Guide of Memories Story Trailer Debuts",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://crunchyroll.com/news/latest/2026/11/9/atelier-karia-the-night-kingdom-the-guide-of-memories-story-trailer",
+   "score": 0,
+   "sources": 1,
+   "summary": "Next entry in the series launches in the west in February 2027",
+   "title_ar": ""
+  },
   "crunchyroll.com/news/latest/2026/11/9/baki-gaiden-retsu-kaioh-wa-isekai-tensei-shitemo-ikko-ni-kamawan-stage-play-key-visual-main-cast": {
    "at": "2026-11-09T04:30:37.765477+00:00",
    "title": "Baki Gaiden: Retsu Kaioh wa Isekai Tensei Shitemo Ikko ni Kamawan Stage Play Unveils Key Visual, Main Cast",
@@ -5236,6 +5236,17 @@
    "sources": 1,
    "summary": "Arcade Archives 2 Exzisus will launch for PlayStation 5, Xbox Series, and Switch 2, and …",
    "title_ar": ""
+  },
+  "gematsu.com/2026/11/atelier-karia-the-night-kingdom-the-guide-of-memories-story-trailer-digital-pre-orders-now-available": {
+   "at": "2026-11-09T18:45:31.961057+00:00",
+   "title": "Atelier Karia: The Night Kingdom & the Guide of Memories ‘Story’ trailer, digital pre-orders now available",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.gematsu.com/2026/11/atelier-karia-the-night-kingdom-the-guide-of-memories-story-trailer-digital-pre-orders-now-available",
+   "score": 3,
+   "sources": 2,
+   "summary": "Publisher Koei Tecmo and developer Gust have released the story trailer and opened digital pre-orders …",
+   "title_ar": "عرض القصة لعبة Atelier Karia: The Night Kingdom & the Guide of Memories، والححوزات الرقمية المسبقة متاحة الآن"
   },
   "gematsu.com/2026/11/bill-teds-excellent-adventure-arcade-announced-for-ps5-xbox-series-switch-and-pc": {
    "at": "2026-11-03T17:30:42.298260+00:00",
@@ -8260,17 +8271,6 @@
    "score": 0,
    "sources": 1,
    "summary": "That's a bummer",
-   "title_ar": ""
-  },
-  "kotaku.com/theres-footage-running-around-that-might-be-a-first-look-at-a-persona-1-remake-2000752362": {
-   "at": "2026-11-02T18:45:27.787421+00:00",
-   "title": "There’s Footage Running Around That Might Be A First Look At A Persona 1 Remake",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/theres-footage-running-around-that-might-be-a-first-look-at-a-persona-1-remake-2000752362",
-   "score": 0,
-   "sources": 1,
-   "summary": "If it's not authentic, it is convincingly well-made",
    "title_ar": ""
   },
   "kotaku.com/this-years-n7-day-spent-fighting-for-mass-effects-future-2000754828": {
@@ -12875,7 +12875,7 @@
  "topic_last_posted": {
   "AI": "2026-11-09T18:30:44.921863+00:00",
   "Anime": "2026-11-09T18:00:48.956208+00:00",
-  "Games": "2026-11-09T17:45:31.988002+00:00",
+  "Games": "2026-11-09T18:45:31.961057+00:00",
   "Tech": "2026-11-09T18:30:44.921863+00:00"
  },
  "digest_day": "2026-11-09",
