@@ -2597,6 +2597,17 @@
    "summary": "SEGA: No indications that other personal info was also leaked",
    "title_ar": "SEGA تؤكد تسريب عناوين البريد الإلكتروني لـ 2.2 مليون مشترك في النشرة الإخبارية"
   },
+  "arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github": {
+   "at": "2026-11-09T20:00:46.507717+00:00",
+   "title": "Claude Code is accidentally exposing secrets all over GitHub",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+   "score": 1,
+   "sources": 1,
+   "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+   "title_ar": "أداة Claude Code تكشف الأسرار عن طريق الخطأ في جميع أنحاء GitHub"
+  },
   "arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable": {
    "at": "2026-11-05T21:45:30.047697+00:00",
    "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
@@ -6964,6 +6975,17 @@
    "summary": "The Legend of Zelda producer Eiji Aonuma asked the Ocarina of Time remake team to add fast travel warp points throughout Hyrule, but it didn't take long for him to realize that was probably a bad…",
    "title_ar": ""
   },
+  "ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-dataminers-uncover-potential-majoras-mask-master-quest-dlc-hints": {
+   "at": "2026-11-09T20:00:46.507717+00:00",
+   "title": "The Legend of Zelda: Ocarina of Time Remake Dataminers Uncover Potential Majora's Mask, Master Quest DLC Hints",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-dataminers-uncover-potential-majoras-mask-master-quest-dlc-hints",
+   "score": 0,
+   "sources": 1,
+   "summary": "The Legend of Zelda: Ocarina of Time players are getting their hopes up after dataminers uncovered hints of Master Quest DLC – and maybe even some Majora's Mask content – tucked in the files of…",
+   "title_ar": ""
+  },
   "ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-full-english-voice-cast-revealed": {
    "at": "2026-11-05T09:00:46.647301+00:00",
    "title": "The Legend of Zelda: Ocarina of Time Remake Full English Voice Cast Revealed",
@@ -7006,6 +7028,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Ubisoft is reportedly among multiple suitors preparing bids to try and purchase French developer Arkane Lyon, makers of the Dishonored series and the upcoming Marvel's Blade, from Microsoft in the…",
+   "title_ar": ""
+  },
+  "ign.com/articles/world-of-warcraft-forever-is-the-biggest-wow-launch-in-history": {
+   "at": "2026-11-09T20:00:46.507717+00:00",
+   "title": "World of Warcraft Forever Is the Biggest WoW Launch in History",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/world-of-warcraft-forever-is-the-biggest-wow-launch-in-history",
+   "score": 0,
+   "sources": 1,
+   "summary": "Even during the beta, World of Warcraft Forever was shaping up to be huge, with an unprecedented amount of testers.",
    "title_ar": ""
   },
   "ign.com/articles/world-of-warcraft-forever-launch-live-blog": {
@@ -9846,17 +9879,6 @@
    "summary": "NepNep.",
    "title_ar": "هذه السلسلة من ألعاب JRPG المستوحاة قليلاً من حروب الأجهزة المنزلية تحصل أخيرًا على جزء جديد لجهاز PS5"
   },
-  "pushsquare.com/news/2026/11/travis-touchdown-will-definitely-be-back-for-no-more-heroes-20th-anniversary": {
-   "at": "2026-11-02T20:00:42.058591+00:00",
-   "title": "Travis Touchdown 'Will Definitely Be Back' for No More Heroes 20th Anniversary",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pushsquare.com/news/2026/11/travis-touchdown-will-definitely-be-back-for-no-more-heroes-20th-anniversary",
-   "score": 0,
-   "sources": 1,
-   "summary": "One more hero.",
-   "title_ar": ""
-  },
   "pushsquare.com/news/2026/11/ubisoft-one-of-multiple-companies-to-bid-for-dishonored-dev-arkane": {
    "at": "2026-11-04T00:00:42.284440+00:00",
    "title": "Ubisoft One of Multiple Companies to Bid for Dishonored Dev Arkane",
@@ -9966,17 +9988,6 @@
    "sources": 1,
    "summary": "The one-year-old startup is now valued at $300 million.",
    "title_ar": "شركة Trajectory ت جمع 45 مليون دولار لجعل تدريب نماذج الذكاء الاصطناعي في متناول الخبراء غير التقنيين"
-  },
-  "techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees": {
-   "at": "2026-11-02T19:45:29.490155+00:00",
-   "title": "Web host Squarespace lays off 19% of its employees",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
-   "title_ar": ""
   },
   "techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute": {
    "at": "2026-11-03T17:45:32.846690+00:00",
@@ -11452,17 +11463,6 @@
    "summary": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch.",
    "title_ar": "نتفليكس ستعرض عليك توصيات مخصصة عبر تبويب \"AI Discover\" الجديد"
   },
-  "theverge.com/tech/1024447/squarespace-layoffs-19-percent": {
-   "at": "2026-11-02T19:45:29.490155+00:00",
-   "title": "Squarespace is laying off 19 percent of employees",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent",
-   "score": 2,
-   "sources": 2,
-   "summary": "The website-building platform Squarespace is laying off 19 percent of its employees as it works to \"simplify\" its operations, Squarespace spokesperson Jeff Seedman says in a statement to The Verge.",
-   "title_ar": ""
-  },
   "theverge.com/tech/1024484/peak-design-wireless-travel-battery-charging-charger-station-qi": {
    "at": "2026-11-03T14:15:31.312366+00:00",
    "title": "Peak Design expands its collection of wireless charging accessories",
@@ -12761,17 +12761,6 @@
    "summary": "Funding games like it was an unsustainable practice, David Sears says",
    "title_ar": ""
   },
-  "videogameschronicle.com/news/travis-touchdown-will-definitely-be-back-suda51-is-planning-something-for-no-more-heroes-20th-anniversary-next-year": {
-   "at": "2026-11-02T20:00:42.058591+00:00",
-   "title": "‘Travis Touchdown will definitely be back’: Suda51 is planning something for No More Heroes’ 20th anniversary next year",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.videogameschronicle.com/news/travis-touchdown-will-definitely-be-back-suda51-is-planning-something-for-no-more-heroes-20th-anniversary-next-year/",
-   "score": 2,
-   "sources": 2,
-   "summary": "Grasshopper and Marvelous want to \"deliver something special\", he says",
-   "title_ar": "Travis Touchdown سيقود عودته بالتأكيد: Suda51 يخطط لشيء ما بمناسبة الذكرى العشرين لسلسلة No More Heroes العام القادم"
-  },
   "videogameschronicle.com/news/ubisoft-has-reportedly-offered-to-buy-arkane-lyon-from-xbox": {
    "at": "2026-11-03T22:30:38.226600+00:00",
    "title": "Ubisoft has reportedly offered to buy Arkane Lyon from Xbox",
@@ -12862,7 +12851,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-09T19:00:48.287876+00:00",
+  "AI": "2026-11-09T20:00:46.507717+00:00",
   "Anime": "2026-11-09T19:30:42.397627+00:00",
   "Games": "2026-11-09T19:45:29.331647+00:00",
   "Tech": "2026-11-09T19:15:30.412911+00:00"
