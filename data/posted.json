@@ -1904,17 +1904,6 @@
    "summary": "New awards event to take place at SGC Hall Ariake on November 21, 2027",
    "title_ar": "الإعلان عن فعالية \"Nippon Anime Awards\" الجديدة في نوفمبر 2027"
   },
-  "animenewsnetwork.com/news/2026-11-02/new-resident-evil-reboot-film-earns-usd400-million-globally/.243442": {
-   "at": "2026-11-02T12:30:37.836048+00:00",
-   "title": "New Resident Evil Reboot Film Earns US$400 Million Globally",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-02/new-resident-evil-reboot-film-earns-usd400-million-globally/.243442",
-   "score": 1,
-   "sources": 1,
-   "summary": "Film becomes highest-grossing installment in horror franchise",
-   "title_ar": "فيلم Resident Evil Reboot الجديد يحقق 400 مليون دولار عالمياً"
-  },
   "animenewsnetwork.com/news/2026-11-02/recording-sound-mixer-yoshio-obara-dies/.243451": {
    "at": "2026-11-02T20:30:38.404496+00:00",
    "title": "Recording/Sound Mixer Yoshio Obara Dies",
@@ -4509,6 +4498,17 @@
    "score": 0,
    "sources": 1,
    "summary": "It's been a good year for Nintendo: between Star Fox - the N64 classic with a dazzling facelift on Switch 2 - and the newly-launched and utterly fantastic Ocarina of Time remake, the platform holder…",
+   "title_ar": ""
+  },
+  "eurogamer.net/selfridges-gta-6-collab-takeover": {
+   "at": "2026-11-09T12:30:38.659338+00:00",
+   "title": "London department store Selfridges launches sizeable GTA 6 takeover, featuring a varsity jacket that costs an eye-watering £2,500",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/selfridges-gta-6-collab-takeover",
+   "score": 0,
+   "sources": 1,
+   "summary": "Expensive British department store Selfridges has launched a sizeable Grand Theft Auto 6 takeover, completely making-over its Oxford Street London Corner Shop store and offering a considerable line…",
    "title_ar": ""
   },
   "eurogamer.net/sony-bend-studio-next-playstation-game-2027": {
@@ -7469,17 +7469,6 @@
    "sources": 1,
    "summary": "The release date for Pokemon Pokopia's Expansion Pass Part 2, 'Dazzling Decorations', has been revealed.",
    "title_ar": ""
-  },
-  "insider-gaming.com/prince-of-persia-fan-offers-ubisoft-5-million-to-resume-sands-of-time-remake": {
-   "at": "2026-11-02T12:30:37.836048+00:00",
-   "title": "Prince of Persia ‘Fan’ Offers Ubisoft €5 Million To Resume Sands of Time Remake",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://insider-gaming.com/prince-of-persia-fan-offers-ubisoft-5-million-to-resume-sands-of-time-remake/",
-   "score": 2,
-   "sources": 1,
-   "summary": "One dedicated and apparently wealthy fan is willing to give Ubisoft lots of money to complete the Prince of Persia: Sands of Time Remake.",
-   "title_ar": "معجب بسلسلة Prince of Persia يعرض على شركة Ubisoft مبلغ 5 ملايين يورو لاستئناف تطوير نسخة الريميك لـ Sands of Time"
   },
   "insider-gaming.com/ratchet-clank-ranger-rumble-development-ends-without-ever-officially-being-released": {
    "at": "2026-11-06T14:30:38.510151+00:00",
@@ -11771,6 +11760,17 @@
    "summary": "AMD's data center business surges as strong demand for Epyc processors and Instinct accelerators continues and sales of client hardware declines only slightly.",
    "title_ar": "AMD تتوقع تفوق مبيعاتها على مبيعات Intel في الربع الرابع لأول مرة في التاريخ"
   },
+  "tomshardware.com/pc-components/cpus/grab-amds-fastest-mainstream-gaming-cpu-for-a-record-low-usd399-99-right-now-powerhouse-ryzen-7-9800x3d-chip-is-a-must-buy-upgrade-for-any-am5-gaming-pc-build": {
+   "at": "2026-11-09T12:30:38.659338+00:00",
+   "title": "Grab AMD's fastest mainstream gaming CPU for a record-low $399.99 right now",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/pc-components/cpus/grab-amds-fastest-mainstream-gaming-cpu-for-a-record-low-usd399-99-right-now-powerhouse-ryzen-7-9800x3d-chip-is-a-must-buy-upgrade-for-any-am5-gaming-pc-build",
+   "score": 2,
+   "sources": 1,
+   "summary": "The AMD Ryzen 7 9800X3D is down to an all-time low price of $399.95, with the 9850X3D down to $419.99.",
+   "title_ar": "احصل على أسرع معالج ألعاب رئيسي من AMD بسعر قياسي منخفض يبلغ 399.99 دولاراً الآن"
+  },
   "tomshardware.com/pc-components/cpus/intel-leaker-claims-nova-lake-desktop-chips-have-5-1-ghz-clock-limit-beyond-90-c-high-clock-speeds-could-demand-significant-cooling-for-next-gen-chips": {
    "at": "2026-11-05T16:45:32.458722+00:00",
    "title": "Intel leaker claims Nova Lake desktop chips have 5.1 GHz clock limit beyond 90°C",
@@ -12788,7 +12788,7 @@
   "AI": "2026-11-09T08:15:27.744398+00:00",
   "Anime": "2026-11-09T07:00:48.210502+00:00",
   "Games": "2026-11-09T11:15:29.188887+00:00",
-  "Tech": "2026-11-09T12:15:32.801871+00:00"
+  "Tech": "2026-11-09T12:30:38.659338+00:00"
  },
  "digest_day": "2026-11-08",
  "weekly_day": "2026-11-06"
