@@ -518,6 +518,17 @@
    "summary": "Google may have hiked the price of the Pixel 10a in recent months, but a limited-time deal is the best price you’ll find at $450. more…",
    "title_ar": "سعر Pixel 10a ينخفض إلى 449 دولاراً، وهو أفضل عرض ستجده بعد زيادة جوجل للأسعار"
   },
+  "9to5google.com/2026/11/09/samsung-galaxy-s27-series-camera-specs-leak-and-theyre-disappointing": {
+   "at": "2026-11-09T23:30:40.402796+00:00",
+   "title": "Samsung Galaxy S27 series camera specs leak, and they’re disappointing",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/09/samsung-galaxy-s27-series-camera-specs-leak-and-theyre-disappointing/",
+   "score": 2,
+   "sources": 1,
+   "summary": "New leaks reveal the camera specs for Samsung’s upcoming Galaxy S27 series which includes three lenses across the lineup, but not the upgrades you want, nor what Ultra owners might expect. more…",
+   "title_ar": "تسريب مواصفات كاميرا سلسلة Samsung Galaxy S27 وهي مخيبة للآمال"
+  },
   "9to5google.com/2026/11/09/walmart-google-tv-streamer-lineup-price-hike": {
    "at": "2026-11-09T22:30:37.284784+00:00",
    "title": "Walmart raises prices on its entire Google TV streamer lineup",
@@ -6073,17 +6084,6 @@
    "summary": "The Samsung Galaxy Fit3, launched in February 2024, is due for a successor.",
    "title_ar": "Samsung Galaxy Fit4 قد يدعم تقنية NFC للدفع"
   },
-  "gsmarena.com/samsung_galaxy_s27_certification_reveals_its_charging_prowess-news-75310.php": {
-   "at": "2026-11-02T23:30:37.670127+00:00",
-   "title": "New Samsung Galaxy S27+ certification confirms its charging prowess",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.gsmarena.com/samsung_galaxy_s27_certification_reveals_its_charging_prowess-news-75310.php",
-   "score": 2,
-   "sources": 1,
-   "summary": "The upcoming Samsung Galaxy S27+ showed up in China's 3C database with 45W charging support back in September, and now another certification is backing that up.",
-   "title_ar": "شهادة Samsung Galaxy S27+ الجديدة تؤكد قدرات الشحن الخاصة به"
-  },
   "gsmarena.com/samsung_galaxy_s27_is_headed_to_india_new_certification_reveals-news-75375.php": {
    "at": "2026-11-06T03:15:34.846671+00:00",
    "title": "Samsung Galaxy S27 is headed to India, new certification reveals",
@@ -7622,6 +7622,17 @@
    "score": 0,
    "sources": 1,
    "summary": "In an ill-timed post on social media, Electronic Arts has tried cashing in on Mass Effect, a franchise it has just killed.",
+   "title_ar": ""
+  },
+  "insider-gaming.com/nba-2k27-missed-sales-expectations": {
+   "at": "2026-11-09T23:30:40.402796+00:00",
+   "title": "NBA 2K27 Missed Sales Expectations Due to GTA 6",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/nba-2k27-missed-sales-expectations/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Though it still sold well compared to previous entries, NBA 2K27 didn't hit sales expectations, and GTA 6 could be the reason why.",
    "title_ar": ""
   },
   "insider-gaming.com/nintendo-making-more-remakes": {
@@ -10252,17 +10263,6 @@
    "sources": 1,
    "summary": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as…",
    "title_ar": ""
-  },
-  "techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts": {
-   "at": "2026-11-02T23:15:33.462657+00:00",
-   "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-   "score": 1,
-   "sources": 1,
-   "summary": "The one-year-old startup is now valued at $300 million.",
-   "title_ar": "شركة Trajectory ت جمع 45 مليون دولار لجعل تدريب نماذج الذكاء الاصطناعي في متناول الخبراء غير التقنيين"
   },
   "techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute": {
    "at": "2026-11-03T17:45:32.846690+00:00",
@@ -13162,7 +13162,7 @@
   "AI": "2026-11-09T20:45:32.543113+00:00",
   "Anime": "2026-11-09T22:15:32.439194+00:00",
   "Games": "2026-11-09T23:00:45.545069+00:00",
-  "Tech": "2026-11-09T23:15:28.478010+00:00"
+  "Tech": "2026-11-09T23:30:40.402796+00:00"
  },
  "digest_day": "2026-11-09",
  "weekly_day": "2026-11-06"
