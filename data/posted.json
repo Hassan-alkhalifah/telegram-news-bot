@@ -1893,17 +1893,6 @@
    "summary": "Series debuting on Netflix on December 17 with scenes with 8,000 extras",
    "title_ar": "الكشف عن العرض الدعائي والملصق الرئيسي لمسلسل الواقع الحي Quiztopia"
   },
-  "animenewsnetwork.com/news/2026-11-02/television-producer-distributor-sandy-frank-dies-at-97/.243457": {
-   "at": "2026-11-02T21:30:41.253089+00:00",
-   "title": "Television Producer/Distributor Sandy Frank Dies at 97",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-02/television-producer-distributor-sandy-frank-dies-at-97/.243457",
-   "score": 1,
-   "sources": 1,
-   "summary": "Sandy Frank distributed Battle of the Planets anime; Name That Tune , The Dating Game game shows",
-   "title_ar": "وفاة منتج وموزع التلفزيون Sandy Frank عن عمر يناهز 97 عاماً"
-  },
   "animenewsnetwork.com/news/2026-11-03/cyberpunk-edgerunners-2-anime-streams-new-music-videos/.243487": {
    "at": "2026-11-03T17:00:45.520558+00:00",
    "title": "Cyberpunk Edgerunners 2 Anime Streams New Music Videos",
@@ -6513,17 +6502,6 @@
    "summary": "Rockstar may officially release GTA 6 on PC soon after console over concern about AI-generated clones, one former developer has said.",
    "title_ar": ""
   },
-  "ign.com/articles/former-xbox-coo-helen-chiang-speaks-out-following-shock-exit-from-microsoft": {
-   "at": "2026-11-02T21:30:41.253089+00:00",
-   "title": "Former Xbox COO Helen Chiang Speaks Out Following Shock Exit From Microsoft",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/former-xbox-coo-helen-chiang-speaks-out-following-shock-exit-from-microsoft",
-   "score": 0,
-   "sources": 1,
-   "summary": "On November 2, former Xbox COO Helen Chiang took to LinkedIn to “set the record straight” about rumors over her exit from Microsoft.",
-   "title_ar": ""
-  },
   "ign.com/articles/friendslop-added-to-collins-dictionary": {
    "at": "2026-11-03T13:45:29.669395+00:00",
    "title": "'Friendslop' Added to the Collins Dictionary, Beaten to Word of the Year by 'Mogging'",
@@ -7360,6 +7338,17 @@
    "summary": "Sony Santa Monica Studios has decided to delay the release date of God of War: Laufey.",
    "title_ar": ""
   },
+  "insider-gaming.com/gta-5-sales-reach-235-million-copies-since-launch": {
+   "at": "2026-11-09T21:45:29.667484+00:00",
+   "title": "GTA 5 Sales Reach Almost 235 Million Copies Since Launch",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://insider-gaming.com/gta-5-sales-reach-235-million-copies-since-launch/",
+   "score": 2,
+   "sources": 1,
+   "summary": "In its latest earnings report, Take-Two Interactive revealed that Grand Theft Auto 5 (GTA 5) has hit nearly 235 million copies sold.",
+   "title_ar": "مبيعات GTA 5 تصل إلى نحو 235 مليون نسخة منذ الإطلاق"
+  },
   "insider-gaming.com/gta-6-55-trophies-achievements-mythic-platinum": {
    "at": "2026-11-08T07:45:28.161860+00:00",
    "title": "Grand Theft Auto 6 Will Have 55 Trophies/Achievements",
@@ -7623,6 +7612,17 @@
    "sources": 2,
    "summary": "Ratchet & Clank: Ranger Rumble was a brand-new, mobile-only title that is officially being delisted without an official launch.",
    "title_ar": "انتهاء تطوير لعبة Ratchet & Clank: Ranger Rumble دون إطلاق رسمي"
+  },
+  "insider-gaming.com/red-dead-redemption-2-90m-sold": {
+   "at": "2026-11-09T21:45:29.667484+00:00",
+   "title": "Red Dead Redemption 2 Approaches 90M Units Sold Since Launch",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/red-dead-redemption-2-90m-sold/",
+   "score": 0,
+   "sources": 1,
+   "summary": "According to Take-Two's latest earnings report, Red Dead Redemption 2 has now sold nearly 90 million units since launch.",
+   "title_ar": ""
   },
   "insider-gaming.com/rockstar-celebrates-gta-6-launch-with-new-gameplay-screenshots": {
    "at": "2026-11-05T15:15:35.685635+00:00",
@@ -11397,17 +11397,6 @@
    "summary": "Nintendo president Shuntaro Furukawa said during the company's latest earnings call that it's \"not considering additional changes\" to the Switch 2's price, Reuters reports.",
    "title_ar": ""
   },
-  "theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments": {
-   "at": "2026-11-02T21:30:41.253089+00:00",
-   "title": "Xbox’s former COO has ‘serious concerns’ about her abrupt departure",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments",
-   "score": 0,
-   "sources": 1,
-   "summary": "Xbox's former chief operating officer, Helen Chiang, suddenly left Microsoft less than two weeks ago after being promoted into the role in July.",
-   "title_ar": ""
-  },
   "theverge.com/news/1025142/windows-11-8gb-ram-memory-improvements-speed-performance": {
    "at": "2026-11-03T17:15:30.293246+00:00",
    "title": "Windows 11 is now ‘up to 40 percent faster’ on PCs with 8GB of RAM",
@@ -12952,7 +12941,7 @@
  "topic_last_posted": {
   "AI": "2026-11-09T20:45:32.543113+00:00",
   "Anime": "2026-11-09T21:15:29.504407+00:00",
-  "Games": "2026-11-09T21:02:34.510109+00:00",
+  "Games": "2026-11-09T21:45:29.667484+00:00",
   "Tech": "2026-11-09T21:30:38.030751+00:00"
  },
  "digest_day": "2026-11-09",
