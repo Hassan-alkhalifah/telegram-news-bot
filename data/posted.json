@@ -3400,6 +3400,17 @@
    "summary": "Test your anime knowledge with our latest puzzle collection!",
    "title_ar": "أخبار Crunchyroll: ألغاز الإصدار 79 - منتصف اللعبة والكدمات"
   },
+  "crunchyroll.com/news/quizzes/2026/11/9/anime-crosswords-puzzles-vol-80": {
+   "at": "2026-11-09T15:00:47.099625+00:00",
+   "title": "Crunchyroll News Puzzles Vol. 80: City Limit Testing and Legendary Leader",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://crunchyroll.com/news/quizzes/2026/11/9/anime-crosswords-puzzles-vol-80",
+   "score": 1,
+   "sources": 1,
+   "summary": "Test your anime knowledge with our latest puzzle collection!",
+   "title_ar": "أخبار Crunchyroll: ألغاز الإصدار 80: اختبار حدود المدينه والقائد الأسطوري"
+  },
   "engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use": {
    "at": "2026-11-02T23:45:42.407749+00:00",
    "title": "Why it's important to use a microSD Express card with your Nintendo Switch 2",
@@ -9615,6 +9626,17 @@
    "summary": "Preload brought forward two days.",
    "title_ar": "تأكيد أن حجم ملف GTA 6 على PS5 هو 212 جيجابايت، والخريطة المادية متوفرة ولكن ليس داخل النسخ المعبأة"
   },
+  "pushsquare.com/news/2026/11/gta-6-the-festival-is-a-one-off-live-music-event-partly-presented-by-playstation": {
+   "at": "2026-11-09T15:00:47.099625+00:00",
+   "title": "GTA 6: The Festival Is a One-Off Live Music Event, Partly Presented by PlayStation",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pushsquare.com/news/2026/11/gta-6-the-festival-is-a-one-off-live-music-event-partly-presented-by-playstation",
+   "score": 0,
+   "sources": 1,
+   "summary": "Held in Miami of course.",
+   "title_ar": ""
+  },
   "pushsquare.com/news/2026/11/gta-6s-exclusive-selfridges-merch-is-daylight-robbery": {
    "at": "2026-11-09T14:30:39.343926+00:00",
    "title": "GTA 6's Exclusive Selfridges Merch Is Daylight Robbery",
@@ -12841,7 +12863,7 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-09T13:15:31.286397+00:00",
-  "Anime": "2026-11-09T13:00:49.302481+00:00",
+  "Anime": "2026-11-09T15:00:47.099625+00:00",
   "Games": "2026-11-09T14:45:30.836506+00:00",
   "Tech": "2026-11-09T14:30:39.343926+00:00"
  },
