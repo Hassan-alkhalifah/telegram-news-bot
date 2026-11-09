@@ -1860,17 +1860,6 @@
    "summary": "The official website for the hip-hop-themed multimedia franchise presented the early teaser visual for its upcoming film project on Friday.",
    "title_ar": "الإعلان عن عنوان وموعد عرض فيلم Paradox Live The Animation في عام 2027"
   },
-  "animenewsnetwork.com/news/2026-11-02/ai-no-idenshi-kyuri-yamada-launches-new-manga/.243421": {
-   "at": "2026-11-02T14:15:27.321484+00:00",
-   "title": "AI no Idenshi's Kyūri Yamada Launches New Manga",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-02/ai-no-idenshi-kyuri-yamada-launches-new-manga/.243421",
-   "score": 1,
-   "sources": 1,
-   "summary": "Nanabun no Survivor earthquake manga debuts on Monday",
-   "title_ar": "Kyūri Yamada مؤلف AI no Idenshi يطلق مانغا جديدة"
-  },
   "animenewsnetwork.com/news/2026-11-02/crunchyroll-adds-gunma-chan-anime-english-dub/.243450": {
    "at": "2026-11-02T18:30:39.929258+00:00",
    "title": "Crunchyroll Adds Gunma-chan Anime's English Dub",
@@ -4830,6 +4819,17 @@
    "summary": "Rockstar has released a big batch of new Grand Theft Auto 6 screenshots as part of what the developer is calling a \"launch gallery.\" The brand-new images show off main characters Jason and Lucia in…",
    "title_ar": ""
   },
+  "gamespot.com/articles/gta-6-preloading-is-officially-live-files-mention-multiplayer-and-ps5-pro-features": {
+   "at": "2026-11-09T14:15:28.151193+00:00",
+   "title": "GTA 6 Preloading Is Officially Live, Files Mention Multiplayer And PS5 Pro Features",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.gamespot.com/articles/gta-6-preloading-is-officially-live-files-mention-multiplayer-and-ps5-pro-features/",
+   "score": 4,
+   "sources": 2,
+   "summary": "At long last, you can now install Grand Theft Auto 6 on your console via preloading , or at least you can if you live in Australia or New Zealand.",
+   "title_ar": "التنزيل المسبق لـ GTA 6 متاح رسميًا، والملفات تذكر الأطوار الجماعية ومميزات PS5 Pro"
+  },
   "gamespot.com/articles/gta-6-survey-reveals-people-really-want-gta-online-but-it-hasnt-been-confirmed-yet": {
    "at": "2026-11-04T20:30:37.302821+00:00",
    "title": "GTA 6 Survey Reveals People Really Want GTA Online, But It Hasn’t Been Confirmed Yet",
@@ -7107,17 +7107,6 @@
    "summary": "Two new Assassin's Creed games are reportedly in development at Ubisoft, with one set in ancient Rome.",
    "title_ar": ""
   },
-  "insider-gaming.com/bend-studios-next-game-to-be-revealed-in-2027-its-claimed": {
-   "at": "2026-11-02T14:15:27.321484+00:00",
-   "title": "Bend Studios’ Next Game To Be Revealed in 2027, It’s Claimed",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/bend-studios-next-game-to-be-revealed-in-2027-its-claimed/",
-   "score": 0,
-   "sources": 1,
-   "summary": "A new report has claimed that Bend Studio will announced their next title in 2027 and it is third-person game with co-op.",
-   "title_ar": ""
-  },
   "insider-gaming.com/biowares-final-days-will-be-shared-through-an-upcoming-documentary": {
    "at": "2026-11-05T18:15:31.101764+00:00",
    "title": "BioWare’s Final Days Will Be Shared Through an Upcoming Documentary",
@@ -7292,6 +7281,17 @@
    "score": 0,
    "sources": 1,
    "summary": "It has been posted online that Grand Theft Auto 6 will have 55 PlayStation Trophies and XBOX Achievements when it launches on November 19th.",
+   "title_ar": ""
+  },
+  "insider-gaming.com/gta-6-datamine-reveals-multiplayer-references": {
+   "at": "2026-11-09T14:15:28.151193+00:00",
+   "title": "GTA 6 Datamine Reveals Multiplayer References",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/gta-6-datamine-reveals-multiplayer-references/",
+   "score": 0,
+   "sources": 1,
+   "summary": "A Grand Theft Auto 6 datamine has revealed some new details pertaining to the game's potential online game mode.",
    "title_ar": ""
   },
   "insider-gaming.com/gta-6-game-of-the-year-awards-chances": {
@@ -9767,17 +9767,6 @@
    "score": 0,
    "sources": 1,
    "summary": "At least three bids for Arkane Studios.",
-   "title_ar": ""
-  },
-  "techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries": {
-   "at": "2026-11-02T14:15:27.321484+00:00",
-   "title": "A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/",
-   "score": 0,
-   "sources": 1,
-   "summary": "This is the second wave of cyberattacks to hit supermarket refrigerators in a month, spoiling food and disrupting supplies.",
    "title_ar": ""
   },
   "techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai": {
@@ -12776,7 +12765,7 @@
  "topic_last_posted": {
   "AI": "2026-11-09T13:15:31.286397+00:00",
   "Anime": "2026-11-09T13:00:49.302481+00:00",
-  "Games": "2026-11-09T13:45:28.237630+00:00",
+  "Games": "2026-11-09T14:15:28.151193+00:00",
   "Tech": "2026-11-09T14:00:46.047929+00:00"
  },
  "digest_day": "2026-11-08",
