@@ -1849,28 +1849,6 @@
    "summary": "The official website for the hip-hop-themed multimedia franchise presented the early teaser visual for its upcoming film project on Friday.",
    "title_ar": "الإعلان عن عنوان وموعد عرض فيلم Paradox Live The Animation في عام 2027"
   },
-  "animenewsnetwork.com/news/2026-11-01/attack-on-titan-3-game-new-trailer-introduces-gameplay/.243418": {
-   "at": "2026-11-02T04:30:35.256059+00:00",
-   "title": "Attack on Titan 3 Game's New Trailer Introduces Gameplay",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-01/attack-on-titan-3-game-new-trailer-introduces-gameplay/.243418",
-   "score": 2,
-   "sources": 1,
-   "summary": "Koei Tecmo game launches on December 10 for PS5, Switch 2, Xbox X|S, PC via Steam",
-   "title_ar": "العرض الدعائي الجديد للعبة Attack on Titan 3 يستعرض أسلوب اللعب"
-  },
-  "animenewsnetwork.com/news/2026-11-01/pikmin-game-gets-short-film-series/.243408": {
-   "at": "2026-11-02T04:30:35.256059+00:00",
-   "title": "Pikmin Game Gets Short Film Series",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-01/pikmin-game-gets-short-film-series/.243408",
-   "score": 0,
-   "sources": 1,
-   "summary": "Franchise also announces November 1 as \" Pikmin Day\"",
-   "title_ar": ""
-  },
   "animenewsnetwork.com/news/2026-11-02/2026-today-korean-comics-awards-announce-5-winners/.243308": {
    "at": "2026-11-02T06:30:37.723037+00:00",
    "title": "2026 Today's Korean Comics Awards Announce 5 Winners",
@@ -3399,6 +3377,17 @@
    "sources": 1,
    "summary": "Crunchyroll streams all current seasons and the CODE: WHITE film",
    "title_ar": "الإعلان عن الموسم الرابع من SPY x FAMILY وفيلم أنمي جديد لعام 2027"
+  },
+  "crunchyroll.com/news/latest/2026/11/9/baki-gaiden-retsu-kaioh-wa-isekai-tensei-shitemo-ikko-ni-kamawan-stage-play-key-visual-main-cast": {
+   "at": "2026-11-09T04:30:37.765477+00:00",
+   "title": "Baki Gaiden: Retsu Kaioh wa Isekai Tensei Shitemo Ikko ni Kamawan Stage Play Unveils Key Visual, Main Cast",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://crunchyroll.com/news/latest/2026/11/9/baki-gaiden-retsu-kaioh-wa-isekai-tensei-shitemo-ikko-ni-kamawan-stage-play-key-visual-main-cast",
+   "score": 1,
+   "sources": 1,
+   "summary": "General ticket sales will begin on January 6, 2027",
+   "title_ar": "الكشف عن الملصق الرئيسي وطاقم التمثيل الرئيسي لمسرحية Baki Gaiden: Retsu Kaioh wa Isekai Tensei Shitemo Ikko ni Kamawan"
   },
   "crunchyroll.com/news/latest/2026/11/9/hirayasumi-anime-gen-hoshino-opening-theme-song": {
    "at": "2026-11-09T00:30:44.403677+00:00",
@@ -12929,7 +12918,7 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-08T14:30:40.295364+00:00",
-  "Anime": "2026-11-09T04:00:48.882552+00:00",
+  "Anime": "2026-11-09T04:30:37.765477+00:00",
   "Games": "2026-11-09T02:00:43.748906+00:00",
   "Tech": "2026-11-09T00:30:44.403677+00:00"
  },
