@@ -639,17 +639,6 @@
    "summary": "Today Apple reported record Q4 earnings , which beat Wall Street expectations overall.",
    "title_ar": ""
   },
-  "9to5mac.com/2026/11/02/openai-is-retiring-chatgpt-classic-app-will-soon-combine-chat-and-work-tabs-in-new-app": {
-   "at": "2026-11-02T20:15:26.662291+00:00",
-   "title": "OpenAI is retiring ChatGPT Classic app, will soon combine Chat and Work tabs in new app",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/02/openai-is-retiring-chatgpt-classic-app-will-soon-combine-chat-and-work-tabs-in-new-app/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Users who still rely on the ChatGPT Classic app were greeted today with a message informing them that the app will soon be retired.",
-   "title_ar": ""
-  },
   "9to5mac.com/2026/11/02/scotus-sets-hearing-date-for-apples-appeal-in-epic-games-case": {
    "at": "2026-11-03T03:00:43.235443+00:00",
    "title": "SCOTUS sets hearing date for Apple’s appeal in Epic Games case",
@@ -1595,6 +1584,17 @@
    "sources": 1,
    "summary": "Repair technician turned consumer rights advocate Louis Rossmann recently accused Apple store staff of signing up customers to the company’s services subscriptions without their consent.",
    "title_ar": "اتهام موظفي Apple بتسجيل العملاء في اشتراكات دون موافقتهم؛ والشركة ترد"
+  },
+  "9to5mac.com/2026/11/09/apple-to-open-new-developer-center-in-istanbul-as-part-of-broader-turkey-investment": {
+   "at": "2026-11-09T20:15:41.150972+00:00",
+   "title": "Apple to open new Developer Center in Istanbul as part of broader Turkey investment",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/09/apple-to-open-new-developer-center-in-istanbul-as-part-of-broader-turkey-investment/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Apple today announced a long-term investment in Turkey, with seven new facilities focused on app development and manufacturing set to open in the country starting next year.",
+   "title_ar": "أبل تفتتح مركزاً جديداً للمطورين في إسطنبول كجزء من استثمار أوسع في تركيا"
   },
   "9to5mac.com/2026/11/09/leak-reveals-details-for-more-iphone-18-models-launching-early-2027": {
    "at": "2026-11-09T15:15:30.753947+00:00",
@@ -4621,6 +4621,17 @@
    "summary": "Owlcat Games has revealed a release date for its tactical role-playing sequel Warhammer 40,000: Dark Heresy.",
    "title_ar": ""
   },
+  "eurogamer.net/world-of-warcraft-forever-dungeon-mob-xp-rate-buff": {
+   "at": "2026-11-09T20:15:41.150972+00:00",
+   "title": "Dungeons in World of Warcraft: Forever get a huge XP buff, but power-levellers shouldn't celebrate just yet",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/world-of-warcraft-forever-dungeon-mob-xp-rate-buff",
+   "score": 0,
+   "sources": 1,
+   "summary": "World of Warcraft: Forever has received a massive buff to the XP drop-rates of dungeon mobs (enemies), which should make running these instances multiple times feel more rewarding - and may revive…",
+   "title_ar": ""
+  },
   "eurogamer.net/world-of-warcraft-forever-hotfix-flag-carrier-plainsrunning": {
    "at": "2026-11-06T14:45:30.844844+00:00",
    "title": "World of Warcraft: Forever hotfix puts a stop to super speedy flag carriers that were dominating PvP battlegrounds",
@@ -6711,17 +6722,6 @@
    "summary": "Nier: Automata got a patch yesterday to add support for more languages to the game (Korean, Simplified Chinese, and Traditional Chinese), but it accidentally bloated the game file size to 366GB on PC.",
    "title_ar": "مطور لعبة Nier: Automata يعمل على إصلاح تحديث تسبب بطريق الخطأ في تضخم حجم اللعبة على أجهزة الحاسب الشخصي إلى 366 جيجابايت"
   },
-  "ign.com/articles/nintendo-explains-why-it-chose-to-do-another-the-legend-of-zelda-ocarina-of-time-remake": {
-   "at": "2026-11-02T20:15:26.662291+00:00",
-   "title": "Nintendo Explains Why It Chose to Do Another The Legend of Zelda: Ocarina of Time Remake",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/nintendo-explains-why-it-chose-to-do-another-the-legend-of-zelda-ocarina-of-time-remake",
-   "score": 0,
-   "sources": 1,
-   "summary": "Nintendo has explained why it chose to develop another The Legend of Zelda: Ocarina of Time remake.",
-   "title_ar": ""
-  },
   "ign.com/articles/nintendo-reveals-the-changes-it-made-to-the-legend-of-zelda-ocarina-of-times-notoriously-difficult-water-temple-for-the-remake": {
    "at": "2026-11-03T16:45:30.803913+00:00",
    "title": "Nintendo Reveals the Changes It Made to The Legend of Zelda: Ocarina of Time's Notoriously Difficult Water Temple for the Remake",
@@ -7028,6 +7028,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Ubisoft is reportedly among multiple suitors preparing bids to try and purchase French developer Arkane Lyon, makers of the Dishonored series and the upcoming Marvel's Blade, from Microsoft in the…",
+   "title_ar": ""
+  },
+  "ign.com/articles/world-of-warcraft-forever-dungeon-experience-buffed-but-theres-a-long-way-to-go": {
+   "at": "2026-11-09T20:15:41.150972+00:00",
+   "title": "World of Warcraft Forever Dungeon Experience Buffed, but There's a Long Way to Go",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/world-of-warcraft-forever-dungeon-experience-buffed-but-theres-a-long-way-to-go",
+   "score": 0,
+   "sources": 1,
+   "summary": "World of Warcraft Forever has been a massive hit, and I've seen hundreds of players in pretty much every part of the game.",
    "title_ar": ""
   },
   "ign.com/articles/world-of-warcraft-forever-is-the-biggest-wow-launch-in-history": {
@@ -9318,6 +9329,17 @@
    "summary": "Step back into classic Azeroth.",
    "title_ar": ""
   },
+  "pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-bumps-dungeon-xp-from-monsters-by-50-percent-after-some-community-feedback-i-will-diplomatically-call-passionate": {
+   "at": "2026-11-09T20:15:41.150972+00:00",
+   "title": "World of Warcraft: Forever bumps dungeon XP from monsters by 50% after some community feedback I will diplomatically call passionate",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-bumps-dungeon-xp-from-monsters-by-50-percent-after-some-community-feedback-i-will-diplomatically-call-passionate/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Back on that grindset.",
+   "title_ar": ""
+  },
   "pcgamer.com/games/world-of-warcraft/wow-forevers-massive-pre-launch-balance-patch-breaks-from-the-chains-classic-power-increasing-the-health-of-higher-level-creatures-to-compensate": {
    "at": "2026-11-04T12:00:41.974476+00:00",
    "title": "WoW: Forever's massive pre-launch balance patch breaks from the chains Classic power, increasing 'the health of higher level creatures to compensate'",
@@ -9956,17 +9978,6 @@
    "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
    "title_ar": "Google تطلق Dreambeans في الهند في محاولة لجلب القصص الشخصية المولدة بالذكاء الاصطناعي إلى الجماهير"
   },
-  "techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping": {
-   "at": "2026-11-02T20:15:26.662291+00:00",
-   "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted and unlawfully distributing it to its own customers, like Anthropic and…",
-   "title_ar": ""
-  },
   "techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders": {
    "at": "2026-11-03T06:00:39.613560+00:00",
    "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
@@ -10559,6 +10570,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+   "title_ar": ""
+  },
+  "techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy": {
+   "at": "2026-11-09T20:15:41.150972+00:00",
+   "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
    "title_ar": ""
   },
   "techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny": {
@@ -11473,17 +11495,6 @@
    "sources": 1,
    "summary": "Peak Design, best known for its backpacks and travel bags packed full of useful features, announced it's expanding its collection of chargers and charging accessories with new devices that focus on…",
    "title_ar": ""
-  },
-  "theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times": {
-   "at": "2026-11-02T20:15:26.662291+00:00",
-   "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-   "score": 3,
-   "sources": 2,
-   "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass…",
-   "title_ar": "صحيفة The New York Times تقاضي متصفح الويب Brave بسبب استخراج بيانات الذكاء الاصطناعي وتجاوز جدران الحماية"
   },
   "theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings": {
    "at": "2026-11-02T22:45:31.621575+00:00",
@@ -12854,7 +12865,7 @@
   "AI": "2026-11-09T20:00:46.507717+00:00",
   "Anime": "2026-11-09T19:30:42.397627+00:00",
   "Games": "2026-11-09T19:45:29.331647+00:00",
-  "Tech": "2026-11-09T19:15:30.412911+00:00"
+  "Tech": "2026-11-09T20:15:41.150972+00:00"
  },
  "digest_day": "2026-11-09",
  "weekly_day": "2026-11-06"
