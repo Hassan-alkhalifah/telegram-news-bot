@@ -540,17 +540,6 @@
    "summary": "Design app Affinity has long been popular with Mac users, and a long-awaited iPad version has launched today.",
    "title_ar": ""
   },
-  "9to5mac.com/2026/11/02/always-on-apple-watch-display-showing-the-wrong-time-heres-the-fix": {
-   "at": "2026-11-02T14:00:41.752279+00:00",
-   "title": "Always-on Apple Watch display showing the wrong time? Here’s the fix",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/02/always-on-apple-watch-display-showing-the-wrong-time-heres-the-fix/",
-   "score": 1,
-   "sources": 1,
-   "summary": "A succession of bugs over the years have seen daylight saving time changes cause problems for Apple Watches , and the problem has occurred again this year.",
-   "title_ar": "شاشة Apple Watch الدائم تشغيله تعرض وقتاً خاطئاً؟ إليك الحل"
-  },
   "9to5mac.com/2026/11/02/apple-forecasts-its-biggest-revenue-quarter-ever-despite-supply-constraints": {
    "at": "2026-11-02T23:45:42.407749+00:00",
    "title": "Apple forecasts its biggest revenue quarter ever despite supply constraints",
@@ -9890,17 +9879,6 @@
    "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
    "title_ar": "شركة Omen AI تضيف خبرة تقنية السوائل في استحواذ على Aquatic Labs بقيمة 16 مليون دولار"
   },
-  "techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs": {
-   "at": "2026-11-02T14:00:41.752279+00:00",
-   "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-   "score": 0,
-   "sources": 1,
-   "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-   "title_ar": ""
-  },
   "techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders": {
    "at": "2026-11-03T06:00:39.613560+00:00",
    "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
@@ -11881,6 +11859,17 @@
    "summary": "On this day in 2006, Nvidia released the legendary GeForce 8800 GTX graphics card and it is celebrating the event with a very demanding (but free) interactive Steam demo.",
    "title_ar": "Nvidia أطلقت بطاقتها الرسومية 8800 GTX قبل 20 عاماً من اليوم وتحتفل بذكراها عبر تحية في لعبة على Steam"
   },
+  "tomshardware.com/pc-components/gpus/nvidia-rtx-pro-6000-users-cables-almost-melted-even-when-limited-to-500w-12v-2x6-cables-appear-to-still-cause-problems-show-clear-signs-of-melting": {
+   "at": "2026-11-09T14:00:46.047929+00:00",
+   "title": "Nvidia RTX PRO 6000 user’s cables almost melted, even when limited to 500W",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-pro-6000-users-cables-almost-melted-even-when-limited-to-500w-12v-2x6-cables-appear-to-still-cause-problems-show-clear-signs-of-melting",
+   "score": 1,
+   "sources": 1,
+   "summary": "The 12V-2x6 connector nearly took out two RTX PRO 6000 Blackwell Workstation GPUs; luckily, the owner spotted the damaged cables before they melted the GPU connectors.",
+   "title_ar": "كابلات مستخدم بطاقة Nvidia RTX PRO 6000 كادت تذوب، حتى مع تقييد الطاقة بـ 500 واط"
+  },
   "tomshardware.com/pc-components/gpus/open-source-gpu-task-manager-reveals-exactly-whats-eating-your-vram-microsoft-vps-new-gpu-taskman-tool-reveals-every-process-using-your-gpu-how-much-memory-each-uses-and-breaks-down-ai-and-llm-workloads": {
    "at": "2026-11-08T13:45:27.525579+00:00",
    "title": "Open-source GPU task manager reveals exactly what's eating your VRAM",
@@ -12788,7 +12777,7 @@
   "AI": "2026-11-09T13:15:31.286397+00:00",
   "Anime": "2026-11-09T13:00:49.302481+00:00",
   "Games": "2026-11-09T13:45:28.237630+00:00",
-  "Tech": "2026-11-09T13:30:41.767345+00:00"
+  "Tech": "2026-11-09T14:00:46.047929+00:00"
  },
  "digest_day": "2026-11-08",
  "weekly_day": "2026-11-06"
