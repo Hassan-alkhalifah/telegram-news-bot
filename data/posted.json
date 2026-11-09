@@ -1552,6 +1552,17 @@
    "summary": "In the past few years, a major Apple story (especially in the age of AI) has been that the company isn’t moving fast enough in the space to keep up with competitors.",
    "title_ar": "تقرير: John Ternus يدفع Craig Federighi لتسريع هندسة برمجيات Apple"
   },
+  "9to5mac.com/2026/11/09/anthropic-upgrades-claude-with-new-fable-5-2-model-details-here": {
+   "at": "2026-11-09T19:15:30.412911+00:00",
+   "title": "Anthropic upgrades Claude with new Fable 5.2 model, details here",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/09/anthropic-upgrades-claude-with-new-fable-5-2-model-details-here/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Anthropic is out with its second big update to Claude Fable 5 since introducing the model class back in June.",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/09/apple-music-launches-best-of-2026-content-reveals-artist-of-the-year": {
    "at": "2026-11-09T16:30:42.144056+00:00",
    "title": "Apple Music launches ‘Best of 2026’ content, reveals Artist of the Year",
@@ -4157,17 +4168,6 @@
    "score": 0,
    "sources": 1,
    "summary": "The company will increase its use of the tech on Facebook and Threads too.",
-   "title_ar": ""
-  },
-  "eurogamer.net/anthropic-claude-generative-ai-game-clones-update": {
-   "at": "2026-11-02T19:15:29.735059+00:00",
-   "title": "As the controversy around AI-created video game copies continues, Anthropic seemingly restricts Claude's cloning abilities",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.eurogamer.net/anthropic-claude-generative-ai-game-clones-update",
-   "score": 0,
-   "sources": 1,
-   "summary": "An update to Anthropic's Claude AI software has seemingly blocked the creation of outright clones or copies of existing games.",
    "title_ar": ""
   },
   "eurogamer.net/arc-raiders-ai-voice-acting-would-go-crazy": {
@@ -10935,17 +10935,6 @@
    "summary": "Starting in 2027, Google plans to turn off AI features in its school products by default, letting schools decide what to enable.",
    "title_ar": ""
   },
-  "the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product": {
-   "at": "2026-11-02T19:15:29.735059+00:00",
-   "title": "SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/",
-   "score": 1,
-   "sources": 1,
-   "summary": "SpaceXSI is apparently cutting usage limits for its AI agent Grok Bot, less than two weeks after Musk called it his fastest-growing product.",
-   "title_ar": "SpaceXSI تخفض على ما يبدو حصص روبوت Grok بعد أسابيع من وصف ماسك له بأنه منتجه الأسرع نمواً"
-  },
   "theverge.com/1024807/google-botnet-android-tv-shut-down": {
    "at": "2026-11-03T05:00:43.903903+00:00",
    "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
@@ -12035,17 +12024,6 @@
    "summary": "Microsoft claims that it has made drastic improvements to the performance of Windows 11 while using 8GB of RAM.",
    "title_ar": ""
   },
-  "tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks": {
-   "at": "2026-11-02T19:15:29.735059+00:00",
-   "title": "Anthropic confirms new Claude Code limits to prevent game cloning, users report blocking reverse engineering tasks",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks",
-   "score": 0,
-   "sources": 1,
-   "summary": "Anthropic employee confirms that Claude Code now has orders not to reproduce game IP — company \"iterating to ensure [...] the right balance\"",
-   "title_ar": ""
-  },
   "tomshardware.com/tech-industry/artificial-intelligence/anthropic-loosens-game-restrictions-claude-will-now-offer-to-build-original-game-in-same-genre-if-asked-to-copy": {
    "at": "2026-11-05T11:30:40.608931+00:00",
    "title": "Anthropic loosens Claude's game cloning ban — AI will now offer to build original games in the requested genre",
@@ -12166,6 +12144,17 @@
    "sources": 1,
    "summary": "Binance has revealed how Norh Korean attackers spent months compromising systems and employees with malicious developer software and a fake recruitment process.",
    "title_ar": ""
+  },
+  "tomshardware.com/tech-industry/cryptocurrency/ethereum-foundation-sued-after-firing-employee-over-mandatory-source-seppuku-suicide-pact-crypto-firm-demanded-employees-pledge-to-take-their-own-lives-with-a-sword-to-protect-open-source-code-founder-vitalik-claims-1-000-year-mandate-just-artwork": {
+   "at": "2026-11-09T19:15:30.412911+00:00",
+   "title": "Ethereum Foundation sued after firing employee over mandatory 'Source Seppuku' suicide pact",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/ethereum-foundation-sued-after-firing-employee-over-mandatory-source-seppuku-suicide-pact-crypto-firm-demanded-employees-pledge-to-take-their-own-lives-with-a-sword-to-protect-open-source-code-founder-vitalik-claims-1-000-year-mandate-just-artwork",
+   "score": 1,
+   "sources": 1,
+   "summary": "A former employee of The Ethereum Foundation is suing the nonprofit after being fired for refusing to sign its 'Source Seppuku License.'",
+   "title_ar": "مقاضاة مؤسسة Ethereum بعد طرد موظف رفض التوقيع على ميثاق انتحار إلزامي باسم Source Seppuku"
   },
   "tomshardware.com/tech-industry/cyber-security/blood-banks-in-france-hit-by-temperature-raising-attacks-on-fridges-purported-hackers-claim-attacks-are-about-cybersecurity-not-malice": {
    "at": "2026-11-05T12:00:44.708511+00:00",
@@ -12843,7 +12832,7 @@
   "AI": "2026-11-09T19:00:48.287876+00:00",
   "Anime": "2026-11-09T18:00:48.956208+00:00",
   "Games": "2026-11-09T18:45:31.961057+00:00",
-  "Tech": "2026-11-09T18:30:44.921863+00:00"
+  "Tech": "2026-11-09T19:15:30.412911+00:00"
  },
  "digest_day": "2026-11-09",
  "weekly_day": "2026-11-06"
