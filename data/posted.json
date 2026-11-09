@@ -1541,6 +1541,17 @@
    "summary": "Anthropic is out with its second big update to Claude Fable 5 since introducing the model class back in June.",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features": {
+   "at": "2026-11-09T20:45:32.543113+00:00",
+   "title": "Apple launches $50 ‘intelligence usage packs’ for select AI features",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Apple has said it will eventually charge for expanded usage of select AI features.",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/09/apple-music-launches-best-of-2026-content-reveals-artist-of-the-year": {
    "at": "2026-11-09T16:30:42.144056+00:00",
    "title": "Apple Music launches ‘Best of 2026’ content, reveals Artist of the Year",
@@ -11034,17 +11045,6 @@
    "summary": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet.",
    "title_ar": "أحد شركاء Google في نظام Android يحول 1.3 مليون جهاز بث تلفزيوني إلى شبكة روبوتات ضارة"
   },
-  "theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program": {
-   "at": "2026-11-02T20:45:30.518254+00:00",
-   "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-   "score": 1,
-   "sources": 1,
-   "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000…",
-   "title_ar": "OpenAI تقترح محطات طاقة لمراكز البيانات كطريقة لحماية المناطق المجاورة"
-  },
   "theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3": {
    "at": "2026-11-04T12:15:30.516593+00:00",
    "title": "Google hasn’t figured out how to make AI pay like its search engine",
@@ -11825,6 +11825,17 @@
    "sources": 1,
    "summary": "For the first time ever, Medium is becoming more than just a blogging platform.",
    "title_ar": ""
+  },
+  "theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro": {
+   "at": "2026-11-09T20:45:32.543113+00:00",
+   "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+   "score": 3,
+   "sources": 2,
+   "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time…",
+   "title_ar": "باقات استخدام Apple Intelligence التي تبلغ تكلفتها 50 دولاراً توسع نطاق الوصول إلى بعض ميزات الذكاء الاصطناعي"
   },
   "theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation": {
    "at": "2026-11-04T22:00:43.675176+00:00",
@@ -12873,7 +12884,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-09T20:00:46.507717+00:00",
+  "AI": "2026-11-09T20:45:32.543113+00:00",
   "Anime": "2026-11-09T20:30:41.745283+00:00",
   "Games": "2026-11-09T20:30:41.745283+00:00",
   "Tech": "2026-11-09T20:15:41.150972+00:00"
