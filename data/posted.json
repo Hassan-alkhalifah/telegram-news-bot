@@ -67,17 +67,6 @@
    "summary": "At Android Dev Summit 2026, Google announced a Quick Share SDK that will let Android and iOS apps directly integrate the peer-to-peer file sharing capability. more…",
    "title_ar": ""
   },
-  "9to5google.com/2026/11/02/samsungs-android-xr-intelligent-eyewear-reportedly-launches-in-december": {
-   "at": "2026-11-02T15:45:29.496589+00:00",
-   "title": "Samsung’s Android XR ‘Intelligent Eyewear’ reportedly launches in December",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/02/samsungs-android-xr-intelligent-eyewear-reportedly-launches-in-december/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Samsung smart glasses in Gentle Monster and Warby Parker styles may finally launch in South Korea and the US before Christmas. more…",
-   "title_ar": "تقارير تفيد بإطلاق نظارات \"Intelligent Eyewear\" للواقع الممتد من Samsung العاملة بنظام Android في شهر ديسمبر"
-  },
   "9to5google.com/2026/11/03/android-auto-18-1-update-rollout-teardown": {
    "at": "2026-11-04T03:15:30.028335+00:00",
    "title": "Android Auto 18.1 update rolling out with additional prep for light mode and redesign",
@@ -539,6 +528,17 @@
    "sources": 1,
    "summary": "Google has officially dropped support for some older Android versions in Android Auto, now requiring Android 11 or newer to function. more…",
    "title_ar": "Android Auto يقطع الاتصال بالأجهزة القديمة ويتطلب الآن نظام Android 11 أو أحدث"
+  },
+  "9to5google.com/2026/11/09/google-pixel-10a-deal-after-price-hike": {
+   "at": "2026-11-09T15:45:31.023968+00:00",
+   "title": "Pixel 10a drops to $449, the best deal you’ll find after Google’s price hike",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/09/google-pixel-10a-deal-after-price-hike/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Google may have hiked the price of the Pixel 10a in recent months, but a limited-time deal is the best price you’ll find at $450. more…",
+   "title_ar": "سعر Pixel 10a ينخفض إلى 449 دولاراً، وهو أفضل عرض ستجده بعد زيادة جوجل للأسعار"
   },
   "9to5mac.com/2026/11/02/apple-forecasts-its-biggest-revenue-quarter-ever-despite-supply-constraints": {
    "at": "2026-11-02T23:45:42.407749+00:00",
@@ -5160,17 +5160,6 @@
    "summary": "Time is running out for Arkane Lyon to find a buyer , but Ubisoft could acquire the Marvel's Blade developer, according to a new report.",
    "title_ar": ""
   },
-  "gamespot.com/articles/we-finally-know-who-made-the-zelda-ocarina-of-time-remake": {
-   "at": "2026-11-02T15:45:29.496589+00:00",
-   "title": "We Finally Know Who Made The Zelda: Ocarina Of Time Remake",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gamespot.com/articles/we-finally-know-who-made-the-zelda-ocarina-of-time-remake/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Fans have speculated on which studio is leading the development of The Legend of Zelda: Ocarina of Time remake since it was first announced, and a new Ask the Developer feature from Nintendo appears…",
-   "title_ar": ""
-  },
   "gamespot.com/articles/what-might-be-a-brand-new-wow-forever-legendary-weapon-is-being-teased": {
    "at": "2026-11-04T22:00:43.675176+00:00",
    "title": "What Might Be A Brand-New WoW: Forever Legendary Weapon Is Being Teased",
@@ -5247,17 +5236,6 @@
    "sources": 1,
    "summary": "The start of the month is a good time to be an Xbox Game Pass subscriber, as that's when Microsoft reveals the next batch of games coming to the service.",
    "title_ar": ""
-  },
-  "gamespot.com/articles/xbox-game-pass-is-losing-14-games-in-november": {
-   "at": "2026-11-02T15:30:39.796760+00:00",
-   "title": "Xbox Game Pass Is Losing 14 Games In November",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.gamespot.com/articles/xbox-game-pass-is-losing-14-games-in-november/",
-   "score": 3,
-   "sources": 2,
-   "summary": "It's the start of a new month, which means new additions and departures on Xbox Game Pass.",
-   "title_ar": "خدمة Xbox Game Pass تفقد 14 لعبة في شهر نوفمبر"
   },
   "gamespot.com/articles/zelda-ocarina-of-time-remake-involved-xenoblade-chronicles-creator-monolith-soft": {
    "at": "2026-11-06T14:15:27.956842+00:00",
@@ -7734,17 +7712,6 @@
    "summary": "New allegations against Xbox claim that it sabotaged the development of Blade with its management decisions.",
    "title_ar": ""
   },
-  "insider-gaming.com/xbox-game-pass-will-remove-14-games-in-november": {
-   "at": "2026-11-02T15:30:39.796760+00:00",
-   "title": "XBOX Game Pass Will Remove 14 Games in November",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/xbox-game-pass-will-remove-14-games-in-november/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Dragon Ball Xenoverse 2, GoldenEye 007 and 12 other games will be removed from XBOX Game Pass in November 2026.",
-   "title_ar": ""
-  },
   "insider-gaming.com/xbox-pc-app-update-faster": {
    "at": "2026-11-05T18:00:47.629020+00:00",
    "title": "XBOX PC App Update Makes It ‘60% Faster’",
@@ -8405,17 +8372,6 @@
    "summary": "'Xbox is heading to Florida'",
    "title_ar": ""
   },
-  "kotaku.com/yakuza-spiritual-successor-gang-of-dragon-seemingly-cancelled-as-nagoshi-studio-is-closed-2000752132": {
-   "at": "2026-11-02T15:45:29.496589+00:00",
-   "title": "Yakuza Spiritual Successor Gang Of Dragon Seemingly Cancelled As Nagoshi Studio Is Closed",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/yakuza-spiritual-successor-gang-of-dragon-seemingly-cancelled-as-nagoshi-studio-is-closed-2000752132",
-   "score": 0,
-   "sources": 1,
-   "summary": "After months of speculation, the studio officially shut its doors on October 31st",
-   "title_ar": ""
-  },
   "kotaku.com/zelda-ocarina-of-time-remake-devs-tried-adding-even-more-fast-travel-points-but-that-sucked-2000752346": {
    "at": "2026-11-02T16:00:47.508762+00:00",
    "title": "Zelda: Ocarina Of Time Remake Devs Tried Adding Even More Fast Travel Points, But That Sucked",
@@ -8865,17 +8821,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Ink's awakening.",
-   "title_ar": ""
-  },
-  "nintendolife.com/news/2026/11/nintendo-wanted-to-remake-ocarina-of-time-to-trigger-new-insights-for-future-titles": {
-   "at": "2026-11-02T15:30:39.796760+00:00",
-   "title": "Nintendo Wanted To Remake Ocarina Of Time To \"Trigger New Insights\" For Future Titles",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.nintendolife.com/news/2026/11/nintendo-wanted-to-remake-ocarina-of-time-to-trigger-new-insights-for-future-titles",
-   "score": 0,
-   "sources": 1,
-   "summary": "Out with the old, in with the Aonuma.",
    "title_ar": ""
   },
   "nintendolife.com/news/2026/11/nintendos-classic-remakes-for-switch-2-are-seemingly-just-getting-started": {
@@ -10583,6 +10528,17 @@
    "summary": "SNL seems to have its knives out for tech executives.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally": {
+   "at": "2026-11-09T15:45:31.023968+00:00",
+   "title": "Meta expands Instagram’s AI age-guessing tech globally",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Meta says it will use its AI technology to look for clues about people it suspects to be teenagers — even if they use an adult birthday.",
+   "title_ar": ""
+  },
   "techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio": {
    "at": "2026-11-09T11:30:47.083498+00:00",
    "title": "Tesla expands robotaxi service to San Antonio",
@@ -12101,17 +12057,6 @@
    "summary": "Rep.",
    "title_ar": "عضو في الكونغرس تطالب بحظر الذكاء الاصطناعي الفائق بعد تحقيق الديمقراطيين فوزاً ساحقاً في انتخابات التجديد النصفي"
   },
-  "tomshardware.com/tech-industry/artificial-intelligence/elon-musk-mocks-openai-ceo-sam-altmans-claim-that-pcs-having-ram-is-terrible-the-people-deserve-to-have-their-ram-too": {
-   "at": "2026-11-02T15:30:39.796760+00:00",
-   "title": "Elon Musk mocks OpenAI CEO Sam Altman's claim that PCs having RAM is terrible",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-mocks-openai-ceo-sam-altmans-claim-that-pcs-having-ram-is-terrible-the-people-deserve-to-have-their-ram-too",
-   "score": 0,
-   "sources": 1,
-   "summary": "SpaceX CEO Musk posted a meme to X mocking Altman's belief that it's \"",
-   "title_ar": ""
-  },
   "tomshardware.com/tech-industry/artificial-intelligence/google-reveals-new-gemini-4-carbon-ai-model-narrowly-beating-claude-opus-5-5-frontier-ai-model-is-also-the-least-likely-to-hallucinate-benchmarks-claim": {
    "at": "2026-11-03T13:30:40.089514+00:00",
    "title": "Google reveals new Gemini 4 Carbon AI model, narrowly beating Claude Opus 5.5 — frontier AI model is also the least likely to hallucinate, benchmarks claim",
@@ -12876,7 +12821,7 @@
   "AI": "2026-11-09T13:15:31.286397+00:00",
   "Anime": "2026-11-09T15:00:47.099625+00:00",
   "Games": "2026-11-09T15:30:39.359074+00:00",
-  "Tech": "2026-11-09T15:15:30.753947+00:00"
+  "Tech": "2026-11-09T15:45:31.023968+00:00"
  },
  "digest_day": "2026-11-08",
  "weekly_day": "2026-11-06"
