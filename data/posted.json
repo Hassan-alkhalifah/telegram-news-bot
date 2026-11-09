@@ -1915,17 +1915,6 @@
    "summary": "Sandy Frank distributed Battle of the Planets anime; Name That Tune , The Dating Game game shows",
    "title_ar": "وفاة منتج وموزع التلفزيون Sandy Frank عن عمر يناهز 97 عاماً"
   },
-  "animenewsnetwork.com/news/2026-11-02/we-are-aliens-film-wins-award-at-hawaii-intl-film-festival/.243448": {
-   "at": "2026-11-02T19:30:39.655199+00:00",
-   "title": "We Are Aliens Film Wins Award at Hawai'i Int'l Film Festival",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-02/we-are-aliens-film-wins-award-at-hawaii-intl-film-festival/.243448",
-   "score": 1,
-   "sources": 1,
-   "summary": "Film won Kau Ka Hōkū Award, honoring international filmmaker's 1st/2nd feature",
-   "title_ar": "فلم We Are Aliens يفوز بجائزة في مهرجان هاواي السينمائي الدولي"
-  },
   "animenewsnetwork.com/news/2026-11-03/cyberpunk-edgerunners-2-anime-streams-new-music-videos/.243487": {
    "at": "2026-11-03T17:00:45.520558+00:00",
    "title": "Cyberpunk Edgerunners 2 Anime Streams New Music Videos",
@@ -2585,6 +2574,17 @@
    "sources": 1,
    "summary": "Live-action Resident Evil rises to #3",
    "title_ar": "فيلم الواقع الحي In the Clear Moonlit Dusk يصعد إلى المركز الثاني، وفيلم Be Forever Yamato: Rebel 3199 السابع يفتتح في المركز العاشر"
+  },
+  "animenewsnetwork.com/news/2026-11-09/saga-game-series-localization-director-neil-broadley-dies/.243656": {
+   "at": "2026-11-09T19:30:42.397627+00:00",
+   "title": "SaGa Game Series' Localization Director Neil Broadley Dies",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-09/saga-game-series-localization-director-neil-broadley-dies/.243656",
+   "score": 1,
+   "sources": 1,
+   "summary": "Broadley worked on SaGa , Final Fantasy games",
+   "title_ar": "وفاة نيل برودلي، مدير تعريب سلسلة ألعاب SaGa"
   },
   "animenewsnetwork.com/news/2026-11-09/sega-confirms-leak-of-2.2-million-newsletter-recipients-email-addresses/.243646": {
    "at": "2026-11-09T13:00:49.302481+00:00",
@@ -10517,6 +10517,17 @@
    "summary": "Anthropic bought billions of dollars worth of natural gas turbines in a deal that could give it buyer's remorse.",
    "title_ar": "Anthropic تنضم إلى هوس الغاز الطبيعي لتقنيات الذكاء الاصطناعي وتشتري توربينات بقيمة 3.4 مليار دولار"
   },
+  "techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns": {
+   "at": "2026-11-09T19:30:42.397627+00:00",
+   "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+   "title_ar": ""
+  },
   "techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny": {
    "at": "2026-11-09T18:30:44.921863+00:00",
    "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
@@ -12255,17 +12266,6 @@
    "summary": "Brightspeed has over 130 facilities located across the U.S., with Nvidia estimating that they could produce up to 1GW of compute capacity.",
    "title_ar": "تقرير يوكد أن Nvidia ترغب في إعادة استخدام أكثر من 130 مبنى قديم لشركات الاتصالات لتكون مراكز بيانات صغيرة"
   },
-  "tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue": {
-   "at": "2026-11-02T19:30:39.655199+00:00",
-   "title": "OpenAI considers rebranding data centers to 'AI compute campuses\" as data center backlash intensifies — company reportedly sees 2028 presidential election becoming an 'AI issue'",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue",
-   "score": 0,
-   "sources": 1,
-   "summary": "OpenAI expects AI to become a major issue in the 2028 presidential election and is preparing a policy and public relations push after the U.S. midterm elections.",
-   "title_ar": ""
-  },
   "tomshardware.com/tech-industry/data-centers/protesters-storm-microsoft-ai-data-center-construction-site-amsterdam-reportedly-first-of-85-targeted-actions-across-europe": {
    "at": "2026-11-06T14:15:27.956842+00:00",
    "title": "Protesters storm Microsoft AI data center construction site",
@@ -12830,7 +12830,7 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-09T19:00:48.287876+00:00",
-  "Anime": "2026-11-09T18:00:48.956208+00:00",
+  "Anime": "2026-11-09T19:30:42.397627+00:00",
   "Games": "2026-11-09T18:45:31.961057+00:00",
   "Tech": "2026-11-09T19:15:30.412911+00:00"
  },
