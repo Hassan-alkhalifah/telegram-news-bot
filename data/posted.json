@@ -1563,6 +1563,17 @@
    "summary": "In the past few years, a major Apple story (especially in the age of AI) has been that the company isn’t moving fast enough in the space to keep up with competitors.",
    "title_ar": "تقرير: John Ternus يدفع Craig Federighi لتسريع هندسة برمجيات Apple"
   },
+  "9to5mac.com/2026/11/09/apple-music-launches-best-of-2026-content-reveals-artist-of-the-year": {
+   "at": "2026-11-09T16:30:42.144056+00:00",
+   "title": "Apple Music launches ‘Best of 2026’ content, reveals Artist of the Year",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/09/apple-music-launches-best-of-2026-content-reveals-artist-of-the-year/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Apple Music has launched new playlists and curated content for the ‘Best of 2026’ and also revealed its new Artist of the Year. more…",
+   "title_ar": "Apple Music تطلق محتوى \"Best of 2026\" وتكشف عن فنان العام"
+  },
   "9to5mac.com/2026/11/09/apple-pushing-faster-on-agentic-siri-would-carry-three-big-risks": {
    "at": "2026-11-09T14:30:39.343926+00:00",
    "title": "Apple pushing faster on agentic Siri would carry three big risks",
@@ -4476,6 +4487,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Nintendo, which unveiled the results of the first half of its fiscal year 2027 earlier today , has now said it has access to enough quantities of memory to manufacture more Switch 2 consoles.",
+   "title_ar": ""
+  },
+  "eurogamer.net/ocarina-of-time-support-studios-confirmed-switch-2": {
+   "at": "2026-11-09T16:30:42.144056+00:00",
+   "title": "\"Art, including characters, terrain, animations, cutscenes and UI\" Bandai Namco and Monolith Soft helped out with Ocarina of Time on Switch 2",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/ocarina-of-time-support-studios-confirmed-switch-2",
+   "score": 0,
+   "sources": 1,
+   "summary": "Xenoblade series developer Monolith Soft and Bandai Namco Studios have been listed as support studios for the Switch 2 version of Ocarina of Time, working on elements of the title such as \"art…",
    "title_ar": ""
   },
   "eurogamer.net/playstation-6-sony-financials-2026-hardware": {
@@ -10605,17 +10627,6 @@
    "summary": "Anthropic is blocking its coding assistant Claude Code from recreating existing video games.",
    "title_ar": ""
   },
-  "the-decoder.com/anthropic-grows-revenue-twelvefold-but-posts-23-billion-loss": {
-   "at": "2026-11-02T16:30:39.781850+00:00",
-   "title": "Anthropic grows revenue twelvefold but posts $23 billion loss",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://the-decoder.com/anthropic-grows-revenue-twelvefold-but-posts-23-billion-loss/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Anthropic swings back to an operating loss ahead of its blockbuster IPO.",
-   "title_ar": "شركة Anthropic تضاعف إيراداتها اثني عشر ضعفاً لكنها تسجل خسارة بقيمة 23 مليار دولار"
-  },
   "the-decoder.com/anthropic-loses-product-lead-catherine-wu-behind-claude-code-to-openai": {
    "at": "2026-11-05T12:30:45.143879+00:00",
    "title": "Anthropic loses product lead Catherine Wu behind Claude Code to OpenAI",
@@ -11330,6 +11341,17 @@
    "sources": 2,
    "summary": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning.",
    "title_ar": "المحتجون يقتحمون موقع مركز بيانات تابع لشركة Microsoft في أمستردام"
+  },
+  "theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage": {
+   "at": "2026-11-09T16:30:42.144056+00:00",
+   "title": "Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage",
+   "score": 0,
+   "sources": 1,
+   "summary": "Sony is launching a new version of its PlayStation Portal exclusively in Japan next month.",
+   "title_ar": ""
   },
   "theverge.com/policy/1020640/midterm-elections-2026-all-the-news": {
    "at": "2026-11-04T00:15:29.863184+00:00",
@@ -12854,7 +12876,7 @@
   "AI": "2026-11-09T16:15:31.794362+00:00",
   "Anime": "2026-11-09T15:00:47.099625+00:00",
   "Games": "2026-11-09T16:00:52.578212+00:00",
-  "Tech": "2026-11-09T15:45:31.023968+00:00"
+  "Tech": "2026-11-09T16:30:42.144056+00:00"
  },
  "digest_day": "2026-11-08",
  "weekly_day": "2026-11-06"
