@@ -2608,17 +2608,6 @@
    "summary": "Google will offer schools AI tools that allegedly don't give away the answers.",
    "title_ar": ""
   },
-  "arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat": {
-   "at": "2026-11-02T19:00:44.340026+00:00",
-   "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
-   "title_ar": ""
-  },
   "arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters": {
    "at": "2026-11-04T22:15:31.253879+00:00",
    "title": "AMD's record quarter: Data center business doubles, while gaming craters",
@@ -6568,17 +6557,6 @@
    "summary": "Data compiled by analytics firm Sensor Tower estimates that GTA 6 has already raked in more than $750 million in preorders across both PlayStation 5 and Xbox.",
    "title_ar": ""
   },
-  "ign.com/articles/is-v-in-edgerunners-2-is-there-a-cyberpunk-2077-canon-ending-and-what-about-season-3-we-asked-the-showrunner-in-a-new-interview": {
-   "at": "2026-11-02T19:00:44.340026+00:00",
-   "title": "Is V in Edgerunners 2? Is There a Cyberpunk 2077 Canon Ending? And What About Season 3? We Asked the Showrunner in a New Interview",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.ign.com/articles/is-v-in-edgerunners-2-is-there-a-cyberpunk-2077-canon-ending-and-what-about-season-3-we-asked-the-showrunner-in-a-new-interview",
-   "score": 4,
-   "sources": 2,
-   "summary": "Edgerunners 2 showrunner Bartosz Sztybor on all things Cyberpunk, including V's apparent appearance, canon endings, and more.",
-   "title_ar": "هل تظهر V في Edgerunners 2؟ وهل توجد نهاية معتمدة لـ Cyberpunk 2077؟ وماذا عن الموسم الثالث؟ سألنا مخرج العمل في مقابلة جديدة"
-  },
   "ign.com/articles/itch-deletes-a-couple-of-terabytes-of-ai-slop": {
    "at": "2026-11-03T16:45:30.803913+00:00",
    "title": "Indie Game Storefront Itch Deletes a 'Couple of Terabytes of AI Slop,' Adds 'No AI' Filter to Search Results",
@@ -7777,17 +7755,6 @@
    "sources": 2,
    "summary": "'In hindsight at least, it was unsustainable'",
    "title_ar": "مخرج لعبة South Of Midnight يقول إنه لا يعتقد أن Xbox كان يجب أن يمولها"
-  },
-  "kotaku.com/cyberpunk-edgerunners-season-2-canon-2077-ending-v-2000752388": {
-   "at": "2026-11-02T19:00:44.340026+00:00",
-   "title": "No, Cyberpunk: Edgerunners II Didn’t Canonize A 2077 Ending",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/cyberpunk-edgerunners-season-2-canon-2077-ending-v-2000752388",
-   "score": 0,
-   "sources": 1,
-   "summary": "The show takes place after CD Projekt Red’s RPG, but its showrunner says it’s not invalidating player decisions",
-   "title_ar": ""
   },
   "kotaku.com/deus-ex-warren-spector-ea-bioware-csuite-dragon-age-mass-effect-2000754612": {
    "at": "2026-11-06T13:00:44.301191+00:00",
@@ -11001,17 +10968,6 @@
    "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000…",
    "title_ar": "OpenAI تقترح محطات طاقة لمراكز البيانات كطريقة لحماية المناطق المجاورة"
   },
-  "theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones": {
-   "at": "2026-11-02T19:00:44.340026+00:00",
-   "title": "Anthropic clamps down on Claude’s AI video game clones",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-   "score": 0,
-   "sources": 1,
-   "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware.",
-   "title_ar": ""
-  },
   "theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3": {
    "at": "2026-11-04T12:15:30.516593+00:00",
    "title": "Google hasn’t figured out how to make AI pay like its search engine",
@@ -11220,6 +11176,17 @@
    "sources": 1,
    "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government.",
    "title_ar": ""
+  },
+  "theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2": {
+   "at": "2026-11-09T19:00:48.287876+00:00",
+   "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+   "score": 2,
+   "sources": 1,
+   "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges.",
+   "title_ar": "Anthropic تطلق نموذجي Claude Fable و Mythos 5.2 الجديدين"
   },
   "theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy": {
    "at": "2026-11-06T20:15:35.094932+00:00",
@@ -12873,7 +12840,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-09T18:30:44.921863+00:00",
+  "AI": "2026-11-09T19:00:48.287876+00:00",
   "Anime": "2026-11-09T18:00:48.956208+00:00",
   "Games": "2026-11-09T18:45:31.961057+00:00",
   "Tech": "2026-11-09T18:30:44.921863+00:00"
