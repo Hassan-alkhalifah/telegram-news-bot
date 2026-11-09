@@ -639,17 +639,6 @@
    "summary": "Apple just unveiled a huge update to the Mac lineup last week, introducing the MacBook Pro with PROLED XDR Display .",
    "title_ar": ""
   },
-  "9to5mac.com/2026/11/02/homeview-could-double-as-a-homekit-security-camera-shows-code": {
-   "at": "2026-11-02T12:00:43.931499+00:00",
-   "title": "HomeView could double as a HomeKit security camera, shows code",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/02/homeview-could-double-as-a-homekit-security-camera-shows-code/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple code sleuther pdfu has discovered evidence that HomeView will be able to serve as a HomeKit security camera.",
-   "title_ar": ""
-  },
   "9to5mac.com/2026/11/02/ios-27-2-1-could-launch-soon-as-next-iphone-update": {
    "at": "2026-11-02T23:00:41.158077+00:00",
    "title": "iOS 27.2.1 could launch soon as next iPhone update",
@@ -6051,6 +6040,17 @@
    "summary": "Sony released the Android 17 update for the Xperia 1 VIII in September and expanded the rollout to the Xperia 1 VII last month.",
    "title_ar": "هاتفا Sony Xperia 10 VII و Xperia 10 VIII يحصلان على تحديث أندرويد 17"
   },
+  "gsmarena.com/the_oppo_pad_air6_aka_oppo_pad_6_gets_unveiled_today_will_launch_next_week-news-75405.php": {
+   "at": "2026-11-09T12:00:44.615714+00:00",
+   "title": "The Oppo Pad Air6 (aka Oppo Pad 6) unveiled, sales start next week",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/the_oppo_pad_air6_aka_oppo_pad_6_gets_unveiled_today_will_launch_next_week-news-75405.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "The Oppo Reno17 series is coming next week and instead of waiting until then, the company decided to reveal the new Oppo Pad Air6 today and launch it next week with the phones – in other words, we…",
+   "title_ar": ""
+  },
   "gsmarena.com/the_oppo_reno17_and_reno17_pro_are_launching_next_week-news-75400.php": {
    "at": "2026-11-09T07:15:31.027381+00:00",
    "title": "The Oppo Reno17 and Reno17 Pro are launching next week",
@@ -8865,6 +8865,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Make it so.",
+   "title_ar": ""
+  },
+  "nintendolife.com/news/2026/11/speedrunners-didnt-take-long-to-find-new-ways-to-break-ocarina-of-time": {
+   "at": "2026-11-09T12:00:44.615714+00:00",
+   "title": "Speedrunners Didn't Take Long To Find New Ways To Break Ocarina Of Time",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/speedrunners-didnt-take-long-to-find-new-ways-to-break-ocarina-of-time",
+   "score": 0,
+   "sources": 1,
+   "summary": "Fly me to the moon.",
    "title_ar": ""
   },
   "nintendolife.com/news/2026/11/square-enixs-harvest-sale-includes-80percent-discounts-on-final-fantasy-vii-remake-intergrade-and-rebirth": {
@@ -11705,6 +11716,17 @@
    "summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub.",
    "title_ar": "قد تتوفر روبوتات الدردشة في جهاز HomeView من Apple"
   },
+  "theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion": {
+   "at": "2026-11-09T12:00:44.615714+00:00",
+   "title": "Instagram’s AI age detection is expanding globally",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
+   "score": 1,
+   "sources": 1,
+   "summary": "Meta is globally expanding the age estimation technology it uses to find teenagers on Instagram who haven't correctly disclosed their age.",
+   "title_ar": "توسع ميزة الذكطس الاصطناعي لكشف الأعمار في Instagram عالمياً"
+  },
   "theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation": {
    "at": "2026-11-04T22:00:43.675176+00:00",
    "title": "Uber only fulfilled 4 rides from AI agents last quarter",
@@ -12134,17 +12156,6 @@
    "summary": "PHP has a harvest season to remember — AI-automated bug hunting reaps what years of technical debt have sown.",
    "title_ar": "تحليل لثغرة PHP يكشف أن الخلل كان معروفاً منذ عامين - فريق صغير من المطورين كان على دراية بالمشكلة قبل الكشف عنها علناً، بالتزامن مع استغلال الثغرة المتسلسلة الجديدة PHP2Shell التي تضرب الخوادم"
   },
-  "tomshardware.com/tech-industry/cyber-security/supermarket-freezers-across-europe-struck-in-second-crippling-cyberattack-hackers-raise-temperatures-to-50-degrees-celsius-in-belgium-and-sweden-destroying-food-stocks": {
-   "at": "2026-11-02T11:45:35.487590+00:00",
-   "title": "Supermarket freezers across Europe struck in second crippling cyberattack — hackers raise temperatures to 50 degrees Celsius in Belgium and Sweden, destroying food stocks",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/tech-industry/cyber-security/supermarket-freezers-across-europe-struck-in-second-crippling-cyberattack-hackers-raise-temperatures-to-50-degrees-celsius-in-belgium-and-sweden-destroying-food-stocks",
-   "score": 1,
-   "sources": 1,
-   "summary": "A second cyberattack has struck supermarket freezers across Europe.",
-   "title_ar": "ثلاجات المتاجر الكبرى في أنحاء أوروبا تتعرض لهجوم سيبراني مدمر ثانٍ، حيث رفع المخترقون درجات الحرارة إلى 50 درجة مئوية في بلجيكا والسويد، مما أدى إلى تلف مخزون الأغذية."
-  },
   "tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments": {
    "at": "2026-11-04T13:30:39.223348+00:00",
    "title": "AI data centers comprehensively defeated at US midterm elections — 45 measures put on the ballot as Americans overwhelmingly vote against developments",
@@ -12374,17 +12385,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Bill & Ted's Excellent Adventure: Arcade features the voices of Keanu Reeves and Alex Winter",
-   "title_ar": ""
-  },
-  "videogameschronicle.com/news/a-trailer-for-a-remake-of-the-original-persona-appears-to-have-leaked": {
-   "at": "2026-11-02T12:00:43.931499+00:00",
-   "title": "A trailer for a remake of the original Persona appears to have leaked",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.videogameschronicle.com/news/a-trailer-for-a-remake-of-the-original-persona-appears-to-have-leaked/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The producer of Persona 4 Revival recently said Persona 1 and 2 remakes should happen",
    "title_ar": ""
   },
   "videogameschronicle.com/news/accessible-games-initiative-tags-adopted-by-nintendo-xbox-ubisoft-and-ea-making-it-easier-to-find-accessibility-features": {
@@ -12832,7 +12832,7 @@
   "AI": "2026-11-09T08:15:27.744398+00:00",
   "Anime": "2026-11-09T07:00:48.210502+00:00",
   "Games": "2026-11-09T11:15:29.188887+00:00",
-  "Tech": "2026-11-09T11:45:27.891477+00:00"
+  "Tech": "2026-11-09T12:00:44.615714+00:00"
  },
  "digest_day": "2026-11-08",
  "weekly_day": "2026-11-06"
