@@ -584,17 +584,6 @@
    "summary": "Apple reportedly sent notifications to users in 99 countries warning of potential mercenary spyware attacks, as German authorities investigate reports that lawmakers and government officials may…",
    "title_ar": "أبل تبلغ مؤخراً المستخدمين في 99 دولة بهجمات محتملة ببرامج تجسس مرتزقة"
   },
-  "9to5mac.com/2026/11/02/apple-says-memory-costs-and-siri-ai-will-weigh-on-holiday-quarter-profit-margins": {
-   "at": "2026-11-03T02:15:32.995398+00:00",
-   "title": "Apple says memory costs and Siri AI will weigh on holiday quarter profit margins",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/02/apple-says-memory-costs-and-siri-ai-will-weigh-on-holiday-quarter-profit-margins/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Following today’s earnings report, Apple held its quarterly earnings call, during which the company discussed the impact of rising memory costs on its profit margins and warned of additional…",
-   "title_ar": "أبل تقول إن تكاليف الذاكرة وذكاء Siri الاصطناعي سيؤثران على هوامش الربح في ربع العطلات"
-  },
   "9to5mac.com/2026/11/02/ios-27-2s-clever-new-messages-feature-can-be-tailored-to-your-needs": {
    "at": "2026-11-03T05:30:34.215368+00:00",
    "title": "iOS 27.2’s clever new Messages feature can be tailored to your needs",
@@ -1585,6 +1574,17 @@
    "summary": "Apple has released a minor new software update for iPhone users today: iOS 27.2.1.",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/09/apple-releases-macos-27-2-1-golden-gate-tahoe-26-7-3-and-sequoia-15-8-3": {
+   "at": "2026-11-10T02:30:38.444106+00:00",
+   "title": "Apple releases macOS 27.2.1 Golden Gate, Tahoe 26.7.3, and Sequoia 15.8.3",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/09/apple-releases-macos-27-2-1-golden-gate-tahoe-26-7-3-and-sequoia-15-8-3/",
+   "score": 0,
+   "sources": 1,
+   "summary": "After rolling out the first Release Candidates of macOS Sequoia 15.8.3 and macOS Tahoe 26.7.3 last week, Apple today released the official versions of both systems, alongside macOS 27.2.1 Golden Gate.",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/09/apple-staff-accused-of-signing-up-customers-to-subscriptions-without-consent-company-responds": {
    "at": "2026-11-09T12:15:32.801871+00:00",
    "title": "Apple staff accused of signing up customers to subscriptions without consent; company responds",
@@ -1607,6 +1607,17 @@
    "summary": "Apple today announced a long-term investment in Turkey, with seven new facilities focused on app development and manufacturing set to open in the country starting next year.",
    "title_ar": "أبل تفتتح مركزاً جديداً للمطورين في إسطنبول كجزء من استثمار أوسع في تركيا"
   },
+  "9to5mac.com/2026/11/09/canadian-court-certifies-class-action-against-apple-over-google-search-deal": {
+   "at": "2026-11-10T02:30:38.444106+00:00",
+   "title": "Canadian court certifies class action against Apple over Google search deal",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/09/canadian-court-certifies-class-action-against-apple-over-google-search-deal/",
+   "score": 1,
+   "sources": 1,
+   "summary": "A British Columbia Supreme Court judge has certified a class action against Apple over allegations that its search agreement with Google stifled competition and inflated advertising prices.",
+   "title_ar": "محكمة كندية تقر دعوى جماعية ضد Apple بسبب صفقة البحث مع Google"
+  },
   "9to5mac.com/2026/11/09/edgar-wright-directs-apples-hilarious-new-apple-pay-action-ad": {
    "at": "2026-11-10T01:15:28.053877+00:00",
    "title": "Edgar Wright directs Apple’s hilarious new Apple Pay action ad",
@@ -1628,6 +1639,17 @@
    "sources": 1,
    "summary": "Today Apple released iOS 27.2.1 for iPhone with bug fixes and security updates, alongside a variety of related software updates on other platforms.",
    "title_ar": "iOS 27.2.1 يتضمن إصلاحات لمشكلات أمنية في Messages و AirPlay والمزيد"
+  },
+  "9to5mac.com/2026/11/09/ios-27-3-three-new-iphone-features-coming-soon": {
+   "at": "2026-11-10T02:30:38.444106+00:00",
+   "title": "iOS 27.3: Three new iPhone features coming soon",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/09/ios-27-3-three-new-iphone-features-coming-soon/",
+   "score": 0,
+   "sources": 1,
+   "summary": "iOS 27.3 is currently in beta and packed with new features , here are three that will hit your iPhone when the update launches next month . more…",
+   "title_ar": ""
   },
   "9to5mac.com/2026/11/09/leak-reveals-details-for-more-iphone-18-models-launching-early-2027": {
    "at": "2026-11-09T15:15:30.753947+00:00",
@@ -2903,17 +2925,6 @@
    "score": 0,
    "sources": 1,
    "summary": "A stage play adaptation is also planned for March",
-   "title_ar": ""
-  },
-  "crunchyroll.com/news/latest/2026/11/3/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-anime-opening-song-music-video-centimillimental": {
-   "at": "2026-11-03T02:15:32.995398+00:00",
-   "title": "Centimillimental Releases Hello, I am a Witch and my Crush Wants me to Make a Love Potion! Anime Opening Song Music Video",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://crunchyroll.com/news/latest/2026/11/3/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-anime-opening-song-music-video-centimillimental",
-   "score": 0,
-   "sources": 1,
-   "summary": "The anime is currently streaming on Crunchyroll",
    "title_ar": ""
   },
   "crunchyroll.com/news/latest/2026/11/3/otaku-vampires-love-bite-anime-adaptation-announced": {
@@ -13272,7 +13283,7 @@
   "AI": "2026-11-10T01:30:36.355725+00:00",
   "Anime": "2026-11-10T00:15:31.996768+00:00",
   "Games": "2026-11-10T00:45:27.365069+00:00",
-  "Tech": "2026-11-10T02:15:30.258102+00:00"
+  "Tech": "2026-11-10T02:30:38.444106+00:00"
  },
  "digest_day": "2026-11-09",
  "weekly_day": "2026-11-06"
