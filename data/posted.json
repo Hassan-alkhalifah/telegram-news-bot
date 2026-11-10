@@ -10000,17 +10000,6 @@
    "summary": "Recent games made in Unity include Big Walk, Endless Legend 2, and Agent 64: Spies Never Die.",
    "title_ar": ""
   },
-  "pcgamer.com/gaming-industry/ubisoft-reportedly-wants-to-buy-arkane-from-xbox": {
-   "at": "2026-11-03T22:30:38.226600+00:00",
-   "title": "Ubisoft reportedly wants to buy Arkane from Xbox",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/gaming-industry/ubisoft-reportedly-wants-to-buy-arkane-from-xbox/",
-   "score": 0,
-   "sources": 1,
-   "summary": "There might be hope for Arkane after all: A new report says multiple companies have made offers for it.",
-   "title_ar": ""
-  },
   "pcgamer.com/gaming-industry/warren-spector-sounds-even-angrier-about-biowares-closure-as-he-recounts-the-massive-salaries-of-ea-execs-is-there-any-accountability-left-in-this-world": {
    "at": "2026-11-06T10:15:33.164477+00:00",
    "title": "Warren Spector sounds even angrier about BioWare's closure as he recounts the massive salaries of EA execs: 'Is there ANY accountability left in this world?'",
@@ -10560,17 +10549,6 @@
    "sources": 1,
    "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
    "title_ar": "Anthropic تعمل على نظام لإثبات هوية نماذج الذكاء الاصطناعي"
-  },
-  "techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows": {
-   "at": "2026-11-03T22:30:38.226600+00:00",
-   "title": "Data centers are turning to old jet engines as the wait for power grows",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-   "score": 3,
-   "sources": 2,
-   "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet…",
-   "title_ar": "مراكز البيانات تلجأ إلى محركات نفاثة قديمة مع تزايد الانتظار للحصول على الطاقة"
   },
   "techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming": {
    "at": "2026-11-05T01:15:27.637075+00:00",
@@ -11297,6 +11275,17 @@
    "sources": 1,
    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
    "title_ar": ""
+  },
+  "techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder": {
+   "at": "2026-11-10T22:30:38.865725+00:00",
+   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+   "score": 2,
+   "sources": 1,
+   "summary": "OpenAI has not yet said what its plans are for the future of travel.",
+   "title_ar": "OpenAI تستحوذ على Odessia، وهي شرکة ناشئة في مجال السفر أنشأها مؤسس Sonder"
   },
   "techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google": {
    "at": "2026-11-10T18:55:06.598830+00:00",
@@ -12145,17 +12134,6 @@
    "summary": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier.",
    "title_ar": ""
   },
-  "theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access": {
-   "at": "2026-11-03T22:30:38.226600+00:00",
-   "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
-   "score": 0,
-   "sources": 1,
-   "summary": "Sonos is rolling out a big app update that includes new Presets and early access to its AI voice assistant.",
-   "title_ar": ""
-  },
   "theverge.com/tech/1025971/canva-changes-layoffs": {
    "at": "2026-11-04T00:00:42.284440+00:00",
    "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
@@ -12915,17 +12893,6 @@
    "summary": "Several counties put data center issues on the ballot during the midterm elections, with most Americans voting against data center development in their county.",
    "title_ar": ""
   },
-  "tomshardware.com/tech-industry/data-centers/elon-musks-xai-installs-eight-converted-jet-engines-to-power-mississippi-data-center-permits-allow-25-percent-higher-limit-for-pollutants-concerns-raised-over-carbon-monoxide": {
-   "at": "2026-11-03T22:30:38.226600+00:00",
-   "title": "8 converted jet engines are powering xAI data centers as companies look for new energy sources",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-xai-installs-eight-converted-jet-engines-to-power-mississippi-data-center-permits-allow-25-percent-higher-limit-for-pollutants-concerns-raised-over-carbon-monoxide",
-   "score": 0,
-   "sources": 1,
-   "summary": "A Mississippi xAI data center is using eight converted jet engine turbines as a power source despite the known health risks of the carbon monoxide and volatile organic compounds they produce.",
-   "title_ar": ""
-  },
   "tomshardware.com/tech-industry/data-centers/hundreds-arrested-after-microsoft-data-center-protest-turns-violent-stop-dirty-data-centers-coalition-demands-halt-to-ai-data-center-expansion-dutch-police-seize-break-in-tools-suspected-stolen-items-from-construction-site": {
    "at": "2026-11-08T13:30:40.169555+00:00",
    "title": "Hundreds arrested after Microsoft data center protest turns violent",
@@ -13454,17 +13421,6 @@
    "summary": "Despite Obsidian layoffs, The Outer Worlds 2 is getting two expansions",
    "title_ar": ""
   },
-  "videogameschronicle.com/news/ubisoft-has-reportedly-offered-to-buy-arkane-lyon-from-xbox": {
-   "at": "2026-11-03T22:30:38.226600+00:00",
-   "title": "Ubisoft has reportedly offered to buy Arkane Lyon from Xbox",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.videogameschronicle.com/news/ubisoft-has-reportedly-offered-to-buy-arkane-lyon-from-xbox/",
-   "score": 0,
-   "sources": 1,
-   "summary": "A new report suggests that Arkane Lyon could go indie, or be bought by Ubisoft",
-   "title_ar": ""
-  },
   "videogameschronicle.com/news/xbox-is-updating-its-pc-app-promising-60-faster-boot-times-and-an-easier-to-use-game-library": {
    "at": "2026-11-06T13:00:44.301191+00:00",
    "title": "Xbox is updating its PC app, promising 60% faster boot times and an easier to use game library",
@@ -13544,7 +13500,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-10T21:30:40.062428+00:00",
+  "AI": "2026-11-10T22:30:38.865725+00:00",
   "Anime": "2026-11-10T22:00:46.065972+00:00",
   "Games": "2026-11-10T21:45:29.608857+00:00",
   "Tech": "2026-11-10T22:15:33.417093+00:00"
