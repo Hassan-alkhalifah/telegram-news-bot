@@ -12,17 +12,6 @@
    "summary": "AAWireless is known for helping you convert a wired Android Auto connection into a wireless one, but the company is now launching a new product – an active-cooled Qi2 car charger. more…",
    "title_ar": "AAWireless تتوسع beyond محولات Android Auto مع شاحن سيارة جديد مزود بتبريد وتقنية Qi2"
   },
-  "9to5google.com/2026/11/02/android-gaming-is-having-a-renaissance": {
-   "at": "2026-11-03T04:00:40.527008+00:00",
-   "title": "Android gaming is having a renaissance",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/02/android-gaming-is-having-a-renaissance/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Good morning!",
-   "title_ar": "الألعاب على نظام Android تشهد نهضة"
-  },
   "9to5google.com/2026/11/02/november-2026-google-system-updates": {
    "at": "2026-11-03T04:15:28.350009+00:00",
    "title": "What’s new in Android Nov. 2026 Google System Updates: Android photo backup with Quick Share for Windows",
@@ -1595,6 +1584,17 @@
    "sources": 1,
    "summary": "Apple today announced a long-term investment in Turkey, with seven new facilities focused on app development and manufacturing set to open in the country starting next year.",
    "title_ar": "أبل تفتتح مركزاً جديداً للمطورين في إسطنبول كجزء من استثمار أوسع في تركيا"
+  },
+  "9to5mac.com/2026/11/09/apple-tv-las-vegas-formula-1": {
+   "at": "2026-11-10T04:00:43.281243+00:00",
+   "title": "Apple to stream Las Vegas Formula 1 race for free in the United States",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/09/apple-tv-las-vegas-formula-1/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Apple today announced that the Formula 1 Las Vegas Grand Prix will be streaming for free on the Apple TV app , no subscription required.",
+   "title_ar": "أبل تبث سباق الفورمولا 1 في لاس فيغاس مجاناً في الولايات المتحدة"
   },
   "9to5mac.com/2026/11/09/canadian-court-certifies-class-action-against-apple-over-google-search-deal": {
    "at": "2026-11-10T02:30:38.444106+00:00",
@@ -9351,17 +9351,6 @@
    "summary": "Fly me to the moon.",
    "title_ar": ""
   },
-  "nintendolife.com/news/2026/11/square-enixs-harvest-sale-includes-huge-discounts-on-final-fantasy-vii-remake-intergrade-and-rebirth": {
-   "at": "2026-11-03T04:00:40.527008+00:00",
-   "title": "Square Enix's 'Harvest Sale' Includes Huge Discounts On Final Fantasy VII Remake Intergrade And Rebirth",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.nintendolife.com/news/2026/11/square-enixs-harvest-sale-includes-huge-discounts-on-final-fantasy-vii-remake-intergrade-and-rebirth",
-   "score": 0,
-   "sources": 1,
-   "summary": "Get ready for Revelation.",
-   "title_ar": ""
-  },
   "nintendolife.com/news/2026/11/super-mario-party-jamboree-updated-for-switch-2-and-switch-version-2-4-0": {
    "at": "2026-11-10T02:15:30.258102+00:00",
    "title": "Super Mario Party Jamboree Updated For Switch 2 And Switch (Version 2.4.0)",
@@ -13272,7 +13261,7 @@
   "AI": "2026-11-10T01:30:36.355725+00:00",
   "Anime": "2026-11-10T00:15:31.996768+00:00",
   "Games": "2026-11-10T00:45:27.365069+00:00",
-  "Tech": "2026-11-10T03:45:31.704859+00:00"
+  "Tech": "2026-11-10T04:00:43.281243+00:00"
  },
  "digest_day": "2026-11-09",
  "weekly_day": "2026-11-06"
