@@ -111,17 +111,6 @@
    "summary": "The Stadia Controller introduced the idea of connecting directly to cloud gaming via its own Wi-Fi connection and, while Google’s platform is long dead, that dream lives on in the latest Xbox…",
    "title_ar": "حلم وحدة تحكم Stadia من Google يستمِر في وحدة تحكم Xbox Nano بسعر 50 دولاراً"
   },
-  "9to5google.com/2026/11/03/xiaomi-confirms-android-17-hyperos-4-rollout-schedule-device-list": {
-   "at": "2026-11-03T15:45:31.163856+00:00",
-   "title": "Xiaomi confirms Android 17 HyperOS 4 rollout schedule for these devices",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/03/xiaomi-confirms-android-17-hyperos-4-rollout-schedule-device-list/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Several Xiaomi, Redmi, and Poco phones are getting the Android 17 HyperOS 4 update starting today. more…",
-   "title_ar": "Xiaomi تؤكد جدول إطلاق تحديث Android 17 HyperOS 4 لهذه الأجهزة"
-  },
   "9to5google.com/2026/11/04/enough-phone-small-android-phone-2027": {
    "at": "2026-11-04T18:30:39.203464+00:00",
    "title": "‘Enough Phone’ is an Android phone roughly the size of iPhone 13 Mini, launching in 2027",
@@ -2806,6 +2795,17 @@
    "summary": "Orange ear cushions included.",
    "title_ar": "سوني تعيد إحياء سماعات Walkman الأصلية وتضيف منفذ USB-C"
   },
+  "arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak": {
+   "at": "2026-11-10T15:45:33.266716+00:00",
+   "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+   "score": 2,
+   "sources": 1,
+   "summary": "The new model is up to twice as successful at some tasks.",
+   "title_ar": "DeepMind تكشف عن Gemini Robotics 2.5 ومعيار الأمان المفتوح ASIMOV-jailbreak"
+  },
   "arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage": {
    "at": "2026-11-09T15:30:39.359074+00:00",
    "title": "CEO Jensen Huang admits affair as Nvidia probes possible Chinese espionage",
@@ -4302,6 +4302,17 @@
    "summary": "Billboard will give more weight to free, ad-supported listening in its methodology.",
    "title_ar": "يوتيوب ستصبح جزءاً من حسابات قوائم Billboard مرة أخرى في عام 2027"
   },
+  "engadget.com/2311630/amazon-finally-launches-the-250-ring-drone-cam-and-also-the-ring-rover-cam": {
+   "at": "2026-11-10T15:45:33.266716+00:00",
+   "title": "Amazon finally launches the $250 Ring Drone Cam and also the Ring Rover Cam",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2311630/amazon-finally-launches-the-250-ring-drone-cam-and-also-the-ring-rover-cam/",
+   "score": 0,
+   "sources": 1,
+   "summary": "They're the first two products from Ring Robotics, the company's new autonomous home security devices category.",
+   "title_ar": ""
+  },
   "engadget.com/2311665/spotify-adds-new-voices-for-its-ai-dj": {
    "at": "2026-11-10T14:45:30.888067+00:00",
    "title": "Spotify adds new voices for its AI DJ",
@@ -5192,6 +5203,17 @@
    "sources": 1,
    "summary": "Strauss Zelnick, the head of Rockstar Games owner Take-Two, is known for his dedication to health and fitness.",
    "title_ar": "رئيس الشركة المالكة لـ GTA 6 يكشف عن نصائحه للحفاظ على الصحة واللياقة البدنية والعيش لفترة طويلة"
+  },
+  "gamespot.com/articles/heres-how-your-xbox-one-can-play-gta-6": {
+   "at": "2026-11-10T15:45:33.266716+00:00",
+   "title": "Here’s How Your Xbox One Can Play GTA 6",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/heres-how-your-xbox-one-can-play-gta-6/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Grand Theft Auto 6 is out next week, and the game is launching on both Xbox Series X|S and PS5.",
+   "title_ar": ""
   },
   "gamespot.com/articles/how-zelda-ocarina-of-time-benefits-from-a-glaringly-obvious-tactic-that-few-game-devs-follow": {
    "at": "2026-11-05T05:15:31.549565+00:00",
@@ -6909,6 +6931,17 @@
    "summary": "Data compiled by analytics firm Sensor Tower estimates that GTA 6 has already raked in more than $750 million in preorders across both PlayStation 5 and Xbox.",
    "title_ar": ""
   },
+  "ign.com/articles/gta-6-will-run-at-30fps-on-all-consoles-features-ray-tracing-improvements-on-ps5-pro": {
+   "at": "2026-11-10T15:45:33.266716+00:00",
+   "title": "GTA 6 Will Run at 30fps On All Consoles, Features Ray Tracing Improvements on PS5 Pro",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/gta-6-will-run-at-30fps-on-all-consoles-features-ray-tracing-improvements-on-ps5-pro",
+   "score": 0,
+   "sources": 1,
+   "summary": "Rockstar has finally announced performance for GTA 6.",
+   "title_ar": ""
+  },
   "ign.com/articles/itch-deletes-a-couple-of-terabytes-of-ai-slop": {
    "at": "2026-11-03T16:45:30.803913+00:00",
    "title": "Indie Game Storefront Itch Deletes a 'Couple of Terabytes of AI Slop,' Adds 'No AI' Filter to Search Results",
@@ -7491,6 +7524,17 @@
    "sources": 1,
    "summary": "GTA 6 is mere weeks away from launch, and to celebrate, Xbox is bringing the wildlife of Leonida to players’ living rooms with a one-of-a-kind console.",
    "title_ar": "أكس بوكس تبتكر جهاز Series X بتصميم تمساح، ويمكنك الفوز به قبل إطلاق GTA 6"
+  },
+  "ign.com/articles/you-dont-need-a-current-gen-console-if-youre-happy-to-play-gta-6-at-xbox-series-s-settings": {
+   "at": "2026-11-10T15:45:33.266716+00:00",
+   "title": "You Don't Need a Current-Gen Console if You're Happy to Play GTA 6 at Xbox Series S Settings",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/you-dont-need-a-current-gen-console-if-youre-happy-to-play-gta-6-at-xbox-series-s-settings",
+   "score": 0,
+   "sources": 1,
+   "summary": "After months of speculation, Rockstar finally revealed that GTA 6 would be targeting 30 fps on all of the current-generation consoles, including the Xbox Series S.",
+   "title_ar": ""
   },
   "ign.com/articles/zack-snyder-fans-beg-dc-studios-to-restore-the-snyderverse-after-james-gunn-peter-safran-exit": {
    "at": "2026-11-09T22:00:43.204562+00:00",
@@ -8955,6 +8999,17 @@
    "summary": "'Xbox is heading to Florida'",
    "title_ar": ""
   },
+  "kotaku.com/zelda-ocarina-of-time-remake-has-a-massive-second-act-change-that-took-my-breath-away-2000755518": {
+   "at": "2026-11-10T15:45:33.266716+00:00",
+   "title": "Zelda: Ocarina Of Time Remake Has A Massive Second-Act Change That Took My Breath Away",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/zelda-ocarina-of-time-remake-has-a-massive-second-act-change-that-took-my-breath-away-2000755518",
+   "score": 0,
+   "sources": 1,
+   "summary": "Leaving me cold",
+   "title_ar": ""
+  },
   "kotaku.com/zelda-ocarina-of-time-remake-master-quest-dlc-majoras-mask-2000755101": {
    "at": "2026-11-09T15:15:30.753947+00:00",
    "title": "Ocarina Of Time Remake Dataminers Find Evidence Of Master Quest DLC And Maybe Majora’s Mask Remake",
@@ -9901,17 +9956,6 @@
    "summary": "The waiting ain't over yet.",
    "title_ar": ""
   },
-  "pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-sentinel-is-finally-made-official": {
-   "at": "2026-11-03T15:45:31.163856+00:00",
-   "title": "The Elder Scrolls 6: Sentinel is finally made official",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-sentinel-is-finally-made-official/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The long-awaited title of the next Elder Scrolls game was revealed in a video marking Bethesda Softworks' 40th anniversary.",
-   "title_ar": ""
-  },
   "pcgamer.com/games/world-of-warcraft/after-all-the-queuing-drama-in-beta-wow-forevers-launch-was-buttery-smooth": {
    "at": "2026-11-05T13:45:30.140086+00:00",
    "title": "After all the queuing drama in beta, WoW: Forever's launch was buttery smooth",
@@ -10493,17 +10537,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Check them all out here.",
-   "title_ar": ""
-  },
-  "pushsquare.com/news/2026/11/skyrims-successor-finally-re-revealed-as-the-elder-scrolls-6-sentinel": {
-   "at": "2026-11-03T15:45:31.163856+00:00",
-   "title": "Skyrim's Successor Finally Re-Revealed as The Elder Scrolls 6: Sentinel",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pushsquare.com/news/2026/11/skyrims-successor-finally-re-revealed-as-the-elder-scrolls-6-sentinel",
-   "score": 0,
-   "sources": 1,
-   "summary": "Bethesda unveils its next RPG.",
    "title_ar": ""
   },
   "pushsquare.com/news/2026/11/sony-has-secured-enough-memory-to-meet-console-demand-through-march-2028": {
@@ -11337,6 +11370,17 @@
    "topic": "AI",
    "status": "duplicate",
    "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+   "title_ar": ""
+  },
+  "techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os": {
+   "at": "2026-11-10T15:45:33.266716+00:00",
+   "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
    "score": 0,
    "sources": 1,
    "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
@@ -13190,17 +13234,6 @@
    "summary": "BioWare fans have launched a petition in Canada",
    "title_ar": ""
   },
-  "videogameschronicle.com/news/control-resonant-is-the-fastest-selling-game-in-remedys-history-says-ceo": {
-   "at": "2026-11-03T15:45:31.163856+00:00",
-   "title": "Control Resonant is the ‘fastest selling’ game in Remedy’s history, says CEO",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.videogameschronicle.com/news/control-resonant-is-the-fastest-selling-game-in-remedys-history-says-ceo/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Control Resonant reached one million in sales on the same day as its physical release, says Remedy CEO",
-   "title_ar": ""
-  },
   "videogameschronicle.com/news/cyberpunk-edgerunners-2-music-video-reveals-entire-new-scenes-character-backstories": {
    "at": "2026-11-03T17:30:42.298260+00:00",
    "title": "Cyberpunk: Edgerunners 2 music video reveals entire new scenes, character backstories",
@@ -13544,7 +13577,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-10T14:45:30.888067+00:00",
+  "AI": "2026-11-10T15:45:33.266716+00:00",
   "Anime": "2026-11-10T15:00:48.146876+00:00",
   "Games": "2026-11-10T15:30:42.065908+00:00",
   "Tech": "2026-11-10T15:15:32.240618+00:00"
