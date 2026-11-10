@@ -540,6 +540,17 @@
    "summary": "Walmart’s ultra-cheap Google TV streamers were never going to remain cheap in the age of RAMageddon, and now we’re seeing the second big price hike of the year with the whole Onn Google TV lineup…",
    "title_ar": "Walmart ترفع أسعار تشكيلة أجهزة Google TV بالكامل"
   },
+  "9to5google.com/2026/11/10/samsungs-paid-ai-ambitions-have-a-giant-gemini-problem": {
+   "at": "2026-11-10T12:45:34.396719+00:00",
+   "title": "Samsung’s paid Galaxy AI plan has a giant Gemini problem",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5google.com/2026/11/10/samsungs-paid-ai-ambitions-have-a-giant-gemini-problem/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Good morning.",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/03/adobe-teams-up-with-universal-and-warner-to-bring-popular-music-to-premiere-mobile": {
    "at": "2026-11-03T16:30:38.991106+00:00",
    "title": "Adobe teams up with Universal and Warner to bring popular music to Premiere mobile",
@@ -1639,6 +1650,28 @@
    "sources": 1,
    "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform.",
    "title_ar": ""
+  },
+  "9to5mac.com/2026/11/10/google-deepmind-analysis-proves-signal-and-whatsapp-encryption-is-secure": {
+   "at": "2026-11-10T12:45:34.396719+00:00",
+   "title": "Google DeepMind analysis proves Signal and WhatsApp encryption is secure",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/10/google-deepmind-analysis-proves-signal-and-whatsapp-encryption-is-secure/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The Signal protocol has long been considered the gold standard for end-to-end encrypted messaging, with Edward Snowden a notable advocate.",
+   "title_ar": ""
+  },
+  "9to5mac.com/2026/11/10/instagram-effect-builder-lets-you-create-images-with-an-ai-prompt": {
+   "at": "2026-11-10T12:45:34.396719+00:00",
+   "title": "Instagram Effect Builder lets you create images with an AI prompt",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/10/instagram-effect-builder-lets-you-create-images-with-an-ai-prompt/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Instagram launched an Edits app for iPhone back in 2025, with a Mac version introduced just a few days ago.",
+   "title_ar": "أداة Instagram Effect Builder تتيح لك إنشاء صور باستخدام موجه ذكاء اصطناعي"
   },
   "animecorner.me/black-clover-season-2-episode-6-previews-noelle-and-charlotte-facing-vanica": {
    "at": "2026-11-04T10:30:38.697022+00:00",
@@ -7536,6 +7569,17 @@
    "summary": "Some of the classic games released include anniversary editions of influential titles in PC gaming such as Road Rash and Wing Commander.",
    "title_ar": ""
   },
+  "insider-gaming.com/ea-sports-fc-27-update-v1-2-0-patch-notes": {
+   "at": "2026-11-10T12:45:34.396719+00:00",
+   "title": "EA FC 27 Update v1.2.0 & Full Patch Notes—First Major Gameplay Changes",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/ea-sports-fc-27-update-v1-2-0-patch-notes/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The 1.2.0 update for EA FC 27 makes the first real gameplay changes that alter matches, check out the full patch notes.",
+   "title_ar": ""
+  },
   "insider-gaming.com/elder-scrolls-6-sentinel-reveal": {
    "at": "2026-11-03T15:15:38.086780+00:00",
    "title": "Bethesda Officially Confirms The Elder Scrolls 6: Sentinel as Its Next Game",
@@ -12838,6 +12882,17 @@
    "summary": "Nvidia may cap cloud partners’ Chinese business at 49% as Chinese firms buy up more than 1 million gaming and workstation GPUs.",
    "title_ar": "Nvidia تتصدى لتأجير وحدات معالجة الرسوميات الخاصة بالذكاء الاصطناعي السحابية في الخارج لصالح الصين"
   },
+  "tomshardware.com/tech-industry/policy/president-trump-says-the-fbi-is-investigating-jensen-huangs-affair-nvidia-also-accused-of-intervening-in-megaspeed-chip-smuggling-investigation": {
+   "at": "2026-11-10T12:45:34.396719+00:00",
+   "title": "President Trump says the FBI is investigating Jensen Huang’s affair",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/tech-industry/policy/president-trump-says-the-fbi-is-investigating-jensen-huangs-affair-nvidia-also-accused-of-intervening-in-megaspeed-chip-smuggling-investigation",
+   "score": 0,
+   "sources": 1,
+   "summary": "The FBI is probably concerned about the implication of a Chinese agent having influence over the leader of the U.S.'s leading AI chip manufacturer.",
+   "title_ar": ""
+  },
   "tomshardware.com/tech-industry/semiconductors/marvell-to-buy-lumentum-in-usd115-billion-all-stock-deal-combined-company-to-supply-scale-up-and-scale-in-optics-for-ai-data-centers": {
    "at": "2026-11-05T13:30:38.940025+00:00",
    "title": "Marvell to buy Lumentum in $115 billion all-stock deal",
@@ -13360,7 +13415,7 @@
   "AI": "2026-11-10T12:15:31.799158+00:00",
   "Anime": "2026-11-10T12:00:46.980470+00:00",
   "Games": "2026-11-10T12:30:45.020226+00:00",
-  "Tech": "2026-11-10T12:15:31.799158+00:00"
+  "Tech": "2026-11-10T12:45:34.396719+00:00"
  },
  "digest_day": "2026-11-09",
  "weekly_day": "2026-11-06"
