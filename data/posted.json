@@ -4874,6 +4874,17 @@
    "summary": "Unity Software is reportedly being eyed as the next acquisition by Saudi Arabia's Public Investment Fund and a consortium of investors, including US private equity firm Silver Lake Partners.",
    "title_ar": ""
   },
+  "gamespot.com/articles/amid-higher-gas-and-grocery-prices-gta-6-is-a-bargain-at-80-take-two-ceo-says": {
+   "at": "2026-11-10T20:45:32.606213+00:00",
+   "title": "Amid Higher Gas And Grocery Prices, GTA 6 Is A “Bargain” At $80, Take-Two CEO Says",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/amid-higher-gas-and-grocery-prices-gta-6-is-a-bargain-at-80-take-two-ceo-says/",
+   "score": 0,
+   "sources": 1,
+   "summary": "It's no secret that life is expensive.",
+   "title_ar": ""
+  },
   "gamespot.com/articles/arkane-union-accuses-microsoft-of-sabotaging-development-of-marvels-blade": {
    "at": "2026-11-05T16:30:41.806402+00:00",
    "title": "Arkane Union Accuses Microsoft Of “Sabotaging” Development Of Marvel’s Blade",
@@ -6820,6 +6831,17 @@
    "sources": 1,
    "summary": "The behemoth that is GTA 6 looms large over the video game industry, and it’s so big that it not only caused the September crush of releases, but caused some gamers to hold off on buying new games…",
    "title_ar": ""
+  },
+  "ign.com/articles/gta-6-fans-are-divided-over-confirmation-of-30fps": {
+   "at": "2026-11-10T20:45:32.606213+00:00",
+   "title": "GTA 6 Fans Are Divided Over Confirmation of 30fps",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.ign.com/articles/gta-6-fans-are-divided-over-confirmation-of-30fps",
+   "score": 2,
+   "sources": 1,
+   "summary": "GTA 6 will be 30fps, creating division among fans and frustration for PS5 Pro owners.",
+   "title_ar": "معجبو GTA 6 منقسمون حول تأكيد تشغيل اللعبة بـ 30 إطاراً في الثانية"
   },
   "ign.com/articles/gta-6-metadata-ray-tracing-improvements-on-ps5-pro": {
    "at": "2026-11-09T16:00:52.578212+00:00",
@@ -10484,6 +10506,17 @@
    "summary": "All editions revealed.",
    "title_ar": ""
   },
+  "pushsquare.com/news/2026/11/the-outer-worlds-2-ps5-dlc-split-into-two-parts-first-in-december": {
+   "at": "2026-11-10T20:45:32.606213+00:00",
+   "title": "The Outer Worlds 2 PS5 DLC Split into Two Parts, First in December",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pushsquare.com/news/2026/11/the-outer-worlds-2-ps5-dlc-split-into-two-parts-first-in-december",
+   "score": 0,
+   "sources": 1,
+   "summary": "Ask your doctor about DLC.",
+   "title_ar": ""
+  },
   "pushsquare.com/news/2026/11/theres-demand-to-remake-final-fantasy-6-from-within-square-enix-says-series-boss": {
    "at": "2026-11-05T18:45:31.351822+00:00",
    "title": "There's Demand to Remake Final Fantasy 6 from Within Square Enix, Says Series Boss",
@@ -11627,6 +11660,17 @@
    "sources": 1,
    "summary": "OpenAI's hardware team used GPT-6 Astra to design a device for the Codex coding agent in under a week, handling everything from the enclosure to the circuit board to the firmware.",
    "title_ar": "OpenAI تؤكد أن GPT-6 Astra صمم جهازاً عتادياً من الصفر في أقل من أسبوع"
+  },
+  "the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions": {
+   "at": "2026-11-10T20:45:32.606213+00:00",
+   "title": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/",
+   "score": 0,
+   "sources": 1,
+   "summary": "OpenAI is opening up ChatGPT as a business platform: through a new Business Hub, companies can claim their profile, add product data, and track how users interact with them.",
+   "title_ar": ""
   },
   "the-decoder.com/openais-gpt-6-astra-quietly-sabotaged-safety-research-by-inventing-fake-obstacles": {
    "at": "2026-11-05T22:30:38.968567+00:00",
@@ -13513,7 +13557,7 @@
  "topic_last_posted": {
   "AI": "2026-11-10T20:30:43.016586+00:00",
   "Anime": "2026-11-10T20:00:49.531567+00:00",
-  "Games": "2026-11-10T20:00:49.531567+00:00",
+  "Games": "2026-11-10T20:45:32.606213+00:00",
   "Tech": "2026-11-10T20:15:34.443962+00:00"
  },
  "digest_day": "2026-11-10",
