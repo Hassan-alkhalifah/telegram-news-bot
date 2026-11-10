@@ -34,17 +34,6 @@
    "summary": "Microsoft is ditching its own password backup option for the Microsoft Authenticator app for Android and instead using Google One for that service. more…",
    "title_ar": "تطبيق Microsoft Authenticator يستبدل ميزة النسخ الاحتياطي لكلمات المرور الخاصة به بخدمة Google One"
   },
-  "9to5google.com/2026/11/03/the-sideload-050-the-phones-samsung-and-google-wont-make": {
-   "at": "2026-11-03T21:30:45.725959+00:00",
-   "title": "The Sideload 050: The phones Samsung and Google won’t make",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/03/the-sideload-050-the-phones-samsung-and-google-wont-make/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Welcome to episode 50 of The Sideload, a 9to5Google podcast.",
-   "title_ar": "The Sideload 050: الهواتف التي ترفض Samsung و Google صنعها"
-  },
   "9to5google.com/2026/11/03/xbox-nano-controller-cloud-gaming-stadia": {
    "at": "2026-11-04T02:45:27.474884+00:00",
    "title": "Google’s Stadia Controller dream lives on in the $50 Xbox Nano Controller",
@@ -3521,17 +3510,6 @@
    "summary": "It sure is pretty and will likely be expensive.",
    "title_ar": "Razer تكشف عن وحدة التحكم Raiju V3 Pro Signature Edition لجهاز PS5"
   },
-  "engadget.com/2305984/reddit-is-testing-search-ads-as-traffic-from-google-declines": {
-   "at": "2026-11-03T21:30:45.725959+00:00",
-   "title": "Reddit is testing in-app search ads as traffic from Google declines",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.engadget.com/2305984/reddit-is-testing-search-ads-as-traffic-from-google-declines/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The company wants to help advertisers reach users who show a \"high purchase\" intent.",
-   "title_ar": ""
-  },
   "engadget.com/2306079/meta-quest-2-and-quest-pro-reach-end-of-feature-development": {
    "at": "2026-11-03T23:00:42.667321+00:00",
    "title": "Meta's Quest 2 and Quest Pro reach 'end of feature development'",
@@ -6326,6 +6304,17 @@
    "summary": "We've heard multiple rumors about the Samsung Galaxy S27 lineup's cameras in the past few months.",
    "title_ar": ""
   },
+  "gsmarena.com/samsung_galaxy_s27_series_dummy_units_surface_in_new_leak-news-75426.php": {
+   "at": "2026-11-10T21:45:29.608857+00:00",
+   "title": "Samsung Galaxy S27 series dummy units surface in new leak",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/samsung_galaxy_s27_series_dummy_units_surface_in_new_leak-news-75426.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "Earlier today, dummy units of Apple’s iPhone Air 2 and iPhone 18 surfaced online.",
+   "title_ar": ""
+  },
   "gsmarena.com/samsung_galaxy_watch8_is_now_receiving_the_update_to_one_ui_9_watch_based_on_wear_os_7-news-75410.php": {
    "at": "2026-11-09T23:15:28.478010+00:00",
    "title": "Samsung Galaxy Watch8 is now receiving the update to One UI 9 Watch based on Wear OS 7",
@@ -6854,6 +6843,17 @@
    "summary": "Germany has a unique legal loophole that lets 60 employees take time off work to play GTA 6 without putting their jobs in jeopardy.",
    "title_ar": ""
   },
+  "ign.com/articles/gta-6-preload-now-trailer-includes-nearly-30-seconds-of-new-footage-swat-team-nightclub-dancing-and-more": {
+   "at": "2026-11-10T21:45:29.608857+00:00",
+   "title": "GTA 6 'Preload Now' Trailer Includes Nearly 30 Seconds of New Footage — SWAT Team, Nightclub Dancing, and More",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.ign.com/articles/gta-6-preload-now-trailer-includes-nearly-30-seconds-of-new-footage-swat-team-nightclub-dancing-and-more",
+   "score": 2,
+   "sources": 1,
+   "summary": "Rockstar has released a new GTA 6 trailer announcing the launch of preloads, and it includes nearly 30 seconds of new footage.",
+   "title_ar": "إعلان التحميل المسبق للعبة GTA 6 يتضمن نحو 30 ثانية من المشاهد الجديدة - فرقة التدخل السريع، والرقص في الملهى الليلي، والمزيد"
+  },
   "ign.com/articles/gta-6-rakes-in-over-750-million-in-pre-orders-two-weeks-ahead-of-release-date": {
    "at": "2026-11-05T01:00:44.213005+00:00",
    "title": "GTA 6 Rakes in Over $750 Million in Preorders 2 Weeks Ahead of Release Date",
@@ -7094,6 +7094,28 @@
    "score": 0,
    "sources": 1,
    "summary": "OpenAI boss Sam Altman has addressed the backlash over comments he made in a recent interview, where he said he thought it was “terrible” for people to have RAM in their PCs rather than a data center.",
+   "title_ar": ""
+  },
+  "ign.com/articles/playstation-cancels-live-service-heist-shooter-fairgames": {
+   "at": "2026-11-10T21:45:29.608857+00:00",
+   "title": "PlayStation Cancels Live-Service Heist Shooter, Fairgames",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/playstation-cancels-live-service-heist-shooter-fairgames",
+   "score": 0,
+   "sources": 1,
+   "summary": "Fairgames, a live-service heist game from PlayStation's Haven Studios, has been canceled by Sony.",
+   "title_ar": ""
+  },
+  "ign.com/articles/playstation-plus-monthly-games-for-november-2026-announced": {
+   "at": "2026-11-10T21:45:29.608857+00:00",
+   "title": "PlayStation Plus Monthly Games for November 2026 Announced",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/playstation-plus-monthly-games-for-november-2026-announced",
+   "score": 0,
+   "sources": 1,
+   "summary": "November’s lineup of games on PlayStation Plus has been revealed by Sony.",
    "title_ar": ""
   },
   "ign.com/articles/playstation-plus-pc-app-will-go-offline-december-10-as-sony-continues-to-retreat-from-pc": {
@@ -7369,6 +7391,17 @@
    "score": 0,
    "sources": 1,
    "summary": "World of Warcraft Forever has been a massive hit, and I've seen hundreds of players in pretty much every part of the game.",
+   "title_ar": ""
+  },
+  "ign.com/articles/world-of-warcraft-forever-hotfix-will-thin-out-overcrowded-zones-and-help-faction-balance": {
+   "at": "2026-11-10T21:45:29.608857+00:00",
+   "title": "World of Warcraft Forever Hotfix Will Thin Out Overcrowded Zones and Help Faction Balance",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/world-of-warcraft-forever-hotfix-will-thin-out-overcrowded-zones-and-help-faction-balance",
+   "score": 0,
+   "sources": 1,
+   "summary": "World of Warcraft Forever has been incredibly popular, and has gone down as the biggest WoW launch in history.",
    "title_ar": ""
   },
   "ign.com/articles/world-of-warcraft-forever-is-the-biggest-wow-launch-in-history": {
@@ -8922,15 +8955,15 @@
    "summary": "A French union is making demands amid an attempted sale of the studio",
    "title_ar": ""
   },
-  "kotaku.com/xbox-isnt-allowed-to-market-gta-6-so-it-stuck-a-console-inside-of-an-alligator-instead-2000752847": {
-   "at": "2026-11-03T21:30:45.725959+00:00",
-   "title": "Xbox Isn’t Allowed To Market GTA 6 So It Stuck A Console Inside Of An Alligator Instead",
+  "kotaku.com/you-can-play-gta-6-on-a-13-year-old-xbox-and-itll-run-at-the-same-framerate-as-ps5-pro-2000755587": {
+   "at": "2026-11-10T21:45:29.608857+00:00",
+   "title": "You Can Play GTA 6 On A 13-Year-Old Xbox And It’ll Run At The Same Framerate As PS5 Pro",
    "topic": "Games",
    "status": "duplicate",
-   "url": "https://kotaku.com/xbox-isnt-allowed-to-market-gta-6-so-it-stuck-a-console-inside-of-an-alligator-instead-2000752847",
+   "url": "https://kotaku.com/you-can-play-gta-6-on-a-13-year-old-xbox-and-itll-run-at-the-same-framerate-as-ps5-pro-2000755587",
    "score": 0,
    "sources": 1,
-   "summary": "'Xbox is heading to Florida'",
+   "summary": "A cloud gaming deal with Rockstar yields a nice bonus for people still playing on Xbox One",
    "title_ar": ""
   },
   "kotaku.com/zelda-ocarina-of-time-remake-has-a-massive-second-act-change-that-took-my-breath-away-2000755518": {
@@ -13557,7 +13590,7 @@
  "topic_last_posted": {
   "AI": "2026-11-10T21:30:40.062428+00:00",
   "Anime": "2026-11-10T20:00:49.531567+00:00",
-  "Games": "2026-11-10T21:00:49.784182+00:00",
+  "Games": "2026-11-10T21:45:29.608857+00:00",
   "Tech": "2026-11-10T21:15:31.249891+00:00"
  },
  "digest_day": "2026-11-10",
