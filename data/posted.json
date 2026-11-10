@@ -529,6 +529,17 @@
    "summary": "Google may have hiked the price of the Pixel 10a in recent months, but a limited-time deal is the best price you’ll find at $450. more…",
    "title_ar": "سعر Pixel 10a ينخفض إلى 449 دولاراً، وهو أفضل عرض ستجده بعد زيادة جوجل للأسعار"
   },
+  "9to5google.com/2026/11/09/hunter-ceiling-fans-google-home-amazon-alexa-support": {
+   "at": "2026-11-10T02:15:30.258102+00:00",
+   "title": "Hunter is killing Google Home, Alexa controls for its smart ceiling fans",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/09/hunter-ceiling-fans-google-home-amazon-alexa-support/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Hunter, a major brand for ceiling fans in the US, is pulling the plug on its Google Home and Amazon Alexa bridge for controlling “HunterSMART” models in just a few weeks. more…",
+   "title_ar": "Hunter تلغي دعم Google Home وAlexa لمواقف المراوح الذكية الخاصة بها"
+  },
   "9to5google.com/2026/11/09/november-2026-google-system-updates": {
    "at": "2026-11-10T00:00:44.607533+00:00",
    "title": "What’s new in Android’s November 2026 Google System Updates [U]",
@@ -1550,6 +1561,28 @@
    "score": 0,
    "sources": 1,
    "summary": "Yesterday saw two reports about Apple software development.",
+   "title_ar": ""
+  },
+  "9to5mac.com/2026/11/09/apple-releases-ios-26-7-3-watchos-27-2-1-and-more": {
+   "at": "2026-11-10T02:15:30.258102+00:00",
+   "title": "Apple releases iOS 26.7.3, watchOS 27.2.1, and more",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/09/apple-releases-ios-26-7-3-watchos-27-2-1-and-more/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Today Apple released a variety of software updates with the latest security fixes, including iOS 26.7.3 for iPhone, watchOS 27.2.1 for Apple Watch, and more. more…",
+   "title_ar": ""
+  },
+  "9to5mac.com/2026/11/09/apple-releases-ios-27-2-1-for-iphone-heres-whats-new": {
+   "at": "2026-11-10T02:15:30.258102+00:00",
+   "title": "Apple releases iOS 27.2.1 for iPhone, here’s what’s new",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/09/apple-releases-ios-27-2-1-for-iphone-heres-whats-new/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Apple has released a minor new software update for iPhone users today: iOS 27.2.1.",
    "title_ar": ""
   },
   "9to5mac.com/2026/11/09/apple-staff-accused-of-signing-up-customers-to-subscriptions-without-consent-company-responds": {
@@ -9307,6 +9340,17 @@
    "summary": "Get ready for Revelation.",
    "title_ar": ""
   },
+  "nintendolife.com/news/2026/11/super-mario-party-jamboree-updated-for-switch-2-and-switch-version-2-4-0": {
+   "at": "2026-11-10T02:15:30.258102+00:00",
+   "title": "Super Mario Party Jamboree Updated For Switch 2 And Switch (Version 2.4.0)",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/super-mario-party-jamboree-updated-for-switch-2-and-switch-version-2-4-0",
+   "score": 0,
+   "sources": 1,
+   "summary": "Download it today.",
+   "title_ar": ""
+  },
   "nintendolife.com/news/2026/11/switch-1-and-2-cartridges-under-threat-as-key-rom-manufacturer-exits-business": {
    "at": "2026-11-04T16:45:26.072895+00:00",
    "title": "Switch 1 & 2 Cartridges Under Threat As Key ROM Manufacturer Exits Business",
@@ -13228,7 +13272,7 @@
   "AI": "2026-11-10T01:30:36.355725+00:00",
   "Anime": "2026-11-10T00:15:31.996768+00:00",
   "Games": "2026-11-10T00:45:27.365069+00:00",
-  "Tech": "2026-11-10T02:00:46.241440+00:00"
+  "Tech": "2026-11-10T02:15:30.258102+00:00"
  },
  "digest_day": "2026-11-09",
  "weekly_day": "2026-11-06"
