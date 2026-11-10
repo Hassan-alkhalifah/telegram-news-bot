@@ -12,17 +12,6 @@
    "summary": "Google is rolling out Android Auto 18.1 to the masses and, while there are no major changes, the update continues to work on upcoming changes. more…",
    "title_ar": "إطلاق تحديث Android Auto 18.1 مع استعدادات إضافية للوضع الفاتح وإعادة التصميم"
   },
-  "9to5google.com/2026/11/03/google-messages-pinned-chats-redesign": {
-   "at": "2026-11-03T23:31:06.205259+00:00",
-   "title": "Google Messages redesigning pinned chats and moving search",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/03/google-messages-pinned-chats-redesign/",
-   "score": 1,
-   "sources": 1,
-   "summary": "In addition to the new app icon , Google Messages is testing a redesign of pinned chats and search on the homepage. more…",
-   "title_ar": "تطبيق Google Messages يعيد تصميم المحادثات المثبتة وينقل شريط البحث"
-  },
   "9to5google.com/2026/11/03/microsoft-authenticator-google-one-backup-change": {
    "at": "2026-11-04T03:45:28.087898+00:00",
    "title": "Microsoft Authenticator is ditching its own password backup for Google One",
@@ -5886,17 +5875,6 @@
    "summary": "Airbnb has spent much of 2026 folding AI into search, listing descriptions, and customer support.",
    "title_ar": ""
   },
-  "gsmarena.com/android_and_ios_apps_will_be_able_to_bypass_the_share_sheet_next_year-news-75328.php": {
-   "at": "2026-11-03T23:45:25.768766+00:00",
-   "title": "Android and iOS apps will be able to bypass the share sheet next year",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.gsmarena.com/android_and_ios_apps_will_be_able_to_bypass_the_share_sheet_next_year-news-75328.php",
-   "score": 0,
-   "sources": 1,
-   "summary": "Quick Share has come a long way over the past year.",
-   "title_ar": ""
-  },
   "gsmarena.com/announcing_the_nominees_for_the_gsmarena_2026_endofyear_awards-news-75263.php": {
    "at": "2026-11-10T01:00:46.659900+00:00",
    "title": "Announcing the finalists for the GSMArena 2026 End-of-Year Awards",
@@ -8482,6 +8460,17 @@
    "summary": "They will be replaced by Marvel veteran Jeremy Latcham",
    "title_ar": ""
   },
+  "kotaku.com/killing-floor-studio-cofounder-blames-spiraling-layoffs-on-woke-leftists-2000755642": {
+   "at": "2026-11-10T23:45:31.690095+00:00",
+   "title": "Killing Floor Studio Cofounder Blames Spiraling Layoffs On ‘Woke Leftists’",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/killing-floor-studio-cofounder-blames-spiraling-layoffs-on-woke-leftists-2000755642",
+   "score": 0,
+   "sources": 1,
+   "summary": "John Gibson stepped down from Tripwire Interactive over his support for an abortion ban",
+   "title_ar": ""
+  },
   "kotaku.com/legend-zelda-ocarina-of-time-microphone-songs-instruments-2000754324": {
    "at": "2026-11-05T22:45:28.890258+00:00",
    "title": "One Of The Coolest New Features In The Ocarina Of Time Remake Is Equal Parts Impressive And Hysterical",
@@ -8954,17 +8943,6 @@
    "sources": 1,
    "summary": "Manga creator Keigo Maki (Kawaii dake ja Nai Shikimori-san) will draw a manga adaptation of Type-Moon's Mahoutsukai no Yoru (Witch on the Holy Night) visual novel, the official X (formerly Twitter)…",
    "title_ar": ""
-  },
-  "myanimelist.net/news/74902452?_location=rss": {
-   "at": "2026-11-03T23:45:25.768766+00:00",
-   "title": "Manga 'Oshi ni Amagami' Receives TV Anime Adaptation",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://myanimelist.net/news/74902452?_location=rss",
-   "score": 1,
-   "sources": 1,
-   "summary": "Production company Shogakukan-Shueisha Productions announced a television anime adaptation of Julietta Suzuki's Oshi ni Amagami (Otaku Vampire's Love Bite) manga on Wednesday, revealing special…",
-   "title_ar": "مانغا Oshi ni Amagami تحصل على اقتباس في مسلسل أنمي متلفز"
   },
   "myanimelist.net/news/74902561?_location=rss": {
    "at": "2026-11-04T01:00:43.017439+00:00",
@@ -11430,6 +11408,17 @@
    "summary": "Anthropic signed its first licensing deal with a news publisher just ahead of the US midterm elections.",
    "title_ar": "Anthropic تتراجع عن موقفها وتدفع ثمن محتوى إخباري للمرة الأولى"
   },
+  "the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes": {
+   "at": "2026-11-10T23:45:31.690095+00:00",
+   "title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Anthropic is expanding Claude with Sheets, Whiteboards, and Interactive Connectors, letting partners like Adobe and Atlassian embed their apps directly inside Claude.",
+   "title_ar": ""
+  },
   "the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation": {
    "at": "2026-11-06T11:45:27.974169+00:00",
    "title": "Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation",
@@ -13511,7 +13500,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-10T23:15:28.915987+00:00",
+  "AI": "2026-11-10T23:45:31.690095+00:00",
   "Anime": "2026-11-10T22:00:46.065972+00:00",
   "Games": "2026-11-10T22:45:30.132408+00:00",
   "Tech": "2026-11-10T23:30:39.934038+00:00"
