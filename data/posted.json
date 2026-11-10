@@ -45,17 +45,6 @@
    "summary": "In addition to the new app icon , Google Messages is testing a redesign of pinned chats and search on the homepage. more…",
    "title_ar": "تطبيق Google Messages يعيد تصميم المحادثات المثبتة وينقل شريط البحث"
   },
-  "9to5google.com/2026/11/03/google-releases-fix-for-pixel-watch-battery-drain": {
-   "at": "2026-11-03T17:46:58.096261+00:00",
-   "title": "Google confirms something was draining Pixel Watch batteries, fix rolling out",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/03/google-releases-fix-for-pixel-watch-battery-drain/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Google has confirmed that some Pixel Watches are experiencing unexpected battery drain, but it also says a fix is already available. more…",
-   "title_ar": "جوجل تؤكد وجود مشكلة تستنزف بطاريات Pixel Watch وتطلق تحديثاً لحلها"
-  },
   "9to5google.com/2026/11/03/google-search-ai-guided-learning-changes": {
    "at": "2026-11-03T20:45:37.881443+00:00",
    "title": "Google will disable Search for students unless schools accept AI features in ‘Guided Learning’ push",
@@ -1672,6 +1661,17 @@
    "sources": 1,
    "summary": "Instagram launched an Edits app for iPhone back in 2025, with a Mac version introduced just a few days ago.",
    "title_ar": "أداة Instagram Effect Builder تتيح لك إنشاء صور باستخدام موجه ذكاء اصطناعي"
+  },
+  "9to5mac.com/2026/11/10/new-apple-tv-4k-remotes-best-feature-requires-a-newer-iphone-model": {
+   "at": "2026-11-10T18:00:45.031142+00:00",
+   "title": "New Apple TV 4K remote’s best feature requires a newer iPhone model",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/10/new-apple-tv-4k-remotes-best-feature-requires-a-newer-iphone-model/",
+   "score": 0,
+   "sources": 1,
+   "summary": "A new Apple TV 4K releases this Friday ( pre-order here ), with an upgraded Siri Remote.",
+   "title_ar": ""
   },
   "9to5mac.com/2026/11/10/rings-wheeled-and-flying-robots-will-patrol-your-home": {
    "at": "2026-11-10T14:15:31.785799+00:00",
@@ -3905,6 +3905,17 @@
    "sources": 1,
    "summary": "Seniors, especially those who live alone, could benefit from a number of Apple Watch health alerts, including medication reminders and fall detection.",
    "title_ar": "يجب على كل مسن يمتلك Apple Watch ضبط تنبيهات الصحة الـ 5 هذه"
+  },
+  "engadget.com/2307797/nvidia-dlss-4-5-presets-should-know": {
+   "at": "2026-11-10T18:00:45.031142+00:00",
+   "title": "NVIDIA DLSS 4.5 has presets you should know about",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2307797/nvidia-dlss-4-5-presets-should-know/",
+   "score": 0,
+   "sources": 1,
+   "summary": "These tweaks can help you squeeze better performance and cleaner visuals from your favorite PC gaming titles on multiple types of hardware.",
+   "title_ar": ""
   },
   "engadget.com/2308154/iphone-duo-new-accessibility-feature-ios-27-3-beta-reachability": {
    "at": "2026-11-05T18:15:31.101764+00:00",
@@ -7646,6 +7657,17 @@
    "summary": "Who says modern society has a loneliness crisis?",
    "title_ar": ""
   },
+  "insider-gaming.com/doomsday-begins-in-marvel-rivals-season-11-as-nightcrawler-dracula-are-unveiled": {
+   "at": "2026-11-10T18:00:45.031142+00:00",
+   "title": "Doomsday Begins In Marvel Rivals Season 11 As Nightcrawler & Dracula Are Unveiled",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://insider-gaming.com/doomsday-begins-in-marvel-rivals-season-11-as-nightcrawler-dracula-are-unveiled/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Nightcrawler has officially been unveiled by NetEase Games as the newest hero to join the Marvel Rivals roster with Season 11.",
+   "title_ar": "بداية نهاية العالم في الموسم 11 من Marvel Rivals مع الكشف عن Nightcrawler و Dracula"
+  },
   "insider-gaming.com/ea-launches-25-classic-games-on-steam": {
    "at": "2026-11-05T21:15:28.679773+00:00",
    "title": "EA Releases 25 Classic Games on Steam, Including Road Rash and Wing Commander",
@@ -10627,17 +10649,6 @@
    "summary": "At least three bids for Arkane Studios.",
    "title_ar": ""
   },
-  "techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute": {
-   "at": "2026-11-03T17:45:32.846690+00:00",
-   "title": "Anthropic is still grappling with the economics of compute",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-   "score": 1,
-   "sources": 1,
-   "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
-   "title_ar": "شركة Anthropic لا تزال تصارع اقتصاديات القدرة الحاسوبية"
-  },
   "techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity": {
    "at": "2026-11-03T22:45:28.621366+00:00",
    "title": "Anthropic is working on a system to prove AI models’ identity",
@@ -13223,17 +13234,6 @@
    "summary": "007 First Light's opening mission can be played for free in a new demo.",
    "title_ar": "يمكنكم الآن تجربة بداية لعبة 007 First Light مجاناً"
   },
-  "videogameschronicle.com/news/a-new-retro-inspired-game-based-on-bill-ted-is-in-development": {
-   "at": "2026-11-03T17:45:32.846690+00:00",
-   "title": "A new retro-inspired game based on Bill & Ted is in development",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.videogameschronicle.com/news/a-new-retro-inspired-game-based-on-bill-ted-is-in-development/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Bill & Ted's Excellent Adventure: Arcade features the voices of Keanu Reeves and Alex Winter",
-   "title_ar": ""
-  },
   "videogameschronicle.com/news/accessible-games-initiative-tags-adopted-by-nintendo-xbox-ubisoft-and-ea-making-it-easier-to-find-accessibility-features": {
    "at": "2026-11-04T14:00:46.156114+00:00",
    "title": "Accessible Games Initiative tags adopted by Nintendo, Xbox, Ubisoft and EA, making it easier to find accessibility features",
@@ -13634,9 +13634,9 @@
  "topic_last_posted": {
   "AI": "2026-11-10T17:30:40.491963+00:00",
   "Anime": "2026-11-10T16:00:46.898623+00:00",
-  "Games": "2026-11-10T17:15:31.033273+00:00",
+  "Games": "2026-11-10T18:00:45.031142+00:00",
   "Tech": "2026-11-10T17:45:28.481552+00:00"
  },
- "digest_day": "2026-11-09",
+ "digest_day": "2026-11-10",
  "weekly_day": "2026-11-06"
 }
