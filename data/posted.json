@@ -1541,6 +1541,17 @@
    "summary": "The Signal protocol has long been considered the gold standard for end-to-end encrypted messaging, with Edward Snowden a notable advocate.",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/10/ifixit-tears-down-touchscreen-macbook-pro-reveals-light-up-apple-logo-details": {
+   "at": "2026-11-10T23:30:39.934038+00:00",
+   "title": "iFixit tears down touchscreen MacBook Pro, reveals light-up Apple logo details",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/10/ifixit-tears-down-touchscreen-macbook-pro-reveals-light-up-apple-logo-details/",
+   "score": 2,
+   "sources": 1,
+   "summary": "iFixit published its teardown of the new MacBook Pro with PROLED XDR Display today, revealing interesting details about how Apple brought back its illuminated logo on the lid.",
+   "title_ar": "موقع iFixit يفكك حاسوب MacBook Pro بشاشة تعمل باللمس ويكشف عن تفاصيل شعار Apple المضيء"
+  },
   "9to5mac.com/2026/11/10/instagram-effect-builder-lets-you-create-images-with-an-ai-prompt": {
    "at": "2026-11-10T12:45:34.396719+00:00",
    "title": "Instagram Effect Builder lets you create images with an AI prompt",
@@ -3531,17 +3542,6 @@
    "sources": 1,
    "summary": "It sure is pretty and will likely be expensive.",
    "title_ar": "Razer تكشف عن وحدة التحكم Raiju V3 Pro Signature Edition لجهاز PS5"
-  },
-  "engadget.com/2306095/nvidia-dlss-5-update-rtx-remix-enhance-older-games": {
-   "at": "2026-11-03T23:15:36.216929+00:00",
-   "title": "NVIDIA's controversial DLSS 5 is coming to RTX Remix to 'enhance' older games",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2306095/nvidia-dlss-5-update-rtx-remix-enhance-older-games/",
-   "score": 1,
-   "sources": 1,
-   "summary": "The NVIDIA modding platform lets you remaster classic games with modern graphics, and now DLSS 5 is included.",
-   "title_ar": "تكنولوجيا DLSS 5 المثيرة للجدل من NVIDIA قادمة إلى RTX Remix لتحسين الألعاب القديمة"
   },
   "engadget.com/2306118/arkane-and-its-blade-game-may-end-up-at-ubisoft-as-xbox-considers-offers": {
    "at": "2026-11-04T00:00:42.284440+00:00",
@@ -8306,17 +8306,6 @@
    "summary": "In a furious new screed, Spector lets rip at the c-suites who never take responsibility for failure",
    "title_ar": ""
   },
-  "kotaku.com/devs-are-being-forced-to-delay-their-games-on-steam-and-they-think-its-because-of-the-ai-slop-flood-2000752839": {
-   "at": "2026-11-03T23:15:36.216929+00:00",
-   "title": "Devs Are Blaming A Flood Of AI Slop On Steam For Delaying Their Games",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/devs-are-being-forced-to-delay-their-games-on-steam-and-they-think-its-because-of-the-ai-slop-flood-2000752839",
-   "score": 0,
-   "sources": 1,
-   "summary": "'Oh no, we are not releasing on the same day as Zelda '",
-   "title_ar": ""
-  },
   "kotaku.com/dragons-dogma-2-drops-surprise-delicious-in-dungeon-collab-2000753287": {
    "at": "2026-11-04T13:15:29.055625+00:00",
    "title": "Dragon’s Dogma 2 Drops Surprise Delicious In Dungeon Collab",
@@ -10009,6 +9998,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Recent games made in Unity include Big Walk, Endless Legend 2, and Agent 64: Spies Never Die.",
+   "title_ar": ""
+  },
+  "pcgamer.com/gaming-industry/sony-cancels-another-live-service-game-ahead-of-release-but-at-least-there-wont-be-any-layoffs-this-time": {
+   "at": "2026-11-10T23:30:39.934038+00:00",
+   "title": "Sony cancels another live service game ahead of release, but at least there won't be any layoffs this time",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/gaming-industry/sony-cancels-another-live-service-game-ahead-of-release-but-at-least-there-wont-be-any-layoffs-this-time/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Fairgames was revealed in 2023, but nothing more was ever seen of it.",
    "title_ar": ""
   },
   "pcgamer.com/gaming-industry/warren-spector-sounds-even-angrier-about-biowares-closure-as-he-recounts-the-massive-salaries-of-ea-execs-is-there-any-accountability-left-in-this-world": {
@@ -13514,7 +13514,7 @@
   "AI": "2026-11-10T23:15:28.915987+00:00",
   "Anime": "2026-11-10T22:00:46.065972+00:00",
   "Games": "2026-11-10T22:45:30.132408+00:00",
-  "Tech": "2026-11-10T23:00:47.097425+00:00"
+  "Tech": "2026-11-10T23:30:39.934038+00:00"
  },
  "digest_day": "2026-11-10",
  "weekly_day": "2026-11-06"
