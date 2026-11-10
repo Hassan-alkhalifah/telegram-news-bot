@@ -1937,17 +1937,6 @@
    "summary": "The official website for the hip-hop-themed multimedia franchise presented the early teaser visual for its upcoming film project on Friday.",
    "title_ar": "الإعلان عن عنوان وموعد عرض فيلم Paradox Live The Animation في عام 2027"
   },
-  "animenewsnetwork.com/news/2026-11-02/live-action-quiztopia-series-unveils-trailer-key-art/.243460": {
-   "at": "2026-11-03T04:45:26.654505+00:00",
-   "title": "Live-Action Quiztopia Series Unveils Trailer, Key Art",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-02/live-action-quiztopia-series-unveils-trailer-key-art/.243460",
-   "score": 1,
-   "sources": 1,
-   "summary": "Series debuting on Netflix on December 17 with scenes with 8,000 extras",
-   "title_ar": "الكشف عن العرض الدعائي والملصق الرئيسي لمسلسل الواقع الحي Quiztopia"
-  },
   "animenewsnetwork.com/news/2026-11-03/cyberpunk-edgerunners-2-anime-streams-new-music-videos/.243487": {
    "at": "2026-11-03T17:00:45.520558+00:00",
    "title": "Cyberpunk Edgerunners 2 Anime Streams New Music Videos",
@@ -9065,6 +9054,17 @@
    "summary": "The official website for the Ghost: Yoru no Hate original anime movie unveiled additional cast, staff, a second key visual (pictured right), the theme song, and main trailer on Tuesday.",
    "title_ar": "الإعلان عن طاقم العمل الإضافي، وطاقم الإنتاج، وأغنية الشارة، والعرض الدعائي الرئيسي لأنمي Ghost: Yoru no Hate"
   },
+  "myanimelist.net/news/74923434?_location=rss": {
+   "at": "2026-11-10T04:45:31.249433+00:00",
+   "title": "Web Manga 'Ore no Shibou Flag ga Todomaru Tokoro wo Shiranai' Gets TV Anime in 2027",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://myanimelist.net/news/74923434?_location=rss",
+   "score": 1,
+   "sources": 1,
+   "summary": "Publishing company Manga Box announced a television anime adaptation of Izumi and Mitsuya Otosu's Ore no Shibou Flag ga Todomaru Tokoro wo Shiranai (My Death Flags Show No Sign of Ending) web manga…",
+   "title_ar": "المانغا الرقمية Ore no Shibou Flag ga Todomaru Tokoro wo Shiranai تحصل على مسلسل أنيمي تلفزيوني في عام 2027"
+  },
   "nintendolife.com/news/2026/11/bandai-namco-reveals-its-involvement-on-zelda-ocarina-of-time": {
    "at": "2026-11-09T16:15:31.794362+00:00",
    "title": "Bandai Namco Reveals Its Involvement On Zelda: Ocarina Of Time",
@@ -10977,6 +10977,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+   "title_ar": ""
+  },
+  "techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes": {
+   "at": "2026-11-10T04:45:31.249433+00:00",
+   "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
    "title_ar": ""
   },
   "techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process": {
@@ -13259,7 +13270,7 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-10T01:30:36.355725+00:00",
-  "Anime": "2026-11-10T04:15:31.642487+00:00",
+  "Anime": "2026-11-10T04:45:31.249433+00:00",
   "Games": "2026-11-10T00:45:27.365069+00:00",
   "Tech": "2026-11-10T04:30:42.866450+00:00"
  },
