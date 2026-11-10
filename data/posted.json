@@ -7800,6 +7800,17 @@
    "summary": "Rockstar Games seems to already have a winner in its hands with GTA 6, as the game is apparently the most pre-ordered game ever.",
    "title_ar": ""
   },
+  "insider-gaming.com/gta-6-most-pre-ordered-game-playstation-xbox": {
+   "at": "2026-11-10T17:30:40.491963+00:00",
+   "title": "GTA 6 Is the Most Pre-Ordered Game in PlayStation and XBOX History",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/gta-6-most-pre-ordered-game-playstation-xbox/",
+   "score": 0,
+   "sources": 1,
+   "summary": "GTA 6 has become the most pre-ordered game in PlayStation Store and Microsoft Store history, with Sony and XBOX confirming the record ahead of launch.",
+   "title_ar": ""
+  },
   "insider-gaming.com/gta-6-playable-on-xbox-one-via-cloud-gaming": {
    "at": "2026-11-10T15:00:48.146876+00:00",
    "title": "GTA 6 Will Be Playable on XBOX One via Cloud Gaming and PC via Remote Play",
@@ -11309,6 +11320,17 @@
    "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks": {
+   "at": "2026-11-10T17:30:40.491963+00:00",
+   "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+   "score": 0,
+   "sources": 1,
+   "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information…",
+   "title_ar": ""
+  },
   "techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion": {
    "at": "2026-11-10T14:15:31.785799+00:00",
    "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
@@ -12486,6 +12508,17 @@
    "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy.",
    "title_ar": ""
   },
+  "theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates": {
+   "at": "2026-11-10T17:30:40.491963+00:00",
+   "title": "Adobe is going all in on agentic AI",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+   "score": 3,
+   "sources": 2,
+   "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf.",
+   "title_ar": "أدوبي تراهن كلياً على الذكاء الاصطناعي الوكيلي"
+  },
   "theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates": {
    "at": "2026-11-10T14:00:46.934209+00:00",
    "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
@@ -12551,6 +12584,17 @@
    "sources": 1,
    "summary": "AMD's data center business surges as strong demand for Epyc processors and Instinct accelerators continues and sales of client hardware declines only slightly.",
    "title_ar": "AMD تتوقع تفوق مبيعاتها على مبيعات Intel في الربع الرابع لأول مرة في التاريخ"
+  },
+  "tomshardware.com/pc-components/cpus/amd-vp-and-chief-zen-architect-rebuke-claims-that-nvidia-and-arm-made-cpus-for-agentic-ai-we-didnt-magically-know-four-years-ago-that-agentic-was-going-to-be-a-thing": {
+   "at": "2026-11-10T17:30:40.491963+00:00",
+   "title": "AMD VP and chief Zen architect rebuke claims that Nvidia and Arm made CPUs for agentic AI — ‘We didn’t magically know four years ago that agentic was going to be a thing’",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/pc-components/cpus/amd-vp-and-chief-zen-architect-rebuke-claims-that-nvidia-and-arm-made-cpus-for-agentic-ai-we-didnt-magically-know-four-years-ago-that-agentic-was-going-to-be-a-thing",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nvidia and Arm have new “agentic CPUs,” a title that high-ranking AMD employees are pushing back against with the launch of Zen 6 EPYC Venice CPUs.",
+   "title_ar": ""
   },
   "tomshardware.com/pc-components/cpus/grab-amds-fastest-mainstream-gaming-cpu-for-a-record-low-usd399-99-right-now-powerhouse-ryzen-7-9800x3d-chip-is-a-must-buy-upgrade-for-any-am5-gaming-pc-build": {
    "at": "2026-11-09T12:30:38.659338+00:00",
@@ -13555,7 +13599,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-10T16:45:36.412941+00:00",
+  "AI": "2026-11-10T17:30:40.491963+00:00",
   "Anime": "2026-11-10T16:00:46.898623+00:00",
   "Games": "2026-11-10T17:15:31.033273+00:00",
   "Tech": "2026-11-10T17:00:54.302875+00:00"
