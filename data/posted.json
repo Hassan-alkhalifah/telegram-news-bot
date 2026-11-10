@@ -5578,6 +5578,17 @@
    "summary": "Capcom has announced a collaboration with manga series Delicious in Dungeon for Dragon’s Dogma II: Dark …",
    "title_ar": "الإعلان عن تعاون بين Dragon’s Dogma II: Dark Arisen و Delicious in Dungeon"
   },
+  "gematsu.com/2026/11/fairgame-canceled": {
+   "at": "2026-11-10T21:15:31.249891+00:00",
+   "title": "Fairgame$ canceled",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gematsu.com/2026/11/fairgame-canceled",
+   "score": 0,
+   "sources": 1,
+   "summary": "Sony Interactive Entertainment has canceled development subsidiary Haven Interactive Studios’ May 2023-announced multiplayer shooter Fairgame$, …",
+   "title_ar": ""
+  },
   "gematsu.com/2026/11/god-of-war-laufey-delayed-to-may-20-2027": {
    "at": "2026-11-04T18:15:37.475646+00:00",
    "title": "God of War Laufey delayed to May 20, 2027",
@@ -7831,6 +7842,17 @@
    "score": 0,
    "sources": 1,
    "summary": "NVIDIA CEO Jensen Huang is being investigated internally after being targeted by a 'foreign intelligence effort.'",
+   "title_ar": ""
+  },
+  "insider-gaming.com/marvel-rivals-season-11-patch-notes-all-buffs-nerfs": {
+   "at": "2026-11-10T21:15:31.249891+00:00",
+   "title": "Marvel Rivals Season 11 Patch Notes—All Buffs & Nerfs",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/marvel-rivals-season-11-patch-notes-all-buffs-nerfs/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Season 11 is almost here for Marvel Rivals, and with it comes a brand new sweep of buffs and nerfs for a host of characters.",
    "title_ar": ""
   },
   "insider-gaming.com/marvels-wolverine-sells-2-4-million-units-in-first-50-days": {
@@ -13003,6 +13025,17 @@
    "summary": "The lab is reportedly interested in renting at least 8,000 Nvidia Blackwell GPUs.",
    "title_ar": "تقرير يزعم أن مختبر الذكاء الاصطناعي الصيني Moonshot نظر في مراكز بيانات أوروبية للوصول إلى رقاقات Nvidia"
   },
+  "tomshardware.com/tech-industry/policy/microsoft-lobbies-against-potential-ban-on-chinese-optical-networking-gear-for-ai-data-centers-as-fcc-mulls-restricting-imports-industry-group-says-move-could-grind-data-center-rollout-to-a-halt": {
+   "at": "2026-11-10T21:15:31.249891+00:00",
+   "title": "Microsoft lobbies against potential ban on Chinese optical networking gear for AI data centers as FCC mulls restricting imports",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/policy/microsoft-lobbies-against-potential-ban-on-chinese-optical-networking-gear-for-ai-data-centers-as-fcc-mulls-restricting-imports-industry-group-says-move-could-grind-data-center-rollout-to-a-halt",
+   "score": 2,
+   "sources": 1,
+   "summary": "The ITI is lobbying against the ban of these optical transceivers needed by data centers to convert electrical signals into optical signals.",
+   "title_ar": "ميكروصوفت تضغط ضد حظر محتمل لمعدات الشبكات الضوئية الصينية المخصصة لمراكز بيانات الذكاء الاصطناعي بينما تدرس هيئة الاتصالات الفيدرالية تقييد الواردات"
+  },
   "tomshardware.com/tech-industry/policy/nvidia-cracks-down-on-overseas-cloud-ai-gpu-rentals-for-china-partners-face-51-percent-non-chinese-quota-as-black-market-b300-rack-prices-surge-to-usd2-8-million": {
    "at": "2026-11-10T03:15:34.954721+00:00",
    "title": "Nvidia cracks down on overseas cloud AI GPU rentals for China",
@@ -13547,7 +13580,7 @@
   "AI": "2026-11-10T20:30:43.016586+00:00",
   "Anime": "2026-11-10T20:00:49.531567+00:00",
   "Games": "2026-11-10T21:00:49.784182+00:00",
-  "Tech": "2026-11-10T20:15:34.443962+00:00"
+  "Tech": "2026-11-10T21:15:31.249891+00:00"
  },
  "digest_day": "2026-11-10",
  "weekly_day": "2026-11-06"
