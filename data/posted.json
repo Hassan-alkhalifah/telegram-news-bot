@@ -5424,6 +5424,17 @@
    "summary": "Publisher Koei Tecmo and developer Gust have released the story trailer and opened digital pre-orders …",
    "title_ar": "عرض القصة لعبة Atelier Karia: The Night Kingdom & the Guide of Memories، والححوزات الرقمية المسبقة متاحة الآن"
   },
+  "gematsu.com/2026/11/bandai-namco-to-shut-down-reflector-entertainment": {
+   "at": "2026-11-10T11:43:58.412918+00:00",
+   "title": "Bandai Namco to shut down Reflector Entertainment",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.gematsu.com/2026/11/bandai-namco-to-shut-down-reflector-entertainment",
+   "score": 3,
+   "sources": 2,
+   "summary": "Bandai Namco has passed a resolution to dissolve and liquidate consolidated subsidiary Reflector Entertainment, the …",
+   "title_ar": "Bandai Namco تغلق استوديو Reflector Entertainment"
+  },
   "gematsu.com/2026/11/bill-teds-excellent-adventure-arcade-announced-for-ps5-xbox-series-switch-and-pc": {
    "at": "2026-11-03T17:30:42.298260+00:00",
    "title": "Bill & Ted’s Excellent Adventure: Arcade announced for PS5, Xbox Series, Switch, and PC",
@@ -5478,6 +5489,17 @@
    "sources": 2,
    "summary": "Square Enix has announced Dragon Quest RPG: The Cursed Tree and the Chosen Isle, “the …",
    "title_ar": "الإعلان عن لعبة الألعاب الفردية Dragon Quest RPG: The Cursed Tree and the Chosen Isle لمنصتي iOS و Android"
+  },
+  "gematsu.com/2026/11/dragon-quest-rpg-the-cursed-tree-and-the-chosen-isle-unveiled": {
+   "at": "2026-11-10T11:43:58.412918+00:00",
+   "title": "Dragon Quest RPG: The Cursed Tree and the Chosen Isle unveiled",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gematsu.com/2026/11/dragon-quest-rpg-the-cursed-tree-and-the-chosen-isle-unveiled",
+   "score": 0,
+   "sources": 1,
+   "summary": "Publisher Square Enix and developer WFS have officially unveiled Dragon Quest RPG: The Cursed Tree …",
+   "title_ar": ""
   },
   "gematsu.com/2026/11/dragons-dogma-ii-dark-arisen-x-delicious-in-dungeon-collaboration-announced": {
    "at": "2026-11-04T04:15:29.339081+00:00",
@@ -7404,6 +7426,17 @@
    "summary": "Two new Assassin's Creed games are reportedly in development at Ubisoft, with one set in ancient Rome.",
    "title_ar": ""
   },
+  "insider-gaming.com/bandai-namco-announces-reflector-entertainment-liquidation": {
+   "at": "2026-11-10T11:43:58.412918+00:00",
+   "title": "Bandai Namco Announces Reflector Entertainment Liquidation",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/bandai-namco-announces-reflector-entertainment-liquidation/",
+   "score": 0,
+   "sources": 1,
+   "summary": "An unfortunate announcement from Bandai Namco reveals the dissolution of Reflector Entertainment, with the company to be liquidated.",
+   "title_ar": ""
+  },
   "insider-gaming.com/big-walk-devs-issue-statement-regarding-ai-usage-following-award-controversy": {
    "at": "2026-11-10T11:00:48.850292+00:00",
    "title": "Big Walk Devs Issue Statement Regarding AI Usage Following Award Controversy",
@@ -8502,6 +8535,17 @@
    "score": 0,
    "sources": 1,
    "summary": "'None of us saw that coming'",
+   "title_ar": ""
+  },
+  "kotaku.com/nintendo-switch-2-gift-digital-games-family-group-mario-kart-donkey-2000755212": {
+   "at": "2026-11-10T11:43:58.412918+00:00",
+   "title": "Nintendo Switch Players Will Soon Be Able To Gift Digital Games, Kinda",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/nintendo-switch-2-gift-digital-games-family-group-mario-kart-donkey-2000755212",
+   "score": 0,
+   "sources": 1,
+   "summary": "The feature launches next week via the latest system firmware, although there are some limitations",
    "title_ar": ""
   },
   "kotaku.com/nintendo-switch-2-sales-profit-report-tomodachi-life-zelda-ocarina-2000754139": {
@@ -13260,7 +13304,7 @@
  "topic_last_posted": {
   "AI": "2026-11-10T05:15:30.464477+00:00",
   "Anime": "2026-11-10T10:00:44.423686+00:00",
-  "Games": "2026-11-10T11:00:48.850292+00:00",
+  "Games": "2026-11-10T11:43:58.412918+00:00",
   "Tech": "2026-11-10T11:15:34.200889+00:00"
  },
  "digest_day": "2026-11-09",
