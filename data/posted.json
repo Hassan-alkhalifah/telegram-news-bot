@@ -13223,6 +13223,17 @@
    "summary": "Zelda: OoT remake datamine suggests a remixed adventured could be in the works",
    "title_ar": ""
   },
+  "wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol": {
+   "at": "2026-11-10T05:15:30.464477+00:00",
+   "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+   "score": 1,
+   "sources": 1,
+   "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended.",
+   "title_ar": "أداة ذكاء اصطناعي جديدة من Google DeepMind تثبت أن بروتوكول Signal آمن"
+  },
   "wired.com/story/aina-smart-ring": {
    "at": "2026-11-05T14:45:32.295150+00:00",
    "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
@@ -13269,7 +13280,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-10T01:30:36.355725+00:00",
+  "AI": "2026-11-10T05:15:30.464477+00:00",
   "Anime": "2026-11-10T04:45:31.249433+00:00",
   "Games": "2026-11-10T05:00:46.360441+00:00",
   "Tech": "2026-11-10T04:30:42.866450+00:00"
