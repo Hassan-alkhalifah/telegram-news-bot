@@ -573,17 +573,6 @@
    "summary": "Walmart’s ultra-cheap Google TV streamers were never going to remain cheap in the age of RAMageddon, and now we’re seeing the second big price hike of the year with the whole Onn Google TV lineup…",
    "title_ar": "Walmart ترفع أسعار تشكيلة أجهزة Google TV بالكامل"
   },
-  "9to5mac.com/2026/11/02/apple-recently-notified-users-in-99-countries-of-potential-mercenary-spyware-attacks": {
-   "at": "2026-11-03T02:45:28.769875+00:00",
-   "title": "Apple recently notified users in 99 countries of potential mercenary spyware attacks",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/02/apple-recently-notified-users-in-99-countries-of-potential-mercenary-spyware-attacks/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Apple reportedly sent notifications to users in 99 countries warning of potential mercenary spyware attacks, as German authorities investigate reports that lawmakers and government officials may…",
-   "title_ar": "أبل تبلغ مؤخراً المستخدمين في 99 دولة بهجمات محتملة ببرامج تجسس مرتزقة"
-  },
   "9to5mac.com/2026/11/02/ios-27-2s-clever-new-messages-feature-can-be-tailored-to-your-needs": {
    "at": "2026-11-03T05:30:34.215368+00:00",
    "title": "iOS 27.2’s clever new Messages feature can be tailored to your needs",
@@ -594,17 +583,6 @@
    "sources": 1,
    "summary": "iOS 27.2 launched last week with a convenient new Messages feature called ‘Suggested Actions.’ Here’s how you can customize the feature to your liking. more…",
    "title_ar": "ميزة الرسائل الجديدة والذكية في iOS 27.2 يمكن تخصيصها حسب احتياجاتك"
-  },
-  "9to5mac.com/2026/11/02/scotus-sets-hearing-date-for-apples-appeal-in-epic-games-case": {
-   "at": "2026-11-03T03:00:43.235443+00:00",
-   "title": "SCOTUS sets hearing date for Apple’s appeal in Epic Games case",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/02/scotus-sets-hearing-date-for-apples-appeal-in-epic-games-case/",
-   "score": 1,
-   "sources": 1,
-   "summary": "The U.S.",
-   "title_ar": "المحكمة العليا الأمريكية تحدد موعد جلسة الاستماع لاستئناف Apple في قضية Epic Games"
   },
   "9to5mac.com/2026/11/02/x-for-iphone-and-ipad-just-dropped-a-dozen-new-app-icon-options": {
    "at": "2026-11-03T06:30:38.201466+00:00",
@@ -4301,6 +4279,17 @@
    "sources": 1,
    "summary": "The company will increase its use of the tech on Facebook and Threads too.",
    "title_ar": ""
+  },
+  "engadget.com/2311340/windows-11-is-finally-adding-an-easier-way-to-disable-sticky-keys-pop-up": {
+   "at": "2026-11-10T03:00:47.816942+00:00",
+   "title": "Windows 11 is finally adding an easier way to disable the Sticky Keys pop-up",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2311340/windows-11-is-finally-adding-an-easier-way-to-disable-sticky-keys-pop-up/",
+   "score": 1,
+   "sources": 1,
+   "summary": "There's a checkbox that simply turns it off.",
+   "title_ar": "نظام Windows 11 يضيف أخيرًا طريقة أسهل لتفعيل أو تعطيل نافذة Sticky Keys المنبثقة"
   },
   "engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio": {
    "at": "2026-11-09T21:15:29.504407+00:00",
@@ -10352,17 +10341,6 @@
    "summary": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
    "title_ar": "ارتفاع مخزون Apple بنسبة 154% مع صعود تكاليف شرائح الذاكرة"
   },
-  "techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware": {
-   "at": "2026-11-03T03:00:43.235443+00:00",
-   "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
-   "score": 0,
-   "sources": 1,
-   "summary": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
-   "title_ar": ""
-  },
   "techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses": {
    "at": "2026-11-03T03:30:37.819085+00:00",
    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
@@ -13283,7 +13261,7 @@
   "AI": "2026-11-10T01:30:36.355725+00:00",
   "Anime": "2026-11-10T00:15:31.996768+00:00",
   "Games": "2026-11-10T00:45:27.365069+00:00",
-  "Tech": "2026-11-10T02:45:28.655400+00:00"
+  "Tech": "2026-11-10T03:00:47.816942+00:00"
  },
  "digest_day": "2026-11-09",
  "weekly_day": "2026-11-06"
