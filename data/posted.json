@@ -5644,17 +5644,6 @@
    "summary": "Odencat will release a PlayStation 5 version of RPG adventure game Meg’s Monster on March …",
    "title_ar": ""
   },
-  "gematsu.com/2026/11/pikmin-4-nintendo-switch-2-edition-dandori-academy-overview-trailer": {
-   "at": "2026-11-03T05:00:43.903903+00:00",
-   "title": "Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy ‘Overview’ trailer",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gematsu.com/2026/11/pikmin-4-nintendo-switch-2-edition-dandori-academy-overview-trailer",
-   "score": 0,
-   "sources": 1,
-   "summary": "Nintendo has released a four-minute overview trailer for Pikmin 4 – Nintendo Switch 2 Edition …",
-   "title_ar": ""
-  },
   "gematsu.com/2026/11/playstation-portal-midnight-black-japan-only-model-announced": {
    "at": "2026-11-09T02:00:43.748906+00:00",
    "title": "PlayStation Portal Midnight Black Japan-only model announced",
@@ -6160,6 +6149,17 @@
    "sources": 1,
    "summary": "The latest versions of the iPad Pro and iPad mini already sport OLED screens, but the current 11-inch and 13-inch iPad Air are stuck with LCD panels.",
    "title_ar": "توقعات بأن تتصدر Samsung Display إمدادات شاشات OLED لجهاز iPad Air لعام 2027"
+  },
+  "gsmarena.com/samsung_galaxy_a34_gets_updated_to_one_ui_9_based_on_android_17-news-75412.php": {
+   "at": "2026-11-10T05:00:46.360441+00:00",
+   "title": "Samsung Galaxy A34 gets updated to One UI 9 based on Android 17",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/samsung_galaxy_a34_gets_updated_to_one_ui_9_based_on_android_17-news-75412.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "Samsung has been on a roll lately with its updates to One UI 9 based on Android 17, and now the latest smartphone to get the update is the Galaxy A34 from 2023.",
+   "title_ar": ""
   },
   "gsmarena.com/samsung_galaxy_a38s_battery_capacity_leaks_and_its_finally_an_upgrade-news-75337.php": {
    "at": "2026-11-04T04:45:27.298141+00:00",
@@ -9318,6 +9318,17 @@
    "summary": "Dazzling!",
    "title_ar": ""
   },
+  "nintendolife.com/news/2026/11/rayman-legends-retold-reveals-rabbids-outfit-exclusive-to-switch-2": {
+   "at": "2026-11-10T05:00:46.360441+00:00",
+   "title": "Rayman Legends Retold Reveals Rabbids Outfit Exclusive To Switch 2",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.nintendolife.com/news/2026/11/rayman-legends-retold-reveals-rabbids-outfit-exclusive-to-switch-2",
+   "score": 2,
+   "sources": 1,
+   "summary": "Grab it from the costume shop.",
+   "title_ar": "لعبة Rayman Legends Retold تكشف عن زي Rabbids حصري لجهاز Switch 2"
+  },
   "nintendolife.com/news/2026/11/reminder-zelda-ocarina-of-time-playable-ocarina-available-now-on-the-nintendo-store": {
    "at": "2026-11-05T04:15:28.658669+00:00",
    "title": "Reminder: Zelda: Ocarina Of Time - Playable Ocarina Available Now On The Nintendo Store",
@@ -11441,17 +11452,6 @@
    "summary": "Starting in 2027, Google plans to turn off AI features in its school products by default, letting schools decide what to enable.",
    "title_ar": ""
   },
-  "theverge.com/1024807/google-botnet-android-tv-shut-down": {
-   "at": "2026-11-03T05:00:43.903903+00:00",
-   "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
-   "score": 1,
-   "sources": 1,
-   "summary": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet.",
-   "title_ar": "أحد شركاء Google في نظام Android يحول 1.3 مليون جهاز بث تلفزيوني إلى شبكة روبوتات ضارة"
-  },
   "theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3": {
    "at": "2026-11-04T12:15:30.516593+00:00",
    "title": "Google hasn’t figured out how to make AI pay like its search engine",
@@ -13271,7 +13271,7 @@
  "topic_last_posted": {
   "AI": "2026-11-10T01:30:36.355725+00:00",
   "Anime": "2026-11-10T04:45:31.249433+00:00",
-  "Games": "2026-11-10T00:45:27.365069+00:00",
+  "Games": "2026-11-10T05:00:46.360441+00:00",
   "Tech": "2026-11-10T04:30:42.866450+00:00"
  },
  "digest_day": "2026-11-09",
