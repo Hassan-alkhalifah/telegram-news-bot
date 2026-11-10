@@ -67,17 +67,6 @@
    "summary": "Google is today launching new AI settings for schools, but with the big catch that Search is fully disabled if AI features are turned off entirely. more…",
    "title_ar": ""
   },
-  "9to5google.com/2026/11/03/googles-ocarina-of-time-easter-egg-is-a-blast-from-the-past": {
-   "at": "2026-11-03T13:15:30.838414+00:00",
-   "title": "Google’s Ocarina of Time easter egg is a blast from the past",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5google.com/2026/11/03/googles-ocarina-of-time-easter-egg-is-a-blast-from-the-past/",
-   "score": 0,
-   "sources": 1,
-   "summary": "If you’re sick of AI search and all the business of modern Google search, this week’s Google easter egg will take you back 28 years to a simpler time when Ocarina of Time was the pinnacle of gaming…",
-   "title_ar": ""
-  },
   "9to5google.com/2026/11/03/microsoft-authenticator-google-one-backup-change": {
    "at": "2026-11-04T03:45:28.087898+00:00",
    "title": "Microsoft Authenticator is ditching its own password backup for Google One",
@@ -4291,6 +4280,17 @@
    "summary": "The Justice Department has sued Lyft, accusing its drivers of routinely refusing service to passengers with wheelchairs and service animals.",
    "title_ar": "دعوى قضائية لوزارة العدل تقول إن Lyft ترفض بانتظام تقديم الخدمة للركاب ذوي الإعاقة"
   },
+  "engadget.com/2311878/spacex-first-attempt-to-catch-both-starship-stages-november-13": {
+   "at": "2026-11-10T13:15:31.997482+00:00",
+   "title": "SpaceX's first attempt to catch both Starship stages takes place November 13",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2311878/spacex-first-attempt-to-catch-both-starship-stages-november-13/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Starship's Flight 15 is scheduled for November 13, pending regulatory approval.",
+   "title_ar": "SpaceX تحاول لأول مرة التقاط مرحلتي Starship في 13 نوفمبر"
+  },
   "eurogamer.net/arc-raiders-ai-voice-acting-would-go-crazy": {
    "at": "2026-11-03T18:00:48.398575+00:00",
    "title": "Arc Raiders devs say that using generative AI voice acting was necessary as actors \"would just go crazy if they had to read all of that\"",
@@ -6282,17 +6282,6 @@
    "summary": "Samsung’s rumored high-end over-ear headphones, reportedly called Galaxy Studio, are expected to launch in early 2027 alongside the Galaxy S27 series.",
    "title_ar": "أنباء عن تسمية سماعات الرأس فوق الأذن من Samsung باسم Galaxy Studio، وتسريب تفاصيل التصميم"
   },
-  "gsmarena.com/samsungs_upgraded_sleep_apnea_feature_is_now_available_on_the_galaxy_ring_and_watch9-news-75313.php": {
-   "at": "2026-11-03T13:15:30.838414+00:00",
-   "title": "Samsung's upgraded sleep apnea feature is now available on the Galaxy Ring and Watch9",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.gsmarena.com/samsungs_upgraded_sleep_apnea_feature_is_now_available_on_the_galaxy_ring_and_watch9-news-75313.php",
-   "score": 0,
-   "sources": 1,
-   "summary": "Last week Samsung announced that the upgraded version of its sleep apnea feature was approved in Korea, following its FDA clearance in the US back in July.",
-   "title_ar": ""
-  },
   "gsmarena.com/schools_that_want_google_search_for_students_will_have_to_accept_its_ai_too-news-75341.php": {
    "at": "2026-11-04T13:45:30.062049+00:00",
    "title": "Schools that want Google Search for students will have to accept its AI too",
@@ -7184,17 +7173,6 @@
    "summary": "Sony is releasing a new model of the PlayStation Portal in Japan next month.",
    "title_ar": ""
   },
-  "ign.com/articles/south-of-midnight-creative-director-wouldnt-have-funded-the-game": {
-   "at": "2026-11-03T13:15:30.838414+00:00",
-   "title": "South of Midnight Creative Director Would Have Turned Off Xbox 'Money Tap' Earlier, Says Funding Was 'Unsustainable'",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/south-of-midnight-creative-director-wouldnt-have-funded-the-game",
-   "score": 0,
-   "sources": 1,
-   "summary": "David Sears, creative director of South of Midnight, said in a recent interview that he was always worried about the previous era of Xbox's infamous development funding \"money tap,\" and admitted he…",
-   "title_ar": ""
-  },
   "ign.com/articles/spectrum-is-offering-free-internet-upgrades-so-people-can-download-gta-6-faster": {
    "at": "2026-11-06T00:30:42.287011+00:00",
    "title": "Spectrum Is Offering Free Internet Upgrades So People Can Download GTA 6 Faster",
@@ -7281,17 +7259,6 @@
    "score": 0,
    "sources": 1,
    "summary": "The Legend of Zelda: Ocarina of Time remake is out now, and so we have confirmation of the full English voice cast for the first time.",
-   "title_ar": ""
-  },
-  "ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-global-release-times": {
-   "at": "2026-11-03T13:15:30.838414+00:00",
-   "title": "The Legend of Zelda: Ocarina of Time Remake Global Release Times",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-global-release-times",
-   "score": 0,
-   "sources": 1,
-   "summary": "The Legend of Zelda: Ocarina of Time remake is just days away, and we have the global release times so you can plan for when you can play in your timezone.",
    "title_ar": ""
   },
   "ign.com/articles/the-legend-of-zelda-ocarina-of-time-speedrunners-have-already-found-new-ways-to-break-the-remake": {
@@ -7721,6 +7688,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Analytics firms have revealed that GTA 6 has already made over $750 million in pre-order sales.",
+   "title_ar": ""
+  },
+  "insider-gaming.com/gta-6-might-be-the-most-pre-ordered-game-ever-according-to-data": {
+   "at": "2026-11-10T13:15:31.997482+00:00",
+   "title": "GTA 6 Might Be The Most Pre-Ordered Game Ever, According to Data",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/gta-6-might-be-the-most-pre-ordered-game-ever-according-to-data/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Rockstar Games seems to already have a winner in its hands with GTA 6, as the game is apparently the most pre-ordered game ever.",
    "title_ar": ""
   },
   "insider-gaming.com/gta-6-pre-load-date-and-time-officially-revealed": {
@@ -9505,6 +9483,17 @@
    "summary": "Move may accelerate transition to digital.",
    "title_ar": ""
   },
+  "nintendolife.com/news/2026/11/switch-2-supposedly-jailbroken-via-software-only-exploit": {
+   "at": "2026-11-10T13:15:31.997482+00:00",
+   "title": "Switch 2 Supposedly Jailbroken Via Software-Only Exploit",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/switch-2-supposedly-jailbroken-via-software-only-exploit",
+   "score": 0,
+   "sources": 1,
+   "summary": "Update: It's apparently been patched in the latest update. : Nintendo appears to have removed the programming software SmileBASIC 4 from the eShop following the supposed discovery of a Switch 2…",
+   "title_ar": ""
+  },
   "nintendolife.com/news/2026/11/switch-2-surpasses-26-million-units-sold-hardware-sales-down-by-37-4percent": {
    "at": "2026-11-05T10:30:37.364125+00:00",
    "title": "Switch 2 Surpasses 26 Million Units Sold, Hardware Sales Down By 37.4%",
@@ -11286,17 +11275,6 @@
    "sources": 1,
    "summary": "Anthropic's IPO is in trouble as investors push back on the $1.5 trillion valuation and the tech market sells off.",
    "title_ar": "عرض الاكتتاب العام لشركة Anthropic بقيمة 1.5 تريليون دولار يواجه عقبات مع تردد المستثمرين بشأن التقييم"
-  },
-  "the-decoder.com/anthropics-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations": {
-   "at": "2026-11-03T13:15:30.838414+00:00",
-   "title": "Anthropic's Message Threads cut time to first token by 35 percent for long conversations",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://the-decoder.com/anthropics-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Anthropic released Message Threads for the Messages API.",
-   "title_ar": "خاصية Message Threads من Anthropic تقلص وقت الاستجابة الأولى بنسبة 35 بالمئة للمحادثات الطويلة"
   },
   "the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights": {
    "at": "2026-11-04T15:30:43.804235+00:00",
@@ -13404,7 +13382,7 @@
   "AI": "2026-11-10T12:15:31.799158+00:00",
   "Anime": "2026-11-10T12:00:46.980470+00:00",
   "Games": "2026-11-10T13:00:47.494990+00:00",
-  "Tech": "2026-11-10T12:45:34.396719+00:00"
+  "Tech": "2026-11-10T13:15:31.997482+00:00"
  },
  "digest_day": "2026-11-09",
  "weekly_day": "2026-11-06"
