@@ -683,17 +683,6 @@
    "summary": "With votes now being counted in the US midterm elections, the Apple News app offers a convenient way to follow the results in real time.",
    "title_ar": ""
   },
-  "9to5mac.com/2026/11/03/how-rising-apple-costs-are-reshaping-the-trade-in-market": {
-   "at": "2026-11-03T11:00:45.253052+00:00",
-   "title": "Apple @ Work Podcast: How rising Apple costs are reshaping the trade-in market",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/03/how-rising-apple-costs-are-reshaping-the-trade-in-market/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform.",
-   "title_ar": "بودكاست Apple @ Work: كيف تُعيد تكاليف Apple المتصاعدة صياغة سوق التبديل والاستبدال"
-  },
   "9to5mac.com/2026/11/03/ios-27-2-adds-two-new-features-ive-been-really-loving": {
    "at": "2026-11-03T17:00:45.520558+00:00",
    "title": "iOS 27.2 adds two new features I’ve been really loving",
@@ -4797,6 +4786,17 @@
    "summary": "World of Warcraft: Forever has received its first major hotfix patch, which among other things has put an end to an especially powerful bug that made PvP battlegrounds like Warsong Gulch favoured to…",
    "title_ar": ""
   },
+  "eurogamer.net/world-of-warcraft-forever-ipad-handheld": {
+   "at": "2026-11-10T11:00:48.850292+00:00",
+   "title": "World of Warcraft: Forever might live officially on PC, but people are playing it on phones and handhelds already",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/world-of-warcraft-forever-ipad-handheld",
+   "score": 0,
+   "sources": 1,
+   "summary": "If you're a World of Warcraft: Forever player you're almost certainly having your free time drained as you chain yourself to your desktop PC to play the game, or maybe a laptop.",
+   "title_ar": ""
+  },
   "eurogamer.net/world-of-warcraft-forever-launch-smooth": {
    "at": "2026-11-05T10:00:45.232719+00:00",
    "title": "World of Warcraft: Forever is off to a great start with Blizzard's smoothest launch in memory",
@@ -7404,6 +7404,17 @@
    "summary": "Two new Assassin's Creed games are reportedly in development at Ubisoft, with one set in ancient Rome.",
    "title_ar": ""
   },
+  "insider-gaming.com/big-walk-devs-issue-statement-regarding-ai-usage-following-award-controversy": {
+   "at": "2026-11-10T11:00:48.850292+00:00",
+   "title": "Big Walk Devs Issue Statement Regarding AI Usage Following Award Controversy",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://insider-gaming.com/big-walk-devs-issue-statement-regarding-ai-usage-following-award-controversy/",
+   "score": 2,
+   "sources": 2,
+   "summary": "Big Walk devs, House House, have released a statement regarding the usage of AI in the game's development following award controversy.",
+   "title_ar": "مطورو لعبة Big Walk يصدرون بياناً بشأن استخدام الذكاء الاصطناعي عقب جدل الجوائز"
+  },
   "insider-gaming.com/biowares-final-days-will-be-shared-through-an-upcoming-documentary": {
    "at": "2026-11-05T18:15:31.101764+00:00",
    "title": "BioWare’s Final Days Will Be Shared Through an Upcoming Documentary",
@@ -9054,6 +9065,17 @@
    "summary": "Dev worked on various visual elements.",
    "title_ar": ""
   },
+  "nintendolife.com/news/2026/11/big-walk-devs-issue-statement-over-ai-usage": {
+   "at": "2026-11-10T11:00:48.850292+00:00",
+   "title": "Big Walk Devs Issue Statement Over AI Usage",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/big-walk-devs-issue-statement-over-ai-usage",
+   "score": 0,
+   "sources": 1,
+   "summary": "\"This is not an endorsement\".",
+   "title_ar": ""
+  },
   "nintendolife.com/news/2026/11/dragons-dogma-2-dark-arisen-new-update-and-anime-collab-announced-here-are-the-full-patch-notes": {
    "at": "2026-11-04T04:15:29.339081+00:00",
    "title": "Dragon's Dogma 2: Dark Arisen New Update & Anime Collab Announced, Here Are The Full Patch Notes",
@@ -9482,6 +9504,17 @@
    "sources": 1,
    "summary": "Some but not all.",
    "title_ar": "\"لا تريد مقاطعة تجربة اللاعب\" - إليك سبب حذف بعض إشارات Mario في نسخة Remake الخاصة بلعبة Zelda لجهاز Switch 2"
+  },
+  "nintendolife.com/news/2026/11/zelda-ocarina-of-time-off-to-a-great-start-says-nintendo": {
+   "at": "2026-11-10T11:00:48.850292+00:00",
+   "title": "Zelda: Ocarina Of Time \"Off To A Great Start\", Says Nintendo",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-off-to-a-great-start-says-nintendo",
+   "score": 0,
+   "sources": 1,
+   "summary": "No specific numbers yet, though.",
+   "title_ar": ""
   },
   "nintendolife.com/news/2026/11/zelda-ocarina-of-time-switch-2-cast-features-a-returning-voice-actor-from-the-n64-original": {
    "at": "2026-11-03T14:45:27.918274+00:00",
@@ -12541,6 +12574,17 @@
    "summary": "A former employee of The Ethereum Foundation is suing the nonprofit after being fired for refusing to sign its 'Source Seppuku License.'",
    "title_ar": "مقاضاة مؤسسة Ethereum بعد طرد موظف رفض التوقيع على ميثاق انتحار إلزامي باسم Source Seppuku"
   },
+  "tomshardware.com/tech-industry/cyber-security/all-net-connected-vehicles-from-two-major-automakers-allowed-hackers-to-remotely-unlock-doors-and-start-the-engine-now-patched-hard-coded-credentials-and-bypassed-mfa-security-showcase-a-lack-of-101-level-best-practices": {
+   "at": "2026-11-10T11:00:48.850292+00:00",
+   "title": "All net-connected vehicles from two major automakers allowed hackers to remotely unlock doors and start the engine",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/all-net-connected-vehicles-from-two-major-automakers-allowed-hackers-to-remotely-unlock-doors-and-start-the-engine-now-patched-hard-coded-credentials-and-bypassed-mfa-security-showcase-a-lack-of-101-level-best-practices",
+   "score": 1,
+   "sources": 1,
+   "summary": "Any net-connected vehicle from two automakers could be remotely opened and started — now-patched failures with API backend security showcase a lack of 101-level best practices",
+   "title_ar": "سمحت جميع المركبات المتصلة بالإنترنت التابعة لشركتي سيارات رئيسيتين للقراصنة بفتح الأبواب وتشغيل المحرك عن بُعد"
+  },
   "tomshardware.com/tech-industry/cyber-security/blood-banks-in-france-hit-by-temperature-raising-attacks-on-fridges-purported-hackers-claim-attacks-are-about-cybersecurity-not-malice": {
    "at": "2026-11-05T12:00:44.708511+00:00",
    "title": "Hackers target French blood service fridges following supermarket attacks",
@@ -13091,17 +13135,6 @@
    "summary": "Ratchet & Clank: Ranger Rumble was soft-launched in some regions but never got a full release",
    "title_ar": ""
   },
-  "videogameschronicle.com/news/south-of-midnight-director-says-he-wouldnt-have-funded-it-if-he-was-xbox-and-a-bad-outcome-was-inevitable": {
-   "at": "2026-11-03T11:00:45.253052+00:00",
-   "title": "South of Midnight director says he wouldn’t have funded it if he was Xbox, and he knew ‘Rome would burn’ eventually",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.videogameschronicle.com/news/south-of-midnight-director-says-he-wouldnt-have-funded-it-if-he-was-xbox-and-a-bad-outcome-was-inevitable/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Funding games like it was an unsustainable practice, David Sears says",
-   "title_ar": ""
-  },
   "videogameschronicle.com/news/ubisoft-has-reportedly-offered-to-buy-arkane-lyon-from-xbox": {
    "at": "2026-11-03T22:30:38.226600+00:00",
    "title": "Ubisoft has reportedly offered to buy Arkane Lyon from Xbox",
@@ -13205,8 +13238,8 @@
  "topic_last_posted": {
   "AI": "2026-11-10T05:15:30.464477+00:00",
   "Anime": "2026-11-10T10:00:44.423686+00:00",
-  "Games": "2026-11-10T05:00:46.360441+00:00",
-  "Tech": "2026-11-10T10:00:44.423686+00:00"
+  "Games": "2026-11-10T11:00:48.850292+00:00",
+  "Tech": "2026-11-10T11:00:48.850292+00:00"
  },
  "digest_day": "2026-11-09",
  "weekly_day": "2026-11-06"
