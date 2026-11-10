@@ -507,6 +507,17 @@
    "summary": "Google has officially dropped support for some older Android versions in Android Auto, now requiring Android 11 or newer to function. more…",
    "title_ar": "Android Auto يقطع الاتصال بالأجهزة القديمة ويتطلب الآن نظام Android 11 أو أحدث"
   },
+  "9to5google.com/2026/11/09/google-antigravity-knowledge-work": {
+   "at": "2026-11-10T00:30:41.271943+00:00",
+   "title": "Google Antigravity adds ‘Knowledge Work’ interface for non-coding work",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/09/google-antigravity-knowledge-work/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Following last week’s big update , Google Antigravity is rolling out a “Knowledge Work” user experience. more…",
+   "title_ar": "Google Antigravity تضيف واجهة Knowledge Work للأعمال غير البرمجية"
+  },
   "9to5google.com/2026/11/09/google-pixel-10a-deal-after-price-hike": {
    "at": "2026-11-09T15:45:31.023968+00:00",
    "title": "Pixel 10a drops to $449, the best deal you’ll find after Google’s price hike",
@@ -2784,6 +2795,17 @@
    "summary": "Gotta catch ‘em and write really cool tunes for ‘em all, too!",
    "title_ar": "مؤلف موسيقى Pokémon إد غولدغارب يتحدث عن الذكرى السنوية الثلاثين للسلسلة وتأليف الموسيقى التصويرية"
   },
+  "crunchyroll.com/news/latest/2026/11/10/ghost-end-of-night-anime-film-main-trailer-key-visual-additional-cast": {
+   "at": "2026-11-10T00:30:41.271943+00:00",
+   "title": "Ghost – End of Night Anime Film Releases Main Trailer, Key Visual",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://crunchyroll.com/news/latest/2026/11/10/ghost-end-of-night-anime-film-main-trailer-key-visual-additional-cast",
+   "score": 0,
+   "sources": 1,
+   "summary": "Shingo Natsume's feature film releases in Japan on February 11, 2027",
+   "title_ar": ""
+  },
   "crunchyroll.com/news/latest/2026/11/3/chiikawa-the-movie-the-secret-of-the-mermaid-island-5th-15th-weekend-japan-box-office": {
    "at": "2026-11-03T01:00:42.503653+00:00",
    "title": "Japan Box Office: Chiikawa the Movie: The Secret of the Mermaid Island Ranks 5th in 15th Weekend",
@@ -3432,17 +3454,6 @@
    "sources": 1,
    "summary": "Learn why your Apple AirPods are making a noise - and how to turn the sound off.",
    "title_ar": "صوت الطنين في سماعات Apple AirPods لا يعني فقط انخفاض البطارية"
-  },
-  "engadget.com/2300377/some-iphone-calls-decline-option-reason-why": {
-   "at": "2026-11-03T00:30:37.403126+00:00",
-   "title": "The reason why some iPhone calls don't have a decline option, and others do",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2300377/some-iphone-calls-decline-option-reason-why/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Sometimes your iPhone lets you decline a call and sometimes it doesn't.",
-   "title_ar": "السبب وراء عدم توفر خيار رفض بعض مكالمات iPhone بينما يتوفر في مكالمات أخرى"
   },
   "engadget.com/2300381/chinese-android-phone-brand-realme-harry-potter-collaboration": {
    "at": "2026-11-03T01:30:39.249324+00:00",
@@ -13162,7 +13173,7 @@
   "AI": "2026-11-09T20:45:32.543113+00:00",
   "Anime": "2026-11-10T00:15:31.996768+00:00",
   "Games": "2026-11-09T23:00:45.545069+00:00",
-  "Tech": "2026-11-10T00:00:44.607533+00:00"
+  "Tech": "2026-11-10T00:30:41.271943+00:00"
  },
  "digest_day": "2026-11-09",
  "weekly_day": "2026-11-06"
