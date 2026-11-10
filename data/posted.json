@@ -2652,6 +2652,17 @@
    "summary": "Nobuyuki Suzuki, Bullet Train boy group's Haru Kashiwagi star in film opening on December 11",
    "title_ar": "تحويل مانغا البாய்ز لاف Monster in Sheep's Clothing للمانغاكا Kyūgō إلى فيلم واقعي"
   },
+  "animenewsnetwork.com/news/2026-11-10/shueisha-games-to-publish-nightmare-operator-action-horror-game/.243679": {
+   "at": "2026-11-10T13:30:43.054917+00:00",
+   "title": "Shueisha Games to Publish Nightmare Operator Action Horror Game",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-10/shueisha-games-to-publish-nightmare-operator-action-horror-game/.243679",
+   "score": 0,
+   "sources": 1,
+   "summary": "Miyuki Sawashiro to voice lead in DDDistortion's game on Steam",
+   "title_ar": ""
+  },
   "arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github": {
    "at": "2026-11-09T20:00:46.507717+00:00",
    "title": "Claude Code is accidentally exposing secrets all over GitHub",
@@ -5632,6 +5643,17 @@
    "sources": 1,
    "summary": "Odencat will release a PlayStation 5 version of RPG adventure game Meg’s Monster on March …",
    "title_ar": ""
+  },
+  "gematsu.com/2026/11/nightmare-operator-to-be-published-by-shueisha-games": {
+   "at": "2026-11-10T13:30:43.054917+00:00",
+   "title": "NIGHTMARE OPERATOR to be published by Shueisha Games",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.gematsu.com/2026/11/nightmare-operator-to-be-published-by-shueisha-games",
+   "score": 2,
+   "sources": 2,
+   "summary": "Shueisha Games will publish DDDistortion-developed third-person action horror shooter NIGHTMARE OPERATOR when it launches for PC …",
+   "title_ar": "النشر بواسطة Shueisha Games للعبة NIGHTMARE OPERATOR"
   },
   "gematsu.com/2026/11/playstation-portal-midnight-black-japan-only-model-announced": {
    "at": "2026-11-09T02:00:43.748906+00:00",
@@ -12585,17 +12607,6 @@
    "summary": "Rep.",
    "title_ar": "عضو في الكونغرس تطالب بحظر الذكاء الاصطناعي الفائق بعد تحقيق الديمقراطيين فوزاً ساحقاً في انتخابات التجديد النصفي"
   },
-  "tomshardware.com/tech-industry/artificial-intelligence/google-reveals-new-gemini-4-carbon-ai-model-narrowly-beating-claude-opus-5-5-frontier-ai-model-is-also-the-least-likely-to-hallucinate-benchmarks-claim": {
-   "at": "2026-11-03T13:30:40.089514+00:00",
-   "title": "Google reveals new Gemini 4 Carbon AI model, narrowly beating Claude Opus 5.5 — frontier AI model is also the least likely to hallucinate, benchmarks claim",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reveals-new-gemini-4-carbon-ai-model-narrowly-beating-claude-opus-5-5-frontier-ai-model-is-also-the-least-likely-to-hallucinate-benchmarks-claim",
-   "score": 2,
-   "sources": 1,
-   "summary": "Last week, Google released its latest AI model, Gemini 4 Carbon, topping intelligence rankings charts.",
-   "title_ar": "Google تكشف عن نموذج الذكاء الاصطناعي الجديد Gemini 4 Carbon متفوقاً بفارق ضئيل على Claude Opus 5.5، وتؤكد الاختبارات القياسية أن النموذج الرائدة هو الأقل عرضة للهلوسة أيضاً"
-  },
   "tomshardware.com/tech-industry/artificial-intelligence/homelabber-uses-second-gen-optane-memory-sticks-to-run-a-2-8-trillion-parameter-ai-model-on-cpu-alone-warns-that-optanes-extreme-heat-can-burn-out-nearby-memory-dram-used-blower-fans-to-prevent-melting-ram": {
    "at": "2026-11-08T12:30:37.246959+00:00",
    "title": "Homelabber uses second-gen Optane memory sticks to run a 2.8-trillion-parameter AI model on CPU alone",
@@ -12749,6 +12760,17 @@
    "sources": 1,
    "summary": "PHP has a harvest season to remember — AI-automated bug hunting reaps what years of technical debt have sown.",
    "title_ar": "تحليل لثغرة PHP يكشف أن الخلل كان معروفاً منذ عامين - فريق صغير من المطورين كان على دراية بالمشكلة قبل الكشف عنها علناً، بالتزامن مع استغلال الثغرة المتسلسلة الجديدة PHP2Shell التي تضرب الخوادم"
+  },
+  "tomshardware.com/tech-industry/cyber-security/software-engineer-rickrolls-his-prusa-3d-printer-via-remote-code-execution-exploit-one-week-of-testing-with-claude-opus-uncovers-23-prusa-buddy-firmware-defects": {
+   "at": "2026-11-10T13:30:43.054917+00:00",
+   "title": "Software engineer Rickrolls his Prusa 3D printer via remote code execution exploit",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/software-engineer-rickrolls-his-prusa-3d-printer-via-remote-code-execution-exploit-one-week-of-testing-with-claude-opus-uncovers-23-prusa-buddy-firmware-defects",
+   "score": 0,
+   "sources": 1,
+   "summary": "A software engineer demonstrated the ability to Rickroll a 3D printer via remote code execution (RCE).",
+   "title_ar": ""
   },
   "tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments": {
    "at": "2026-11-04T13:30:39.223348+00:00",
@@ -13245,6 +13267,17 @@
    "summary": "Selfridges GTA 6 merchandise includes a £2,500 jacket; some items reportedly already sold out online",
    "title_ar": ""
   },
+  "videogameschronicle.com/news/skydance-games-has-been-laying-off-some-of-its-staff-a-month-after-merging-with-warner-bros": {
+   "at": "2026-11-10T13:30:43.054917+00:00",
+   "title": "Skydance Games has been laying off some of its staff, a month after merging with Warner Bros",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.videogameschronicle.com/news/skydance-games-has-been-laying-off-some-of-its-staff-a-month-after-merging-with-warner-bros/",
+   "score": 0,
+   "sources": 1,
+   "summary": "At least 25 people have been cut from the Paramount Games division",
+   "title_ar": ""
+  },
   "videogameschronicle.com/news/sony-is-releasing-a-black-playstation-portal-in-japan-with-extra-internal-storage-for-future-functionality": {
    "at": "2026-11-09T10:45:30.778375+00:00",
    "title": "Sony is releasing a black PlayStation Portal in Japan, with extra internal storage ‘for future functionality’",
@@ -13381,7 +13414,7 @@
  "topic_last_posted": {
   "AI": "2026-11-10T12:15:31.799158+00:00",
   "Anime": "2026-11-10T12:00:46.980470+00:00",
-  "Games": "2026-11-10T13:00:47.494990+00:00",
+  "Games": "2026-11-10T13:30:43.054917+00:00",
   "Tech": "2026-11-10T13:15:31.997482+00:00"
  },
  "digest_day": "2026-11-09",
