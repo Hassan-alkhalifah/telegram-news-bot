@@ -2718,17 +2718,6 @@
    "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
    "title_ar": ""
   },
-  "arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too": {
-   "at": "2026-11-03T18:00:48.398575+00:00",
-   "title": "Google will let schools skip AI tools, but they have to give up search, too",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Google will offer schools AI tools that allegedly don't give away the answers.",
-   "title_ar": ""
-  },
   "arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters": {
    "at": "2026-11-04T22:15:31.253879+00:00",
    "title": "AMD's record quarter: Data center business doubles, while gaming craters",
@@ -4389,17 +4378,6 @@
    "sources": 1,
    "summary": "Xbox Cloud Gaming support means you'll be able to stream GTA6 on Xbox One.",
    "title_ar": ""
-  },
-  "eurogamer.net/arc-raiders-ai-voice-acting-would-go-crazy": {
-   "at": "2026-11-03T18:00:48.398575+00:00",
-   "title": "Arc Raiders devs say that using generative AI voice acting was necessary as actors \"would just go crazy if they had to read all of that\"",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.eurogamer.net/arc-raiders-ai-voice-acting-would-go-crazy",
-   "score": 2,
-   "sources": 2,
-   "summary": "Developers at Embark Studios, the company behind Arc Raiders , have spoken on the use of generative AI voice acting in the extraction shooter.",
-   "title_ar": "مطوروا Arc Raiders يقولون إن استخدام التمثيل الصوتي بالذكاء الاصطناعي التوليدي كان ضرورياً لأن الممثلين \"سيصابون بالجنون لو اضطروا لقراءة كل ذلك\""
   },
   "eurogamer.net/arkane-studios-ubisoft-interested-buyers": {
    "at": "2026-11-04T09:30:39.162301+00:00",
@@ -8317,17 +8295,6 @@
    "summary": "The blue blur is making a cameo in the upcoming animated film",
    "title_ar": ""
   },
-  "kotaku.com/arc-raiders-ai-voice-acting-embark-studios-video-shani-celeste-2000752744": {
-   "at": "2026-11-03T18:00:48.398575+00:00",
-   "title": "Arc Raiders Developers Try To Rationalize Using AI Voice Actors In Peculiar New Video",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/arc-raiders-ai-voice-acting-embark-studios-video-shani-celeste-2000752744",
-   "score": 0,
-   "sources": 1,
-   "summary": "'The actors would just go crazy if they had to read all of that!'",
-   "title_ar": ""
-  },
   "kotaku.com/beloved-mario-content-creator-says-his-health-is-failing-but-only-blindness-or-death-will-stop-him-from-posting-mario-facts-2000755083": {
    "at": "2026-11-09T15:30:39.359074+00:00",
    "title": "Beloved Mario Content Creator Says His Health Is Failing But ‘Only Blindness Or Death’ Will Stop Him From Posting Mario Facts",
@@ -10198,17 +10165,6 @@
    "summary": "Give me blood, give me gore, give me Space Marines.",
    "title_ar": ""
   },
-  "pcgamer.com/software/ai/just-deleted-a-couple-terabytes-of-ai-slop-itch-io-pushes-back-against-the-flood-of-ai-on-its-storefront": {
-   "at": "2026-11-03T18:00:48.398575+00:00",
-   "title": "'Just deleted a couple terabytes of AI slop': Itch.io pushes back against the flood of AI on its storefront",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/software/ai/just-deleted-a-couple-terabytes-of-ai-slop-itch-io-pushes-back-against-the-flood-of-ai-on-its-storefront/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Itch.io has also expanded its AI filters, enabling users to exclude games made with different types of generative AI.",
-   "title_ar": ""
-  },
   "pcgamer.com/software/ai/sam-altman-is-annoyed-his-dram-comment-was-taken-out-of-context": {
    "at": "2026-11-05T20:45:31.270612+00:00",
    "title": "Sam Altman is annoyed his DRAM comment was 'taken out of context'",
@@ -12013,6 +11969,17 @@
    "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide.",
    "title_ar": ""
   },
+  "theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub": {
+   "at": "2026-11-10T18:15:30.268560+00:00",
+   "title": "ChatGPT is getting verified AI ‘Business Agents’",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+   "score": 1,
+   "sources": 1,
+   "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping.",
+   "title_ar": "ChatGPT يحصل على وكلاء أعمال ذكاء اصطناعي موثقين"
+  },
   "theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion": {
    "at": "2026-11-10T14:15:31.785799+00:00",
    "title": "Anthropic targets $1.4 trillion IPO",
@@ -13632,7 +13599,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-10T17:30:40.491963+00:00",
+  "AI": "2026-11-10T18:15:30.268560+00:00",
   "Anime": "2026-11-10T16:00:46.898623+00:00",
   "Games": "2026-11-10T18:00:45.031142+00:00",
   "Tech": "2026-11-10T17:45:28.481552+00:00"
