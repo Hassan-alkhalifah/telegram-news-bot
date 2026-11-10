@@ -584,17 +584,6 @@
    "summary": "Following today’s earnings report, Apple held its quarterly earnings call, during which the company discussed the impact of rising memory costs on its profit margins and warned of additional…",
    "title_ar": "أبل تقول إن تكاليف الذاكرة وذكاء Siri الاصطناعي سيؤثران على هوامش الربح في ربع العطلات"
   },
-  "9to5mac.com/2026/11/02/apple-stock-drops-nearly-3-after-hours-following-q4-2026-results": {
-   "at": "2026-11-03T01:15:33.981823+00:00",
-   "title": "Apple stock drops nearly 3% after hours following Q4 2026 results",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/02/apple-stock-drops-nearly-3-after-hours-following-q4-2026-results/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Apple shares fell as much as 4.43% in after-hours trading on Monday during the company’s fiscal Q4 2026 earnings call, before recovering some of those losses later in the evening.",
-   "title_ar": "انخفاض سهم Apple بنحو 3% في تداولات ما بعد الإغلاق إثر نتائج الربع الرابع من عام 2026"
-  },
   "9to5mac.com/2026/11/02/ios-27-2s-clever-new-messages-feature-can-be-tailored-to-your-needs": {
    "at": "2026-11-03T05:30:34.215368+00:00",
    "title": "iOS 27.2’s clever new Messages feature can be tailored to your needs",
@@ -10902,6 +10891,17 @@
    "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans": {
+   "at": "2026-11-10T01:30:36.355725+00:00",
+   "title": "Anthropic reportedly plans to move forward with IPO plans",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+   "score": 2,
+   "sources": 1,
+   "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+   "title_ar": "تقارير تفيد بأن Anthropic تخطط للمضي قدماً في خطط طرحها العام الأول"
+  },
   "techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy": {
    "at": "2026-11-09T20:15:41.150972+00:00",
    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
@@ -13214,7 +13214,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-09T20:45:32.543113+00:00",
+  "AI": "2026-11-10T01:30:36.355725+00:00",
   "Anime": "2026-11-10T00:15:31.996768+00:00",
   "Games": "2026-11-10T00:45:27.365069+00:00",
   "Tech": "2026-11-10T01:15:28.053877+00:00"
