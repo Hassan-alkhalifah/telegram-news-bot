@@ -4236,6 +4236,17 @@
    "summary": "November's Pixel Drop also brings other AI features to older Pixel phones, while the Pixel 11's HiLight feature now works with Google Messages.",
    "title_ar": ""
   },
+  "engadget.com/2312296/the-disney-app-on-meta-quest-now-includes-3d-movies": {
+   "at": "2026-11-10T22:15:33.417093+00:00",
+   "title": "The Disney+ app on Meta Quest now includes 3D movies",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2312296/the-disney-app-on-meta-quest-now-includes-3d-movies/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Meta is starting to sell 3D films too.",
+   "title_ar": ""
+  },
   "eurogamer.net/arkane-studios-ubisoft-interested-buyers": {
    "at": "2026-11-04T09:30:39.162301+00:00",
    "title": "Ubisoft and at least two other companies are interested in buying Arkane, according to new report",
@@ -8196,17 +8207,6 @@
    "summary": "XBOX has revealed two new ways to experience XBOX Cloud Gaming, adding to the robust list of options already available.",
    "title_ar": ""
   },
-  "insider-gaming.com/ubisoft-others-have-looked-into-buying-arkane-studios": {
-   "at": "2026-11-03T22:15:27.993072+00:00",
-   "title": "Ubisoft, Others Have Looked Into Buying Arkane Studios",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/ubisoft-others-have-looked-into-buying-arkane-studios/",
-   "score": 0,
-   "sources": 1,
-   "summary": "According to a new report, Ubisoft is one of at least three companies that have made an offer to buy Arkane Studios from Xbox",
-   "title_ar": ""
-  },
   "insider-gaming.com/xbox-accused-sabotaging-blades-development-arkane": {
    "at": "2026-11-04T20:00:43.920914+00:00",
    "title": "Xbox Accused of Sabotaging Blade’s Development at Arkane",
@@ -8844,17 +8844,6 @@
    "sources": 1,
    "summary": "While previous years brought hope of updates on BioWare's beloved Mass Effect saga, this November had incensed fans pushing EA towards a course correction",
    "title_ar": ""
-  },
-  "kotaku.com/ubisoft-among-those-bidding-on-marvels-blade-studio-arkane-2000752854": {
-   "at": "2026-11-03T22:15:27.993072+00:00",
-   "title": "Ubisoft Among Those Bidding On Marvel’s Blade Studio Arkane",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://kotaku.com/ubisoft-among-those-bidding-on-marvels-blade-studio-arkane-2000752854",
-   "score": 3,
-   "sources": 2,
-   "summary": "Xbox is trying to cut the studio loose without closing it",
-   "title_ar": "Ubisoft من بين المتقدمين لعرض شراء استوديو Arkane مطور لعبة Marvel's Blade"
   },
   "kotaku.com/unity-buyout-saudi-arabia-pif-ea-silver-lake-engine-controversy-2000754368": {
    "at": "2026-11-06T10:15:33.164477+00:00",
@@ -12464,6 +12453,17 @@
    "summary": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: as part of the November 2026 Pixel Drop, the light can light up when you get Google Messages…",
    "title_ar": ""
   },
+  "theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies": {
+   "at": "2026-11-10T22:15:33.417093+00:00",
+   "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+   "score": 3,
+   "sources": 2,
+   "summary": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest.",
+   "title_ar": "تطبيق VR Disney Plus على Meta Quest يدعم الآن الأفلام ثلاثية الأبعاد"
+  },
   "theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation": {
    "at": "2026-11-04T22:00:43.675176+00:00",
    "title": "Uber only fulfilled 4 rides from AI agents last quarter",
@@ -13547,7 +13547,7 @@
   "AI": "2026-11-10T21:30:40.062428+00:00",
   "Anime": "2026-11-10T22:00:46.065972+00:00",
   "Games": "2026-11-10T21:45:29.608857+00:00",
-  "Tech": "2026-11-10T21:15:31.249891+00:00"
+  "Tech": "2026-11-10T22:15:33.417093+00:00"
  },
  "digest_day": "2026-11-10",
  "weekly_day": "2026-11-06"
