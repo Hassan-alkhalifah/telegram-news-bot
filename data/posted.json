@@ -518,6 +518,17 @@
    "summary": "Android 17 QPR2 is rolling out a month early with the November 2026 Feature Drop and security patch.",
    "title_ar": ""
   },
+  "9to5google.com/2026/11/10/android-17-qpr2-pixel": {
+   "at": "2026-11-10T20:15:34.443962+00:00",
+   "title": "Google rolling out Android 17 QPR2 for Pixel",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5google.com/2026/11/10/android-17-qpr2-pixel/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Android 17 QPR2 is rolling out to Google Pixel devices as a sizable release that comes a month early in a small deviation from the quarterly cycle. more…",
+   "title_ar": ""
+  },
   "9to5google.com/2026/11/10/google-fi-network-switching": {
    "at": "2026-11-10T17:45:28.481552+00:00",
    "title": "Google Fi brings back network switching with ‘secondary’ partner, expands W+ beyond Pixel",
@@ -538,6 +549,17 @@
    "score": 0,
    "sources": 1,
    "summary": "The Legend of Zelda: Ocarina of Time remake now runs surprisingly well on phones after just a week of additional emulator development. more…",
+   "title_ar": ""
+  },
+  "9to5google.com/2026/11/10/no-the-pixel-tag-is-not-available-today": {
+   "at": "2026-11-10T20:15:34.443962+00:00",
+   "title": "No, the Pixel Tag is not available today",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5google.com/2026/11/10/no-the-pixel-tag-is-not-available-today/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Our first impressions on Google’s new Pixel Tag are live, but orders are not.",
    "title_ar": ""
   },
   "9to5google.com/2026/11/10/november-2026-pixel-feature-drop": {
@@ -561,6 +583,17 @@
    "sources": 1,
    "summary": "Besides a big update for phones , there’s also a sizable Pixel Watch Drop today, but it’s mostly a preview of what’s to come. more…",
    "title_ar": ""
+  },
+  "9to5google.com/2026/11/10/samsung-gallery-google-photos-backup-rollout": {
+   "at": "2026-11-10T20:15:34.443962+00:00",
+   "title": "Samsung Gallery officially adds Google Photos backup, but not for all Galaxy users",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/10/samsung-gallery-google-photos-backup-rollout/",
+   "score": 3,
+   "sources": 2,
+   "summary": "Samsung has officially launched Google Photos integration in its Gallery app with backup services, and it’s also now widely rolled out for Galaxy devices. more…",
+   "title_ar": "تطبيق Samsung Gallery يضيف رسمياً النسخ الاحتياطي عبر Google Photos ولكن ليس لجميع مستخدمي Galaxy"
   },
   "9to5google.com/2026/11/10/samsungs-paid-ai-ambitions-have-a-giant-gemini-problem": {
    "at": "2026-11-10T12:45:34.396719+00:00",
@@ -626,28 +659,6 @@
    "score": 0,
    "sources": 1,
    "summary": "With votes now being counted in the US midterm elections, the Apple News app offers a convenient way to follow the results in real time.",
-   "title_ar": ""
-  },
-  "9to5mac.com/2026/11/03/ios-27-3-brings-the-iphone-duos-revamped-standby-to-other-iphones": {
-   "at": "2026-11-03T20:15:30.414182+00:00",
-   "title": "iOS 27.3 brings the iPhone Duo’s revamped StandBy to other iPhones",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/03/ios-27-3-brings-the-iphone-duos-revamped-standby-to-other-iphones/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple released iOS 27.3 beta 1 today, with a surprisingly extensive set of new features and improvements across the system.",
-   "title_ar": ""
-  },
-  "9to5mac.com/2026/11/03/ios-27-3-expands-siri-ai-to-these-new-languages": {
-   "at": "2026-11-03T20:00:53.301248+00:00",
-   "title": "iOS 27.3 expands Siri AI to these new languages",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/03/ios-27-3-expands-siri-ai-to-these-new-languages/",
-   "score": 0,
-   "sources": 1,
-   "summary": "iOS 27.3 is available now in beta, and it’s a big release for Siri AI improvements.",
    "title_ar": ""
   },
   "9to5mac.com/2026/11/03/macos-27-3-adds-native-markdown-rendering-to-quick-look": {
@@ -1508,6 +1519,17 @@
    "summary": "Apple has announced details for 2027’s Swift Student Challenge, and there’s a new twist this year: students can submit an app for any Apple platform. more…",
    "title_ar": "أبل تعلن عن مسابقة Swift Student Challenge 2027 مع ميزة جديدة"
   },
+  "9to5mac.com/2026/11/10/apple-just-released-new-airpods-pro-3-firmware-airpods-5-more": {
+   "at": "2026-11-10T20:15:34.443962+00:00",
+   "title": "Apple just released new AirPods Pro 3 firmware and more",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/10/apple-just-released-new-airpods-pro-3-firmware-airpods-5-more/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Apple is rolling out brand new firmware for select AirPods models today, including AirPods Pro 3.",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/10/apple-maps-could-soon-factor-in-how-long-it-takes-you-to-park": {
    "at": "2026-11-10T13:45:30.921020+00:00",
    "title": "Apple Maps could soon factor in how long it takes you to park",
@@ -1871,17 +1893,6 @@
    "summary": "Dub debuts on November 18",
    "title_ar": ""
   },
-  "animenewsnetwork.com/news/2026-11-03/hidive-confirms-english-dub-for-nia-liston-the-merciless-maiden-anime-series-leaving-service-in-/.243492": {
-   "at": "2026-11-03T20:00:53.301248+00:00",
-   "title": "HIDIVE Confirms English Dub for Nia Liston: The Merciless Maiden Anime, Series Leaving Service in November",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-03/hidive-confirms-english-dub-for-nia-liston-the-merciless-maiden-anime-series-leaving-service-in-/.243492",
-   "score": 1,
-   "sources": 1,
-   "summary": "Dub debuts on November 18",
-   "title_ar": "منصة HIDIVE تؤكد توفير الدبلجة الإنجليزية لأنمي Nia Liston: The Merciless Maiden، والمسلسل يغادر الخدمة في نوفمبر"
-  },
   "animenewsnetwork.com/news/2026-11-03/mashle-magic-and-muscles-manga-gets-live-action-film-on-march-19/.243497": {
    "at": "2026-11-04T00:30:35.350604+00:00",
    "title": "Mashle: Magic and Muscles Manga Gets Live-Action Film on March 19",
@@ -1925,17 +1936,6 @@
    "sources": 1,
    "summary": "Haruna Mikawa, Taihi Kimura, Mai Kanno, Yukari Anzai star in studio TEAM TillDawn's anime",
    "title_ar": "أنمي Promise Me the Spotlight يكشف عن عرض تشويقي وطاقم العمل الرئيسي"
-  },
-  "animenewsnetwork.com/news/2026-11-03/the-super-mario-galaxy-movie-resident-evil-reboot-film-earn-nominations-for-hollywood-music-in-/.243484": {
-   "at": "2026-11-03T20:00:53.301248+00:00",
-   "title": "The Super Mario Galaxy Movie, Resident Evil Reboot Film Earn Nominations for Hollywood Music in Media Awards",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-03/the-super-mario-galaxy-movie-resident-evil-reboot-film-earn-nominations-for-hollywood-music-in-/.243484",
-   "score": 0,
-   "sources": 1,
-   "summary": "Monster Hunter Outlanders game also gets nomination",
-   "title_ar": ""
   },
   "animenewsnetwork.com/news/2026-11-03/witch-on-the-holy-night-film-gets-manga-adaptation/.243494": {
    "at": "2026-11-04T01:00:43.017439+00:00",
@@ -2553,6 +2553,17 @@
    "summary": "Dragon Quest RPG: The Cursed Tree and the Chosen Isle game features turn-based battles, dungeons",
    "title_ar": ""
   },
+  "animenewsnetwork.com/news/2026-11-10/hidive-to-release-made-in-abyss-awakening-mystery-film-in-2027-with-n-american-premiere-screening-/.243696": {
+   "at": "2026-11-10T20:15:34.443962+00:00",
+   "title": "HIDIVE to Release Made in Abyss: Awakening Mystery Film in 2027 With N. American Premiere Screening at Anime Frontier on December 5",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-10/hidive-to-release-made-in-abyss-awakening-mystery-film-in-2027-with-n-american-premiere-screening-/.243696",
+   "score": 0,
+   "sources": 1,
+   "summary": "English-subbed trailer streamed for 1st film in new Made in Abyss anime film series",
+   "title_ar": ""
+  },
   "animenewsnetwork.com/news/2026-11-10/hollywood-reporter-variety-apple-tv-in-talks-for-monarch-legacy-of-monsters-season-3/.243668": {
    "at": "2026-11-10T12:00:46.980470+00:00",
    "title": "Hollywood Reporter, Variety: Apple TV in Talks for Monarch: Legacy of Monsters Season 3",
@@ -2673,6 +2684,17 @@
    "sources": 1,
    "summary": "NASA’s X-70 Fractal announcement comes as agency aims to grow X-plane fleet.",
    "title_ar": "NASA تكشف النقاب عن طائرة تجريبية غامضة من طراز X-70 باستخدام صورة مُولدة بالذكاء الاصطناعي"
+  },
+  "arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family": {
+   "at": "2026-11-10T20:15:34.443962+00:00",
+   "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Spruce up your home screen with expanded custom icons and AI-generated widgets.",
+   "title_ar": ""
   },
   "arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas": {
    "at": "2026-11-06T21:15:34.658606+00:00",
@@ -3499,17 +3521,6 @@
    "summary": "PowerToys is a secret weapon for Windows users, with tons of handy utilities to help you save time on your PC every day.",
    "title_ar": "أداة Windows PowerToys يمكنها أتمتة بعض مهام حاسوبك الأكثر مللاً"
   },
-  "engadget.com/2305373/world-of-warcraft-forever-blizzard-had-to-reconnect-with-what-made-wow-great-in-the-first-place": {
-   "at": "2026-11-03T20:15:30.414182+00:00",
-   "title": "With World of Warcraft: Forever, Blizzard had to reconnect with what made WoW great in the first place",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.engadget.com/2305373/world-of-warcraft-forever-blizzard-had-to-reconnect-with-what-made-wow-great-in-the-first-place/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Making World of Warcraft: Forever was a unique challenge for Blizzard's developers.",
-   "title_ar": ""
-  },
   "engadget.com/2305444/how-ios-warn-password-shows-up-data-leak": {
    "at": "2026-11-07T15:30:38.484509+00:00",
    "title": "How iOS can warn you when one of your passwords shows up in a data leak",
@@ -3531,17 +3542,6 @@
    "sources": 1,
    "summary": "It sure is pretty and will likely be expensive.",
    "title_ar": "Razer تكشف عن وحدة التحكم Raiju V3 Pro Signature Edition لجهاز PS5"
-  },
-  "engadget.com/2305778/netflix-thinks-ai-might-save-you-from-scrolling-aimlessly-for-something-to-watch": {
-   "at": "2026-11-03T20:15:30.414182+00:00",
-   "title": "Netflix thinks AI might save you from scrolling aimlessly for something to watch",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.engadget.com/2305778/netflix-thinks-ai-might-save-you-from-scrolling-aimlessly-for-something-to-watch/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The tab will initially offer suggestions based on a range of AI-generated themes.",
-   "title_ar": ""
   },
   "engadget.com/2305897/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6": {
    "at": "2026-11-03T21:00:42.717530+00:00",
@@ -5402,17 +5402,6 @@
    "summary": "World of Warcraft: Forever's launch is imminent, and Blizzard is using the occasion to reveal what might be the game's first new legendary weapon.",
    "title_ar": ""
   },
-  "gamespot.com/articles/wow-forever-is-giving-players-a-big-damage-boost-for-launch": {
-   "at": "2026-11-03T20:00:53.301248+00:00",
-   "title": "WoW: Forever Is Giving Players A Big Damage Boost For Launch",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gamespot.com/articles/wow-forever-is-giving-players-a-big-damage-boost-for-launch/",
-   "score": 0,
-   "sources": 1,
-   "summary": "World of Warcraft: Forever is changing in some major ways for launch, with Blizzard revealing classes across the board will deal more damage as it pursues design solutions that better fit in with…",
-   "title_ar": ""
-  },
   "gamespot.com/articles/wow-forever-just-received-its-first-big-post-launch-changes": {
    "at": "2026-11-10T19:15:33.332806+00:00",
    "title": "WoW: Forever Just Received Its First Big Post-Launch Changes",
@@ -6359,6 +6348,17 @@
    "summary": "Samsung launched the Galaxy Buds4 Pro back in February alongside the Galaxy S26 series smartphones, and now the company is coming out with a new special edition made in collaboration with pop star…",
    "title_ar": "سامسونگ تصنع نسخة محدودة من Galaxy Buds4 Pro بالتعاون مع Nina Chuba"
   },
+  "gsmarena.com/samsung_officially_details_gallery_sync_with_google_storage-news-75424.php": {
+   "at": "2026-11-10T20:15:34.443962+00:00",
+   "title": "Samsung officially details Gallery sync with Google storage",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/samsung_officially_details_gallery_sync_with_google_storage-news-75424.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "Samsung is officially detailing its Gallery app's move to Google storage today.",
+   "title_ar": ""
+  },
   "gsmarena.com/samsungs_overear_headphones_said_to_be_called_galaxy_studio_design_details_surface-news-75370.php": {
    "at": "2026-11-06T01:15:29.697985+00:00",
    "title": "Samsung's over-ear headphones said to be called Galaxy Studio, design details surface",
@@ -6402,6 +6402,17 @@
    "sources": 1,
    "summary": "Sony released the Android 17 update for the Xperia 1 VIII in September and expanded the rollout to the Xperia 1 VII last month.",
    "title_ar": "هاتفا Sony Xperia 10 VII و Xperia 10 VIII يحصلان على تحديث أندرويد 17"
+  },
+  "gsmarena.com/spotifys_ai_dj_gets_new_voices_and_an_option_to_stop_the_chatter-news-75425.php": {
+   "at": "2026-11-10T20:15:34.443962+00:00",
+   "title": "Spotify's AI DJ gets new voices and an option to stop the chatter",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/spotifys_ai_dj_gets_new_voices_and_an_option_to_stop_the_chatter-news-75425.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "Spotify's AI DJ has been around since 2023, and the company expanded it to more languages and markets earlier this year.",
+   "title_ar": ""
   },
   "gsmarena.com/the_oppo_pad_air6_aka_oppo_pad_6_gets_unveiled_today_will_launch_next_week-news-75405.php": {
    "at": "2026-11-09T12:00:44.615714+00:00",
@@ -7369,17 +7380,6 @@
    "score": 0,
    "sources": 1,
    "summary": "World of Warcraft Forever launch day live blog.",
-   "title_ar": ""
-  },
-  "ign.com/articles/world-of-warcraft-forever-launch-patch-notes-bring-controller-support-and-massive-class-changes": {
-   "at": "2026-11-03T20:00:53.301248+00:00",
-   "title": "World of Warcraft Forever Launch Patch Notes Bring Controller Support and Massive Class Changes",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/world-of-warcraft-forever-launch-patch-notes-bring-controller-support-and-massive-class-changes",
-   "score": 0,
-   "sources": 1,
-   "summary": "World of Warcraft Forever is just a day away, and now that the beta has concluded Blizzard has released its patch notes for the release build of the game.",
    "title_ar": ""
   },
   "ign.com/articles/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch": {
@@ -10550,17 +10550,6 @@
    "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet…",
    "title_ar": "مراكز البيانات تلجأ إلى محركات نفاثة قديمة مع تزايد الانتظار للحصول على الطاقة"
   },
-  "techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount": {
-   "at": "2026-11-03T20:15:30.414182+00:00",
-   "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content.",
-   "title_ar": ""
-  },
   "techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist": {
    "at": "2026-11-03T20:30:38.194635+00:00",
    "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
@@ -12134,17 +12123,6 @@
    "summary": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier.",
    "title_ar": ""
   },
-  "theverge.com/tech/1025602/reddit-search-ads-test": {
-   "at": "2026-11-03T20:15:30.414182+00:00",
-   "title": "Reddit is adding more ads",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.theverge.com/tech/1025602/reddit-search-ads-test",
-   "score": 2,
-   "sources": 2,
-   "summary": "Reddit is testing ads on another area of its platform: search.",
-   "title_ar": "ريديت يضيف المزيد من الإعلانات"
-  },
   "theverge.com/tech/1025694/apple-siri-ai-third-party-apps": {
    "at": "2026-11-03T20:45:37.881443+00:00",
    "title": "Apple starts giving Siri AI access to third-party apps",
@@ -13547,7 +13525,7 @@
   "AI": "2026-11-10T19:45:35.558073+00:00",
   "Anime": "2026-11-10T20:00:49.531567+00:00",
   "Games": "2026-11-10T20:00:49.531567+00:00",
-  "Tech": "2026-11-10T19:15:33.332806+00:00"
+  "Tech": "2026-11-10T20:15:34.443962+00:00"
  },
  "digest_day": "2026-11-10",
  "weekly_day": "2026-11-06"
