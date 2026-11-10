@@ -595,17 +595,6 @@
    "summary": "iOS 27.2 launched last week with a convenient new Messages feature called ‘Suggested Actions.’ Here’s how you can customize the feature to your liking. more…",
    "title_ar": "ميزة الرسائل الجديدة والذكية في iOS 27.2 يمكن تخصيصها حسب احتياجاتك"
   },
-  "9to5mac.com/2026/11/02/john-ternus-addresses-iphone-duo-supply-constraints-display-issue": {
-   "at": "2026-11-03T02:00:44.167169+00:00",
-   "title": "John Ternus addresses iPhone Duo supply constraints, display issue",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/02/john-ternus-addresses-iphone-duo-supply-constraints-display-issue/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Today Apple reported record Q4 earnings , which beat Wall Street expectations overall.",
-   "title_ar": ""
-  },
   "9to5mac.com/2026/11/02/scotus-sets-hearing-date-for-apples-appeal-in-epic-games-case": {
    "at": "2026-11-03T03:00:43.235443+00:00",
    "title": "SCOTUS sets hearing date for Apple’s appeal in Epic Games case",
@@ -1595,6 +1584,17 @@
    "sources": 1,
    "summary": "Apple has once again turned to cinematic action to promote Apple Pay, in a new ad directed by Edgar Wright ( Baby Driver , Shaun of the Dead ).",
    "title_ar": "Edgar Wright يُخرج إعلان Apple Pay الجديد والممتع لشركة Apple"
+  },
+  "9to5mac.com/2026/11/09/ios-27-2-1-has-fixes-for-security-issues-in-messages-airplay-and-more": {
+   "at": "2026-11-10T02:00:46.241440+00:00",
+   "title": "iOS 27.2.1 has fixes for security issues in Messages, AirPlay, and more",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/09/ios-27-2-1-has-fixes-for-security-issues-in-messages-airplay-and-more/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Today Apple released iOS 27.2.1 for iPhone with bug fixes and security updates, alongside a variety of related software updates on other platforms.",
+   "title_ar": "iOS 27.2.1 يتضمن إصلاحات لمشكلات أمنية في Messages و AirPlay والمزيد"
   },
   "9to5mac.com/2026/11/09/leak-reveals-details-for-more-iphone-18-models-launching-early-2027": {
    "at": "2026-11-09T15:15:30.753947+00:00",
@@ -5644,6 +5644,17 @@
    "summary": "Publisher NetEase Games and developer Joker Studio will host the “Dawnbreaker” closed beta test for …",
    "title_ar": "بدء اختبار البتا المغلق لـ Sea of Remnants بعنوان Dawnbreaker في 3 ديسمبر"
   },
+  "gematsu.com/2026/11/super-mario-party-jamboree-version-2-4-0-update-now-available-adds-gameshare-using-gamechat-on-switch-2": {
+   "at": "2026-11-10T02:00:46.241440+00:00",
+   "title": "Super Mario Party Jamboree version 2.4.0 update now available, adds GameShare using GameChat on Switch 2",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gematsu.com/2026/11/super-mario-party-jamboree-version-2-4-0-update-now-available-adds-gameshare-using-gamechat-on-switch-2",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nintendo has released the version 2.4.0 update for Super Mario Party Jamboree, which adds GameShare …",
+   "title_ar": ""
+  },
   "gematsu.com/2026/11/switch-2-and-switch-system-updates-version-23-5-0-now-available": {
    "at": "2026-11-10T01:45:28.760107+00:00",
    "title": "Switch 2 and Switch system updates version 23.5.0 now available",
@@ -7855,17 +7866,6 @@
    "summary": "We all have our Elder Scrolls 6: Sentinel wishlist, but Skyrim's lead designer has revealed two major changes that need to happen.",
    "title_ar": ""
   },
-  "insider-gaming.com/south-of-midnight-creative-director-wouldnt-have-funded": {
-   "at": "2026-11-03T02:00:44.167169+00:00",
-   "title": "South of Midnight Creative Director Says He Wouldn’t Have Funded the Game",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/south-of-midnight-creative-director-wouldnt-have-funded/",
-   "score": 0,
-   "sources": 1,
-   "summary": "In a new interview, South of Midnight creative director David Sears says he wouldn't have funded the game if it was his own money.",
-   "title_ar": ""
-  },
   "insider-gaming.com/stranger-than-heaven-netflix-adaptation": {
    "at": "2026-11-07T00:00:45.243854+00:00",
    "title": "Sega Plans Stranger Than Heaven Live-Action Adaptation at Netflix",
@@ -8041,17 +8041,6 @@
    "sources": 1,
    "summary": "'If I should one day stop posting: thank you very much for reading.'",
    "title_ar": ""
-  },
-  "kotaku.com/creative-director-says-he-wanted-to-make-south-of-midnight-but-doesnt-think-xbox-should-have-funded-it-2000752408": {
-   "at": "2026-11-03T02:00:44.167169+00:00",
-   "title": "South Of Midnight Director Says He Doesn’t Think Xbox Should Have Funded It",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://kotaku.com/creative-director-says-he-wanted-to-make-south-of-midnight-but-doesnt-think-xbox-should-have-funded-it-2000752408",
-   "score": 3,
-   "sources": 2,
-   "summary": "'In hindsight at least, it was unsustainable'",
-   "title_ar": "مخرج لعبة South Of Midnight يقول إنه لا يعتقد أن Xbox كان يجب أن يمولها"
   },
   "kotaku.com/dc-studios-jeremy-latcham-james-gunn-marvel-cbn-christian-2000755180": {
    "at": "2026-11-09T22:30:37.284784+00:00",
@@ -11892,17 +11881,6 @@
    "summary": "Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today.",
    "title_ar": "ميتا ستنهي تحديثات نظام تشغيل Quest 2 في عام 2027"
   },
-  "theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints": {
-   "at": "2026-11-03T02:00:44.167169+00:00",
-   "title": "Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift.",
-   "title_ar": ""
-  },
   "theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta": {
    "at": "2026-11-03T18:45:38.152068+00:00",
    "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
@@ -13250,7 +13228,7 @@
   "AI": "2026-11-10T01:30:36.355725+00:00",
   "Anime": "2026-11-10T00:15:31.996768+00:00",
   "Games": "2026-11-10T00:45:27.365069+00:00",
-  "Tech": "2026-11-10T01:45:28.760107+00:00"
+  "Tech": "2026-11-10T02:00:46.241440+00:00"
  },
  "digest_day": "2026-11-09",
  "weekly_day": "2026-11-06"
