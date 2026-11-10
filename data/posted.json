@@ -2597,6 +2597,17 @@
    "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
    "title_ar": ""
   },
+  "arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot": {
+   "at": "2026-11-10T22:45:30.132408+00:00",
+   "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+   "title_ar": ""
+  },
   "arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters": {
    "at": "2026-11-04T22:15:31.253879+00:00",
    "title": "AMD's record quarter: Data center business doubles, while gaming craters",
@@ -10539,16 +10550,16 @@
    "summary": "At least three bids for Arkane Studios.",
    "title_ar": ""
   },
-  "techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity": {
-   "at": "2026-11-03T22:45:28.621366+00:00",
-   "title": "Anthropic is working on a system to prove AI models’ identity",
-   "topic": "AI",
+  "pushsquare.com/news/2026/11/unknown-9-dev-being-shut-down-two-years-after-disaster-ps5-launch": {
+   "at": "2026-11-10T22:45:30.132408+00:00",
+   "title": "Unknown 9 Dev Being Shut Down Two Years After Disaster PS5 Launch",
+   "topic": "Games",
    "status": "posted",
-   "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-   "score": 1,
+   "url": "https://www.pushsquare.com/news/2026/11/unknown-9-dev-being-shut-down-two-years-after-disaster-ps5-launch",
+   "score": 2,
    "sources": 1,
-   "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-   "title_ar": "Anthropic تعمل على نظام لإثبات هوية نماذج الذكاء الاصطناعي"
+   "summary": "Bandai Namco confirms.",
+   "title_ar": "إغلاق مطور لعبة Unknown 9 بعد مرور عامين على إطلاقها الكارثي على أجهزة PS5"
   },
   "techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming": {
    "at": "2026-11-05T01:15:27.637075+00:00",
@@ -12001,17 +12012,6 @@
    "sources": 1,
    "summary": "Sony is retiring the PlayStation Plus app for PC on December 10th.",
    "title_ar": ""
-  },
-  "theverge.com/news/1025576/binance-cyrpto-theft-explained": {
-   "at": "2026-11-03T22:36:23.971269+00:00",
-   "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
-   "score": 1,
-   "sources": 1,
-   "summary": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance.",
-   "title_ar": "باينانس تقول إن قراصنة استخدموا مقابلات عمل وهمية وأداة ذكاء اصطناعي داخلية لتنفيذ عملية سرقة بقيمة 6.3 مليارات دولار"
   },
   "theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller": {
    "at": "2026-11-04T19:15:27.950554+00:00",
@@ -13502,7 +13502,7 @@
  "topic_last_posted": {
   "AI": "2026-11-10T22:30:38.865725+00:00",
   "Anime": "2026-11-10T22:00:46.065972+00:00",
-  "Games": "2026-11-10T21:45:29.608857+00:00",
+  "Games": "2026-11-10T22:45:30.132408+00:00",
   "Tech": "2026-11-10T22:15:33.417093+00:00"
  },
  "digest_day": "2026-11-10",
