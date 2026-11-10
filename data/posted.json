@@ -9296,6 +9296,17 @@
    "summary": "Adds gifting feature support and more.",
    "title_ar": ""
   },
+  "nintendolife.com/news/2026/11/nintendos-analysis-indicates-you-might-want-to-watch-the-zelda-movie-with-others": {
+   "at": "2026-11-10T11:45:31.988233+00:00",
+   "title": "Nintendo's Analysis Indicates You Might Want To Watch The Zelda Movie With Others",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.nintendolife.com/news/2026/11/nintendos-analysis-indicates-you-might-want-to-watch-the-zelda-movie-with-others",
+   "score": 2,
+   "sources": 1,
+   "summary": "More is more?",
+   "title_ar": "تحليل Nintendo يشير إلى أنك قد ترغب في مشاهدة فيلم The Zelda مع الآخرين"
+  },
   "nintendolife.com/news/2026/11/nintendos-classic-remakes-for-switch-2-are-seemingly-just-getting-started": {
    "at": "2026-11-06T03:15:34.846671+00:00",
    "title": "Nintendo's Classic Remakes For Switch 2 Are Seemingly Just Getting Started",
@@ -12475,17 +12486,6 @@
    "summary": "Linux developers are preparing to make Intel’s ancient MultiMedia eXtensions irrelevant, with the last MMX code now set to be removed from the kernel.",
    "title_ar": "نهاية حقبة مع إزالة Linux 7.5 لآخر تحسينات Intel MMX التي يعود تاريخها إلى 30 عاماً من عصر Pentium"
   },
-  "tomshardware.com/software/windows/developer-manages-to-run-windows-11-26h2-with-just-128mb-of-ram-just-3-1-percent-of-recommended-minimum-stripped-down-installation-can-access-desktop-file-explorer-and-notepad": {
-   "at": "2026-11-03T11:45:31.720541+00:00",
-   "title": "Developer manages to run Windows 11 26H2 with just 128MB of RAM, just 3.1% of recommended minimum — stripped-down installation can access Desktop, File Explorer, and Notepad",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/software/windows/developer-manages-to-run-windows-11-26h2-with-just-128mb-of-ram-just-3-1-percent-of-recommended-minimum-stripped-down-installation-can-access-desktop-file-explorer-and-notepad",
-   "score": 1,
-   "sources": 1,
-   "summary": "The developer's latest experiment takes Windows 11's hardware requirements to an extreme, managing to retain basic desktop functionality with just 128MB of memory, although the resulting…",
-   "title_ar": "مطور ينجح في تشغيل نظام Windows 11 26H2 بذاكرة عشوائية RAM سعة 128 ميجابايت فقط، أي ما يعادل 3.1% فقط من الحد الأدنى الموصى به — التثبيت المخفض يمكنه الوصول إلى سطح المكتب، مستكشف الملفات، والمفكرة"
-  },
   "tomshardware.com/software/windows/windows-11-8gb-ram-configurations-get-a-performance-boost-as-ai-demand-keeps-pushing-prices-up-microsoft-says-windows-is-now-20-percent-more-responsive-multitasking-40-percent-faster-on-memory-constrained-machines": {
    "at": "2026-11-03T17:15:30.293246+00:00",
    "title": "Windows 11 8GB RAM configurations get a performance boost — As AI demand keeps pushing prices up, Microsoft says Windows is now 20% more responsive, multitasking 40% faster on memory-constrained machines",
@@ -13304,7 +13304,7 @@
  "topic_last_posted": {
   "AI": "2026-11-10T05:15:30.464477+00:00",
   "Anime": "2026-11-10T10:00:44.423686+00:00",
-  "Games": "2026-11-10T11:43:58.412918+00:00",
+  "Games": "2026-11-10T11:45:31.988233+00:00",
   "Tech": "2026-11-10T11:15:34.200889+00:00"
  },
  "digest_day": "2026-11-09",
