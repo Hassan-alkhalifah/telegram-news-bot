@@ -661,17 +661,6 @@
    "summary": "To promote the new MacBook Pro with PROLED XDR Display , Apple is hosting a livestream in which singer-songwriter Labrinth will create a song from scratch overnight at the company’s Tower Theatre…",
    "title_ar": "بث مباشر: شاهد Labrinth يبتكر أغنية من الصفر ليلة اليوم باستخدام جهاز MacBook Pro الجديد من Apple"
   },
-  "9to5mac.com/2026/11/04/next-years-iphone-pro-redesign-gets-new-update-from-leaker": {
-   "at": "2026-11-04T20:00:43.920914+00:00",
-   "title": "Next year’s iPhone Pro redesign gets new update from leaker",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/04/next-years-iphone-pro-redesign-gets-new-update-from-leaker/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Apple reportedly has a big redesign coming to next year’s iPhone Pro models, timed for the iPhone’s 20th anniversary.",
-   "title_ar": "تسريب جديد يخص إعادة تصميم هواتف iPhone Pro للعام القادم"
-  },
   "9to5mac.com/2026/11/04/report-apple-and-samsung-outperform-rivals-as-smartphone-chip-shipments-tumble-21": {
    "at": "2026-11-05T00:00:49.331947+00:00",
    "title": "Report: Apple and Samsung outperform rivals as smartphone chip shipments tumble 21%",
@@ -1959,17 +1948,6 @@
    "summary": "Film opened in Japan in June 2024",
    "title_ar": "فيلم الأنمي Look Back يفوز بجائزة الأفلام الطويلة للمراهقين في مهرجان Kineko السينمائي الدولي"
   },
-  "animenewsnetwork.com/news/2026-11-04/martial-arts-manhwa-artist-seung-nam-ha-dies-at-68/.243512": {
-   "at": "2026-11-04T20:15:26.466159+00:00",
-   "title": "Martial Arts Manhwa Artist Seung-nam Ha Dies at 68",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-04/martial-arts-manhwa-artist-seung-nam-ha-dies-at-68/.243512",
-   "score": 1,
-   "sources": 1,
-   "summary": "Ha became 1st Korean comic artist to join Japan Cartoonists Association as full member in 2007",
-   "title_ar": "وفاة رسام مانهوا فنون القتال Seung-nam Ha عن عمر يناهز 68 عاماً"
-  },
   "animenewsnetwork.com/news/2026-11-04/the-seven-knights-of-the-marronnier-kingdom-anime-casts-ryota-takeuchi/.243538": {
    "at": "2026-11-05T15:45:30.288805+00:00",
    "title": "The Seven Knights of the Marronnier Kingdom Anime Casts Ryōta Takeuchi",
@@ -2619,6 +2597,17 @@
    "summary": "Sequel slated for release by September 2027",
    "title_ar": ""
   },
+  "animenewsnetwork.com/news/2026-11-11/final-fantasy-xiv-game-band-the-primals-bassist-eikichi-iwai-dies/.243729": {
+   "at": "2026-11-11T20:15:30.399014+00:00",
+   "title": "Final Fantasy XIV Game Band The Primals' Bassist Eikichi Iwai Dies",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-11/final-fantasy-xiv-game-band-the-primals-bassist-eikichi-iwai-dies/.243729",
+   "score": 0,
+   "sources": 1,
+   "summary": "Iwai had just performed concert with MMORPG's official rock band at event in Tokyo on November 1",
+   "title_ar": ""
+  },
   "animenewsnetwork.com/news/2026-11-11/mashle-magic-and-muscles-season-3-new-video-unveils-more-cast-and-staff-january-9-debut/.243719": {
    "at": "2026-11-11T14:15:31.282348+00:00",
    "title": "Mashle: Magic and Muscles Season 3's New Video Unveils More Cast & Staff, January 9 Debut",
@@ -3102,6 +3091,17 @@
    "sources": 1,
    "summary": "Character trailer revealed for upcoming series based on isekai fantasy light novel series",
    "title_ar": ""
+  },
+  "crunchyroll.com/news/latest/2026/11/11/kamen-rider-myth-tom-and-jerry-crossover": {
+   "at": "2026-11-11T20:15:30.399014+00:00",
+   "title": "Kamen Rider MY-TH Launches Official Tom and Jerry Crossover",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://crunchyroll.com/news/latest/2026/11/11/kamen-rider-myth-tom-and-jerry-crossover",
+   "score": 1,
+   "sources": 1,
+   "summary": "Ride X-Eggs, Seed X-Eggs and more will be available as part of the collab",
+   "title_ar": "Kamen Rider MY-TH يطلق تعاوناً رسمياً مع Tom and Jerry"
   },
   "crunchyroll.com/news/latest/2026/11/11/mashle-magic-and-muscles-season-3-anime-release-date-trailer-key-visual-cast": {
    "at": "2026-11-11T13:45:30.225986+00:00",
@@ -4412,6 +4412,17 @@
    "summary": "Microsoft's upscaling tech for video games is now officially available for select Xbox Ally machines, as well as some other Copilot+ PCs.",
    "title_ar": ""
   },
+  "engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay": {
+   "at": "2026-11-11T20:15:30.399014+00:00",
+   "title": "Google brings the Gemini app to Apple CarPlay",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The chatbot was already available through the Google Maps app.",
+   "title_ar": ""
+  },
   "eurogamer.net/arkane-union-xbox-more-expensive-marvels-blade": {
    "at": "2026-11-04T20:45:43.117162+00:00",
    "title": "Arkane union says closing the studio \"would probably be more expensive\" for Xbox than simply finishing Marvel's Blade",
@@ -5699,17 +5710,6 @@
    "summary": "Sony Interactive Entertainment Japan Asia has announced a Japanese-language-only SKU for PlayStation Portal in Midnight …",
    "title_ar": "الإعلان عن نموذج Midnight Black من جهاز PlayStation Portal حصرياً في اليابان"
   },
-  "gematsu.com/2026/11/pokemon-pokopia-dlc-expansion-pass-part-2-dazzling-decorations-launches-december-9": {
-   "at": "2026-11-04T20:00:43.920914+00:00",
-   "title": "Pokemon Pokopia DLC ‘Expansion Pass Part 2: Dazzling Decorations’ launches December 9",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gematsu.com/2026/11/pokemon-pokopia-dlc-expansion-pass-part-2-dazzling-decorations-launches-december-9",
-   "score": 0,
-   "sources": 1,
-   "summary": "Cozy life simulation game Pokemon Pokopia paid downloadable content “Expansion Pass Part 2: Dazzling Decorations” …",
-   "title_ar": ""
-  },
   "gematsu.com/2026/11/ratchet-clank-ranger-rumble-canceled": {
    "at": "2026-11-06T15:15:28.605792+00:00",
    "title": "Ratchet & Clank: Ranger Rumble canceled",
@@ -5842,17 +5842,6 @@
    "summary": "Winter Whiskers, a “simple cleaning sim that turns the chore of snow-clearing into a relaxing …",
    "title_ar": ""
   },
-  "gematsu.com/2026/11/wonderfall-launches-december-9": {
-   "at": "2026-11-04T20:15:26.466159+00:00",
-   "title": "Wonderfall launches December 9",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gematsu.com/2026/11/wonderfall-launches-december-9",
-   "score": 0,
-   "sources": 1,
-   "summary": "Narrative adventure game Wonderfall will launch for PC via Steam on December 9, developer Attaboy …",
-   "title_ar": ""
-  },
   "gsmarena.com/adobes_ai_assistant_learns_to_work_in_the_background_and_google_is_helping_out-news-75428.php": {
    "at": "2026-11-10T23:15:28.915987+00:00",
    "title": "Adobe's AI assistant learns to work in the background, and Google is helping out",
@@ -5885,17 +5874,6 @@
    "sources": 1,
    "summary": "2026 brought us some incredible smartphones, tablets and other gadgets and we wanted to recognize the best of them – here are the GSMArena 2026 End-of-Year Awards Nominees.",
    "title_ar": "الإعلان عن المتأهلين للنهائيات في جوائز GSMArena نهاية عام 2026"
-  },
-  "gsmarena.com/apple_releases_first_ios_273_developer_beta_heres_whats_new-news-75342.php": {
-   "at": "2026-11-04T20:00:43.920914+00:00",
-   "title": "Apple releases first iOS 27.3 developer beta, here's what's new",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.gsmarena.com/apple_releases_first_ios_273_developer_beta_heres_whats_new-news-75342.php",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple has released the first iOS 27.3 developer beta to testers, bringing several new features and changes.",
-   "title_ar": ""
   },
   "gsmarena.com/apple_says_over_100000_apps_are_now_optimized_for_the_iphone_duo-news-75390.php": {
    "at": "2026-11-06T20:45:28.387004+00:00",
@@ -8196,17 +8174,6 @@
    "summary": "XBOX has revealed two new ways to experience XBOX Cloud Gaming, adding to the robust list of options already available.",
    "title_ar": ""
   },
-  "insider-gaming.com/xbox-accused-sabotaging-blades-development-arkane": {
-   "at": "2026-11-04T20:00:43.920914+00:00",
-   "title": "Xbox Accused of Sabotaging Blade’s Development at Arkane",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/xbox-accused-sabotaging-blades-development-arkane/",
-   "score": 0,
-   "sources": 1,
-   "summary": "New allegations against Xbox claim that it sabotaged the development of Blade with its management decisions.",
-   "title_ar": ""
-  },
   "insider-gaming.com/xbox-ceo-announces-10-year-take-two-partnership": {
    "at": "2026-11-10T16:30:42.237205+00:00",
    "title": "XBOX CEO Reveals ‘New 10-Year Strategic Partnership’ with Take-Two",
@@ -8305,6 +8272,17 @@
    "sources": 1,
    "summary": "Haven Studios' multiplayer shooter was revealed in 2023",
    "title_ar": ""
+  },
+  "kotaku.com/fans-gather-in-final-fantasy-xiv-in-memorial-for-eikichi-iwai-bassist-for-the-primals-2000755897": {
+   "at": "2026-11-11T20:15:30.399014+00:00",
+   "title": "Fans Gather In Final Fantasy XIV In Memorial For Eikichi Iwai, Bassist For The Primals",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://kotaku.com/fans-gather-in-final-fantasy-xiv-in-memorial-for-eikichi-iwai-bassist-for-the-primals-2000755897",
+   "score": 4,
+   "sources": 2,
+   "summary": "His passing comes days after he performed at Fan Fest Japan 2026",
+   "title_ar": "معجبو لعبة Final Fantasy XIV يتجمعون لإحياء ذكرى Eikichi Iwai عازف الباص لفرقة The Primals"
   },
   "kotaku.com/final-fantasy-10-blitzball-was-inspired-by-star-wars-podracing-2000753441": {
    "at": "2026-11-04T22:45:35.770215+00:00",
@@ -8557,6 +8535,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Massive Effect: The BioWare Story will include interviews from developers, collaborators, and industry colleagues",
+   "title_ar": ""
+  },
+  "kotaku.com/mega-man-legends-remaster-seems-likely-after-listing-spotted-on-acting-union-website-2000755908": {
+   "at": "2026-11-11T20:15:30.399014+00:00",
+   "title": "Mega Man Legends Remaster Seems Likely After Listing Spotted On Acting Union Website",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/mega-man-legends-remaster-seems-likely-after-listing-spotted-on-acting-union-website-2000755908",
+   "score": 0,
+   "sources": 1,
+   "summary": "The 'New Media' listing for a Mega Man Legends project has mysteriously disappeared after being spotted on ACTRA Toronto's 'What’s Shooting' page",
    "title_ar": ""
   },
   "kotaku.com/microsoft-data-center-protest-ai-amsterdam-palestine-banners-2000754616": {
@@ -11364,17 +11353,6 @@
    "summary": "Baidu releases ERNIE 5.5 Flash Base: a 280-billion-parameter MoE model pre-trained on 33.5 trillion tokens, shipped deliberately without fine-tuning, so developers can take it wherever they want.",
    "title_ar": "بايدو تطلق نموذج ERNIE 5.5 Flash Base المفتوح المصدر بـ 280 مليار معلمة كنموذج أساسي"
   },
-  "the-decoder.com/chatgpt-can-now-turn-text-prompts-and-photos-into-animated-gifs-with-openais-images-2-6-model": {
-   "at": "2026-11-04T20:00:43.920914+00:00",
-   "title": "ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://the-decoder.com/chatgpt-can-now-turn-text-prompts-and-photos-into-animated-gifs-with-openais-images-2-6-model/",
-   "score": 0,
-   "sources": 1,
-   "summary": "OpenAI is adding a GIF feature to ChatGPT.",
-   "title_ar": ""
-  },
   "the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo": {
    "at": "2026-11-09T21:30:38.030751+00:00",
    "title": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
@@ -11429,6 +11407,17 @@
    "sources": 1,
    "summary": "Google Deepmind introduced Gemini Robotics 2.5, a new control model for robots, and tested it with Apptronik on active Mercedes-Benz production lines in Hungary and Germany.",
    "title_ar": ""
+  },
+  "the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass": {
+   "at": "2026-11-11T20:15:30.399014+00:00",
+   "title": "Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Google Deepmind's new Gemini Decisions API evaluates up to 1,000 closed-ended questions in a single pass across text, images, audio, and video.",
+   "title_ar": "Google تنضم إلى موجة نماذج اتخاذ القرار مع نموذج Gemini Decision 1 محققةً تقييم 1,000 سؤال في تمريرة واحدة"
   },
   "the-decoder.com/google-ships-four-tpu-variants-in-one-year-as-it-ramps-up-competition-with-nvidia": {
    "at": "2026-11-09T13:15:31.286397+00:00",
@@ -13343,23 +13332,12 @@
    "sources": 1,
    "summary": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples.",
    "title_ar": ""
-  },
-  "wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out": {
-   "at": "2026-11-04T20:15:26.466159+00:00",
-   "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable.",
-   "title_ar": ""
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-11T18:30:44.676236+00:00",
-  "Anime": "2026-11-11T18:45:29.055581+00:00",
-  "Games": "2026-11-11T17:00:46.445959+00:00",
+  "AI": "2026-11-11T20:15:30.399014+00:00",
+  "Anime": "2026-11-11T20:15:30.399014+00:00",
+  "Games": "2026-11-11T20:15:30.399014+00:00",
   "Tech": "2026-11-11T20:00:40.805454+00:00"
  },
  "digest_day": "2026-11-11",
