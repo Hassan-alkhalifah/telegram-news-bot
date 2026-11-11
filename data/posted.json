@@ -474,6 +474,17 @@
    "summary": "Android 17 QPR2 is rolling out to Google Pixel devices as a sizable release that comes a month early in a small deviation from the quarterly cycle. more…",
    "title_ar": ""
   },
+  "9to5google.com/2026/11/10/gemini-app-4-carbon": {
+   "at": "2026-11-11T00:30:39.786741+00:00",
+   "title": "Gemini 4 Carbon rolling out to Gemini app for AI Ultra, Argon remains",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5google.com/2026/11/10/gemini-app-4-carbon/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Following the preview at the end of last month , Google is now bringing its latest Gemini 4 Carbon model to the Gemini app. more…",
+   "title_ar": ""
+  },
   "9to5google.com/2026/11/10/google-fi-network-switching": {
    "at": "2026-11-10T17:45:28.481552+00:00",
    "title": "Google Fi brings back network switching with ‘secondary’ partner, expands W+ beyond Pixel",
@@ -1728,17 +1739,6 @@
    "summary": "The previously announced Minami-ke Season 5 revealed a teaser visual and trailer along with…",
    "title_ar": ""
   },
-  "animecorner.me/otaku-vampires-love-bite-anime-adaptation-announced": {
-   "at": "2026-11-04T00:30:35.350604+00:00",
-   "title": "Otaku Vampire's Love Bite Anime Adaptation Announced",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://animecorner.me/otaku-vampires-love-bite-anime-adaptation-announced/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Otaku Vampire's Love Bite manga by Julietta Suzuki (Kamisama Kiss) is getting an anime…",
-   "title_ar": ""
-  },
   "animecorner.me/promise-me-the-spotlight-anime-reveals-visual-trailer-cast-opening-theme-song": {
    "at": "2026-11-04T07:00:44.288217+00:00",
    "title": "Promise Me the Spotlight Anime Reveals Visual, Trailer, Cast, Opening Theme Song",
@@ -1848,17 +1848,6 @@
    "sources": 1,
    "summary": "The official website for the hip-hop-themed multimedia franchise presented the early teaser visual for its upcoming film project on Friday.",
    "title_ar": "الإعلان عن عنوان وموعد عرض فيلم Paradox Live The Animation في عام 2027"
-  },
-  "animenewsnetwork.com/news/2026-11-03/mashle-magic-and-muscles-manga-gets-live-action-film-on-march-19/.243497": {
-   "at": "2026-11-04T00:30:35.350604+00:00",
-   "title": "Mashle: Magic and Muscles Manga Gets Live-Action Film on March 19",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-03/mashle-magic-and-muscles-manga-gets-live-action-film-on-march-19/.243497",
-   "score": 1,
-   "sources": 1,
-   "summary": "Warner Brothers, Fuji TV, Credeus, Toho collaborate on project",
-   "title_ar": "مانغا Mashle: Magic and Muscles تحظى بفيلم واقعي في 19 مارس"
   },
   "animenewsnetwork.com/news/2026-11-03/pero-pero-sparkles-anime-reveals-cast-staff-january-debut/.243506": {
    "at": "2026-11-04T03:30:35.902926+00:00",
@@ -4203,6 +4192,17 @@
    "summary": "Adobe announced its latest flight of AI-powered tools at its Max conference today.",
    "title_ar": ""
   },
+  "engadget.com/2312022/google-fi-super-network-automatic-carrier-switching": {
+   "at": "2026-11-11T00:30:39.786741+00:00",
+   "title": "Google Fi announces super network automatic carrier switching for improved speed and reception",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2312022/google-fi-super-network-automatic-carrier-switching/",
+   "score": 2,
+   "sources": 1,
+   "summary": "It's rolling out first on Pixel phones before wider availability arrives in 2027.",
+   "title_ar": "Google Fi تعلن عن ميزة التبديل التلقائي لشبكات الاتصال الخلوية لتحسين السرعة والاستقبال"
+  },
   "engadget.com/2312120/gta-6-is-targeting-30-fps-and-has-ray-tracing-support-on-ps5-pro": {
    "at": "2026-11-10T16:15:34.950976+00:00",
    "title": "GTA 6 is targeting 30 fps and has ray-tracing support on PS5 Pro",
@@ -4267,6 +4267,17 @@
    "score": 0,
    "sources": 1,
    "summary": "The company's shares have plummeted in response to the exec's affair with an alleged Chinese spy.",
+   "title_ar": ""
+  },
+  "engadget.com/2312969/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works": {
+   "at": "2026-11-11T00:30:39.786741+00:00",
+   "title": "iFixit teardown shows how Apple's glowing PROLED MacBook logo works",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2312969/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The new laptop goes the extra mile to recreate the iconic feature.",
    "title_ar": ""
   },
   "eurogamer.net/arkane-studios-ubisoft-interested-buyers": {
@@ -11980,6 +11991,17 @@
    "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations.",
    "title_ar": ""
   },
+  "theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout": {
+   "at": "2026-11-11T00:30:39.786741+00:00",
+   "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+   "score": 0,
+   "sources": 1,
+   "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago.",
+   "title_ar": ""
+  },
   "theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy": {
    "at": "2026-11-06T20:15:35.094932+00:00",
    "title": "All the latest updates on AI data centers",
@@ -13525,7 +13547,7 @@
   "AI": "2026-11-11T00:15:31.341916+00:00",
   "Anime": "2026-11-10T22:00:46.065972+00:00",
   "Games": "2026-11-10T23:59:41.496286+00:00",
-  "Tech": "2026-11-11T00:00:44.402594+00:00"
+  "Tech": "2026-11-11T00:30:39.786741+00:00"
  },
  "digest_day": "2026-11-10",
  "weekly_day": "2026-11-06"
