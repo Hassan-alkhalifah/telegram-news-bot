@@ -12,17 +12,6 @@
    "summary": "I’ve been enamored with my Galaxy Z Fold 8 since I started using it roughly three months ago, but its one big downside has been the cameras, so I’m not exactly thrilled to hear that the Galaxy Z…",
    "title_ar": "بعد ثلاثة أشهر، كاميرات Galaxy Z Fold 8 ليست كافية، وFold 9 قد لا يحل المشكلة [معرض صور]"
   },
-  "9to5google.com/2026/11/04/nothing-teaser-new-ai-screen-less-product-launch": {
-   "at": "2026-11-04T19:45:32.239025+00:00",
-   "title": "Nothing teases screen-less product launching next month, ‘couldn’t have been an app’",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5google.com/2026/11/04/nothing-teaser-new-ai-screen-less-product-launch/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Nothing has confirmed it will launch a new “AI-native” product in December, something that “couldn’t have been an app.” more…",
-   "title_ar": ""
-  },
   "9to5google.com/2026/11/04/the-first-snapdragon-phone-with-android-linux-terminal-support-is-here": {
    "at": "2026-11-05T01:30:39.240729+00:00",
    "title": "The first Snapdragon phone with Android Linux Terminal support is here",
@@ -1617,6 +1606,17 @@
    "sources": 1,
    "summary": "Last week CNET published an extensive battery test and the iPhone came out on top.",
    "title_ar": "هاتف iPhone هو الفائز في اختبار بطارية جديد متفوقاً على جميع هواتف Android"
+  },
+  "9to5mac.com/2026/11/11/openais-personal-finance-features-for-chatgpt-expands-to-mac-app": {
+   "at": "2026-11-11T20:00:40.805454+00:00",
+   "title": "OpenAI’s personal finance features for ChatGPT expands to Mac app",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/11/openais-personal-finance-features-for-chatgpt-expands-to-mac-app/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Earlier this year, OpenAI introduced ChatGPT Finances.",
+   "title_ar": "ميزات التمويل الشخصي من OpenAI لـ ChatGPT تتوسع لتشمل تطبيق Mac"
   },
   "9to5mac.com/2026/11/11/watchos-27-3-three-new-features-coming-soon-to-apple-watch": {
    "at": "2026-11-11T18:15:27.122064+00:00",
@@ -5655,17 +5655,6 @@
    "summary": "A listing for “Mega Man Legends – New Media” has appeared on the “What’s Shooting” …",
    "title_ar": "ظهور إدراج باسم “Mega Man Legends – New Media” على صفحة المشاريع الحالية لـ ACTRA Toronto"
   },
-  "gematsu.com/2026/11/megs-monster-coming-to-ps5-on-march-1-2027": {
-   "at": "2026-11-04T19:45:32.239025+00:00",
-   "title": "Meg’s Monster coming to PS5 on March 1, 2027",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gematsu.com/2026/11/megs-monster-coming-to-ps5-on-march-1-2027",
-   "score": 0,
-   "sources": 1,
-   "summary": "Odencat will release a PlayStation 5 version of RPG adventure game Meg’s Monster on March …",
-   "title_ar": ""
-  },
   "gematsu.com/2026/11/mouse-work-launches-december-7": {
    "at": "2026-11-10T23:59:41.496286+00:00",
    "title": "Mouse Work launches December 7",
@@ -7601,6 +7590,17 @@
    "sources": 1,
    "summary": "Todd Howard is associated with Bethesda for good reason, and a former veteran of the company has opened up about working with him.",
    "title_ar": "مخضرم سابق في Bethesda يكشف عن كواليس العمل مع Todd Howard"
+  },
+  "insider-gaming.com/former-tekken-director-feels-xbox-series-s-is-extra-work-for-a-slightly-weaker-child": {
+   "at": "2026-11-11T20:00:40.805454+00:00",
+   "title": "Former Tekken Director Feels XBOX Series S is “Extra Work for a Slightly Weaker Child”",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/former-tekken-director-feels-xbox-series-s-is-extra-work-for-a-slightly-weaker-child/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Katsuhiro Harada didn't hold back any punches when sharing his feelings on the XBOX Series S in front of senior XBOX official.",
+   "title_ar": ""
   },
   "insider-gaming.com/fortis-games-shuts-down-440-jobs-expected-lost": {
    "at": "2026-11-11T02:45:29.492846+00:00",
@@ -11606,17 +11606,6 @@
    "summary": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation.",
    "title_ar": "شركات الوساطة الأمريكية للبيانات تبيع بيئات تدريب للذكاء الاصطناعي بقيمة نصف مليار دولار لمختبرات صينية"
   },
-  "theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei": {
-   "at": "2026-11-04T19:45:32.239025+00:00",
-   "title": "Nothing teases a screen-free AI device ahead of launch next month",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-   "score": 3,
-   "sources": 2,
-   "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December.",
-   "title_ar": "Nothing تشوق لجهاز ذكاء اصطناعي بدون شاشة قبيل إطلاقه الشهر المقبل"
-  },
   "theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich": {
    "at": "2026-11-04T22:00:43.675176+00:00",
    "title": "17 better ways Elon Musk could have wasted $446 million",
@@ -13371,7 +13360,7 @@
   "AI": "2026-11-11T18:30:44.676236+00:00",
   "Anime": "2026-11-11T18:45:29.055581+00:00",
   "Games": "2026-11-11T17:00:46.445959+00:00",
-  "Tech": "2026-11-11T19:45:31.665323+00:00"
+  "Tech": "2026-11-11T20:00:40.805454+00:00"
  },
  "digest_day": "2026-11-11",
  "weekly_day": "2026-11-06"
