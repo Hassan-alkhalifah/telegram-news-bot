@@ -6029,6 +6029,17 @@
    "summary": "In September 2025, Nothing CEO Carl Pei revealed that the company planned to launch its first AI-native products in 2026.",
    "title_ar": ""
   },
+  "gsmarena.com/oneplus_12_is_now_receiving_the_update_to_coloros_17_based_on_android_17-news-75445.php": {
+   "at": "2026-11-11T23:15:29.710326+00:00",
+   "title": "OnePlus 12 is now receiving the update to ColorOS 17, based on Android 17",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.gsmarena.com/oneplus_12_is_now_receiving_the_update_to_coloros_17_based_on_android_17-news-75445.php",
+   "score": 1,
+   "sources": 1,
+   "summary": "A few days ago, OnePlus announced its rollout schedule for the ColorOS 17 update, based on Android 17, for this month.",
+   "title_ar": "هاتف OnePlus 12 يتلقى الآن التحديث إلى واجهة ColorOS 17 المبنية على نظام Android 17"
+  },
   "gsmarena.com/oneplus_17_could_debut_with_a_widescreen_display_rumor_claims-news-75417.php": {
    "at": "2026-11-10T08:30:36.585025+00:00",
    "title": "OnePlus 17 could debut with a wide-screen display, rumor claims",
@@ -7248,17 +7259,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Even during the beta, World of Warcraft Forever was shaping up to be huge, with an unprecedented amount of testers.",
-   "title_ar": ""
-  },
-  "ign.com/articles/world-of-warcraft-forever-launch-live-blog": {
-   "at": "2026-11-04T23:15:29.604400+00:00",
-   "title": "World of Warcraft Forever Launch Live Blog",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/world-of-warcraft-forever-launch-live-blog",
-   "score": 0,
-   "sources": 1,
-   "summary": "World of Warcraft Forever launch day live blog.",
    "title_ar": ""
   },
   "ign.com/articles/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch": {
@@ -11276,17 +11276,6 @@
    "summary": "Anthropic's Fable 5.2 completes 41.3 percent of real freelance jobs at professional quality on the Remote Labor Index, more than double the next-best systems Opus 5.5 and GPT 6 Astra.",
    "title_ar": ""
   },
-  "the-decoder.com/anthropics-text-watermark-is-easy-to-bypass-on-several-older-claude-models": {
-   "at": "2026-11-04T23:15:29.604400+00:00",
-   "title": "Anthropic's text watermark is easy to bypass on several older Claude models",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://the-decoder.com/anthropics-text-watermark-is-easy-to-bypass-on-several-older-claude-models/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Anthropic is rolling out text watermarks to four more Claude models ahead of the EU AI Act's December deadline.",
-   "title_ar": "من السهل تجاوز علامة Anthropic النصية المائية في عدة إصدارات أقدم من نماذج Claude"
-  },
   "the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model": {
    "at": "2026-11-05T19:45:28.930730+00:00",
    "title": "Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model",
@@ -13283,7 +13272,7 @@
   "AI": "2026-11-11T22:01:01.517047+00:00",
   "Anime": "2026-11-11T22:15:40.644389+00:00",
   "Games": "2026-11-11T23:00:45.507218+00:00",
-  "Tech": "2026-11-11T22:45:27.620777+00:00"
+  "Tech": "2026-11-11T23:15:29.710326+00:00"
  },
  "digest_day": "2026-11-11",
  "weekly_day": "2026-11-06"
