@@ -529,6 +529,17 @@
    "summary": "The Legend of Zelda: Ocarina of Time remake now runs surprisingly well on phones after just a week of additional emulator development. more…",
    "title_ar": ""
   },
+  "9to5google.com/2026/11/10/nintendo-will-soon-discontinue-google-and-apple-sign-ins": {
+   "at": "2026-11-11T02:00:42.717663+00:00",
+   "title": "Nintendo will soon discontinue Google and Apple sign-ins",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5google.com/2026/11/10/nintendo-will-soon-discontinue-google-and-apple-sign-ins/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nintendo Switch users have until January 25 to change how they sign in to the Nintendo Switch app on their smartphones. more…",
+   "title_ar": ""
+  },
   "9to5google.com/2026/11/10/no-the-pixel-tag-is-not-available-today": {
    "at": "2026-11-10T20:15:34.443962+00:00",
    "title": "No, the Pixel Tag is not available today",
@@ -6051,17 +6062,6 @@
    "summary": "Apple is expected to launch the standard iPhone 18 and the iPhone Air 2 in spring 2027.",
    "title_ar": ""
   },
-  "gsmarena.com/iphone_duos_woes_are_a_boon_for_samsung_as_galaxy_z_fold8_sales_go_up_by_20_in_a_week-news-75325.php": {
-   "at": "2026-11-04T02:00:41.627630+00:00",
-   "title": "iPhone Duo's woes are a boon for Samsung as Galaxy Z Fold8 sales go up by 20% in a week",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.gsmarena.com/iphone_duos_woes_are_a_boon_for_samsung_as_galaxy_z_fold8_sales_go_up_by_20_in_a_week-news-75325.php",
-   "score": 1,
-   "sources": 1,
-   "summary": "Reports of spotty quality assurance and breaking displays have scared off some potential iPhone Duo buyers and driven them into Samsung’s arms – a report from South Korea states that Galaxy Z Fold8…",
-   "title_ar": "مشاكل iPhone Duo تصبح نعمة لشركة Samsung مع ارتفاع مبيعات Galaxy Z Fold8 بنسبة 20% في أسبوع"
-  },
   "gsmarena.com/its_official_the_xiaomi_18_pro_and_18_pro_max_are_launching_globally_next_week-news-75406.php": {
    "at": "2026-11-09T13:30:41.767345+00:00",
    "title": "It's official: the Xiaomi 18 Pro and 18 Pro Max are launching globally next week",
@@ -9306,6 +9306,17 @@
    "sources": 1,
    "summary": "Get it while you can.",
    "title_ar": ""
+  },
+  "nintendolife.com/news/2026/11/nintendo-ending-google-and-apple-sign-ins-on-nintendo-accounts-in-2027": {
+   "at": "2026-11-11T02:00:42.717663+00:00",
+   "title": "Nintendo Ending Google And Apple Sign-Ins On Nintendo Accounts In 2027",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.nintendolife.com/news/2026/11/nintendo-ending-google-and-apple-sign-ins-on-nintendo-accounts-in-2027",
+   "score": 3,
+   "sources": 2,
+   "summary": "You'll need a Nintendo Account from here on out.",
+   "title_ar": "نينتندو تنهى تسجيل الدخول عبر Google و Apple لحسابات نينتندو في عام 2027"
   },
   "nintendolife.com/news/2026/11/nintendo-highlights-multiple-major-third-party-releases-on-the-way-to-switch-2-in-2027": {
    "at": "2026-11-06T05:00:47.507157+00:00",
@@ -13524,7 +13535,7 @@
  "topic_last_posted": {
   "AI": "2026-11-11T01:30:37.014997+00:00",
   "Anime": "2026-11-10T22:00:46.065972+00:00",
-  "Games": "2026-11-11T01:15:29.917807+00:00",
+  "Games": "2026-11-11T02:00:42.717663+00:00",
   "Tech": "2026-11-11T01:45:29.679063+00:00"
  },
  "digest_day": "2026-11-10",
