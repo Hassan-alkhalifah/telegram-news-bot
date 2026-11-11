@@ -617,17 +617,6 @@
    "summary": "Apple today rolled out a new subscription retention tool for developers looking to reduce cancellations.",
    "title_ar": "أبل تتيح للمطورين الآن تقديم خصومات عندما يحاول المستخدمون إلغاء الاشتراكات"
   },
-  "9to5mac.com/2026/11/04/apple-tv-reportedly-getting-justin-timberlake-docuseries-announces-new-toni-collette-show": {
-   "at": "2026-11-04T23:00:43.614099+00:00",
-   "title": "Apple TV reportedly getting Justin Timberlake docuseries, announces new Toni Collette show",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/04/apple-tv-reportedly-getting-justin-timberlake-docuseries-announces-new-toni-collette-show/",
-   "score": 2,
-   "sources": 1,
-   "summary": "With one official announcement and one report, two new Apple TV projects have been revealed this week.",
-   "title_ar": "تقارير تفيد بأن Apple TV سيحصل على سلسلة وثائقية عن Justin Timberlake، ويعلن عن عرض جديد لـ Toni Collette"
-  },
   "9to5mac.com/2026/11/04/livestream-watch-labrinth-create-a-song-from-scratch-tonight-using-apples-new-macbook-pro": {
    "at": "2026-11-05T02:30:37.223167+00:00",
    "title": "Livestream: Watch Labrinth create a song from scratch tonight using Apple’s new MacBook Pro",
@@ -6612,17 +6601,6 @@
    "summary": "",
    "title_ar": "القبض على أب بعد ترك ابنته النائمة ذات الـ 6 أعوام في طابور بطاقات Pokémon"
   },
-  "ign.com/articles/final-fantasy-producer-cites-star-wars-as-a-key-inspiration-for-characters-and-mechanics-in-franchise": {
-   "at": "2026-11-04T22:45:35.770215+00:00",
-   "title": "Final Fantasy Producer Cites Star Wars as a Key Inspiration for Characters and Mechanics in Franchise",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.ign.com/articles/final-fantasy-producer-cites-star-wars-as-a-key-inspiration-for-characters-and-mechanics-in-franchise",
-   "score": 3,
-   "sources": 2,
-   "summary": "Longtime Final Fantasy producer Yoshinori Kitase revealed to IGN that Star Wars was a big influence on the RPG franchise.",
-   "title_ar": "منتج Final Fantasy يستشهد بـ Star Wars كإلهام رئيسي للشخصيات والآليات في السلسلة"
-  },
   "ign.com/articles/former-rockstar-dev-claims-gta-6-online-will-launch-soon": {
    "at": "2026-11-06T14:58:01.880967+00:00",
    "title": "Rockstar Will Be Keen to Release GTA 6 on PC Sooner Rather Than Later Because of AI Clones, Former Dev Says",
@@ -8196,6 +8174,17 @@
    "summary": "The Legend of Zelda: Ocarina of Time is on the best seller list for the Ninendo eShop with other nostalgic titles.",
    "title_ar": ""
   },
+  "kotaku.com/a-second-jensen-huang-affair-has-hit-nvidia-as-company-considers-throwing-him-overboard-2000756033": {
+   "at": "2026-11-11T23:00:45.507218+00:00",
+   "title": "A Second Jensen Huang Affair Has Hit Nvidia As Company Considers Throwing Him Overboard",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/a-second-jensen-huang-affair-has-hit-nvidia-as-company-considers-throwing-him-overboard-2000756033",
+   "score": 0,
+   "sources": 1,
+   "summary": "It wasn't just the spy he was allegedly shagging",
+   "title_ar": ""
+  },
   "kotaku.com/beloved-mario-content-creator-says-his-health-is-failing-but-only-blindness-or-death-will-stop-him-from-posting-mario-facts-2000755083": {
    "at": "2026-11-09T15:30:39.359074+00:00",
    "title": "Beloved Mario Content Creator Says His Health Is Failing But ‘Only Blindness Or Death’ Will Stop Him From Posting Mario Facts",
@@ -8272,17 +8261,6 @@
    "sources": 2,
    "summary": "His passing comes days after he performed at Fan Fest Japan 2026",
    "title_ar": "معجبو لعبة Final Fantasy XIV يتجمعون لإحياء ذكرى Eikichi Iwai عازف الباص لفرقة The Primals"
-  },
-  "kotaku.com/final-fantasy-10-blitzball-was-inspired-by-star-wars-podracing-2000753441": {
-   "at": "2026-11-04T22:45:35.770215+00:00",
-   "title": "Final Fantasy 10 Blitzball Was Inspired By Star Wars Podracing",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/final-fantasy-10-blitzball-was-inspired-by-star-wars-podracing-2000753441",
-   "score": 0,
-   "sources": 1,
-   "summary": "'Now that's Blitzball!'",
-   "title_ar": ""
   },
   "kotaku.com/final-fantasy-producer-says-after-ff7-remake-trilogy-square-enix-will-invest-in-new-games-2000754228": {
    "at": "2026-11-05T19:45:28.930730+00:00",
@@ -8493,6 +8471,17 @@
    "summary": "Square Enix is investigating the problem",
    "title_ar": ""
   },
+  "kotaku.com/marvel-1943-has-not-been-canceled-despite-development-struggles-2000756025": {
+   "at": "2026-11-11T23:00:45.507218+00:00",
+   "title": "Marvel 1943 ‘Has Not Been Canceled,’ Says Skydance Leadership, Despite Development Struggles",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://kotaku.com/marvel-1943-has-not-been-canceled-despite-development-struggles-2000756025",
+   "score": 2,
+   "sources": 1,
+   "summary": "Skydance producers are reassuring the team that all is well, despite rumors to the contrary",
+   "title_ar": "قيادة Skydance تؤكد أن لعبة Marvel 1943 \"لم يتم إلغاؤها\" على الرغم من صعوبات التطوير"
+  },
   "kotaku.com/mass-effect-3-multiplayer-legendary-edition-mod-me3tweaks-2000754691": {
    "at": "2026-11-07T22:30:37.909407+00:00",
    "title": "How Modders Spent Three Years Remastering Mass Effect 3’s Fantastic Multiplayer For Legendary Edition: ‘Let’s Do Something Stupid’",
@@ -8502,17 +8491,6 @@
    "score": 0,
    "sources": 1,
    "summary": "The ME3Tweaks Legendary Edition mod is out today for N7 Day",
-   "title_ar": ""
-  },
-  "kotaku.com/mass-effect-petitions-bioware-canadian-government-house-of-commons-2000753458": {
-   "at": "2026-11-04T22:45:35.770215+00:00",
-   "title": "Mass Effect Fans Get Enough Signatures To Plead To The Canadian Government For BioWare’s Life",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/mass-effect-petitions-bioware-canadian-government-house-of-commons-2000753458",
-   "score": 0,
-   "sources": 1,
-   "summary": "The #FreeMassEffect movement is taking its grievances to the Canadian House of Commons",
    "title_ar": ""
   },
   "kotaku.com/massive-effect-bioware-story-documentary-canada-ea-2000754242": {
@@ -9779,6 +9757,17 @@
    "sources": 2,
    "summary": "Tripwire said the decision to put people out of work was \"a necessary one for the organization.\"",
    "title_ar": "بعد أسبوع من توسيع قسم النشر، استوديو لعبة Killing Floor المسمى Tripwire Interactive يستغني عن 36 موظفاً"
+  },
+  "pcgamer.com/gaming-industry/giana-sisters-developer-black-forest-games-buys-itself-out-of-embracer-some-of-the-best-games-of-the-last-decade-came-from-teams-of-fifty-not-five-hundred": {
+   "at": "2026-11-11T23:00:45.507218+00:00",
+   "title": "Giana Sisters developer Black Forest Games buys itself out of Embracer: 'Some of the best games of the last decade came from teams of fifty, not five hundred'",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/gaming-industry/giana-sisters-developer-black-forest-games-buys-itself-out-of-embracer-some-of-the-best-games-of-the-last-decade-came-from-teams-of-fifty-not-five-hundred/",
+   "score": 0,
+   "sources": 1,
+   "summary": "According to the press release, \"THQ Nordic and Black Forest Games continue to collaborate on game development tasks.\"",
+   "title_ar": ""
   },
   "pcgamer.com/gaming-industry/nvidia-ceo-jensen-huang-admits-to-affair-with-alleged-chinese-spy-as-company-board-launches-investigation": {
    "at": "2026-11-08T21:45:30.117942+00:00",
@@ -12948,17 +12937,6 @@
    "summary": "Massive Effect: The BioWare Story started filming two years ago",
    "title_ar": "الأيام الأخيرة لشركة BioWare ستظهر في وثائقي قادم"
   },
-  "videogameschronicle.com/news/canadian-bioware-fans-are-calling-on-the-government-to-fund-the-studio": {
-   "at": "2026-11-04T23:00:43.614099+00:00",
-   "title": "Canadian BioWare fans are calling on the government to fund the studio",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.videogameschronicle.com/news/canadian-bioware-fans-are-calling-on-the-government-to-fund-the-studio/",
-   "score": 0,
-   "sources": 1,
-   "summary": "BioWare fans have launched a petition in Canada",
-   "title_ar": ""
-  },
   "videogameschronicle.com/news/ea-has-released-25-classic-restored-games-on-pc-including-ultima-and-road-rash": {
    "at": "2026-11-05T21:15:28.679773+00:00",
    "title": "EA has released classic ‘restored’ games on PC, including Ultima and Road Rash",
@@ -13304,7 +13282,7 @@
  "topic_last_posted": {
   "AI": "2026-11-11T22:01:01.517047+00:00",
   "Anime": "2026-11-11T22:15:40.644389+00:00",
-  "Games": "2026-11-11T22:30:36.974969+00:00",
+  "Games": "2026-11-11T23:00:45.507218+00:00",
   "Tech": "2026-11-11T22:45:27.620777+00:00"
  },
  "digest_day": "2026-11-11",
