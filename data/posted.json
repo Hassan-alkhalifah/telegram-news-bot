@@ -23,17 +23,6 @@
    "summary": "I’ve been enamored with my Galaxy Z Fold 8 since I started using it roughly three months ago, but its one big downside has been the cameras, so I’m not exactly thrilled to hear that the Galaxy Z…",
    "title_ar": "بعد ثلاثة أشهر، كاميرات Galaxy Z Fold 8 ليست كافية، وFold 9 قد لا يحل المشكلة [معرض صور]"
   },
-  "9to5google.com/2026/11/04/google-photos-now-lets-you-turn-off-background-music-in-memories": {
-   "at": "2026-11-04T14:45:33.499331+00:00",
-   "title": "Google Photos now lets you turn off background music in Memories",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/04/google-photos-now-lets-you-turn-off-background-music-in-memories/",
-   "score": 1,
-   "sources": 1,
-   "summary": "In an update, Google Photos is making it possible to fully disable background music in Memories. more…",
-   "title_ar": "تطبيق Google Photos يتيح لك الآن إيقاف تشغيل الموسيقى الخلفية في قسم Memories"
-  },
   "9to5google.com/2026/11/04/google-will-fix-nest-devices-that-didnt-adjust-for-daylight-savings-breaking-alarms-and-more": {
    "at": "2026-11-04T15:45:29.255565+00:00",
    "title": "Google will fix Nest devices that didn’t adjust for Daylight Savings, breaking alarms and more",
@@ -9241,6 +9230,17 @@
    "summary": "Production company Pony Canyon opened an official website for a television anime adaptation of Tomoko Ninomiya's Nanatsuya Shinobou no Houseki-bako (Nanatsu-ya: Shinobou and Her Jewelry Box) on…",
    "title_ar": ""
   },
+  "myanimelist.net/news/74928431?_location=rss": {
+   "at": "2026-11-11T15:00:42.167269+00:00",
+   "title": "'Mashle: Sanma Taisou Shinkakusha Saishuu Shiken-hen' Reveals Additional Cast, Promo",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://myanimelist.net/news/74928431?_location=rss",
+   "score": 0,
+   "sources": 1,
+   "summary": "The official website of the Mashle (Mashle: Magic and Muscles) television anime revealed additional cast pair, a key visual and a promotional video for its third season on Wednesday.",
+   "title_ar": ""
+  },
   "nintendolife.com/news/2026/11/bandai-namco-reveals-its-involvement-on-zelda-ocarina-of-time": {
    "at": "2026-11-09T16:15:31.794362+00:00",
    "title": "Bandai Namco Reveals Its Involvement On Zelda: Ocarina Of Time",
@@ -13344,6 +13344,17 @@
    "summary": "GTA 6 will use haptic feedback and more on PS5",
    "title_ar": ""
   },
+  "videogameschronicle.com/news/nintendo-absolutely-hated-this-two-unrelated-games-called-piece-by-piece-are-launching-together-in-a-switch-bundle": {
+   "at": "2026-11-11T15:00:42.167269+00:00",
+   "title": "‘Nintendo absolutely hated this’: Two unrelated games called Piece By Piece are launching together in a Switch bundle",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.videogameschronicle.com/news/nintendo-absolutely-hated-this-two-unrelated-games-called-piece-by-piece-are-launching-together-in-a-switch-bundle/",
+   "score": 2,
+   "sources": 1,
+   "summary": "The developers of both games have made the most of an unlucky coincidence",
+   "title_ar": "نينتندو كرهت هذا تماماً: لعبتان غير مرتبطتين تحملان اسم Piece By Piece ستُطلقان معاً في حزمة واحدة على Switch"
+  },
   "videogameschronicle.com/news/nintendo-says-it-is-not-considering-a-switch-2-price-hike": {
    "at": "2026-11-05T14:45:32.295150+00:00",
    "title": "Nintendo says it is not considering a Switch 2 price hike",
@@ -13612,7 +13623,7 @@
  "topic_last_posted": {
   "AI": "2026-11-11T14:45:30.134021+00:00",
   "Anime": "2026-11-11T14:15:31.282348+00:00",
-  "Games": "2026-11-11T14:08:28.032764+00:00",
+  "Games": "2026-11-11T15:00:42.167269+00:00",
   "Tech": "2026-11-11T14:30:37.349238+00:00"
  },
  "digest_day": "2026-11-10",
