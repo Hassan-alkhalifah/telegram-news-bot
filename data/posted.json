@@ -6315,6 +6315,17 @@
    "summary": "Samsung is officially detailing its Gallery app's move to Google storage today.",
    "title_ar": ""
   },
+  "gsmarena.com/samsung_reportedly_working_on_a_phone_with_an_expandable_display-news-75431.php": {
+   "at": "2026-11-11T06:15:30.601177+00:00",
+   "title": "Samsung reportedly working on a phone with an expandable display",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.gsmarena.com/samsung_reportedly_working_on_a_phone_with_an_expandable_display-news-75431.php",
+   "score": 1,
+   "sources": 1,
+   "summary": "According to a new rumor, Samsung is developing a smartphone with a vertically rollable display that would allow users to switch between two aspect ratios.",
+   "title_ar": "سامسونگ تعمل على تطوير هاتف بشاشة قابلة للتوسيع بحسب التقارير"
+  },
   "gsmarena.com/samsungs_overear_headphones_said_to_be_called_galaxy_studio_design_details_surface-news-75370.php": {
    "at": "2026-11-06T01:15:29.697985+00:00",
    "title": "Samsung's over-ear headphones said to be called Galaxy Studio, design details surface",
@@ -6468,17 +6479,6 @@
    "sources": 1,
    "summary": "WhatsApp introduced the Username feature in June.",
    "title_ar": "واتساب تختبر ميزة تتيح لك التحكم في من يرى رقم هاتفك"
-  },
-  "gsmarena.com/whatsapp_starts_suggesting_your_latest_photos_and_videos_right_in_your_chats-news-75335.php": {
-   "at": "2026-11-04T06:15:28.571362+00:00",
-   "title": "WhatsApp starts suggesting your latest photos and videos right in your chats",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.gsmarena.com/whatsapp_starts_suggesting_your_latest_photos_and_videos_right_in_your_chats-news-75335.php",
-   "score": 1,
-   "sources": 1,
-   "summary": "WhatsApp already suggests stickers above the keyboard on Android based on the emojis you type, and now it's taking that suggestion system a step further.",
-   "title_ar": "واتساب يبدأ في اقتراح أحدث صورك وفيديوهاتك مباشرة داخل المحادثات"
   },
   "gsmarena.com/xiaomi_18_might_actually_arrive_this_year_3c_reveals_the_charging_capabilities-news-75396.php": {
    "at": "2026-11-07T13:30:38.142500+00:00",
@@ -13525,7 +13525,7 @@
   "AI": "2026-11-11T01:30:37.014997+00:00",
   "Anime": "2026-11-11T04:15:29.755764+00:00",
   "Games": "2026-11-11T05:30:37.059259+00:00",
-  "Tech": "2026-11-11T05:15:31.487318+00:00"
+  "Tech": "2026-11-11T06:15:30.601177+00:00"
  },
  "digest_day": "2026-11-10",
  "weekly_day": "2026-11-06"
