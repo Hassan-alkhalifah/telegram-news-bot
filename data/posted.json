@@ -617,17 +617,6 @@
    "summary": "iOS 27’s biggest highlight is Siri AI, but the update also packs new features for apps like Messages , Notes , Wallet , and more .",
    "title_ar": ""
   },
-  "9to5mac.com/2026/11/04/ios-27-3-adds-carplay-redesign-for-apple-music-heres-whats-new": {
-   "at": "2026-11-04T15:00:44.805791+00:00",
-   "title": "iOS 27.3 adds CarPlay redesign for Apple Music, here’s what’s new",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/04/ios-27-3-adds-carplay-redesign-for-apple-music-heres-whats-new/",
-   "score": 0,
-   "sources": 1,
-   "summary": "iOS 27.3 is packed with new features for iPhone, and it also includes a noteworthy CarPlay change: a redesign of the Apple Music app. more…",
-   "title_ar": ""
-  },
   "9to5mac.com/2026/11/04/ios-27-3-upgrades-apple-music-in-two-ways-heres-whats-new": {
    "at": "2026-11-04T19:00:48.294999+00:00",
    "title": "iOS 27.3 upgrades Apple Music in two ways, here’s what’s new",
@@ -1584,6 +1573,17 @@
    "sources": 1,
    "summary": "When Apple announced the iPhone Duo back in September, the company called it “the most transformational change to iPhone since the original,” and there’s no doubt that it generated a huge amount of…",
    "title_ar": "إذا قمت بشراء iPhone Duo، فهل احتفظت به أم أرجعته؟ [استطلاع]"
+  },
+  "9to5mac.com/2026/11/11/ios-27-3-adds-new-setting-to-bypass-website-cookie-popups-eventually": {
+   "at": "2026-11-11T15:15:28.924897+00:00",
+   "title": "iOS 27.3 adds new setting to bypass website cookie popups (eventually)",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/11/ios-27-3-adds-new-setting-to-bypass-website-cookie-popups-eventually/",
+   "score": 0,
+   "sources": 1,
+   "summary": "iOS 27.3 is currently in beta and packed with new features , including a ‘Global Privacy Control’ setting in Safari that could someday put an end to cookie consent pop-ups. more…",
+   "title_ar": ""
   },
   "9to5mac.com/2026/11/11/whatsapp-may-soon-replace-the-communities-tab-on-ios": {
    "at": "2026-11-11T13:45:30.225986+00:00",
@@ -2553,6 +2553,17 @@
    "summary": "New teaser visual also revealed",
    "title_ar": ""
   },
+  "animenewsnetwork.com/news/2026-11-11/cyberagent-announces-business-alliance-with-animation-studio-mappa/.243717": {
+   "at": "2026-11-11T15:15:28.924897+00:00",
+   "title": "CyberAgent Announces Business Alliance With Animation Studio MAPPA",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-11/cyberagent-announces-business-alliance-with-animation-studio-mappa/.243717",
+   "score": 0,
+   "sources": 1,
+   "summary": "CyberAgent has acquired stake in MAPPA's parent company MHD Co.",
+   "title_ar": ""
+  },
   "animenewsnetwork.com/news/2026-11-11/mashle-magic-and-muscles-season-3-new-video-unveils-more-cast-and-staff-january-9-debut/.243719": {
    "at": "2026-11-11T14:15:31.282348+00:00",
    "title": "Mashle: Magic and Muscles Season 3's New Video Unveils More Cast & Staff, January 9 Debut",
@@ -2970,6 +2981,17 @@
    "sources": 1,
    "summary": "Crunchyroll will stream the Tri-Magicathlon Divine Visionary Final Exam Arc starting January 9",
    "title_ar": ""
+  },
+  "crunchyroll.com/news/latest/2026/11/11/monogatari-series-secret-society-holox-collaboration-exhibition": {
+   "at": "2026-11-11T15:15:28.924897+00:00",
+   "title": "Monogatari Series and Secret Society holoX Announce Collab and Exhibition",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://crunchyroll.com/news/latest/2026/11/11/monogatari-series-secret-society-holox-collaboration-exhibition",
+   "score": 1,
+   "sources": 1,
+   "summary": "The exhibition kicks off in Shibuya on January 3, 2027",
+   "title_ar": "سلسلة Monogatari و Secret Society holoX تعلنان عن تعاون ومعرض"
   },
   "crunchyroll.com/news/latest/2026/11/11/nanatsu-ya-shinobu-and-her-jewelry-box-anime-announced-for-2027": {
    "at": "2026-11-11T09:30:35.745575+00:00",
@@ -7063,17 +7085,6 @@
    "summary": "Nvidia has launched an independent investigation into CEO Jensen Huang after he admitted to having an affair with a suspected Chinese spy.",
    "title_ar": ""
   },
-  "ign.com/articles/openai-boss-sam-altman-addresses-backlash-after-saying-it-was-terrible-for-people-to-have-ram-in-their-pcs": {
-   "at": "2026-11-04T15:00:44.805791+00:00",
-   "title": "OpenAI Boss Sam Altman Addresses Backlash After Saying It Was 'Terrible' for People to Have RAM in Their PCs",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/openai-boss-sam-altman-addresses-backlash-after-saying-it-was-terrible-for-people-to-have-ram-in-their-pcs",
-   "score": 0,
-   "sources": 1,
-   "summary": "OpenAI boss Sam Altman has addressed the backlash over comments he made in a recent interview, where he said he thought it was “terrible” for people to have RAM in their PCs rather than a data center.",
-   "title_ar": ""
-  },
   "ign.com/articles/playstation-cancels-live-service-heist-shooter-fairgames": {
    "at": "2026-11-10T21:45:29.608857+00:00",
    "title": "PlayStation Cancels Live-Service Heist Shooter, Fairgames",
@@ -8932,6 +8943,17 @@
    "sources": 1,
    "summary": "Paul Bettany must be making hella cash playing all these characters",
    "title_ar": "الكشف عن VisionQuest الليلة الماضية يرتبط ارتباطاً وثيقاً بتاريخ Marvel"
+  },
+  "kotaku.com/visionquest-post-credits-wanda-scarlet-witch-doctor-doom-doomsday-2000755899": {
+   "at": "2026-11-11T15:15:28.924897+00:00",
+   "title": "VisionQuest’s Post-Credits Scene Has Marvel Fans Losing Their Minds, And Has Major Ramifications For Doomsday",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/visionquest-post-credits-wanda-scarlet-witch-doctor-doom-doomsday-2000755899",
+   "score": 0,
+   "sources": 1,
+   "summary": "I know some folks bought tickets for the upcoming crossover movie immediately",
+   "title_ar": ""
   },
   "kotaku.com/voters-says-no-to-trump-pilled-halo-composer-yes-to-dragon-ball-z-composer-2000753305": {
    "at": "2026-11-04T16:00:45.753677+00:00",
@@ -11793,17 +11815,6 @@
    "summary": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation.",
    "title_ar": "شركات الوساطة الأمريكية للبيانات تبيع بيئات تدريب للذكاء الاصطناعي بقيمة نصف مليار دولار لمختبرات صينية"
   },
-  "theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments": {
-   "at": "2026-11-04T15:00:44.805791+00:00",
-   "title": "Sam Altman addresses RAM comments: people should ‘put as much as they want in their computers’",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
-   "score": 3,
-   "sources": 2,
-   "summary": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases.",
-   "title_ar": "Sam Altman يرد على تعليقات الذاكرة العشوائية: يجب على الناس وضع القدر الذي يريدونه في حواسيبهم"
-  },
   "theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6": {
    "at": "2026-11-04T18:15:37.475646+00:00",
    "title": "ChatGPT will now make you animated GIFs",
@@ -12209,17 +12220,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more…",
-   "title_ar": ""
-  },
-  "theverge.com/science/1026287/spacex-qualcomm-starlink-mobile-5g-netwowrk": {
-   "at": "2026-11-04T15:00:44.805791+00:00",
-   "title": "SpaceX is working with Qualcomm to build its Starlink Mobile 5G network",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/science/1026287/spacex-qualcomm-starlink-mobile-5g-netwowrk",
-   "score": 0,
-   "sources": 1,
-   "summary": "SpaceX is teaming up with Qualcomm to build out its nationwide mobile network.",
    "title_ar": ""
   },
   "theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news": {
@@ -13622,7 +13622,7 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-11T14:45:30.134021+00:00",
-  "Anime": "2026-11-11T14:15:31.282348+00:00",
+  "Anime": "2026-11-11T15:15:28.924897+00:00",
   "Games": "2026-11-11T15:00:42.167269+00:00",
   "Tech": "2026-11-11T14:30:37.349238+00:00"
  },
