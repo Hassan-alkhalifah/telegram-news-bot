@@ -5908,17 +5908,6 @@
    "summary": "2026 brought us some incredible smartphones, tablets and other gadgets and we wanted to recognize the best of them – here are the GSMArena 2026 End-of-Year Awards Nominees.",
    "title_ar": "الإعلان عن المتأهلين للنهائيات في جوائز GSMArena نهاية عام 2026"
   },
-  "gsmarena.com/apple_expects_q4_2026_to_be_the_best_revenue_quarter_in_the_history_of_the_company-news-75332.php": {
-   "at": "2026-11-04T01:15:31.417199+00:00",
-   "title": "Apple expects its highest revenue yet in Q4, but memory prices will hurt profits",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.gsmarena.com/apple_expects_q4_2026_to_be_the_best_revenue_quarter_in_the_history_of_the_company-news-75332.php",
-   "score": 0,
-   "sources": 1,
-   "summary": "During an earnings call on November 2, the company's CFO Kevan Parekh said that Apple is expecting Q4 this year to be the best quarter in the history of the company in terms of revenue.",
-   "title_ar": ""
-  },
   "gsmarena.com/apple_releases_first_ios_273_developer_beta_heres_whats_new-news-75342.php": {
    "at": "2026-11-04T20:00:43.920914+00:00",
    "title": "Apple releases first iOS 27.3 developer beta, here's what's new",
@@ -6446,17 +6435,6 @@
    "sources": 1,
    "summary": "Last week, we reported that Oppo would unveil the Reno17 series today, but it turns out that it was incorrect.",
    "title_ar": "إطلاق هاتفي Oppo Reno17 و Reno17 Pro الأسبوع القادم"
-  },
-  "gsmarena.com/tipster_brings_bad_news_for_the_galaxy_z_fold9_and_z_fold9_ultra_cameras-news-75330.php": {
-   "at": "2026-11-04T01:15:31.417199+00:00",
-   "title": "Tipster brings bad news for the Galaxy Z Fold9 and Z Fold9 Ultra cameras",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.gsmarena.com/tipster_brings_bad_news_for_the_galaxy_z_fold9_and_z_fold9_ultra_cameras-news-75330.php",
-   "score": 1,
-   "sources": 1,
-   "summary": "The Galaxy Z Fold9 models may bring back the under-display camera next year, but that might be the only camera upgrade they get.",
-   "title_ar": ""
   },
   "gsmarena.com/vivo_also_reportedly_developing_a_widescreen_phone_for_2027_launch-news-75381.php": {
    "at": "2026-11-06T14:15:27.956842+00:00",
@@ -11199,6 +11177,17 @@
    "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era": {
+   "at": "2026-11-11T01:30:37.014997+00:00",
+   "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+   "title_ar": "بعد تحدي نظام Android من Google عبر Cyanogen، مؤسسها المشارك يستهدف نظام Windows لعصر الذكاء الاصطناعي"
+  },
   "techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo": {
    "at": "2026-11-10T20:30:43.016586+00:00",
    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
@@ -13533,7 +13522,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-11T00:45:30.160305+00:00",
+  "AI": "2026-11-11T01:30:37.014997+00:00",
   "Anime": "2026-11-10T22:00:46.065972+00:00",
   "Games": "2026-11-11T01:15:29.917807+00:00",
   "Tech": "2026-11-11T01:00:46.321581+00:00"
