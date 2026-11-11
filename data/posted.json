@@ -6183,17 +6183,6 @@
    "summary": "Samsung has been on a roll lately with its updates to One UI 9 based on Android 17, and now the latest smartphone to get the update is the Galaxy A34 from 2023.",
    "title_ar": ""
   },
-  "gsmarena.com/samsung_galaxy_a38s_battery_capacity_leaks_and_its_finally_an_upgrade-news-75337.php": {
-   "at": "2026-11-04T04:45:27.298141+00:00",
-   "title": "Samsung Galaxy A38's battery capacity leaks, and it's finally an upgrade",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.gsmarena.com/samsung_galaxy_a38s_battery_capacity_leaks_and_its_finally_an_upgrade-news-75337.php",
-   "score": 0,
-   "sources": 1,
-   "summary": "Samsung launched the Galaxy A37 back in March, and we've already heard that its successor will keep the same camera setup.",
-   "title_ar": ""
-  },
   "gsmarena.com/samsung_galaxy_buds4_pro_and_buds3_pro_will_soon_work_as_hearing_aids-news-75354.php": {
    "at": "2026-11-05T06:15:29.046043+00:00",
    "title": "Samsung Galaxy Buds4 Pro and Buds3 Pro will soon work as hearing aids",
@@ -10143,17 +10132,6 @@
    "summary": "$35 for the t-shirt, $65 for the hoodie.",
    "title_ar": ""
   },
-  "pushsquare.com/news/2026/11/dragons-dogma-2-is-getting-anime-crossover-updates-now-so-start-praying-for-berserk": {
-   "at": "2026-11-04T04:30:38.431259+00:00",
-   "title": "Dragon's Dogma 2 Is Getting Anime Crossover Updates Now, So Start Praying for Berserk",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pushsquare.com/news/2026/11/dragons-dogma-2-is-getting-anime-crossover-updates-now-so-start-praying-for-berserk",
-   "score": 0,
-   "sources": 1,
-   "summary": "Delicious in Dungeon comes to the RPG.",
-   "title_ar": ""
-  },
   "pushsquare.com/news/2026/11/following-bioware-closure-a-documentary-about-the-legendary-studio-has-been-announced": {
    "at": "2026-11-06T15:45:29.612097+00:00",
    "title": "Following BioWare Closure, a Documentary About the Legendary Studio Has Been Announced",
@@ -12420,6 +12398,17 @@
    "summary": "Google Fi is launching a new \"super network\" that can automatically switch users between two different 5G networks depending on which one has better connectivity.",
    "title_ar": "Google Fi تعيد دعم شبكات الاتصال المتعددة لتغطية أفضل"
   },
+  "theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery": {
+   "at": "2026-11-11T04:45:30.059766+00:00",
+   "title": "Starlink Mini 2 adds a swappable battery",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
+   "score": 1,
+   "sources": 1,
+   "summary": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop.",
+   "title_ar": "Starlink Mini 2 يضيف بطارية قابلة للاستبدال"
+  },
   "theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight": {
    "at": "2026-11-10T19:15:33.332806+00:00",
    "title": "Google is making Pixel HiLight slightly more useful",
@@ -13514,7 +13503,7 @@
   "AI": "2026-11-11T01:30:37.014997+00:00",
   "Anime": "2026-11-11T04:15:29.755764+00:00",
   "Games": "2026-11-11T03:15:28.303053+00:00",
-  "Tech": "2026-11-11T04:30:38.289179+00:00"
+  "Tech": "2026-11-11T04:45:30.059766+00:00"
  },
  "digest_day": "2026-11-10",
  "weekly_day": "2026-11-06"
