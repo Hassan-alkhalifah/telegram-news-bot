@@ -4412,6 +4412,17 @@
    "summary": "The chatbot was already available through the Google Maps app.",
    "title_ar": ""
   },
+  "engadget.com/2314121/united-is-restricting-ai-agents-from-booking-flights": {
+   "at": "2026-11-11T22:01:01.517047+00:00",
+   "title": "United is restricting AI agents from booking flights",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2314121/united-is-restricting-ai-agents-from-booking-flights/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The airline believes AI poses security risks and may violate DOT and FAA rules.",
+   "title_ar": ""
+  },
   "eurogamer.net/assassins-creed-mars-ancient-rome-pocket-mobile-jerusalem-rumour": {
    "at": "2026-11-07T19:30:37.184718+00:00",
    "title": "Assassin's Creed is reportedly going to ancient Rome, while a mobile spin-off heads to Jerusalem",
@@ -5368,17 +5379,6 @@
    "sources": 2,
    "summary": "Warhammer: 40,000: Dark Heresy developer Owlcat Games has confirmed that the CRPG will officially launch on January 28, 2027, for PC, PS5, and Xbox Series X|S.",
    "title_ar": "تحديد موعد إطلاق لعبة Warhammer 40,000: Dark Heresy، وهي التكملة لـ Rogue Trader، في أوائل عام 2027"
-  },
-  "gamespot.com/articles/what-might-be-a-brand-new-wow-forever-legendary-weapon-is-being-teased": {
-   "at": "2026-11-04T22:00:43.675176+00:00",
-   "title": "What Might Be A Brand-New WoW: Forever Legendary Weapon Is Being Teased",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gamespot.com/articles/what-might-be-a-brand-new-wow-forever-legendary-weapon-is-being-teased/",
-   "score": 0,
-   "sources": 1,
-   "summary": "World of Warcraft: Forever's launch is imminent, and Blizzard is using the occasion to reveal what might be the game's first new legendary weapon.",
-   "title_ar": ""
   },
   "gamespot.com/articles/wow-forever-just-received-its-first-big-post-launch-changes": {
    "at": "2026-11-10T19:15:33.332806+00:00",
@@ -8130,17 +8130,6 @@
    "summary": "Two new PS Plus titles have been revealed ahead of schedule by PlayStation themselves, thanks to a Japanese PS Blog.",
    "title_ar": ""
   },
-  "insider-gaming.com/two-new-xbox-cloud-gaming-options": {
-   "at": "2026-11-04T22:00:43.675176+00:00",
-   "title": "XBOX Announces Two New Cloud Gaming Options",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/two-new-xbox-cloud-gaming-options/",
-   "score": 0,
-   "sources": 1,
-   "summary": "XBOX has revealed two new ways to experience XBOX Cloud Gaming, adding to the robust list of options already available.",
-   "title_ar": ""
-  },
   "insider-gaming.com/xbox-ceo-announces-10-year-take-two-partnership": {
    "at": "2026-11-10T16:30:42.237205+00:00",
    "title": "XBOX CEO Reveals ‘New 10-Year Strategic Partnership’ with Take-Two",
@@ -10385,17 +10374,6 @@
    "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
    "title_ar": ""
   },
-  "techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says": {
-   "at": "2026-11-04T22:00:43.675176+00:00",
-   "title": "Almost no one uses AI agents to book their Uber, company says",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-   "score": 0,
-   "sources": 1,
-   "summary": "During its busiest week last quarter, Uber said only 4 people booked a ride using an AI agent.",
-   "title_ar": ""
-  },
   "techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy": {
    "at": "2026-11-04T22:30:50.457501+00:00",
    "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
@@ -11562,17 +11540,6 @@
    "summary": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation.",
    "title_ar": "شركات الوساطة الأمريكية للبيانات تبيع بيئات تدريب للذكاء الاصطناعي بقيمة نصف مليار دولار لمختبرات صينية"
   },
-  "theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich": {
-   "at": "2026-11-04T22:00:43.675176+00:00",
-   "title": "17 better ways Elon Musk could have wasted $446 million",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
-   "score": 0,
-   "sources": 1,
-   "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics.",
-   "title_ar": ""
-  },
   "theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs": {
    "at": "2026-11-05T15:30:43.251885+00:00",
    "title": "You can post AI music straight to SoundCloud from ElevenLabs",
@@ -11781,6 +11748,17 @@
    "sources": 1,
    "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult…",
    "title_ar": "AlphaGenome 2 من Google يغوص في الجذور الخلوية للأمراض"
+  },
+  "theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents": {
+   "at": "2026-11-11T22:01:01.517047+00:00",
+   "title": "United won’t let your AI agent book your flight",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+   "score": 2,
+   "sources": 2,
+   "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns.",
+   "title_ar": "United لن تسمح لوكيل الذكاء الاصطناعي الخاص بك بحجز رحلتك"
   },
   "theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy": {
    "at": "2026-11-06T20:15:35.094932+00:00",
@@ -12243,17 +12221,6 @@
    "sources": 1,
    "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends.",
    "title_ar": "تجربة Tabletop الذكية من Google تتيح لك بناء تطبيقات تعاونية مخصصة"
-  },
-  "theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation": {
-   "at": "2026-11-04T22:00:43.675176+00:00",
-   "title": "Uber only fulfilled 4 rides from AI agents last quarter",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
-   "score": 2,
-   "sources": 2,
-   "summary": "AI agents won't be stealing Uber's lunch any time soon.",
-   "title_ar": "أوبر نفذت 4 رحلات فقط عبر وكلاء الذكاء الاصطناعي في الربع الماضي"
   },
   "tomshardware.com/3d-printing/prusa-launches-new-carbon-3d-printing-filament-for-electronics-manufacturing-carbon-fiber-and-carbon-nanotube-filled-material-dissipates-electrostatic-energy-for-static-sensitive-electronics": {
    "at": "2026-11-11T21:01:01.435634+00:00",
@@ -13291,7 +13258,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-11T21:15:29.167728+00:00",
+  "AI": "2026-11-11T22:01:01.517047+00:00",
   "Anime": "2026-11-11T21:15:29.167728+00:00",
   "Games": "2026-11-11T21:30:40.859189+00:00",
   "Tech": "2026-11-11T21:45:31.083950+00:00"
