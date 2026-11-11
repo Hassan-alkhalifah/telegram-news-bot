@@ -11760,6 +11760,17 @@
    "summary": "Perplexity is launching \"Teammates,\" always-on agents that work through ongoing projects on their own virtual machines.",
    "title_ar": ""
   },
+  "the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs": {
+   "at": "2026-11-11T14:00:44.209801+00:00",
+   "title": "US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs/",
+   "score": 1,
+   "sources": 1,
+   "summary": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation.",
+   "title_ar": "شركات الوساطة الأمريكية للبيانات تبيع بيئات تدريب للذكاء الاصطناعي بقيمة نصف مليار دولار لمختبرات صينية"
+  },
   "theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments": {
    "at": "2026-11-04T15:00:44.805791+00:00",
    "title": "Sam Altman addresses RAM comments: people should ‘put as much as they want in their computers’",
@@ -13555,7 +13566,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-11T12:15:30.311882+00:00",
+  "AI": "2026-11-11T14:00:44.209801+00:00",
   "Anime": "2026-11-11T13:30:36.625591+00:00",
   "Games": "2026-11-11T13:15:30.235093+00:00",
   "Tech": "2026-11-11T13:45:30.225986+00:00"
