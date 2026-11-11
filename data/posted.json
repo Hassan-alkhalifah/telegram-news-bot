@@ -2553,6 +2553,17 @@
    "summary": "New teaser visual also revealed",
    "title_ar": ""
   },
+  "animenewsnetwork.com/news/2026-11-11/crunchyroll-screens-the-guy-she-was-interested-in-wasnt-a-guy-at-all-here-u-are-bless-premieres-at-/.243735": {
+   "at": "2026-11-11T22:15:40.644389+00:00",
+   "title": "Crunchyroll Screens The Guy She Was Interested In Wasn't a Guy at All, Here U Are, Bless Premieres at Anime Frontier",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-11/crunchyroll-screens-the-guy-she-was-interested-in-wasnt-a-guy-at-all-here-u-are-bless-premieres-at-/.243735",
+   "score": 0,
+   "sources": 1,
+   "summary": "Dengeki Daisy , Fate Rewinder , more anime screen at event in Fort Worth, TX",
+   "title_ar": ""
+  },
   "animenewsnetwork.com/news/2026-11-11/crunchyroll-to-stream-medaka-kuroiwa-is-impervious-to-my-charms-2nd-season-anime/.243730": {
    "at": "2026-11-11T18:15:27.122064+00:00",
    "title": "Crunchyroll to Stream Medaka Kuroiwa is Impervious to My Charms 2nd Season Anime",
@@ -2596,6 +2607,17 @@
    "sources": 1,
    "summary": "Iwai had just performed concert with MMORPG's official rock band at event in Tokyo on November 1",
    "title_ar": ""
+  },
+  "animenewsnetwork.com/news/2026-11-11/godzilla-minus-zero-film-opens-at-no.1-in-japan-grotesqqque-anime-film-at-no.8/.243685": {
+   "at": "2026-11-11T22:15:40.644389+00:00",
+   "title": "Godzilla Minus Zero Film Opens at #1 in Japan, Grotesqqque Anime Film at #8",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-11/godzilla-minus-zero-film-opens-at-no.1-in-japan-grotesqqque-anime-film-at-no.8/.243685",
+   "score": 1,
+   "sources": 1,
+   "summary": "Live-action Nanji, Hoshi no Gotoku film drops to #3",
+   "title_ar": "فيلم Godzilla Minus Zero يفتتح في المركز الأول في اليابان، وفيلم الأنمي Grotesqqque في المركز الثامن"
   },
   "animenewsnetwork.com/news/2026-11-11/gundam-seed-freedom-zero-prequel-anime-film-gets-novel/.243714": {
    "at": "2026-11-11T21:15:29.167728+00:00",
@@ -2728,17 +2750,6 @@
    "sources": 1,
    "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
    "title_ar": "عملاق تصنيع الرقاقات التايواني TSMC يستثمر مليار دولار في Anthropic وOpenAI"
-  },
-  "arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters": {
-   "at": "2026-11-04T22:15:31.253879+00:00",
-   "title": "AMD's record quarter: Data center business doubles, while gaming craters",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/",
-   "score": 2,
-   "sources": 1,
-   "summary": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.",
-   "title_ar": "ربع قياسي لشركة AMD: قطاع مراكز البيانات يتضاعف بينما يتراجع قطاع الألعاب"
   },
   "arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum": {
    "at": "2026-11-11T18:45:29.055581+00:00",
@@ -10385,17 +10396,6 @@
    "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
    "title_ar": "DuckDuckGo تسوق نفسها للمدارس وسط موجة غضب ضد سياسة Google للذكاء الاصطناعي"
   },
-  "techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month": {
-   "at": "2026-11-04T22:15:31.253879+00:00",
-   "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-   "score": 0,
-   "sources": 1,
-   "summary": "While it's not yet clear what kind of product the smart phone startup is cooking up, Nothing's CEO said that product is designed to leverage AI for productivity gains.",
-   "title_ar": ""
-  },
   "techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers": {
    "at": "2026-11-04T23:36:20.568389+00:00",
    "title": "Snapchat surpasses 30M paid subscribers",
@@ -13259,7 +13259,7 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-11T22:01:01.517047+00:00",
-  "Anime": "2026-11-11T21:15:29.167728+00:00",
+  "Anime": "2026-11-11T22:15:40.644389+00:00",
   "Games": "2026-11-11T21:30:40.859189+00:00",
   "Tech": "2026-11-11T21:45:31.083950+00:00"
  },
