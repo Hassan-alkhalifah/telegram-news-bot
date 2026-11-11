@@ -1,17 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/03/microsoft-authenticator-google-one-backup-change": {
-   "at": "2026-11-04T03:45:28.087898+00:00",
-   "title": "Microsoft Authenticator is ditching its own password backup for Google One",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/03/microsoft-authenticator-google-one-backup-change/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Microsoft is ditching its own password backup option for the Microsoft Authenticator app for Android and instead using Google One for that service. more…",
-   "title_ar": "تطبيق Microsoft Authenticator يستبدل ميزة النسخ الاحتياطي لكلمات المرور الخاصة به بخدمة Google One"
-  },
   "9to5google.com/2026/11/04/enough-phone-small-android-phone-2027": {
    "at": "2026-11-04T18:30:39.203464+00:00",
    "title": "‘Enough Phone’ is an Android phone roughly the size of iPhone 13 Mini, launching in 2027",
@@ -5941,6 +5930,17 @@
    "summary": "Android Authority app teardown reveals some cool new features coming to Gboard's AI-powered voice typing feature called Rambler.",
    "title_ar": "جوجل ستضيف مفردات الكلمات المُصَحَّحَة إلى ميزة الكتابة الصوتية Rambler في لوحة المفاتيح Gboard"
   },
+  "gsmarena.com/googles_november_pixel_drop_brings_gemini_intelligence_to_the_pixel_10-news-75430.php": {
+   "at": "2026-11-11T03:45:34.849127+00:00",
+   "title": "Google's November Pixel Drop brings Gemini Intelligence to the Pixel 10",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/googles_november_pixel_drop_brings_gemini_intelligence_to_the_pixel_10-news-75430.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "Google's November Pixel Drop is starting to roll out, and it makes Gemini Intelligence available on the Pixel 10 family (except for the Pixel 10a), bringing features like Rambler, proactive…",
+   "title_ar": ""
+  },
   "gsmarena.com/heres_when_the_huawei_mate_80_air_is_rumored_to_launch-news-75352.php": {
    "at": "2026-11-05T07:30:35.267354+00:00",
    "title": "Here's when the Huawei Mate 80 Air is rumored to launch",
@@ -8887,17 +8887,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Harder dungeons might be coming to the remake soon, but that’s not the most surprising thing in the Switch 2 game’s files",
-   "title_ar": ""
-  },
-  "myanimelist.net/news/74903023?_location=rss": {
-   "at": "2026-11-04T03:45:28.087898+00:00",
-   "title": "'Watashi wo Center ni Suru to Chikaimasu ka?' Reveals Main Cast, Staff, Opening Theme, Teaser Promo",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://myanimelist.net/news/74903023?_location=rss",
-   "score": 0,
-   "sources": 1,
-   "summary": "The official website of the Watashi wo Center ni Suru to Chikaimasu ka?",
    "title_ar": ""
   },
   "myanimelist.net/news/74903583?_location=rss": {
@@ -11991,6 +11980,17 @@
    "summary": "Motorola is trying something it hasn't attempted in the modern smartphone era: to make an all-out flagship slab-style phone.",
    "title_ar": ""
   },
+  "theverge.com/gadgets/1031284/oura-counsel-health-acquisition": {
+   "at": "2026-11-11T03:45:34.849127+00:00",
+   "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+   "score": 1,
+   "sources": 1,
+   "summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year.",
+   "title_ar": "شركة Oura تستحوذ على شركة الناشئة للروبوتات الطبية بالذكاء الاصطناعي Counsel Health"
+  },
   "theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center": {
    "at": "2026-11-04T17:15:28.098046+00:00",
    "title": "Nintendo is losing a Switch cartridge supplier",
@@ -13503,7 +13503,7 @@
   "AI": "2026-11-11T01:30:37.014997+00:00",
   "Anime": "2026-11-11T02:15:32.253391+00:00",
   "Games": "2026-11-11T03:15:28.303053+00:00",
-  "Tech": "2026-11-11T03:30:37.806417+00:00"
+  "Tech": "2026-11-11T03:45:34.849127+00:00"
  },
  "digest_day": "2026-11-10",
  "weekly_day": "2026-11-06"
