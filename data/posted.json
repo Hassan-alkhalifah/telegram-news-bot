@@ -23,17 +23,6 @@
    "summary": "Microsoft is ditching its own password backup option for the Microsoft Authenticator app for Android and instead using Google One for that service. more…",
    "title_ar": "تطبيق Microsoft Authenticator يستبدل ميزة النسخ الاحتياطي لكلمات المرور الخاصة به بخدمة Google One"
   },
-  "9to5google.com/2026/11/03/xbox-nano-controller-cloud-gaming-stadia": {
-   "at": "2026-11-04T02:45:27.474884+00:00",
-   "title": "Google’s Stadia Controller dream lives on in the $50 Xbox Nano Controller",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/03/xbox-nano-controller-cloud-gaming-stadia/",
-   "score": 1,
-   "sources": 1,
-   "summary": "The Stadia Controller introduced the idea of connecting directly to cloud gaming via its own Wi-Fi connection and, while Google’s platform is long dead, that dream lives on in the latest Xbox…",
-   "title_ar": "حلم وحدة تحكم Stadia من Google يستمِر في وحدة تحكم Xbox Nano بسعر 50 دولاراً"
-  },
   "9to5google.com/2026/11/04/enough-phone-small-android-phone-2027": {
    "at": "2026-11-04T18:30:39.203464+00:00",
    "title": "‘Enough Phone’ is an Android phone roughly the size of iPhone 13 Mini, launching in 2027",
@@ -604,17 +593,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Starting with macOS 27.3, users can preview Markdown files with proper formatting directly in Quick Look.",
-   "title_ar": ""
-  },
-  "9to5mac.com/2026/11/03/macos-27-3-includes-cool-looking-pro-screensaver-from-new-touchscreen-macbook-pro": {
-   "at": "2026-11-04T02:45:27.474884+00:00",
-   "title": "macOS 27.3 includes cool-looking ‘Pro’ screensaver from new touchscreen MacBook Pro",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/03/macos-27-3-includes-cool-looking-pro-screensaver-from-new-touchscreen-macbook-pro/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Included in today’s macOS 27.3 beta 1 is a great-looking screensaver featuring an animated version of the new MacBook Pro with PROLED XDR Displa y wallpaper.",
    "title_ar": ""
   },
   "9to5mac.com/2026/11/04/apple-disables-siri-ai-waitlist-in-ios-27-with-one-exception": {
@@ -3476,17 +3454,6 @@
    "sources": 1,
    "summary": "You'll be warned if your credentials stored in Apple Passwords are weak or compromised so you can take appropriate action.",
    "title_ar": "كيف تنبهك iOS عندما تظهر إحدى كلمات المرور الخاصة بك في تسريب للبيانات"
-  },
-  "engadget.com/2305576/razer-unveils-the-raiju-v3-pro-signature-edition-ps5-controller": {
-   "at": "2026-11-04T02:42:21.975227+00:00",
-   "title": "Razer unveils the Raiju V3 Pro Signature Edition PS5 controller",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2305576/razer-unveils-the-raiju-v3-pro-signature-edition-ps5-controller/",
-   "score": 1,
-   "sources": 1,
-   "summary": "It sure is pretty and will likely be expensive.",
-   "title_ar": "Razer تكشف عن وحدة التحكم Raiju V3 Pro Signature Edition لجهاز PS5"
   },
   "engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games": {
    "at": "2026-11-04T08:45:29.067114+00:00",
@@ -6744,6 +6711,17 @@
    "summary": "Rockstar may officially release GTA 6 on PC soon after console over concern about AI-generated clones, one former developer has said.",
    "title_ar": ""
   },
+  "ign.com/articles/fortis-games-closes-with-over-400-jobs-impacted": {
+   "at": "2026-11-11T02:45:29.492846+00:00",
+   "title": "Fortis Games Closes With Over 400 Jobs Impacted",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.ign.com/articles/fortis-games-closes-with-over-400-jobs-impacted",
+   "score": 3,
+   "sources": 2,
+   "summary": "Fortis Games, a studio behind mobile titles like Twilight Towers and Bloom & Breakfast, has closed its doors, impacting around 440 jobs.",
+   "title_ar": "إغلاق استوديو Fortis Games مع تأثر أكثر من 400 وظيفة"
+  },
   "ign.com/articles/god-of-war-laufey-delayed-to-may-2027": {
    "at": "2026-11-04T17:30:37.039359+00:00",
    "title": "God of War Laufey Delayed to May 2027",
@@ -7612,6 +7590,17 @@
    "sources": 1,
    "summary": "Todd Howard is associated with Bethesda for good reason, and a former veteran of the company has opened up about working with him.",
    "title_ar": "مخضرم سابق في Bethesda يكشف عن كواليس العمل مع Todd Howard"
+  },
+  "insider-gaming.com/fortis-games-shuts-down-440-jobs-expected-lost": {
+   "at": "2026-11-11T02:45:29.492846+00:00",
+   "title": "Fortis Games Shuts Down, 440 Jobs Expected to Be Lost",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/fortis-games-shuts-down-440-jobs-expected-lost/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Fortis Games is shutting down, with approximately 440 employees expected to lose their jobs following the company's decision.",
+   "title_ar": ""
   },
   "insider-gaming.com/god-of-war-laufey-release-date-delayed": {
    "at": "2026-11-04T17:15:28.098046+00:00",
@@ -13513,7 +13502,7 @@
  "topic_last_posted": {
   "AI": "2026-11-11T01:30:37.014997+00:00",
   "Anime": "2026-11-11T02:15:32.253391+00:00",
-  "Games": "2026-11-11T02:00:42.717663+00:00",
+  "Games": "2026-11-11T02:45:29.492846+00:00",
   "Tech": "2026-11-11T02:30:37.856157+00:00"
  },
  "digest_day": "2026-11-10",
