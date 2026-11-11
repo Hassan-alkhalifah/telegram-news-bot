@@ -1497,6 +1497,17 @@
    "summary": "On some journeys in busy cities, it feels like it can take you longer to park than it does to drive there in the first place.",
    "title_ar": "قد تأخذ خرائط Apple في الاعتبار قريباً الوقت المستغرق لركن سيارتك"
   },
+  "9to5mac.com/2026/11/10/apple-music-debuts-labrinths-new-single-created-live-on-the-touchscreen-macbook-pro": {
+   "at": "2026-11-11T01:45:29.679063+00:00",
+   "title": "Apple Music debuts Labrinth’s new single, created live on the touchscreen MacBook Pro",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/10/apple-music-debuts-labrinths-new-single-created-live-on-the-touchscreen-macbook-pro/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Following last week’s livestream , when Labrinth composed and recorded a song overnight at Apple Tower Theatre in Los Angeles on the new touchscreen MacBook Pro , the single is now available on…",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/10/apple-tv-new-sign-language-accessibility": {
    "at": "2026-11-10T16:15:34.950976+00:00",
    "title": "Apple TV launches new sign language accessibility feature",
@@ -2915,17 +2926,6 @@
    "sources": 1,
    "summary": "Adaptation based on light novel series broadcasts in Japan in January",
    "title_ar": ""
-  },
-  "crunchyroll.com/news/latest/2026/11/4/made-in-abyss-mezameru-shinpi-anime-film-theme-song-lyric-video": {
-   "at": "2026-11-04T01:45:27.842566+00:00",
-   "title": "Made in Abyss: Mezameru Shinpi Anime Film Shares Theme Song Lyric Video",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://crunchyroll.com/news/latest/2026/11/4/made-in-abyss-mezameru-shinpi-anime-film-theme-song-lyric-video",
-   "score": 1,
-   "sources": 1,
-   "summary": "The movie opened in Japan on October 23",
-   "title_ar": "فيلم الأنمي Made in Abyss: Mezameru Shinpi ينشر فيديو كلمات الأغنية الرئيسية"
   },
   "crunchyroll.com/news/latest/2026/11/4/oshiri-tantei-anime-new-series-april-2027": {
    "at": "2026-11-04T17:15:28.098046+00:00",
@@ -11342,6 +11342,17 @@
    "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
    "title_ar": "ميزة AI DJ من Spotify تحصل على أصوات وشخصيات جديدة وخيار لتقليل الثرثرة"
   },
+  "techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement": {
+   "at": "2026-11-11T01:45:29.679063+00:00",
+   "title": "X launches its own clipping feature to spur influencer engagement",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+   "score": 1,
+   "sources": 1,
+   "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
+   "title_ar": "منصة X تطلق ميزة قص الفيديوهات الخاصة بها لتحفيز تفاعل المؤثرين"
+  },
   "the-decoder.com/after-midterm-rout-openai-tries-to-win-over-communities-it-needs-for-ai-expansion": {
    "at": "2026-11-05T16:30:41.806402+00:00",
    "title": "After midterm rout, OpenAI tries to win over communities it needs for AI expansion",
@@ -12166,17 +12177,6 @@
    "sources": 1,
    "summary": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier.",
    "title_ar": ""
-  },
-  "theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc": {
-   "at": "2026-11-04T01:33:15.788529+00:00",
-   "title": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
-   "score": 1,
-   "sources": 1,
-   "summary": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly…",
-   "title_ar": "AMD تحقق أرباحاً قياسية بفضل مراكز البيانات وتعلن عن الربع الأكبر والأكثر ربحية في تاريخها"
   },
   "theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3": {
    "at": "2026-11-04T18:45:30.308269+00:00",
@@ -13525,7 +13525,7 @@
   "AI": "2026-11-11T01:30:37.014997+00:00",
   "Anime": "2026-11-10T22:00:46.065972+00:00",
   "Games": "2026-11-11T01:15:29.917807+00:00",
-  "Tech": "2026-11-11T01:00:46.321581+00:00"
+  "Tech": "2026-11-11T01:45:29.679063+00:00"
  },
  "digest_day": "2026-11-10",
  "weekly_day": "2026-11-06"
