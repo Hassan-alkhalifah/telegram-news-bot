@@ -551,6 +551,17 @@
    "summary": "Good morning.",
    "title_ar": ""
   },
+  "9to5google.com/2026/11/11/android-auto-gemini-intelligence-pixel": {
+   "at": "2026-11-11T18:00:44.161979+00:00",
+   "title": "Android Auto is getting a Gemini upgrade, but only if you use a Pixel",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5google.com/2026/11/11/android-auto-gemini-intelligence-pixel/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Google has confirmed that Gemini on Android Auto is adding “proactive suggestions” soon, but only for Pixel users. more…",
+   "title_ar": ""
+  },
   "9to5google.com/2026/11/11/buy-pixel-tag": {
    "at": "2026-11-11T15:30:36.645109+00:00",
    "title": "You can now buy the Pixel Tag, cases from Bellroy & Spigen available",
@@ -571,6 +582,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Like on Android Auto and Automotive, Google is bringing the Gemini app to CarPlay.",
+   "title_ar": ""
+  },
+  "9to5google.com/2026/11/11/google-pixel-tag-launch-countries": {
+   "at": "2026-11-11T18:00:44.161979+00:00",
+   "title": "Google Pixel Tag is only available in 8 countries, and excludes Europe",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5google.com/2026/11/11/google-pixel-tag-launch-countries/",
+   "score": 0,
+   "sources": 1,
+   "summary": "With Google’s Pixel Tag now offiically available, Google has also confirmed where the Android Find Hub tracker will be on sale, and it’s a limited list. more…",
    "title_ar": ""
   },
   "9to5mac.com/2026/11/04/apple-disables-siri-ai-waitlist-in-ios-27-with-one-exception": {
@@ -5963,6 +5985,17 @@
    "summary": "Huawei unveiled the Mate 70 Air around one year ago as its entry into the 'thin smartphone' segment, and while its successor has been rumored for a while now, it's still nowhere to be seen.",
    "title_ar": "الكشف المتوقع عن موعد إطلاق Huawei Mate 80 Air"
   },
+  "gsmarena.com/heres_your_first_look_at_nothings_upcoming_screenless_ainative_device-news-75439.php": {
+   "at": "2026-11-11T18:00:44.161979+00:00",
+   "title": "Here's your first look at Nothing's upcoming screenless AI-native device",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.gsmarena.com/heres_your_first_look_at_nothings_upcoming_screenless_ainative_device-news-75439.php",
+   "score": 1,
+   "sources": 1,
+   "summary": "Nothing CEO Carl Pei recently confirmed that the company would launch its first AI-native product next month, sharing an early teaser of the device.",
+   "title_ar": "إليك نظرتك الأولى على جهاز Nothing القادم المدعوم بالذكاء الاصطناعي بلا شاشة"
+  },
   "gsmarena.com/honor_700_series_design_officially_revealed_all_models_to_include_a_rear_display-news-75376.php": {
    "at": "2026-11-06T06:15:34.095556+00:00",
    "title": "Honor 700 series design officially revealed, all models to include a rear display",
@@ -6083,17 +6116,6 @@
    "sources": 1,
    "summary": "Last week, an Oppo smartphone bearing the model number PNC110 appeared on China's Ministry of Industry and Information Technology (MIIT) website with a 12,000mAh battery.",
    "title_ar": "تسريبات تشير إلى إطلاق Oppo A7 Ultra الشهر القادم بطارية سعة 12000 ميللي أمبير"
-  },
-  "gsmarena.com/oppo_find_n7_officially_confirmed_to_arrive_in_europe-news-75346.php": {
-   "at": "2026-11-04T17:57:51.907889+00:00",
-   "title": "Oppo Find N7 officially confirmed to arrive in Europe",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.gsmarena.com/oppo_find_n7_officially_confirmed_to_arrive_in_europe-news-75346.php",
-   "score": 1,
-   "sources": 1,
-   "summary": "Some good news for foldable fans came from an interview with one of Oppo's regional Product Managers.",
-   "title_ar": "التأكيد رسمياً على وصول Oppo Find N7 إلى أوروبا"
   },
   "gsmarena.com/oppo_find_x10_ultra_may_have_been_cancelled-news-75380.php": {
    "at": "2026-11-06T22:45:30.367612+00:00",
@@ -13415,8 +13437,8 @@
   "AI": "2026-11-11T16:45:32.952044+00:00",
   "Anime": "2026-11-11T17:45:30.625207+00:00",
   "Games": "2026-11-11T17:00:46.445959+00:00",
-  "Tech": "2026-11-11T17:30:36.579050+00:00"
+  "Tech": "2026-11-11T18:00:44.161979+00:00"
  },
- "digest_day": "2026-11-10",
+ "digest_day": "2026-11-11",
  "weekly_day": "2026-11-06"
 }
