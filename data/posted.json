@@ -11991,6 +11991,17 @@
    "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations.",
    "title_ar": ""
   },
+  "theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now": {
+   "at": "2026-11-11T00:45:30.160305+00:00",
+   "title": "Anthropic has its own AI-powered office suite now",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+   "score": 1,
+   "sources": 1,
+   "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to…",
+   "title_ar": "شركة Anthropic تطلق حزمة مكتبية مدعومة بالذكاء الاصطناعي"
+  },
   "theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout": {
    "at": "2026-11-11T00:30:39.786741+00:00",
    "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
@@ -13544,7 +13555,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-11T00:15:31.341916+00:00",
+  "AI": "2026-11-11T00:45:30.160305+00:00",
   "Anime": "2026-11-10T22:00:46.065972+00:00",
   "Games": "2026-11-10T23:59:41.496286+00:00",
   "Tech": "2026-11-11T00:30:39.786741+00:00"
