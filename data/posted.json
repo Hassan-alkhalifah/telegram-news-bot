@@ -9362,17 +9362,6 @@
    "summary": "Well, that's good.",
    "title_ar": ""
   },
-  "nintendolife.com/news/2026/11/nintendo-joins-the-accessible-games-initiative-adopting-a-bunch-of-new-eshop-game-tags": {
-   "at": "2026-11-04T14:00:46.156114+00:00",
-   "title": "Nintendo Joins The Accessible Games Initiative, Adopting A Bunch Of New eShop Game Tags",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.nintendolife.com/news/2026/11/nintendo-joins-the-accessible-games-initiative-adopting-a-bunch-of-new-eshop-game-tags",
-   "score": 0,
-   "sources": 1,
-   "summary": "Tag, you're it!",
-   "title_ar": ""
-  },
   "nintendolife.com/news/2026/11/nintendo-reconfirms-release-windows-for-upcoming-switch-2-games": {
    "at": "2026-11-05T09:15:30.311315+00:00",
    "title": "Nintendo Reconfirms Release Windows For Upcoming Switch 2 Games",
@@ -12519,6 +12508,17 @@
    "summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs…",
    "title_ar": "منافس تقنية DLSS من Microsoft متوفر الآن لأجهزة Xbox Ally X ويعمل في وضع الأجهزة المحمولة"
   },
+  "theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai": {
+   "at": "2026-11-11T14:08:28.032764+00:00",
+   "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+   "score": 0,
+   "sources": 1,
+   "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today…",
+   "title_ar": ""
+  },
   "theverge.com/tech/1031507/apple-community-support-forum-shutting-down": {
    "at": "2026-11-11T12:30:40.486421+00:00",
    "title": "Apple is killing its Support Community forum next week",
@@ -13091,6 +13091,17 @@
    "summary": "Nintendo's Switch 2 sales decreased by 41% compared to the same time frame last year due to an increase in the console's price.",
    "title_ar": ""
   },
+  "tomshardware.com/video-games/nintendo/nintendo-unleashes-dmca-takedown-wave-against-open-source-switch-modchip-firmware-144-tools-disabled-picofly-sx-core-and-hwfly-among-casualties-following-criminal-trial-victory": {
+   "at": "2026-11-11T14:08:28.032764+00:00",
+   "title": "Nintendo unleashes DMCA takedown wave against open-source Switch modchip firmware, 144 tools disabled",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/video-games/nintendo/nintendo-unleashes-dmca-takedown-wave-against-open-source-switch-modchip-firmware-144-tools-disabled-picofly-sx-core-and-hwfly-among-casualties-following-criminal-trial-victory",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nintendo is going after the open-source firmware behind hardware modchips on Nintendo Switch",
+   "title_ar": ""
+  },
   "tomshardware.com/video-games/nintendo/nintendos-latest-zelda-remake-already-circulating-online-as-a-switch-2-rom-openai-assisted-software-jailbreak-new-game-dumper-let-pirates-share-game-for-free-immediately-following-release": {
    "at": "2026-11-06T11:00:47.756112+00:00",
    "title": "Nintendo’s latest Zelda remake already circulating online as a Switch 2 ROM",
@@ -13145,17 +13156,6 @@
    "sources": 2,
    "summary": "007 First Light's opening mission can be played for free in a new demo.",
    "title_ar": "يمكنكم الآن تجربة بداية لعبة 007 First Light مجاناً"
-  },
-  "videogameschronicle.com/news/accessible-games-initiative-tags-adopted-by-nintendo-xbox-ubisoft-and-ea-making-it-easier-to-find-accessibility-features": {
-   "at": "2026-11-04T14:00:46.156114+00:00",
-   "title": "Accessible Games Initiative tags adopted by Nintendo, Xbox, Ubisoft and EA, making it easier to find accessibility features",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.videogameschronicle.com/news/accessible-games-initiative-tags-adopted-by-nintendo-xbox-ubisoft-and-ea-making-it-easier-to-find-accessibility-features/",
-   "score": 3,
-   "sources": 2,
-   "summary": "Riot Games and Google have also started to use the tags",
-   "title_ar": "اعتماد وسوم مبادرة الألعاب المتاحة من قبل Nintendo وXbox وUbisoft وEA لتسهيل العثور على ميزات إمكانية الوصول"
   },
   "videogameschronicle.com/news/arkane-union-says-xbox-is-sabotaging-blade-development": {
    "at": "2026-11-04T18:15:37.475646+00:00",
@@ -13321,6 +13321,17 @@
    "sources": 1,
    "summary": "Nintendo Switch 2 has sold 26.35 million consoles as sales continue to slow",
    "title_ar": ""
+  },
+  "videogameschronicle.com/news/nintendos-battle-against-piracy-continues-with-a-dmca-takedown-on-switch-mod-chip-firmware": {
+   "at": "2026-11-11T14:08:28.032764+00:00",
+   "title": "Nintendo’s battle against piracy continues with a DMCA takedown on Switch mod chip firmware",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.videogameschronicle.com/news/nintendos-battle-against-piracy-continues-with-a-dmca-takedown-on-switch-mod-chip-firmware/",
+   "score": 3,
+   "sources": 2,
+   "summary": "GitHub has shut down 144 repositories hosting firmware for Picofly and other chips",
+   "title_ar": "معركة Nintendo ضد القرصنة تستمر مع طلب إزالة بموجب قانون DMCA يستهدف البرامج الثابتة لقطع تعديل Switch"
   },
   "videogameschronicle.com/news/playstation-5-officially-clears-100-million-consoles-shipped": {
    "at": "2026-11-11T11:30:35.922528+00:00",
@@ -13552,23 +13563,12 @@
    "sources": 1,
    "summary": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable.",
    "title_ar": ""
-  },
-  "wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google": {
-   "at": "2026-11-04T14:00:46.156114+00:00",
-   "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
-   "score": 2,
-   "sources": 1,
-   "summary": "The AI minister now concedes the estimated figure is less than a third of that.",
-   "title_ar": "مسؤولو المملكة المتحدة قالوا إن الذكاء الاصطناعي سيضيف 400 مليار جنيه استرليني إلى الاقتصاد، وهذا الرقم جاء أساساً من Google"
   }
  },
  "topic_last_posted": {
   "AI": "2026-11-11T14:00:44.209801+00:00",
   "Anime": "2026-11-11T13:30:36.625591+00:00",
-  "Games": "2026-11-11T13:15:30.235093+00:00",
+  "Games": "2026-11-11T14:08:28.032764+00:00",
   "Tech": "2026-11-11T13:45:30.225986+00:00"
  },
  "digest_day": "2026-11-10",
