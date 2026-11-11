@@ -595,28 +595,6 @@
    "summary": "Good morning.",
    "title_ar": ""
   },
-  "9to5mac.com/2026/11/03/apple-watch-challenge-set-for-veterans-day": {
-   "at": "2026-11-04T02:30:37.479110+00:00",
-   "title": "Apple Watch Challenge set for Veterans Day",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/03/apple-watch-challenge-set-for-veterans-day/",
-   "score": 1,
-   "sources": 1,
-   "summary": "The next Apple Watch fitness challenge is set for Veterans Day on Wednesday, November 11th, 2026.",
-   "title_ar": "تحدي Apple Watch بمناسبة يوم المحاربين القدامى"
-  },
-  "9to5mac.com/2026/11/03/developers-can-now-create-advanced-app-skills-for-siri-ai": {
-   "at": "2026-11-04T02:15:32.587032+00:00",
-   "title": "Developers can now create advanced ‘app skills’ for Siri AI",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/03/developers-can-now-create-advanced-app-skills-for-siri-ai/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple today announced a major new Siri AI initiative for third-party developers, allowing any app to create Siri AI integrations for the first time.",
-   "title_ar": ""
-  },
   "9to5mac.com/2026/11/03/macos-27-3-adds-native-markdown-rendering-to-quick-look": {
    "at": "2026-11-04T05:45:28.189099+00:00",
    "title": "macOS 27.3 adds native Markdown rendering to Quick Look",
@@ -638,17 +616,6 @@
    "sources": 1,
    "summary": "Included in today’s macOS 27.3 beta 1 is a great-looking screensaver featuring an animated version of the new MacBook Pro with PROLED XDR Displa y wallpaper.",
    "title_ar": ""
-  },
-  "9to5mac.com/2026/11/03/stick-season-2-premieres-on-apple-tv": {
-   "at": "2026-11-04T02:15:32.587032+00:00",
-   "title": "‘Stick’ season 2 premieres on Apple TV",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/03/stick-season-2-premieres-on-apple-tv/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Apple TV subscribers can now watch the first two episodes of the new season of “ Stick ,” starring Owen Wilson ( Midnight In Paris ), Rhea Seehorn ( Pluribus ), and Timothy Olyphant ( Justified )…",
-   "title_ar": "عرض الموسم الثاني من مسلسل Stick على منصة Apple TV"
   },
   "9to5mac.com/2026/11/04/apple-disables-siri-ai-waitlist-in-ios-27-with-one-exception": {
    "at": "2026-11-04T20:30:37.302821+00:00",
@@ -3004,17 +2971,6 @@
    "summary": "New key art and cast were also revealed for the ongoing season",
    "title_ar": ""
   },
-  "crunchyroll.com/news/latest/2026/11/4/tank-chair-anime-opening-song-music-video-sim": {
-   "at": "2026-11-04T02:30:37.479110+00:00",
-   "title": "SiM Releases Tank Chair Anime Opening Song Music Video",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://crunchyroll.com/news/latest/2026/11/4/tank-chair-anime-opening-song-music-video-sim",
-   "score": 0,
-   "sources": 1,
-   "summary": "Tank Chair manga author is also involved in the music video production",
-   "title_ar": ""
-  },
   "crunchyroll.com/news/latest/2026/11/5/a-certain-dark-item-anime-opening-song-music-video-east-of-eden": {
    "at": "2026-11-05T02:45:29.768247+00:00",
    "title": "East Of Eden Releases A Certain Dark Item Anime Opening Song Music Video",
@@ -3740,6 +3696,17 @@
    "sources": 1,
    "summary": "These tweaks can help you squeeze better performance and cleaner visuals from your favorite PC gaming titles on multiple types of hardware.",
    "title_ar": ""
+  },
+  "engadget.com/2307810/xiaomi-phones-no-longer-supported-hyper-os-4-update": {
+   "at": "2026-11-11T02:30:37.856157+00:00",
+   "title": "These Xiaomi phones are no longer getting support with the latest HyperOS 4 update",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2307810/xiaomi-phones-no-longer-supported-hyper-os-4-update/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Xiaomi's HyperOS 4 update includes intriguing new features like Soft Light Glass, memory improvements and more, but the not everyone will get the perks.",
+   "title_ar": "هواتف Xiaomi هذه لن تحصل بعد الآن على الدعم لتحديث HyperOS 4 الأخير"
   },
   "engadget.com/2308154/iphone-duo-new-accessibility-feature-ios-27-3-beta-reachability": {
    "at": "2026-11-05T18:15:31.101764+00:00",
@@ -13547,7 +13514,7 @@
   "AI": "2026-11-11T01:30:37.014997+00:00",
   "Anime": "2026-11-11T02:15:32.253391+00:00",
   "Games": "2026-11-11T02:00:42.717663+00:00",
-  "Tech": "2026-11-11T01:45:29.679063+00:00"
+  "Tech": "2026-11-11T02:30:37.856157+00:00"
  },
  "digest_day": "2026-11-10",
  "weekly_day": "2026-11-06"
