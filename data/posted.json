@@ -606,17 +606,6 @@
    "summary": "MacPaw, the makers of CleanMyMac and Setapp, have an AI assistant called Eney that’s designed for Apple users.",
    "title_ar": ""
   },
-  "9to5mac.com/2026/11/03/follow-todays-midterm-election-results-with-the-apple-news-live-activity": {
-   "at": "2026-11-04T00:15:29.863184+00:00",
-   "title": "Follow today’s midterm election results with the Apple News Live Activity",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/03/follow-todays-midterm-election-results-with-the-apple-news-live-activity/",
-   "score": 0,
-   "sources": 1,
-   "summary": "With votes now being counted in the US midterm elections, the Apple News app offers a convenient way to follow the results in real time.",
-   "title_ar": ""
-  },
   "9to5mac.com/2026/11/03/macos-27-3-adds-native-markdown-rendering-to-quick-look": {
    "at": "2026-11-04T05:45:28.189099+00:00",
    "title": "macOS 27.3 adds native Markdown rendering to Quick Look",
@@ -8812,6 +8801,17 @@
    "summary": "Sony cites a 'production issue' as hardware shortages stymie what would have been an otherwise whirlwind holiday season for the console",
    "title_ar": "سوني تؤجل إطلاق مكبرات الصوت اللاسلكية PlayStation Pulse قبل أسبوع واحد من موعدها"
   },
+  "kotaku.com/sony-kills-playstation-pc-app-most-people-never-heard-of-and-only-0-4-percent-of-players-used-2000755607": {
+   "at": "2026-11-11T00:15:31.341916+00:00",
+   "title": "Sony Kills PlayStation PC App Most People Never Heard Of And Only 0.4 Percent Of Players Used",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/sony-kills-playstation-pc-app-most-people-never-heard-of-and-only-0-4-percent-of-players-used-2000755607",
+   "score": 0,
+   "sources": 1,
+   "summary": "The PS Plus app for PC is the latest victim of Sony's pivot back to console",
+   "title_ar": ""
+  },
   "kotaku.com/sony-playstation-portal-japan-only-internal-storage-ps5-streaming-2000754915": {
    "at": "2026-11-09T13:15:31.286397+00:00",
    "title": "Sony Announces New Japan-Only PlayStation Portal With Internal Storage",
@@ -11529,6 +11529,17 @@
    "summary": "Anthropic is releasing Claude Fable 5.2 and Mythos 5.2, its most powerful models to date, in two versions: one freely available and one reserved for verified organizations.",
    "title_ar": ""
   },
+  "the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet": {
+   "at": "2026-11-11T00:15:31.341916+00:00",
+   "title": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Google is making Gemini 4 Carbon generally available after a two-week testing phase.",
+   "title_ar": "إطلاق Gemini 4 Carbon في الوقت المناسب ليبدو وكأنه أخبار الأمس في أسرع دورة نماذج حتى الآن"
+  },
   "the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot": {
    "at": "2026-11-10T17:15:31.033273+00:00",
    "title": "Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot",
@@ -12111,17 +12122,6 @@
    "sources": 1,
    "summary": "Rockstar Games is making Grand Theft Auto VI available on Xbox Cloud Gaming when it launches next week.",
    "title_ar": ""
-  },
-  "theverge.com/policy/1020640/midterm-elections-2026-all-the-news": {
-   "at": "2026-11-04T00:15:29.863184+00:00",
-   "title": "Midterm elections 2026: all the news",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
-   "score": 2,
-   "sources": 2,
-   "summary": "The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028 presidential election.",
-   "title_ar": "انتخابات التجديد النصفي 2026: كل الأخبار"
   },
   "theverge.com/policy/1026329/elon-musk-paxton-talarico-texas-election-funding": {
    "at": "2026-11-04T17:45:29.700813+00:00",
@@ -13522,7 +13522,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-10T23:45:31.690095+00:00",
+  "AI": "2026-11-11T00:15:31.341916+00:00",
   "Anime": "2026-11-10T22:00:46.065972+00:00",
   "Games": "2026-11-10T23:59:41.496286+00:00",
   "Tech": "2026-11-11T00:00:44.402594+00:00"
