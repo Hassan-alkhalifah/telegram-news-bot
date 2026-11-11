@@ -1,17 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/03/android-auto-18-1-update-rollout-teardown": {
-   "at": "2026-11-04T03:15:30.028335+00:00",
-   "title": "Android Auto 18.1 update rolling out with additional prep for light mode and redesign",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/03/android-auto-18-1-update-rollout-teardown/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Google is rolling out Android Auto 18.1 to the masses and, while there are no major changes, the update continues to work on upcoming changes. more…",
-   "title_ar": "إطلاق تحديث Android Auto 18.1 مع استعدادات إضافية للوضع الفاتح وإعادة التصميم"
-  },
   "9to5google.com/2026/11/03/microsoft-authenticator-google-one-backup-change": {
    "at": "2026-11-04T03:45:28.087898+00:00",
    "title": "Microsoft Authenticator is ditching its own password backup for Google One",
@@ -1826,17 +1815,6 @@
    "sources": 1,
    "summary": "The official website for the hip-hop-themed multimedia franchise presented the early teaser visual for its upcoming film project on Friday.",
    "title_ar": "الإعلان عن عنوان وموعد عرض فيلم Paradox Live The Animation في عام 2027"
-  },
-  "animenewsnetwork.com/news/2026-11-03/pero-pero-sparkles-anime-reveals-cast-staff-january-debut/.243506": {
-   "at": "2026-11-04T03:30:35.902926+00:00",
-   "title": "Pero Pero★Sparkles Anime Reveals Cast, Staff, January Debut",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-03/pero-pero-sparkles-anime-reveals-cast-staff-january-debut/.243506",
-   "score": 1,
-   "sources": 1,
-   "summary": "Yuki Sakakihara, Mai Kanno, Ai Fairouz, Yōhei Azakami star",
-   "title_ar": "أنمي Pero Pero★Sparkles يكشف عن طاقم العمل وفريق الإنتاج وموعد العرض في يناير"
   },
   "animenewsnetwork.com/news/2026-11-04/godzilla-minus-zero-earns-highest-ever-opening-day-for-live-action-film-in-japan/.243535": {
    "at": "2026-11-05T02:15:29.421197+00:00",
@@ -6149,17 +6127,6 @@
    "sources": 1,
    "summary": "Some key specs for an upcoming Realme 17 Pro-series phone leaked last month, but its identity wasn't clear - it could have been either the Pro or the Pro+.",
    "title_ar": "تسريب جديد لمواصفات Realme 17 Pro يساعد في توضيح موقعه ضمن تشكيلة الهواتف القادمة"
-  },
-  "gsmarena.com/redmi_turbo_6_max_screen_details_leak_this_could_turn_into_the_poco_x9_pro_max-news-75331.php": {
-   "at": "2026-11-04T03:15:30.028335+00:00",
-   "title": "Redmi Turbo 6 Max screen details leak, this could turn into the Poco X9 Pro Max",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.gsmarena.com/redmi_turbo_6_max_screen_details_leak_this_could_turn_into_the_poco_x9_pro_max-news-75331.php",
-   "score": 0,
-   "sources": 1,
-   "summary": "Redmi launched the Turbo 5 Max back in January, and its successor's design has already leaked.",
-   "title_ar": ""
   },
   "gsmarena.com/redmi_turbo_6_maxs_battery_capacity_leaks_and_its_huge-news-75348.php": {
    "at": "2026-11-05T04:45:30.931065+00:00",
@@ -12464,6 +12431,17 @@
    "summary": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest.",
    "title_ar": "تطبيق VR Disney Plus على Meta Quest يدعم الآن الأفلام ثلاثية الأبعاد"
   },
+  "theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling": {
+   "at": "2026-11-11T03:30:37.806417+00:00",
+   "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+   "score": 1,
+   "sources": 1,
+   "summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs…",
+   "title_ar": "منافس تقنية DLSS من Microsoft متوفر الآن لأجهزة Xbox Ally X ويعمل في وضع الأجهزة المحمولة"
+  },
   "theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation": {
    "at": "2026-11-04T22:00:43.675176+00:00",
    "title": "Uber only fulfilled 4 rides from AI agents last quarter",
@@ -13525,7 +13503,7 @@
   "AI": "2026-11-11T01:30:37.014997+00:00",
   "Anime": "2026-11-11T02:15:32.253391+00:00",
   "Games": "2026-11-11T03:15:28.303053+00:00",
-  "Tech": "2026-11-11T03:00:48.328760+00:00"
+  "Tech": "2026-11-11T03:30:37.806417+00:00"
  },
  "digest_day": "2026-11-10",
  "weekly_day": "2026-11-06"
