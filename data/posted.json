@@ -606,17 +606,6 @@
    "summary": "Apple today rolled out a new subscription retention tool for developers looking to reduce cancellations.",
    "title_ar": "أبل تتيح للمطورين الآن تقديم خصومات عندما يحاول المستخدمون إلغاء الاشتراكات"
   },
-  "9to5mac.com/2026/11/04/apple-still-charging-300-of-costs-on-iphone-storage-upgrades-says-wsj": {
-   "at": "2026-11-04T13:00:42.744788+00:00",
-   "title": "Apple still charging 300% of costs on iPhone storage upgrades, says WSJ",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/04/apple-still-charging-300-of-costs-on-iphone-storage-upgrades-says-wsj/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Opting for more RAM or storage when buying Apple devices has always been an expensive business, with the company famously charging huge markups.",
-   "title_ar": "WSJ: أبل لا تزال تتقاضى 300% من التكلفة مقابل ترقيات ساخن تخزين iPhone"
-  },
   "9to5mac.com/2026/11/04/apple-tv-reportedly-getting-justin-timberlake-docuseries-announces-new-toni-collette-show": {
    "at": "2026-11-04T23:00:43.614099+00:00",
    "title": "Apple TV reportedly getting Justin Timberlake docuseries, announces new Toni Collette show",
@@ -1715,17 +1704,6 @@
    "score": 0,
    "sources": 1,
    "summary": "The live-action film adaptation of MASHLE: MAGIC AND MUSCLES has cast Mackenyu as protagonist Mash Burnedead.",
-   "title_ar": ""
-  },
-  "animecorner.me/mashle-magic-and-muscles-live-action-film-adaptation-announced": {
-   "at": "2026-11-04T13:00:42.744788+00:00",
-   "title": "Mashle: Magic and Muscles Live-Action Film Adaptation Announced",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://animecorner.me/mashle-magic-and-muscles-live-action-film-adaptation-announced/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Mashle: Magic and Muscles manga is officially getting a live-action film adaptation, with its Japanese theatrical premiere set for March 19, 2027.",
    "title_ar": ""
   },
   "animecorner.me/mashle-season-3-reveals-first-main-trailer-and-new-key-visual-january-9-premiere": {
@@ -4280,6 +4258,17 @@
    "summary": "Apple's Support Community is permanently closing in a few days.",
    "title_ar": ""
   },
+  "engadget.com/2313187/grok-build-leaked-sensitive-spacexsi-data": {
+   "at": "2026-11-11T13:00:44.478426+00:00",
+   "title": "A Grok vibe-coding agent leaked sensitive SpaceXSI data",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2313187/grok-build-leaked-sensitive-spacexsi-data/",
+   "score": 0,
+   "sources": 1,
+   "summary": "A flaw in SpaceXSI's Grok Build vibe-coding agent allowed sensitive data to leak from thousands of users including...",
+   "title_ar": ""
+  },
   "eurogamer.net/arkane-union-xbox-more-expensive-marvels-blade": {
    "at": "2026-11-04T20:45:43.117162+00:00",
    "title": "Arkane union says closing the studio \"would probably be more expensive\" for Xbox than simply finishing Marvel's Blade",
@@ -4542,6 +4531,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Xenoblade series developer Monolith Soft and Bandai Namco Studios have been listed as support studios for the Switch 2 version of Ocarina of Time, working on elements of the title such as \"art…",
+   "title_ar": ""
+  },
+  "eurogamer.net/playstation-5-100-million-sales-november-2026": {
+   "at": "2026-11-11T13:00:44.478426+00:00",
+   "title": "As of this week, PlayStation 5 has surpassed 100 million consoles sold",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/playstation-5-100-million-sales-november-2026",
+   "score": 0,
+   "sources": 1,
+   "summary": "PlayStation 5 has officially surpassed 100m consoles sold, Sony's updated sales data revealed.",
    "title_ar": ""
   },
   "eurogamer.net/playstation-6-sony-financials-2026-hardware": {
@@ -6447,6 +6447,17 @@
    "summary": "WhatsApp users can already create events in a 1:1 conversation and group chats.",
    "title_ar": ""
   },
+  "gsmarena.com/whatsapp_is_bringing_a_transparent_nav_bar_to_its_android_app-news-75436.php": {
+   "at": "2026-11-11T13:00:44.478426+00:00",
+   "title": "WhatsApp is bringing a transparent nav bar to its Android app",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.gsmarena.com/whatsapp_is_bringing_a_transparent_nav_bar_to_its_android_app-news-75436.php",
+   "score": 1,
+   "sources": 1,
+   "summary": "The latest WhatsApp beta (build 2.26.45.5) reveals a new look for the navigation bar.",
+   "title_ar": "واتساب يجلب شريط تنقل شفافاً إلى تطبيقه على أندرويد"
+  },
   "gsmarena.com/whatsapp_is_bringing_iosstyle_chat_previews_to_android-news-75371.php": {
    "at": "2026-11-06T00:15:28.858447+00:00",
    "title": "WhatsApp is bringing iOS-style chat previews to Android",
@@ -6953,17 +6964,6 @@
    "summary": "A former member of Mob Entertainment’s Escape from Playtime Team claims “almost all” staff working on the project have been laid off.",
    "title_ar": "شركة Mob Entertainment تسرح \"เกือบทั้งหมด\" من فريق عمل Escape from Playtime"
   },
-  "ign.com/articles/nexus-mods-forces-mandatory-generative-ai-disclosures-and-filters": {
-   "at": "2026-11-04T13:00:42.744788+00:00",
-   "title": "Nexus Mods Forces Mandatory AI Disclosures and Filters, Explains Why It Won't Ban AI Mods",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/nexus-mods-forces-mandatory-generative-ai-disclosures-and-filters",
-   "score": 0,
-   "sources": 1,
-   "summary": "Nexus Mods has reacted to the deluge of AI mods by enforcing mandatory disclosure for mods with AI-assisted code, and letting users filter AI-assisted mods out of their search criteria or preferences.",
-   "title_ar": ""
-  },
   "ign.com/articles/nier-automata-dev-working-on-fix-patch-that-bloated-game-size-366gb": {
    "at": "2026-11-06T12:30:40.145912+00:00",
    "title": "Nier: Automata Dev Working on Fix for Patch That Accidentally Bloated the Game Size to 366GB on PC",
@@ -7248,17 +7248,6 @@
    "score": 0,
    "sources": 1,
    "summary": "IGN interviews Take-Two boss Strauss Zelnick 10 days before the biggest release in entertainment history: GTA 6.",
-   "title_ar": ""
-  },
-  "ign.com/articles/the-elder-scrolls-6-sentinel-timeline": {
-   "at": "2026-11-04T13:00:42.744788+00:00",
-   "title": "The Elder Scrolls 6: Sentinel Teaser's In-Universe Quote Sparks Timeline Speculation",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/the-elder-scrolls-6-sentinel-timeline",
-   "score": 0,
-   "sources": 1,
-   "summary": "This week's tease for The Elder Scrolls VI: Sentinel didn’t give us much to work with.",
    "title_ar": ""
   },
   "ign.com/articles/the-legend-of-zelda-ocarina-of-time-is-a-huge-success-for-nintendo-and-just-broke-a-switch-2-sales-record": {
@@ -9615,17 +9604,6 @@
    "summary": "Move may accelerate transition to digital.",
    "title_ar": ""
   },
-  "nintendolife.com/news/2026/11/the-legend-of-zelda-ocarina-of-time-switch-2-updated-version-1-1-1-here-are-the-patch-notes": {
-   "at": "2026-11-04T13:00:42.744788+00:00",
-   "title": "The Legend Of Zelda: Ocarina Of Time Switch 2 Updated (Version 1.1.1), Here Are The Patch Notes",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.nintendolife.com/news/2026/11/the-legend-of-zelda-ocarina-of-time-switch-2-updated-version-1-1-1-here-are-the-patch-notes",
-   "score": 0,
-   "sources": 1,
-   "summary": "Adds support for Zelda Notes.",
-   "title_ar": ""
-  },
   "nintendolife.com/news/2026/11/uk-charts-zelda-ocarina-of-time-is-the-second-biggest-uk-launch-in-franchise-history": {
    "at": "2026-11-09T09:45:31.032516+00:00",
    "title": "UK Charts: Zelda: Ocarina Of Time Is The Second Biggest UK Launch In Franchise History",
@@ -10097,17 +10075,6 @@
    "score": 0,
    "sources": 1,
    "summary": "The Switch 2 is still comfortably ahead of the Switch in its first year, but it might not be ahead by its second.",
-   "title_ar": ""
-  },
-  "pcgamer.com/hardware/processors/amd-says-its-going-to-beat-intel-in-total-revenue-for-the-very-first-time-by-the-end-of-2026": {
-   "at": "2026-11-04T13:00:42.744788+00:00",
-   "title": "AMD says it's going to beat Intel in total revenue for the very first time by the end of 2026",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/hardware/processors/amd-says-its-going-to-beat-intel-in-total-revenue-for-the-very-first-time-by-the-end-of-2026/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Intel's expecting to hit $15 - $16 billion for Q4 2026, while AMD is looking at an impressive $17 billion.",
    "title_ar": ""
   },
   "pcgamer.com/software/ai/sam-altman-is-annoyed-his-dram-comment-was-taken-out-of-context": {
@@ -11627,6 +11594,17 @@
    "sources": 1,
    "summary": "MIT researchers show that OpenAI's GPT-6 Astra can read and deliberately rewrite the weights of other AI models without traditional training.",
    "title_ar": "GPT-6 Astra يرى الماتريكس ويعيد برمجة نماذج الذكاء الاصطناعي الأخرى مباشرة من خلال أوزانها"
+  },
+  "the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline": {
+   "at": "2026-11-11T13:00:44.478426+00:00",
+   "title": "Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI's own sales pipeline",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Security firm Claroc found more than 35,000 Grok-built apps open to anyone without login, including patient data and confidential SpaceXSI documents.",
+   "title_ar": ""
   },
   "the-decoder.com/meta-buys-ai-coding-startup-conductor-as-big-tech-races-to-lock-in-developers": {
    "at": "2026-11-05T15:15:35.685635+00:00",
@@ -13591,7 +13569,7 @@
   "AI": "2026-11-11T12:15:30.311882+00:00",
   "Anime": "2026-11-11T10:00:42.122952+00:00",
   "Games": "2026-11-11T12:45:28.039135+00:00",
-  "Tech": "2026-11-11T12:30:40.486421+00:00"
+  "Tech": "2026-11-11T13:00:44.478426+00:00"
  },
  "digest_day": "2026-11-10",
  "weekly_day": "2026-11-06"
