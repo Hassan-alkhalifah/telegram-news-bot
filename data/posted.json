@@ -5897,17 +5897,6 @@
    "summary": "The iPhone Duo started shipping about two weeks ago, and app support has been one of the early talking points.",
    "title_ar": ""
   },
-  "gsmarena.com/apple_watch_series_12_and_ultra_4s_controversial_ai_features_are_going_live-news-75336.php": {
-   "at": "2026-11-04T08:15:29.016238+00:00",
-   "title": "Apple Watch Series 12 and Ultra 4's controversial AI features are going live",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.gsmarena.com/apple_watch_series_12_and_ultra_4s_controversial_ai_features_are_going_live-news-75336.php",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple unveiled the Apple Watch Series 12 and Watch Ultra 4 back in September, along with a set of microphone-based features it calls Audio Intelligence.",
-   "title_ar": ""
-  },
   "gsmarena.com/counterpoint_global_dram_revenue_grows_by_369_in_q3-news-75368.php": {
    "at": "2026-11-05T22:45:28.890258+00:00",
    "title": "Counterpoint: global DRAM revenue grows by 369% in Q3",
@@ -6314,6 +6303,17 @@
    "sources": 1,
    "summary": "Samsung is officially detailing its Gallery app's move to Google storage today.",
    "title_ar": ""
+  },
+  "gsmarena.com/samsung_one_ui_9_5_voip_voice_call_recording-news-75433.php": {
+   "at": "2026-11-11T08:15:32.939523+00:00",
+   "title": "Samsung could allow One UI 9.5 users to record WhatsApp and Telegram voice calls",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.gsmarena.com/samsung_one_ui_9_5_voip_voice_call_recording-news-75433.php",
+   "score": 2,
+   "sources": 1,
+   "summary": "Samsung is currently rolling out the stable One UI 9 update to eligible Galaxy devices, and before releasing One UI 10, it will release One UI 9.5.",
+   "title_ar": "سامسونگ قد تتيح لمستخدمي One UI 9.5 تسجيل مكالمات الصوت في WhatsApp وTelegram"
   },
   "gsmarena.com/samsung_reportedly_working_on_a_phone_with_an_expandable_display-news-75431.php": {
    "at": "2026-11-11T06:15:30.601177+00:00",
@@ -7965,6 +7965,17 @@
    "summary": "Nintendo has confirmed that The Legend of Zelda: Ocarina of Time has sold more than 5.2 million units in four days, setting a new record.",
    "title_ar": ""
   },
+  "insider-gaming.com/playstation-5-officially-sold-more-than-100-million-units": {
+   "at": "2026-11-11T08:15:32.939523+00:00",
+   "title": "PlayStation 5 Has Officially Sold Over 100 Million Units",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/playstation-5-officially-sold-more-than-100-million-units/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The PlayStation 5 console has managed to hit a major milestone, hitting 100 million sales since launching in 2020.",
+   "title_ar": ""
+  },
   "insider-gaming.com/playstation-6-development-ramps-up-as-ps5-sales-near-100-million": {
    "at": "2026-11-05T11:15:32.193752+00:00",
    "title": "PlayStation 6 Development Ramps Up As PS5 Sales Near 100 Million",
@@ -8063,17 +8074,6 @@
    "sources": 1,
    "summary": "If you hoped for more than 30 FPS on consoles for GTA 6, you'll be disappointed, but PS5 Pro owners get extra bonuses at least.",
    "title_ar": ""
-  },
-  "insider-gaming.com/rockstar-might-dmca-gta-6-spoilers": {
-   "at": "2026-11-04T08:15:29.016238+00:00",
-   "title": "Rockstar Might DMCA GTA 6 Spoilers, Even After Launch",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://insider-gaming.com/rockstar-might-dmca-gta-6-spoilers/",
-   "score": 2,
-   "sources": 1,
-   "summary": "It has been discovered in a support policy that Rockstar Games might DMCA strike GTA 6 spoilers even after the game has come out.",
-   "title_ar": "Rockstar قد تقوم بإزالة تسريبات GTA 6 بموجب قانون DMCA، حتى بعد الإطلاق"
   },
   "insider-gaming.com/saudi-silver-lake-pif-unity-acquisition-buyout": {
    "at": "2026-11-06T07:45:30.683095+00:00",
@@ -13558,7 +13558,7 @@
   "AI": "2026-11-11T07:45:32.548747+00:00",
   "Anime": "2026-11-11T04:15:29.755764+00:00",
   "Games": "2026-11-11T05:30:37.059259+00:00",
-  "Tech": "2026-11-11T06:15:30.601177+00:00"
+  "Tech": "2026-11-11T08:15:32.939523+00:00"
  },
  "digest_day": "2026-11-10",
  "weekly_day": "2026-11-06"
