@@ -573,6 +573,17 @@
    "summary": "Like on Android Auto and Automotive, Google is bringing the Gemini app to CarPlay.",
    "title_ar": ""
   },
+  "9to5google.com/2026/11/11/google-home-brings-back-sounds-for-gemini-and-im-both-elated-and-irritated-video": {
+   "at": "2026-11-11T19:00:43.856829+00:00",
+   "title": "Google Home brings back sounds for Gemini, and I’m both elated and irritated [Video]",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/11/google-home-brings-back-sounds-for-gemini-and-im-both-elated-and-irritated-video/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Classic Google Assistant sounds for special timers are back, but the “confirm” sound for smart home commands is unexpectedly different. more…",
+   "title_ar": "تطبيق Google Home يعيد الأصوات لـ Gemini، وأنا بين مبتهج ومنزعج [فيديو]"
+  },
   "9to5google.com/2026/11/11/google-pixel-tag-launch-countries": {
    "at": "2026-11-11T18:00:44.161979+00:00",
    "title": "Google Pixel Tag is only available in 8 countries, and excludes Europe",
@@ -582,6 +593,17 @@
    "score": 0,
    "sources": 1,
    "summary": "With Google’s Pixel Tag now offiically available, Google has also confirmed where the Android Find Hub tracker will be on sale, and it’s a limited list. more…",
+   "title_ar": ""
+  },
+  "9to5google.com/2026/11/11/google-wallet-home-key": {
+   "at": "2026-11-11T19:00:43.856829+00:00",
+   "title": "Google Wallet rolling out digital Google Home keys with supported locks on Android",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5google.com/2026/11/11/google-wallet-home-key/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Google Wallet for Android is rolling out support for digital home keys if you have a compatible smart lock in Google Home. more…",
    "title_ar": ""
   },
   "9to5mac.com/2026/11/04/apple-disables-siri-ai-waitlist-in-ios-27-with-one-exception": {
@@ -8845,17 +8867,6 @@
    "summary": "The feature is rolling out on Steam store pages from today",
    "title_ar": ""
   },
-  "kotaku.com/visionquest-jim-hammond-human-torch-synthetic-man-explained-2000753358": {
-   "at": "2026-11-04T18:45:30.308269+00:00",
-   "title": "Last Night’s VisionQuest Reveal Has A Whole Lot Of Marvel History Tied Up In It",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://kotaku.com/visionquest-jim-hammond-human-torch-synthetic-man-explained-2000753358",
-   "score": 2,
-   "sources": 1,
-   "summary": "Paul Bettany must be making hella cash playing all these characters",
-   "title_ar": "الكشف عن VisionQuest الليلة الماضية يرتبط ارتباطاً وثيقاً بتاريخ Marvel"
-  },
   "kotaku.com/visionquest-post-credits-wanda-scarlet-witch-doctor-doom-doomsday-2000755899": {
    "at": "2026-11-11T15:15:28.924897+00:00",
    "title": "VisionQuest’s Post-Credits Scene Has Marvel Fans Losing Their Minds, And Has Major Ramifications For Doomsday",
@@ -12035,17 +12046,6 @@
    "summary": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier.",
    "title_ar": ""
   },
-  "theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3": {
-   "at": "2026-11-04T18:45:30.308269+00:00",
-   "title": "Apple will check shared iCloud links for ‘harmful content’",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple will start checking iCloud items that are accessible to anyone who has the link for \"harmful content\" starting with iOS 27.3 and other 27.3 updates, the company says.",
-   "title_ar": ""
-  },
   "theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership": {
    "at": "2026-11-05T11:00:46.187741+00:00",
    "title": "Amazon is getting back into restaurant delivery with Uber Eats team-up",
@@ -13448,7 +13448,7 @@
   "AI": "2026-11-11T18:30:44.676236+00:00",
   "Anime": "2026-11-11T18:45:29.055581+00:00",
   "Games": "2026-11-11T17:00:46.445959+00:00",
-  "Tech": "2026-11-11T18:15:27.122064+00:00"
+  "Tech": "2026-11-11T19:00:43.856829+00:00"
  },
  "digest_day": "2026-11-11",
  "weekly_day": "2026-11-06"
