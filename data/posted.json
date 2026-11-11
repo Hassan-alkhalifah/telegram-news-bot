@@ -11452,6 +11452,17 @@
    "summary": "Anthropic signed its first licensing deal with a news publisher just ahead of the US midterm elections.",
    "title_ar": "Anthropic تتراجع عن موقفها وتدفع ثمن محتوى إخباري للمرة الأولى"
   },
+  "the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days": {
+   "at": "2026-11-11T14:45:30.134021+00:00",
+   "title": "Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Anthropic claims it used AI itself to breach Nvidia's CUDA moat.",
+   "title_ar": "Anthropic تقول إن الذكاء الاصطناعي يضعف هيمنة Nvidia على CUDA ويقلص وقت التحول إلى شحنات AMD من أشهر إلى ثلاثة أيام"
+  },
   "the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes": {
    "at": "2026-11-10T23:45:31.690095+00:00",
    "title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
@@ -12981,6 +12992,17 @@
    "summary": "The protesters stormed over the walls and took over the construction site, with the Stop Dirty Data Centers coalition saying that more actions are planned across Europe.",
    "title_ar": ""
   },
+  "tomshardware.com/tech-industry/data-centers/softbank-loses-usd3-7-billion-on-canceled-ai-data-center-gas-turbine-orders-days-after-denying-elon-musks-claim-it-was-defaulting-company-kills-reserved-13-gigawatts-of-power-more-than-six-hoover-dams-worth-of-capacity": {
+   "at": "2026-11-11T14:45:30.134021+00:00",
+   "title": "Softbank loses $3.7 billion on canceled AI data center gas turbine orders days after denying Elon Musk’s claim it was defaulting",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/softbank-loses-usd3-7-billion-on-canceled-ai-data-center-gas-turbine-orders-days-after-denying-elon-musks-claim-it-was-defaulting-company-kills-reserved-13-gigawatts-of-power-more-than-six-hoover-dams-worth-of-capacity",
+   "score": 0,
+   "sources": 1,
+   "summary": "SoftBank might not have defaulted on a raft of gas turbine orders, but it has pulled out of deals for unwanted power units after overestimating how many it could use amid the AI data center buildout…",
+   "title_ar": ""
+  },
   "tomshardware.com/tech-industry/data-centers/spacex-plans-to-build-more-data-center-compute-than-googles-entire-lifetime-capacity-in-just-1-5-years-analysts-say-target-is-realistic-spacex-to-build-staggering-10-gigawatts-of-compute-in-2027-alone": {
    "at": "2026-11-05T11:39:23.803741+00:00",
    "title": "SpaceX's plan to build more data center compute than Google's entire lifetime capacity in just 1.5 years is possible, say analysts",
@@ -13588,7 +13610,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-11T14:00:44.209801+00:00",
+  "AI": "2026-11-11T14:45:30.134021+00:00",
   "Anime": "2026-11-11T14:15:31.282348+00:00",
   "Games": "2026-11-11T14:08:28.032764+00:00",
   "Tech": "2026-11-11T14:30:37.349238+00:00"
