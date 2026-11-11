@@ -10407,17 +10407,6 @@
    "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
    "title_ar": ""
   },
-  "techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy": {
-   "at": "2026-11-04T22:30:50.457501+00:00",
-   "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-   "score": 1,
-   "sources": 1,
-   "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-   "title_ar": "DuckDuckGo تسوق نفسها للمدارس وسط موجة غضب ضد سياسة Google للذكاء الاصطناعي"
-  },
   "techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers": {
    "at": "2026-11-04T23:36:20.568389+00:00",
    "title": "Snapchat surpasses 30M paid subscribers",
@@ -12244,6 +12233,17 @@
    "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends.",
    "title_ar": "تجربة Tabletop الذكية من Google تتيح لك بناء تطبيقات تعاونية مخصصة"
   },
+  "theverge.com/tech/1031652/jensen-huang-rumor": {
+   "at": "2026-11-11T22:45:27.620777+00:00",
+   "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a…",
+   "title_ar": ""
+  },
   "tomshardware.com/3d-printing/prusa-launches-new-carbon-3d-printing-filament-for-electronics-manufacturing-carbon-fiber-and-carbon-nanotube-filled-material-dissipates-electrostatic-energy-for-static-sensitive-electronics": {
    "at": "2026-11-11T21:01:01.435634+00:00",
    "title": "Prusa launches new carbon-fiber and carbon-nanotube-filled 3D printing filament for electronics manufacturing",
@@ -12320,6 +12320,17 @@
    "sources": 1,
    "summary": "AMD has pulled back the curtain on its Zen 6 microarchitecture.",
    "title_ar": ""
+  },
+  "tomshardware.com/pc-components/cpus/amds-venice-x-maxes-out-family-at-5-3-ghz-returning-3d-v-cache-to-data-center-after-four-years-chips-target-hpc-workloads-with-pcie-6-0-and-1-6-tb-s-memory-bandwidth": {
+   "at": "2026-11-11T22:45:27.620777+00:00",
+   "title": "AMD’s Venice-X maxes out family at 5.3 GHz, returning 3D V-Cache to data center after four years",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/pc-components/cpus/amds-venice-x-maxes-out-family-at-5-3-ghz-returning-3d-v-cache-to-data-center-after-four-years-chips-target-hpc-workloads-with-pcie-6-0-and-1-6-tb-s-memory-bandwidth",
+   "score": 1,
+   "sources": 1,
+   "summary": "AMD's Venice-X CPUs launch in the second half of 2027, bringing 3D V-Cache back to the data center after four years on the sidelines.",
+   "title_ar": "معالج AMD من طراز Venice-X يبلغ ذروته عند تردد 5.3 جيجاهرتز، معيداً تقنية 3D V-Cache إلى مراكز البيانات بعد غياب أربع سنوات"
   },
   "tomshardware.com/pc-components/cpus/grab-amds-fastest-mainstream-gaming-cpu-for-a-record-low-usd399-99-right-now-powerhouse-ryzen-7-9800x3d-chip-is-a-must-buy-upgrade-for-any-am5-gaming-pc-build": {
    "at": "2026-11-09T12:30:38.659338+00:00",
@@ -12716,6 +12727,17 @@
    "sources": 1,
    "summary": "SpaceX's bold claim that it's capable of building 10 GW of compute in 2027 may be plausible — analysts dig through the breakneck speed of Colossus buildouts as evidence",
    "title_ar": "يقول محللون إن خطة SpaceX لبناء قدرة حوسبة لمراكز البيانات تتفوق على إجمالي السعة التاريخية لـ Google في غضون 1.5 عام فقط هي أمر ممكن"
+  },
+  "tomshardware.com/tech-industry/jensen-huang-now-accused-of-affair-with-nvidia-executive-who-reported-to-him-alleged-cover-up-attempt-new-indiscretion-comes-in-wake-of-admitted-affair-with-alleged-chinese-spy": {
+   "at": "2026-11-11T22:45:27.620777+00:00",
+   "title": "Jensen Huang now accused of affair with Nvidia executive who reported to him, alleged cover-up attempt — new indiscretion comes in wake of admitted affair with alleged Chinese spy",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/tech-industry/jensen-huang-now-accused-of-affair-with-nvidia-executive-who-reported-to-him-alleged-cover-up-attempt-new-indiscretion-comes-in-wake-of-admitted-affair-with-alleged-chinese-spy",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nvidia CEO Jensen Huang reportedly had an extramarital affair with a direct report, following a separate affair with a woman suspected of being a Chinese spy.",
+   "title_ar": ""
   },
   "tomshardware.com/tech-industry/policy/alice-huang-reportedly-instrumental-in-securing-over-usd7-5-billion-of-nvidia-ai-gpu-imports-during-three-year-relationship-with-jensen-huang-helped-move-240-000-banned-chips-into-china-mostly-h100-and-h200": {
    "at": "2026-11-10T17:00:54.302875+00:00",
@@ -13283,7 +13305,7 @@
   "AI": "2026-11-11T22:01:01.517047+00:00",
   "Anime": "2026-11-11T22:15:40.644389+00:00",
   "Games": "2026-11-11T22:30:36.974969+00:00",
-  "Tech": "2026-11-11T21:45:31.083950+00:00"
+  "Tech": "2026-11-11T22:45:27.620777+00:00"
  },
  "digest_day": "2026-11-11",
  "weekly_day": "2026-11-06"
