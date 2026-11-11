@@ -5391,17 +5391,6 @@
    "summary": "World of Warcraft: Forever received its first post-launch updates over the weekend, giving players a good reason to run each dungeon more than once alongside upcoming class tweaks.",
    "title_ar": ""
   },
-  "gamespot.com/articles/wow-forever-may-have-just-sneakily-revealed-new-class-and-race-combos": {
-   "at": "2026-11-04T21:30:39.367622+00:00",
-   "title": "WoW: Forever May Have Just Sneakily Revealed New Class And Race Combos",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gamespot.com/articles/wow-forever-may-have-just-sneakily-revealed-new-class-and-race-combos/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Developer Blizzard may have just revealed new World of Warcraft: Forever class and race combos less than a day before the game's launch.",
-   "title_ar": ""
-  },
   "gamespot.com/articles/wow-forevers-launch-is-going-surprisingly-smooth": {
    "at": "2026-11-05T01:00:44.213005+00:00",
    "title": "WoW: Forever’s Launch Is Going Surprisingly Smooth",
@@ -8009,6 +7998,17 @@
    "summary": "According to Take-Two's latest earnings report, Red Dead Redemption 2 has now sold nearly 90 million units since launch.",
    "title_ar": ""
   },
+  "insider-gaming.com/resident-evil-requiem-wins-2026-golden-joystick": {
+   "at": "2026-11-11T21:30:40.859189+00:00",
+   "title": "Resident Evil: Requiem Wins Ultimate Game of the Year At 2026 Golden Joystick Awards",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://insider-gaming.com/resident-evil-requiem-wins-2026-golden-joystick/",
+   "score": 3,
+   "sources": 2,
+   "summary": "Resident Evil Requiem wins Ultimate Game of the Year at the 2026 Golden Joystick Awards with 17% of the public vote.",
+   "title_ar": "لعبة Resident Evil: Requiem تفوز بجائزة لعبة العام الكبرى في حفل توزيع جوائز Golden Joystick لعام 2026"
+  },
   "insider-gaming.com/rockstar-celebrates-gta-6-launch-with-new-gameplay-screenshots": {
    "at": "2026-11-05T15:15:35.685635+00:00",
    "title": "Rockstar Celebrates GTA 6 Launch With New Gameplay Screenshots",
@@ -10231,6 +10231,17 @@
    "summary": "Update from Sony CFO Lin Tao.",
    "title_ar": ""
   },
+  "pushsquare.com/news/2026/11/resident-evil-requiem-wins-the-first-2026-game-of-the-year-award": {
+   "at": "2026-11-11T21:30:40.859189+00:00",
+   "title": "Resident Evil Requiem Wins the First 2026 Game of the Year Award",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pushsquare.com/news/2026/11/resident-evil-requiem-wins-the-first-2026-game-of-the-year-award",
+   "score": 0,
+   "sources": 1,
+   "summary": "Top accolade at the Golden Joystick Awards.",
+   "title_ar": ""
+  },
   "pushsquare.com/news/2026/11/rockstar-reveals-even-more-gta-6-screenshots-as-ps5-release-draws-closer": {
    "at": "2026-11-05T15:30:43.251885+00:00",
    "title": "Rockstar Reveals Even More GTA 6 Screenshots as PS5 Release Draws Closer",
@@ -10395,17 +10406,6 @@
    "sources": 1,
    "summary": "While it's not yet clear what kind of product the smart phone startup is cooking up, Nothing's CEO said that product is designed to leverage AI for productivity gains.",
    "title_ar": ""
-  },
-  "techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election": {
-   "at": "2026-11-04T21:30:39.367622+00:00",
-   "title": "OpenAI is already trying to shape the 2028 election",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-   "score": 1,
-   "sources": 1,
-   "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
-   "title_ar": "OpenAI تحاول بالفعل التأثير على انتخابات عام 2028"
   },
   "techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers": {
    "at": "2026-11-04T23:36:20.568389+00:00",
@@ -13282,7 +13282,7 @@
  "topic_last_posted": {
   "AI": "2026-11-11T21:15:29.167728+00:00",
   "Anime": "2026-11-11T21:15:29.167728+00:00",
-  "Games": "2026-11-11T21:15:29.167728+00:00",
+  "Games": "2026-11-11T21:30:40.859189+00:00",
   "Tech": "2026-11-11T21:28:14.082607+00:00"
  },
  "digest_day": "2026-11-11",
