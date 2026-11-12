@@ -551,6 +551,17 @@
    "summary": "After first appearing months ago, the Motorola MA2 wireless Android Auto adapter is officially available for purchase in the US, but at a much higher price than expected. more…",
    "title_ar": "محول Android Auto اللاسلكي Motorola MA2 متاح الآن، ولكن بسعر يقارب الضاعف"
   },
+  "9to5google.com/2026/11/12/google-android-xr-glasses-camera-privacy": {
+   "at": "2026-11-12T15:00:44.798888+00:00",
+   "title": "Here’s how Google’s Android XR glasses are handling the camera & privacy",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5google.com/2026/11/12/google-android-xr-glasses-camera-privacy/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Google’s Intelligent Eyewear push with the first Android XR glasses from Warby Parker and Gentle Monster are forced into an unfortunate uphill battle.",
+   "title_ar": ""
+  },
   "9to5google.com/2026/11/12/google-glasses-iphone-support": {
    "at": "2026-11-12T14:45:28.359204+00:00",
    "title": "Google’s new Android XR glasses work with iOS, Made for iPhone certified",
@@ -2794,6 +2805,17 @@
    "sources": 1,
    "summary": "The new model is up to twice as successful at some tasks.",
    "title_ar": "DeepMind تكشف عن Gemini Robotics 2.5 ومعيار الأمان المفتوح ASIMOV-jailbreak"
+  },
+  "arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395": {
+   "at": "2026-11-12T15:00:44.798888+00:00",
+   "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+   "score": 1,
+   "sources": 1,
+   "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
+   "title_ar": "جوجل تروج لجانب الخصوصية مع إطلاق النظارات الذكية المدعومة بنظام Gemini بسعر تبدأ من 395 دولاراً"
   },
   "arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi": {
    "at": "2026-11-10T21:30:40.062428+00:00",
@@ -5345,6 +5367,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Publisher Square Enix and developer WFS have officially unveiled Dragon Quest RPG: The Cursed Tree …",
+   "title_ar": ""
+  },
+  "gematsu.com/2026/11/elements-destiny-launches-december-8-for-ps5-xbox-series-ps4-xbox-one-and-pc-december-15-for-switch": {
+   "at": "2026-11-12T15:00:44.798888+00:00",
+   "title": "Elements Destiny launches December 8 for PS5, Xbox Series, PS4, Xbox One, and PC; December 15 for Switch",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gematsu.com/2026/11/elements-destiny-launches-december-8-for-ps5-xbox-series-ps4-xbox-one-and-pc-december-15-for-switch",
+   "score": 0,
+   "sources": 1,
+   "summary": "2D retro-inspired fantasy RPG Elements Destiny will launch for PlayStation 5, Xbox Series, PlayStation 4, …",
    "title_ar": ""
   },
   "gematsu.com/2026/11/fairgame-canceled": {
@@ -9230,17 +9263,6 @@
    "summary": "No specific numbers yet, though.",
    "title_ar": ""
   },
-  "nintendolife.com/news/2026/11/zelda-ocarina-of-times-director-was-chosen-for-his-ability-to-solve-problems-very-aggressively": {
-   "at": "2026-11-05T14:45:32.295150+00:00",
-   "title": "Zelda: Ocarina Of Time's Director Was Chosen For His Ability To \"Solve Problems Very Aggressively\"",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-times-director-was-chosen-for-his-ability-to-solve-problems-very-aggressively",
-   "score": 0,
-   "sources": 1,
-   "summary": "\"This has been a really good experience\".",
-   "title_ar": ""
-  },
   "pcgamer.com/games/crimson-desert-wins-pc-game-of-the-year-at-the-2026-golden-joystick-awards": {
    "at": "2026-11-11T21:45:31.083950+00:00",
    "title": "Crimson Desert wins 'PC Game of the Year' at the 2026 Golden Joystick Awards",
@@ -10131,17 +10153,6 @@
    "sources": 1,
    "summary": "Bandai Namco confirms.",
    "title_ar": "إغلاق مطور لعبة Unknown 9 بعد مرور عامين على إطلاقها الكارثي على أجهزة PS5"
-  },
-  "techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents": {
-   "at": "2026-11-05T14:45:32.295150+00:00",
-   "title": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-   "score": 2,
-   "sources": 2,
-   "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-   "title_ar": ""
   },
   "techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027": {
    "at": "2026-11-05T23:15:33.988781+00:00",
@@ -12728,6 +12739,17 @@
    "summary": "NBA was still the second most successful launch in the series' history, it says",
    "title_ar": ""
   },
+  "videogameschronicle.com/news/intergalactic-is-in-the-last-stage-of-production-where-its-playable-and-being-refined-neil-druckmann-says": {
+   "at": "2026-11-12T15:00:44.798888+00:00",
+   "title": "Intergalactic is ‘in the last stage of production’ where it’s playable and being refined, Neil Druckmann says",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.videogameschronicle.com/news/intergalactic-is-in-the-last-stage-of-production-where-its-playable-and-being-refined-neil-druckmann-says/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Naughty Dog has promised a full reveal next year",
+   "title_ar": ""
+  },
   "videogameschronicle.com/news/katsuhiro-harada-says-he-wishes-xbox-series-s-didnt-exist-because-its-like-doing-extra-work-for-a-slightly-weaker-child": {
    "at": "2026-11-11T16:15:31.205594+00:00",
    "title": "Katsuhiro Harada says he wishes Xbox Series S didn’t exist, because it’s like doing ‘extra work for a slightly weaker child’",
@@ -12782,17 +12804,6 @@
    "sources": 1,
    "summary": "The developers of both games have made the most of an unlucky coincidence",
    "title_ar": "نينتندو كرهت هذا تماماً: لعبتان غير مرتبطتين تحملان اسم Piece By Piece ستُطلقان معاً في حزمة واحدة على Switch"
-  },
-  "videogameschronicle.com/news/nintendo-says-it-is-not-considering-a-switch-2-price-hike": {
-   "at": "2026-11-05T14:45:32.295150+00:00",
-   "title": "Nintendo says it is not considering a Switch 2 price hike",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.videogameschronicle.com/news/nintendo-says-it-is-not-considering-a-switch-2-price-hike/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Nintendo says it has enough memory and doesn't need to up the Switch 2's price",
-   "title_ar": ""
   },
   "videogameschronicle.com/news/nintendos-battle-against-piracy-continues-with-a-dmca-takedown-on-switch-mod-chip-firmware": {
    "at": "2026-11-11T14:08:28.032764+00:00",
@@ -13014,17 +13025,6 @@
    "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended.",
    "title_ar": "أداة ذكاء اصطناعي جديدة من Google DeepMind تثبت أن بروتوكول Signal آمن"
   },
-  "wired.com/story/aina-smart-ring": {
-   "at": "2026-11-05T14:45:32.295150+00:00",
-   "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://www.wired.com/story/aina-smart-ring/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants.",
-   "title_ar": ""
-  },
   "wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers": {
    "at": "2026-11-09T08:15:27.744398+00:00",
    "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
@@ -13082,7 +13082,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-12T12:15:28.041339+00:00",
+  "AI": "2026-11-12T15:00:44.798888+00:00",
   "Anime": "2026-11-12T14:15:28.417486+00:00",
   "Games": "2026-11-12T14:45:28.359204+00:00",
   "Tech": "2026-11-12T14:30:42.687517+00:00"
