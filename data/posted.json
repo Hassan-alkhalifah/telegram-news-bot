@@ -11331,6 +11331,17 @@
    "summary": "Anthropic is releasing Claude Fable 5.2 and Mythos 5.2, its most powerful models to date, in two versions: one freely available and one reserved for verified organizations.",
    "title_ar": ""
   },
+  "the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls": {
+   "at": "2026-11-12T23:30:33.840937+00:00",
+   "title": "Claude Meetings lets Anthropic's AI join your video calls",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Anthropic is adding Claude directly to video calls.",
+   "title_ar": "ميزة Claude Meetings تتيح لذكاء Anthropic الاصطناعي الانضمام إلى مكالمات الفيديو الخاصة بك"
+  },
   "the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic": {
    "at": "2026-11-11T12:15:30.311882+00:00",
    "title": "Enterprise sales push OpenAI's quarterly revenue to $10 billion, though it still trails Anthropic",
@@ -13379,7 +13390,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-12T22:45:28.331463+00:00",
+  "AI": "2026-11-12T23:30:33.840937+00:00",
   "Anime": "2026-11-12T20:00:41.535054+00:00",
   "Games": "2026-11-12T23:15:36.075966+00:00",
   "Tech": "2026-11-12T23:00:38.483126+00:00"
