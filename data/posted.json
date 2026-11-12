@@ -628,17 +628,6 @@
    "summary": "To promote the new MacBook Pro with PROLED XDR Display , Apple is hosting a livestream in which singer-songwriter Labrinth will create a song from scratch overnight at the company’s Tower Theatre…",
    "title_ar": "بث مباشر: شاهد Labrinth يبتكر أغنية من الصفر ليلة اليوم باستخدام جهاز MacBook Pro الجديد من Apple"
   },
-  "9to5mac.com/2026/11/04/report-apple-and-samsung-outperform-rivals-as-smartphone-chip-shipments-tumble-21": {
-   "at": "2026-11-05T00:00:49.331947+00:00",
-   "title": "Report: Apple and Samsung outperform rivals as smartphone chip shipments tumble 21%",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/04/report-apple-and-samsung-outperform-rivals-as-smartphone-chip-shipments-tumble-21/",
-   "score": 1,
-   "sources": 1,
-   "summary": "According to Counterpoint Research, Apple and Samsung were the only major smartphone chip vendors to gain market share in Q3 2026, as global shipments declined 21% year-over-year.",
-   "title_ar": "تقرير: Apple و Samsung تتفوقان على المنافسين مع انخفاض شحنات رقاقات الهواتف الذكية بنسبة 21%"
-  },
   "9to5mac.com/2026/11/04/report-apple-reduces-employees-ai-token-allowances-as-ternus-moves-to-cut-costs": {
    "at": "2026-11-05T00:45:30.064187+00:00",
    "title": "Report: Apple reduces employees’ AI token allowances as Ternus moves to cut costs",
@@ -6557,6 +6546,17 @@
    "summary": "Captain Price actor Barry Sloane wants to be in the Call of Duty movie and believes he's the most qualified person for the job.",
    "title_ar": "مؤثّر شخصية Captain Price، الممثل Barry Sloane، يقول إنه الشخص الأكثر تأهيلاً لبطولة فيلم Call of Duty"
   },
+  "ign.com/articles/cd-projekt-red-used-ai-to-alter-geralts-voice-due-to-polish-actors-health-issues": {
+   "at": "2026-11-12T00:15:31.185032+00:00",
+   "title": "CD Projekt Red Used AI to Alter Geralt's Voice Due to Polish Actor's Health Issues",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.ign.com/articles/cd-projekt-red-used-ai-to-alter-geralts-voice-due-to-polish-actors-health-issues",
+   "score": 3,
+   "sources": 2,
+   "summary": "The Witcher 3 is getting a new expansion more than 11 years after it first released, and due to a health issue experienced by Geralt's Polish voice actor, CD Projekt Red will be using an AI tool to…",
+   "title_ar": "CD Projekt Red استخدمت الذكاء الاصطناعي لتعديل صوت Geralt بسبب المشاكل الصحية للممثل البولندي"
+  },
   "ign.com/articles/dr-doom-is-taking-over-dave-and-busters-ahead-of-avengers-doomsday": {
    "at": "2026-11-05T23:00:45.952140+00:00",
    "title": "Dr. Doom Is Taking Over Dave and Buster’s in Lead-up to Avengers: Doomsday",
@@ -9692,6 +9692,17 @@
    "summary": "Theories that Bethesda is hinting at an earlier launch are already surfacing, and a few of them are pretty good.",
    "title_ar": ""
   },
+  "pcgamer.com/games/the-witcher/cd-projekt-used-ai-to-modify-the-voice-of-geralts-polish-actor-after-a-stroke-left-it-significantly-changed-this-was-a-special-case": {
+   "at": "2026-11-12T00:15:31.185032+00:00",
+   "title": "CD Projekt used AI to modify the voice of Geralt's Polish actor after a stroke left it significantly changed: 'This was a special case'",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-used-ai-to-modify-the-voice-of-geralts-polish-actor-after-a-stroke-left-it-significantly-changed-this-was-a-special-case/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Jacek Rozenek was the voice of Geralt in all previous Polish-language Witcher releases, and CD Projekt wanted to work with him again—but his voice is no longer a match.",
+   "title_ar": ""
+  },
   "pcgamer.com/games/world-of-warcraft/after-all-the-queuing-drama-in-beta-wow-forevers-launch-was-buttery-smooth": {
    "at": "2026-11-05T13:45:30.140086+00:00",
    "title": "After all the queuing drama in beta, WoW: Forever's launch was buttery smooth",
@@ -9998,17 +10009,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Walk of shame.",
-   "title_ar": ""
-  },
-  "pushsquare.com/news/2026/11/bethesda-will-sell-you-elder-scrolls-6-sentinel-t-shirts-and-hoodies-even-though-it-hasnt-shown-the-game": {
-   "at": "2026-11-05T00:00:49.331947+00:00",
-   "title": "Bethesda Will Sell You Elder Scrolls 6: Sentinel T-Shirts and Hoodies, Even Though It Hasn't Shown the Game",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pushsquare.com/news/2026/11/bethesda-will-sell-you-elder-scrolls-6-sentinel-t-shirts-and-hoodies-even-though-it-hasnt-shown-the-game",
-   "score": 0,
-   "sources": 1,
-   "summary": "$35 for the t-shirt, $65 for the hoodie.",
    "title_ar": ""
   },
   "pushsquare.com/news/2026/11/first-november-2026-ps-plus-extra-game-available-to-download-now": {
@@ -13315,7 +13315,7 @@
  "topic_last_posted": {
   "AI": "2026-11-11T22:01:01.517047+00:00",
   "Anime": "2026-11-11T22:15:40.644389+00:00",
-  "Games": "2026-11-11T23:30:38.099558+00:00",
+  "Games": "2026-11-12T00:15:31.185032+00:00",
   "Tech": "2026-11-12T00:00:42.456054+00:00"
  },
  "digest_day": "2026-11-11",
