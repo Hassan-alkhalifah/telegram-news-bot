@@ -1607,6 +1607,17 @@
    "summary": "Following reports of a potential second affair – this time with a subordinate – Nvidia CEO Jensen Huang looks certain to be fired by the company’s board, probably later today (though he may be…",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/12/opera-one-for-ios-adds-data-saver-feature-cutting-browsing-data-usage-by-up-to-80": {
+   "at": "2026-11-12T23:00:38.483126+00:00",
+   "title": "Opera One for iOS adds Data Saver feature, cutting browsing data usage by up to 80%",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/12/opera-one-for-ios-adds-data-saver-feature-cutting-browsing-data-usage-by-up-to-80/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Opera today announced that its Data Saver feature is now available on iOS, in a press release that also revealed a 20% year-over-year increase in the browser’s monthly active users.",
+   "title_ar": "متصفح Opera One لنظام iOS يضيف ميزة Data Saver لتقليل استهلاك بيانات التصفح بنسبة تصل إلى 80%"
+  },
   "9to5mac.com/2026/11/12/president-trump-calls-on-tim-cook-to-be-next-nvidia-ceo": {
    "at": "2026-11-12T16:00:47.960550+00:00",
    "title": "President Trump calls on Tim Cook to be next NVIDIA CEO",
@@ -2739,17 +2750,6 @@
    "sources": 1,
    "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
    "title_ar": ""
-  },
-  "arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones": {
-   "at": "2026-11-05T22:45:28.890258+00:00",
-   "title": "Sony revives the original Walkman headphones, adds USB-C",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/",
-   "score": 2,
-   "sources": 2,
-   "summary": "Orange ear cushions included.",
-   "title_ar": "سوني تعيد إحياء سماعات Walkman الأصلية وتضيف منفذ USB-C"
   },
   "arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning": {
    "at": "2026-11-11T17:45:30.625207+00:00",
@@ -5820,17 +5820,6 @@
    "summary": "The iPhone Duo started shipping about two weeks ago, and app support has been one of the early talking points.",
    "title_ar": ""
   },
-  "gsmarena.com/counterpoint_global_dram_revenue_grows_by_369_in_q3-news-75368.php": {
-   "at": "2026-11-05T22:45:28.890258+00:00",
-   "title": "Counterpoint: global DRAM revenue grows by 369% in Q3",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.gsmarena.com/counterpoint_global_dram_revenue_grows_by_369_in_q3-news-75368.php",
-   "score": 0,
-   "sources": 1,
-   "summary": "Global DRAM revenue has increased by an insane 369% year-over-year thanks to strong demand for the stuff, which goes towards building new AI accelerators and data centers.",
-   "title_ar": ""
-  },
   "gsmarena.com/future_iphones_will_have_one_less_button_new_rumor_claims-news-75391.php": {
    "at": "2026-11-07T00:15:30.284956+00:00",
    "title": "Future iPhones will have one less button, new rumor claims",
@@ -6238,17 +6227,6 @@
    "summary": "Samsung’s rumored high-end over-ear headphones, reportedly called Galaxy Studio, are expected to launch in early 2027 alongside the Galaxy S27 series.",
    "title_ar": "أنباء عن تسمية سماعات الرأس فوق الأذن من Samsung باسم Galaxy Studio، وتسريب تفاصيل التصميم"
   },
-  "gsmarena.com/sony_brings_back_the_original_walkman_headphones_with_usbc-news-75372.php": {
-   "at": "2026-11-05T22:45:28.890258+00:00",
-   "title": "Sony brings back the original Walkman headphones with USB-C",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.gsmarena.com/sony_brings_back_the_original_walkman_headphones_with_usbc-news-75372.php",
-   "score": 0,
-   "sources": 1,
-   "summary": "Back in 1979, Sony launched the original Walkman TPS-L2 cassette player alongside the MDR-3 headphones, and together they helped popularize listening to music on the go.",
-   "title_ar": ""
-  },
   "gsmarena.com/spotifys_ai_dj_gets_new_voices_and_an_option_to_stop_the_chatter-news-75425.php": {
    "at": "2026-11-10T20:15:34.443962+00:00",
    "title": "Spotify's AI DJ gets new voices and an option to stop the chatter",
@@ -6577,6 +6555,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Final Fantasy XIV players are paying tribute to the bassist of the game’s official band, mourning him and celebrating his legacy with virtual, in-game funerals across servers worldwide.",
+   "title_ar": ""
+  },
+  "ign.com/articles/former-nvidia-ceo-jensen-huang-reportedly-had-third-affair-with-another-employee": {
+   "at": "2026-11-12T23:00:38.483126+00:00",
+   "title": "Former Nvidia CEO Jensen Huang Reportedly Had Third Affair With Another Employee",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/former-nvidia-ceo-jensen-huang-reportedly-had-third-affair-with-another-employee",
+   "score": 0,
+   "sources": 1,
+   "summary": "Former Nvidia CEO Jensen Huang resigned today amid a scandal involving an affair with a suspected Chinese spy and an executive that reported to him.",
    "title_ar": ""
   },
   "ign.com/articles/former-rockstar-dev-claims-gta-6-online-will-launch-soon": {
@@ -8317,17 +8306,6 @@
    "summary": "John Gibson stepped down from Tripwire Interactive over his support for an abortion ban",
    "title_ar": ""
   },
-  "kotaku.com/legend-zelda-ocarina-of-time-microphone-songs-instruments-2000754324": {
-   "at": "2026-11-05T22:45:28.890258+00:00",
-   "title": "One Of The Coolest New Features In The Ocarina Of Time Remake Is Equal Parts Impressive And Hysterical",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/legend-zelda-ocarina-of-time-microphone-songs-instruments-2000754324",
-   "score": 0,
-   "sources": 1,
-   "summary": "The titular instrument accepts all kinds of inputs, including just straight up yelling",
-   "title_ar": ""
-  },
   "kotaku.com/legend-zelda-ocarina-of-time-remake-majoras-mask-switch-2-2000754641": {
    "at": "2026-11-06T17:15:33.215483+00:00",
    "title": "Ocarina Of Time Remake May Hint At A Majora’s Mask Update, But Not Everyone Is So Sure",
@@ -9516,6 +9494,17 @@
    "summary": "House House maintains gen-AI was not used anywhere else.",
    "title_ar": ""
   },
+  "pcgamer.com/games/rpg/new-4-minute-fable-gameplay-trailer-shows-a-game-that-doesnt-look-much-like-fable": {
+   "at": "2026-11-12T23:00:38.483126+00:00",
+   "title": "New 4-minute Fable gameplay trailer shows a game that doesn't look much like Fable",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/games/rpg/new-4-minute-fable-gameplay-trailer-shows-a-game-that-doesnt-look-much-like-fable/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Maybe it's just me.",
+   "title_ar": ""
+  },
   "pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb": {
    "at": "2026-11-07T11:30:38.939806+00:00",
    "title": "Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB",
@@ -9943,17 +9932,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Asha Sharma doesn't specifically mention AI in her 25th anniversary message, but I'm pretty sure that's what she's talking about.",
-   "title_ar": ""
-  },
-  "pcgamer.com/software/platforms/xbox-enters-the-faster-pc-launcher-arms-race-its-app-loads-faster-now-too": {
-   "at": "2026-11-05T22:45:28.890258+00:00",
-   "title": "Xbox enters the 'faster PC launcher' arms race, its app loads faster now too",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/software/platforms/xbox-enters-the-faster-pc-launcher-arms-race-its-app-loads-faster-now-too/",
-   "score": 0,
-   "sources": 1,
-   "summary": "An updated version of the Xbox PC app available to Xbox Insiders loads up to 60% faster, and it's got some other nice improvements too.",
    "title_ar": ""
   },
   "pcgamer.com/software/zelda-ocarina-of-time-remake-reportedly-running-at-60-fps-on-pc-just-hours-after-games-official-nintendo-switch-2-release": {
@@ -13415,7 +13393,7 @@
   "AI": "2026-11-12T22:45:28.331463+00:00",
   "Anime": "2026-11-12T20:00:41.535054+00:00",
   "Games": "2026-11-12T22:30:41.416256+00:00",
-  "Tech": "2026-11-12T22:15:30.200216+00:00"
+  "Tech": "2026-11-12T23:00:38.483126+00:00"
  },
  "digest_day": "2026-11-12",
  "weekly_day": "2026-11-06"
