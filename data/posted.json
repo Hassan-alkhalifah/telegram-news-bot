@@ -3664,17 +3664,6 @@
    "summary": "Xiaomi's HyperOS 4 update includes intriguing new features like Soft Light Glass, memory improvements and more, but the not everyone will get the perks.",
    "title_ar": "هواتف Xiaomi هذه لن تحصل بعد الآن على الدعم لتحديث HyperOS 4 الأخير"
   },
-  "engadget.com/2308483/a-bioware-documentary-is-set-to-arrive-next-year": {
-   "at": "2026-11-05T20:45:31.270612+00:00",
-   "title": "A BioWare documentary is set to arrive next year",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.engadget.com/2308483/a-bioware-documentary-is-set-to-arrive-next-year/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Massive Effect: The BioWare Story started filming two years before EA shut down the studio.",
-   "title_ar": ""
-  },
   "engadget.com/2308541/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead": {
    "at": "2026-11-06T03:00:46.280201+00:00",
    "title": "Google is ditching Firebase Studio soon, and it wants you to use its newer AI tools instead",
@@ -5291,6 +5280,17 @@
    "sources": 1,
    "summary": "Publisher Raw Fury and developer Bippinbits will release roguelike action mining game Dome Keeper for …",
    "title_ar": ""
+  },
+  "gematsu.com/2026/11/doom-the-dark-ages-dlc-revelations-slaughter-mode-update-launches-november-16": {
+   "at": "2026-11-12T21:00:42.157304+00:00",
+   "title": "DOOM: The Dark Ages DLC ‘Revelations’ – ‘Slaughter Mode’ update launches November 16",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.gematsu.com/2026/11/doom-the-dark-ages-dlc-revelations-slaughter-mode-update-launches-november-16",
+   "score": 4,
+   "sources": 2,
+   "summary": "Publisher Bethesda Softworks and developer id Software will release a free update for DOOM: The …",
+   "title_ar": "إطلاق تحديث Slaughter Mode للعبة DOOM: The Dark Ages DLC بعنوان Revelations في 16 نوفمبر"
   },
   "gematsu.com/2026/11/dragon-quest-rpg-the-cursed-tree-and-the-chosen-isle-announced-for-ios-android": {
    "at": "2026-11-09T13:45:28.237630+00:00",
@@ -7437,6 +7437,17 @@
    "summary": "After teasing the release of their first AAA game, Devolver Digital made its announcement on the new title.",
    "title_ar": ""
   },
+  "insider-gaming.com/doom-dark-ages-free-slaughter-mode-november-16": {
+   "at": "2026-11-12T21:00:42.157304+00:00",
+   "title": "DOOM: The Dark Ages Slaughter Mode Arrives November 16",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/doom-dark-ages-free-slaughter-mode-november-16/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Free Slaughter Mode launches for DOOM: The Dark Ages on November 16, bringing endless single-player demon battles across multiple arenas.",
+   "title_ar": ""
+  },
   "insider-gaming.com/doomsday-begins-in-marvel-rivals-season-11-as-nightcrawler-dracula-are-unveiled": {
    "at": "2026-11-10T18:00:45.031142+00:00",
    "title": "Doomsday Begins In Marvel Rivals Season 11 As Nightcrawler & Dracula Are Unveiled",
@@ -8117,6 +8128,17 @@
    "score": 0,
    "sources": 1,
    "summary": "The Legend of Zelda: Ocarina of Time is on the best seller list for the Ninendo eShop with other nostalgic titles.",
+   "title_ar": ""
+  },
+  "kotaku.com/a-one-a-two-hoo-a-three-2000756353": {
+   "at": "2026-11-12T21:00:42.157304+00:00",
+   "title": "A-One, A Two-Hoo, A-Three…",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/a-one-a-two-hoo-a-three-2000756353",
+   "score": 0,
+   "sources": 1,
+   "summary": "A third Jensen Huang affair is being reported",
    "title_ar": ""
   },
   "kotaku.com/a-second-jensen-huang-affair-has-hit-nvidia-as-company-considers-throwing-him-overboard-2000756033": {
@@ -9923,17 +9945,6 @@
    "summary": "A new report says that video evidence of the affair exists, but was swept under the rug.",
    "title_ar": ""
   },
-  "pcgamer.com/software/ai/sam-altman-is-annoyed-his-dram-comment-was-taken-out-of-context": {
-   "at": "2026-11-05T20:45:31.270612+00:00",
-   "title": "Sam Altman is annoyed his DRAM comment was 'taken out of context'",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/software/ai/sam-altman-is-annoyed-his-dram-comment-was-taken-out-of-context/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Him being annoyed has not made DRAM cheaper, however.",
-   "title_ar": ""
-  },
   "pcgamer.com/software/platforms/xbox-enters-the-faster-pc-launcher-arms-race-its-app-loads-faster-now-too": {
    "at": "2026-11-05T22:45:28.890258+00:00",
    "title": "Xbox enters the 'faster PC launcher' arms race, its app loads faster now too",
@@ -11550,17 +11561,6 @@
    "sources": 1,
    "summary": "OpenAI's new GPT-6 Astra model apparently sabotaged AI safety research on purpose.",
    "title_ar": "OpenAI GPT-6 Astra يقوم سرا بتخريب أبحاث الأمان من خلال اختراع عقبات وهمية"
-  },
-  "the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them": {
-   "at": "2026-11-05T20:45:31.270612+00:00",
-   "title": "OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/",
-   "score": 1,
-   "sources": 1,
-   "summary": "With GPT-6 Cyber, OpenAI is introducing an AI model built to find security vulnerabilities in software, develop exploits, and suggest patches.",
-   "title_ar": "GPT-6 Cyber من OpenAI قادرة علىاختراق الأنظمة واقتراح طرق إصلاحها"
   },
   "the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent": {
    "at": "2026-11-06T17:00:48.163456+00:00",
@@ -13381,7 +13381,7 @@
  "topic_last_posted": {
   "AI": "2026-11-12T19:45:29.855688+00:00",
   "Anime": "2026-11-12T20:00:41.535054+00:00",
-  "Games": "2026-11-12T20:30:38.172843+00:00",
+  "Games": "2026-11-12T21:00:42.157304+00:00",
   "Tech": "2026-11-12T20:45:29.538831+00:00"
  },
  "digest_day": "2026-11-12",
