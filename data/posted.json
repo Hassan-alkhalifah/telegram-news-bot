@@ -518,6 +518,17 @@
    "summary": "After first appearing months ago, the Motorola MA2 wireless Android Auto adapter is officially available for purchase in the US, but at a much higher price than expected. more…",
    "title_ar": "محول Android Auto اللاسلكي Motorola MA2 متاح الآن، ولكن بسعر يقارب الضاعف"
   },
+  "9to5google.com/2026/11/12/android-17-qpr3-beta-3-pixel-2": {
+   "at": "2026-11-12T21:30:35.379377+00:00",
+   "title": "Google rolling out Android 17 QPR3 Beta 4 for Pixel",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5google.com/2026/11/12/android-17-qpr3-beta-3-pixel-2/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Following the early stable launch of QPR2 , Android 17 QPR3 Beta 4 is rolling out to Pixel devices today. more…",
+   "title_ar": ""
+  },
   "9to5google.com/2026/11/12/android-xr-glasses-add-on-prices": {
    "at": "2026-11-12T16:45:32.631702+00:00",
    "title": "The price of your Android XR glasses can quickly skyrocket with add-ons",
@@ -1474,6 +1485,17 @@
    "sources": 1,
    "summary": "Apple’s new HomeView ( review here ) and Apple TV 4K ( review ) arrive in stores this Friday, November 13.",
    "title_ar": ""
+  },
+  "9to5mac.com/2026/11/12/apple-homeview-launches-tomorrow-but-its-first-security-update-is-already-here": {
+   "at": "2026-11-12T21:30:35.379377+00:00",
+   "title": "Apple HomeView launches tomorrow, but its first security update is already here",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/12/apple-homeview-launches-tomorrow-but-its-first-security-update-is-already-here/",
+   "score": 2,
+   "sources": 1,
+   "summary": "While the first HomeView units won’t reach customers until tomorrow, Apple today released a software update addressing nine security vulnerabilities.",
+   "title_ar": "إطلاق Apple HomeView غداً، ولكن تحديثه الأمني الأول متوفر بالفعل"
   },
   "9to5mac.com/2026/11/12/apple-notes-adds-a-powerful-new-advantage-in-ios-27-3": {
    "at": "2026-11-12T16:15:31.023666+00:00",
@@ -8075,6 +8097,17 @@
    "summary": "In a post on social media, the XBOX CEO, Asha Sharma, revealed a new 10-year partnership between her firm and Take-Two Interactive.",
    "title_ar": "الرئيس التنفيذي لـ XBOX يكشف عن \"شراكة استراتيجية جديدة لمدة 10 سنوات\" مع Take-Two"
   },
+  "insider-gaming.com/xbox-officially-reveals-21-classic-games-coming-to-pc": {
+   "at": "2026-11-12T21:30:35.379377+00:00",
+   "title": "XBOX Officially Reveals 21 Classic Games Coming to PC",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/xbox-officially-reveals-21-classic-games-coming-to-pc/",
+   "score": 0,
+   "sources": 1,
+   "summary": "25 classic games are officially coming to PC through backwards compatibility, following earlier reports of leaked games.",
+   "title_ar": ""
+  },
   "insider-gaming.com/zelda-ocarina-of-time-remake-best-seller-nintendo-eshop": {
    "at": "2026-11-09T17:00:50.730012+00:00",
    "title": "Zelda: Ocarina of Time Remake Becomes a Best Seller on Nintendo eShop",
@@ -11837,6 +11870,17 @@
    "summary": "Sony is retiring the PlayStation Plus app for PC on December 10th.",
    "title_ar": ""
   },
+  "theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility": {
+   "at": "2026-11-12T21:30:35.379377+00:00",
+   "title": "Here are the 25 original Xbox games you can now play on PC",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility",
+   "score": 0,
+   "sources": 1,
+   "summary": "For the 25th anniversary of Xbox, Microsoft is beginning to make good on its paid \"next-gen game preservation\" promise.",
+   "title_ar": ""
+  },
   "theverge.com/news/1028281/salon-dot-com-shuts-down": {
    "at": "2026-11-05T22:15:31.814072+00:00",
    "title": "Salon is shutting down after 31 years",
@@ -13327,7 +13371,7 @@
   "AI": "2026-11-12T21:15:29.818668+00:00",
   "Anime": "2026-11-12T20:00:41.535054+00:00",
   "Games": "2026-11-12T21:00:42.157304+00:00",
-  "Tech": "2026-11-12T20:45:29.538831+00:00"
+  "Tech": "2026-11-12T21:30:35.379377+00:00"
  },
  "digest_day": "2026-11-12",
  "weekly_day": "2026-11-06"
