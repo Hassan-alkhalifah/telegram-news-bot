@@ -617,17 +617,6 @@
    "summary": "Good morning.",
    "title_ar": "الإطلاق المتعثر لهاتف iPhone Duo يذكرنا بمدى التقدم الذي وصل إليه هواتف Android القابلة للطي"
   },
-  "9to5mac.com/2026/11/05/apple-arcade-adds-four-games-including-crossy-road-rush-and-nba-2k27-with-wnba-teams": {
-   "at": "2026-11-05T21:00:46.840060+00:00",
-   "title": "Apple Arcade adds four games, including Crossy Road Rush and NBA 2K27 with WNBA teams",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/05/apple-arcade-adds-four-games-including-crossy-road-rush-and-nba-2k27-with-wnba-teams/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Apple Arcade subscribers got four new games today, with another major release coming next week.",
-   "title_ar": "خدمة Apple Arcade تضيف أربعة ألعاب، تتضمن Crossy Road Rush و NBA 2K27 مع فرق WNBA"
-  },
   "9to5mac.com/2026/11/05/apple-explains-how-to-turn-off-the-new-macbook-pros-glowing-logo": {
    "at": "2026-11-06T02:00:44.224756+00:00",
    "title": "Apple explains how to turn off the new MacBook Pro’s glowing logo",
@@ -1848,17 +1837,6 @@
    "sources": 1,
    "summary": "Shunsuke Takarai to direct light-hearted ninja anime based on concept by Kinema Citrus",
    "title_ar": "أنمي Ninja Skooler يكشف عن فيلم تجريبي وصور وأغنية"
-  },
-  "animenewsnetwork.com/news/2026-11-05/nintendo-switch-2-sells-over-26-million-units/.243567": {
-   "at": "2026-11-05T21:00:46.840060+00:00",
-   "title": "Nintendo Switch 2 Sells Over 26 Million Units",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-05/nintendo-switch-2-sells-over-26-million-units/.243567",
-   "score": 0,
-   "sources": 1,
-   "summary": "Mario Kart World , Donkey Kong Bananza , Pokémon Legends: Z-A , Pokémon Pokopia top Switch 2 sales",
-   "title_ar": ""
   },
   "animenewsnetwork.com/news/2026-11-06/booty-royale-never-go-down-without-a-fight-manga-gets-tv-anime-in-january/.243584": {
    "at": "2026-11-06T06:00:52.963385+00:00",
@@ -7415,17 +7393,6 @@
    "summary": "Some details of Dark Outlaw Games' canceled DOOM-inspired game have surfaced online thanks to a fantastic investigation by the content creator Glitching Queen.",
    "title_ar": "تسريبات تفاصيل لعبة ملغاة مستوحاة من DOOM من مطور Dark Outlaw Games"
   },
-  "insider-gaming.com/date-everything-hits-1m-copies-sold": {
-   "at": "2026-11-05T21:15:28.679773+00:00",
-   "title": "Date Everything Hits 1M Copies Sold",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/date-everything-hits-1m-copies-sold/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Who says modern society has a loneliness crisis?",
-   "title_ar": ""
-  },
   "insider-gaming.com/devolver-digital-reveals-its-first-aaa-game": {
    "at": "2026-11-10T18:45:32.038513+00:00",
    "title": "Devolver Digital Reveals Its First “AAA” Game",
@@ -7458,17 +7425,6 @@
    "sources": 1,
    "summary": "Nightcrawler has officially been unveiled by NetEase Games as the newest hero to join the Marvel Rivals roster with Season 11.",
    "title_ar": "بداية نهاية العالم في الموسم 11 من Marvel Rivals مع الكشف عن Nightcrawler و Dracula"
-  },
-  "insider-gaming.com/ea-launches-25-classic-games-on-steam": {
-   "at": "2026-11-05T21:15:28.679773+00:00",
-   "title": "EA Releases 25 Classic Games on Steam, Including Road Rash and Wing Commander",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/ea-launches-25-classic-games-on-steam/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Some of the classic games released include anniversary editions of influential titles in PC gaming such as Road Rash and Wing Commander.",
-   "title_ar": ""
   },
   "insider-gaming.com/ea-sports-fc-27-update-v1-2-0-patch-notes": {
    "at": "2026-11-10T12:45:34.396719+00:00",
@@ -11243,6 +11199,17 @@
    "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
    "title_ar": ""
   },
+  "technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking": {
+   "at": "2026-11-12T21:15:29.818668+00:00",
+   "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told…",
+   "title_ar": "Nvidia تؤكد سراً قدرتها على تتبع الشرائح لمكافحة التهريب، حتى في الوقت الذي تشكك فيه الصناعة علناً في جدوى ذلك"
+  },
   "the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news": {
    "at": "2026-11-08T14:30:40.295364+00:00",
    "title": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News",
@@ -12827,17 +12794,6 @@
    "summary": "There are multiple speculations about Alice Huang's s history and how she built her relationship with Jensen Huang.",
    "title_ar": ""
   },
-  "tomshardware.com/video-games/handheld-gaming/grab-a-nintendo-switch-2-controller-upgrade-from-usd49-just-in-time-for-zelda-ocarina-of-times-remaster-secure-the-tools-to-defeat-ganondorf-with-these-top-wireless-gamepads-from-8bitdo-gamesir-and-others": {
-   "at": "2026-11-05T21:00:46.840060+00:00",
-   "title": "Grab a Nintendo Switch 2 controller upgrade from $49, just in time for Zelda: Ocarina of Time's remaster",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.tomshardware.com/video-games/handheld-gaming/grab-a-nintendo-switch-2-controller-upgrade-from-usd49-just-in-time-for-zelda-ocarina-of-times-remaster-secure-the-tools-to-defeat-ganondorf-with-these-top-wireless-gamepads-from-8bitdo-gamesir-and-others",
-   "score": 0,
-   "sources": 1,
-   "summary": "A selection of the best Switch 2 controllers for getting your best Zelda game on.",
-   "title_ar": ""
-  },
   "tomshardware.com/video-games/japanese-arcades-suffer-week-long-blackout-following-sega-server-hack-bandai-namco-titles-resume-trial-operations-as-sega-games-remain-offline": {
    "at": "2026-11-08T15:05:38.712882+00:00",
    "title": "Japanese arcades suffer week-long blackout following Sega server hack",
@@ -12947,17 +12903,6 @@
    "sources": 1,
    "summary": "Third Signal plans to give studios more creative freedom",
    "title_ar": ""
-  },
-  "videogameschronicle.com/news/ea-has-released-25-classic-restored-games-on-pc-including-ultima-and-road-rash": {
-   "at": "2026-11-05T21:15:28.679773+00:00",
-   "title": "EA has released classic ‘restored’ games on PC, including Ultima and Road Rash",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.videogameschronicle.com/news/ea-has-released-25-classic-restored-games-on-pc-including-ultima-and-road-rash/",
-   "score": 3,
-   "sources": 2,
-   "summary": "Wing Commander and Ultima games are among the EA classics getting re-released on PC.",
-   "title_ar": "أصدرت EA ألعاباً كلاسيكية \"مستعادة\" على الحاسب الشخصي، بما في ذلك Ultima و Road Rash"
   },
   "videogameschronicle.com/news/fortnite-officially-confirms-pirate-shop-access-token-drop-rate-as-players-hunt-for-item-which-makes-entire-shop-free": {
    "at": "2026-11-09T10:00:46.647682+00:00",
@@ -13379,7 +13324,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-12T19:45:29.855688+00:00",
+  "AI": "2026-11-12T21:15:29.818668+00:00",
   "Anime": "2026-11-12T20:00:41.535054+00:00",
   "Games": "2026-11-12T21:00:42.157304+00:00",
   "Tech": "2026-11-12T20:45:29.538831+00:00"
