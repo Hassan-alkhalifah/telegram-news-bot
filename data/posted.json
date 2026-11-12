@@ -56,17 +56,6 @@
    "summary": "Following the Messages update earlier this week , Phone by Google has received its redesigned gradient icon in the beta channel. more…",
    "title_ar": "تطبيق Phone by Google في نسخته التجريبية 246 يجلب تصميماً جديداً للأيقونات المتدرجة على نظام Android"
   },
-  "9to5google.com/2026/11/05/the-android-17-coloros-17-update-november-2026-device-list": {
-   "at": "2026-11-05T17:30:42.806592+00:00",
-   "title": "The Android 17 ColorOS 17 update is coming to 6 more OnePlus devices this month",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/05/the-android-17-coloros-17-update-november-2026-device-list/",
-   "score": 1,
-   "sources": 1,
-   "summary": "All of OnePlus’s latest devices are getting ColorOS 17, including the much-beloved OnePlus Open foldable. more…",
-   "title_ar": "تحديث Android 17 مع ColorOS 17 قادم إلى 6 أجهزة إضافية من OnePlus هذا الشهر"
-  },
   "9to5google.com/2026/11/06/android-xr-glasses-release-date-window-confirmed": {
    "at": "2026-11-06T23:15:30.591449+00:00",
    "title": "Android XR glasses officially get a December release date [Video]",
@@ -5380,6 +5369,17 @@
    "summary": "Publisher Kwalee and developer Clover Bite will release Metroidvania game sequel GRIME II for Switch …",
    "title_ar": ""
   },
+  "gematsu.com/2026/11/halo-campaign-evolved-firefight-update-announced": {
+   "at": "2026-11-12T17:45:28.190298+00:00",
+   "title": "Halo: Campaign Evolved ‘Firefight’ update announced",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.gematsu.com/2026/11/halo-campaign-evolved-firefight-update-announced",
+   "score": 4,
+   "sources": 2,
+   "summary": "Publisher Xbox Game Studios and developer Halo Studios have announced the Halo: Campaign Evolved “Firefight” …",
+   "title_ar": "الإعلان عن تحديث Firefight لعبة Halo: Campaign Evolved"
+  },
   "gematsu.com/2026/11/hard-west-ii-for-ps5-xbox-series-launches-november-10": {
    "at": "2026-11-05T18:30:39.633520+00:00",
    "title": "Hard West II for PS5, Xbox Series launches November 10",
@@ -7569,6 +7569,17 @@
    "summary": "Rockstar Games have announced Grand Theft Auto 6: The Festival as a way to celebrate the launch of their generational open-world game.",
    "title_ar": ""
   },
+  "insider-gaming.com/halo-campaign-evolved-firefight-update-adds-4-player-pve-mode": {
+   "at": "2026-11-12T17:45:28.190298+00:00",
+   "title": "Halo: Campaign Evolved Firefight Update Adds 4-Player PvE Mode",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/halo-campaign-evolved-firefight-update-adds-4-player-pve-mode/",
+   "score": 0,
+   "sources": 1,
+   "summary": "XBOX is giving you a new excuse to jump back into Halo: Campaign Evolved with the new Firefight Update arriving in 2026.",
+   "title_ar": ""
+  },
   "insider-gaming.com/hellraiser-revival-demo-out-on-ps5": {
    "at": "2026-11-11T17:00:46.445959+00:00",
    "title": "Hellraiser: Revival Demo Out on PS5",
@@ -9296,17 +9307,6 @@
    "summary": "On PC, however, GTA 6 remains among the least pre-ordered games of all time because, well, you know.",
    "title_ar": ""
   },
-  "pcgamer.com/games/grand-theft-auto/rockstar-drops-a-pile-of-new-gta-6-launch-screenshots-featuring-dancers-combat-dogs-and-so-many-pores": {
-   "at": "2026-11-05T17:30:42.806592+00:00",
-   "title": "Rockstar drops a pile of new GTA 6 launch screenshots featuring dancers, combat dogs, and so many pores",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-drops-a-pile-of-new-gta-6-launch-screenshots-featuring-dancers-combat-dogs-and-so-many-pores/",
-   "score": 0,
-   "sources": 1,
-   "summary": "In 39 new screenshots, Rockstar flaunts exciting new genres of Florida Man.",
-   "title_ar": ""
-  },
   "pcgamer.com/games/grand-theft-auto/rockstar-is-putting-on-a-last-minute-live-music-festival-featuring-travis-scott-and-cardi-b-to-celebrate-gta-6s-launch": {
    "at": "2026-11-10T12:30:45.020226+00:00",
    "title": "Rockstar is putting on a last-minute live music festival featuring Travis Scott and Cardi B to celebrate GTA 6's launch",
@@ -9571,6 +9571,17 @@
    "summary": "Two weeks after his uncharacteristically spicy comments on the demise of BioWare, Spector's anger clearly has not subsided.",
    "title_ar": ""
   },
+  "pcgamer.com/hardware/after-jensen-huangs-resignation-from-nvidia-its-all-praise-or-political-finger-wagging-about-the-ex-ceo-with-little-in-between": {
+   "at": "2026-11-12T17:45:28.190298+00:00",
+   "title": "After Jensen Huang's resignation from Nvidia, it's all praise or political finger-wagging about the ex-CEO, with little in between",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/hardware/after-jensen-huangs-resignation-from-nvidia-its-all-praise-or-political-finger-wagging-about-the-ex-ceo-with-little-in-between/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Sadness is the general sentiment, it seems.",
+   "title_ar": ""
+  },
   "pcgamer.com/hardware/ex-tekken-director-savages-xbox-series-s-in-front-of-senior-xbox-staff-feels-like-having-to-do-extra-work-for-a-slightly-weaker-child": {
    "at": "2026-11-11T17:30:36.579050+00:00",
    "title": "Ex-Tekken director savages Xbox Series S in front of senior Xbox staff: ‘feels like having to do extra work for a slightly weaker child’",
@@ -9734,6 +9745,17 @@
    "score": 0,
    "sources": 1,
    "summary": "That's just under 10% of the company's market cap.",
+   "title_ar": ""
+  },
+  "pcgamer.com/hardware/nvidia-stocks-jump-back-up-after-ex-ceo-jensen-huangs-ousting": {
+   "at": "2026-11-12T17:45:28.190298+00:00",
+   "title": "Nvidia stocks jump back up after ex-CEO Jensen Huang's ousting",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/hardware/nvidia-stocks-jump-back-up-after-ex-ceo-jensen-huangs-ousting/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nvidia's share price has seemingly grown by around 10% since pre-market trading lows.",
    "title_ar": ""
   },
   "pcgamer.com/hardware/this-would-be-an-apple-firing-steve-jobs-level-of-idiocy-says-tim-sweeney-at-the-idea-of-ousting-jensen-huang-while-elon-musk-says-it-would-be-an-honor-to-hire-the-nvidia-chief": {
@@ -10957,6 +10979,17 @@
    "summary": "This is Fireworks' second data breach in as many months.",
    "title_ar": "هجوم سيبراني على Fireworks AI يتيح للقراصنة الوصول إلى نصوص محادثات عملاء Notion"
   },
+  "techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit": {
+   "at": "2026-11-12T17:45:28.190298+00:00",
+   "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Hugging Face's CEO pledged to keep fighting for open-source AI after Huang's exit, raising questions about Nvidia's $12.9B acquisition.",
+   "title_ar": ""
+  },
   "techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress": {
    "at": "2026-11-12T16:45:32.631702+00:00",
    "title": "Jensen Huang agrees to testify before Congress",
@@ -11650,17 +11683,6 @@
    "summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year.",
    "title_ar": "شركة Oura تستحوذ على شركة الناشئة للروبوتات الطبية بالذكاء الاصطناعي Counsel Health"
   },
-  "theverge.com/games/1027757/nintendo-switch-2-price-hike-plans-ram": {
-   "at": "2026-11-05T17:30:42.806592+00:00",
-   "title": "Nintendo says it’s not planning another Switch 2 price hike",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/games/1027757/nintendo-switch-2-price-hike-plans-ram",
-   "score": 0,
-   "sources": 1,
-   "summary": "Nintendo president Shuntaro Furukawa said during the company's latest earnings call that it's \"not considering additional changes\" to the Switch 2's price, Reuters reports.",
-   "title_ar": ""
-  },
   "theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai": {
    "at": "2026-11-10T17:45:28.481552+00:00",
    "title": "The indie game community is in disarray over AI and Big Walk",
@@ -11747,17 +11769,6 @@
    "score": 0,
    "sources": 1,
    "summary": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier.",
-   "title_ar": ""
-  },
-  "theverge.com/tech/1027772/tiktok-shop-app": {
-   "at": "2026-11-05T17:30:42.806592+00:00",
-   "title": "TikTok launched a dedicated TikTok Shop app",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/tech/1027772/tiktok-shop-app",
-   "score": 0,
-   "sources": 1,
-   "summary": "TikTok has released a standalone app for TikTok Shop in a few countries, as spotted by social media consultant Matt Navarra.",
    "title_ar": ""
   },
   "theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile": {
@@ -13150,7 +13161,7 @@
  "topic_last_posted": {
   "AI": "2026-11-12T17:00:46.909589+00:00",
   "Anime": "2026-11-12T17:30:34.729491+00:00",
-  "Games": "2026-11-12T16:45:32.631702+00:00",
+  "Games": "2026-11-12T17:45:28.190298+00:00",
   "Tech": "2026-11-12T17:15:30.373926+00:00"
  },
  "digest_day": "2026-11-11",
