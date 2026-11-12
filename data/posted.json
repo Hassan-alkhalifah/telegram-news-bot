@@ -672,17 +672,6 @@
    "summary": "According to a new report from Counterpoint Research , Apple just recorded its highest-ever global smartphone revenue for a third calendar quarter.",
    "title_ar": ""
   },
-  "9to5mac.com/2026/11/05/report-apples-planned-7-billion-bond-sale-attracts-four-times-as-much-demand": {
-   "at": "2026-11-05T20:30:38.644512+00:00",
-   "title": "Report: Apple’s planned $7 billion bond sale attracts four times as much demand",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/05/report-apples-planned-7-billion-bond-sale-attracts-four-times-as-much-demand/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Apple has filed a preliminary prospectus with the SEC outlining plans to issue seven series of bonds.",
-   "title_ar": "تقرير: مبيعات السندات التي تخطط لها Apple بقيمة 7 مليارات دولار تجذب طلباً يبلغ أربعة أضعاف"
-  },
   "9to5mac.com/2026/11/05/report-ipad-shipments-drop-27-5-as-global-tablet-market-plunges-in-q3": {
    "at": "2026-11-06T01:00:43.465124+00:00",
    "title": "Report: iPad shipments drop 27.5% as global tablet market plunges in Q3",
@@ -1540,6 +1529,17 @@
    "sources": 1,
    "summary": "Key Apple manufacturing partner Foxconn has announced a year-on-year revenue increase of 46%, thanks to a mix of consumer electronics and server demand.",
    "title_ar": "ارتفاع إيرادات Foxconn بنسبة 46%، وBloomberg تتوقع مبيعات بـ 16 مليون وحدة لـ iPhone Duo"
+  },
+  "9to5mac.com/2026/11/12/grok-bot-for-mac-adds-integration-with-apple-mail-messages-notes-and-more": {
+   "at": "2026-11-12T20:45:29.538831+00:00",
+   "title": "Grok Bot for Mac adds integration with Apple Mail, Messages, Notes, and more",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/12/grok-bot-for-mac-adds-integration-with-apple-mail-messages-notes-and-more/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Grok Bot for Mac just gained a bunch of new Apple integrations, including Messages, Mail, Notes, and more. more…",
+   "title_ar": ""
   },
   "9to5mac.com/2026/11/12/heres-apples-new-ad-for-the-holiday-season-featuring-macbook-neo": {
    "at": "2026-11-12T12:00:41.421543+00:00",
@@ -5248,6 +5248,17 @@
    "summary": "Black Forest Games has split from THQ Nordic after nearly 10 years of ownership, the …",
    "title_ar": ""
   },
+  "gematsu.com/2026/11/commandos-origins-deluxe-edition-coming-to-switch-2-on-december-15": {
+   "at": "2026-11-12T20:45:29.538831+00:00",
+   "title": "Commandos: Origins Deluxe Edition coming to Switch 2 on December 15",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gematsu.com/2026/11/commandos-origins-deluxe-edition-coming-to-switch-2-on-december-15",
+   "score": 0,
+   "sources": 1,
+   "summary": "Publisher Kalypso Media and developer Engine Software will release stealth tactics game Commandos: Origins Deluxe …",
+   "title_ar": ""
+  },
   "gematsu.com/2026/11/cozy-life-simulation-game-wish-upon-a-llama-launches-december-9-for-ps5-xbox-series-ps4-xbox-one-switch-and-pc": {
    "at": "2026-11-09T22:45:30.460961+00:00",
    "title": "Cozy life simulation game Wish Upon a Llama launches December 9 for PS5, Xbox Series, PS4, Xbox One, Switch, and PC",
@@ -5764,6 +5775,17 @@
    "sources": 1,
    "summary": "Airbnb has spent much of 2026 folding AI into search, listing descriptions, and customer support.",
    "title_ar": ""
+  },
+  "gsmarena.com/analysts_samsung_held_twothirds_of_the_global_foldable_market_in_q3_thanks_to_the_z_fold8-news-75455.php": {
+   "at": "2026-11-12T20:45:29.538831+00:00",
+   "title": "Analysts: Samsung held two-thirds of the global foldable market in Q3, thanks to the Z Fold8",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.gsmarena.com/analysts_samsung_held_twothirds_of_the_global_foldable_market_in_q3_thanks_to_the_z_fold8-news-75455.php",
+   "score": 1,
+   "sources": 1,
+   "summary": "Samsung was the undisputed foldable king in the third quarter of this year, reports Smart Analytics Global (SAG) based on data from its Smartphone 360 research service.",
+   "title_ar": "المحللون: سامسونج استوذت على ثلثي سوق الهواتف القابلة للطي العالمي في الربع الثالث بفضل Z Fold8"
   },
   "gsmarena.com/announcing_the_nominees_for_the_gsmarena_2026_endofyear_awards-news-75263.php": {
    "at": "2026-11-10T01:00:46.659900+00:00",
@@ -13360,7 +13382,7 @@
   "AI": "2026-11-12T19:45:29.855688+00:00",
   "Anime": "2026-11-12T20:00:41.535054+00:00",
   "Games": "2026-11-12T20:30:38.172843+00:00",
-  "Tech": "2026-11-12T20:15:34.791975+00:00"
+  "Tech": "2026-11-12T20:45:29.538831+00:00"
  },
  "digest_day": "2026-11-12",
  "weekly_day": "2026-11-06"
