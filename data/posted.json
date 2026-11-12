@@ -760,17 +760,6 @@
    "summary": "Despite global iPad shipments dropping 27.5% year-over-year in the third calendar quarter, Apple maintained its lead in the tablet market, according to a new report released today.",
    "title_ar": ""
   },
-  "9to5mac.com/2026/11/05/whatsapp-adds-shareable-event-invites-and-a-new-events-hub": {
-   "at": "2026-11-05T15:00:46.840509+00:00",
-   "title": "WhatsApp adds shareable event invites and a new Events hub",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/05/whatsapp-adds-shareable-event-invites-and-a-new-events-hub/",
-   "score": 1,
-   "sources": 1,
-   "summary": "WhatsApp is rolling out an update to Events just in time for holiday get-togethers.",
-   "title_ar": "WhatsApp يضيف دعوات فعاليات قابلة للمشاركة ومركز فعاليات جديداً"
-  },
   "9to5mac.com/2026/11/05/whatsapps-ai-powered-photo-expansion-tool-starts-rolling-out-on-ios": {
    "at": "2026-11-06T01:30:38.742448+00:00",
    "title": "WhatsApp’s AI-powered photo expansion tool starts rolling out on iOS",
@@ -1595,6 +1584,17 @@
    "sources": 1,
    "summary": "Jensen Huang has resigned as the CEO of Nvidia following recent reports of extramarital affairs, including one involving a woman suspected of spying for China.",
    "title_ar": ""
+  },
+  "9to5mac.com/2026/11/12/mount-thor-raises-45-million-to-build-mac-data-centers-for-ai-agents": {
+   "at": "2026-11-12T15:15:28.392808+00:00",
+   "title": "Mount Thor raises $45 million to build Mac data centers for AI agents",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/12/mount-thor-raises-45-million-to-build-mac-data-centers-for-ai-agents/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform.",
+   "title_ar": "شركة Mount Thor تجمع 45 مليون دولار لبناء مراكز بيانات Mac مخصصة لوكلاء الذكاء الاصطناعي"
   },
   "9to5mac.com/2026/11/12/nvidia-ceo-jensen-huang-set-to-be-fired-with-johny-srouji-listed-among-possible-replacements": {
    "at": "2026-11-12T12:00:41.421543+00:00",
@@ -4555,17 +4555,6 @@
    "summary": "You'd be forgiven for forgetting that Amy Hennig's superhero game Marvel 1943: Rise of Hydra exists, but apparently it's still in development despite its many troubles and rumours to the contrary.",
    "title_ar": ""
   },
-  "eurogamer.net/nintendo-switch-2-no-plans-for-more-price-hikes": {
-   "at": "2026-11-05T15:00:46.840509+00:00",
-   "title": "Nintendo says it isn't planning any more Switch 2 price hikes",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.eurogamer.net/nintendo-switch-2-no-plans-for-more-price-hikes",
-   "score": 0,
-   "sources": 1,
-   "summary": "Nintendo, which unveiled the results of the first half of its fiscal year 2027 earlier today , has now said it has access to enough quantities of memory to manufacture more Switch 2 consoles.",
-   "title_ar": ""
-  },
   "eurogamer.net/nvidia-ceo-jensen-huang-affair-share-price": {
    "at": "2026-11-12T11:45:27.028227+00:00",
    "title": "Nvidia board considering ousting CEO Jensen Huang, report claims, as news of a second affair comes to light",
@@ -4586,6 +4575,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Nvidia's board of directors has launched an investigation into its own CEO Jensen Huang, after a report by the New York Times claimed he had been participating in an affair with an alleged Chinese…",
+   "title_ar": ""
+  },
+  "eurogamer.net/nvidia-ceo-jensen-huang-resigns": {
+   "at": "2026-11-12T15:15:28.392808+00:00",
+   "title": "After days of controversy, Nvidia CEO Jensen Huang has resigned",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/nvidia-ceo-jensen-huang-resigns",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nvidia's founder and CEO Jensen Huang has resigned from his position as leader of one of the most valuable companies in the world.",
    "title_ar": ""
   },
   "eurogamer.net/ocarina-of-time-support-studios-confirmed-switch-2": {
@@ -4784,17 +4784,6 @@
    "score": 0,
    "sources": 1,
    "summary": "If you're a World of Warcraft: Forever player you're almost certainly having your free time drained as you chain yourself to your desktop PC to play the game, or maybe a laptop.",
-   "title_ar": ""
-  },
-  "eurogamer.net/world-of-warcraft-forever-launch-twitch-most-viewed": {
-   "at": "2026-11-05T15:00:46.840509+00:00",
-   "title": "World of Warcraft: Forever's seemingly stellar launch continues as it soars to the top of Twitch's most viewed games, beating out the likes of League of Legends and Zelda",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.eurogamer.net/world-of-warcraft-forever-launch-twitch-most-viewed",
-   "score": 0,
-   "sources": 1,
-   "summary": "World of Warcraft: Forever launched last night after a hugely successful beta, and it's not just players getting in on the fun.",
    "title_ar": ""
   },
   "eurogamer.net/wow-forever-biggest-launch-world-of-warcraft-history-concurrent-players": {
@@ -9923,6 +9912,17 @@
    "summary": "Code-in-box.",
    "title_ar": ""
   },
+  "pushsquare.com/news/2026/11/intergalactic-ps5-in-the-last-stage-of-production-gameplay-coming-next-year": {
+   "at": "2026-11-12T15:15:28.392808+00:00",
+   "title": "Intergalactic PS5 in the 'Last Stage of Production', Gameplay Coming Next Year",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pushsquare.com/news/2026/11/intergalactic-ps5-in-the-last-stage-of-production-gameplay-coming-next-year",
+   "score": 0,
+   "sources": 1,
+   "summary": "Neil Druckmann thinks the game will \"surprise people\".",
+   "title_ar": ""
+  },
   "pushsquare.com/news/2026/11/it-felt-like-a-powerpoint-deck-of-executive-ideas-beta-testers-share-thoughts-on-ps5s-cancelled-fairgames": {
    "at": "2026-11-11T01:15:29.917807+00:00",
    "title": "'It Felt Like a PowerPoint Deck of Executive Ideas': Beta Testers Share Thoughts on PS5's Cancelled Fairgames",
@@ -13085,7 +13085,7 @@
   "AI": "2026-11-12T15:00:44.798888+00:00",
   "Anime": "2026-11-12T14:15:28.417486+00:00",
   "Games": "2026-11-12T14:45:28.359204+00:00",
-  "Tech": "2026-11-12T14:30:42.687517+00:00"
+  "Tech": "2026-11-12T15:15:28.392808+00:00"
  },
  "digest_day": "2026-11-11",
  "weekly_day": "2026-11-06"
