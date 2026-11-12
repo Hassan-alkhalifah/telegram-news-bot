@@ -4742,17 +4742,6 @@
    "summary": "Valve has released a new Steam update that adds Steam Deck framerate data to a game's store page, giving potential buyers an indication of how well a game runs on the handheld.",
    "title_ar": "متجر Steam يعرض الآن متوسط معدلات الإطارات لجهاز Steam Deck عند تصفح الألعاب، وValve تقول إنها تدرس توسيع الميزة لتشمل عتاداً آخر"
   },
-  "eurogamer.net/steam-games-approvals-delayed-valve-response": {
-   "at": "2026-11-05T09:30:35.604484+00:00",
-   "title": "Valve explains why it's running behind on Steam game approvals, asks developers to perform basic release checks to prevent re-reviews",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.eurogamer.net/steam-games-approvals-delayed-valve-response",
-   "score": 0,
-   "sources": 1,
-   "summary": "In the wake of witnessing an unprecedented number of game submissions to Steam over the last few months, Valve has been forced to delay approvals in order to deal with the existing backlog.",
-   "title_ar": ""
-  },
   "eurogamer.net/switch-2-and-switch-consoles-updated-to-version-2350-as-nintendo-quietly-re-introduces-eshop-gifting": {
    "at": "2026-11-10T09:30:38.468558+00:00",
    "title": "Switch 2 and Switch consoles updated to version 23.5.0 as Nintendo quietly re-introduces eShop gifting",
@@ -6259,17 +6248,6 @@
    "sources": 1,
    "summary": "vivo launched the X500, X500 Pro, and X500 Pro Max in China in September and then they went global last month, but they're still not officially available in India.",
    "title_ar": ""
-  },
-  "gsmarena.com/we_check_out_chromagraph_rian_johnsons_viral_iphone_camera_app-news-75357.php": {
-   "at": "2026-11-05T09:30:35.604484+00:00",
-   "title": "We checked out Chromagraph, Rian Johnson's viral iPhone camera app",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.gsmarena.com/we_check_out_chromagraph_rian_johnsons_viral_iphone_camera_app-news-75357.php",
-   "score": 1,
-   "sources": 1,
-   "summary": "Last week, a corner of the internet started going abuzz at the sight of a new app.",
-   "title_ar": "لقد اختبرنا تطبيق Chromagraph، وهو تطبيق كاميرا iPhone الشهير للمخرج Rian Johnson"
   },
   "gsmarena.com/whatsapp_events_home-news-75382.php": {
    "at": "2026-11-06T15:45:29.612097+00:00",
@@ -8735,17 +8713,6 @@
    "summary": "Nintendo's remake has already reached 70 percent of the first game's lifetime sales in just four days",
    "title_ar": ""
   },
-  "myanimelist.net/news/74906532?_location=rss": {
-   "at": "2026-11-05T09:30:35.604484+00:00",
-   "title": "'Magic Knight Rayearth' Unveils Additional Cast Pair",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://myanimelist.net/news/74906532?_location=rss",
-   "score": 1,
-   "sources": 1,
-   "summary": "The official website for the new Magic Knight Rayearth (Mahou Kishi Rayearth) television anime announced additional cast pair on Thursday.",
-   "title_ar": "أنمي Magic Knight Rayearth يكشف عن ثنائي طاقم تمثيل إضافي"
-  },
   "myanimelist.net/news/74906589?_location=rss": {
    "at": "2026-11-05T10:00:45.232719+00:00",
    "title": "'Code Geass: Hoshi Oi no Aspal' Announces Main Cast, Additional Staff",
@@ -8942,6 +8909,17 @@
    "score": 0,
    "sources": 1,
    "summary": "The official website of the Mashle (Mashle: Magic and Muscles) television anime revealed additional cast pair, a key visual and a promotional video for its third season on Wednesday.",
+   "title_ar": ""
+  },
+  "myanimelist.net/news/74931133?_location=rss": {
+   "at": "2026-11-12T09:45:27.784289+00:00",
+   "title": "'Nabe ni Tama wo Ukenagara' Reveals Main Cast, Staff, Teaser Promo, Winter 2027 Premiere",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://myanimelist.net/news/74931133?_location=rss",
+   "score": 0,
+   "sources": 1,
+   "summary": "Production company Asmik Ace opened an official website for a television anime adaptation of Juntarou Aoki and Shin Moriyama's Nabe ni Tama wo Ukenagara (Getting Shots on Frying Pan) manga on…",
    "title_ar": ""
   },
   "nintendolife.com/news/2026/11/bandai-namco-reveals-its-involvement-on-zelda-ocarina-of-time": {
