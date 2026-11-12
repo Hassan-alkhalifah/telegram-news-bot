@@ -606,6 +606,17 @@
    "summary": "Google Wallet for Android is rolling out support for digital home keys if you have a compatible smart lock in Google Home. more…",
    "title_ar": ""
   },
+  "9to5google.com/2026/11/11/motorola-ma2-wireless-android-auto-adapter-launch": {
+   "at": "2026-11-12T01:30:36.235017+00:00",
+   "title": "Motorola MA2 wireless Android Auto adapter is now available, but at nearly twice the price",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/11/motorola-ma2-wireless-android-auto-adapter-launch/",
+   "score": 1,
+   "sources": 1,
+   "summary": "After first appearing months ago, the Motorola MA2 wireless Android Auto adapter is officially available for purchase in the US, but at a much higher price than expected. more…",
+   "title_ar": "محول Android Auto اللاسلكي Motorola MA2 متاح الآن، ولكن بسعر يقارب الضاعف"
+  },
   "9to5mac.com/2026/11/04/livestream-watch-labrinth-create-a-song-from-scratch-tonight-using-apples-new-macbook-pro": {
    "at": "2026-11-05T02:30:37.223167+00:00",
    "title": "Livestream: Watch Labrinth create a song from scratch tonight using Apple’s new MacBook Pro",
@@ -3167,6 +3178,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Link’s updated adventure moves 5.2 million units in first four days",
+   "title_ar": ""
+  },
+  "crunchyroll.com/news/latest/2026/11/12/tetsuryo-meet-with-tetsudou-musume-anime-opening-song-music-video-asaka": {
+   "at": "2026-11-12T01:30:36.235017+00:00",
+   "title": "Asaka Releases Tetsuryo! meet with Tetsudou Musume Anime Opening Song Music Video",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://crunchyroll.com/news/latest/2026/11/12/tetsuryo-meet-with-tetsudou-musume-anime-opening-song-music-video-asaka",
+   "score": 0,
+   "sources": 1,
+   "summary": "The CD single will be available on November 18",
    "title_ar": ""
   },
   "crunchyroll.com/news/latest/2026/11/5/a-certain-dark-item-anime-opening-song-music-video-east-of-eden": {
@@ -10385,17 +10407,6 @@
    "summary": "Bandai Namco confirms.",
    "title_ar": "إغلاق مطور لعبة Unknown 9 بعد مرور عامين على إطلاقها الكارثي على أجهزة PS5"
   },
-  "techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming": {
-   "at": "2026-11-05T01:15:27.637075+00:00",
-   "title": "After the midterms, a bigger clash over data centers could be coming",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
-   "title_ar": ""
-  },
   "techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents": {
    "at": "2026-11-05T14:45:32.295150+00:00",
    "title": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
@@ -12453,17 +12464,6 @@
    "summary": "Grab this fully loaded wireless gaming controller from GameSir for a record-low Amazon price of $39.99.",
    "title_ar": "احصل على وحدة التحكم اللاسلكية GameSir Super Nova بسعر قياسي منخفض على أمازون، أقل من 40 دولاراً الآن"
   },
-  "tomshardware.com/service-providers/network-providers/t-mobile-launches-usd90-5-gbps-fiber-internet-plan-2-5x-speed-boost-comes-with-10-year-price-guarantee": {
-   "at": "2026-11-05T01:15:27.637075+00:00",
-   "title": "T-Mobile launches $90 5 Gbps fiber internet plan",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/service-providers/network-providers/t-mobile-launches-usd90-5-gbps-fiber-internet-plan-2-5x-speed-boost-comes-with-10-year-price-guarantee",
-   "score": 1,
-   "sources": 1,
-   "summary": "T-Mobile is offering up to 5 Gbps fiber internet for less than $100/month",
-   "title_ar": ""
-  },
   "tomshardware.com/software/enthusiast-abandons-self-hosted-microsoft-exchange-after-27-years-moving-mailboxes-to-microsoft-365-replaces-final-on-premises-relay-with-postfix-starttls-and-lets-encrypt-certificates": {
    "at": "2026-11-07T12:45:28.631638+00:00",
    "title": "Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365",
@@ -13305,7 +13305,7 @@
   "AI": "2026-11-11T22:01:01.517047+00:00",
   "Anime": "2026-11-12T00:45:26.602077+00:00",
   "Games": "2026-11-12T01:00:44.376825+00:00",
-  "Tech": "2026-11-12T01:15:27.437278+00:00"
+  "Tech": "2026-11-12T01:30:36.235017+00:00"
  },
  "digest_day": "2026-11-11",
  "weekly_day": "2026-11-06"
