@@ -617,17 +617,6 @@
    "summary": "To promote the new MacBook Pro with PROLED XDR Display , Apple is hosting a livestream in which singer-songwriter Labrinth will create a song from scratch overnight at the company’s Tower Theatre…",
    "title_ar": "بث مباشر: شاهد Labrinth يبتكر أغنية من الصفر ليلة اليوم باستخدام جهاز MacBook Pro الجديد من Apple"
   },
-  "9to5mac.com/2026/11/04/report-apple-reduces-employees-ai-token-allowances-as-ternus-moves-to-cut-costs": {
-   "at": "2026-11-05T00:45:30.064187+00:00",
-   "title": "Report: Apple reduces employees’ AI token allowances as Ternus moves to cut costs",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/04/report-apple-reduces-employees-ai-token-allowances-as-ternus-moves-to-cut-costs/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Bloomberg reports that Apple has begun reducing employees’ daily AI spending limits, with some engineers seeing their allowances cut from $300 to $200, and further reductions planned across multiple…",
-   "title_ar": "تقرير: Apple تخفض مخصصات رموز الذكاء الاصطناعي للموظفين مع توجه Ternus لخفض التكاليف"
-  },
   "9to5mac.com/2026/11/05/anthropic-upgrades-claude-with-new-personal-finance-feature": {
    "at": "2026-11-05T18:15:31.101764+00:00",
    "title": "Anthropic upgrades Claude with new Personal Finance feature",
@@ -5369,17 +5358,6 @@
    "summary": "World of Warcraft: Forever received its first post-launch updates over the weekend, giving players a good reason to run each dungeon more than once alongside upcoming class tweaks.",
    "title_ar": ""
   },
-  "gamespot.com/articles/wow-forevers-launch-is-going-surprisingly-smooth": {
-   "at": "2026-11-05T01:00:44.213005+00:00",
-   "title": "WoW: Forever’s Launch Is Going Surprisingly Smooth",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gamespot.com/articles/wow-forevers-launch-is-going-surprisingly-smooth/",
-   "score": 0,
-   "sources": 1,
-   "summary": "World of Warcraft: Forever's launch hit some minor hiccups immediately upon release, but overall is going surprisingly well, much to the surprise of players who anticipated the worst.",
-   "title_ar": ""
-  },
   "gamespot.com/articles/zelda-ocarina-of-time-remake-involved-xenoblade-chronicles-creator-monolith-soft": {
    "at": "2026-11-06T14:15:27.956842+00:00",
    "title": "Zelda: Ocarina Of Time Remake Involved Xenoblade Chronicles Creator Monolith Soft",
@@ -6722,17 +6700,6 @@
    "summary": "Rockstar has released a new GTA 6 trailer announcing the launch of preloads, and it includes nearly 30 seconds of new footage.",
    "title_ar": "إعلان التحميل المسبق للعبة GTA 6 يتضمن نحو 30 ثانية من المشاهد الجديدة - فرقة التدخل السريع، والرقص في الملهى الليلي، والمزيد"
   },
-  "ign.com/articles/gta-6-rakes-in-over-750-million-in-pre-orders-two-weeks-ahead-of-release-date": {
-   "at": "2026-11-05T01:00:44.213005+00:00",
-   "title": "GTA 6 Rakes in Over $750 Million in Preorders 2 Weeks Ahead of Release Date",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/gta-6-rakes-in-over-750-million-in-pre-orders-two-weeks-ahead-of-release-date",
-   "score": 0,
-   "sources": 1,
-   "summary": "Data compiled by analytics firm Sensor Tower estimates that GTA 6 has already raked in more than $750 million in preorders across both PlayStation 5 and Xbox.",
-   "title_ar": ""
-  },
   "ign.com/articles/gta-6-will-run-at-30fps-on-all-consoles-features-ray-tracing-improvements-on-ps5-pro": {
    "at": "2026-11-10T15:45:33.266716+00:00",
    "title": "GTA 6 Will Run at 30fps On All Consoles, Features Ray Tracing Improvements on PS5 Pro",
@@ -6854,6 +6821,17 @@
    "summary": "Microsoft has updated the Xbox PC app so it’s faster and simpler, it said.",
    "title_ar": ""
   },
+  "ign.com/articles/new-mega-man-legends-game-movie-or-tv-series-possibly-in-the-works-after-fans-spot-new-media-listing": {
+   "at": "2026-11-12T01:00:44.376825+00:00",
+   "title": "New Mega Man Legends Game, Movie, or TV Series Possibly In the Works After Fans Spot 'New Media' Listing",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/new-mega-man-legends-game-movie-or-tv-series-possibly-in-the-works-after-fans-spot-new-media-listing",
+   "score": 0,
+   "sources": 1,
+   "summary": "A now-deleted listing for ‘Mega Man Legends — New Media’ was spotted on a ‘What’s Shooting’ page for ACTRA Toronto, hinting that a new game, film, or TV series in the franchise's 'Legends' series is…",
+   "title_ar": ""
+  },
   "ign.com/articles/nier-automata-dev-working-on-fix-patch-that-bloated-game-size-366gb": {
    "at": "2026-11-06T12:30:40.145912+00:00",
    "title": "Nier: Automata Dev Working on Fix for Patch That Accidentally Bloated the Game Size to 366GB on PC",
@@ -6907,6 +6885,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Nintendo has sent four DMCA takedown notices to GitHub targeting two Nintendo Switch emulators, Yuzu and Citron Neo, along with mod chip firmware.",
+   "title_ar": ""
+  },
+  "ign.com/articles/nvidia-board-is-preparing-to-potentially-oust-ceo-jensen-huang": {
+   "at": "2026-11-12T01:00:44.376825+00:00",
+   "title": "Nvidia Board Is Preparing to Potentially Oust CEO Jensen Huang",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/nvidia-board-is-preparing-to-potentially-oust-ceo-jensen-huang",
+   "score": 0,
+   "sources": 1,
+   "summary": "Three days after launching an independent investigation into CEO Jensen Huang, the Nvidia board is reportedly preparing to oust the executive.",
    "title_ar": ""
   },
   "ign.com/articles/nvidia-launches-investigation-into-ceo-jensen-huang-following-affair-with-alleged-chinese-spy": {
@@ -10330,6 +10319,17 @@
    "summary": "Ask your doctor about DLC.",
    "title_ar": ""
   },
+  "pushsquare.com/news/2026/11/there-is-no-truth-to-these-claims-marvel-1943-not-cancelled-but-doesnt-sound-great": {
+   "at": "2026-11-12T01:00:44.376825+00:00",
+   "title": "'There Is No Truth to These Claims': Marvel 1943 Not Cancelled, But Doesn't Sound Great",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.pushsquare.com/news/2026/11/there-is-no-truth-to-these-claims-marvel-1943-not-cancelled-but-doesnt-sound-great",
+   "score": 2,
+   "sources": 1,
+   "summary": "Light on gameplay, allegedly.",
+   "title_ar": "لا صحة لهذه الادعاءات: لعبة Marvel 1943 لم تُلغَ، لكن وضعها لا يبدو جيداً"
+  },
   "pushsquare.com/news/2026/11/theres-demand-to-remake-final-fantasy-6-from-within-square-enix-says-series-boss": {
    "at": "2026-11-05T18:45:31.351822+00:00",
    "title": "There's Demand to Remake Final Fantasy 6 from Within Square Enix, Says Series Boss",
@@ -10384,17 +10384,6 @@
    "sources": 1,
    "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
    "title_ar": ""
-  },
-  "techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028": {
-   "at": "2026-11-05T01:00:44.213005+00:00",
-   "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
-   "score": 1,
-   "sources": 1,
-   "summary": "The change will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
-   "title_ar": "Waymo تؤكد أنها ستغير علاقتها مع Uber في يناير 2028"
   },
   "techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents": {
    "at": "2026-11-05T14:45:32.295150+00:00",
@@ -13304,7 +13293,7 @@
  "topic_last_posted": {
   "AI": "2026-11-11T22:01:01.517047+00:00",
   "Anime": "2026-11-12T00:45:26.602077+00:00",
-  "Games": "2026-11-12T00:15:31.185032+00:00",
+  "Games": "2026-11-12T01:00:44.376825+00:00",
   "Tech": "2026-11-12T00:30:39.949316+00:00"
  },
  "digest_day": "2026-11-11",
