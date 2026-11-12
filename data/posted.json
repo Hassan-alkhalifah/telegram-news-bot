@@ -3642,17 +3642,6 @@
    "summary": "Xiaomi's HyperOS 4 update includes intriguing new features like Soft Light Glass, memory improvements and more, but the not everyone will get the perks.",
    "title_ar": "هواتف Xiaomi هذه لن تحصل بعد الآن على الدعم لتحديث HyperOS 4 الأخير"
   },
-  "engadget.com/2308280/google-meta-and-tiktok-are-all-suing-california-to-block-social-media-law-intended-to-help-kids": {
-   "at": "2026-11-05T19:30:41.607294+00:00",
-   "title": "Google, Meta and TikTok are all suing California to block social media law intended to help kids",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2308280/google-meta-and-tiktok-are-all-suing-california-to-block-social-media-law-intended-to-help-kids/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Assembly Bill 1709 demands that platforms remove \"psychologically exploitative features.\"",
-   "title_ar": "Google و Meta و TikTok تقاضين كاليفورنيا لحظر قانون وسائل التواصل الاجتماعي المخصص لمساعدة الأطفال"
-  },
   "engadget.com/2308376/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch": {
    "at": "2026-11-05T20:00:45.432604+00:00",
    "title": "Warby Parker seemingly spilled the beans on Google's Android XR smart glasses launch",
@@ -4311,6 +4300,17 @@
    "score": 0,
    "sources": 1,
    "summary": "House Foreign Affairs Chair Brian Mast said a hearing with Jensen Huang will take place before Thanksgiving.",
+   "title_ar": ""
+  },
+  "engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage": {
+   "at": "2026-11-12T19:45:29.855688+00:00",
+   "title": "Multiple Microsoft 365 services are experiencing an outage",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Outlook and Teams are among the platforms impacted by \"elevated load\" issues.",
    "title_ar": ""
   },
   "eurogamer.net/assassins-creed-mars-ancient-rome-pocket-mobile-jerusalem-rumour": {
@@ -8141,17 +8141,6 @@
    "summary": "His passing comes days after he performed at Fan Fest Japan 2026",
    "title_ar": "معجبو لعبة Final Fantasy XIV يتجمعون لإحياء ذكرى Eikichi Iwai عازف الباص لفرقة The Primals"
   },
-  "kotaku.com/final-fantasy-producer-says-after-ff7-remake-trilogy-square-enix-will-invest-in-new-games-2000754228": {
-   "at": "2026-11-05T19:45:28.930730+00:00",
-   "title": "Final Fantasy Producer Says After FF7 Remake Trilogy, Square Enix Will Invest In New Games",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/final-fantasy-producer-says-after-ff7-remake-trilogy-square-enix-will-invest-in-new-games-2000754228",
-   "score": 0,
-   "sources": 1,
-   "summary": "But Yoshinori Kitase acknowledged that the streets want a Final Fantasy VI remake too",
-   "title_ar": ""
-  },
   "kotaku.com/former-rockstar-developer-says-they-should-hurry-up-on-gta-6s-pc-version-before-ai-gets-there-first-2000754810": {
    "at": "2026-11-07T19:30:37.184718+00:00",
    "title": "Former Rockstar Developer Says They Should Hurry Up On GTA 6’s PC Version Before AI Gets There First",
@@ -11056,6 +11045,17 @@
    "summary": "This is Fireworks' second data breach in as many months.",
    "title_ar": "هجوم سيبراني على Fireworks AI يتيح للقراصنة الوصول إلى نصوص محادثات عملاء Notion"
   },
+  "techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions": {
+   "at": "2026-11-12T19:45:29.855688+00:00",
+   "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+   "title_ar": "أحدث ترقية لبحث Google تعد بإجابات أفضل عن أسئلتك الأكثر تعقيداً"
+  },
   "techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit": {
    "at": "2026-11-12T17:45:28.190298+00:00",
    "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
@@ -11253,17 +11253,6 @@
    "sources": 1,
    "summary": "Anthropic's Fable 5.2 completes 41.3 percent of real freelance jobs at professional quality on the Remote Labor Index, more than double the next-best systems Opus 5.5 and GPT 6 Astra.",
    "title_ar": ""
-  },
-  "the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model": {
-   "at": "2026-11-05T19:45:28.930730+00:00",
-   "title": "Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Baidu releases ERNIE 5.5 Flash Base: a 280-billion-parameter MoE model pre-trained on 33.5 trillion tokens, shipped deliberately without fine-tuning, so developers can take it wherever they want.",
-   "title_ar": "بايدو تطلق نموذج ERNIE 5.5 Flash Base المفتوح المصدر بـ 280 مليار معلمة كنموذج أساسي"
   },
   "the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo": {
    "at": "2026-11-09T21:30:38.030751+00:00",
@@ -13291,7 +13280,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-12T19:15:33.200858+00:00",
+  "AI": "2026-11-12T19:45:29.855688+00:00",
   "Anime": "2026-11-12T19:00:43.692442+00:00",
   "Games": "2026-11-12T19:30:37.701208+00:00",
   "Tech": "2026-11-12T19:15:33.200858+00:00"
