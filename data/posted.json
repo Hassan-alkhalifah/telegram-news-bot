@@ -2806,6 +2806,17 @@
    "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
    "title_ar": "جوجل تروج لجانب الخصوصية مع إطلاق النظارات الذكية المدعومة بنظام Gemini بسعر تبدأ من 395 دولاراً"
   },
+  "arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash": {
+   "at": "2026-11-12T19:30:37.701208+00:00",
+   "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+   "title_ar": ""
+  },
   "arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi": {
    "at": "2026-11-10T21:30:40.062428+00:00",
    "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
@@ -4874,6 +4885,17 @@
    "summary": "The next batch of games for the PlayStation Plus Game Catalog has been revealed.",
    "title_ar": ""
   },
+  "gamespot.com/articles/disney-teases-major-announcements-for-the-game-awards": {
+   "at": "2026-11-12T19:30:37.701208+00:00",
+   "title": "Disney Teases “Major Announcements” For The Game Awards",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/disney-teases-major-announcements-for-the-game-awards/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The Game Awards will air on Disney+ this year, and along with that, Disney has teased \"major announcements and surprises\" for its own games at the event.",
+   "title_ar": ""
+  },
   "gamespot.com/articles/final-fantasy-14-players-are-mourning-the-loss-of-the-games-legendary-bassist": {
    "at": "2026-11-12T18:45:29.967016+00:00",
    "title": "Final Fantasy 14 Players Are Mourning The Loss Of The Game’s Legendary Bassist",
@@ -6634,6 +6656,17 @@
    "summary": "Rockstar has finally announced performance for GTA 6.",
    "title_ar": ""
   },
+  "ign.com/articles/halo-campaign-evolved-to-get-firefight-as-a-free-update": {
+   "at": "2026-11-12T19:30:37.701208+00:00",
+   "title": "Halo: Campaign Evolved to Get Firefight as a Free Update",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/halo-campaign-evolved-to-get-firefight-as-a-free-update",
+   "score": 0,
+   "sources": 1,
+   "summary": "When Halo: Campaign Evolved first came out in July it did not include any multiplayer modes, but the first-person shooter remake will at least get Firefight as a free update this Winter.",
+   "title_ar": ""
+  },
   "ign.com/articles/how-about-a-gta-set-outside-the-united-states-never-say-never-rockstar-boss-teases-but-dont-hold-your-breath": {
    "at": "2026-11-11T22:30:36.974969+00:00",
    "title": "How About a GTA Set Outside the United States? 'Never Say Never,' Rockstar Boss Teases, but Don't Hold Your Breath",
@@ -7930,6 +7963,17 @@
    "score": 0,
    "sources": 1,
    "summary": "It's been 13 years since GTA 5 released, and we're just now getting GTA 6.",
+   "title_ar": ""
+  },
+  "insider-gaming.com/the-game-awards-2026-disney-plus": {
+   "at": "2026-11-12T19:30:37.701208+00:00",
+   "title": "The Game Awards to air on Disney Plus",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/the-game-awards-2026-disney-plus/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Geoff Keighley says The Game Awards 2026 will air live on Disney+.",
    "title_ar": ""
   },
   "insider-gaming.com/the-legend-of-zelda-majoras-mask-remake-not-in-development-its-claimed": {
@@ -9911,6 +9955,17 @@
    "sources": 1,
    "summary": "Walk of shame.",
    "title_ar": ""
+  },
+  "pushsquare.com/news/2026/11/disney-bringing-game-reveals-to-the-game-awards-next-month": {
+   "at": "2026-11-12T19:30:37.701208+00:00",
+   "title": "Disney Bringing Game Reveals to The Game Awards Next Month",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.pushsquare.com/news/2026/11/disney-bringing-game-reveals-to-the-game-awards-next-month",
+   "score": 5,
+   "sources": 3,
+   "summary": "Also being streamed live on Disney+.",
+   "title_ar": "Disney ستكشف عن ألعاب جديدة في حفل The Game Awards الشهر القادم"
   },
   "pushsquare.com/news/2026/11/first-november-2026-ps-plus-extra-game-available-to-download-now": {
    "at": "2026-11-11T10:15:29.642090+00:00",
@@ -13238,7 +13293,7 @@
  "topic_last_posted": {
   "AI": "2026-11-12T19:15:33.200858+00:00",
   "Anime": "2026-11-12T19:00:43.692442+00:00",
-  "Games": "2026-11-12T18:45:29.967016+00:00",
+  "Games": "2026-11-12T19:30:37.701208+00:00",
   "Tech": "2026-11-12T19:15:33.200858+00:00"
  },
  "digest_day": "2026-11-12",
