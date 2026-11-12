@@ -4654,17 +4654,6 @@
    "summary": "Expensive British department store Selfridges has launched a sizeable Grand Theft Auto 6 takeover, completely making-over its Oxford Street London Corner Shop store and offering a considerable line…",
    "title_ar": ""
   },
-  "eurogamer.net/sony-playstation-fy-2026-wolverine-sales": {
-   "at": "2026-11-05T10:45:30.891181+00:00",
-   "title": "PlayStation sees record high player numbers and increased revenue for Q2 2026, and a lot of that success is down to Marvel's Wolverine",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.eurogamer.net/sony-playstation-fy-2026-wolverine-sales",
-   "score": 2,
-   "sources": 1,
-   "summary": "As part of today's (Thursday 5th November, 2026) financial results, Sony has confirmed that monthly active users, referred to as MAU, across both PlayStation 4 and 5, reached 127 million in September.",
-   "title_ar": "بلايستيشن تسجل رقماً قياسياً في أعداد اللاعبين وزيادة في الإيرادات للربع الثاني من عام 2026، والكثير من هذا النجاح يعود إلى لعبة Marvel's Wolverine"
-  },
   "eurogamer.net/square-enix-nier-automata-update-required-file-size-366gb": {
    "at": "2026-11-06T12:30:40.145912+00:00",
    "title": "Square Enix accidentally botches a Nier: Automata update, balloons required file size from 50GB to 366GB on PC",
@@ -5147,6 +5136,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Nvidia has announced that it has opened an official investigation into its CEO, Jensen Huang, after he admitted that he was involved in an affair with a business executive who is suspected of being…",
+   "title_ar": ""
+  },
+  "gamespot.com/articles/nvidias-board-is-weighing-jensen-huangs-future-after-second-affair-revelation": {
+   "at": "2026-11-12T11:00:44.066668+00:00",
+   "title": "Nvidia’s Board Is Weighing Jensen Huang’s Future After Second Affair Revelation",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/nvidias-board-is-weighing-jensen-huangs-future-after-second-affair-revelation/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Things look dire for Nvidia CEO Jensen Huang, as his future at the company may be in jeopardy.",
    "title_ar": ""
   },
   "gamespot.com/articles/ps5-is-closing-in-on-100-million-sales-despite-getting-more-expensive": {
@@ -9670,6 +9670,17 @@
    "summary": "The Switch 2 is still comfortably ahead of the Switch in its first year, but it might not be ahead by its second.",
    "title_ar": ""
   },
+  "pcgamer.com/hardware/this-would-be-an-apple-firing-steve-jobs-level-of-idiocy-says-tim-sweeney-at-the-idea-of-ousting-jensen-huang-while-elon-musk-says-it-would-be-an-honor-to-hire-the-nvidia-chief": {
+   "at": "2026-11-12T11:00:44.066668+00:00",
+   "title": "'This would be an Apple firing Steve Jobs level of idiocy' says Tim Sweeney at the idea of ousting Jensen Huang - while Elon Musk says 'it would be an honor' to hire the Nvidia chief",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/hardware/this-would-be-an-apple-firing-steve-jobs-level-of-idiocy-says-tim-sweeney-at-the-idea-of-ousting-jensen-huang-while-elon-musk-says-it-would-be-an-honor-to-hire-the-nvidia-chief/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Friends in high places.",
+   "title_ar": ""
+  },
   "pcgamer.com/software/ai/nvidia-ceo-jensen-huang-allegedly-had-a-second-affair-with-another-nvidia-exec": {
    "at": "2026-11-11T23:30:38.099558+00:00",
    "title": "Nvidia CEO Jensen Huang allegedly had a second affair with another Nvidia exec",
@@ -12211,6 +12222,17 @@
    "summary": "The latest incident comes amid growing concerns over GPU theft, with experts warning that advanced Nvidia chips can command significantly higher prices abroad and could end up in black-market…",
    "title_ar": "سرقة 6 منصات نقالة من وحدات معالجة الرسومات Nvidia بقيمة 11.4 مليون دولار في عملية سطو على شحنة في كاليفورنيا"
   },
+  "tomshardware.com/pc-components/gpus/techie-turns-usd2-500-cmp-170hx-8gb-mining-card-into-a-full-fat-a100-80gb-with-voltage-glitching-carefully-blowing-onboard-fuses-to-unlock-entire-vram-and-shader-modules": {
+   "at": "2026-11-12T11:00:44.066668+00:00",
+   "title": "Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of VRAM",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/pc-components/gpus/techie-turns-usd2-500-cmp-170hx-8gb-mining-card-into-a-full-fat-a100-80gb-with-voltage-glitching-carefully-blowing-onboard-fuses-to-unlock-entire-vram-and-shader-modules",
+   "score": 2,
+   "sources": 1,
+   "summary": "A techie turned a $2,500 CMP-170HX 8GB mining card into a full-fat $20,000 A100 80GB by carefully blowing onboard fuses to unlock entire VRAM and shader modules.",
+   "title_ar": "مخترق تقني يستخدم تقنية التلاعب بالجهد الكهربائي لتحويل بطاقة رسوميات لتعدين العملات المشفرة من Nvidia بسعر 2,500 دولار وسعة 8 جيجابايت إلى بطاقة A100 كاملة بسعر 20,000 دولار وبذاكرة وصول عشوائي VRAM بسعة 80 جيجابايت"
+  },
   "tomshardware.com/peripherals/controllers-gamepads/grab-this-gamesir-super-nova-wireless-controller-at-a-record-low-amazon-price-now-under-usd40-20-percent-discount-on-pc-and-switch-gamepad-that-ships-with-drift-free-hall-effect-sticks-and-a-customizable-layout": {
    "at": "2026-11-10T12:15:31.799158+00:00",
    "title": "Grab this GameSir Super Nova wireless controller at a record-low Amazon price, now under $40",
@@ -12805,17 +12827,6 @@
    "summary": "Nintendo says it has enough memory and doesn't need to up the Switch 2's price",
    "title_ar": ""
   },
-  "videogameschronicle.com/news/nintendo-switch-2-sales-have-dropped-37-but-its-still-comfortably-beating-the-original-console": {
-   "at": "2026-11-05T10:45:30.891181+00:00",
-   "title": "Nintendo Switch 2 sales have dropped 37%, but it’s still comfortably beating the original console",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.videogameschronicle.com/news/nintendo-switch-2-sales-have-dropped-37-but-its-still-comfortably-beating-the-original-console/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Nintendo Switch 2 has sold 26.35 million consoles as sales continue to slow",
-   "title_ar": ""
-  },
   "videogameschronicle.com/news/nintendos-battle-against-piracy-continues-with-a-dmca-takedown-on-switch-mod-chip-firmware": {
    "at": "2026-11-11T14:08:28.032764+00:00",
    "title": "Nintendo’s battle against piracy continues with a DMCA takedown on Switch mod chip firmware",
@@ -13074,7 +13085,7 @@
   "AI": "2026-11-12T10:30:37.456306+00:00",
   "Anime": "2026-11-12T10:15:00.580684+00:00",
   "Games": "2026-11-12T10:45:29.254664+00:00",
-  "Tech": "2026-11-12T10:15:00.580684+00:00"
+  "Tech": "2026-11-12T11:00:44.066668+00:00"
  },
  "digest_day": "2026-11-11",
  "weekly_day": "2026-11-06"
