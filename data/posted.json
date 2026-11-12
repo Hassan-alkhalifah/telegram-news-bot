@@ -7965,6 +7965,17 @@
    "summary": "It's been 13 years since GTA 5 released, and we're just now getting GTA 6.",
    "title_ar": ""
   },
+  "insider-gaming.com/take-two-ceo-gta-movie-tv-show": {
+   "at": "2026-11-12T23:51:44.105229+00:00",
+   "title": "Take-Two CEO Comments on Potential GTA Movie or TV Show",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://insider-gaming.com/take-two-ceo-gta-movie-tv-show/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Take-Two CEO Strauss Zelnick discusses a potential GTA movie or TV show, explaining why the company is cautious about adapting its games.",
+   "title_ar": "الCEO لشركة Take-Two يعلق على احتمالية تحويل GTA إلى فيلم أو مسلسل"
+  },
   "insider-gaming.com/the-game-awards-2026-disney-plus": {
    "at": "2026-11-12T19:30:37.701208+00:00",
    "title": "The Game Awards to air on Disney Plus",
@@ -11595,17 +11606,6 @@
    "summary": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation.",
    "title_ar": "شركات الوساطة الأمريكية للبيانات تبيع بيئات تدريب للذكاء الاصطناعي بقيمة نصف مليار دولار لمختبرات صينية"
   },
-  "theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work": {
-   "at": "2026-11-05T23:45:29.925994+00:00",
-   "title": "Perplexity launches its own take on AI agents for work",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-   "score": 1,
-   "sources": 1,
-   "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents.",
-   "title_ar": "Perplexity تطلق نسختها الخاصة من وكلاء الذكاء الاصطناعي المخصصة للعمل"
-  },
   "theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda": {
    "at": "2026-11-06T01:00:43.465124+00:00",
    "title": "OpenAI is stepping back from NDAs for data center projects",
@@ -13414,7 +13414,7 @@
  "topic_last_posted": {
   "AI": "2026-11-12T23:30:33.840937+00:00",
   "Anime": "2026-11-12T20:00:41.535054+00:00",
-  "Games": "2026-11-12T23:15:36.075966+00:00",
+  "Games": "2026-11-12T23:51:44.105229+00:00",
   "Tech": "2026-11-12T23:45:29.064556+00:00"
  },
  "digest_day": "2026-11-12",
