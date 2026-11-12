@@ -5028,6 +5028,17 @@
    "summary": "Amid multiple delays and radio silence, a rumor that Marvel 1943: Rise of Hydra had been canceled began circulating this week.",
    "title_ar": ""
   },
+  "gamespot.com/articles/new-doom-game-seemingly-announced-in-the-weirdest-way-after-half-the-studio-was-laid-off": {
+   "at": "2026-11-12T22:00:43.329333+00:00",
+   "title": "New Doom Game Seemingly Announced In The Weirdest Way After Half The Studio Was Laid Off",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/new-doom-game-seemingly-announced-in-the-weirdest-way-after-half-the-studio-was-laid-off/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Xbox CEO Asha Sharma has announced that id Software is officially working on a new game, believed to be another Doom title.",
+   "title_ar": ""
+  },
   "gamespot.com/articles/nier-automatas-file-size-now-reflects-how-good-it-is": {
    "at": "2026-11-06T15:00:46.887128+00:00",
    "title": "Nier Automata’s File Size Now Reflects How Good It Is",
@@ -9021,6 +9032,17 @@
    "summary": "\"They should be very proud\".",
    "title_ar": ""
   },
+  "nintendolife.com/news/2026/11/japanese-charts-zelda-ocarina-of-time-physical-takes-the-lions-share-of-its-japanese-sales": {
+   "at": "2026-11-12T22:00:43.329333+00:00",
+   "title": "Japanese Charts: Zelda: Ocarina Of Time Physical Takes The Lion's Share Of Its Japanese Sales",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/japanese-charts-zelda-ocarina-of-time-physical-takes-the-lions-share-of-its-japanese-sales",
+   "score": 0,
+   "sources": 1,
+   "summary": "Physical is dead, eh?",
+   "title_ar": ""
+  },
   "nintendolife.com/news/2026/11/laras-new-tomb-raider-game-is-apparently-on-its-way-to-switch-2": {
    "at": "2026-11-12T03:15:28.327520+00:00",
    "title": "Lara's New Tomb Raider Game Is Apparently On Its Way To Switch 2",
@@ -11100,6 +11122,17 @@
    "summary": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending": {
+   "at": "2026-11-12T22:00:43.329333+00:00",
+   "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+   "title_ar": "Nebius تختبر نموذج السحابة الجديدة مع خطط إنفاق بقيمة 40 مليار دولار"
+  },
   "techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands": {
    "at": "2026-11-12T19:15:33.200858+00:00",
    "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
@@ -11749,6 +11782,17 @@
    "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof.",
    "title_ar": ""
   },
+  "theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen": {
+   "at": "2026-11-12T22:00:43.329333+00:00",
+   "title": "Google’s new Gemini model is better at understanding complicated questions",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+   "score": 0,
+   "sources": 1,
+   "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The…",
+   "title_ar": ""
+  },
   "theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy": {
    "at": "2026-11-06T20:15:35.094932+00:00",
    "title": "All the latest updates on AI data centers",
@@ -12188,6 +12232,17 @@
    "sources": 3,
    "summary": "Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps.",
    "title_ar": "توقف خدمة Microsoft Outlook"
+  },
+  "theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions": {
+   "at": "2026-11-12T22:00:43.329333+00:00",
+   "title": "‘It’s a mistake for Nvidia to let Jensen resign’: reactions from tech leaders on Jensen Huang’s resignation",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report.",
+   "title_ar": ""
   },
   "theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash": {
    "at": "2026-11-12T17:15:30.373926+00:00",
@@ -13302,7 +13357,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-12T21:15:29.818668+00:00",
+  "AI": "2026-11-12T22:00:43.329333+00:00",
   "Anime": "2026-11-12T20:00:41.535054+00:00",
   "Games": "2026-11-12T21:45:31.646152+00:00",
   "Tech": "2026-11-12T21:30:35.379377+00:00"
