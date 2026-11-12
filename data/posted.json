@@ -10000,6 +10000,17 @@
    "summary": "Also being streamed live on Disney+.",
    "title_ar": "Disney ستكشف عن ألعاب جديدة في حفل The Game Awards الشهر القادم"
   },
+  "pushsquare.com/news/2026/11/doom-the-dark-ages-and-horde-mode-is-a-match-made-in-heaven": {
+   "at": "2026-11-12T23:45:29.064556+00:00",
+   "title": "DOOM: The Dark Ages and Horde Mode Is a Match Made in Heaven",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pushsquare.com/news/2026/11/doom-the-dark-ages-and-horde-mode-is-a-match-made-in-heaven",
+   "score": 0,
+   "sources": 1,
+   "summary": "Available for DLC owners from 16th November. id Software has revealed it's updating DOOM: The Dark Ages with a horde mode next week, called Slaughter Mode.",
+   "title_ar": ""
+  },
   "pushsquare.com/news/2026/11/first-november-2026-ps-plus-extra-game-available-to-download-now": {
    "at": "2026-11-11T10:15:29.642090+00:00",
    "title": "First November 2026 PS Plus Extra Game Available to Download Now",
@@ -11221,6 +11232,17 @@
    "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/12/whoop-just-launched-a-social-network": {
+   "at": "2026-11-12T23:45:29.064556+00:00",
+   "title": "Whoop just launched a social network",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Whoop is launching a social network that lets members share their sleep, recovery, and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at…",
+   "title_ar": ""
+  },
   "technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking": {
    "at": "2026-11-12T21:15:29.818668+00:00",
    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
@@ -11837,6 +11859,17 @@
    "summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year.",
    "title_ar": "شركة Oura تستحوذ على شركة الناشئة للروبوتات الطبية بالذكاء الاصطناعي Counsel Health"
   },
+  "theverge.com/gadgets/1032630/whoop-humans-social-network": {
+   "at": "2026-11-12T23:45:29.064556+00:00",
+   "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+   "score": 3,
+   "sources": 2,
+   "summary": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network.",
+   "title_ar": "Whoop تطلق شبكة اجتماعية يمتلك فيها كل مستخدم \"نبض قلب موثقًا\""
+  },
   "theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai": {
    "at": "2026-11-10T17:45:28.481552+00:00",
    "title": "The indie game community is in disarray over AI and Big Walk",
@@ -11913,17 +11946,6 @@
    "sources": 1,
    "summary": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier.",
    "title_ar": ""
-  },
-  "theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile": {
-   "at": "2026-11-05T23:30:35.314164+00:00",
-   "title": "T-Mobile owner on Elon Musk launching a wireless carrier: ‘Welcome to the party’",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
-   "score": 1,
-   "sources": 1,
-   "summary": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US.",
-   "title_ar": "مالك T-Mobile تعليقاً على إطلاق إيلون ماسك لشبكة محمولة: \"أهلاً بك في الحفل\""
   },
   "theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings": {
    "at": "2026-11-06T00:11:52.992372+00:00",
@@ -13393,7 +13415,7 @@
   "AI": "2026-11-12T23:30:33.840937+00:00",
   "Anime": "2026-11-12T20:00:41.535054+00:00",
   "Games": "2026-11-12T23:15:36.075966+00:00",
-  "Tech": "2026-11-12T23:00:38.483126+00:00"
+  "Tech": "2026-11-12T23:45:29.064556+00:00"
  },
  "digest_day": "2026-11-12",
  "weekly_day": "2026-11-06"
