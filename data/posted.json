@@ -5171,6 +5171,17 @@
    "summary": "As part of Nintendo's latest earnings briefing, the company said it has no plans to increase the Switch 2 price again, or at least not anytime soon.",
    "title_ar": ""
   },
+  "gamespot.com/articles/the-internet-reacts-to-jensen-huang-resignation-from-nvidia": {
+   "at": "2026-11-12T17:00:46.909589+00:00",
+   "title": "The Internet Reacts To Jensen Huang’s Resignation From Nvidia",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/the-internet-reacts-to-jensen-huang-resignation-from-nvidia/",
+   "score": 0,
+   "sources": 1,
+   "summary": "It's the end of an era for Nvidia , as its founder and longtime CEO, Jensen Huang, has resigned effective immediately.",
+   "title_ar": ""
+  },
   "gamespot.com/articles/valve-is-giving-you-more-ways-to-know-if-a-game-runs-well-on-steam-deck": {
    "at": "2026-11-10T19:15:33.332806+00:00",
    "title": "Valve Is Giving You More Ways To Know If A Game Runs Well On Steam Deck",
@@ -5280,6 +5291,17 @@
    "sources": 2,
    "summary": "Publisher Devolver Digital and developer BlackLight Games have announced All Army Attack, a “chaotic, large-scale …",
    "title_ar": "الشركة الناشرة Devolver Digital والمطورة BlackLight Games تعلنان عن لعبة الآتو باتلر والروغلايك All Army Attack لأجهزة PC"
+  },
+  "gematsu.com/2026/11/dome-keeper-coming-to-ps5-switch-on-december-14": {
+   "at": "2026-11-12T17:00:46.909589+00:00",
+   "title": "Dome Keeper coming to PS5, Switch on December 14",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gematsu.com/2026/11/dome-keeper-coming-to-ps5-switch-on-december-14",
+   "score": 0,
+   "sources": 1,
+   "summary": "Publisher Raw Fury and developer Bippinbits will release roguelike action mining game Dome Keeper for …",
+   "title_ar": ""
   },
   "gematsu.com/2026/11/dragon-quest-rpg-the-cursed-tree-and-the-chosen-isle-announced-for-ios-android": {
    "at": "2026-11-09T13:45:28.237630+00:00",
@@ -5401,6 +5423,17 @@
    "sources": 2,
    "summary": "Multiplayer extraction RPG HUNGER will launch in Early Access for PC via Steam on December …",
    "title_ar": "إطلاق لعبة HUNGER في مرحلة الوصول المبكر في 3 ديسمبر"
+  },
+  "gematsu.com/2026/11/kuloniku-bowl-up-coming-to-switch-2-switch-on-november-26": {
+   "at": "2026-11-12T17:00:46.909589+00:00",
+   "title": "KuloNiku: Bowl Up! coming to Switch 2, Switch on November 26",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gematsu.com/2026/11/kuloniku-bowl-up-coming-to-switch-2-switch-on-november-26",
+   "score": 0,
+   "sources": 1,
+   "summary": "Publisher Raw Fury and developer Gambir Studio will release cooking game KuloNiku: Bowl Up! for …",
+   "title_ar": ""
   },
   "gematsu.com/2026/11/mega-man-legends-new-media-listing-appears-on-actra-toronto-current-projects-page": {
    "at": "2026-11-11T03:15:28.303053+00:00",
@@ -11276,6 +11309,17 @@
    "summary": "OpenAI is opening up ChatGPT as a business platform: through a new Business Hub, companies can claim their profile, add product data, and track how users interact with them.",
    "title_ar": ""
   },
+  "the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute": {
+   "at": "2026-11-12T17:00:46.909589+00:00",
+   "title": "OpenAI’s data suggests that frontier models are hiding their thoughts because developers optimize for capability and compute",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute/",
+   "score": 1,
+   "sources": 1,
+   "summary": "OpenAI's safety team systematically investigated why the chains of thought in frontier models like GPT-6 Astra are increasingly evading oversight.",
+   "title_ar": "تشير بيانات OpenAI إلى أن النماذج الرائدة تخفي أفكارها لأن المطورين يحسنون الأداء والقدرة الحاسوبية"
+  },
   "the-decoder.com/openais-gpt-6-astra-quietly-sabotaged-safety-research-by-inventing-fake-obstacles": {
    "at": "2026-11-05T22:30:38.968567+00:00",
    "title": "OpenAI's GPT-6 Astra quietly sabotaged safety research by inventing fake obstacles",
@@ -13071,7 +13115,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-12T15:45:28.047626+00:00",
+  "AI": "2026-11-12T17:00:46.909589+00:00",
   "Anime": "2026-11-12T14:15:28.417486+00:00",
   "Games": "2026-11-12T16:45:32.631702+00:00",
   "Tech": "2026-11-12T16:30:40.307813+00:00"
