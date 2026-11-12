@@ -2938,17 +2938,6 @@
    "summary": "The new season premieres in January 2027",
    "title_ar": "Crunchyroll تعرض الموسم الثاني من Medaka Kuroiwa is Impervious to My Charms"
   },
-  "crunchyroll.com/news/announcements/2026/11/5/dragon-ball-super-beerus-english-spanish-portuguese-dubs-stream-november-12": {
-   "at": "2026-11-05T17:00:51.314286+00:00",
-   "title": "Dragon Ball Super: Beerus English, Spanish, Portuguese Dubs Stream on Crunchyroll Starting November 12",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://crunchyroll.com/news/announcements/2026/11/5/dragon-ball-super-beerus-english-spanish-portuguese-dubs-stream-november-12",
-   "score": 1,
-   "sources": 1,
-   "summary": "The dubs will premiere on Crunchyroll on November 12 at 8:00 a.m.",
-   "title_ar": "عرض الدبلجات الإنجليزية والإسبانية والبرتغالية لشخصية Beerus من أنمي Dragon Ball Super على منصة Crunchyroll بدءاً من 12 نوفمبر"
-  },
   "crunchyroll.com/news/announcements/2026/11/9/a-returners-magic-should-be-special-reborn-as-a-space-mercenary-anime-music-videos": {
    "at": "2026-11-09T20:30:41.745283+00:00",
    "title": "A Returner's Magic Should Be Special, Reborn as a Space Mercenary and More Anime Music Videos Now Available on Crunchyroll",
@@ -4951,17 +4940,6 @@
    "summary": "Much of the IRL marketing and promotion for Rockstar's Grand Theft Auto 6 has taken place in Miami, but the developer isn't ignoring other parts of the world.",
    "title_ar": ""
   },
-  "gamespot.com/articles/gta-6-looks-pretty-realistic-until-it-comes-to-gym-etiquette": {
-   "at": "2026-11-05T17:00:51.314286+00:00",
-   "title": "GTA 6 Looks Pretty Realistic, Until It Comes To Gym Etiquette",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gamespot.com/articles/gta-6-looks-pretty-realistic-until-it-comes-to-gym-etiquette/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Compared to previous games in the series, Grand Theft Auto 6 looks like it'll only be a few steps removed from reality when it launches this month.",
-   "title_ar": ""
-  },
   "gamespot.com/articles/gta-6-music-festival-announced-for-miami-with-a-stacked-lineup-of-artists": {
    "at": "2026-11-09T14:45:30.836506+00:00",
    "title": "GTA 6 Music Festival Announced For Miami With A Stacked Lineup Of Artists",
@@ -5400,6 +5378,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Wild West-themed turn-based strategy game sequel Hard West II will launch for PlayStation 5 and …",
+   "title_ar": ""
+  },
+  "gematsu.com/2026/11/herdling-nintendo-switch-2-edition-now-available": {
+   "at": "2026-11-12T17:15:30.373926+00:00",
+   "title": "Herdling – Nintendo Switch 2 Edition now available",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gematsu.com/2026/11/herdling-nintendo-switch-2-edition-now-available",
+   "score": 0,
+   "sources": 1,
+   "summary": "Publisher Panic and developer Okomotive have released Herdling – Nintendo Switch 2 Edition.",
    "title_ar": ""
   },
   "gematsu.com/2026/11/hozy-for-ps5-xbox-series-launches-november-9": {
@@ -9120,6 +9109,17 @@
    "summary": "Majora's Mask when?",
    "title_ar": ""
   },
+  "nintendolife.com/news/2026/11/nvidias-ceo-jensen-huang-resigns-following-infidelity-scandal": {
+   "at": "2026-11-12T17:15:30.373926+00:00",
+   "title": "Nvidia's CEO Jensen Huang Resigns Following Infidelity Scandal",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/nvidias-ceo-jensen-huang-resigns-following-infidelity-scandal",
+   "score": 0,
+   "sources": 1,
+   "summary": "Company produces custom processor for Switch 2.",
+   "title_ar": ""
+  },
   "nintendolife.com/news/2026/11/rayman-legends-retold-reveals-rabbids-outfit-exclusive-to-switch-2": {
    "at": "2026-11-10T05:00:46.360441+00:00",
    "title": "Rayman Legends Retold Reveals Rabbids Outfit Exclusive To Switch 2",
@@ -10990,6 +10990,17 @@
    "summary": "Nvidia gets a new chief executive, days after former CEO Jensen Huang admitted to a romantic affair with an alleged Chinese spy.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions": {
+   "at": "2026-11-12T17:15:30.373926+00:00",
+   "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+   "score": 0,
+   "sources": 1,
+   "summary": "SoftBank lost over $3 billion pre-ordering natural gas turbines to power AI data centers.",
+   "title_ar": ""
+  },
   "techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor": {
    "at": "2026-11-12T16:15:31.023666+00:00",
    "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
@@ -12057,6 +12068,28 @@
    "summary": "When (or if) Ring's security camera drone flies into our homes in January, you won't get the option to pilot it yourself.",
    "title_ar": "Ring تؤكد أن طائرتها المسيرة المزودة بكاميرا لن تحتوي على عناصر تحكم يدوية بعد تحطمها في CBS News"
   },
+  "theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout": {
+   "at": "2026-11-12T17:15:30.373926+00:00",
+   "title": "Google Wallet can finally unlock doors with digital home keys",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout",
+   "score": 0,
+   "sources": 1,
+   "summary": "Google has added digital home key support to Google Wallet, allowing Android users to open smart locks by tapping their phone against them or simply approaching.",
+   "title_ar": ""
+  },
+  "theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash": {
+   "at": "2026-11-12T17:15:30.373926+00:00",
+   "title": "‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash",
+   "score": 1,
+   "sources": 1,
+   "summary": "The Cybertruck is heading to that shiny cyber-dumpster in the sky, leaving the folks who built online identities around Elon Musk's polarizing pickup feeling bereft.",
+   "title_ar": "\"نهاية تسلا!\": عشاق Cybertruck المخلصون ينقلبون على Elon Musk بعد قراره المفاجئ"
+  },
   "tomshardware.com/3d-printing/prusa-launches-new-carbon-3d-printing-filament-for-electronics-manufacturing-carbon-fiber-and-carbon-nanotube-filled-material-dissipates-electrostatic-energy-for-static-sensitive-electronics": {
    "at": "2026-11-11T21:01:01.435634+00:00",
    "title": "Prusa launches new carbon-fiber and carbon-nanotube-filled 3D printing filament for electronics manufacturing",
@@ -13118,7 +13151,7 @@
   "AI": "2026-11-12T17:00:46.909589+00:00",
   "Anime": "2026-11-12T14:15:28.417486+00:00",
   "Games": "2026-11-12T16:45:32.631702+00:00",
-  "Tech": "2026-11-12T16:30:40.307813+00:00"
+  "Tech": "2026-11-12T17:15:30.373926+00:00"
  },
  "digest_day": "2026-11-11",
  "weekly_day": "2026-11-06"
