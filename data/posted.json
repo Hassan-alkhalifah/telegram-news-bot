@@ -3246,17 +3246,6 @@
    "summary": "Takeuchi will debut as the character in Episode 6",
    "title_ar": ""
   },
-  "crunchyroll.com/news/latest/2026/11/5/wandance-live-action-movie-extended-trailer": {
-   "at": "2026-11-05T03:00:49.217980+00:00",
-   "title": "Wandance Live-Action Movie Drops Extended Trailer",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://crunchyroll.com/news/latest/2026/11/5/wandance-live-action-movie-extended-trailer",
-   "score": 0,
-   "sources": 1,
-   "summary": "The adaptation opens in Japan on November 27",
-   "title_ar": ""
-  },
   "crunchyroll.com/news/latest/2026/11/6/33-sai-dokushin-onna-kishi-taicho-anime-adaptation-announced": {
    "at": "2026-11-06T04:15:29.971399+00:00",
    "title": "33-sai Dokushin Onna Kishi Taicho. Anime Adaptation Announced",
@@ -8064,6 +8053,17 @@
    "summary": "Obsidian Entertainment has announced their first DLC for The Outer Worlds 2, Side Effects Guaranteed, coming December 2, 2026.",
    "title_ar": "الإعلان عن المحتوى الإضافي الأول لـ The Outer Worlds 2"
   },
+  "insider-gaming.com/tomb-raider-catalyst-switch-2": {
+   "at": "2026-11-12T03:15:28.327520+00:00",
+   "title": "Tomb Raider: Catalyst Confirmed for Switch 2 by Amazon",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://insider-gaming.com/tomb-raider-catalyst-switch-2/",
+   "score": 4,
+   "sources": 2,
+   "summary": "We didn't know Tomb Raider: Catalyst was coming to Switch 2, but Amazon seems to have confirmed it in a recent news post.",
+   "title_ar": "Amazon تؤكد قدوم Tomb Raider: Catalyst إلى جهاز Switch 2"
+  },
   "insider-gaming.com/tripwire-interactive-announces-layoffs": {
    "at": "2026-11-09T19:45:29.331647+00:00",
    "title": "Killing Floor 3 Developer Tripwire Interactive Announces Layoffs",
@@ -9120,6 +9120,17 @@
    "summary": "Link will see you now.",
    "title_ar": ""
   },
+  "nintendolife.com/news/2026/11/laras-new-tomb-raider-game-is-apparently-on-its-way-to-switch-2": {
+   "at": "2026-11-12T03:15:28.327520+00:00",
+   "title": "Lara's New Tomb Raider Game Is Apparently On Its Way To Switch 2",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/laras-new-tomb-raider-game-is-apparently-on-its-way-to-switch-2",
+   "score": 0,
+   "sources": 1,
+   "summary": "Amazon might have just confirmed it.",
+   "title_ar": ""
+  },
   "nintendolife.com/news/2026/11/mario-is-my-life-beloved-blogger-supper-mario-broth-reveals-health-issues": {
    "at": "2026-11-09T14:45:30.836506+00:00",
    "title": "\"Mario Is My Life\" - Beloved Blogger 'Supper Mario Broth' Reveals Health Issues",
@@ -9393,6 +9404,17 @@
    "score": 0,
    "sources": 1,
    "summary": "\"Take EVE everywhere\".",
+   "title_ar": ""
+  },
+  "nintendolife.com/news/2026/11/witcher-3s-new-expansion-pairs-geralts-polish-voice-actor-with-ai-but-its-a-special-case": {
+   "at": "2026-11-12T03:15:28.327520+00:00",
+   "title": "Witcher 3's New Expansion Pairs Geralt's Polish Voice Actor With AI, But It's A \"Special Case\"",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/witcher-3s-new-expansion-pairs-geralts-polish-voice-actor-with-ai-but-its-a-special-case",
+   "score": 0,
+   "sources": 1,
+   "summary": "CDPR got the actor's blessing, after he suffered a stroke.",
    "title_ar": ""
   },
   "nintendolife.com/news/2026/11/xenoblade-chronicles-studio-monolith-soft-helped-out-with-the-zelda-ocarina-of-time-remake": {
@@ -11098,6 +11120,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+   "title_ar": ""
+  },
+  "techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors": {
+   "at": "2026-11-12T03:15:28.327520+00:00",
+   "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
    "title_ar": ""
   },
   "the-decoder.com/after-midterm-rout-openai-tries-to-win-over-communities-it-needs-for-ai-expansion": {
@@ -13227,7 +13260,7 @@
  "topic_last_posted": {
   "AI": "2026-11-11T22:01:01.517047+00:00",
   "Anime": "2026-11-12T00:45:26.602077+00:00",
-  "Games": "2026-11-12T01:00:44.376825+00:00",
+  "Games": "2026-11-12T03:15:28.327520+00:00",
   "Tech": "2026-11-12T01:45:29.034231+00:00"
  },
  "digest_day": "2026-11-11",
