@@ -1585,6 +1585,17 @@
    "summary": "There’s no shortage of note-taking apps on the App Store, but Apple Notes has long been my favorite, and in iOS 27.3 it’s gaining a new advantage: extensive app controls via Siri AI. more…",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/12/apple-sports-adds-ufc-events-with-real-time-stats-and-results": {
+   "at": "2026-11-12T18:00:45.101887+00:00",
+   "title": "Apple Sports adds UFC events with real-time stats and results",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/12/apple-sports-adds-ufc-events-with-real-time-stats-and-results/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Apple continues to expand the appeal of its free Sports app, which focuses on delivering real-time sports scores and stats, across many different sports.",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/12/foxconn-revenue-climbs-46-bloomberg-forecasts-16m-iphone-duo-sales": {
    "at": "2026-11-12T13:45:28.358599+00:00",
    "title": "Foxconn revenue climbs 46%; Bloomberg forecasts 16M iPhone Duo sales",
@@ -1903,17 +1914,6 @@
    "sources": 1,
    "summary": "Denneko Yuugi's 3D action roguelite game streams trailer",
    "title_ar": "إطلاق لعبة Eternal Palace Sakura لأجهزة Switch و PC"
-  },
-  "animenewsnetwork.com/news/2026-11-05/good-smile-company-partially-reopens-on-november-6-following-data-breach-of-online-store/.243561": {
-   "at": "2026-11-05T17:45:32.503326+00:00",
-   "title": "Good Smile Company Partially Reopens on November 6 Following Data Breach of Online Store",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-05/good-smile-company-partially-reopens-on-november-6-following-data-breach-of-online-store/.243561",
-   "score": 1,
-   "sources": 1,
-   "summary": "Store reopens for viewing product information only after company discovered breach on October 23",
-   "title_ar": "شركة Good Smile Company تعيد فتح أبوابها جزئياً في 6 نوفمبر إثر اختراق بيانات متجرها الإلكتروني"
   },
   "animenewsnetwork.com/news/2026-11-05/ninja-skooler-anime-unveils-pilot-film-images-song/.243571": {
    "at": "2026-11-06T01:00:43.465124+00:00",
@@ -4258,6 +4258,17 @@
    "summary": "Europe's Digital Fairness Act targets digital practices that harm children and push people into spending more.",
    "title_ar": "أوروبا تريد حظر \"الأنماط المظلمة\" في التطبيقات وصناديق الغنائم للقصر"
   },
+  "engadget.com/2313383/apple-sports-adds-live-ufc-updates": {
+   "at": "2026-11-12T18:00:45.101887+00:00",
+   "title": "Apple Sports adds live UFC updates",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2313383/apple-sports-adds-live-ufc-updates/",
+   "score": 3,
+   "sources": 2,
+   "summary": "The app can deliver real-time stats for each fight on a UFC card.",
+   "title_ar": "تطبيق Apple Sports يضيف تحديثات حية لمباريات UFC"
+  },
   "engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay": {
    "at": "2026-11-11T20:15:30.399014+00:00",
    "title": "Google brings the Gemini app to Apple CarPlay",
@@ -5423,6 +5434,17 @@
    "sources": 2,
    "summary": "Multiplayer extraction RPG HUNGER will launch in Early Access for PC via Steam on December …",
    "title_ar": "إطلاق لعبة HUNGER في مرحلة الوصول المبكر في 3 ديسمبر"
+  },
+  "gematsu.com/2026/11/kuloniku-bowl-up-coming-to-switch-2-switch-on-november-25": {
+   "at": "2026-11-12T18:00:45.101887+00:00",
+   "title": "KuloNiku: Bowl Up! coming to Switch 2, Switch on November 25",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gematsu.com/2026/11/kuloniku-bowl-up-coming-to-switch-2-switch-on-november-25",
+   "score": 0,
+   "sources": 1,
+   "summary": "Publisher Raw Fury and developer Gambir Studio will release cooking game KuloNiku: Bowl Up! for …",
+   "title_ar": ""
   },
   "gematsu.com/2026/11/kuloniku-bowl-up-coming-to-switch-2-switch-on-november-26": {
    "at": "2026-11-12T17:00:46.909589+00:00",
@@ -6865,6 +6887,17 @@
    "summary": "Outside of the few games that Sony has ported to Windows, the PlayStation Plus app on PC was the best way to play PS5 games on PC, even if you had to stream them.",
    "title_ar": ""
   },
+  "ign.com/articles/pocketpair-gives-employees-five-days-leave-to-play-gta-6": {
+   "at": "2026-11-12T18:00:45.101887+00:00",
+   "title": "Palworld Developer Pocketpair Gives Employees 5 Days Off to Play GTA 6",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/pocketpair-gives-employees-five-days-leave-to-play-gta-6",
+   "score": 0,
+   "sources": 1,
+   "summary": "Palworld developer Pocketpair is giving its staff five days off to make their way through GTA 6.",
+   "title_ar": ""
+  },
   "ign.com/articles/ps5-hits-100-million-units-sold-mark-6-years-after-launch-heres-how-it-compares-to-other-playstation-consoles": {
    "at": "2026-11-11T11:00:42.603346+00:00",
    "title": "PS5 Hits 100 Million Units Sold Mark 6 Years After Launch — Here's How It Compares to Other PlayStation Consoles",
@@ -7721,17 +7754,6 @@
    "score": 0,
    "sources": 1,
    "summary": "A new Nintendo Switch 2 system update has been unveiled by Nintendo, and it lays the foundation for an upcoming gifting feature.",
-   "title_ar": ""
-  },
-  "insider-gaming.com/ocarina-of-time-remake-voice-actors-announced": {
-   "at": "2026-11-05T17:45:32.503326+00:00",
-   "title": "Voice Actors for The Legend of Zelda: Ocarina of Time Remake Announced",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/ocarina-of-time-remake-voice-actors-announced/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The cast of The Legend of Zelda: Ocarina of Time remake features Familiar voices like Matthew Mercer and Erica Mendez, among others",
    "title_ar": ""
   },
   "insider-gaming.com/ocarina-of-time-remake-water-temple": {
@@ -9230,17 +9252,6 @@
    "summary": "What could it be for?",
    "title_ar": ""
   },
-  "nintendolife.com/news/2026/11/we-have-so-many-questions-about-this-stellar-blade-launch-trailer": {
-   "at": "2026-11-05T17:45:32.503326+00:00",
-   "title": "We Have So Many Questions About This Stellar Blade Launch Trailer",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.nintendolife.com/news/2026/11/we-have-so-many-questions-about-this-stellar-blade-launch-trailer",
-   "score": 0,
-   "sources": 1,
-   "summary": "\"Take EVE everywhere\".",
-   "title_ar": ""
-  },
   "nintendolife.com/news/2026/11/witcher-3s-new-expansion-pairs-geralts-polish-voice-actor-with-ai-but-its-a-special-case": {
    "at": "2026-11-12T03:15:28.327520+00:00",
    "title": "Witcher 3's New Expansion Pairs Geralt's Polish Voice Actor With AI, But It's A \"Special Case\"",
@@ -9734,6 +9745,17 @@
    "score": 0,
    "sources": 1,
    "summary": "The scandal deepens as an alleged second affair comes to light.",
+   "title_ar": ""
+  },
+  "pcgamer.com/hardware/now-jensens-gone-intels-trouble-finding-a-steady-ceo-should-serve-as-cautionary-tale-to-nvidias-board": {
+   "at": "2026-11-12T18:00:45.101887+00:00",
+   "title": "Now Jensen's gone, Intel’s trouble finding a steady CEO should serve as cautionary tale to Nvidia’s board",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/hardware/now-jensens-gone-intels-trouble-finding-a-steady-ceo-should-serve-as-cautionary-tale-to-nvidias-board/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Huang's permanent replacement will have some massive shoes to fill.",
    "title_ar": ""
   },
   "pcgamer.com/hardware/nvidia-stock-price-plunges-amid-second-jensen-huang-affair-allegation-the-ai-company-could-be-set-to-lose-hundreds-of-billions-in-value": {
@@ -10241,6 +10263,17 @@
    "sources": 1,
    "summary": "Bandai Namco confirms.",
    "title_ar": "إغلاق مطور لعبة Unknown 9 بعد مرور عامين على إطلاقها الكارثي على أجهزة PS5"
+  },
+  "pushsquare.com/news/2026/11/xbox-wants-you-to-revisit-halo-campaign-evolved-on-ps5-as-free-co-op-mode-update-is-announced": {
+   "at": "2026-11-12T18:00:45.101887+00:00",
+   "title": "Xbox Wants You to Revisit Halo: Campaign Evolved on PS5 as Free Co-Op Mode Update Is Announced",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pushsquare.com/news/2026/11/xbox-wants-you-to-revisit-halo-campaign-evolved-on-ps5-as-free-co-op-mode-update-is-announced",
+   "score": 0,
+   "sources": 1,
+   "summary": "Firefight is back.",
+   "title_ar": ""
   },
   "techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027": {
    "at": "2026-11-05T23:15:33.988781+00:00",
@@ -11659,6 +11692,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993.",
+   "title_ar": ""
+  },
+  "theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling": {
+   "at": "2026-11-12T18:00:45.101887+00:00",
+   "title": "The Jensen Huang scandal is hardly over",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+   "score": 0,
+   "sources": 1,
+   "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof.",
    "title_ar": ""
   },
   "theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy": {
@@ -13162,8 +13206,8 @@
   "AI": "2026-11-12T17:00:46.909589+00:00",
   "Anime": "2026-11-12T17:30:34.729491+00:00",
   "Games": "2026-11-12T17:45:28.190298+00:00",
-  "Tech": "2026-11-12T17:15:30.373926+00:00"
+  "Tech": "2026-11-12T18:00:45.101887+00:00"
  },
- "digest_day": "2026-11-11",
+ "digest_day": "2026-11-12",
  "weekly_day": "2026-11-06"
 }
