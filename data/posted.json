@@ -1,28 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/04/galaxy-z-fold-8-cameras-fold-9-rumor": {
-   "at": "2026-11-05T01:45:28.539573+00:00",
-   "title": "Three months in, Galaxy Z Fold 8’s cameras aren’t enough, and Fold 9 might not fix it [Gallery]",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/04/galaxy-z-fold-8-cameras-fold-9-rumor/",
-   "score": 1,
-   "sources": 1,
-   "summary": "I’ve been enamored with my Galaxy Z Fold 8 since I started using it roughly three months ago, but its one big downside has been the cameras, so I’m not exactly thrilled to hear that the Galaxy Z…",
-   "title_ar": "بعد ثلاثة أشهر، كاميرات Galaxy Z Fold 8 ليست كافية، وFold 9 قد لا يحل المشكلة [معرض صور]"
-  },
-  "9to5google.com/2026/11/04/the-first-snapdragon-phone-with-android-linux-terminal-support-is-here": {
-   "at": "2026-11-05T01:30:39.240729+00:00",
-   "title": "The first Snapdragon phone with Android Linux Terminal support is here",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/04/the-first-snapdragon-phone-with-android-linux-terminal-support-is-here/",
-   "score": 1,
-   "sources": 1,
-   "summary": "The Redmagic 12 Pro is the first Snapdragon-based Android phone to support the Linux Terminal introduced in Android 16 for Pixel phones. more…",
-   "title_ar": "وصول أول هاتف مزود بمعالج Snapdragon مع دعم طرفية Linux لأندرويد"
-  },
   "9to5google.com/2026/11/05/android-auto-gemini-call-text-voice-command-bug": {
    "at": "2026-11-06T04:30:39.198324+00:00",
    "title": "Android Auto’s latest Gemini failing keeps asking ‘who do you want to call’",
@@ -4389,6 +4367,17 @@
    "sources": 1,
    "summary": "Microsoft's upscaling tech for video games is now officially available for select Xbox Ally machines, as well as some other Copilot+ PCs.",
    "title_ar": ""
+  },
+  "engadget.com/2313329/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors": {
+   "at": "2026-11-12T01:45:29.034231+00:00",
+   "title": "Europe wants to ban 'dark patterns' in apps and loot boxes for minors",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2313329/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Europe's Digital Fairness Act targets digital practices that harm children and push people into spending more.",
+   "title_ar": "أوروبا تريد حظر \"الأنماط المظلمة\" في التطبيقات وصناديق الغنائم للقصر"
   },
   "engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay": {
    "at": "2026-11-11T20:15:30.399014+00:00",
@@ -9329,17 +9318,6 @@
    "summary": "Accumulate to mitigate.",
    "title_ar": "مستويات مخزون Nintendo تسجل رقماً قياسياً غير مпредв مع استمرار أزمة ذاكرة الوصول العشوائي (RAM)"
   },
-  "nintendolife.com/news/2026/11/pikmin-4-has-been-updated-to-version-2-0-0-here-are-the-full-patch-notes": {
-   "at": "2026-11-05T01:30:39.240729+00:00",
-   "title": "Pikmin 4 Has Been Updated To Version 2.0.0, Here Are The Full Patch Notes",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.nintendolife.com/news/2026/11/pikmin-4-has-been-updated-to-version-2-0-0-here-are-the-full-patch-notes",
-   "score": 0,
-   "sources": 1,
-   "summary": "The Switch 2 Edition arrives next week.",
-   "title_ar": ""
-  },
   "nintendolife.com/news/2026/11/pikmin-4-switch-2-edition-overview-trailer-showcases-more-dandori-academy-exams": {
    "at": "2026-11-05T15:30:43.251885+00:00",
    "title": "'Pikmin 4 - Switch 2 Edition' Overview Trailer Showcases More Dandori Academy Exams",
@@ -13305,7 +13283,7 @@
   "AI": "2026-11-11T22:01:01.517047+00:00",
   "Anime": "2026-11-12T00:45:26.602077+00:00",
   "Games": "2026-11-12T01:00:44.376825+00:00",
-  "Tech": "2026-11-12T01:30:36.235017+00:00"
+  "Tech": "2026-11-12T01:45:29.034231+00:00"
  },
  "digest_day": "2026-11-11",
  "weekly_day": "2026-11-06"
