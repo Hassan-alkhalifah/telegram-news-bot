@@ -1552,6 +1552,17 @@
    "summary": "A poll of 9to5Mac readers who were lucky enough to take delivery of their iPhone Duo in the first few days shows that 30% of them have returned it for a refund.",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/12/foxconn-revenue-climbs-46-bloomberg-forecasts-16m-iphone-duo-sales": {
+   "at": "2026-11-12T13:45:28.358599+00:00",
+   "title": "Foxconn revenue climbs 46%; Bloomberg forecasts 16M iPhone Duo sales",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/12/foxconn-revenue-climbs-46-bloomberg-forecasts-16m-iphone-duo-sales/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Key Apple manufacturing partner Foxconn has announced a year-on-year revenue increase of 46%, thanks to a mix of consumer electronics and server demand.",
+   "title_ar": "ارتفاع إيرادات Foxconn بنسبة 46%، وBloomberg تتوقع مبيعات بـ 16 مليون وحدة لـ iPhone Duo"
+  },
   "9to5mac.com/2026/11/12/heres-apples-new-ad-for-the-holiday-season-featuring-macbook-neo": {
    "at": "2026-11-12T12:00:41.421543+00:00",
    "title": "Here’s Apple’s new ad for the holiday season, featuring MacBook Neo",
@@ -8306,6 +8317,17 @@
    "summary": "What Jeff Bezos giveth, he taketh away",
    "title_ar": ""
   },
+  "kotaku.com/nintendo-github-dmca-takedowns-picofly-modchips-piracy-repositories-2000756232": {
+   "at": "2026-11-12T13:45:28.358599+00:00",
+   "title": "Nintendo’s Latest Volley Of DMCA Takedowns Wipes Over 200 Nintendo Switch Projects Off Of GitHub",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/nintendo-github-dmca-takedowns-picofly-modchips-piracy-repositories-2000756232",
+   "score": 0,
+   "sources": 1,
+   "summary": "The latest wave of Nintendo DMCAs on GitHub have targeted firmware for Nintendo Switch modchips and its old emulation-related nemesis, Yuzu",
+   "title_ar": ""
+  },
   "kotaku.com/nintendo-shuts-down-switch-2-jailbreak-smilebasic-r4-piracy-homebrew-2000755504": {
    "at": "2026-11-10T13:00:47.494990+00:00",
    "title": "Nintendo Shuts Down Switch 2 Jailbreak, Sending Hackers Back To Square One",
@@ -12975,7 +12997,7 @@
   "AI": "2026-11-12T12:15:28.041339+00:00",
   "Anime": "2026-11-12T10:15:00.580684+00:00",
   "Games": "2026-11-12T13:30:41.496030+00:00",
-  "Tech": "2026-11-12T13:15:29.049450+00:00"
+  "Tech": "2026-11-12T13:45:28.358599+00:00"
  },
  "digest_day": "2026-11-11",
  "weekly_day": "2026-11-06"
