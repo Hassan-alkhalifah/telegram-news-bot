@@ -639,17 +639,6 @@
    "summary": "Award-winning culinary show ‘ Knife Edge: Chasing Michelin Stars ’ is getting a third season, in an announcement that came hours after its second season came to a close.",
    "title_ar": "Apple TV تجدد برنامج Knife Edge: Chasing Michelin Stars لموسم ثالث"
   },
-  "9to5mac.com/2026/11/06/apples-funny-new-apple-card-ad-features-an-awkward-therapy-session": {
-   "at": "2026-11-06T21:00:45.113141+00:00",
-   "title": "Apple’s funny new Apple Card ad features an awkward therapy session",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/06/apples-funny-new-apple-card-ad-features-an-awkward-therapy-session/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Apple shared a new Apple Card ad on its YouTube page today featuring a therapist who realizes she really needs a vacation.",
-   "title_ar": "إعلان Apple الجديد والطريف لبطاقة Apple Card يظهر جلسة علاج نفسية محرجة"
-  },
   "9to5mac.com/2026/11/06/ios-27-3-new-features-release-date-more": {
    "at": "2026-11-06T22:00:49.744999+00:00",
    "title": "iOS 27.3: New features, release date, more",
@@ -7008,6 +6997,17 @@
    "summary": "PlayStation 5 has shipped 100 million units, Sony has announced.",
    "title_ar": ""
   },
+  "ign.com/articles/rainbow-six-vegas-reportedly-returning-with-new-installment": {
+   "at": "2026-11-13T21:15:27.545641+00:00",
+   "title": "Rainbow Six: Vegas Reportedly Returning With New Installment",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.ign.com/articles/rainbow-six-vegas-reportedly-returning-with-new-installment",
+   "score": 2,
+   "sources": 2,
+   "summary": "Ubisoft has reportedly given a new entry in the Rainbow Six: Vegas series the green light and a codename.",
+   "title_ar": "تقارير تفيد بعودة سلسلة Rainbow Six: Vegas عبر جزء جديد"
+  },
   "ign.com/articles/selfridges-gta-6-takeover-varsity-jacket": {
    "at": "2026-11-09T13:15:31.286397+00:00",
    "title": "Iconic British Retail Store Gets GTA 6 Takeover Featuring Exclusive $3,355 Varsity Jacket",
@@ -7116,6 +7116,17 @@
    "score": 0,
    "sources": 1,
    "summary": "This year’s Game Awards are coming to Disney+, where it will broadcast in addition to its usual streams on Twitch and YouTube.",
+   "title_ar": ""
+  },
+  "ign.com/articles/the-game-awards-2026-will-stream-live-on-roblox-for-the-first-time-complete-with-voting-and-virtual-merch": {
+   "at": "2026-11-13T21:15:27.545641+00:00",
+   "title": "The Game Awards 2026 Will Stream Live on Roblox for the First Time, Complete With Voting and Virtual Merch",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/the-game-awards-2026-will-stream-live-on-roblox-for-the-first-time-complete-with-voting-and-virtual-merch",
+   "score": 0,
+   "sources": 1,
+   "summary": "The Game Awards is coming to Roblox for the first time this December, complete with live voting, virtual merchandise, and the opportunity to experience the whole thing alongside other players.",
    "title_ar": ""
   },
   "ign.com/articles/the-legend-of-zelda-ocarina-of-time-is-a-huge-success-for-nintendo-and-just-broke-a-switch-2-sales-record": {
@@ -7886,6 +7897,17 @@
    "score": 0,
    "sources": 1,
    "summary": "The line-up of new games coming to the PlayStation Plus catalog has been revealed, with major titles like Death Stranding 2 included.",
+   "title_ar": ""
+  },
+  "insider-gaming.com/rainbow-six-vegas-3": {
+   "at": "2026-11-13T21:15:27.545641+00:00",
+   "title": "EXCLUSIVE: Rainbow Six: Vegas Series Set to Return After Nearly Two Decades",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/rainbow-six-vegas-3/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Insider Gaming has learned that Ubisoft is in early development on a new Rainbow Six: Vegas title.",
    "title_ar": ""
   },
   "insider-gaming.com/red-dead-redemption-2-90m-sold": {
@@ -13524,7 +13546,7 @@
  "topic_last_posted": {
   "AI": "2026-11-13T20:27:55.837463+00:00",
   "Anime": "2026-11-13T20:45:31.167926+00:00",
-  "Games": "2026-11-13T20:30:37.655938+00:00",
+  "Games": "2026-11-13T21:15:27.545641+00:00",
   "Tech": "2026-11-13T21:00:41.462775+00:00"
  },
  "digest_day": "2026-11-13",
