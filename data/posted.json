@@ -2520,6 +2520,17 @@
    "summary": "Maverick Mom performs opening theme song 'Isekai,' VTuber Tokino Sora performs ending theme 'Brand New Day'",
    "title_ar": ""
   },
+  "animenewsnetwork.com/news/2026-11-13/stage-musical-adaptation-of-webtoon-the-siren-becoming-the-villain-family-to-premiere-in-seoul-on-/.243641": {
+   "at": "2026-11-13T13:15:29.919250+00:00",
+   "title": "Stage Musical Adaptation of Webtoon The Siren: Becoming the Villain's Family to Premiere in Seoul on March 24, 2027",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-13/stage-musical-adaptation-of-webtoon-the-siren-becoming-the-villain-family-to-premiere-in-seoul-on-/.243641",
+   "score": 1,
+   "sources": 1,
+   "summary": "Story follows grand duke of family that has been afflicted by demonic curse for generations",
+   "title_ar": "عرض المسرحية الموسيقية المقتبسة من الويب توون The Siren: Becoming the Villain's Family لأول مرة في سيول في 24 مارس 2027"
+  },
   "arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github": {
    "at": "2026-11-09T20:00:46.507717+00:00",
    "title": "Claude Code is accidentally exposing secrets all over GitHub",
@@ -3497,17 +3508,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Tesla Cybertruck production will wind down in the middle of 2027 to make room for the Cybercab robotaxi.",
-   "title_ar": ""
-  },
-  "engadget.com/2308903/googles-find-hub-can-finally-notify-you-if-youve-left-a-tracker-behind": {
-   "at": "2026-11-06T13:15:28.055106+00:00",
-   "title": "Google's Find Hub can finally notify you if you've left a tracker behind",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.engadget.com/2308903/googles-find-hub-can-finally-notify-you-if-youve-left-a-tracker-behind/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Google has rolled out 'Notify when left behind' separation alerts for your tracking devices.",
    "title_ar": ""
   },
   "engadget.com/2308988/apple-macbook-pro-proled-tops-out-at-15000": {
@@ -9615,6 +9615,17 @@
    "summary": "No rush.",
    "title_ar": ""
   },
+  "pcgamer.com/hardware/graphics-cards/clear-national-security-concerns-that-need-to-be-addressed-immediately-new-letters-to-jensen-huang-from-congress-strike-a-tougher-tone-for-the-ex-nvidia-ceo": {
+   "at": "2026-11-13T13:15:29.919250+00:00",
+   "title": "'Clear national security concerns that need to be addressed immediately': new letters to Jensen Huang from Congress strike a tougher tone for the ex-Nvidia CEO",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/hardware/graphics-cards/clear-national-security-concerns-that-need-to-be-addressed-immediately-new-letters-to-jensen-huang-from-congress-strike-a-tougher-tone-for-the-ex-nvidia-ceo/",
+   "score": 0,
+   "sources": 1,
+   "summary": "They threaten subpoenas if he doesn't show up, but he's intimated that he'll attend the meeting.",
+   "title_ar": ""
+  },
   "pcgamer.com/hardware/graphics-cards/how-nvidia-got-into-this-mess-timeline-of-jensen-huang-scandal-and-geopolitics-leading-up-to-it": {
    "at": "2026-11-12T15:45:28.047626+00:00",
    "title": "How Nvidia got into this mess: timeline of Jensen Huang scandal and geopolitics leading up to it",
@@ -10351,17 +10362,6 @@
    "sources": 1,
    "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
    "title_ar": "تقرير: OpenAI تجمع 11 مليار دولار إضافية بتقييم قدره 1.25 تريليون دولار"
-  },
-  "techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots": {
-   "at": "2026-11-06T13:15:28.055106+00:00",
-   "title": "Physicl raises $10M to make the digital world real enough for robots",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-   "title_ar": "شركة Physicl تجمع 10 ملايين دولار لجعل العالم الرقمي واقعياً بما يكفي للروبوتات"
   },
   "techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo": {
    "at": "2026-11-06T16:00:45.829982+00:00",
@@ -11110,6 +11110,17 @@
    "sources": 1,
    "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
    "title_ar": "شركات رأس المال المخاطر في إسرائيل ترى فرصة للمنافسين في أزمة Nvidia"
+  },
+  "techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis": {
+   "at": "2026-11-13T13:15:29.919250+00:00",
+   "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline.",
+   "title_ar": ""
   },
   "technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking": {
    "at": "2026-11-12T21:15:29.818668+00:00",
@@ -12079,6 +12090,17 @@
    "summary": "Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report.",
    "title_ar": ""
   },
+  "theverge.com/tech/1032550/apple-macbook-pro-proled-xdr-lid-logo-led-rgb-colors": {
+   "at": "2026-11-13T13:15:29.919250+00:00",
+   "title": "Apple should have made the MacBook logo RGB",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.theverge.com/tech/1032550/apple-macbook-pro-proled-xdr-lid-logo-led-rgb-colors",
+   "score": 1,
+   "sources": 1,
+   "summary": "When Apple CEO John Ternus announced the first touchscreen Mac last month, the biggest reaction in the room wasn't for the PROLED MacBook Pro's OLED touchscreen or the thinner and lighter chassis…",
+   "title_ar": "كان يجب على Apple أن تجعل شعار MacBook بإضاءة RGB"
+  },
   "theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang": {
    "at": "2026-11-13T01:00:41.233613+00:00",
    "title": "Donald Trump really wants Tim Cook to run Nvidia",
@@ -12320,6 +12342,17 @@
    "sources": 1,
    "summary": "A homelab enthusiast is retiring a Microsoft Exchange installation that began with Exchange 5.5 on Windows NT 4 in 1999.",
    "title_ar": "متحمس يتخلى عن خادم Microsoft Exchange الذاتي بعد 27 عاماً وينقل صناديق البريد إلى Microsoft 365"
+  },
+  "tomshardware.com/software/japanese-workers-return-to-fax-machines-during-ongoing-microsoft-365-outage-were-going-full-analog-say-workers-forced-to-ditch-pdfs": {
+   "at": "2026-11-13T13:15:29.919250+00:00",
+   "title": "Japanese workers return to fax machines during ongoing Microsoft 365 outage",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/software/japanese-workers-return-to-fax-machines-during-ongoing-microsoft-365-outage-were-going-full-analog-say-workers-forced-to-ditch-pdfs",
+   "score": 0,
+   "sources": 1,
+   "summary": "Japanese workers are breaking out fax machines to deal with Microsoft's 365 outage.",
+   "title_ar": ""
   },
   "tomshardware.com/software/linux/the-end-of-an-era-as-linux-7-5-purges-the-last-30-year-old-intel-mmx-optimizations-from-pentium-age-open-source-os-retires-ancient-1997-pentium-instructions-to-streamline-code": {
    "at": "2026-11-08T14:45:30.299487+00:00",
@@ -13215,9 +13248,9 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-13T13:00:45.245111+00:00",
-  "Anime": "2026-11-13T09:00:46.127668+00:00",
+  "Anime": "2026-11-13T13:15:29.919250+00:00",
   "Games": "2026-11-13T12:15:29.636986+00:00",
-  "Tech": "2026-11-13T10:15:31.218604+00:00"
+  "Tech": "2026-11-13T13:15:29.919250+00:00"
  },
  "digest_day": "2026-11-12",
  "weekly_day": "2026-11-06"
