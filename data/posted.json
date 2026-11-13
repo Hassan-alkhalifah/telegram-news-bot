@@ -3169,17 +3169,6 @@
    "summary": "The first event for the new awards will be held on November 21, 2027",
    "title_ar": ""
   },
-  "crunchyroll.com/news/latest/2026/11/6/rainy-day-serenade-anime-premieres-in-april-2027": {
-   "at": "2026-11-06T12:00:44.962591+00:00",
-   "title": "Rainy Day Serenade Anime Premieres in April 2027",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://crunchyroll.com/news/latest/2026/11/6/rainy-day-serenade-anime-premieres-in-april-2027",
-   "score": 0,
-   "sources": 1,
-   "summary": "Main staff, cast and more revealed for adaptation based on Haruka Kawachi's manga",
-   "title_ar": ""
-  },
   "crunchyroll.com/news/latest/2026/11/7/bless-anime-january-8-2027-premiere-date-trailer-key-visual-ending-theme-song": {
    "at": "2026-11-07T09:45:30.274251+00:00",
    "title": "BLESS Anime Trailer Reveals Premiere Date, Ending Theme Song",
@@ -6304,6 +6293,17 @@
    "summary": "A couple of days ago, Xiaomi officially confirmed that it will be launching the 18 Pro and 18 Pro Max globally at an event taking place in Paris on November 17.",
    "title_ar": ""
   },
+  "ign.com/articles/after-giving-away-thousands-of-dollars-in-cosmetics-fortnite-is-teasing-a-big-reveal-for-captain-x-its-mysterious-masked-treasure-man-with-fan-guesses-ranging-from-mr-beast-to-obama": {
+   "at": "2026-11-13T12:15:29.636986+00:00",
+   "title": "After Giving Away Thousands of Dollars in Cosmetics, Fortnite is Teasing a Big Reveal For Captain X, Its Mysterious Masked Treasure Man — With Fan Guesses Ranging From Mr Beast to Obama",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.ign.com/articles/after-giving-away-thousands-of-dollars-in-cosmetics-fortnite-is-teasing-a-big-reveal-for-captain-x-its-mysterious-masked-treasure-man-with-fan-guesses-ranging-from-mr-beast-to-obama",
+   "score": 2,
+   "sources": 1,
+   "summary": "Fortnite is teasing a big reveal for its upcoming December 5 live event, which will reveal the identity of mysterious new character Captain X.",
+   "title_ar": "بعد توزيع آلاف الدولارات من عناصر التجميل، لعبة Fortnite تشوق لكشف كبير عن Captain X، رجل الكنوز المقنع الغامض - مع تخمينات المعجبين التي تتراوح بين Mr Beast وObama"
+  },
   "ign.com/articles/as-xbox-turns-25-ceo-asha-sharma-says-a-single-person-will-soon-be-able-to-wield-capabilities-that-once-required-entire-nations": {
    "at": "2026-11-12T22:30:41.416256+00:00",
    "title": "As Xbox Turns 25, CEO Asha Sharma Says 'A Single Person Will Soon Be Able to Wield Capabilities That Once Required Entire Nations'",
@@ -8658,6 +8658,17 @@
    "summary": "A World of Warcraft Classic record holder returned to pull off the same trick twice, all the more impressive during one of the highest player surges the online RPG has ever seen",
    "title_ar": ""
   },
+  "kotaku.com/xbox-live-microsoft-365-copilot-outlook-outages-ongoing-2000756565": {
+   "at": "2026-11-13T12:15:29.636986+00:00",
+   "title": "Xbox Live, Microsoft 365, Teams And Copilot Are All Still Spectacularly Broken, Fixes ‘Not Taking As Expected’",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/xbox-live-microsoft-365-copilot-outlook-outages-ongoing-2000756565",
+   "score": 0,
+   "sources": 1,
+   "summary": "Microsoft's online services are in a complete state, all over the world, affecting governments, flights and more",
+   "title_ar": ""
+  },
   "kotaku.com/xbox-releases-21-more-original-xbox-games-on-pc-and-over-half-of-them-are-star-wars-2000756360": {
    "at": "2026-11-12T22:15:30.200216+00:00",
    "title": "Xbox Adds 21 More Original Xbox Games To Backwards Compatibility Program And Over Half Of Them Are Star Wars And Over Half Of Them Are Star Wars",
@@ -9899,17 +9910,6 @@
    "score": 0,
    "sources": 1,
    "summary": "A bunch of governments, state institutions, and companies are affected globally.",
-   "title_ar": ""
-  },
-  "pcgamer.com/software/zelda-ocarina-of-time-remake-reportedly-running-at-60-fps-on-pc-just-hours-after-games-official-nintendo-switch-2-release": {
-   "at": "2026-11-06T12:00:44.962591+00:00",
-   "title": "Zelda: Ocarina of Time remake reportedly running at 60 fps on PC just hours after game's official Nintendo Switch 2 release",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/software/zelda-ocarina-of-time-remake-reportedly-running-at-60-fps-on-pc-just-hours-after-games-official-nintendo-switch-2-release/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Visual and performance issues not quite ironed out yet, which will be music to Nintendo's ears.",
    "title_ar": ""
   },
   "pushsquare.com/news/2026/11/10-ps-plus-extra-premium-games-for-november-2026-announced": {
@@ -12464,17 +12464,6 @@
    "summary": "SpaceX is reportedly developing a 'Kessel' rack-scale system design with 72 Nvidia Rubin GPUs that relies on a massive 84-layer PCB midplane.",
    "title_ar": "تقرير يوكد أن SpaceX تطور نظام \"Kessel\" الخاص بها بمقياس الحامل والذي يضم 72 وحدة معالجة رسوميات من نوع Nvidia Rubin لمراكز البيانات في الفضاء"
   },
-  "tomshardware.com/tech-industry/artificial-intelligence/tesla-unveils-ai-accelerator-roadmap-adopts-new-si-branding-in-super-intelligence-push-si6-to-bring-80x-more-compute-performance-dojo-3-headed-to-space": {
-   "at": "2026-11-06T12:00:44.962591+00:00",
-   "title": "Tesla unveils AI accelerator roadmap, adopts new 'SI' branding in 'Super Intelligence' push",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/tesla-unveils-ai-accelerator-roadmap-adopts-new-si-branding-in-super-intelligence-push-si6-to-bring-80x-more-compute-performance-dojo-3-headed-to-space",
-   "score": 2,
-   "sources": 1,
-   "summary": "Tesla is ramping up its custom silicon ambitions with training-oriented Dojo D3 that can eventually go to orbital data centers and massive SI6 inference accelerator.",
-   "title_ar": "تيلا تكشف عن خريطة طريق لمسارعت الذكاء الاصطناعي وتعتمد علامة تجارية جديدة باسم SI في دفعة \"الذكاء الخارق\""
-  },
   "tomshardware.com/tech-industry/artificial-intelligence/two-chinese-companies-cleared-to-buy-banned-nvidia-ai-chips-have-empty-offices-and-unknown-addresses-investigation-reveals-businesses-have-ties-to-sanctioned-chinese-military-suppliers": {
    "at": "2026-11-08T13:15:32.972736+00:00",
    "title": "Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses",
@@ -13315,7 +13304,7 @@
  "topic_last_posted": {
   "AI": "2026-11-12T23:30:33.840937+00:00",
   "Anime": "2026-11-13T09:00:46.127668+00:00",
-  "Games": "2026-11-13T07:45:28.208018+00:00",
+  "Games": "2026-11-13T12:15:29.636986+00:00",
   "Tech": "2026-11-13T10:15:31.218604+00:00"
  },
  "digest_day": "2026-11-12",
