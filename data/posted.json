@@ -650,17 +650,6 @@
    "summary": "Apple TV subscribers can now stream the first two episodes of the platform’s new unscripted food series, ‘ Awkwafina: The Unlikely Cook .’ Watch the trailer below. more…",
    "title_ar": "إطلاق عرض Awkwafina: The Unlikely Cook على Apple TV"
   },
-  "9to5mac.com/2026/11/05/whatsapps-ai-powered-photo-expansion-tool-starts-rolling-out-on-ios": {
-   "at": "2026-11-06T01:30:38.742448+00:00",
-   "title": "WhatsApp’s AI-powered photo expansion tool starts rolling out on iOS",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/05/whatsapps-ai-powered-photo-expansion-tool-starts-rolling-out-on-ios/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Select WhatsApp users on TestFlight and in the main app are now seeing the option to expand an image in the app’s photo editor.",
-   "title_ar": "إطلاق أداة توسيع الصور المدعومة بالذكاء الاصطناعي في تطبيق WhatsApp على نظام iOS"
-  },
   "9to5mac.com/2026/11/06/apple-confirms-7-5-billion-bond-sale-following-strong-investor-demand": {
    "at": "2026-11-06T12:15:30.890822+00:00",
    "title": "Apple confirms $7.5 billion bond sale following strong investor demand",
@@ -1540,6 +1529,17 @@
    "sources": 1,
    "summary": "The last few years of Apple holiday ads have revolved around iPhone, Apple Watch and AirPods.",
    "title_ar": "إليك إعلان Apple الجديد لموسم العطلات، والذي يظهر فيه جهاز MacBook Neo"
+  },
+  "9to5mac.com/2026/11/12/ios-27s-find-my-app-adds-convenient-feature-ive-long-wished-for": {
+   "at": "2026-11-13T01:45:26.698758+00:00",
+   "title": "iOS 27’s Find My app adds convenient feature I’ve long wished for",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/12/ios-27s-find-my-app-adds-convenient-feature-ive-long-wished-for/",
+   "score": 1,
+   "sources": 1,
+   "summary": "iOS 27 is packed with new features, including several for the Find My app .",
+   "title_ar": "تطبيق Find My في نظام iOS 17 يضيف ميزة مريحة طالما تمنيتها"
   },
   "9to5mac.com/2026/11/12/jensen-huang-resigns-as-ceo-of-nvidia": {
    "at": "2026-11-12T14:15:28.417486+00:00",
@@ -5985,6 +5985,17 @@
    "summary": "Samsung organized its push into AI under the “Galaxy AI” umbrella, which includes a bunch of free features.",
    "title_ar": "تسريبات تكشف عن خطط Samsung لخدمة Galaxy AI Premium: ميزات جديدة ضمن الفئات المجانية والمدفوعة"
   },
+  "gsmarena.com/new_details_about_the_vivo_x500s_surface-news-75458.php": {
+   "at": "2026-11-13T01:45:26.698758+00:00",
+   "title": "New details about the vivo X500s surface",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/new_details_about_the_vivo_x500s_surface-news-75458.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "Late last month, a tipster shared some details about the vivo X500s, which is expected to be the fourth model in the company’s X500 lineup.",
+   "title_ar": ""
+  },
   "gsmarena.com/oneplus_12_is_now_receiving_the_update_to_coloros_17_based_on_android_17-news-75445.php": {
    "at": "2026-11-11T23:15:29.710326+00:00",
    "title": "OnePlus 12 is now receiving the update to ColorOS 17, based on Android 17",
@@ -9426,6 +9437,17 @@
    "score": 0,
    "sources": 1,
    "summary": "But, just as with the next Elder Scrolls game, \"it'll be some time\" before it's ready to share more.",
+   "title_ar": ""
+  },
+  "pcgamer.com/games/fps/wolfenstein-3-is-in-production-at-machinegames": {
+   "at": "2026-11-13T01:45:26.698758+00:00",
+   "title": "Wolfenstein 3 is in production at MachineGames",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/games/fps/wolfenstein-3-is-in-production-at-machinegames/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Blazkowicz is backscowicz.",
    "title_ar": ""
   },
   "pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-is-the-most-pre-ordered-game-of-all-time-on-both-xbox-and-playstation": {
@@ -13437,7 +13459,7 @@
   "AI": "2026-11-12T23:30:33.840937+00:00",
   "Anime": "2026-11-13T01:00:41.233613+00:00",
   "Games": "2026-11-13T01:30:35.248863+00:00",
-  "Tech": "2026-11-13T01:15:27.296470+00:00"
+  "Tech": "2026-11-13T01:45:26.698758+00:00"
  },
  "digest_day": "2026-11-12",
  "weekly_day": "2026-11-06"
