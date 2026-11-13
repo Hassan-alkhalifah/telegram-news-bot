@@ -7371,17 +7371,6 @@
    "summary": "A brand new Dragon Quest game is on the way to mobile gaming.",
    "title_ar": ""
   },
-  "insider-gaming.com/dark-outlaw-games-doom-inspired-game": {
-   "at": "2026-11-06T18:15:31.150483+00:00",
-   "title": "Details of Dark Outlaw Games’ DOOM-Inspired Canceled Game Surfaced Online",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://insider-gaming.com/dark-outlaw-games-doom-inspired-game/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Some details of Dark Outlaw Games' canceled DOOM-inspired game have surfaced online thanks to a fantastic investigation by the content creator Glitching Queen.",
-   "title_ar": "تسريبات تفاصيل لعبة ملغاة مستوحاة من DOOM من مطور Dark Outlaw Games"
-  },
   "insider-gaming.com/devolver-digital-reveals-its-first-aaa-game": {
    "at": "2026-11-10T18:45:32.038513+00:00",
    "title": "Devolver Digital Reveals Its First “AAA” Game",
@@ -11408,6 +11397,17 @@
    "summary": "Anthropic is on track for the largest IPO ever, with orders exceeding available shares by a factor of six.",
    "title_ar": "اكتتاب عام أولي لشركة Anthropic يتجاوز الحد المتاح بستة أضعاف وهو في طريقه ليصبح أكبر طرح عام في التاريخ"
   },
+  "the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls": {
+   "at": "2026-11-13T18:30:35.441286+00:00",
+   "title": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Chinese investors are shut out of Anthropic's IPO, Bloomberg reports.",
+   "title_ar": "البنوك تمنع مستثمري الصين وهونغ كونغ من الاكتتاب العام لشركة Anthropic بسبب ضوابط التصدير الأمريكية"
+  },
   "the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo": {
    "at": "2026-11-09T21:30:38.030751+00:00",
    "title": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
@@ -13445,7 +13445,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-13T17:30:38.535994+00:00",
+  "AI": "2026-11-13T18:30:35.441286+00:00",
   "Anime": "2026-11-13T18:00:44.067143+00:00",
   "Games": "2026-11-13T17:45:29.299284+00:00",
   "Tech": "2026-11-13T18:15:30.111600+00:00"
