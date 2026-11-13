@@ -639,17 +639,6 @@
    "summary": "While the illuminated Apple logo on the new MacBook Pro drew one of the biggest cheers during last week’s announcement, Apple knows that not everyone will want to keep it on.",
    "title_ar": "أبل توضح كيفية إيقاف تشغيل الشعار المضيء في جهاز MacBook Pro الجديد"
   },
-  "9to5mac.com/2026/11/05/apple-f1-streaming-international-countries": {
-   "at": "2026-11-06T00:45:32.110622+00:00",
-   "title": "Apple expected to bid for F1 streaming rights in more countries, says Formula 1 CEO",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/05/apple-f1-streaming-international-countries/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Starting this year, Apple has exclusive streaming rights for Formula 1 racing in the United States, which sees every race stream on Apple TV .",
-   "title_ar": "الCEO لـ Formula 1 يقول إنه من المتوقع أن تقدم Apple عروضاً للحصول على حقوق بث F1 في مزيد من الدول"
-  },
   "9to5mac.com/2026/11/05/awkwafina-the-unlikely-cook-premieres-on-apple-tv": {
    "at": "2026-11-06T02:15:31.756159+00:00",
    "title": "‘Awkwafina: The Unlikely Cook’ premieres on Apple TV",
@@ -2497,6 +2486,17 @@
    "sources": 1,
    "summary": "12-episode webtoon features multiple artists",
    "title_ar": "استوديو Welsh & Shedar Anime يطلق وقبتون (Webtoon)"
+  },
+  "animenewsnetwork.com/news/2026-11-12/blue-rights-company-unveils-pilot-film-for-orochi-seventh-echoes-original-animated-feature/.243748": {
+   "at": "2026-11-13T01:00:41.233613+00:00",
+   "title": "Blue Rights Company Unveils Pilot Film for Orochi -Seventh Echoes- Original Animated Feature",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-12/blue-rights-company-unveils-pilot-film-for-orochi-seventh-echoes-original-animated-feature/.243748",
+   "score": 1,
+   "sources": 1,
+   "summary": "Akira film animation director Takashi Nakamura helms film, credited for original concept",
+   "title_ar": "شركة Blue Rights تكشف النقاب عن الفيلم التجريبي لعمل الرسوم المتحركة الأصلي Orochi -Seventh Echoes-"
   },
   "animenewsnetwork.com/news/2026-11-12/disney-to-premiere-lilas-dreams-and-memories-documentary-about-yoasobi-lilas-ikuta-on-december-30/.243764": {
    "at": "2026-11-12T19:00:43.692442+00:00",
@@ -12277,6 +12277,17 @@
    "summary": "Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report.",
    "title_ar": ""
   },
+  "theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang": {
+   "at": "2026-11-13T01:00:41.233613+00:00",
+   "title": "Donald Trump really wants Tim Cook to run Nvidia",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+   "score": 0,
+   "sources": 1,
+   "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy.",
+   "title_ar": ""
+  },
   "theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash": {
    "at": "2026-11-12T17:15:30.373926+00:00",
    "title": "‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug",
@@ -13413,7 +13424,7 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-12T23:30:33.840937+00:00",
-  "Anime": "2026-11-12T20:00:41.535054+00:00",
+  "Anime": "2026-11-13T01:00:41.233613+00:00",
   "Games": "2026-11-13T00:45:29.533648+00:00",
   "Tech": "2026-11-13T00:30:34.428371+00:00"
  },
