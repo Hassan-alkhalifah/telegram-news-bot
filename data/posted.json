@@ -617,6 +617,17 @@
    "summary": "Good morning.",
    "title_ar": "الإطلاق المتعثر لهاتف iPhone Duo يذكرنا بمدى التقدم الذي وصل إليه هواتف Android القابلة للطي"
   },
+  "9to5google.com/2026/11/13/the-xiaomi-18-pros-rear-displays-support-google-apps-spotify-and-custom-genai-apps": {
+   "at": "2026-11-13T17:00:44.674160+00:00",
+   "title": "The Xiaomi 18 Pro’s rear displays support Google apps, Spotify, and custom GenAI apps",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5google.com/2026/11/13/the-xiaomi-18-pros-rear-displays-support-google-apps-spotify-and-custom-genai-apps/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The Xiaomi 18 Pro series’ rear displays might actually be useful, after all. more…",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/06/apple-music-classical-gets-new-black-and-white-icon-in-latest-update": {
    "at": "2026-11-07T02:15:27.523487+00:00",
    "title": "Apple Music Classical gets new black-and-white icon in latest update",
@@ -1561,6 +1572,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Today Apple has launched two Home products: HomeView and a new Apple TV 4K .",
+   "title_ar": ""
+  },
+  "9to5mac.com/2026/11/13/apple-maps-in-ios-27-has-hidden-new-feature-ive-been-loving": {
+   "at": "2026-11-13T17:00:44.674160+00:00",
+   "title": "Apple Maps in iOS 27 has hidden new feature I’ve been loving",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/13/apple-maps-in-ios-27-has-hidden-new-feature-ive-been-loving/",
+   "score": 0,
+   "sources": 1,
+   "summary": "iOS 27 gave Apple Maps a handful of new features , and my favorite is one that keeps offering fresh updates every week: Local Lists. more…",
    "title_ar": ""
   },
   "9to5mac.com/2026/11/13/new-apple-tv-4k-and-homeview-now-available-heres-everything-you-need-to-know": {
@@ -3190,6 +3212,17 @@
    "sources": 1,
    "summary": "A key visual and additional casta members were also unveiled",
    "title_ar": ""
+  },
+  "crunchyroll.com/news/latest/2026/11/13/naruto-to-boruto-shinobi-striker-kabuto-yakushi-sage-mode-dlc": {
+   "at": "2026-11-13T17:00:44.674160+00:00",
+   "title": "Naruto to Boruto: Shinobi Striker Welcomes Kabuto Yakushi (Sage Mode) as 50th DLC",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://crunchyroll.com/news/latest/2026/11/13/naruto-to-boruto-shinobi-striker-kabuto-yakushi-sage-mode-dlc",
+   "score": 1,
+   "sources": 1,
+   "summary": "Free update launches with the new character today",
+   "title_ar": "لعبة Naruto to Boruto: Shinobi Striker ترحب بشخصية Kabuto Yakushi (وضع الناسك) باعتبارها الإضافة الـ 50"
   },
   "crunchyroll.com/news/latest/2026/11/13/orochi-seventh-echoes-original-anime-movie-pilot-film": {
    "at": "2026-11-13T01:15:27.296470+00:00",
@@ -7414,17 +7447,6 @@
    "sources": 1,
    "summary": "Today marks a major anniversary in The Elder Scrolls universe, but it won't be used to reveal more about Sentinel, the next game.",
    "title_ar": "Bethesda لن تستخدم الذكرى السنوية الكبيرة اليوم لسلسلة Elder Scrolls للكشف عن مزيد من أخبار Sentinel"
-  },
-  "insider-gaming.com/former-bethesda-veteran-reveals-what-its-like-working-with-todd-howard": {
-   "at": "2026-11-06T16:45:31.938111+00:00",
-   "title": "Former Bethesda Veteran Reveals What It’s Like Working With Todd Howard",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://insider-gaming.com/former-bethesda-veteran-reveals-what-its-like-working-with-todd-howard/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Todd Howard is associated with Bethesda for good reason, and a former veteran of the company has opened up about working with him.",
-   "title_ar": "مخضرم سابق في Bethesda يكشف عن كواليس العمل مع Todd Howard"
   },
   "insider-gaming.com/former-tekken-director-feels-xbox-series-s-is-extra-work-for-a-slightly-weaker-child": {
    "at": "2026-11-11T20:00:40.805454+00:00",
@@ -13435,10 +13457,10 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-13T16:30:38.946330+00:00",
-  "Anime": "2026-11-13T16:00:42.735165+00:00",
+  "Anime": "2026-11-13T17:00:44.674160+00:00",
   "Games": "2026-11-13T16:45:29.227607+00:00",
   "Tech": "2026-11-13T16:15:31.355977+00:00"
  },
  "digest_day": "2026-11-12",
- "weekly_day": "2026-11-06"
+ "weekly_day": "2026-11-13"
 }
