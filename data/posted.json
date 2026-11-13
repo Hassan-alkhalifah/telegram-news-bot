@@ -639,17 +639,6 @@
    "summary": "Apple released the iPhone Duo two weeks ago, and the app story is quickly taking shape.",
    "title_ar": ""
   },
-  "9to5mac.com/2026/11/06/apple-store-now-offers-extended-holiday-returns-for-all-products-2026": {
-   "at": "2026-11-06T14:58:01.880967+00:00",
-   "title": "Apple Store now offers extended holiday returns for all products",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/06/apple-store-now-offers-extended-holiday-returns-for-all-products-2026/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Apple has rolled out its holiday theming at the online Apple Store, and with it a new, extended return policy has just been put into place.",
-   "title_ar": "متجر Apple يوفر الآن فترة إرجاع موسعة للعطلات لجميع المنتجات"
-  },
   "9to5mac.com/2026/11/06/apple-stores-roll-out-holiday-decorations-to-kick-off-the-season-2": {
    "at": "2026-11-06T22:15:28.860504+00:00",
    "title": "Apple Stores roll out holiday decorations to kick off the season",
@@ -1595,6 +1584,17 @@
    "sources": 1,
    "summary": "The new Apple TV 4K and HomeView smart display are officially available.",
    "title_ar": ""
+  },
+  "9to5mac.com/2026/11/13/tvos-27-2-1-launching-soon-with-siri-ai-for-older-apple-tv-4k-models": {
+   "at": "2026-11-13T15:00:44.806010+00:00",
+   "title": "tvOS 27.2.1 launching soon with Siri AI for older Apple TV 4K models",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/13/tvos-27-2-1-launching-soon-with-siri-ai-for-older-apple-tv-4k-models/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Today the new Apple TV 4K has arrived ( order here ) with Siri AI as a major tentpole feature.",
+   "title_ar": "إطلاق تحديث tvOS 27.2.1 قريباً مع ميزة Siri AI لطرازات Apple TV 4K الأقدم"
   },
   "animecorner.me/berserk-of-gluttony-season-2-reveals-teaser-visual-april-2027-release-date": {
    "at": "2026-11-11T09:00:44.632915+00:00",
@@ -6260,6 +6260,17 @@
    "summary": "The Xiaomi 18 Pro series was announced in China in September, and the company confirmed that the duo is going global by the end of this year.",
    "title_ar": "هاتف Xiaomi 18 قد يصدر بالفعل هذا العام، وشهادة 3C تكشف عن قدرات الشحن"
   },
+  "gsmarena.com/xiaomi_18_pro_gets_one_step_closer_to_launching_in_india-news-75472.php": {
+   "at": "2026-11-13T15:00:44.806010+00:00",
+   "title": "Xiaomi 18 Pro gets one step closer to launching in India",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/xiaomi_18_pro_gets_one_step_closer_to_launching_in_india-news-75472.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "Xiaomi launched the 18 Pro and 18 Pro Max in China back in late September, and the duo is going global on November 17.",
+   "title_ar": ""
+  },
   "gsmarena.com/xiaomi_18_pro_india_launch_month_leaks_along_with_xiaomi_18t_specs-news-75414.php": {
    "at": "2026-11-10T06:15:28.553050+00:00",
    "title": "Xiaomi 18 Pro India launch month leaks along with Xiaomi 18T specs",
@@ -6467,17 +6478,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Former Nvidia CEO Jensen Huang resigned today amid a scandal involving an affair with a suspected Chinese spy and an executive that reported to him.",
-   "title_ar": ""
-  },
-  "ign.com/articles/former-rockstar-dev-claims-gta-6-online-will-launch-soon": {
-   "at": "2026-11-06T14:58:01.880967+00:00",
-   "title": "Rockstar Will Be Keen to Release GTA 6 on PC Sooner Rather Than Later Because of AI Clones, Former Dev Says",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/former-rockstar-dev-claims-gta-6-online-will-launch-soon",
-   "score": 0,
-   "sources": 1,
-   "summary": "Rockstar may officially release GTA 6 on PC soon after console over concern about AI-generated clones, one former developer has said.",
    "title_ar": ""
   },
   "ign.com/articles/fortis-games-closes-with-over-400-jobs-impacted": {
@@ -13228,7 +13228,7 @@
   "AI": "2026-11-13T13:00:45.245111+00:00",
   "Anime": "2026-11-13T14:15:43.095559+00:00",
   "Games": "2026-11-13T14:45:39.112881+00:00",
-  "Tech": "2026-11-13T14:00:45.525711+00:00"
+  "Tech": "2026-11-13T15:00:44.806010+00:00"
  },
  "digest_day": "2026-11-12",
  "weekly_day": "2026-11-06"
