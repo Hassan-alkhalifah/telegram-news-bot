@@ -1772,17 +1772,6 @@
    "summary": "There Was a Cute Girl in the Hero’s Party, so I Tried Confessing to…",
    "title_ar": ""
   },
-  "animenewsnetwork.com/daily-briefs/2026-11-06/paradox-live-the-animation-film-announces-title-2027-opening/.243590": {
-   "at": "2026-11-06T13:30:36.938603+00:00",
-   "title": "Paradox Live The Animation's Film Announces Title, 2027 Opening",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://www.animenewsnetwork.com/daily-briefs/2026-11-06/paradox-live-the-animation-film-announces-title-2027-opening/.243590",
-   "score": 1,
-   "sources": 1,
-   "summary": "The official website for the hip-hop-themed multimedia franchise presented the early teaser visual for its upcoming film project on Friday.",
-   "title_ar": "الإعلان عن عنوان وموعد عرض فيلم Paradox Live The Animation في عام 2027"
-  },
   "animenewsnetwork.com/news/2026-11-06/hana-kimi-manga-gets-new-live-action-series-1st-stage-play/.243601": {
    "at": "2026-11-07T01:15:31.246287+00:00",
    "title": "Hana-Kimi Manga Gets New Live-Action Series, 1st Stage Play",
@@ -5732,6 +5721,17 @@
    "summary": "Nothing CEO Carl Pei recently confirmed that the company would launch its first AI-native product next month, sharing an early teaser of the device.",
    "title_ar": "إليك نظرتك الأولى على جهاز Nothing القادم المدعوم بالذكاء الاصطناعي بلا شاشة"
   },
+  "gsmarena.com/honor_700_series_launch_date_is_official_just_as_a_carrier_listing_reveals_most_specs-news-75471.php": {
+   "at": "2026-11-13T13:30:37.071510+00:00",
+   "title": "Honor 700 series launch date is official just as a carrier listing reveals most specs",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.gsmarena.com/honor_700_series_launch_date_is_official_just_as_a_carrier_listing_reveals_most_specs-news-75471.php",
+   "score": 1,
+   "sources": 1,
+   "summary": "Honor already revealed the design of the Honor 700 series last week, and now the company has finally given it a launch date too.",
+   "title_ar": "الإعلان رسمياً عن موعد إطلاق سلسلة Honor 700 بالتزامن مع تسريب معظم المواصفات عبر قائمة لأحد مزودي الخدمة"
+  },
   "gsmarena.com/huawei_mate_x8_now_has_a_rumored_launch_date-news-75463.php": {
    "at": "2026-11-13T05:15:29.725244+00:00",
    "title": "Huawei Mate X8 now has a rumored launch date",
@@ -7127,6 +7127,17 @@
    "score": 0,
    "sources": 1,
    "summary": "If there's one thing that's true about any version of World of Warcraft it's that Blizzard loves hiding convoluted quest chains behind mundane objects, the first of which has been found in WoW…",
+   "title_ar": ""
+  },
+  "ign.com/articles/xbox-25th-anniversary-console-stock-sells-out-in-seconds-sparking-fan-fury-over-scalping-and-limited-supply": {
+   "at": "2026-11-13T13:30:37.071510+00:00",
+   "title": "Xbox 25th Anniversary Console Stock Sells Out in Seconds, Sparking Fan Fury Over Scalping and Limited Supply",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/xbox-25th-anniversary-console-stock-sells-out-in-seconds-sparking-fan-fury-over-scalping-and-limited-supply",
+   "score": 0,
+   "sources": 1,
+   "summary": "Fans have been left furious by Microsoft's launch of its 25th Anniversary Xbox Series X console, which sold out within seconds online.",
    "title_ar": ""
   },
   "ign.com/articles/you-dont-need-a-current-gen-console-if-youre-happy-to-play-gta-6-at-xbox-series-s-settings": {
@@ -12486,6 +12497,17 @@
    "summary": "Nvidia's Jensen Huang officially called to Congress due to reports of Chinese plot — officials mention growing concerns over national security",
    "title_ar": "استدعاء جينسن هوانغ رئيس Nvidia رسمياً إلى الكونغرس بسبب تقارير عن مؤامرة تجسس صينية"
   },
+  "tomshardware.com/tech-industry/broken-and-shattered-nvidia-ceo-jensen-huang-surrendered-during-resignation-meeting-report-claims-thousands-of-employees-rally-calling-for-reinstatement-on-internal-forum": {
+   "at": "2026-11-13T13:30:37.071510+00:00",
+   "title": "‘Broken and shattered’ Nvidia CEO Jensen Huang surrendered during resignation meeting, report claims",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/tech-industry/broken-and-shattered-nvidia-ceo-jensen-huang-surrendered-during-resignation-meeting-report-claims-thousands-of-employees-rally-calling-for-reinstatement-on-internal-forum",
+   "score": 0,
+   "sources": 1,
+   "summary": "Jensen Huang reportedly called himself 'a piece of sh--\" after his forced departure, but employees still want him back.",
+   "title_ar": ""
+  },
   "tomshardware.com/tech-industry/cryptocurrency/ethereum-foundation-sued-after-firing-employee-over-mandatory-source-seppuku-suicide-pact-crypto-firm-demanded-employees-pledge-to-take-their-own-lives-with-a-sword-to-protect-open-source-code-founder-vitalik-claims-1-000-year-mandate-just-artwork": {
    "at": "2026-11-09T19:15:30.412911+00:00",
    "title": "Ethereum Foundation sued after firing employee over mandatory 'Source Seppuku' suicide pact",
@@ -13250,7 +13272,7 @@
   "AI": "2026-11-13T13:00:45.245111+00:00",
   "Anime": "2026-11-13T13:15:29.919250+00:00",
   "Games": "2026-11-13T12:15:29.636986+00:00",
-  "Tech": "2026-11-13T13:15:29.919250+00:00"
+  "Tech": "2026-11-13T13:30:37.071510+00:00"
  },
  "digest_day": "2026-11-12",
  "weekly_day": "2026-11-06"
