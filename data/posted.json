@@ -650,17 +650,6 @@
    "summary": "Apple TV subscribers can now stream the first two episodes of the platform’s new unscripted food series, ‘ Awkwafina: The Unlikely Cook .’ Watch the trailer below. more…",
    "title_ar": "إطلاق عرض Awkwafina: The Unlikely Cook على Apple TV"
   },
-  "9to5mac.com/2026/11/05/report-ipad-shipments-drop-27-5-as-global-tablet-market-plunges-in-q3": {
-   "at": "2026-11-06T01:00:43.465124+00:00",
-   "title": "Report: iPad shipments drop 27.5% as global tablet market plunges in Q3",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/05/report-ipad-shipments-drop-27-5-as-global-tablet-market-plunges-in-q3/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Despite global iPad shipments dropping 27.5% year-over-year in the third calendar quarter, Apple maintained its lead in the tablet market, according to a new report released today.",
-   "title_ar": ""
-  },
   "9to5mac.com/2026/11/05/whatsapps-ai-powered-photo-expansion-tool-starts-rolling-out-on-ios": {
    "at": "2026-11-06T01:30:38.742448+00:00",
    "title": "WhatsApp’s AI-powered photo expansion tool starts rolling out on iOS",
@@ -1508,6 +1497,17 @@
    "summary": "Apple is reuniting with Brad Pitt, the star of its most successful film of all time: F1 The Movie .",
    "title_ar": "Apple TV تعلن عن فيلم جديد بعنوان Connector من بطولة Brad Pitt"
   },
+  "9to5mac.com/2026/11/12/elton-johns-apple-music-show-to-feature-king-charles-in-november-14-special": {
+   "at": "2026-11-13T01:15:27.296470+00:00",
+   "title": "Elton John’s Apple Music show to feature King Charles in November 14 special",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/12/elton-johns-apple-music-show-to-feature-king-charles-in-november-14-special/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Apple Music and Buckingham Palace today announced that King Charles will join the next episode of Sir Elton John’s Rocket Hour to discuss the 50th anniversary of his charity and the role music has…",
+   "title_ar": "برنامج Elton John على Apple Music يستضيف King Charles في حلقة خاصة يوم 14 نوفمبر"
+  },
   "9to5mac.com/2026/11/12/foxconn-revenue-climbs-46-bloomberg-forecasts-16m-iphone-duo-sales": {
    "at": "2026-11-12T13:45:28.358599+00:00",
    "title": "Foxconn revenue climbs 46%; Bloomberg forecasts 16M iPhone Duo sales",
@@ -1826,17 +1826,6 @@
    "sources": 1,
    "summary": "The official website for the hip-hop-themed multimedia franchise presented the early teaser visual for its upcoming film project on Friday.",
    "title_ar": "الإعلان عن عنوان وموعد عرض فيلم Paradox Live The Animation في عام 2027"
-  },
-  "animenewsnetwork.com/news/2026-11-05/ninja-skooler-anime-unveils-pilot-film-images-song/.243571": {
-   "at": "2026-11-06T01:00:43.465124+00:00",
-   "title": "Ninja Skooler Anime Unveils Pilot Film, Images, Song",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-05/ninja-skooler-anime-unveils-pilot-film-images-song/.243571",
-   "score": 1,
-   "sources": 1,
-   "summary": "Shunsuke Takarai to direct light-hearted ninja anime based on concept by Kinema Citrus",
-   "title_ar": "أنمي Ninja Skooler يكشف عن فيلم تجريبي وصور وأغنية"
   },
   "animenewsnetwork.com/news/2026-11-06/booty-royale-never-go-down-without-a-fight-manga-gets-tv-anime-in-january/.243584": {
    "at": "2026-11-06T06:00:52.963385+00:00",
@@ -3178,6 +3167,17 @@
    "score": 0,
    "sources": 1,
    "summary": "The upcoming series adapts a post-apocalyptic action manga",
+   "title_ar": ""
+  },
+  "crunchyroll.com/news/latest/2026/11/13/orochi-seventh-echoes-original-anime-movie-pilot-film": {
+   "at": "2026-11-13T01:15:27.296470+00:00",
+   "title": "OROCHI -Seventh Echoes- Original Anime Movie Releases Pilot Film",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://crunchyroll.com/news/latest/2026/11/13/orochi-seventh-echoes-original-anime-movie-pilot-film",
+   "score": 0,
+   "sources": 1,
+   "summary": "Takashi Nakamura handles the original concept, direction, character design and art design",
    "title_ar": ""
   },
   "crunchyroll.com/news/latest/2026/11/6/33-sai-dokushin-onna-kishi-taicho-anime-adaptation-announced": {
@@ -11606,17 +11606,6 @@
    "summary": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation.",
    "title_ar": "شركات الوساطة الأمريكية للبيانات تبيع بيئات تدريب للذكاء الاصطناعي بقيمة نصف مليار دولار لمختبرات صينية"
   },
-  "theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda": {
-   "at": "2026-11-06T01:00:43.465124+00:00",
-   "title": "OpenAI is stepping back from NDAs for data center projects",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-   "score": 0,
-   "sources": 1,
-   "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center…",
-   "title_ar": ""
-  },
   "theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development": {
    "at": "2026-11-07T12:30:40.014275+00:00",
    "title": "Why a new report on Anthropic automating AI development is alarming researchers",
@@ -13426,7 +13415,7 @@
   "AI": "2026-11-12T23:30:33.840937+00:00",
   "Anime": "2026-11-13T01:00:41.233613+00:00",
   "Games": "2026-11-13T00:45:29.533648+00:00",
-  "Tech": "2026-11-13T00:30:34.428371+00:00"
+  "Tech": "2026-11-13T01:15:27.296470+00:00"
  },
  "digest_day": "2026-11-12",
  "weekly_day": "2026-11-06"
