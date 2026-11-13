@@ -1816,17 +1816,6 @@
    "summary": "Hana Kawamura, The Rampage's Makoto Hasegawa & Itsuki Fujiwara star in both",
    "title_ar": "مانغا Hana-Kimi تحصل على مسلسل واقعي جديد وعرض مسرحي أول"
   },
-  "animenewsnetwork.com/news/2026-11-06/laid-back-camp-season-4-trailer-unveils-april-2027-debut/.243588": {
-   "at": "2026-11-06T10:00:46.115254+00:00",
-   "title": "Laid-Back Camp Season 4's Trailer Unveils April 2027 Debut",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-06/laid-back-camp-season-4-trailer-unveils-april-2027-debut/.243588",
-   "score": 0,
-   "sources": 1,
-   "summary": "Trailer also previews Asaka, Eri Sasaki's theme songs",
-   "title_ar": ""
-  },
   "animenewsnetwork.com/news/2026-11-06/odd-taxi-manga-author-launches-new-rematch-with-you-manga-in-late-november/.243576": {
    "at": "2026-11-06T21:30:40.876239+00:00",
    "title": "Odd Taxi Manga Author Launches New Rematch With You Manga in Late November",
@@ -7723,17 +7712,6 @@
    "summary": "Rockstar Games and PlayStation have released a new GTA 6 trailer to announce the opening of the pre-load window.",
    "title_ar": ""
   },
-  "insider-gaming.com/nintendo-making-more-remakes": {
-   "at": "2026-11-06T10:00:46.115254+00:00",
-   "title": "Nintendo Isn’t Stopping Remakes After Zelda and Star Fox, It’s Claimed",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/nintendo-making-more-remakes/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Nintendo has had a big year for remakes with Zelda and Star Fox, and there could be more where that came from.",
-   "title_ar": ""
-  },
   "insider-gaming.com/nintendo-switch-2-new-ways-to-play": {
    "at": "2026-11-08T20:45:32.237275+00:00",
    "title": "Nintendo Is Testing New Ways to Play on Switch 2",
@@ -12453,6 +12431,17 @@
    "summary": "Linux developers are preparing to make Intel’s ancient MultiMedia eXtensions irrelevant, with the last MMX code now set to be removed from the kernel.",
    "title_ar": "نهاية حقبة مع إزالة Linux 7.5 لآخر تحسينات Intel MMX التي يعود تاريخها إلى 30 عاماً من عصر Pentium"
   },
+  "tomshardware.com/software/macos/macos-on-pc-becomes-possible-again-thanks-to-apple-silicon-translator-for-x86-64-hackintosh-revival-project-currently-slow-and-not-very-stable": {
+   "at": "2026-11-13T10:15:31.218604+00:00",
+   "title": "macOS on PC becomes possible again thanks to Apple Silicon translator for x86-64",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/software/macos/macos-on-pc-becomes-possible-again-thanks-to-apple-silicon-translator-for-x86-64-hackintosh-revival-project-currently-slow-and-not-very-stable",
+   "score": 1,
+   "sources": 1,
+   "summary": "macOS on PCs becomes possible thanks to Apple Silicon translator for x86-64 — Hackintoshes",
+   "title_ar": "تشغيل نظام macOS على الحواسيب الشخصية يصبح ممكناً مرة أخرى بفضل أداة الترجمة لمعالجات Apple Silicon على بنية x86-64"
+  },
   "tomshardware.com/tech-industry/artificial-intelligence/google-adds-two-new-specialized-chips-for-ai-agents-and-security-to-8th-gen-tpu-lineup-tpu-8i-max-puts-two-chips-on-one-package-for-long-context-work-tpu-8tx-swaps-arm-hosts-for-amd-epyc": {
    "at": "2026-11-12T11:30:39.423362+00:00",
    "title": "Google reworks TPU silicon into specialized systems for agents and security",
@@ -13338,7 +13327,7 @@
   "AI": "2026-11-12T23:30:33.840937+00:00",
   "Anime": "2026-11-13T09:00:46.127668+00:00",
   "Games": "2026-11-13T07:45:28.208018+00:00",
-  "Tech": "2026-11-13T07:45:28.208018+00:00"
+  "Tech": "2026-11-13T10:15:31.218604+00:00"
  },
  "digest_day": "2026-11-12",
  "weekly_day": "2026-11-06"
