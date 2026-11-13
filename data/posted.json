@@ -2784,17 +2784,6 @@
    "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
    "title_ar": ""
   },
-  "arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update": {
-   "at": "2026-11-06T17:45:29.611858+00:00",
-   "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Meta won't force Facebook page owners to allow AI training on linked content.",
-   "title_ar": "\"هل تعتقد Meta أننا لا نستطيع القراءة؟\" Meta تتراجع عن تحديث شروط تجارية مشبوهة."
-  },
   "arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks": {
    "at": "2026-11-12T19:00:43.692442+00:00",
    "title": "Families fight to keep Google’s “disturbing” AI off school-issued Chromebooks",
@@ -3179,6 +3168,17 @@
    "sources": 1,
    "summary": "Composer kensuke ushio will have a special live concert at the event",
    "title_ar": "فيلم Chainsaw Man – The Movie: Reze Arc يحصل على ملصق ترويجي جديد بمناسبة فعالية عيد الحب"
+  },
+  "crunchyroll.com/news/latest/2026/11/13/cosmic-princess-kaguya-virtual-event-guest-performers-black-onyx": {
+   "at": "2026-11-13T18:00:44.067143+00:00",
+   "title": "Cosmic Princess Kaguya! Virtual Event Announces Guest Performers Black onyX",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://crunchyroll.com/news/latest/2026/11/13/cosmic-princess-kaguya-virtual-event-guest-performers-black-onyx",
+   "score": 1,
+   "sources": 1,
+   "summary": "Tsukuyomi Kansha-sai event takes place December 26 on YouTube and VRChat",
+   "title_ar": "الحدث الافتراضي Cosmic Princess Kaguya! يعلن عن الفنانين الضيوف Black onyX"
   },
   "crunchyroll.com/news/latest/2026/11/13/inherit-the-winds-anime-key-visual": {
    "at": "2026-11-13T09:00:46.127668+00:00",
@@ -13446,10 +13446,10 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-13T17:30:38.535994+00:00",
-  "Anime": "2026-11-13T17:00:44.674160+00:00",
+  "Anime": "2026-11-13T18:00:44.067143+00:00",
   "Games": "2026-11-13T17:45:29.299284+00:00",
   "Tech": "2026-11-13T17:15:27.887015+00:00"
  },
- "digest_day": "2026-11-12",
+ "digest_day": "2026-11-13",
  "weekly_day": "2026-11-13"
 }
