@@ -661,17 +661,6 @@
    "summary": "Reuters and The Washington Post report that Apple is among the tech giants potentially facing congressional investigations as Democrats prepare to take control of both chambers in January.",
    "title_ar": "تقرير: Apple تواجه تدقيقاً كونغرسياً بشأن تطبيقات تتبع ICE وتبرعات Trump"
   },
-  "9to5mac.com/2026/11/06/watchos-27-3-adds-new-apple-watch-feature-that-i-absolutely-love": {
-   "at": "2026-11-06T21:15:34.658606+00:00",
-   "title": "watchOS 27.3 adds new Apple Watch feature that I absolutely love",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/06/watchos-27-3-adds-new-apple-watch-feature-that-i-absolutely-love/",
-   "score": 0,
-   "sources": 1,
-   "summary": "watchOS 27.3 arrived this week in beta alongside iOS 27.3, with a major new feature for the latest Apple Watch models: Siri Recap, which I’m already really loving. more…",
-   "title_ar": ""
-  },
   "9to5mac.com/2026/11/07/chromagraph-camera-is-exactly-the-camera-app-ive-been-looking-for-on-iphone": {
    "at": "2026-11-07T22:30:37.909407+00:00",
    "title": "Chromagraph Camera is exactly the camera app I’ve been looking for on iPhone",
@@ -2696,17 +2685,6 @@
    "summary": "Spruce up your home screen with expanded custom icons and AI-generated widgets.",
    "title_ar": ""
   },
-  "arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas": {
-   "at": "2026-11-06T21:15:34.658606+00:00",
-   "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
-   "score": 1,
-   "sources": 1,
-   "summary": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
-   "title_ar": "اختفاء عتاد لـ Nvidia بقيمة 11.4 مليون دولار بين أوكلاند وتكساس"
-  },
   "arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor": {
    "at": "2026-11-11T00:00:44.402594+00:00",
    "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
@@ -4181,6 +4159,17 @@
    "summary": "Finally, you can watch Avatar in 3D HFR at home.",
    "title_ar": ""
   },
+  "engadget.com/2316384/google-now-lets-people-connect-gemini-to-their-bank-accounts": {
+   "at": "2026-11-13T21:30:39.667764+00:00",
+   "title": "Google now lets people connect Gemini to their bank accounts",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2316384/google-now-lets-people-connect-gemini-to-their-bank-accounts/",
+   "score": 1,
+   "sources": 1,
+   "summary": "This is for spending analysis and not for making purchases.",
+   "title_ar": "Google يتيح الآن للمستخدمين ربط Gemini بحساباتهم المصرفية"
+  },
   "eurogamer.net/assassins-creed-mars-ancient-rome-pocket-mobile-jerusalem-rumour": {
    "at": "2026-11-07T19:30:37.184718+00:00",
    "title": "Assassin's Creed is reportedly going to ancient Rome, while a mobile spin-off heads to Jerusalem",
@@ -4982,6 +4971,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Things look dire for Nvidia CEO Jensen Huang, as his future at the company may be in jeopardy.",
+   "title_ar": ""
+  },
+  "gamespot.com/articles/physical-gta-6-copies-might-be-vulnerable-to-a-very-stupid-but-serious-trick": {
+   "at": "2026-11-13T21:30:39.667764+00:00",
+   "title": "“Physical” GTA 6 Copies Might Be Vulnerable To A Very Stupid But Serious Trick",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/physical-gta-6-copies-might-be-vulnerable-to-a-very-stupid-but-serious-trick/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Grand Theft Auto 6 ditched traditional discs for its \"physical\" launch, with Rockstar's game being sold as a digital code-in-box at retailers beginning this week.",
    "title_ar": ""
   },
   "gamespot.com/articles/sony-cancels-live-service-ps5-game-fairgames-but-no-layoffs": {
@@ -13547,7 +13547,7 @@
   "AI": "2026-11-13T20:27:55.837463+00:00",
   "Anime": "2026-11-13T20:45:31.167926+00:00",
   "Games": "2026-11-13T21:15:27.545641+00:00",
-  "Tech": "2026-11-13T21:00:41.462775+00:00"
+  "Tech": "2026-11-13T21:30:39.667764+00:00"
  },
  "digest_day": "2026-11-13",
  "weekly_day": "2026-11-13"
