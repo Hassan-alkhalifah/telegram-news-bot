@@ -2685,17 +2685,6 @@
    "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
    "title_ar": ""
   },
-  "arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark": {
-   "at": "2026-11-06T00:00:47.468108+00:00",
-   "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
-   "score": 1,
-   "sources": 1,
-   "summary": "NASA’s X-70 Fractal announcement comes as agency aims to grow X-plane fleet.",
-   "title_ar": "NASA تكشف النقاب عن طائرة تجريبية غامضة من طراز X-70 باستخدام صورة مُولدة بالذكاء الاصطناعي"
-  },
   "arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family": {
    "at": "2026-11-10T20:15:34.443962+00:00",
    "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
@@ -5732,6 +5721,17 @@
    "summary": "Winter Whiskers, a “simple cleaning sim that turns the chore of snow-clearing into a relaxing …",
    "title_ar": ""
   },
+  "gematsu.com/2026/11/wolfenstein-3-announced": {
+   "at": "2026-11-13T00:15:33.813675+00:00",
+   "title": "Wolfenstein 3 announced",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gematsu.com/2026/11/wolfenstein-3-announced",
+   "score": 0,
+   "sources": 1,
+   "summary": "Publisher Bethesda Softworks and developer MachineGames have announced Wolfenstein 3.",
+   "title_ar": ""
+  },
   "gematsu.com/2026/11/xbox-backward-compatibility-on-pc-adds-21-titles": {
    "at": "2026-11-12T21:45:31.646152+00:00",
    "title": "Xbox Backward Compatibility on PC adds 21 titles",
@@ -6326,17 +6326,6 @@
    "summary": "The latest WhatsApp beta (build 2.26.45.5) reveals a new look for the navigation bar.",
    "title_ar": "واتساب يجلب شريط تنقل شفافاً إلى تطبيقه على أندرويد"
   },
-  "gsmarena.com/whatsapp_is_bringing_iosstyle_chat_previews_to_android-news-75371.php": {
-   "at": "2026-11-06T00:15:28.858447+00:00",
-   "title": "WhatsApp is bringing iOS-style chat previews to Android",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.gsmarena.com/whatsapp_is_bringing_iosstyle_chat_previews_to_android-news-75371.php",
-   "score": 1,
-   "sources": 1,
-   "summary": "WhatsApp has long let you turn read receipts off entirely, but if you keep them on, there's no easy way on Android to see what someone sent you without them knowing you've read it.",
-   "title_ar": "WhatsApp يضيف معاينات المحادثات على غرار نظام iOS إلى أجهزة Android"
-  },
   "gsmarena.com/whatsapp_phone_number_privacy_feature_development-news-75395.php": {
    "at": "2026-11-07T11:15:27.620497+00:00",
    "title": "WhatsApp is testing a feature that lets you control who sees your phone number",
@@ -6457,6 +6446,17 @@
    "sources": 2,
    "summary": "The Witcher 3 is getting a new expansion more than 11 years after it first released, and due to a health issue experienced by Geralt's Polish voice actor, CD Projekt Red will be using an AI tool to…",
    "title_ar": "CD Projekt Red استخدمت الذكاء الاصطناعي لتعديل صوت Geralt بسبب المشاكل الصحية للممثل البولندي"
+  },
+  "ign.com/articles/doctor-doom-is-not-a-tony-stark-variant-in-avengers-doomsday-confirms-kevin-feige": {
+   "at": "2026-11-13T00:15:33.813675+00:00",
+   "title": "Doctor Doom Is Not a Tony Stark Variant in Avengers: Doomsday, Confirms Kevin Feige",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.ign.com/articles/doctor-doom-is-not-a-tony-stark-variant-in-avengers-doomsday-confirms-kevin-feige",
+   "score": 2,
+   "sources": 1,
+   "summary": "Kevin Feige has confirmed that Doctor Doom is not a variant of Tony Stark in Avengers: Doomsday.",
+   "title_ar": "Kevin Feige يؤكد أن Doctor Doom ليس نسخة بديلة لـ Tony Stark في فيلم Avengers: Doomsday"
   },
   "ign.com/articles/doom-developer-id-software-confirms-work-on-new-game-will-be-directed-by-hugo-martin": {
    "at": "2026-11-12T21:45:31.646152+00:00",
@@ -10253,17 +10253,6 @@
    "summary": "Has the blessing of Jacek Rozenek.",
    "title_ar": ""
   },
-  "pushsquare.com/news/2026/11/petition-to-save-mass-effect-dev-bioware-to-be-considered-by-canadas-government": {
-   "at": "2026-11-06T00:11:52.992372+00:00",
-   "title": "Petition to Save Mass Effect Dev BioWare to Be Considered by Canada's Government",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pushsquare.com/news/2026/11/petition-to-save-mass-effect-dev-bioware-to-be-considered-by-canadas-government",
-   "score": 0,
-   "sources": 1,
-   "summary": "Paragon action.",
-   "title_ar": ""
-  },
   "pushsquare.com/news/2026/11/ps-plus-pulls-plug-on-pc-streaming-after-fewer-than-1percent-used-it": {
    "at": "2026-11-10T19:45:35.558073+00:00",
    "title": "PS Plus Pulls Plug on PC Streaming After Fewer Than 1% Used It",
@@ -10429,17 +10418,6 @@
    "summary": "Firefight is back.",
    "title_ar": ""
   },
-  "techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system": {
-   "at": "2026-11-06T00:11:52.992372+00:00",
-   "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-   "score": 1,
-   "sources": 1,
-   "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
-   "title_ar": "Box تستخدم نموذج Nemotron من Nvidia لنظام جديد لاسترجاع المحتوى مخصص للوكلاء الذكية"
-  },
   "techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite": {
    "at": "2026-11-06T04:00:41.848682+00:00",
    "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
@@ -10461,17 +10439,6 @@
    "sources": 1,
    "summary": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
    "title_ar": "Harbinger تجمع 240 مليون دولار بعد التوسع في قطاع الدفاع"
-  },
-  "techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law": {
-   "at": "2026-11-06T00:11:52.992372+00:00",
-   "title": "Meta, Google, and TikTok sue California AG over teen social media law",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
-   "score": 0,
-   "sources": 1,
-   "summary": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
-   "title_ar": ""
   },
   "techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop": {
    "at": "2026-11-06T14:45:30.844844+00:00",
@@ -11177,6 +11144,17 @@
    "summary": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay": {
+   "at": "2026-11-13T00:15:33.813675+00:00",
+   "title": "Muse can now place calls to US businesses — if you pay",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+   "title_ar": ""
+  },
   "techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending": {
    "at": "2026-11-12T22:00:43.329333+00:00",
    "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
@@ -11528,17 +11506,6 @@
    "sources": 1,
    "summary": "Nonprofit METR spent eleven weeks auditing Anthropic's internal research data and concluded that the pace of model development has roughly doubled, with about 80 percent of the speedup driven by…",
    "title_ar": "منظمة METR تجد أن Anthropic ربما تجاوزت عتبة تحذير تسريع الذكاء الاصطناعي الخاصة بها في يوليو الماضي"
-  },
-  "the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark": {
-   "at": "2026-11-06T00:15:28.858447+00:00",
-   "title": "No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/",
-   "score": 0,
-   "sources": 1,
-   "summary": "SemiAnalysis is putting AI agents through simulated knowledge work in its new GDPx benchmark, covering everything from chip design to quant trading.",
-   "title_ar": ""
   },
   "the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls": {
    "at": "2026-11-09T11:45:27.891477+00:00",
@@ -11956,17 +11923,6 @@
    "score": 0,
    "sources": 1,
    "summary": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier.",
-   "title_ar": ""
-  },
-  "theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings": {
-   "at": "2026-11-06T00:11:52.992372+00:00",
-   "title": "Airbnb is working on an AI travel agent",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-   "score": 0,
-   "sources": 1,
-   "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today.",
    "title_ar": ""
   },
   "theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders": {
@@ -13425,7 +13381,7 @@
  "topic_last_posted": {
   "AI": "2026-11-12T23:30:33.840937+00:00",
   "Anime": "2026-11-12T20:00:41.535054+00:00",
-  "Games": "2026-11-12T23:51:44.105229+00:00",
+  "Games": "2026-11-13T00:15:33.813675+00:00",
   "Tech": "2026-11-13T00:00:43.833823+00:00"
  },
  "digest_day": "2026-11-12",
