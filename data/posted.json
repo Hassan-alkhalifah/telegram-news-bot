@@ -12,17 +12,6 @@
    "summary": "Following a pre-order date announcement earlier this week, Google’s other Android XR launch partner has now confirmed a December release date for this first batch of glasses. more…",
    "title_ar": ""
   },
-  "9to5google.com/2026/11/06/galaxy-smarttag-3-available-from-samsung": {
-   "at": "2026-11-06T21:45:29.793891+00:00",
-   "title": "Galaxy SmartTag 3 hits Samsung online store as single tracker or four-pack",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/06/galaxy-smarttag-3-available-from-samsung/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Samsung’s latest generation of item trackers for Galaxy devices is available online in two colors, starting at $29 . more…",
-   "title_ar": "جهاز Galaxy SmartTag 3 يصل إلى متجر سامسونج الإلكتروني كجهاز تعقب فردي أو في حزمة من أربعة أجهزة"
-  },
   "9to5google.com/2026/11/06/google-antigravity-remote-agents-voice-mode": {
    "at": "2026-11-06T22:30:38.292327+00:00",
    "title": "Big Google Antigravity update brings Remote Agents, Voice Mode, and redesign",
@@ -2827,6 +2816,17 @@
    "sources": 1,
    "summary": "The movies were originally released in 2012 and 2013",
    "title_ar": "ثلاثية أفلام Puella Magi Madoka Magica متاحة الآن للمشاهدة على Crunchyroll"
+  },
+  "crunchyroll.com/news/interviews/2026/11/13/naruto-original-voice-actors-after-20-years-interview": {
+   "at": "2026-11-13T22:00:43.136599+00:00",
+   "title": "Naruto's Original Voice Actors on Why Returning to Team 7 Feels Different After 20 Years",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://crunchyroll.com/news/interviews/2026/11/13/naruto-original-voice-actors-after-20-years-interview",
+   "score": 1,
+   "sources": 1,
+   "summary": "Read our interview with the Naruto voice actors at New York Comic Con!",
+   "title_ar": "مؤدّو أصوات Naruto الأصليون يتحدثون عن سبب شعور العودة إلى Team 7 بشكل مختلف بعد 20 عاماً"
   },
   "crunchyroll.com/news/interviews/2026/11/7/pokemon-composer-ed-goldfarb-interview": {
    "at": "2026-11-07T16:00:43.048411+00:00",
@@ -10594,17 +10594,6 @@
    "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
    "title_ar": "إغلاق شركة Sequoia لبرنامج Scouts يمثل نهاية حقبة"
   },
-  "techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple": {
-   "at": "2026-11-06T21:45:29.793891+00:00",
-   "title": "The Duo apps are coming, says Apple",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
-   "score": 0,
-   "sources": 1,
-   "summary": "There are now 100K Duo-optimized apps, says Apple, and thousands more arrive daily.",
-   "title_ar": ""
-  },
   "techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers": {
    "at": "2026-11-07T22:15:32.119452+00:00",
    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
@@ -13545,7 +13534,7 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-13T20:27:55.837463+00:00",
-  "Anime": "2026-11-13T20:45:31.167926+00:00",
+  "Anime": "2026-11-13T22:00:43.136599+00:00",
   "Games": "2026-11-13T21:45:28.104507+00:00",
   "Tech": "2026-11-13T21:30:39.667764+00:00"
  },
