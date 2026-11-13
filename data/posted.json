@@ -639,17 +639,6 @@
    "summary": "Good morning.",
    "title_ar": "الإطلاق المتعثر لهاتف iPhone Duo يذكرنا بمدى التقدم الذي وصل إليه هواتف Android القابلة للطي"
   },
-  "9to5mac.com/2026/11/05/awkwafina-the-unlikely-cook-premieres-on-apple-tv": {
-   "at": "2026-11-06T02:15:31.756159+00:00",
-   "title": "‘Awkwafina: The Unlikely Cook’ premieres on Apple TV",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/05/awkwafina-the-unlikely-cook-premieres-on-apple-tv/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Apple TV subscribers can now stream the first two episodes of the platform’s new unscripted food series, ‘ Awkwafina: The Unlikely Cook .’ Watch the trailer below. more…",
-   "title_ar": "إطلاق عرض Awkwafina: The Unlikely Cook على Apple TV"
-  },
   "9to5mac.com/2026/11/06/apple-confirms-7-5-billion-bond-sale-following-strong-investor-demand": {
    "at": "2026-11-06T12:15:30.890822+00:00",
    "title": "Apple confirms $7.5 billion bond sale following strong investor demand",
@@ -1485,6 +1474,17 @@
    "sources": 1,
    "summary": "Apple is reuniting with Brad Pitt, the star of its most successful film of all time: F1 The Movie .",
    "title_ar": "Apple TV تعلن عن فيلم جديد بعنوان Connector من بطولة Brad Pitt"
+  },
+  "9to5mac.com/2026/11/12/apple-tv-just-debuted-three-new-originals-including-a-heist-thriller-series": {
+   "at": "2026-11-13T02:30:35.469608+00:00",
+   "title": "Apple TV just debuted three new originals, including a heist thriller series",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/12/apple-tv-just-debuted-three-new-originals-including-a-heist-thriller-series/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Apple TV subscribers can now watch three new originals, including a heist thriller series, a film based on true events, and the first of two holiday specials coming to the platform this season.",
+   "title_ar": "Apple TV يطلق ثلاثة أعمال أصلية جديدة، بما في ذلك مسلسل إثارة عن السرقة"
   },
   "9to5mac.com/2026/11/12/elton-johns-apple-music-show-to-feature-king-charles-in-november-14-special": {
    "at": "2026-11-13T01:15:27.296470+00:00",
@@ -3222,17 +3222,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Opening and ending theme songs were also revealed",
-   "title_ar": ""
-  },
-  "crunchyroll.com/news/latest/2026/11/6/leviathan-live-action-film-36-student-cast-members": {
-   "at": "2026-11-06T02:15:31.756159+00:00",
-   "title": "Leviathan Live-Action Film Reveals 36 Student Cast Members",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://crunchyroll.com/news/latest/2026/11/6/leviathan-live-action-film-36-student-cast-members",
-   "score": 0,
-   "sources": 1,
-   "summary": "The adaptaion of Shiro Kuroi's manga will open on February 11, 2027",
    "title_ar": ""
   },
   "crunchyroll.com/news/latest/2026/11/6/ninja-skooler-anime-pilot-film": {
@@ -9043,6 +9032,17 @@
    "summary": "Choo choo.",
    "title_ar": ""
   },
+  "nintendolife.com/news/2026/11/doom-developer-id-software-confirms-its-working-on-a-new-game": {
+   "at": "2026-11-13T02:30:35.469608+00:00",
+   "title": "DOOM Developer id Software Confirms It's Working On A New Game",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/doom-developer-id-software-confirms-its-working-on-a-new-game",
+   "score": 0,
+   "sources": 1,
+   "summary": "It's reportedly another DOOM game. id Software, the developer known for FPS hits such as DOOM and Quake , has confirmed it's got a new game in the pipeline.",
+   "title_ar": ""
+  },
   "nintendolife.com/news/2026/11/father-arrested-for-leaving-6-year-old-daughter-sleeping-in-line-for-pokemon-cards": {
    "at": "2026-11-09T11:15:29.188887+00:00",
    "title": "Father Arrested For Leaving 6-Year-Old Daughter Sleeping In Line For Pokémon Cards",
@@ -13470,7 +13470,7 @@
   "AI": "2026-11-12T23:30:33.840937+00:00",
   "Anime": "2026-11-13T01:00:41.233613+00:00",
   "Games": "2026-11-13T02:15:30.882674+00:00",
-  "Tech": "2026-11-13T02:00:41.247442+00:00"
+  "Tech": "2026-11-13T02:30:35.469608+00:00"
  },
  "digest_day": "2026-11-12",
  "weekly_day": "2026-11-06"
