@@ -606,6 +606,17 @@
    "summary": "Good morning.",
    "title_ar": "الإطلاق المتعثر لهاتف iPhone Duo يذكرنا بمدى التقدم الذي وصل إليه هواتف Android القابلة للطي"
   },
+  "9to5google.com/2026/11/13/gemini-google-wallet": {
+   "at": "2026-11-13T18:15:30.111600+00:00",
+   "title": "You can now set up Gemini’s Google Wallet integration for ‘personal finance insights’",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/13/gemini-google-wallet/",
+   "score": 1,
+   "sources": 1,
+   "summary": "As we spotted in September , the Gemini app is adding Google Wallet integration in the US that makes possible “responses informed by your spending habits.” more…",
+   "title_ar": "يمكنك الآن إعداد تكامل Google Wallet مع Gemini للحصول على \"رؤى التمويل الشخصي\""
+  },
   "9to5google.com/2026/11/13/the-xiaomi-18-pros-rear-displays-support-google-apps-spotify-and-custom-genai-apps": {
    "at": "2026-11-13T17:00:44.674160+00:00",
    "title": "The Xiaomi 18 Pro’s rear displays support Google apps, Spotify, and custom GenAI apps",
@@ -627,17 +638,6 @@
    "sources": 1,
    "summary": "Following the redesign of the Apple Music app icon, which replaced the familiar white music note on a red background with a black-and-white look, Apple today updated Apple Music Classical to match…",
    "title_ar": "تطبيق Apple Music Classical يحصل على أيقونة جديدة باللونين الأبيض الأسود في التحديث الأخير"
-  },
-  "9to5mac.com/2026/11/06/apple-says-there-are-already-over-100000-apps-built-for-iphone-duo": {
-   "at": "2026-11-06T18:00:48.524230+00:00",
-   "title": "Apple says there are already over 100,000 apps built for iPhone Duo",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/06/apple-says-there-are-already-over-100000-apps-built-for-iphone-duo/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple released the iPhone Duo two weeks ago, and the app story is quickly taking shape.",
-   "title_ar": ""
   },
   "9to5mac.com/2026/11/06/apple-stores-roll-out-holiday-decorations-to-kick-off-the-season-2": {
    "at": "2026-11-06T22:15:28.860504+00:00",
@@ -8075,6 +8075,17 @@
    "summary": "Two new PS Plus titles have been revealed ahead of schedule by PlayStation themselves, thanks to a Japanese PS Blog.",
    "title_ar": ""
   },
+  "insider-gaming.com/vindictus-defying-fate-new-trailer-2027-release": {
+   "at": "2026-11-13T18:15:30.111600+00:00",
+   "title": "Vindictus: Defying Fate Targets 2027 Release on PC and PS5",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/vindictus-defying-fate-new-trailer-2027-release/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nexon has released a new cinematic trailer for Vindictus: Defying Fate, with the action RPG targeting a 2027 launch on PC and PS5.",
+   "title_ar": ""
+  },
   "insider-gaming.com/wolfenstein-3-confirmed-xbox-asha-sharma": {
    "at": "2026-11-13T00:45:29.533648+00:00",
    "title": "Wolfenstein 3 Officially Confirmed by XBOX CEO Asha Sharma",
@@ -11969,17 +11980,6 @@
    "summary": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier.",
    "title_ar": ""
   },
-  "theverge.com/tech/1028813/apple-iphone-duo-optimized-apps": {
-   "at": "2026-11-06T18:00:48.524230+00:00",
-   "title": "The iPhone Duo has more than 100,000 optimized apps, Apple says",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps",
-   "score": 3,
-   "sources": 2,
-   "summary": "Apple's iPhone Duo has been officially on sale for two weeks, and the company said today that the App Store now has over 100,000 apps that are built for the foldable.",
-   "title_ar": "آبل تقول إن iPhone Duo يضم أكثر من 100,000 تطبيق محسّن"
-  },
   "theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video": {
    "at": "2026-11-06T19:30:38.070730+00:00",
    "title": "Amazon is now making a Melania Trump TV series",
@@ -13448,7 +13448,7 @@
   "AI": "2026-11-13T17:30:38.535994+00:00",
   "Anime": "2026-11-13T18:00:44.067143+00:00",
   "Games": "2026-11-13T17:45:29.299284+00:00",
-  "Tech": "2026-11-13T17:15:27.887015+00:00"
+  "Tech": "2026-11-13T18:15:30.111600+00:00"
  },
  "digest_day": "2026-11-13",
  "weekly_day": "2026-11-13"
