@@ -606,17 +606,6 @@
    "summary": "Following the redesign of the Apple Music app icon, which replaced the familiar white music note on a red background with a black-and-white look, Apple today updated Apple Music Classical to match…",
    "title_ar": "تطبيق Apple Music Classical يحصل على أيقونة جديدة باللونين الأبيض الأسود في التحديث الأخير"
   },
-  "9to5mac.com/2026/11/06/apple-stores-roll-out-holiday-decorations-to-kick-off-the-season-2": {
-   "at": "2026-11-06T22:15:28.860504+00:00",
-   "title": "Apple Stores roll out holiday decorations to kick off the season",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/06/apple-stores-roll-out-holiday-decorations-to-kick-off-the-season-2/",
-   "score": 1,
-   "sources": 1,
-   "summary": "The holidays are coming, and Apple Stores around the world are rolling out decorations today to celebrate.",
-   "title_ar": "متاجر Apple تطرح زينة العطلات لتدشين الموسم"
-  },
   "9to5mac.com/2026/11/06/apple-tv-renews-knife-edge-chasing-michelin-stars-for-season-three": {
    "at": "2026-11-06T23:15:30.591449+00:00",
    "title": "Apple TV renews ‘Knife Edge: Chasing Michelin Stars’ for season three",
@@ -627,28 +616,6 @@
    "sources": 1,
    "summary": "Award-winning culinary show ‘ Knife Edge: Chasing Michelin Stars ’ is getting a third season, in an announcement that came hours after its second season came to a close.",
    "title_ar": "Apple TV تجدد برنامج Knife Edge: Chasing Michelin Stars لموسم ثالث"
-  },
-  "9to5mac.com/2026/11/06/ios-27-3-new-features-release-date-more": {
-   "at": "2026-11-06T22:00:49.744999+00:00",
-   "title": "iOS 27.3: New features, release date, more",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/06/ios-27-3-new-features-release-date-more/",
-   "score": 0,
-   "sources": 1,
-   "summary": "This week, Apple released the first iOS 27.3 beta.",
-   "title_ar": ""
-  },
-  "9to5mac.com/2026/11/06/report-apple-faces-congressional-scrutiny-over-ice-tracking-apps-and-trump-donations": {
-   "at": "2026-11-06T22:00:49.744999+00:00",
-   "title": "Report: Apple faces congressional scrutiny over ICE tracking apps and Trump donations",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/06/report-apple-faces-congressional-scrutiny-over-ice-tracking-apps-and-trump-donations/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Reuters and The Washington Post report that Apple is among the tech giants potentially facing congressional investigations as Democrats prepare to take control of both chambers in January.",
-   "title_ar": "تقرير: Apple تواجه تدقيقاً كونغرسياً بشأن تطبيقات تتبع ICE وتبرعات Trump"
   },
   "9to5mac.com/2026/11/07/chromagraph-camera-is-exactly-the-camera-app-ive-been-looking-for-on-iphone": {
    "at": "2026-11-07T22:30:37.909407+00:00",
@@ -5776,17 +5743,6 @@
    "summary": "Adobe is holding its Max conference in Miami Beach today, and it has used the occasion to announce a bunch of new AI features, along with an expanded partnership with Google.",
    "title_ar": ""
   },
-  "gsmarena.com/airbnb_is_building_an_ai_travel_agent_that_designs_its_own_interface-news-75389.php": {
-   "at": "2026-11-06T22:15:28.860504+00:00",
-   "title": "Airbnb is building an AI travel agent that designs its own interface",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.gsmarena.com/airbnb_is_building_an_ai_travel_agent_that_designs_its_own_interface-news-75389.php",
-   "score": 0,
-   "sources": 1,
-   "summary": "Airbnb has spent much of 2026 folding AI into search, listing descriptions, and customer support.",
-   "title_ar": ""
-  },
   "gsmarena.com/analysts_samsung_held_twothirds_of_the_global_foldable_market_in_q3_thanks_to_the_z_fold8-news-75455.php": {
    "at": "2026-11-12T20:45:29.538831+00:00",
    "title": "Analysts: Samsung held two-thirds of the global foldable market in Q3, thanks to the Z Fold8",
@@ -5995,6 +5951,17 @@
    "sources": 1,
    "summary": "Microsoft is experiencing a major server outage affecting all its cloud services, including Outlook, Teams, Microsoft 365 (Business and Enterprise), Azure, OneNote, OneDrive, and Microsoft ToDo.",
    "title_ar": ""
+  },
+  "gsmarena.com/motorola_razr_50_ultra_starts_getting_android_17_in_europe-news-75480.php": {
+   "at": "2026-11-13T22:15:29.106798+00:00",
+   "title": "Motorola Razr 50 Ultra's Android 17 update becomes available in Europe, with a catch",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.gsmarena.com/motorola_razr_50_ultra_starts_getting_android_17_in_europe-news-75480.php",
+   "score": 1,
+   "sources": 1,
+   "summary": "The Motorola Razr 50 Ultra, which is sold in the US as the Razr+ 2024, joined Motorola's Android 17 beta program back in April.",
+   "title_ar": "توفر تحديث Android 50 لهاتف Motorola Razr 50 Ultra في أوروبا مع وجود شرط معين"
   },
   "gsmarena.com/motorola_signature_27_battery_capacity_germany-news-75468.php": {
    "at": "2026-11-13T15:30:39.926846+00:00",
@@ -13536,7 +13503,7 @@
   "AI": "2026-11-13T20:27:55.837463+00:00",
   "Anime": "2026-11-13T22:00:43.136599+00:00",
   "Games": "2026-11-13T21:45:28.104507+00:00",
-  "Tech": "2026-11-13T21:30:39.667764+00:00"
+  "Tech": "2026-11-13T22:15:29.106798+00:00"
  },
  "digest_day": "2026-11-13",
  "weekly_day": "2026-11-13"
