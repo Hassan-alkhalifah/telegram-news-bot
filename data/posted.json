@@ -11254,6 +11254,17 @@
    "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S.",
    "title_ar": "محفظة ChatGPT الجديدة تتيح لوكلاء الذكاء الاصطناعي التسوق وإتمام الدفع نيابة عنك"
   },
+  "techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen": {
+   "at": "2026-11-13T19:30:46.286352+00:00",
+   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+   "score": 2,
+   "sources": 1,
+   "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+   "title_ar": "شريحة Nvidia المحظور تصديرها تقف وراء أقوى نماذج الذكاء الاصطناعي في الصين - يا للبدء يا Jensen!"
+  },
   "techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil": {
    "at": "2026-11-13T13:00:45.245111+00:00",
    "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
@@ -11979,17 +11990,6 @@
    "sources": 1,
    "summary": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier.",
    "title_ar": ""
-  },
-  "theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video": {
-   "at": "2026-11-06T19:30:38.070730+00:00",
-   "title": "Amazon is now making a Melania Trump TV series",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video",
-   "score": 1,
-   "sources": 1,
-   "summary": "Following the Melania documentary movie that premiered earlier this year, Amazon is now planning to release a two-part Prime Video series focusing on the first lady.",
-   "title_ar": "أمازون تعمل الآن على إنتاج مسلسل تلفزيوني عن Melania Trump"
   },
   "theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview": {
    "at": "2026-11-08T15:00:44.656552+00:00",
@@ -13445,7 +13445,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-13T18:30:35.441286+00:00",
+  "AI": "2026-11-13T19:30:46.286352+00:00",
   "Anime": "2026-11-13T19:00:44.623605+00:00",
   "Games": "2026-11-13T18:45:28.139314+00:00",
   "Tech": "2026-11-13T19:15:30.326595+00:00"
