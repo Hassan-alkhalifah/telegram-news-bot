@@ -6051,17 +6051,6 @@
    "summary": "Oppo is fully unveiling the Reno17 and Reno17 Pro in China on November 16, and just yesterday the company officially confirmed that the Reno17 will come with four 50MP cameras, including the main…",
    "title_ar": "Oppo تؤكد تفاصيل الكاميرا الرئيسية لهاتف Reno17 Pro والمعالجات المشغلة له ولـ Reno17"
   },
-  "gsmarena.com/oppo_find_x10_ultra_may_have_been_cancelled-news-75380.php": {
-   "at": "2026-11-06T22:45:30.367612+00:00",
-   "title": "Oppo Find X10 Ultra has reportedly been cancelled",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.gsmarena.com/oppo_find_x10_ultra_may_have_been_cancelled-news-75380.php",
-   "score": 1,
-   "sources": 1,
-   "summary": "Oppo's Find X10 and Find X10 Pro Max went global recently, and the Find X10 Ultra was expected to follow in the first half of next year as the camera-focused top dog.",
-   "title_ar": "التقارير تشير إلى إلغاء هاتف Oppo Find X10 Ultra"
-  },
   "gsmarena.com/realme_17_pro_leak_helps_clarify_its_place_in_the_upcoming_lineup-news-75392.php": {
    "at": "2026-11-07T01:45:27.321033+00:00",
    "title": "New Realme 17 Pro spec leak helps clarify its place in the upcoming lineup",
@@ -9603,6 +9592,17 @@
    "sources": 1,
    "summary": "Back on that grindset.",
    "title_ar": ""
+  },
+  "pcgamer.com/games/yes-some-brave-games-are-still-launching-on-steam-during-gta-6-launch-week": {
+   "at": "2026-11-13T23:00:42.613050+00:00",
+   "title": "Yes, some brave games are still launching on Steam during GTA 6 week",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.pcgamer.com/games/yes-some-brave-games-are-still-launching-on-steam-during-gta-6-launch-week/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Roundabouts, merchant republics, and dark fantasy roguelikes aren't budging their release plans.",
+   "title_ar": "نعم، بعض الألعاب الشجاعة ما زالت تُطلق على Steam خلال أسبوع GTA 6"
   },
   "pcgamer.com/gaming-industry/2-years-after-unknown-9-awakening-bombed-bandai-namco-is-closing-the-studio-that-made-it": {
    "at": "2026-11-10T23:00:47.097425+00:00",
@@ -13513,7 +13513,7 @@
  "topic_last_posted": {
   "AI": "2026-11-13T20:27:55.837463+00:00",
   "Anime": "2026-11-13T22:00:43.136599+00:00",
-  "Games": "2026-11-13T22:30:35.279455+00:00",
+  "Games": "2026-11-13T23:00:42.613050+00:00",
   "Tech": "2026-11-13T22:45:29.345492+00:00"
  },
  "digest_day": "2026-11-13",
