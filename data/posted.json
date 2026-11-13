@@ -650,17 +650,6 @@
    "summary": "Award-winning culinary show ‘ Knife Edge: Chasing Michelin Stars ’ is getting a third season, in an announcement that came hours after its second season came to a close.",
    "title_ar": "Apple TV تجدد برنامج Knife Edge: Chasing Michelin Stars لموسم ثالث"
   },
-  "9to5mac.com/2026/11/06/apples-doj-antitrust-battle-sparks-disputes-with-epic-samsung-oura-roblox-more": {
-   "at": "2026-11-06T20:15:35.094932+00:00",
-   "title": "Apple’s DOJ antitrust battle sparks disputes with Epic, Samsung, Oura, Roblox, more",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/06/apples-doj-antitrust-battle-sparks-disputes-with-epic-samsung-oura-roblox-more/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Several tech companies are pushing back against subpoenas issued by Apple and the DOJ in their ongoing antitrust battle.",
-   "title_ar": "معركة Apple القضائية الاحتكارية مع وزارة العدل تثير نزاعات مع Epic و Samsung و Oura و Roblox وغيرها"
-  },
   "9to5mac.com/2026/11/06/apples-funny-new-apple-card-ad-features-an-awkward-therapy-session": {
    "at": "2026-11-06T21:00:45.113141+00:00",
    "title": "Apple’s funny new Apple Card ad features an awkward therapy session",
@@ -11474,6 +11463,17 @@
    "summary": "OpenAI grew its quarterly revenue 50 percent to $10 billion but is still burning more cash than it brings in.",
    "title_ar": "دفع مبيعات الشركات بإيرادات OpenAI الفصلية إلى 10 مليارات دولار، رغم أنها لا تزال متأخرة عن Anthropic"
   },
+  "the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models": {
+   "at": "2026-11-13T20:27:55.837463+00:00",
+   "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Former OpenAI researcher Will DePue says he has produced the first technical evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group are using Nvidia's latest Blackwell GPUs despite US export…",
+   "title_ar": "باحث سابق في OpenAI يقول إنه عثر على بصمات لشرائح Nvidia Blackwell مخفية داخل ستة نماذج ذكاء اصطناعي صينية"
+  },
   "the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet": {
    "at": "2026-11-11T00:15:31.341916+00:00",
    "title": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet",
@@ -11923,17 +11923,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The…",
-   "title_ar": ""
-  },
-  "theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy": {
-   "at": "2026-11-06T20:15:35.094932+00:00",
-   "title": "All the latest updates on AI data centers",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-   "score": 0,
-   "sources": 1,
-   "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI.",
    "title_ar": ""
   },
   "theverge.com/gadgets/1031284/oura-counsel-health-acquisition": {
@@ -13489,7 +13478,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-13T19:30:46.286352+00:00",
+  "AI": "2026-11-13T20:27:55.837463+00:00",
   "Anime": "2026-11-13T20:00:58.402629+00:00",
   "Games": "2026-11-13T19:45:30.100251+00:00",
   "Tech": "2026-11-13T20:15:27.686496+00:00"
