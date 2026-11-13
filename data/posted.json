@@ -3224,6 +3224,17 @@
    "summary": "The unit's second mini album \"Shooot!!\" ranks No.",
    "title_ar": ""
   },
+  "crunchyroll.com/news/latest/2026/11/13/j-novel-club-announces-13-new-digital-releases-and-two-new-print-releases": {
+   "at": "2026-11-13T20:45:31.167926+00:00",
+   "title": "J-Novel Club Announces 13 New Digital Releases and Two New Print Releases",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://crunchyroll.com/news/latest/2026/11/13/j-novel-club-announces-13-new-digital-releases-and-two-new-print-releases",
+   "score": 1,
+   "sources": 1,
+   "summary": "Releases of seven light novels and six manga are now available on the website",
+   "title_ar": "دار J-Novel Club تعلن عن 13 إصداراً رقمياً جديداً وإصدارين ورقيين جديدين"
+  },
   "crunchyroll.com/news/latest/2026/11/13/living-it-up-in-another-world-until-i-get-bored-tv-anime-announced": {
    "at": "2026-11-13T13:45:29.126132+00:00",
    "title": "Living It Up in Another World Until I Get Bored TV Anime Announced",
@@ -4665,17 +4676,6 @@
    "summary": "Big Walk developer House House has confirmed that it used AI during the \"final stretch\" of its development.",
    "title_ar": ""
   },
-  "gamespot.com/articles/can-you-upgrade-to-gta-6s-100-edition-yes-and-its-easy-heres-how": {
-   "at": "2026-11-06T20:45:28.387004+00:00",
-   "title": "Can You Upgrade To GTA 6’s $100 Edition? Yes, And It’s Easy–Here’s How",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gamespot.com/articles/can-you-upgrade-to-gta-6s-100-edition-yes-and-its-easy-heres-how/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Rockstar's Grand Theft Auto 6 launches on November 19.",
-   "title_ar": ""
-  },
   "gamespot.com/articles/candy-crush-is-celebrating-xboxs-25th-anniversary-with-halo-fallout-and-doom-crossovers-including-remixed-music": {
    "at": "2026-11-12T22:15:30.200216+00:00",
    "title": "Candy Crush Is Celebrating Xbox’s 25th Anniversary With Halo, Fallout, And Doom Crossovers, Including Remixed Music",
@@ -5809,17 +5809,6 @@
    "summary": "2026 brought us some incredible smartphones, tablets and other gadgets and we wanted to recognize the best of them – here are the GSMArena 2026 End-of-Year Awards Nominees.",
    "title_ar": "الإعلان عن المتأهلين للنهائيات في جوائز GSMArena نهاية عام 2026"
   },
-  "gsmarena.com/apple_says_over_100000_apps_are_now_optimized_for_the_iphone_duo-news-75390.php": {
-   "at": "2026-11-06T20:45:28.387004+00:00",
-   "title": "Apple says over 100,000 apps are now optimized for the iPhone Duo",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.gsmarena.com/apple_says_over_100000_apps_are_now_optimized_for_the_iphone_duo-news-75390.php",
-   "score": 0,
-   "sources": 1,
-   "summary": "The iPhone Duo started shipping about two weeks ago, and app support has been one of the early talking points.",
-   "title_ar": ""
-  },
   "gsmarena.com/canceled_find_x10_ultras_screen_and_cameras_may_live_on_in_another_oppo_pro_max-news-75457.php": {
    "at": "2026-11-13T02:45:30.437493+00:00",
    "title": "Canceled Oppo Find X10 Ultra's screen and cameras may live on in the Find X11 Pro Max",
@@ -5841,17 +5830,6 @@
    "sources": 1,
    "summary": "Apple introduced the Action button with the iPhone 15 Pro, and the iPhone 18 Pro still has it.",
    "title_ar": ""
-  },
-  "gsmarena.com/galaxy_s27_ultra_and_s27_pro_chipset_rumors_take_another_turn_snapdragon_is_back_in_korea-news-75386.php": {
-   "at": "2026-11-06T20:45:28.387004+00:00",
-   "title": "Galaxy S27 Ultra and S27 Pro chipset rumors take another turn, Snapdragon is back in Korea",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.gsmarena.com/galaxy_s27_ultra_and_s27_pro_chipset_rumors_take_another_turn_snapdragon_is_back_in_korea-news-75386.php",
-   "score": 1,
-   "sources": 1,
-   "summary": "According to a new rumor, Samsung's upcoming Galaxy S27 Pro and Galaxy S27 Ultra will stick to Snapdragon chipsets in South Korea, despite the Exynos 2700 reportedly outperforming Qualcomm's…",
-   "title_ar": "شائعات شرائح Galaxy S27 Ultra و S27 Pro تتخذ منعطفاً آخر، و Snapdragon يعود إلى كوريا"
   },
   "gsmarena.com/google_to_add_vocabulary_for_corrected_words_to_gboards_rambler_voice_typing_feature-news-75397.php": {
    "at": "2026-11-07T16:15:27.785969+00:00",
@@ -13490,7 +13468,7 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-13T20:27:55.837463+00:00",
-  "Anime": "2026-11-13T20:00:58.402629+00:00",
+  "Anime": "2026-11-13T20:45:31.167926+00:00",
   "Games": "2026-11-13T20:30:37.655938+00:00",
   "Tech": "2026-11-13T20:15:27.686496+00:00"
  },
