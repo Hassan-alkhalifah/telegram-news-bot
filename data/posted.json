@@ -1585,6 +1585,17 @@
    "summary": "The new Apple TV 4K and HomeView smart display are officially available.",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/13/openai-launches-chatgpt-wallet-enabling-dot-agents-to-make-purchases": {
+   "at": "2026-11-13T16:30:38.946330+00:00",
+   "title": "OpenAI launches ChatGPT Wallet, enabling ‘dot’ agents to make purchases",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/13/openai-launches-chatgpt-wallet-enabling-dot-agents-to-make-purchases/",
+   "score": 0,
+   "sources": 1,
+   "summary": "OpenAI is launching ChatGPT Wallet, which it says is “setting a new bar for secure payments by agents.” ChatGPT Wallet works with OpenAI’s “dots” agent feature and includes a partnership with…",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/13/tvos-27-2-1-launching-soon-with-siri-ai-for-older-apple-tv-4k-models": {
    "at": "2026-11-13T15:00:44.806010+00:00",
    "title": "tvOS 27.2.1 launching soon with Siri AI for older Apple TV 4K models",
@@ -6579,6 +6590,17 @@
    "summary": "The most recent GTA 6 trailer has many people wondering if an iconic character from a previous game in the franchise is making a return.",
    "title_ar": "عشاق GTA 6 يعتقدون أن شخصية كلاسيكية محبوبة من لعبة سابقة مختبئة في العرض الدعائي الأخير"
   },
+  "ign.com/articles/gta-6-has-a-whole-animated-tv-series-you-can-watch-in-game": {
+   "at": "2026-11-13T16:30:38.946330+00:00",
+   "title": "GTA 6 Has a Whole Animated TV Series You Can Watch In-Game",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/gta-6-has-a-whole-animated-tv-series-you-can-watch-in-game",
+   "score": 0,
+   "sources": 1,
+   "summary": "In yet further evidence of the lengths Rockstar has gone to in order to pack GTA 6 to the brim with content, we have our first look at an animated TV series you can watch in-game.",
+   "title_ar": ""
+  },
   "ign.com/articles/gta-6-metadata-ray-tracing-improvements-on-ps5-pro": {
    "at": "2026-11-09T16:00:52.578212+00:00",
    "title": "As GTA 6 Preload Goes Live, Fans Dig Into the Data to Try to Unearth Unannounced Information Ahead of Launch",
@@ -11188,6 +11210,17 @@
    "summary": "Whoop is launching a social network that lets members share their sleep, recovery, and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at…",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you": {
+   "at": "2026-11-13T16:30:38.946330+00:00",
+   "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+   "score": 4,
+   "sources": 2,
+   "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S.",
+   "title_ar": "محفظة ChatGPT الجديدة تتيح لوكلاء الذكاء الاصطناعي التسوق وإتمام الدفع نيابة عنك"
+  },
   "techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil": {
    "at": "2026-11-13T13:00:45.245111+00:00",
    "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
@@ -12508,6 +12541,17 @@
    "summary": "A Reddit homelab user ran Moonshot AI’s 2.8-trillion-parameter Kimi K3 CPU-only on Optane PMem 200 at 0.85 tokens/s with a 1-bit quant.",
    "title_ar": "مطور مختبر منزلي يستخدم وحدات ذاكرة Optane من الجيل الثاني لتشغيل نموذج ذكاء اصطناعي بـ 2.8 تريليون معلمة على وحدة المعالجة المركزية وحدها"
   },
+  "tomshardware.com/tech-industry/artificial-intelligence/malaysia-and-singapore-step-up-nvidia-ai-chip-probes-as-charges-brought-against-chinese-national-over-917-smuggled-servers-firm-at-center-of-jensen-huang-controversy-announces-inventory-audit-to-account-for-all-restricted-gpus": {
+   "at": "2026-11-13T16:30:38.946330+00:00",
+   "title": "Malaysia and Singapore step up Nvidia AI chip probes amidst Jensen Huang controversy",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-and-singapore-step-up-nvidia-ai-chip-probes-as-charges-brought-against-chinese-national-over-917-smuggled-servers-firm-at-center-of-jensen-huang-controversy-announces-inventory-audit-to-account-for-all-restricted-gpus",
+   "score": 0,
+   "sources": 1,
+   "summary": "Malaysia is investigating possible re-exports of Nvidia AI hardware amid concerns about circumvention of U.S. restrictions on China as Singapore charges an executive over suspicious purchases of 917…",
+   "title_ar": ""
+  },
   "tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls": {
    "at": "2026-11-13T11:15:28.225916+00:00",
    "title": "Mass smuggling of Nvidia AI GPUs could be the underlying cause of Jensen Huang's departure, analysts claim",
@@ -13124,6 +13168,17 @@
    "summary": "After a long development, it's being reported that Fairgames is no more",
    "title_ar": ""
   },
+  "videogameschronicle.com/news/playstations-god-of-war-spin-off-is-coming-to-ps4-and-getting-new-modes": {
+   "at": "2026-11-13T16:30:38.946330+00:00",
+   "title": "PlayStation’s God of War spin-off is coming to PS4 and getting new modes",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.videogameschronicle.com/news/playstations-god-of-war-spin-off-is-coming-to-ps4-and-getting-new-modes/",
+   "score": 0,
+   "sources": 1,
+   "summary": "God of War Sons of Sparta will get two new modes next week",
+   "title_ar": ""
+  },
   "videogameschronicle.com/news/pokemon-legends-z-a-players-can-claim-2-free-shiny-legendaries": {
    "at": "2026-11-12T18:15:28.482070+00:00",
    "title": "Pokémon Legends: Z-A players can claim 2 free shiny legendaries",
@@ -13335,7 +13390,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-13T15:45:46.957589+00:00",
+  "AI": "2026-11-13T16:30:38.946330+00:00",
   "Anime": "2026-11-13T16:00:42.735165+00:00",
   "Games": "2026-11-13T14:45:39.112881+00:00",
   "Tech": "2026-11-13T16:15:31.355977+00:00"
