@@ -3169,17 +3169,6 @@
    "summary": "Takashi Nakamura handles the original concept, direction, character design and art design",
    "title_ar": ""
   },
-  "crunchyroll.com/news/latest/2026/11/6/laid-back-camp-season-4-anime-trailer-key-visual-april-2027-premiere": {
-   "at": "2026-11-06T11:00:47.756112+00:00",
-   "title": "Laid-Back Camp Season 4 Anime Announces April 2027 Premiere in New Trailer",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://crunchyroll.com/news/latest/2026/11/6/laid-back-camp-season-4-anime-trailer-key-visual-april-2027-premiere",
-   "score": 0,
-   "sources": 1,
-   "summary": "Opening and ending theme songs were also revealed",
-   "title_ar": ""
-  },
   "crunchyroll.com/news/latest/2026/11/6/nippon-anime-awards-announced-november-21-2027": {
    "at": "2026-11-06T17:15:33.215483+00:00",
    "title": "Nippon Anime Awards Revealed for 2027",
@@ -6050,17 +6039,6 @@
    "sources": 1,
    "summary": "The Samsung Galaxy Buds On wireless earphones, unveiled last month, are currently only available in South Korea and the US.",
    "title_ar": "لدينا الآن إطار زمني أكثر تحديداً لإطلاق سماعات Samsung Galaxy Buds On في أُوروبا"
-  },
-  "gsmarena.com/samsung_galaxy_fit4_nfc_support-news-75377.php": {
-   "at": "2026-11-06T11:00:47.756112+00:00",
-   "title": "Samsung Galaxy Fit4 might have NFC for payments",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.gsmarena.com/samsung_galaxy_fit4_nfc_support-news-75377.php",
-   "score": 1,
-   "sources": 1,
-   "summary": "The Samsung Galaxy Fit3, launched in February 2024, is due for a successor.",
-   "title_ar": "Samsung Galaxy Fit4 قد يدعم تقنية NFC للدفع"
   },
   "gsmarena.com/samsung_galaxy_s27_series_camera_setup_detailed-news-75416.php": {
    "at": "2026-11-10T09:30:38.468558+00:00",
@@ -9239,6 +9217,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Not-so-Mystery Gift.",
+   "title_ar": ""
+  },
+  "nintendolife.com/news/2026/11/these-30plus-games-are-coming-to-nintendo-switch-eshop-this-week-november-12": {
+   "at": "2026-11-13T11:15:28.225916+00:00",
+   "title": "These 30+ Games Are Coming To Nintendo Switch eShop This Week (November 12)",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/these-30plus-games-are-coming-to-nintendo-switch-eshop-this-week-november-12",
+   "score": 0,
+   "sources": 1,
+   "summary": "Including three tasty discounts!",
    "title_ar": ""
   },
   "nintendolife.com/news/2026/11/uk-charts-zelda-ocarina-of-time-is-the-second-biggest-uk-launch-in-franchise-history": {
@@ -12464,6 +12453,17 @@
    "summary": "A Reddit homelab user ran Moonshot AI’s 2.8-trillion-parameter Kimi K3 CPU-only on Optane PMem 200 at 0.85 tokens/s with a 1-bit quant.",
    "title_ar": "مطور مختبر منزلي يستخدم وحدات ذاكرة Optane من الجيل الثاني لتشغيل نموذج ذكاء اصطناعي بـ 2.8 تريليون معلمة على وحدة المعالجة المركزية وحدها"
   },
+  "tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls": {
+   "at": "2026-11-13T11:15:28.225916+00:00",
+   "title": "Mass smuggling of Nvidia AI GPUs could be the underlying cause of Jensen Huang's departure, analysts claim",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
+   "score": 0,
+   "sources": 1,
+   "summary": "Top analyst firm SemiAnalysis says it has tracked staggering 1.5 gigawatts of banned AI accelerators flowing into China.",
+   "title_ar": ""
+  },
   "tomshardware.com/tech-industry/artificial-intelligence/spacex-develops-its-own-kessel-rack-scale-system-featuring-72-nvidia-rubin-gpus-for-data-centers-in-space-report-claims-replaces-conventional-nvlink-cable-assemblies-with-a-massive-84-layer-printed-circuit-board": {
    "at": "2026-11-11T15:30:36.645109+00:00",
    "title": "SpaceX develops its own ‘Kessel’ rack-scale system featuring 72 Nvidia Rubin GPUs for data centers in space, report claims",
@@ -12662,6 +12662,17 @@
    "summary": "SoftBank might not have defaulted on a raft of gas turbine orders, but it has pulled out of deals for unwanted power units after overestimating how many it could use amid the AI data center buildout…",
    "title_ar": ""
   },
+  "tomshardware.com/tech-industry/how-shanghai-fund-manager-kang-wei-introduced-his-wife-alice-huang-to-jensen-and-built-usd7-5-billion-nvidia-ai-gpu-smuggling-operation-mistresss-husband-joked-she-was-the-ceos-personal-assistant": {
+   "at": "2026-11-13T11:15:28.225916+00:00",
+   "title": "How Shanghai fund manager Kang Wei introduced his wife Alice Huang to Jensen and built $7.5 billion Nvidia AI GPU smuggling operation",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/tech-industry/how-shanghai-fund-manager-kang-wei-introduced-his-wife-alice-huang-to-jensen-and-built-usd7-5-billion-nvidia-ai-gpu-smuggling-operation-mistresss-husband-joked-she-was-the-ceos-personal-assistant",
+   "score": 0,
+   "sources": 1,
+   "summary": "While Alice Huang lives on the headlines, it was actually her husband who put her in the same room as Jensen Huang.",
+   "title_ar": ""
+  },
   "tomshardware.com/tech-industry/jensen-huang-now-accused-of-affair-with-nvidia-executive-who-reported-to-him-alleged-cover-up-attempt-new-indiscretion-comes-in-wake-of-admitted-affair-with-alleged-chinese-spy": {
    "at": "2026-11-11T22:45:27.620777+00:00",
    "title": "Jensen Huang now accused of affair with Nvidia executive who reported to him, alleged cover-up attempt — new indiscretion comes in wake of admitted affair with alleged Chinese spy",
@@ -12803,17 +12814,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Nintendo is going after the open-source firmware behind hardware modchips on Nintendo Switch",
-   "title_ar": ""
-  },
-  "tomshardware.com/video-games/nintendo/nintendos-latest-zelda-remake-already-circulating-online-as-a-switch-2-rom-openai-assisted-software-jailbreak-new-game-dumper-let-pirates-share-game-for-free-immediately-following-release": {
-   "at": "2026-11-06T11:00:47.756112+00:00",
-   "title": "Nintendo’s latest Zelda remake already circulating online as a Switch 2 ROM",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.tomshardware.com/video-games/nintendo/nintendos-latest-zelda-remake-already-circulating-online-as-a-switch-2-rom-openai-assisted-software-jailbreak-new-game-dumper-let-pirates-share-game-for-free-immediately-following-release",
-   "score": 0,
-   "sources": 1,
-   "summary": "The Legend of Zelda: Ocarina of Time has reportedly been dumped on its Switch 2 launch day, with its original release and a 23GB update already circulating online.",
    "title_ar": ""
   },
   "tomshardware.com/video-games/pc-gaming/steam-store-adds-average-fps-data-so-you-can-see-game-performance-before-making-a-purchase-steam-deck-only-for-now-with-desktop-pc-support-planned": {
