@@ -10539,17 +10539,6 @@
    "summary": "The deal highlights the challenges of developing massive AI data centers.",
    "title_ar": ""
   },
-  "techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation": {
-   "at": "2026-11-06T23:00:44.345049+00:00",
-   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-   "score": 2,
-   "sources": 1,
-   "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-   "title_ar": "تقرير: OpenAI تجمع 11 مليار دولار إضافية بتقييم قدره 1.25 تريليون دولار"
-  },
   "techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era": {
    "at": "2026-11-07T05:15:27.617523+00:00",
    "title": "Sequoia shutting down its Scouts program marks the end of an era",
@@ -11253,6 +11242,17 @@
    "sources": 1,
    "summary": "Whoop is launching a social network that lets members share their sleep, recovery, and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at…",
    "title_ar": ""
+  },
+  "techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price": {
+   "at": "2026-11-13T23:15:30.320871+00:00",
+   "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+   "score": 1,
+   "sources": 1,
+   "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display.",
+   "title_ar": "جهاز Kindle Colorsoft الجديد من Amazon هو قارئ إلكتروني فاخر بسعر مرتفع"
   },
   "techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you": {
    "at": "2026-11-13T16:30:38.946330+00:00",
@@ -13514,7 +13514,7 @@
   "AI": "2026-11-13T20:27:55.837463+00:00",
   "Anime": "2026-11-13T22:00:43.136599+00:00",
   "Games": "2026-11-13T23:00:42.613050+00:00",
-  "Tech": "2026-11-13T22:45:29.345492+00:00"
+  "Tech": "2026-11-13T23:15:30.320871+00:00"
  },
  "digest_day": "2026-11-13",
  "weekly_day": "2026-11-13"
