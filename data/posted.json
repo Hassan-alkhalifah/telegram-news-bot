@@ -12,17 +12,6 @@
    "summary": "Following a pre-order date announcement earlier this week, Google’s other Android XR launch partner has now confirmed a December release date for this first batch of glasses. more…",
    "title_ar": ""
   },
-  "9to5google.com/2026/11/06/google-antigravity-remote-agents-voice-mode": {
-   "at": "2026-11-06T22:30:38.292327+00:00",
-   "title": "Big Google Antigravity update brings Remote Agents, Voice Mode, and redesign",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/06/google-antigravity-remote-agents-voice-mode/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Google is rolling out a big update to Antigravity this week that features a new design, Voice Mode, and Remote Agents. more…",
-   "title_ar": "تحديث كبير لـ Google Antigravity يجلب وكلاء عن بُعد، ووضعاً صوتياً، وتصميماً جديداً"
-  },
   "9to5google.com/2026/11/06/google-nest-doorbell-live-view-broken-reports": {
    "at": "2026-11-06T23:30:35.166907+00:00",
    "title": "Google’s original Nest Doorbell is broken for many right now",
@@ -1441,6 +1430,17 @@
    "sources": 1,
    "summary": "Jensen Huang is out as CEO of NVIDIA after reported love affairs with an alleged Chinese spy and a high-ranking executive at the company.",
    "title_ar": ""
+  },
+  "9to5mac.com/2026/11/13/apple-details-homeview-facial-recognition-repair-options-and-more-in-new-support-guides": {
+   "at": "2026-11-13T22:45:29.345492+00:00",
+   "title": "Apple details HomeView facial recognition, repair options, and more in new support guides",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/13/apple-details-homeview-facial-recognition-repair-options-and-more-in-new-support-guides/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Coinciding with the launch of Apple HomeView, the company has been updating its support website with new guides covering everything from facial recognition and user profiles to troubleshooting and…",
+   "title_ar": "أبل تفصل ميزة التعرف على الوجه HomeView خيارات الإصلاح والمزيد في أدلة دعم جديدة"
   },
   "9to5mac.com/2026/11/13/apple-homes-new-video-doorbell-smart-cameras-now-available-to-order": {
    "at": "2026-11-13T15:15:31.737336+00:00",
@@ -6414,17 +6414,6 @@
    "summary": "Bethesda has issued an official response to fans expecting a major announcement for The Elder Scrolls VI: Sentinel at some point today.",
    "title_ar": ""
   },
-  "ign.com/articles/canadian-politician-petitions-government-to-help-bioware-buy-its-way-from-under-ea": {
-   "at": "2026-11-06T22:30:38.292327+00:00",
-   "title": "Canadian Politician Petitions Government to Help BioWare Buy Its Way From Under EA",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/canadian-politician-petitions-government-to-help-bioware-buy-its-way-from-under-ea",
-   "score": 0,
-   "sources": 1,
-   "summary": "A Canadian politician has started an official government petition to save Mass Effect developer BioWare.",
-   "title_ar": ""
-  },
   "ign.com/articles/cd-projekt-red-used-ai-to-alter-geralts-voice-due-to-polish-actors-health-issues": {
    "at": "2026-11-12T00:15:31.185032+00:00",
    "title": "CD Projekt Red Used AI to Alter Geralt's Voice Due to Polish Actor's Health Issues",
@@ -6622,17 +6611,6 @@
    "sources": 1,
    "summary": "GTA 6 preloads are live for those who live in New Zealand (or are pretending to live in New Zealand to play early) and fans are scanning the game files for new information.",
    "title_ar": "مع بدء التحميل المسبق لـ GTA 6، المعجبون يبحثون في البيانات لمحاولة الكشف عن معلومات غير معلنة قبل الإطلاق"
-  },
-  "ign.com/articles/gta-6-players-in-germany-can-legally-take-time-off-work-to-play-the-game-on-launch-but-theres-a-catch": {
-   "at": "2026-11-06T22:30:38.292327+00:00",
-   "title": "GTA 6 Players in Germany Can Legally Take Time Off Work to Play the Game on Launch, But There's a Catch",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/gta-6-players-in-germany-can-legally-take-time-off-work-to-play-the-game-on-launch-but-theres-a-catch",
-   "score": 0,
-   "sources": 1,
-   "summary": "Germany has a unique legal loophole that lets 60 employees take time off work to play GTA 6 without putting their jobs in jeopardy.",
-   "title_ar": ""
   },
   "ign.com/articles/gta-6-preload-now-trailer-includes-nearly-30-seconds-of-new-footage-swat-team-nightclub-dancing-and-more": {
    "at": "2026-11-10T21:45:29.608857+00:00",
@@ -11309,6 +11287,17 @@
    "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
    "title_ar": "شركات رأس المال المخاطر في إسرائيل ترى فرصة للمنافسين في أزمة Nvidia"
   },
+  "techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say": {
+   "at": "2026-11-13T22:45:29.345492+00:00",
+   "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nvidia poured tens of billions into AI startups under Huang.",
+   "title_ar": ""
+  },
   "techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis": {
    "at": "2026-11-13T13:15:29.919250+00:00",
    "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
@@ -13525,7 +13514,7 @@
   "AI": "2026-11-13T20:27:55.837463+00:00",
   "Anime": "2026-11-13T22:00:43.136599+00:00",
   "Games": "2026-11-13T22:30:35.279455+00:00",
-  "Tech": "2026-11-13T22:15:29.106798+00:00"
+  "Tech": "2026-11-13T22:45:29.345492+00:00"
  },
  "digest_day": "2026-11-13",
  "weekly_day": "2026-11-13"
