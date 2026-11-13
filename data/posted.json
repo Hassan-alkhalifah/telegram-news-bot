@@ -3631,17 +3631,6 @@
    "summary": "Over 670,000 units are being recalled in the US and Canada.",
    "title_ar": "Bose تستدعي بطاريات S1 Pro بسبب مخاطر الحريق وارتفاع الحرارة"
   },
-  "engadget.com/2308647/blue-origin-new-glenn-launch-delay-will-continue-into-2027": {
-   "at": "2026-11-06T00:30:42.287011+00:00",
-   "title": "Blue Origin's New Glenn launch delay will continue into 2027",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2308647/blue-origin-new-glenn-launch-delay-will-continue-into-2027/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Repairs have been slow after an explosion earlier this year.",
-   "title_ar": "تأخير إطلاق صاروخ New Glenn التابع لشركات Blue Origin سيستمر حتى عام 2027"
-  },
   "engadget.com/2308678/uber-is-launching-its-own-parking-reservation-service": {
    "at": "2026-11-09T17:30:42.253598+00:00",
    "title": "Uber is launching its own parking reservation service",
@@ -7074,17 +7063,6 @@
    "summary": "Sony is releasing a new model of the PlayStation Portal in Japan next month.",
    "title_ar": ""
   },
-  "ign.com/articles/spectrum-is-offering-free-internet-upgrades-so-people-can-download-gta-6-faster": {
-   "at": "2026-11-06T00:30:42.287011+00:00",
-   "title": "Spectrum Is Offering Free Internet Upgrades So People Can Download GTA 6 Faster",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/spectrum-is-offering-free-internet-upgrades-so-people-can-download-gta-6-faster",
-   "score": 0,
-   "sources": 1,
-   "summary": "Spectrum customers can get a free internet upgrade this month to download GTA 6 faster.",
-   "title_ar": ""
-  },
   "ign.com/articles/supper-mario-broth-health-condition": {
    "at": "2026-11-09T14:45:30.836506+00:00",
    "title": "Popular Nintendo Blogger Supper Mario Broth Says He May Only Have a Year to Live",
@@ -8062,6 +8040,17 @@
    "score": 3,
    "sources": 2,
    "summary": "Two new PS Plus titles have been revealed ahead of schedule by PlayStation themselves, thanks to a Japanese PS Blog.",
+   "title_ar": ""
+  },
+  "insider-gaming.com/wolfenstein-3-confirmed-xbox-asha-sharma": {
+   "at": "2026-11-13T00:45:29.533648+00:00",
+   "title": "Wolfenstein 3 Officially Confirmed by XBOX CEO Asha Sharma",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/wolfenstein-3-confirmed-xbox-asha-sharma/",
+   "score": 0,
+   "sources": 1,
+   "summary": "MachineGames is working on Wolfenstein 3, XBOX CEO Asha Sharma confirms, while teasing a small portion of the game's script.",
    "title_ar": ""
   },
   "insider-gaming.com/xbox-ceo-announces-10-year-take-two-partnership": {
@@ -9526,6 +9515,17 @@
    "sources": 1,
    "summary": "House House maintains gen-AI was not used anywhere else.",
    "title_ar": ""
+  },
+  "pcgamer.com/games/resident-evil/im-a-big-zach-cregger-fan-angela-santalbano-gushes-about-the-resident-evil-movie-and-likens-bryan-to-her-own-grace-ashcroft": {
+   "at": "2026-11-13T00:45:29.533648+00:00",
+   "title": "'I'm a big Zach Cregger fan': Angela Sant'Albano gushes about the Resident Evil movie and likens Bryan to her own Grace Ashcroft",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.pcgamer.com/games/resident-evil/im-a-big-zach-cregger-fan-angela-santalbano-gushes-about-the-resident-evil-movie-and-likens-bryan-to-her-own-grace-ashcroft/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Grace and Bryan—two peas in a very scared pod.",
+   "title_ar": "'أنا معجب كبير بـ Zach Cregger': Angela Sant'Albano تشيد بحماس بفيلم Resident Evil وتُشبه Bryan بشخصيتها Grace Ashcroft"
   },
   "pcgamer.com/games/rpg/new-4-minute-fable-gameplay-trailer-shows-a-game-that-doesnt-look-much-like-fable": {
    "at": "2026-11-12T23:00:38.483126+00:00",
@@ -13414,7 +13414,7 @@
  "topic_last_posted": {
   "AI": "2026-11-12T23:30:33.840937+00:00",
   "Anime": "2026-11-12T20:00:41.535054+00:00",
-  "Games": "2026-11-13T00:15:33.813675+00:00",
+  "Games": "2026-11-13T00:45:29.533648+00:00",
   "Tech": "2026-11-13T00:30:34.428371+00:00"
  },
  "digest_day": "2026-11-12",
