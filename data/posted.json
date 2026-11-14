@@ -3477,17 +3477,6 @@
    "summary": "Cable and fiber often win on performance, yet Starlink offers a distinct benefit that could matter more depending on how and why you connect.",
    "title_ar": "ميزة Starlink الوحيدة التي تمنحها الأفضلية على الإنترنت التقليدي"
   },
-  "engadget.com/2309562/iphone-built-in-creativity-app-should-use-freeform": {
-   "at": "2026-11-07T21:45:28.811367+00:00",
-   "title": "The built-in iPhone app for creativity you may be ignoring (but shouldn't)",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2309562/iphone-built-in-creativity-app-should-use-freeform/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Your iPhone has a built-in app for brainstorming and visual planning that can turn scattered screenshots, sketches and notes into something you can share.",
-   "title_ar": "تطبيق آيفون المدمج للإبداع الذي قد تتجاهله (ولكن يجب ألا تفعل)"
-  },
   "engadget.com/2309629/samsung-one-ui-remove-all-apps-button-get-back": {
    "at": "2026-11-08T21:45:30.117942+00:00",
    "title": "Samsung One UI removed the all apps button, but you can easily get it back",
@@ -3762,6 +3751,17 @@
    "sources": 1,
    "summary": "Meta is starting to sell 3D films too.",
    "title_ar": ""
+  },
+  "engadget.com/2312648/reasons-why-tv-soundbar-audio-delay": {
+   "at": "2026-11-14T22:00:40.719145+00:00",
+   "title": "The reasons why your TV soundbar has an audio delay",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2312648/reasons-why-tv-soundbar-audio-delay/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Audio delays are really irritating, especially when watching sports and live events.",
+   "title_ar": "أسباب تأخر الصوت في مكبر الصوت التلفزيوني الخاص بك"
   },
   "engadget.com/2312864/meta-warns-some-of-its-ai-glasses-may-get-too-warm-if-they-get-wet": {
    "at": "2026-11-10T23:00:47.097425+00:00",
@@ -8238,6 +8238,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Everybody will get to clock-out on November 19th",
+   "title_ar": ""
+  },
+  "kotaku.com/long-lost-self-deleting-pokemon-fishing-game-for-nintendo-ds-resurfaces-20-years-later-2000756876": {
+   "at": "2026-11-14T22:00:40.719145+00:00",
+   "title": "Long Lost Self-Deleting Pokémon Fishing Game For Nintendo DS Resurfaces 20 Years Later",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/long-lost-self-deleting-pokemon-fishing-game-for-nintendo-ds-resurfaces-20-years-later-2000756876",
+   "score": 0,
+   "sources": 1,
+   "summary": "PokéPark: Fishing Rally was only available at a Japanese theme park in 2005, with one collector now boasting what's believed to be the lone playable hard copy",
    "title_ar": ""
   },
   "kotaku.com/marvel-1943-has-not-been-canceled-despite-development-struggles-2000756025": {
@@ -13437,7 +13448,7 @@
   "AI": "2026-11-14T21:45:27.688039+00:00",
   "Anime": "2026-11-14T12:30:35.445498+00:00",
   "Games": "2026-11-14T20:15:30.522522+00:00",
-  "Tech": "2026-11-14T21:00:44.615668+00:00"
+  "Tech": "2026-11-14T22:00:40.719145+00:00"
  },
  "digest_day": "2026-11-14",
  "weekly_day": "2026-11-13"
