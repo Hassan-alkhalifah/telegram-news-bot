@@ -11309,6 +11309,17 @@
    "summary": "OpenAI co-founder Andrej Karpathy used Claude's Opus 5.5 to filter 43 million Hacker News comments into 6,454 curated videos.",
    "title_ar": "Andrej Karpathy يبني منصة فيديو منسقة في عطلة نهاية أسبوع باستخدام Claude و20 عاماً من Hacker News"
   },
+  "the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon": {
+   "at": "2026-11-14T11:30:34.617290+00:00",
+   "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Former OpenAI and Anthropic researcher Jacob Coxon points to a slide from Anthropic's IPO roadshow as a reason he left, saying it shows the company's algorithms are improving not just quickly but at…",
+   "title_ar": "أنثروبيك تستطيع بالفعل إعادة تدريب Mythos \"جزء ضئيل من القدرة الحوسبية التي كانت محتاجة سابقاً\"، وفقاً للباحث السابق كوكسون"
+  },
   "the-decoder.com/anthropic-kicks-off-ipo-roadshow-offering-shares-at-70-to-78-and-targeting-a-trillion-dollar-valuation": {
    "at": "2026-11-10T12:15:31.799158+00:00",
    "title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
@@ -13456,7 +13467,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-13T20:27:55.837463+00:00",
+  "AI": "2026-11-14T11:30:34.617290+00:00",
   "Anime": "2026-11-14T09:15:40.061910+00:00",
   "Games": "2026-11-14T06:45:27.419084+00:00",
   "Tech": "2026-11-14T11:15:31.021326+00:00"
