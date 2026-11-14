@@ -10429,17 +10429,6 @@
    "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
    "title_ar": "بعد انتخابات التجديد النصفى، تبدو الأمور مضطربة بالنسبة لـ Elon Musk ومراكز البيانات"
   },
-  "techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo": {
-   "at": "2026-11-07T21:30:38.093896+00:00",
-   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-   "score": 0,
-   "sources": 1,
-   "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-   "title_ar": ""
-  },
   "techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50": {
    "at": "2026-11-09T05:30:38.490413+00:00",
    "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
@@ -11209,6 +11198,17 @@
    "sources": 1,
    "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
    "title_ar": ""
+  },
+  "techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang": {
+   "at": "2026-11-14T21:45:27.688039+00:00",
+   "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+   "score": 1,
+   "sources": 1,
+   "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+   "title_ar": "إيلون ماسك ومديرو تنفيذيون آخرون في قطاع التكنولوجيا يوقعون عريضة تطالب Nvidia بإعادة Jensen Huang"
   },
   "techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use": {
    "at": "2026-11-14T18:00:43.225019+00:00",
@@ -13434,7 +13434,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-14T19:15:26.332330+00:00",
+  "AI": "2026-11-14T21:45:27.688039+00:00",
   "Anime": "2026-11-14T12:30:35.445498+00:00",
   "Games": "2026-11-14T20:15:30.522522+00:00",
   "Tech": "2026-11-14T21:00:44.615668+00:00"
