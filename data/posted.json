@@ -12706,6 +12706,17 @@
    "summary": "The offices for New Matrix and Maginfra, both approved to receive H200 chips, appear abandoned, and people in the buildings say they're unfamiliar with the companies or have never seen anyone…",
    "title_ar": ""
   },
+  "tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that": {
+   "at": "2026-11-14T15:45:26.431480+00:00",
+   "title": "U.S. Treasury Secretary questions whether Nvidia knowingly sold AI GPUs to shell companies, says company itself is responsible — ‘I think it is important that anyone at the company there be held accountable for that’",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that",
+   "score": 1,
+   "sources": 1,
+   "summary": "Scott Bessent wonders whether Nvidia's management knew about selling restricted hardware to shell companies, but does not directly blame Jensen Huang of anything.",
+   "title_ar": "وزيرة الخزانة الأمريكية تتساءل عما إذا كانت Nvidia قد باعت وحدات معالجة الرسوميات الخاصة بالذكاء الاصطناعي لشركات وهمية عن علم، وتقول إن الشركة نفسها مسؤولة - \"أعتقد أنه من المهم أن يُحاسب أي شخص في الشركة على ذلك\""
+  },
   "tomshardware.com/tech-industry/big-tech/law-firm-files-class-action-lawsuit-against-nvidia-after-ceo-jensen-huang-confirms-affair-with-alleged-chinese-spy-more-to-come-as-multiple-other-law-firms-investigate-securities-fraud-following-stock-drop": {
    "at": "2026-11-10T00:15:31.996768+00:00",
    "title": "Law firm files class-action lawsuit against Nvidia after CEO Jensen Huang confirms affair with alleged Chinese spy",
@@ -13536,7 +13547,7 @@
   "AI": "2026-11-14T11:45:27.095016+00:00",
   "Anime": "2026-11-14T12:30:35.445498+00:00",
   "Games": "2026-11-14T06:45:27.419084+00:00",
-  "Tech": "2026-11-14T14:29:57.114717+00:00"
+  "Tech": "2026-11-14T15:45:26.431480+00:00"
  },
  "digest_day": "2026-11-13",
  "weekly_day": "2026-11-13"
