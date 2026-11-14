@@ -4082,6 +4082,17 @@
    "summary": "This is for spending analysis and not for making purchases.",
    "title_ar": "Google يتيح الآن للمستخدمين ربط Gemini بحساباتهم المصرفية"
   },
+  "engadget.com/2316792/faa-flights-resume-ground-stop-old-equipment": {
+   "at": "2026-11-14T06:45:27.419084+00:00",
+   "title": "FAA allows flights to resume after hours-long ground stop across the US",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2316792/faa-flights-resume-ground-stop-old-equipment/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The FAA grounded flights for hours on November 13, and the transportation secretary blamed it on old and malfunctioning air traffic control system.",
+   "title_ar": ""
+  },
   "eurogamer.net/assassins-creed-mars-ancient-rome-pocket-mobile-jerusalem-rumour": {
    "at": "2026-11-07T19:30:37.184718+00:00",
    "title": "Assassin's Creed is reportedly going to ancient Rome, while a mobile spin-off heads to Jerusalem",
@@ -8349,6 +8360,17 @@
    "sources": 1,
    "summary": "The 'New Media' listing for a Mega Man Legends project has mysteriously disappeared after being spotted on ACTRA Toronto's 'What’s Shooting' page",
    "title_ar": ""
+  },
+  "kotaku.com/microsoft-on-faa-ground-stop-it-wasnt-me-2000756749": {
+   "at": "2026-11-14T06:45:27.419084+00:00",
+   "title": "Microsoft On FAA Ground Stop: It Wasn’t Me",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://kotaku.com/microsoft-on-faa-ground-stop-it-wasnt-me-2000756749",
+   "score": 2,
+   "sources": 2,
+   "summary": "The cause is still unknown",
+   "title_ar": "ميليشيا إكس بوكس بشأن تعليق رحلات إدارة الطيران الفيدرالية: لست أنا"
   },
   "kotaku.com/nba-2k27-sold-less-than-expected-because-of-gta-6-2000755174": {
    "at": "2026-11-09T23:15:28.478010+00:00",
@@ -13502,7 +13524,7 @@
  "topic_last_posted": {
   "AI": "2026-11-13T20:27:55.837463+00:00",
   "Anime": "2026-11-14T01:00:23.051746+00:00",
-  "Games": "2026-11-14T01:00:23.051746+00:00",
+  "Games": "2026-11-14T06:45:27.419084+00:00",
   "Tech": "2026-11-14T02:45:27.709093+00:00"
  },
  "digest_day": "2026-11-13",
