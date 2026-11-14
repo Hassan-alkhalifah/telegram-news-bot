@@ -12,17 +12,6 @@
    "summary": "In addition to the new app icon , Google Messages for Android is testing a big homepage redesign that has three core components. more…",
    "title_ar": "إعادة تصميم الصفحة الرئيسية لـ Google Messages: صور رمزية للمحادثات المثبتة، شريط بحث في الأسفل، وزر Gemini في الزاوية"
   },
-  "9to5google.com/2026/11/07/oppo-reportedly-cancels-find-x10-ultra-thanks-to-ramageddon": {
-   "at": "2026-11-07T12:30:40.014275+00:00",
-   "title": "Oppo reportedly cancels Find X10 Ultra thanks to RAMageddon",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5google.com/2026/11/07/oppo-reportedly-cancels-find-x10-ultra-thanks-to-ramageddon/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The Oppo Find X9 Ultra was my favorite new phone of 2026 but, thanks to RAMageddon, the company is apparently canceling its sequel. more…",
-   "title_ar": ""
-  },
   "9to5google.com/2026/11/09/android-auto-minimum-requirements-android-11": {
    "at": "2026-11-09T14:30:39.343926+00:00",
    "title": "Android Auto cutting off older devices, now requires Android 11 or newer",
@@ -3223,6 +3212,17 @@
    "sources": 1,
    "summary": "Asahi Production continues to produce the animation",
    "title_ar": "أنمي Gushing Over Magical Girls يوكد موسمه الثاني في عرض مرئي جديد لعام 2027"
+  },
+  "crunchyroll.com/news/latest/2026/11/14/please-excuse-my-younger-brothers-cour-2-anime-opening-song-collab-music-video-neguse": {
+   "at": "2026-11-14T12:45:29.756348+00:00",
+   "title": "Neguse. Shares Please Excuse My Younger Brothers Cour 2 Anime Opening Song Collab Music Video",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://crunchyroll.com/news/latest/2026/11/14/please-excuse-my-younger-brothers-cour-2-anime-opening-song-collab-music-video-neguse",
+   "score": 0,
+   "sources": 1,
+   "summary": "The rom-com series is available on Crunchyroll",
+   "title_ar": ""
   },
   "crunchyroll.com/news/latest/2026/11/14/re-zero-starting-life-in-another-world-season-5-anime-announced-ultra-teaser-visual": {
    "at": "2026-11-14T12:15:29.017001+00:00",
@@ -11738,17 +11738,6 @@
    "summary": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation.",
    "title_ar": "شركات الوساطة الأمريكية للبيانات تبيع بيئات تدريب للذكاء الاصطناعي بقيمة نصف مليار دولار لمختبرات صينية"
   },
-  "theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development": {
-   "at": "2026-11-07T12:30:40.014275+00:00",
-   "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-   "score": 1,
-   "sources": 1,
-   "summary": "Anthropic is using AI to build more powerful AI.",
-   "title_ar": "لماذا يثير تقرير جديد حول أتمتة Anthropic لتطوير الذكاء الاصطناعي قلق الباحثين"
-  },
   "theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government": {
    "at": "2026-11-07T16:00:43.048411+00:00",
    "title": "The US let Nvidia sell chips to an empty office in China",
@@ -12595,17 +12584,6 @@
    "sources": 1,
    "summary": "Secretlab now sells its wares inside Best Buy and in a dedicated store in LA.",
    "title_ar": "شركة Secretlab الشهيرة لصناعة الكراسي والمكاتب المخصصة للألعاب تطلق متاجر فعلية مخصصة لها في الولايات المتحدة - متجر جديد في LA ومساحات داخل Best Buy"
-  },
-  "tomshardware.com/software/enthusiast-abandons-self-hosted-microsoft-exchange-after-27-years-moving-mailboxes-to-microsoft-365-replaces-final-on-premises-relay-with-postfix-starttls-and-lets-encrypt-certificates": {
-   "at": "2026-11-07T12:45:28.631638+00:00",
-   "title": "Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/software/enthusiast-abandons-self-hosted-microsoft-exchange-after-27-years-moving-mailboxes-to-microsoft-365-replaces-final-on-premises-relay-with-postfix-starttls-and-lets-encrypt-certificates",
-   "score": 1,
-   "sources": 1,
-   "summary": "A homelab enthusiast is retiring a Microsoft Exchange installation that began with Exchange 5.5 on Windows NT 4 in 1999.",
-   "title_ar": "متحمس يتخلى عن خادم Microsoft Exchange الذاتي بعد 27 عاماً وينقل صناديق البريد إلى Microsoft 365"
   },
   "tomshardware.com/software/japanese-workers-return-to-fax-machines-during-ongoing-microsoft-365-outage-were-going-full-analog-say-workers-forced-to-ditch-pdfs": {
    "at": "2026-11-13T13:15:29.919250+00:00",
