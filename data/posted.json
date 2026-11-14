@@ -11309,6 +11309,17 @@
    "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use": {
+   "at": "2026-11-14T18:00:43.225019+00:00",
+   "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+   "score": 1,
+   "sources": 1,
+   "summary": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
+   "title_ar": "هل تمتلك هاتف iPhone Duo؟ هذه الإعدادات الـ 9 تجعل استخدامه أسهل"
+  },
   "technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking": {
    "at": "2026-11-12T21:15:29.818668+00:00",
    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
@@ -11352,17 +11363,6 @@
    "sources": 1,
    "summary": "Anthropic is kicking off its IPO roadshow, targeting a valuation of up to $1.02 trillion.",
    "title_ar": "Anthropic تبدأ جولة الترويج للاكتتاب العام، مع طرح الأسهم بسعر يتراوح بين 70 و78 دولاراً واستهداف تقييم بقيمة تريليون دولار"
-  },
-  "the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation": {
-   "at": "2026-11-07T17:45:27.763827+00:00",
-   "title": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Despite the tech selloff, Anthropic is pressing ahead with its IPO at a valuation of $1.25 to $1.75 trillion, well below the hoped-for $2 trillion.",
-   "title_ar": ""
   },
   "the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days": {
    "at": "2026-11-11T14:45:30.134021+00:00",
@@ -13514,8 +13514,8 @@
   "AI": "2026-11-14T17:00:44.007123+00:00",
   "Anime": "2026-11-14T12:30:35.445498+00:00",
   "Games": "2026-11-14T06:45:27.419084+00:00",
-  "Tech": "2026-11-14T17:45:27.416616+00:00"
+  "Tech": "2026-11-14T18:00:43.225019+00:00"
  },
- "digest_day": "2026-11-13",
+ "digest_day": "2026-11-14",
  "weekly_day": "2026-11-13"
 }
