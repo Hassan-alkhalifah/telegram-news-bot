@@ -11287,6 +11287,17 @@
    "summary": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
    "title_ar": "أوبر تؤكد سرقة معلومات رخص قيادة آلاف السائقين في خرق بيانات"
   },
+  "techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit": {
+   "at": "2026-11-14T16:45:29.083433+00:00",
+   "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+   "title_ar": ""
+  },
   "technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking": {
    "at": "2026-11-12T21:15:29.818668+00:00",
    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
@@ -11352,6 +11363,17 @@
    "sources": 1,
    "summary": "Anthropic claims it used AI itself to breach Nvidia's CUDA moat.",
    "title_ar": "Anthropic تقول إن الذكاء الاصطناعي يضعف هيمنة Nvidia على CUDA ويقلص وقت التحول إلى شحنات AMD من أشهر إلى ثلاثة أيام"
+  },
+  "the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5": {
+   "at": "2026-11-14T16:45:29.083433+00:00",
+   "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits.",
+   "title_ar": "Anthropic تقول إن عادات كتابة التوجيهات القديمة تبطئ نموذج Claude Opus 5.5"
   },
   "the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes": {
    "at": "2026-11-10T23:45:31.690095+00:00",
@@ -13467,7 +13489,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-14T11:45:27.095016+00:00",
+  "AI": "2026-11-14T16:45:29.083433+00:00",
   "Anime": "2026-11-14T12:30:35.445498+00:00",
   "Games": "2026-11-14T06:45:27.419084+00:00",
   "Tech": "2026-11-14T16:15:33.058886+00:00"
