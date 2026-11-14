@@ -3587,6 +3587,17 @@
    "summary": "There's a checkbox that simply turns it off.",
    "title_ar": "نظام Windows 11 يضيف أخيرًا طريقة أسهل لتفعيل أو تعطيل نافذة Sticky Keys المنبثقة"
   },
+  "engadget.com/2311447/google-maps-circled-z-meaning": {
+   "at": "2026-11-14T16:15:33.058886+00:00",
+   "title": "What the circled \"Z\" on Google Maps means",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2311447/google-maps-circled-z-meaning/",
+   "score": 1,
+   "sources": 1,
+   "summary": "If you've seen a circled capital Z on your Google Maps route, you should know what it means.",
+   "title_ar": "ماذا يعني رمز الحرف Z المحاط ببائرة في خريطة جوجل"
+  },
   "engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio": {
    "at": "2026-11-09T21:15:29.504407+00:00",
    "title": "Apple starts offering $50 extended usage packs for AI features in Creator Studio",
@@ -5764,17 +5775,6 @@
    "sources": 1,
    "summary": "Google Wallet is now on the list of apps you can connect to Personal Intelligence in Gemini, joining the likes of Gmail, Photos, YouTube, and Search.",
    "title_ar": "تطبيق Gemini يمكنه الآن الاطلاع على مشترياتك في Google Wallet لمساعدتك في وضع الميزانية"
-  },
-  "gsmarena.com/google_to_add_vocabulary_for_corrected_words_to_gboards_rambler_voice_typing_feature-news-75397.php": {
-   "at": "2026-11-07T16:15:27.785969+00:00",
-   "title": "Google to add vocabulary for corrected words to Gboard's Rambler voice typing feature",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.gsmarena.com/google_to_add_vocabulary_for_corrected_words_to_gboards_rambler_voice_typing_feature-news-75397.php",
-   "score": 1,
-   "sources": 1,
-   "summary": "Android Authority app teardown reveals some cool new features coming to Gboard's AI-powered voice typing feature called Rambler.",
-   "title_ar": "جوجل ستضيف مفردات الكلمات المُصَحَّحَة إلى ميزة الكتابة الصوتية Rambler في لوحة المفاتيح Gboard"
   },
   "gsmarena.com/googles_november_pixel_drop_brings_gemini_intelligence_to_the_pixel_10-news-75430.php": {
    "at": "2026-11-11T03:45:34.849127+00:00",
@@ -13481,7 +13481,7 @@
   "AI": "2026-11-14T11:45:27.095016+00:00",
   "Anime": "2026-11-14T12:30:35.445498+00:00",
   "Games": "2026-11-14T06:45:27.419084+00:00",
-  "Tech": "2026-11-14T15:45:26.431480+00:00"
+  "Tech": "2026-11-14T16:15:33.058886+00:00"
  },
  "digest_day": "2026-11-13",
  "weekly_day": "2026-11-13"
