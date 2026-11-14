@@ -6227,17 +6227,6 @@
    "summary": "The latest WhatsApp beta (build 2.26.45.5) reveals a new look for the navigation bar.",
    "title_ar": "واتساب يجلب شريط تنقل شفافاً إلى تطبيقه على أندرويد"
   },
-  "gsmarena.com/whatsapp_phone_number_privacy_feature_development-news-75395.php": {
-   "at": "2026-11-07T11:15:27.620497+00:00",
-   "title": "WhatsApp is testing a feature that lets you control who sees your phone number",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.gsmarena.com/whatsapp_phone_number_privacy_feature_development-news-75395.php",
-   "score": 1,
-   "sources": 1,
-   "summary": "WhatsApp introduced the Username feature in June.",
-   "title_ar": "واتساب تختبر ميزة تتيح لك التحكم في من يرى رقم هاتفك"
-  },
   "gsmarena.com/whatsapp_view_once_text_message_android_beta_users-news-75450.php": {
    "at": "2026-11-12T10:15:00.580684+00:00",
    "title": "WhatsApp's 'View Once' text messages feature is now available to beta users on Android",
@@ -12541,6 +12530,17 @@
    "summary": "Japanese workers are breaking out fax machines to deal with Microsoft's 365 outage.",
    "title_ar": ""
   },
+  "tomshardware.com/software/linux/nearly-20-years-after-launch-ancient-radeon-hd-2000-and-3000-gpus-finally-get-a-linux-fix-for-corrupted-video-playback-ai-helps-squash-a-decades-old-uvd-bug": {
+   "at": "2026-11-14T11:15:31.021326+00:00",
+   "title": "Nearly 20 years after launch, ancient AMD Radeon HD 2000 and 3000 GPUs finally get a Linux fix for corrupted video playback",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/software/linux/nearly-20-years-after-launch-ancient-radeon-hd-2000-and-3000-gpus-finally-get-a-linux-fix-for-corrupted-video-playback-ai-helps-squash-a-decades-old-uvd-bug",
+   "score": 2,
+   "sources": 1,
+   "summary": "A new kernel contributor used AI to develop a patch for the drivers powering his nearly-20-year-old Radeon GPU.",
+   "title_ar": "بعد نحو 20 عاماً من إطلاقها، بطاقات الرسوميات القديمة AMD Radeon HD 2000 و3000 تحصل أخيراً على إصلاح في نظام Linux لمشكلة تلف تشغيل الفيديو."
+  },
   "tomshardware.com/software/linux/the-end-of-an-era-as-linux-7-5-purges-the-last-30-year-old-intel-mmx-optimizations-from-pentium-age-open-source-os-retires-ancient-1997-pentium-instructions-to-streamline-code": {
    "at": "2026-11-08T14:45:30.299487+00:00",
    "title": "The end of an era as Linux 7.5 purges the last 30-year-old Intel MMX optimizations from Pentium age",
@@ -13459,7 +13459,7 @@
   "AI": "2026-11-13T20:27:55.837463+00:00",
   "Anime": "2026-11-14T09:15:40.061910+00:00",
   "Games": "2026-11-14T06:45:27.419084+00:00",
-  "Tech": "2026-11-14T02:45:27.709093+00:00"
+  "Tech": "2026-11-14T11:15:31.021326+00:00"
  },
  "digest_day": "2026-11-13",
  "weekly_day": "2026-11-13"
