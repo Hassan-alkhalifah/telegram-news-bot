@@ -1640,6 +1640,17 @@
    "summary": "Get Backers appears to be preparing for a new revival project, with a mysterious teaser recently shared on X and confirmed by the official YouTube channel.",
    "title_ar": "Get Backers تلمح لعودتها بفيديو غامض بعنوان الثنائي الأقوى دون الإعلان عن مشروع أنيما جديد"
   },
+  "animecorner.me/gushing-over-magical-girls-season-2-reveals-new-visual-trailer-2027-release-date": {
+   "at": "2026-11-14T10:00:46.067425+00:00",
+   "title": "Gushing Over Magical Girls Season 2 Reveals New Visual, Trailer, 2027 Release Date",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://animecorner.me/gushing-over-magical-girls-season-2-reveals-new-visual-trailer-2027-release-date/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Gushing Over Magical Girls Season 2 revealed a new visual and trailer that announce…",
+   "title_ar": ""
+  },
   "animecorner.me/mashle-season-3-reveals-first-main-trailer-and-new-key-visual-january-9-premiere": {
    "at": "2026-11-11T11:30:35.922528+00:00",
    "title": "Mashle Season 3 Reveals First Main Trailer and New Key Visual, January 9 Premiere",
@@ -2486,6 +2497,17 @@
    "sources": 1,
    "summary": "Story follows grand duke of family that has been afflicted by demonic curse for generations",
    "title_ar": "عرض المسرحية الموسيقية المقتبسة من الويب توون The Siren: Becoming the Villain's Family لأول مرة في سيول في 24 مارس 2027"
+  },
+  "animenewsnetwork.com/news/2026-11-14/gushing-over-magical-girls-anime-2nd-season-debuts-in-2027/.243812": {
+   "at": "2026-11-14T10:00:46.067425+00:00",
+   "title": "Gushing Over Magical Girls Anime's 2nd Season Debuts in 2027",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-14/gushing-over-magical-girls-anime-2nd-season-debuts-in-2027/.243812",
+   "score": 0,
+   "sources": 1,
+   "summary": "Returning cast, staff also revealed",
+   "title_ar": ""
   },
   "arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns": {
    "at": "2026-11-13T17:30:38.535994+00:00",
@@ -11518,17 +11540,6 @@
    "summary": "Google is expanding its TPU 8 family with two specialized variants: the TPU 8tx keeps sensitive data encrypted even during processing, while the TPU 8i Max doubles compute power and memory by…",
    "title_ar": "جوجل تشحن 4 أنواع من وحدات TPU في عام واحد مع تشتيتها للمنافسة مع Nvidia"
   },
-  "the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff": {
-   "at": "2026-11-07T10:00:43.593310+00:00",
-   "title": "Google's AI detects high blood pressure from a regular smartwatch without a cuff",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Google Research built an AI that spots signs of high blood pressure using only the pulse and motion sensors in a standard smartwatch, no cuff needed.",
-   "title_ar": "ذكاء اصطناعي من Google يكتشف ارتفاع ضغط الدم من ساعة ذكية عادية دون الحاجة إلى حزام ضغط"
-  },
   "the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch": {
    "at": "2026-11-12T20:00:41.535054+00:00",
    "title": "Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch",
@@ -11626,17 +11637,6 @@
    "score": 1,
    "sources": 1,
    "summary": "OpenAI has launched two security products under its Daybreak brand.",
-   "title_ar": ""
-  },
-  "the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital": {
-   "at": "2026-11-07T10:00:43.593310+00:00",
-   "title": "OpenAI lands an $11 billion funding round, but has to court dentists for more capital",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/",
-   "score": 0,
-   "sources": 1,
-   "summary": "OpenAI has secured $11 billion in fresh capital, the first tranche of a round that values the company at $1.25 trillion.",
    "title_ar": ""
   },
   "the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet": {
