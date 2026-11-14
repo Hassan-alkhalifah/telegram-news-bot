@@ -1,17 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/06/oppo-find-n7-global-launch-confirmed": {
-   "at": "2026-11-07T00:00:45.243854+00:00",
-   "title": "Oppo confirms its next foldable will actually know what a ‘global’ release is",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/06/oppo-find-n7-global-launch-confirmed/",
-   "score": 1,
-   "sources": 1,
-   "summary": "The Oppo Find N6 is a stunning foldable but, for the second year in a row, it really stretches the definition of what a “global” release means.",
-   "title_ar": "Oppo تؤكد أن هاتفها القابل للطي القادم سيحظى بإطلاق عالمي حقاً"
-  },
   "9to5google.com/2026/11/07/google-messages-pinned-chats-redesign": {
    "at": "2026-11-07T23:15:33.388397+00:00",
    "title": "Google Messages homepage redesign: Pinned chat avatars, bottom search, corner Gemini",
@@ -7921,17 +7910,6 @@
    "summary": "PlayStation has canceled Fairgames, the Haven Studios' live-service shooter, following disappointing player feedback and retention results.",
    "title_ar": "سوني تلغي لعبة Fairgames، شوتر الخدمة الحية من PlayStation"
   },
-  "insider-gaming.com/stranger-than-heaven-netflix-adaptation": {
-   "at": "2026-11-07T00:00:45.243854+00:00",
-   "title": "Sega Plans Stranger Than Heaven Live-Action Adaptation at Netflix",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/stranger-than-heaven-netflix-adaptation/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Sega has announced plans to develop a live-action adaptation of Stranger Than Heaven before the game is even released.",
-   "title_ar": ""
-  },
   "insider-gaming.com/take-two-ceo-gta-7-development": {
    "at": "2026-11-10T00:00:44.607533+00:00",
    "title": "GTA 7 Won’t Take as Long as GTA 6, Says Take-Two CEO",
@@ -9570,6 +9548,17 @@
    "sources": 1,
    "summary": "Jacek Rozenek was the voice of Geralt in all previous Polish-language Witcher releases, and CD Projekt wanted to work with him again—but his voice is no longer a match.",
    "title_ar": ""
+  },
+  "pcgamer.com/games/third-person-shooter/season-10-has-been-a-challenging-one-for-us-marvel-rivals-is-upgrading-storms-summer-skin-after-favouritism-complaints": {
+   "at": "2026-11-14T00:00:51.803497+00:00",
+   "title": "'Season 10 has been a challenging one for us': Marvel Rivals is upgrading Storm's summer skin after favouritism complaints",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.pcgamer.com/games/third-person-shooter/season-10-has-been-a-challenging-one-for-us-marvel-rivals-is-upgrading-storms-summer-skin-after-favouritism-complaints/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Storm's reworked legendary skin will be here for Christmas.",
+   "title_ar": "\"الموسم العاشر كان تحدياً بالنسبة لنا\": Marvel Rivals تحدث مظهر Storm الصيفي بعد شكاوى من المحاباة"
   },
   "pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-bumps-dungeon-xp-from-monsters-by-50-percent-after-some-community-feedback-i-will-diplomatically-call-passionate": {
    "at": "2026-11-09T20:15:41.150972+00:00",
@@ -11705,17 +11694,6 @@
    "summary": "Anthropic is using AI to build more powerful AI.",
    "title_ar": "لماذا يثير تقرير جديد حول أتمتة Anthropic لتطوير الذكاء الاصطناعي قلق الباحثين"
   },
-  "theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation": {
-   "at": "2026-11-07T00:00:45.243854+00:00",
-   "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-   "score": 0,
-   "sources": 1,
-   "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg.",
-   "title_ar": ""
-  },
   "theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government": {
    "at": "2026-11-07T16:00:43.048411+00:00",
    "title": "The US let Nvidia sell chips to an empty office in China",
@@ -13491,7 +13469,7 @@
  "topic_last_posted": {
   "AI": "2026-11-13T20:27:55.837463+00:00",
   "Anime": "2026-11-13T22:00:43.136599+00:00",
-  "Games": "2026-11-13T23:30:36.514115+00:00",
+  "Games": "2026-11-14T00:00:51.803497+00:00",
   "Tech": "2026-11-13T23:45:27.959069+00:00"
  },
  "digest_day": "2026-11-13",
