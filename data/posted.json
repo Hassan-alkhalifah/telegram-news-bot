@@ -9461,17 +9461,6 @@
    "summary": "Maybe it's just me.",
    "title_ar": ""
   },
-  "pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb": {
-   "at": "2026-11-07T11:30:38.939806+00:00",
-   "title": "Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Square Enix is 'working to resolve the issue'.",
-   "title_ar": ""
-  },
   "pcgamer.com/games/rpg/warhammer-40k-rogue-trader-follow-up-dark-heresy-will-launch-at-the-end-of-january": {
    "at": "2026-11-09T17:15:30.058156+00:00",
    "title": "Warhammer 40K: Rogue Trader follow-up Dark Heresy will launch at the end of January",
@@ -11617,6 +11606,17 @@
    "summary": "OpenAI has launched two security products under its Daybreak brand.",
    "title_ar": ""
   },
+  "the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary": {
+   "at": "2026-11-14T11:45:27.095016+00:00",
+   "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
+   "score": 1,
+   "sources": 1,
+   "summary": "OpenAI is dissolving its standalone robotics team for the second time, but not because it lacks data.",
+   "title_ar": "OpenAI تعيد تعيين باحثي الروبوتات في فرق أخرى نظراً لأن النماذج العامة قد تجعل الذكاء الاصطناعي المتخصص في الروبوتات غير ضروري"
+  },
   "the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet": {
    "at": "2026-11-13T19:00:44.623605+00:00",
    "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
@@ -13467,7 +13467,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-14T11:30:34.617290+00:00",
+  "AI": "2026-11-14T11:45:27.095016+00:00",
   "Anime": "2026-11-14T09:15:40.061910+00:00",
   "Games": "2026-11-14T06:45:27.419084+00:00",
   "Tech": "2026-11-14T11:15:31.021326+00:00"
