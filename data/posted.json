@@ -3213,6 +3213,17 @@
    "summary": "Asahi Production continues to produce the animation",
    "title_ar": "أنمي Gushing Over Magical Girls يوكد موسمه الثاني في عرض مرئي جديد لعام 2027"
   },
+  "crunchyroll.com/news/latest/2026/11/14/love-live-hasunosora-jyogakuin-school-idol-club-trailer-tv-anime-footage": {
+   "at": "2026-11-14T15:00:41.934290+00:00",
+   "title": "Love Live! Hasunosora Jyogakuin School Idol Club Trailer Shows Off New TV Anime Footage",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://crunchyroll.com/news/latest/2026/11/14/love-live-hasunosora-jyogakuin-school-idol-club-trailer-tv-anime-footage",
+   "score": 0,
+   "sources": 1,
+   "summary": "TV anime version premieres in Japan on January 10",
+   "title_ar": ""
+  },
   "crunchyroll.com/news/latest/2026/11/14/please-excuse-my-younger-brothers-cour-2-anime-opening-song-collab-music-video-neguse": {
    "at": "2026-11-14T12:45:29.756348+00:00",
    "title": "Neguse. Shares Please Excuse My Younger Brothers Cour 2 Anime Opening Song Collab Music Video",
@@ -3377,17 +3388,6 @@
    "sources": 1,
    "summary": "Test your anime knowledge with our latest puzzle collection!",
    "title_ar": "أخبار Crunchyroll: ألغاز الإصدار 80: اختبار حدود المدينه والقائد الأسطوري"
-  },
-  "engadget.com/2304963/samsung-galaxy-s26-users-accessory-take-advantage-of": {
-   "at": "2026-11-07T14:45:30.367174+00:00",
-   "title": "The accessory Samsung Galaxy S26 users should be taking advantage of",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2304963/samsung-galaxy-s26-users-accessory-take-advantage-of/",
-   "score": 1,
-   "sources": 1,
-   "summary": "There's a lot to like about Samsung's Galaxy S26 phones, especially the S26 Ultra, but some users may not be taking full advantage of what they have to offer.",
-   "title_ar": "الكسسوار الذي يجب على مستخدمي Samsung Galaxy S26 الاستفادة منه"
   },
   "engadget.com/2305273/apple-products-features-transformed-under-tim-cook-leadership": {
    "at": "2026-11-09T00:30:44.403677+00:00",
@@ -9494,6 +9494,17 @@
    "summary": "Pre-orders for GTA 6 are still \"unprecedented,\" says the publisher.",
    "title_ar": ""
   },
+  "pcgamer.com/games/halo/halo-campaign-evolved-is-getting-firefight-as-a-free-update-though-im-not-sure-itll-do-much-to-change-the-remakes-fortunes": {
+   "at": "2026-11-14T15:00:41.934290+00:00",
+   "title": "Halo: Campaign Evolved is getting Firefight as a free update, though I'm not sure it'll do much to change the remake's fortunes",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/games/halo/halo-campaign-evolved-is-getting-firefight-as-a-free-update-though-im-not-sure-itll-do-much-to-change-the-remakes-fortunes/",
+   "score": 0,
+   "sources": 1,
+   "summary": "More info to be announced at Halo Fest in December.",
+   "title_ar": ""
+  },
   "pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-releases-his-re-scored-trailer-for-n7-day-my-way-of-saying-goodbye-at-least-for-now": {
    "at": "2026-11-07T15:15:27.383532+00:00",
    "title": "Mass Effect composer Sam Hulick releases his 're-scored' trailer for N7 Day, 'my way of saying goodbye… at least for now'",
@@ -12682,6 +12693,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Top analyst firm SemiAnalysis says it has tracked staggering 1.5 gigawatts of banned AI accelerators flowing into China.",
+   "title_ar": ""
+  },
+  "tomshardware.com/tech-industry/artificial-intelligence/researchers-allege-deepseek-kimi-and-other-chinese-ai-models-were-trained-on-export-controlled-nvidia-blackwell-chips-statistical-analysis-on-model-weights-reveals-high-correlation-to-nvidia-hardware": {
+   "at": "2026-11-14T15:00:41.934290+00:00",
+   "title": "Researchers allege DeepSeek, Kimi, and other Chinese AI models were trained using banned Nvidia Blackwell GPUs",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-allege-deepseek-kimi-and-other-chinese-ai-models-were-trained-on-export-controlled-nvidia-blackwell-chips-statistical-analysis-on-model-weights-reveals-high-correlation-to-nvidia-hardware",
+   "score": 0,
+   "sources": 1,
+   "summary": "Researchers pinpoint that DeepSeek, Kimi, and other Chinese AI models were trained on export-controlled Nvidia Blackwell chips — statistical analysis on model weights reveals high correlation to…",
    "title_ar": ""
   },
   "tomshardware.com/tech-industry/artificial-intelligence/spacex-develops-its-own-kessel-rack-scale-system-featuring-72-nvidia-rubin-gpus-for-data-centers-in-space-report-claims-replaces-conventional-nvlink-cable-assemblies-with-a-massive-84-layer-printed-circuit-board": {
