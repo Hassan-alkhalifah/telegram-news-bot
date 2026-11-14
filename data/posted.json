@@ -3565,17 +3565,6 @@
    "summary": "HDDs may not be as in-demand as the faster SSDs, but they're still plenty popular thanks to their low cost.",
    "title_ar": "عينة تضم أكثر من 5000 قرص تخزين تكشف عن مشكلة واحدة في أقراص HDD الجديدة"
   },
-  "engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo": {
-   "at": "2026-11-07T14:15:32.171035+00:00",
-   "title": "China's main intelligence agency reportedly recruited the spy who targeted NVIDIA's CEO",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
-   "score": 1,
-   "sources": 1,
-   "summary": "The spy who targeted NVIDIA CEO Jensen Huang was reportedly a recruit by China's version of the CIA.",
-   "title_ar": "تقارير تفيد بأن وكالة الاستخبارات الرئيسية في الصين جندت الجاسوسة التي استهدفت الرئيس التنفيذي لـ NVIDIA"
-  },
   "engadget.com/2310114/apple-also-made-its-classical-music-apps-logo-black-and-white": {
    "at": "2026-11-07T17:30:35.881500+00:00",
    "title": "Apple also made its classical music app's logo black and white",
@@ -4071,6 +4060,17 @@
    "summary": "Finally, you can watch Avatar in 3D HFR at home.",
    "title_ar": ""
   },
+  "engadget.com/2316348/samsung-one-ui-9-5-feature-memory-app-from-pixel-playbook": {
+   "at": "2026-11-14T14:29:57.114717+00:00",
+   "title": "Samsung is taking a page out of Pixel's playbook with One UI 9.5",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2316348/samsung-one-ui-9-5-feature-memory-app-from-pixel-playbook/",
+   "score": 0,
+   "sources": 1,
+   "summary": "A riff on Google's Pixel Screenshots could pull together fragmented information from across your phone.",
+   "title_ar": ""
+  },
   "engadget.com/2316384/google-now-lets-people-connect-gemini-to-their-bank-accounts": {
    "at": "2026-11-13T21:30:39.667764+00:00",
    "title": "Google now lets people connect Gemini to their bank accounts",
@@ -4091,6 +4091,17 @@
    "score": 0,
    "sources": 1,
    "summary": "The FAA grounded flights for hours on November 13, and the transportation secretary blamed it on old and malfunctioning air traffic control system.",
+   "title_ar": ""
+  },
+  "engadget.com/2316848/tesla-starts-taking-cybercab-orders-for-personal-use": {
+   "at": "2026-11-14T14:29:57.114717+00:00",
+   "title": "Tesla starts taking Cybercab orders for personal use",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2316848/tesla-starts-taking-cybercab-orders-for-personal-use/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Tesla is sending select customers invitations to purchase the Cybercab for personal use.",
    "title_ar": ""
   },
   "eurogamer.net/assassins-creed-mars-ancient-rome-pocket-mobile-jerusalem-rumour": {
@@ -12376,6 +12387,17 @@
    "summary": "The Cybertruck is heading to that shiny cyber-dumpster in the sky, leaving the folks who built online identities around Elon Musk's polarizing pickup feeling bereft.",
    "title_ar": "\"نهاية تسلا!\": عشاق Cybertruck المخلصون ينقلبون على Elon Musk بعد قراره المفاجئ"
   },
+  "theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print": {
+   "at": "2026-11-14T14:29:57.114717+00:00",
+   "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+   "score": 3,
+   "sources": 2,
+   "summary": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded…",
+   "title_ar": "Tesla تدعو بعض الأشخاص لشراء Cybercab \"للاستخدام الشخصي\" - ولكن اقرأ التفاصيل الدقيقة"
+  },
   "tomshardware.com/3d-printing/prusa-launches-new-carbon-3d-printing-filament-for-electronics-manufacturing-carbon-fiber-and-carbon-nanotube-filled-material-dissipates-electrostatic-energy-for-static-sensitive-electronics": {
    "at": "2026-11-11T21:01:01.435634+00:00",
    "title": "Prusa launches new carbon-fiber and carbon-nanotube-filled 3D printing filament for electronics manufacturing",
@@ -13536,7 +13558,7 @@
   "AI": "2026-11-14T11:45:27.095016+00:00",
   "Anime": "2026-11-14T12:30:35.445498+00:00",
   "Games": "2026-11-14T06:45:27.419084+00:00",
-  "Tech": "2026-11-14T14:15:29.221119+00:00"
+  "Tech": "2026-11-14T14:29:57.114717+00:00"
  },
  "digest_day": "2026-11-13",
  "weekly_day": "2026-11-13"
