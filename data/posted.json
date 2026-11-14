@@ -4049,6 +4049,17 @@
    "summary": "Tesla is sending select customers invitations to purchase the Cybercab for personal use.",
    "title_ar": ""
   },
+  "engadget.com/2316881/uber-drivers-information-stolen-in-a-third-party-hack": {
+   "at": "2026-11-14T17:00:44.007123+00:00",
+   "title": "Uber drivers' information stolen in a third-party hack",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2316881/uber-drivers-information-stolen-in-a-third-party-hack/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Uber sends warning to drivers whose information was stolen in a data breach.",
+   "title_ar": ""
+  },
   "eurogamer.net/assassins-creed-mars-ancient-rome-pocket-mobile-jerusalem-rumour": {
    "at": "2026-11-07T19:30:37.184718+00:00",
    "title": "Assassin's Creed is reportedly going to ancient Rome, while a mobile spin-off heads to Jerusalem",
@@ -11485,6 +11496,17 @@
    "summary": "Google is making Gemini 4 Carbon generally available after a two-week testing phase.",
    "title_ar": "إطلاق Gemini 4 Carbon في الوقت المناسب ليبدو وكأنه أخبار الأمس في أسرع دورة نماذج حتى الآن"
   },
+  "the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol": {
+   "at": "2026-11-14T17:00:44.007123+00:00",
+   "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
+   "score": 1,
+   "sources": 1,
+   "summary": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark.",
+   "title_ar": "Gemini 4 Carbon يفوز بصدارة MathArena ولكنه يكلف 15 ضعفاً أكثر من GPT-6.1 Sol"
+  },
   "the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2": {
    "at": "2026-11-12T12:15:28.041339+00:00",
    "title": "Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2",
@@ -13489,7 +13511,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-14T16:45:29.083433+00:00",
+  "AI": "2026-11-14T17:00:44.007123+00:00",
   "Anime": "2026-11-14T12:30:35.445498+00:00",
   "Games": "2026-11-14T06:45:27.419084+00:00",
   "Tech": "2026-11-14T16:15:33.058886+00:00"
