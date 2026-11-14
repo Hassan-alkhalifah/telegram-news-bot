@@ -1530,6 +1530,17 @@
    "summary": "Today the new Apple TV 4K has arrived ( order here ) with Siri AI as a major tentpole feature.",
    "title_ar": "إطلاق تحديث tvOS 27.2.1 قريباً مع ميزة Siri AI لطرازات Apple TV 4K الأقدم"
   },
+  "9to5mac.com/2026/11/14/homeview-ambient-dark-mode-should-come-to-all-devices": {
+   "at": "2026-11-14T17:45:27.416616+00:00",
+   "title": "Here’s a HomeView feature that should come to every Apple device",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/14/homeview-ambient-dark-mode-should-come-to-all-devices/",
+   "score": 0,
+   "sources": 1,
+   "summary": "This week, Apple started shipping the HomeView , its first display made for the smart home.",
+   "title_ar": ""
+  },
   "animecorner.me/berserk-of-gluttony-season-2-reveals-teaser-visual-april-2027-release-date": {
    "at": "2026-11-11T09:00:44.632915+00:00",
    "title": "Berserk of Gluttony Season 2 Reveals Teaser Visual, April 2027 Release Date",
@@ -3499,17 +3510,6 @@
    "summary": "HDDs may not be as in-demand as the faster SSDs, but they're still plenty popular thanks to their low cost.",
    "title_ar": "عينة تضم أكثر من 5000 قرص تخزين تكشف عن مشكلة واحدة في أقراص HDD الجديدة"
   },
-  "engadget.com/2310114/apple-also-made-its-classical-music-apps-logo-black-and-white": {
-   "at": "2026-11-07T17:30:35.881500+00:00",
-   "title": "Apple also made its classical music app's logo black and white",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.engadget.com/2310114/apple-also-made-its-classical-music-apps-logo-black-and-white/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple Music Classical now has a black-and-white logo, as well.",
-   "title_ar": ""
-  },
   "engadget.com/2310316/suno-ai-music-generator-sued-again-for-copyright-infringement": {
    "at": "2026-11-08T20:30:37.478300+00:00",
    "title": "Suno AI music generator sued again for copyright infringement",
@@ -3630,6 +3630,17 @@
    "sources": 1,
    "summary": "You can also now listen to a DJ mix without the commentary.",
    "title_ar": ""
+  },
+  "engadget.com/2311763/samsung-one-ui-getting-rid-of-another-feature": {
+   "at": "2026-11-14T17:45:27.416616+00:00",
+   "title": "Samsung may be getting rid of another One UI feature",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2311763/samsung-one-ui-getting-rid-of-another-feature/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Samsung has discontinued Samsung Messages in favor of Google Messages in the US, and it looks like another One UI feature may suffer the same fate.",
+   "title_ar": "سامسونگ قد تتخلص من ميزة أخرى في واجهة One UI"
   },
   "engadget.com/2311778/apple-sign-language-interpretation-original-apple-tv-titles": {
    "at": "2026-11-10T16:15:34.950976+00:00",
@@ -10517,17 +10528,6 @@
    "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
    "title_ar": "بعد انتخابات التجديد النصفى، تبدو الأمور مضطربة بالنسبة لـ Elon Musk ومراكز البيانات"
   },
-  "techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack": {
-   "at": "2026-11-07T17:30:35.881500+00:00",
-   "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
-   "score": 1,
-   "sources": 1,
-   "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
-   "title_ar": "مستمالك المدير المالي لشركة Binance لمتابعة مشروع جديد بعد اختراق بقيمة 6.3 مليار دولار"
-  },
   "techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo": {
    "at": "2026-11-07T21:30:38.093896+00:00",
    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
@@ -13514,7 +13514,7 @@
   "AI": "2026-11-14T17:00:44.007123+00:00",
   "Anime": "2026-11-14T12:30:35.445498+00:00",
   "Games": "2026-11-14T06:45:27.419084+00:00",
-  "Tech": "2026-11-14T17:15:26.638188+00:00"
+  "Tech": "2026-11-14T17:45:27.416616+00:00"
  },
  "digest_day": "2026-11-13",
  "weekly_day": "2026-11-13"
