@@ -5754,15 +5754,15 @@
    "summary": "The Oppo Find X10 Ultra was recently reported to have been canceled, or at least put on hold.",
    "title_ar": "شاشة وكاميرات هاتف Oppo Find X10 Ultra الملغي قد تظهر في هاتف Find X11 Pro Max"
   },
-  "gsmarena.com/future_iphones_will_have_one_less_button_new_rumor_claims-news-75391.php": {
-   "at": "2026-11-07T00:15:30.284956+00:00",
-   "title": "Future iPhones will have one less button, new rumor claims",
+  "gsmarena.com/chatgpt_wallet_lets_openais_agents_buy_things_for_you-news-75481.php": {
+   "at": "2026-11-14T00:15:30.627039+00:00",
+   "title": "ChatGPT Wallet lets OpenAI's agents buy things for you",
    "topic": "Tech",
    "status": "duplicate",
-   "url": "https://www.gsmarena.com/future_iphones_will_have_one_less_button_new_rumor_claims-news-75391.php",
+   "url": "https://www.gsmarena.com/chatgpt_wallet_lets_openais_agents_buy_things_for_you-news-75481.php",
    "score": 0,
    "sources": 1,
-   "summary": "Apple introduced the Action button with the iPhone 15 Pro, and the iPhone 18 Pro still has it.",
+   "summary": "OpenAI today announced ChatGPT Wallet, a new feature that lets its Dots AI agents complete purchases on your behalf.",
    "title_ar": ""
   },
   "gsmarena.com/google_to_add_vocabulary_for_corrected_words_to_gboards_rambler_voice_typing_feature-news-75397.php": {
@@ -6402,17 +6402,6 @@
    "sources": 5,
    "summary": "At Xbox's 25th anniversary celebration at its Fan Fest event in Seattle, id Software confirmed that it is working on a new game, wrapping up last year's Doom: The Dark Ages with the release of the…",
    "title_ar": "استوديو id Software المطور للعبة Doom يؤكد العمل على لعبة جديدة، وستكون بإدارة المخرج Hugo Martin"
-  },
-  "ign.com/articles/ea-hq-graced-with-save-mass-effect-truck-as-n7-day-looms": {
-   "at": "2026-11-07T00:15:30.284956+00:00",
-   "title": "EA HQ Graced With 'Save Mass Effect' Truck as N7 Day Looms",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/ea-hq-graced-with-save-mass-effect-truck-as-n7-day-looms",
-   "score": 0,
-   "sources": 1,
-   "summary": "Mass Effect fans have taken their mission to save BioWare and its beloved sci-fi franchise to EA headquarters with a truck displaying the #SaveMassEffect message.",
-   "title_ar": ""
   },
   "ign.com/articles/elon-musk-says-it-would-be-an-honor-to-hire-jensen-huang-as-the-nvidia-ceos-future-hangs-in-the-balance": {
    "at": "2026-11-12T16:45:32.631702+00:00",
@@ -12398,6 +12387,17 @@
    "summary": "The AMD Ryzen 7 9800X3D is down to an all-time low price of $399.95, with the 9850X3D down to $419.99.",
    "title_ar": "احصل على أسرع معالج ألعاب رئيسي من AMD بسعر قياسي منخفض يبلغ 399.99 دولاراً الآن"
   },
+  "tomshardware.com/pc-components/cpus/unannounced-intel-core-ultra-7-260k-cpu-surfaces-in-newegg-prebuilt-gaming-pcs-intel-doesnt-have-official-specs-list-available-for-exclusive-arrow-lake-chip": {
+   "at": "2026-11-14T00:15:30.627039+00:00",
+   "title": "Unannounced Intel Core Ultra 7 260K CPU surfaces in Newegg prebuilt gaming PCs",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/pc-components/cpus/unannounced-intel-core-ultra-7-260k-cpu-surfaces-in-newegg-prebuilt-gaming-pcs-intel-doesnt-have-official-specs-list-available-for-exclusive-arrow-lake-chip",
+   "score": 1,
+   "sources": 1,
+   "summary": "The mysterious Intel Core Ultra 7 260K has surfaced in some prebuilt gaming PCs on Newegg, despite no official mention of the chip from Intel.",
+   "title_ar": "ظهور معالج إنتل غير المعلن Core Ultra 7 260K في أجهزة ألعاب مجهزة مسبقاً على متجر Newegg"
+  },
   "tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability": {
    "at": "2026-11-07T13:15:29.398607+00:00",
    "title": "TSMC denies exploring 3D DRAM at Nvidia's request",
@@ -13470,7 +13470,7 @@
   "AI": "2026-11-13T20:27:55.837463+00:00",
   "Anime": "2026-11-13T22:00:43.136599+00:00",
   "Games": "2026-11-14T00:00:51.803497+00:00",
-  "Tech": "2026-11-13T23:45:27.959069+00:00"
+  "Tech": "2026-11-14T00:15:30.627039+00:00"
  },
  "digest_day": "2026-11-13",
  "weekly_day": "2026-11-13"
