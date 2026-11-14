@@ -3246,17 +3246,6 @@
    "summary": "Ongoing adaptation of superhero manga broadcasts in Japan in January 2027",
    "title_ar": ""
   },
-  "crunchyroll.com/news/latest/2026/11/7/please-excuse-my-younger-brothers-cour-2-anime-ending-song-music-video-meminor": {
-   "at": "2026-11-07T02:45:26.768822+00:00",
-   "title": "MEminor Releases Please Excuse My Younger Brothers Cour 2 Anime Ending Song Music Video",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://crunchyroll.com/news/latest/2026/11/7/please-excuse-my-younger-brothers-cour-2-anime-ending-song-music-video-meminor",
-   "score": 0,
-   "sources": 1,
-   "summary": "Crunchyroll streams the rom-com series",
-   "title_ar": ""
-  },
   "crunchyroll.com/news/latest/2026/11/7/rascal-does-not-dream-of-a-dear-friend-anime-film-clip-kaede": {
    "at": "2026-11-07T16:30:39.398823+00:00",
    "title": "Rascal Does Not Dream of a Dear Friend Anime Film Shares New Clip Featuring Kaede",
@@ -5775,6 +5764,17 @@
    "sources": 1,
    "summary": "OpenAI today announced ChatGPT Wallet, a new feature that lets its Dots AI agents complete purchases on your behalf.",
    "title_ar": ""
+  },
+  "gsmarena.com/gemini_can_now_dig_into_your_google_wallet_spending_to_help_you_budget-news-75482.php": {
+   "at": "2026-11-14T02:45:27.709093+00:00",
+   "title": "Gemini can now dig into your Google Wallet spending to help you budget",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.gsmarena.com/gemini_can_now_dig_into_your_google_wallet_spending_to_help_you_budget-news-75482.php",
+   "score": 1,
+   "sources": 1,
+   "summary": "Google Wallet is now on the list of apps you can connect to Personal Intelligence in Gemini, joining the likes of Gmail, Photos, YouTube, and Search.",
+   "title_ar": "تطبيق Gemini يمكنه الآن الاطلاع على مشترياتك في Google Wallet لمساعدتك في وضع الميزانية"
   },
   "gsmarena.com/google_to_add_vocabulary_for_corrected_words_to_gboards_rambler_voice_typing_feature-news-75397.php": {
    "at": "2026-11-07T16:15:27.785969+00:00",
@@ -13525,7 +13525,7 @@
   "AI": "2026-11-13T20:27:55.837463+00:00",
   "Anime": "2026-11-14T01:00:23.051746+00:00",
   "Games": "2026-11-14T01:00:23.051746+00:00",
-  "Tech": "2026-11-14T02:00:50.146390+00:00"
+  "Tech": "2026-11-14T02:45:27.709093+00:00"
  },
  "digest_day": "2026-11-13",
  "weekly_day": "2026-11-13"
