@@ -3708,6 +3708,17 @@
    "summary": "It's rolling out first on Pixel phones before wider availability arrives in 2027.",
    "title_ar": "Google Fi تعلن عن ميزة التبديل التلقائي لشبكات الاتصال الخلوية لتحسين السرعة والاستقبال"
   },
+  "engadget.com/2312107/built-in-windows-tool-diagnose-pc-battery-health-powercfg": {
+   "at": "2026-11-14T20:45:28.455167+00:00",
+   "title": "This built-in Windows tool can diagnose your PC's battery health",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2312107/built-in-windows-tool-diagnose-pc-battery-health-powercfg/",
+   "score": 1,
+   "sources": 1,
+   "summary": "If your laptop doesn't seem to hold a charge as well as it used to, start by checking the diagnostics this tool can report.",
+   "title_ar": "هذه الأداة المدمجة في Windows يمكنها تشخيص حالة بطارية حاسوبك"
+  },
   "engadget.com/2312120/gta-6-is-targeting-30-fps-and-has-ray-tracing-support-on-ps5-pro": {
    "at": "2026-11-10T16:15:34.950976+00:00",
    "title": "GTA 6 is targeting 30 fps and has ray-tracing support on PS5 Pro",
@@ -8128,17 +8139,6 @@
    "score": 0,
    "sources": 1,
    "summary": "'Tracking far above our initial expectations'",
-   "title_ar": ""
-  },
-  "kotaku.com/gta-6-ps5-physical-boxes-have-hit-the-wild-a-harbinger-of-our-disc-less-future-2000754816": {
-   "at": "2026-11-07T20:30:38.331406+00:00",
-   "title": "GTA 6 PS5 Physical Boxes Have Hit The Wild, A Harbinger Of Our Disc-Less Future",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/gta-6-ps5-physical-boxes-have-hit-the-wild-a-harbinger-of-our-disc-less-future-2000754816",
-   "score": 0,
-   "sources": 1,
-   "summary": "Prepare to shuffle off these plastic coils",
    "title_ar": ""
   },
   "kotaku.com/halo-campaign-evolveds-next-big-update-will-add-a-free-horde-mode-2000756326": {
@@ -13426,7 +13426,7 @@
   "AI": "2026-11-14T19:15:26.332330+00:00",
   "Anime": "2026-11-14T12:30:35.445498+00:00",
   "Games": "2026-11-14T20:15:30.522522+00:00",
-  "Tech": "2026-11-14T20:30:38.295992+00:00"
+  "Tech": "2026-11-14T20:45:28.455167+00:00"
  },
  "digest_day": "2026-11-14",
  "weekly_day": "2026-11-13"
