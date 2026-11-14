@@ -562,6 +562,17 @@
    "summary": "Google has been at its gradient redesign schtick for a while now to varying levels of success, but its latest redesign has just landed on the Pixel Watch for the Media Controls app, and I love it…",
    "title_ar": "تحديث Pixel Watch يجلب تصميماً جديداً رائعاً أتمنى لو توفر في المزيد من التطبيقات"
   },
+  "9to5google.com/2026/11/13/pixel-11-pro-hilight-whatsapp": {
+   "at": "2026-11-14T02:00:50.146390+00:00",
+   "title": "Pixel 11 Pro’s HiLight feature also now works on WhatsApp messages",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/13/pixel-11-pro-hilight-whatsapp/",
+   "score": 1,
+   "sources": 1,
+   "summary": "After being barebones at launch, Google is improving on Pixel 11 Pro’s Hilight feature with message support, now including WhatsApp. more…",
+   "title_ar": "ميزة HiLight في Pixel 11 Pro تعمل الآن أيضاً مع رسائل WhatsApp"
+  },
   "9to5google.com/2026/11/13/the-xiaomi-18-pros-rear-displays-support-google-apps-spotify-and-custom-genai-apps": {
    "at": "2026-11-13T17:00:44.674160+00:00",
    "title": "The Xiaomi 18 Pro’s rear displays support Google apps, Spotify, and custom GenAI apps",
@@ -5225,6 +5236,17 @@
    "sources": 1,
    "summary": "Tank battle action Girls und Panzer: All-Star Tank Carnival will launch for PlayStation 5, Switch …",
    "title_ar": "لعبة Girls und Panzer: All-Star Tank Carnival تضيف نسختين لأجهزة PS5 و PC، وتصدر في 25 مارس 2027 في اليابان"
+  },
+  "gematsu.com/2026/11/girls-und-panzer-hakunetsu-mahjong-tag-battle-desu-announced-for-ps5-switch-2": {
+   "at": "2026-11-14T02:00:50.146390+00:00",
+   "title": "Girls und Panzer Hakunetsu! Mahjong Tag Battle Desu! announced for PS5, Switch 2",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gematsu.com/2026/11/girls-und-panzer-hakunetsu-mahjong-tag-battle-desu-announced-for-ps5-switch-2",
+   "score": 0,
+   "sources": 1,
+   "summary": "MAGES. has announced Girls und Panzer Hakunetsu!",
+   "title_ar": ""
   },
   "gematsu.com/2026/11/god-of-war-sons-of-sparta-coming-to-ps4-on-november-16-alongside-free-content-update": {
    "at": "2026-11-13T15:15:31.737336+00:00",
@@ -13503,7 +13525,7 @@
   "AI": "2026-11-13T20:27:55.837463+00:00",
   "Anime": "2026-11-14T01:00:23.051746+00:00",
   "Games": "2026-11-14T01:00:23.051746+00:00",
-  "Tech": "2026-11-14T01:15:28.664912+00:00"
+  "Tech": "2026-11-14T02:00:50.146390+00:00"
  },
  "digest_day": "2026-11-13",
  "weekly_day": "2026-11-13"
