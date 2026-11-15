@@ -5820,6 +5820,17 @@
    "summary": "OpenAI today announced ChatGPT Wallet, a new feature that lets its Dots AI agents complete purchases on your behalf.",
    "title_ar": ""
   },
+  "gsmarena.com/gaming_performance_evolution_iphone_15_pro_to_iphone_18_pro-news-75486.php": {
+   "at": "2026-11-15T20:45:35.120248+00:00",
+   "title": "Gaming performance evolution: iPhone 15 Pro to iPhone 18 Pro",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.gsmarena.com/gaming_performance_evolution_iphone_15_pro_to_iphone_18_pro-news-75486.php",
+   "score": 1,
+   "sources": 1,
+   "summary": "The iPhone has always had a great selection of games, including some AAA titles from older console generations.",
+   "title_ar": "تطور أداء الألعاب: من iPhone 15 Pro إلى iPhone 18 Pro"
+  },
   "gsmarena.com/gemini_can_now_dig_into_your_google_wallet_spending_to_help_you_budget-news-75482.php": {
    "at": "2026-11-14T02:45:27.709093+00:00",
    "title": "Gemini can now dig into your Google Wallet spending to help you budget",
@@ -7710,17 +7721,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Rockstar Games and PlayStation have released a new GTA 6 trailer to announce the opening of the pre-load window.",
-   "title_ar": ""
-  },
-  "insider-gaming.com/nintendo-switch-2-new-ways-to-play": {
-   "at": "2026-11-08T20:45:32.237275+00:00",
-   "title": "Nintendo Is Testing New Ways to Play on Switch 2",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/nintendo-switch-2-new-ways-to-play/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Nintendo is experimenting with new ways to play on Switch 2.",
    "title_ar": ""
   },
   "insider-gaming.com/nintendo-switch-2-system-update-adds-support-for-gifting-feature": {
@@ -11628,17 +11628,6 @@
    "summary": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation.",
    "title_ar": "شركات الوساطة الأمريكية للبيانات تبيع بيئات تدريب للذكاء الاصطناعي بقيمة نصف مليار دولار لمختبرات صينية"
   },
-  "theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit": {
-   "at": "2026-11-08T20:45:32.237275+00:00",
-   "title": "Elvis and Eminem rights holders are suing Suno",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-   "score": 0,
-   "sources": 1,
-   "summary": "Suno is facing yet another pair of lawsuits.",
-   "title_ar": ""
-  },
   "theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia": {
    "at": "2026-11-08T23:00:47.877079+00:00",
    "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
@@ -12221,6 +12210,17 @@
    "sources": 1,
    "summary": "Apple's smart glasses are among the worst-kept secrets in the tech world.",
    "title_ar": "نظارات Apple الذكية الأولى قيد التطوير"
+  },
+  "theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed": {
+   "at": "2026-11-15T20:45:35.120248+00:00",
+   "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+   "score": 0,
+   "sources": 1,
+   "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly.",
+   "title_ar": ""
   },
   "theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash": {
    "at": "2026-11-12T17:15:30.373926+00:00",
@@ -13415,7 +13415,7 @@
   "AI": "2026-11-15T19:30:33.921229+00:00",
   "Anime": "2026-11-15T17:15:32.575145+00:00",
   "Games": "2026-11-15T08:00:46.513774+00:00",
-  "Tech": "2026-11-15T20:30:44.545774+00:00"
+  "Tech": "2026-11-15T20:45:35.120248+00:00"
  },
  "digest_day": "2026-11-15",
  "weekly_day": "2026-11-13"
