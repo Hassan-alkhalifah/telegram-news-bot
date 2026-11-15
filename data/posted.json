@@ -3499,17 +3499,6 @@
    "summary": "Uber Parking is built on the company's acquisition of SpotHero.",
    "title_ar": "Uber تطلق خدمة حجز مواقف السيارات الخاصة بها"
   },
-  "engadget.com/2309293/starlink-perk-edge-over-traditional-internet-adaptibility": {
-   "at": "2026-11-08T22:15:29.318296+00:00",
-   "title": "The one Starlink perk that gives it an edge over traditional internet",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2309293/starlink-perk-edge-over-traditional-internet-adaptibility/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Cable and fiber often win on performance, yet Starlink offers a distinct benefit that could matter more depending on how and why you connect.",
-   "title_ar": "ميزة Starlink الوحيدة التي تمنحها الأفضلية على الإنترنت التقليدي"
-  },
   "engadget.com/2310671/one-ui-9-samsung-galaxy-phones-last-major-update": {
    "at": "2026-11-14T13:30:37.958769+00:00",
    "title": "One UI 9 is the final major update for these older Samsung Galaxy phones",
@@ -3927,6 +3916,17 @@
    "sources": 1,
    "summary": "There's a lot you can do with this accessibility feature.",
    "title_ar": "يمكنك التحكم بأجهزتك الأخرى باستخدام ميزة Apple العملية هذه"
+  },
+  "engadget.com/2313930/samsung-is-discontinuing-these-useful-mobile-apps-in-december": {
+   "at": "2026-11-15T22:30:42.216273+00:00",
+   "title": "Samsung is discontinuing these useful mobile apps in December",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2313930/samsung-is-discontinuing-these-useful-mobile-apps-in-december/",
+   "score": 1,
+   "sources": 1,
+   "summary": "You don't have long to grab the augmented reality tools for your Galaxy devices.",
+   "title_ar": "سامسونج توقف هذه التطبيقات المفيدة للهواتف المحولة في شهر ديسمبر"
   },
   "engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay": {
    "at": "2026-11-11T20:15:30.399014+00:00",
@@ -5434,6 +5434,17 @@
    "sources": 2,
    "summary": "Party game Mouse Work will launch for Switch 2 on December 7, developer Nitrome announced. …",
    "title_ar": "إطلاق لعبة Mouse Work في 7 ديسمبر"
+  },
+  "gematsu.com/2026/11/netcode-warriors-adds-ps5-version-launches-in-2027": {
+   "at": "2026-11-15T22:30:42.216273+00:00",
+   "title": "Netcode Warriors adds PS5 version, launches in 2027",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gematsu.com/2026/11/netcode-warriors-adds-ps5-version-launches-in-2027",
+   "score": 0,
+   "sources": 1,
+   "summary": "Anime-inspired arena fighting game Netcode Warriors will launch for PlayStation 5 and PC via Steam …",
+   "title_ar": ""
   },
   "gematsu.com/2026/11/nightmare-operator-to-be-published-by-shueisha-games": {
    "at": "2026-11-10T13:30:43.054917+00:00",
@@ -7657,17 +7668,6 @@
    "summary": "Months after the mass layoffs at the studio, id Software has confirmed that its next game is in development.",
    "title_ar": ""
   },
-  "insider-gaming.com/jensen-huang-suspected-chinese-spy-investigation": {
-   "at": "2026-11-08T22:15:29.318296+00:00",
-   "title": "NVIDIA CEO Jensen Huang Investigated for Affair With ‘Suspected Chinese Spy’",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/jensen-huang-suspected-chinese-spy-investigation/",
-   "score": 0,
-   "sources": 1,
-   "summary": "NVIDIA CEO Jensen Huang is being investigated internally after being targeted by a 'foreign intelligence effort.'",
-   "title_ar": ""
-  },
   "insider-gaming.com/marvel-1943-rise-of-hydra-reportedly-light-on-gameplay-uses-one-button": {
    "at": "2026-11-12T10:45:29.254664+00:00",
    "title": "Marvel 1943: Rise Of Hydra Reportedly Light On Gameplay, Uses One Button",
@@ -8403,17 +8403,6 @@
    "score": 0,
    "sources": 1,
    "summary": "The proposed class action complaint alleges that Huang and Nvidia's executives provided 'false and misleading statements' to the press regarding Huang's relationship with alleged Chinese spy Alice…",
-   "title_ar": ""
-  },
-  "kotaku.com/nvidia-launches-investigation-into-ceo-jensen-huang-following-honeypot-scandal-2000754894": {
-   "at": "2026-11-08T22:15:29.318296+00:00",
-   "title": "Nvidia Launches Investigation Into CEO Jensen Huang Following Honeypot Scandal",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/nvidia-launches-investigation-into-ceo-jensen-huang-following-honeypot-scandal-2000754894",
-   "score": 0,
-   "sources": 1,
-   "summary": "The GPU titans say that Huang will not be stepping down and maintain that no secrets were compromised despite the growing spy plot",
    "title_ar": ""
   },
   "kotaku.com/nvidia-share-price-jensen-huang-ai-affair-alice-megaspeed-markets-2000755054": {
@@ -13415,7 +13404,7 @@
   "AI": "2026-11-15T19:30:33.921229+00:00",
   "Anime": "2026-11-15T17:15:32.575145+00:00",
   "Games": "2026-11-15T22:15:28.495060+00:00",
-  "Tech": "2026-11-15T22:00:50.316966+00:00"
+  "Tech": "2026-11-15T22:30:42.216273+00:00"
  },
  "digest_day": "2026-11-15",
  "weekly_day": "2026-11-13"
