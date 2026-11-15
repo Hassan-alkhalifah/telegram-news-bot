@@ -3268,6 +3268,17 @@
    "summary": "The new season is now available on Crunchyroll",
    "title_ar": "Sizuk تطلق الفيديو الموسيقي لأغنية شارة البداية لأنمي The Iceblade Sorcerer Shall Rule the World II"
   },
+  "crunchyroll.com/news/latest/2026/11/15/bang-dream-its-mygo-ave-mujica-the-die-is-cast-sequel-anime-mygo-teaser-trailer": {
+   "at": "2026-11-15T17:00:42.566761+00:00",
+   "title": "BanG Dream! It's MyGO!!!!! / Ave Mujica – The Die is Cast Sequel Anime Centers MyGO!!!!! in New Trailer",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://crunchyroll.com/news/latest/2026/11/15/bang-dream-its-mygo-ave-mujica-the-die-is-cast-sequel-anime-mygo-teaser-trailer",
+   "score": 0,
+   "sources": 1,
+   "summary": "The crossover series premieres January 8, 2027",
+   "title_ar": ""
+  },
   "crunchyroll.com/news/latest/2026/11/15/bride-of-the-barrier-master-anime-hazuki-ichise-character-trailer": {
    "at": "2026-11-15T16:15:30.656569+00:00",
    "title": "Bride of the Barrier Master Anime Shares Hazuki Ichise Character Trailer",
@@ -12662,6 +12673,17 @@
    "summary": "Any net-connected vehicle from two automakers could be remotely opened and started — now-patched failures with API backend security showcase a lack of 101-level best practices",
    "title_ar": "سمحت جميع المركبات المتصلة بالإنترنت التابعة لشركتي سيارات رئيسيتين للقراصنة بفتح الأبواب وتشغيل المحرك عن بُعد"
   },
+  "tomshardware.com/tech-industry/cyber-security/fbi-disrupts-north-korean-facestealer-campaign-behind-usd5-billion-binance-hack-doj-seizes-facestealer-cloud-infrastructure-containing-900-videos-of-tech-workers-hackers-used-ai-deepfakes-to-steal-usd400-million-and-compromise-open-source-software": {
+   "at": "2026-11-15T17:00:42.566761+00:00",
+   "title": "FBI disrupts North Korean FaceStealer campaign behind $5 billion Binance hack",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/fbi-disrupts-north-korean-facestealer-campaign-behind-usd5-billion-binance-hack-doj-seizes-facestealer-cloud-infrastructure-containing-900-videos-of-tech-workers-hackers-used-ai-deepfakes-to-steal-usd400-million-and-compromise-open-source-software",
+   "score": 1,
+   "sources": 1,
+   "summary": "US DoJ partially disrupts FaceStealer campaign that's taken $400m from victims and threatens open-source software — gov techs disrupt cloud infrastructure and find 900 videos of targeted tech workers",
+   "title_ar": "مكتب التحقيقات الفيدرالي (FBI) يعطل حملة FaceStealer الكورية الشمالية التي تقف وراء اختراق Binance بقيمة 5 مليارات دولار"
+  },
   "tomshardware.com/tech-industry/cyber-security/software-engineer-rickrolls-his-prusa-3d-printer-via-remote-code-execution-exploit-one-week-of-testing-with-claude-opus-uncovers-23-prusa-buddy-firmware-defects": {
    "at": "2026-11-10T13:30:43.054917+00:00",
    "title": "Software engineer Rickrolls his Prusa 3D printer via remote code execution exploit",
@@ -13415,7 +13437,7 @@
   "AI": "2026-11-15T15:45:27.498281+00:00",
   "Anime": "2026-11-15T16:15:30.656569+00:00",
   "Games": "2026-11-15T08:00:46.513774+00:00",
-  "Tech": "2026-11-15T16:45:28.820277+00:00"
+  "Tech": "2026-11-15T17:00:42.566761+00:00"
  },
  "digest_day": "2026-11-14",
  "weekly_day": "2026-11-13"
