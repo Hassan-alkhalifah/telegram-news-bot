@@ -12475,17 +12475,6 @@
    "summary": "Google’s TPU 8i Max and TPU 8tx reuse TPU 8i and TPU 8t silicon to target long-context agents and confidential inference.",
    "title_ar": "جوجل تعيد تصميم سيليكون TPU إلى أنظمة مخصصة للوكلاء الأذكياء والأمان"
   },
-  "tomshardware.com/tech-industry/artificial-intelligence/homelabber-uses-second-gen-optane-memory-sticks-to-run-a-2-8-trillion-parameter-ai-model-on-cpu-alone-warns-that-optanes-extreme-heat-can-burn-out-nearby-memory-dram-used-blower-fans-to-prevent-melting-ram": {
-   "at": "2026-11-08T12:30:37.246959+00:00",
-   "title": "Homelabber uses second-gen Optane memory sticks to run a 2.8-trillion-parameter AI model on CPU alone",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabber-uses-second-gen-optane-memory-sticks-to-run-a-2-8-trillion-parameter-ai-model-on-cpu-alone-warns-that-optanes-extreme-heat-can-burn-out-nearby-memory-dram-used-blower-fans-to-prevent-melting-ram",
-   "score": 1,
-   "sources": 1,
-   "summary": "A Reddit homelab user ran Moonshot AI’s 2.8-trillion-parameter Kimi K3 CPU-only on Optane PMem 200 at 0.85 tokens/s with a 1-bit quant.",
-   "title_ar": "مطور مختبر منزلي يستخدم وحدات ذاكرة Optane من الجيل الثاني لتشغيل نموذج ذكاء اصطناعي بـ 2.8 تريليون معلمة على وحدة المعالجة المركزية وحدها"
-  },
   "tomshardware.com/tech-industry/artificial-intelligence/malaysia-and-singapore-step-up-nvidia-ai-chip-probes-as-charges-brought-against-chinese-national-over-917-smuggled-servers-firm-at-center-of-jensen-huang-controversy-announces-inventory-audit-to-account-for-all-restricted-gpus": {
    "at": "2026-11-13T16:30:38.946330+00:00",
    "title": "Malaysia and Singapore step up Nvidia AI chip probes amidst Jensen Huang controversy",
