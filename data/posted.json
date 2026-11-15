@@ -3279,6 +3279,17 @@
    "summary": "A teaser trailer and visual were revealed for the announcement",
    "title_ar": ""
   },
+  "crunchyroll.com/news/latest/2026/11/15/witch-watch-season-2-anime-2027-premiere-teaser-visual": {
+   "at": "2026-11-15T16:30:41.413838+00:00",
+   "title": "WITCH WATCH Season 2 Anime Announces 2027 Premiere",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://crunchyroll.com/news/latest/2026/11/15/witch-watch-season-2-anime-2027-premiere-teaser-visual",
+   "score": 0,
+   "sources": 1,
+   "summary": "A new teaser visual was released following the manga's finale",
+   "title_ar": ""
+  },
   "crunchyroll.com/news/latest/2026/11/9/atelier-karia-the-night-kingdom-the-guide-of-memories-story-trailer": {
    "at": "2026-11-09T18:45:31.961057+00:00",
    "title": "Atelier Karia: The Night Kingdom & the Guide of Memories Story Trailer Debuts",
@@ -3894,6 +3905,17 @@
    "sources": 1,
    "summary": "One of the biggest questions when it comes to purchasing a gaming rig is whether to go console or PC.",
    "title_ar": "أي وحدة معالجة رسومية من NVIDIA هي الأقرب لـ PS5؟ الإجابة ليست بهذه البساطة"
+  },
+  "engadget.com/2313707/ai-glasses-banned-places-list-keeps-growing": {
+   "at": "2026-11-15T16:30:41.413838+00:00",
+   "title": "Some places have already banned AI glasses, and the list just keeps growing",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2313707/ai-glasses-banned-places-list-keeps-growing/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Safety and privacy concerns have led to bans on AI glasses in a number of public places, including courtrooms, schools and theaters.",
+   "title_ar": "بعض الأماكن حظرت بالفعل نظارات الذكاء الاصطناعي، والقائمة في ازدياد مستمر"
   },
   "engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay": {
    "at": "2026-11-11T20:15:30.399014+00:00",
@@ -13382,7 +13404,7 @@
   "AI": "2026-11-15T15:45:27.498281+00:00",
   "Anime": "2026-11-15T16:15:30.656569+00:00",
   "Games": "2026-11-15T08:00:46.513774+00:00",
-  "Tech": "2026-11-15T16:00:42.604796+00:00"
+  "Tech": "2026-11-15T16:30:41.413838+00:00"
  },
  "digest_day": "2026-11-14",
  "weekly_day": "2026-11-13"
