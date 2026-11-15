@@ -573,6 +573,17 @@
    "summary": "First appearing earlier this month, Google Pixel phones are rolling out a handy new Family feature in the Settings menu.",
    "title_ar": "هواتف Google Pixel تطلق ميزة \"Family Hub\" الجديدة مع أدوات تحكم مفيدة [معرض صور]"
   },
+  "9to5google.com/2026/11/15/google-pixel-tag-find-hub-problems": {
+   "at": "2026-11-15T14:45:25.621979+00:00",
+   "title": "Pixel Tag is a brilliant Band-Aid on a Find Hub network Google can’t easily fix",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/15/google-pixel-tag-find-hub-problems/",
+   "score": 1,
+   "sources": 1,
+   "summary": "The Google Pixel Tag is here and, at least so far, it’s really good.",
+   "title_ar": "Pixel Tag هو حل عبقري مؤقت لشبكة Find Hub التي لا تستطيع جوجل إصلاحها بسهولة"
+  },
   "9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report": {
    "at": "2026-11-08T15:30:39.314498+00:00",
    "title": "Apple aiming to make Siri ‘more like an agent’ as soon as next year: report",
@@ -11188,17 +11199,6 @@
    "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told…",
    "title_ar": "Nvidia تؤكد سراً قدرتها على تتبع الشرائح لمكافحة التهريب، حتى في الوقت الذي تشكك فيه الصناعة علناً في جدوى ذلك"
   },
-  "the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news": {
-   "at": "2026-11-08T14:30:40.295364+00:00",
-   "title": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/",
-   "score": 1,
-   "sources": 1,
-   "summary": "OpenAI co-founder Andrej Karpathy used Claude's Opus 5.5 to filter 43 million Hacker News comments into 6,454 curated videos.",
-   "title_ar": "Andrej Karpathy يبني منصة فيديو منسقة في عطلة نهاية أسبوع باستخدام Claude و20 عاماً من Hacker News"
-  },
   "the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon": {
    "at": "2026-11-14T11:30:34.617290+00:00",
    "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
@@ -13382,7 +13382,7 @@
   "AI": "2026-11-15T11:45:30.463541+00:00",
   "Anime": "2026-11-15T12:15:28.003685+00:00",
   "Games": "2026-11-15T08:00:46.513774+00:00",
-  "Tech": "2026-11-15T14:15:28.840720+00:00"
+  "Tech": "2026-11-15T14:45:25.621979+00:00"
  },
  "digest_day": "2026-11-14",
  "weekly_day": "2026-11-13"
