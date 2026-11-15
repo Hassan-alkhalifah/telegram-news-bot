@@ -8647,17 +8647,6 @@
    "summary": "101 Gold Skulltulas on the wall...",
    "title_ar": ""
   },
-  "myanimelist.net/news/74917181?_location=rss": {
-   "at": "2026-11-08T11:45:30.157130+00:00",
-   "title": "'Spy x Family' Gets Season 4, Second Anime Movie in 2027",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://myanimelist.net/news/74917181?_location=rss",
-   "score": 0,
-   "sources": 1,
-   "summary": "The Spy x Family Anime Extra Mission II special event announced a fourth season and a second theatrical movie on Sunday, revealing a teaser visual (pictured) for Season 4.",
-   "title_ar": ""
-  },
   "myanimelist.net/news/74917765?_location=rss": {
    "at": "2026-11-08T15:30:39.314498+00:00",
    "title": "'Boku no Suki na Hito ga Suki na Hito' Reveals Main Cast, Staff, Teaser Promo, Spring 2027 Premiere",
@@ -11353,6 +11342,17 @@
    "summary": "OpenAI grew its quarterly revenue 50 percent to $10 billion but is still burning more cash than it brings in.",
    "title_ar": "دفع مبيعات الشركات بإيرادات OpenAI الفصلية إلى 10 مليارات دولار، رغم أنها لا تزال متأخرة عن Anthropic"
   },
+  "the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china": {
+   "at": "2026-11-15T11:45:30.463541+00:00",
+   "title": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Megaspeed, the firm owned by ousted Nvidia CEO Jensen Huang's former lover Alice Huang, arranged nearly $12 billion in Nvidia chip orders for Chinese companies between 2024 and 2025, according to…",
+   "title_ar": "شركة مرتبطة بالصديقة السابقة لـ Jensen Huang توسطت في صفقات لشرائح Nvidia إلى الصين بقيمة تقارب 12 مليار دولار حسب التقارير"
+  },
   "the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models": {
    "at": "2026-11-13T20:27:55.837463+00:00",
    "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
@@ -12882,17 +12882,6 @@
    "summary": "Valve is adding a new feature to the Steam store that tracks performance data and then displays it anonymously to users who match the hardware.",
    "title_ar": ""
   },
-  "tomshardware.com/video-games/pc-gaming/wow-forever-launch-used-70-480-cpu-cores-and-251-terabytes-of-ram-3-924-virtual-machines-powered-one-of-world-of-warcrafts-smoothest-launches-ever": {
-   "at": "2026-11-08T11:45:30.157130+00:00",
-   "title": "WoW: Forever launch used 70,480 CPU cores and 251 terabytes of RAM",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/video-games/pc-gaming/wow-forever-launch-used-70-480-cpu-cores-and-251-terabytes-of-ram-3-924-virtual-machines-powered-one-of-world-of-warcrafts-smoothest-launches-ever",
-   "score": 1,
-   "sources": 1,
-   "summary": "Inside the astonishing hardware behind World of Warcraft: Forever.",
-   "title_ar": "إطلاق WoW: Forever استهلك 70480 نواة معالج و251 تيرابايت من ذاكرة الوصول العشوائي"
-  },
   "tomshardware.com/video-games/pc-peripheral-maker-logitech-giving-all-of-its-7-000-employees-the-day-off-to-play-gta-6-company-announces-game-day-initiative-dedicated-vacation-day-to-play-video-games": {
    "at": "2026-11-11T16:00:43.139434+00:00",
    "title": "PC peripheral maker Logitech giving all of its 7,000 employees the day off to play GTA 6",
@@ -13401,7 +13390,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-15T10:15:28.035942+00:00",
+  "AI": "2026-11-15T11:45:30.463541+00:00",
   "Anime": "2026-11-15T11:15:26.574826+00:00",
   "Games": "2026-11-15T08:00:46.513774+00:00",
   "Tech": "2026-11-15T01:15:26.530051+00:00"
