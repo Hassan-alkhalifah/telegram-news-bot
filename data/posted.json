@@ -1541,6 +1541,17 @@
    "summary": "Next fall, Apple will introduce its second-generation iPhone Duo.",
    "title_ar": "تقرير: مهندسو Apple يعملون بنشاط على ميزة Face ID للشاشة الخارجية لهاتف iPhone Duo 2"
   },
+  "9to5mac.com/2026/11/15/apples-messages-app-keeps-getting-better-here-are-my-favorite-updates": {
+   "at": "2026-11-15T23:15:28.504619+00:00",
+   "title": "Apple’s Messages app keeps getting better; here are my favorite updates",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/15/apples-messages-app-keeps-getting-better-here-are-my-favorite-updates/",
+   "score": 1,
+   "sources": 1,
+   "summary": "9to5Mac is brought to you by Tello Mobile.",
+   "title_ar": "تطبيق Messages من Apple مستمر في التحسين؛ إليكم أبرز التحديثات المفضلة لدي"
+  },
   "9to5mac.com/2026/11/15/iphone-duo-default-split-view-option-suggestion": {
    "at": "2026-11-15T21:45:26.332379+00:00",
    "title": "Here’s one small change that could improve iPhone Duo’s unoptimized apps",
@@ -11617,17 +11628,6 @@
    "summary": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation.",
    "title_ar": "شركات الوساطة الأمريكية للبيانات تبيع بيئات تدريب للذكاء الاصطناعي بقيمة نصف مليار دولار لمختبرات صينية"
   },
-  "theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia": {
-   "at": "2026-11-08T23:00:47.877079+00:00",
-   "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-   "score": 0,
-   "sources": 1,
-   "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government.",
-   "title_ar": ""
-  },
   "theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2": {
    "at": "2026-11-09T19:00:48.287876+00:00",
    "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
@@ -13404,7 +13404,7 @@
   "AI": "2026-11-15T19:30:33.921229+00:00",
   "Anime": "2026-11-15T17:15:32.575145+00:00",
   "Games": "2026-11-15T22:15:28.495060+00:00",
-  "Tech": "2026-11-15T22:30:42.216273+00:00"
+  "Tech": "2026-11-15T23:15:28.504619+00:00"
  },
  "digest_day": "2026-11-15",
  "weekly_day": "2026-11-13"
