@@ -584,17 +584,6 @@
    "summary": "The Google Pixel Tag is here and, at least so far, it’s really good.",
    "title_ar": "Pixel Tag هو حل عبقري مؤقت لشبكة Find Hub التي لا تستطيع جوجل إصلاحها بسهولة"
   },
-  "9to5mac.com/2026/11/08/john-ternus-pushing-craig-federighi-to-move-faster-software-engineering": {
-   "at": "2026-11-08T16:00:52.256775+00:00",
-   "title": "Report: John Ternus pushing Craig Federighi to speed up Apple software engineering",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/08/john-ternus-pushing-craig-federighi-to-move-faster-software-engineering/",
-   "score": 1,
-   "sources": 1,
-   "summary": "In the past few years, a major Apple story (especially in the age of AI) has been that the company isn’t moving fast enough in the space to keep up with competitors.",
-   "title_ar": "تقرير: John Ternus يدفع Craig Federighi لتسريع هندسة برمجيات Apple"
-  },
   "9to5mac.com/2026/11/09/anthropic-upgrades-claude-with-new-fable-5-2-model-details-here": {
    "at": "2026-11-09T19:15:30.412911+00:00",
    "title": "Anthropic upgrades Claude with new Fable 5.2 model, details here",
@@ -2454,6 +2443,17 @@
    "summary": "\"Ultra teaser visual\" revealed",
    "title_ar": ""
   },
+  "animenewsnetwork.com/news/2026-11-15/bride-of-the-barrier-master-anime-streams-video-for-hana-twin-hazuki-ichise/.243831": {
+   "at": "2026-11-15T16:15:30.656569+00:00",
+   "title": "Bride of the Barrier Master Anime Streams Video for Hana's Twin Hazuki Ichise",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-15/bride-of-the-barrier-master-anime-streams-video-for-hana-twin-hazuki-ichise/.243831",
+   "score": 3,
+   "sources": 2,
+   "summary": "Kanon Takao voices Hana's twin sister in anime premiering in January",
+   "title_ar": "أنمي Bride of the Barrier Master يبث عرضاً توضيحياً لشخصية Hazuki Ichise التوأم لهانا"
+  },
   "animenewsnetwork.com/news/2026-11-15/mages-develops-girls-und-panzer-mahjong-game-for-ps5-switch-2/.243827": {
    "at": "2026-11-15T07:30:34.885638+00:00",
    "title": "MAGES Develops Girls und Panzer Mahjong Game For PS5, Switch 2",
@@ -3256,6 +3256,28 @@
    "sources": 2,
    "summary": "The new season is now available on Crunchyroll",
    "title_ar": "Sizuk تطلق الفيديو الموسيقي لأغنية شارة البداية لأنمي The Iceblade Sorcerer Shall Rule the World II"
+  },
+  "crunchyroll.com/news/latest/2026/11/15/bride-of-the-barrier-master-anime-hazuki-ichise-character-trailer": {
+   "at": "2026-11-15T16:15:30.656569+00:00",
+   "title": "Bride of the Barrier Master Anime Shares Hazuki Ichise Character Trailer",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://crunchyroll.com/news/latest/2026/11/15/bride-of-the-barrier-master-anime-hazuki-ichise-character-trailer",
+   "score": 0,
+   "sources": 1,
+   "summary": "The anime is scheduled to debut in Japan in January 2027",
+   "title_ar": ""
+  },
+  "crunchyroll.com/news/latest/2026/11/15/little-sharks-day-out-anime-announces-2nd-theatrical-film": {
+   "at": "2026-11-15T16:15:30.656569+00:00",
+   "title": "Little Shark's Day Out Anime Announces 2nd Theatrical Film",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://crunchyroll.com/news/latest/2026/11/15/little-sharks-day-out-anime-announces-2nd-theatrical-film",
+   "score": 0,
+   "sources": 1,
+   "summary": "A teaser trailer and visual were revealed for the announcement",
+   "title_ar": ""
   },
   "crunchyroll.com/news/latest/2026/11/9/atelier-karia-the-night-kingdom-the-guide-of-memories-story-trailer": {
    "at": "2026-11-09T18:45:31.961057+00:00",
@@ -13358,7 +13380,7 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-15T15:45:27.498281+00:00",
-  "Anime": "2026-11-15T15:45:27.498281+00:00",
+  "Anime": "2026-11-15T16:15:30.656569+00:00",
   "Games": "2026-11-15T08:00:46.513774+00:00",
   "Tech": "2026-11-15T16:00:42.604796+00:00"
  },
