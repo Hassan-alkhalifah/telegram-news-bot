@@ -3752,6 +3752,17 @@
    "summary": "The new laptop goes the extra mile to recreate the iconic feature.",
    "title_ar": ""
   },
+  "engadget.com/2313048/apple-maps-hidden-features-users-should-know": {
+   "at": "2026-11-15T13:45:24.442819+00:00",
+   "title": "The hidden features every Apple Maps user should know about",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2313048/apple-maps-hidden-features-users-should-know/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Apple Maps isn't just about the big-ticket features; it has a range of lesser-known features that are just as useful.",
+   "title_ar": ""
+  },
   "engadget.com/2313059/samsung-gallery-syncs-with-google": {
    "at": "2026-11-11T07:15:34.619032+00:00",
    "title": "Samsung Gallery now syncs with Google to back up your photos",
@@ -12277,6 +12288,17 @@
    "summary": "The AMD Ryzen 7 9800X3D is down to an all-time low price of $399.95, with the 9850X3D down to $419.99.",
    "title_ar": "احصل على أسرع معالج ألعاب رئيسي من AMD بسعر قياسي منخفض يبلغ 399.99 دولاراً الآن"
   },
+  "tomshardware.com/pc-components/cpus/intel-reclaims-overall-cpu-market-share-for-the-first-time-since-2025-massive-desktop-gains-offset-amds-record-server-and-mobile-growth": {
+   "at": "2026-11-15T13:45:24.442819+00:00",
+   "title": "Intel reclaims overall CPU market share for the first time since 2025",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/pc-components/cpus/intel-reclaims-overall-cpu-market-share-for-the-first-time-since-2025-massive-desktop-gains-offset-amds-record-server-and-mobile-growth",
+   "score": 1,
+   "sources": 1,
+   "summary": "AMD continues to gain server CPU market share amid skyrocketing shipments of data center processors as sales of client CPUs drop in the third quarter, says Mercury Research.",
+   "title_ar": "Intel تستعيد حصتها الإجمالية في سوق معالجات CPU لأول مرة منذ عام 2025."
+  },
   "tomshardware.com/pc-components/cpus/unannounced-intel-core-ultra-7-260k-cpu-surfaces-in-newegg-prebuilt-gaming-pcs-intel-doesnt-have-official-specs-list-available-for-exclusive-arrow-lake-chip": {
    "at": "2026-11-14T00:15:30.627039+00:00",
    "title": "Unannounced Intel Core Ultra 7 260K CPU surfaces in Newegg prebuilt gaming PCs",
@@ -12617,17 +12639,6 @@
    "sources": 1,
    "summary": "The plaintiffs alleged that the parties committed fraud and concealment through NDAs and misleading public statements.",
    "title_ar": "OpenAI وقادة مقاطعة في ولاية Georgia يواجهون دعوى قضائية بتهمة الابتزاز المنظم على طراز المافيا بسبب مركز بيانات للذكاء الاصطناعي بقيمة 30 مليار دولار"
-  },
-  "tomshardware.com/tech-industry/data-centers/hundreds-arrested-after-microsoft-data-center-protest-turns-violent-stop-dirty-data-centers-coalition-demands-halt-to-ai-data-center-expansion-dutch-police-seize-break-in-tools-suspected-stolen-items-from-construction-site": {
-   "at": "2026-11-08T13:30:40.169555+00:00",
-   "title": "Hundreds arrested after Microsoft data center protest turns violent",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/tech-industry/data-centers/hundreds-arrested-after-microsoft-data-center-protest-turns-violent-stop-dirty-data-centers-coalition-demands-halt-to-ai-data-center-expansion-dutch-police-seize-break-in-tools-suspected-stolen-items-from-construction-site",
-   "score": 1,
-   "sources": 1,
-   "summary": "It's unclear which group entered the construction site first, but the action led to the arrest of 150 to 200 protesters.",
-   "title_ar": "اعتقال المئات بعد تحول احتجاج أمام مركز بيانات تابع لشركة Microsoft إلى أعمال عنف"
   },
   "tomshardware.com/tech-industry/data-centers/russias-google-says-nearly-3-percent-of-its-data-was-lost-after-crippling-ukraine-drone-strikes-opens-secret-availability-zones-yandex-cloud-blames-lack-of-user-backups-for-lost-data-now-forcibly-applies-backup-rules-by-default": {
    "at": "2026-11-12T22:15:30.200216+00:00",
@@ -13349,7 +13360,7 @@
   "AI": "2026-11-15T11:45:30.463541+00:00",
   "Anime": "2026-11-15T12:15:28.003685+00:00",
   "Games": "2026-11-15T08:00:46.513774+00:00",
-  "Tech": "2026-11-15T01:15:26.530051+00:00"
+  "Tech": "2026-11-15T13:45:24.442819+00:00"
  },
  "digest_day": "2026-11-14",
  "weekly_day": "2026-11-13"
