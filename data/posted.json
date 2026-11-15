@@ -7250,6 +7250,17 @@
    "summary": "Fans have been left furious by Microsoft's launch of its 25th Anniversary Xbox Series X console, which sold out within seconds online.",
    "title_ar": ""
   },
+  "ign.com/articles/xbox-confirms-project-helix-is-a-console-capable-of-playing-games-from-your-pc": {
+   "at": "2026-11-15T23:45:28.542156+00:00",
+   "title": "Xbox Confirms Project Helix Is 'a Console Capable of Playing Games From Your PC'",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/xbox-confirms-project-helix-is-a-console-capable-of-playing-games-from-your-pc",
+   "score": 0,
+   "sources": 1,
+   "summary": "Xbox has confirmed Project Helix is \"designed to be a console capable of playing games from your PC.\"",
+   "title_ar": ""
+  },
   "ign.com/articles/xbox-reveals-original-and-360-boot-up-options-for-25th-anniversary": {
    "at": "2026-11-15T22:15:28.495060+00:00",
    "title": "Xbox Reveals Original and 360 Boot-Up Options for 25th Anniversary",
@@ -8075,6 +8086,17 @@
    "summary": "To celebrate their 25 year anniversary, XBOX is offering 25 great games for free with the purchase of a new PC in 2026.",
    "title_ar": ""
   },
+  "insider-gaming.com/xbox-game-preservation-project-helix": {
+   "at": "2026-11-15T23:45:28.542156+00:00",
+   "title": "Game Preservation Is Core to XBOX Project Helix",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/xbox-game-preservation-project-helix/",
+   "score": 0,
+   "sources": 1,
+   "summary": "XBOX calls game preservation a deep responsibility.",
+   "title_ar": ""
+  },
   "insider-gaming.com/xbox-officially-reveals-21-classic-games-coming-to-pc": {
    "at": "2026-11-12T21:30:35.379377+00:00",
    "title": "XBOX Officially Reveals 21 Classic Games Coming to PC",
@@ -8085,6 +8107,17 @@
    "sources": 1,
    "summary": "25 classic games are officially coming to PC through backwards compatibility, following earlier reports of leaked games.",
    "title_ar": ""
+  },
+  "insider-gaming.com/xbox-project-helix-console-first-not-pc": {
+   "at": "2026-11-15T23:45:28.542156+00:00",
+   "title": "Project Helix Is a Console First, Not a PC, XBOX Says",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://insider-gaming.com/xbox-project-helix-console-first-not-pc/",
+   "score": 4,
+   "sources": 2,
+   "summary": "XBOX’s Jason Ronald says Project Helix is a console that plays PC games, not a PC that plays console games.",
+   "title_ar": "XBOX تقول إن Project Helix هو جهاز منزلي أولاً وليس حاسوباً شخصياً"
   },
   "insider-gaming.com/zelda-ocarina-of-time-remake-best-seller-nintendo-eshop": {
    "at": "2026-11-09T17:00:50.730012+00:00",
@@ -13403,7 +13436,7 @@
  "topic_last_posted": {
   "AI": "2026-11-15T19:30:33.921229+00:00",
   "Anime": "2026-11-15T17:15:32.575145+00:00",
-  "Games": "2026-11-15T22:15:28.495060+00:00",
+  "Games": "2026-11-15T23:45:28.542156+00:00",
   "Tech": "2026-11-15T23:15:28.504619+00:00"
  },
  "digest_day": "2026-11-15",
