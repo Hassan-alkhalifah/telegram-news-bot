@@ -12464,17 +12464,6 @@
    "summary": "A new kernel contributor used AI to develop a patch for the drivers powering his nearly-20-year-old Radeon GPU.",
    "title_ar": "بعد نحو 20 عاماً من إطلاقها، بطاقات الرسوميات القديمة AMD Radeon HD 2000 و3000 تحصل أخيراً على إصلاح في نظام Linux لمشكلة تلف تشغيل الفيديو."
   },
-  "tomshardware.com/software/linux/the-end-of-an-era-as-linux-7-5-purges-the-last-30-year-old-intel-mmx-optimizations-from-pentium-age-open-source-os-retires-ancient-1997-pentium-instructions-to-streamline-code": {
-   "at": "2026-11-08T14:45:30.299487+00:00",
-   "title": "The end of an era as Linux 7.5 purges the last 30-year-old Intel MMX optimizations from Pentium age",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/software/linux/the-end-of-an-era-as-linux-7-5-purges-the-last-30-year-old-intel-mmx-optimizations-from-pentium-age-open-source-os-retires-ancient-1997-pentium-instructions-to-streamline-code",
-   "score": 1,
-   "sources": 1,
-   "summary": "Linux developers are preparing to make Intel’s ancient MultiMedia eXtensions irrelevant, with the last MMX code now set to be removed from the kernel.",
-   "title_ar": "نهاية حقبة مع إزالة Linux 7.5 لآخر تحسينات Intel MMX التي يعود تاريخها إلى 30 عاماً من عصر Pentium"
-  },
   "tomshardware.com/software/macos/macos-on-pc-becomes-possible-again-thanks-to-apple-silicon-translator-for-x86-64-hackintosh-revival-project-currently-slow-and-not-very-stable": {
    "at": "2026-11-13T10:15:31.218604+00:00",
    "title": "macOS on PC becomes possible again thanks to Apple Silicon translator for x86-64",
