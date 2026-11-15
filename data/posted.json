@@ -584,17 +584,6 @@
    "summary": "The Google Pixel Tag is here and, at least so far, it’s really good.",
    "title_ar": "Pixel Tag هو حل عبقري مؤقت لشبكة Find Hub التي لا تستطيع جوجل إصلاحها بسهولة"
   },
-  "9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report": {
-   "at": "2026-11-08T15:30:39.314498+00:00",
-   "title": "Apple aiming to make Siri ‘more like an agent’ as soon as next year: report",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Apple finally shipped its long awaited personalized Siri with iOS 27.",
-   "title_ar": "تقرير: شركة Apple تسعى لجعل Siri \"أقرب إلى الوكيل\" في أقرب وقت العام المقبل"
-  },
   "9to5mac.com/2026/11/08/john-ternus-pushing-craig-federighi-to-move-faster-software-engineering": {
    "at": "2026-11-08T16:00:52.256775+00:00",
    "title": "Report: John Ternus pushing Craig Federighi to speed up Apple software engineering",
@@ -2486,6 +2475,17 @@
    "sources": 1,
    "summary": "Game launches on January 15 for Xbox Series X|S, PlayStation 5, PC via Steam",
    "title_ar": "لعبة Stranger Than Heaven تبث العرض الترويجي لقصة الفصل الثاني Kure"
+  },
+  "animenewsnetwork.com/news/2026-11-15/witch-watch-manga-ends-with-anime-season-2-to-air-in-2027/.243834": {
+   "at": "2026-11-15T15:45:27.498281+00:00",
+   "title": "Witch Watch Manga Ends With Anime Season 2 to Air in 2027",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-15/witch-watch-manga-ends-with-anime-season-2-to-air-in-2027/.243834",
+   "score": 3,
+   "sources": 2,
+   "summary": "Kenta Shinohara's Witch Watch manga ended in this year's 51st issue of Shueisha's Weekly Shonen Jump magazine on Monday.",
+   "title_ar": "انتهاء مانغا Witch Watch مع عرض الموسم الثاني من الأنمي في عام 2027"
   },
   "arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns": {
    "at": "2026-11-13T17:30:38.535994+00:00",
@@ -8647,17 +8647,6 @@
    "summary": "101 Gold Skulltulas on the wall...",
    "title_ar": ""
   },
-  "myanimelist.net/news/74917765?_location=rss": {
-   "at": "2026-11-08T15:30:39.314498+00:00",
-   "title": "'Boku no Suki na Hito ga Suki na Hito' Reveals Main Cast, Staff, Teaser Promo, Spring 2027 Premiere",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://myanimelist.net/news/74917765?_location=rss",
-   "score": 0,
-   "sources": 1,
-   "summary": "Production company Avex Pictures opened an official website for a television anime adaptation of Sekina Aoi and Ryou Tsuzura's Boku no Suki na Hito ga Suki na Hito (My Crush's Crush) manga on…",
-   "title_ar": ""
-  },
   "myanimelist.net/news/74922872?_location=rss": {
    "at": "2026-11-10T00:15:31.996768+00:00",
    "title": "'Ghost: Yoru no Hate' Unveils Additional Cast, Staff, Theme Song, Main Trailer",
@@ -8777,6 +8766,17 @@
    "score": 0,
    "sources": 1,
    "summary": "The official website for the television anime adaptation of Kazuma Kamachi's Toaru Anbu no Item (A Certain Dark Side's Item) light novel revealed additional cast and a promotional video on Saturday.",
+   "title_ar": ""
+  },
+  "myanimelist.net/news/74943102?_location=rss": {
+   "at": "2026-11-15T15:45:27.498281+00:00",
+   "title": "Manga 'Witch Watch' Concludes Serialization",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://myanimelist.net/news/74943102?_location=rss",
+   "score": 0,
+   "sources": 1,
+   "summary": "Kenta Shinohara's Witch Watch manga has concluded with chapter 270 in the 51st issue of Weekly Shounen Jump magazine on Monday, after a five-year serialization.",
    "title_ar": ""
   },
   "nintendolife.com/news/2026/11/bandai-namco-reveals-its-involvement-on-zelda-ocarina-of-time": {
@@ -11254,6 +11254,17 @@
    "summary": "Anthropic is expanding Claude with Sheets, Whiteboards, and Interactive Connectors, letting partners like Adobe and Atlassian embed their apps directly inside Claude.",
    "title_ar": ""
   },
+  "the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them": {
+   "at": "2026-11-15T15:45:27.498281+00:00",
+   "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do.",
+   "title_ar": "نموذج Claude Fable 5.2 من Anthropic لا يولد الصور بل يرسمها"
+  },
   "the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows": {
    "at": "2026-11-13T16:45:29.227607+00:00",
    "title": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
@@ -13335,8 +13346,8 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-15T11:45:30.463541+00:00",
-  "Anime": "2026-11-15T12:15:28.003685+00:00",
+  "AI": "2026-11-15T15:45:27.498281+00:00",
+  "Anime": "2026-11-15T15:45:27.498281+00:00",
   "Games": "2026-11-15T08:00:46.513774+00:00",
   "Tech": "2026-11-15T15:15:29.278174+00:00"
  },
