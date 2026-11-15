@@ -4643,17 +4643,6 @@
    "summary": "If you're a World of Warcraft: Forever player you're almost certainly having your free time drained as you chain yourself to your desktop PC to play the game, or maybe a laptop.",
    "title_ar": ""
   },
-  "eurogamer.net/zelda-ocarina-of-time-remake-master-quest-dlc-datamine": {
-   "at": "2026-11-08T17:45:31.940328+00:00",
-   "title": "Ocarina of Time remake datamine suggests Master Quest is on the way",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.eurogamer.net/zelda-ocarina-of-time-remake-master-quest-dlc-datamine",
-   "score": 0,
-   "sources": 1,
-   "summary": "Ocarina of Time 's notoriously tricky Master Quest mode could be making a comeback in the new remake.",
-   "title_ar": ""
-  },
   "eurogamer.net/zelda-ocarina-of-time-switch-2-sales-nintendo": {
    "at": "2026-11-11T10:00:42.122952+00:00",
    "title": "The Legend of Zelda: Ocarina of Time remake sells in huge numbers, becoming the fastest-selling Switch 2 game",
@@ -12299,6 +12288,17 @@
    "summary": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app.",
    "title_ar": "جهاز Apple TV الجديد يواجه مشكلة مع YouTube"
   },
+  "theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together": {
+   "at": "2026-11-15T18:00:42.936871+00:00",
+   "title": "Apple’s first smart glasses are coming together",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
+   "score": 1,
+   "sources": 1,
+   "summary": "Apple's smart glasses are among the worst-kept secrets in the tech world.",
+   "title_ar": "نظارات Apple الذكية الأولى قيد التطوير"
+  },
   "theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash": {
    "at": "2026-11-12T17:15:30.373926+00:00",
    "title": "‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug",
@@ -12904,6 +12904,17 @@
    "summary": "President Trump says Tim Cook should replace Jensen Huang as CEO of Nvidia.",
    "title_ar": ""
   },
+  "tomshardware.com/tech-industry/robotics-engineer-leaves-nvidia-over-lack-of-transparency-around-jensen-huangs-exit-details-decision-joins-chorus-of-disgruntled-staff-as-petition-to-reinstate-former-ceo-passes-150-000-signatures": {
+   "at": "2026-11-15T18:00:42.936871+00:00",
+   "title": "Robotics engineer leaves Nvidia over lack of transparency around Jensen Huang’s exit, details decision",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/tech-industry/robotics-engineer-leaves-nvidia-over-lack-of-transparency-around-jensen-huangs-exit-details-decision-joins-chorus-of-disgruntled-staff-as-petition-to-reinstate-former-ceo-passes-150-000-signatures",
+   "score": 0,
+   "sources": 1,
+   "summary": "Dai's post shows how much Nvidia employees looked up to the former CEO.",
+   "title_ar": ""
+  },
   "tomshardware.com/tech-industry/semiconductors/elon-musk-says-it-would-be-an-honor-to-hire-ousted-nvidia-ceo-jensen-huang-possible-projects-could-include-terafab-spacexs-planned-gpu-manufacturing-or-teslas-ai-accelerators": {
    "at": "2026-11-12T16:00:47.960550+00:00",
    "title": "Elon Musk says it ‘would be an honor’ to hire ousted Nvidia CEO Jensen Huang",
@@ -13470,8 +13481,8 @@
   "AI": "2026-11-15T15:45:27.498281+00:00",
   "Anime": "2026-11-15T17:15:32.575145+00:00",
   "Games": "2026-11-15T08:00:46.513774+00:00",
-  "Tech": "2026-11-15T17:45:28.778265+00:00"
+  "Tech": "2026-11-15T18:00:42.936871+00:00"
  },
- "digest_day": "2026-11-14",
+ "digest_day": "2026-11-15",
  "weekly_day": "2026-11-13"
 }
