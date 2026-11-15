@@ -3246,17 +3246,6 @@
    "summary": "The new season is now available on Crunchyroll",
    "title_ar": "Sizuk تطلق الفيديو الموسيقي لأغنية شارة البداية لأنمي The Iceblade Sorcerer Shall Rule the World II"
   },
-  "crunchyroll.com/news/latest/2026/11/8/harajuku-himegoto-house-anime-media-mix-project-announced": {
-   "at": "2026-11-08T15:00:44.656552+00:00",
-   "title": "Harajuku Himegoto House Anime and Media Mix Project Announced",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://crunchyroll.com/news/latest/2026/11/8/harajuku-himegoto-house-anime-media-mix-project-announced",
-   "score": 0,
-   "sources": 1,
-   "summary": "Check out a teaser trailer for the \"cute hitmen\" project",
-   "title_ar": ""
-  },
   "crunchyroll.com/news/latest/2026/11/9/atelier-karia-the-night-kingdom-the-guide-of-memories-story-trailer": {
    "at": "2026-11-09T18:45:31.961057+00:00",
    "title": "Atelier Karia: The Night Kingdom & the Guide of Memories Story Trailer Debuts",
@@ -11903,17 +11892,6 @@
    "summary": "It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio.",
    "title_ar": ""
   },
-  "theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview": {
-   "at": "2026-11-08T15:00:44.656552+00:00",
-   "title": "Chatbots might be coming to Apple’s HomeView",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
-   "score": 1,
-   "sources": 1,
-   "summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub.",
-   "title_ar": "قد تتوفر روبوتات الدردشة في جهاز HomeView من Apple"
-  },
   "theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion": {
    "at": "2026-11-09T12:00:44.615714+00:00",
    "title": "Instagram’s AI age detection is expanding globally",
@@ -12541,6 +12519,17 @@
    "summary": "Scott Bessent wonders whether Nvidia's management knew about selling restricted hardware to shell companies, but does not directly blame Jensen Huang of anything.",
    "title_ar": "وزيرة الخزانة الأمريكية تتساءل عما إذا كانت Nvidia قد باعت وحدات معالجة الرسوميات الخاصة بالذكاء الاصطناعي لشركات وهمية عن علم، وتقول إن الشركة نفسها مسؤولة - \"أعتقد أنه من المهم أن يُحاسب أي شخص في الشركة على ذلك\""
   },
+  "tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge": {
+   "at": "2026-11-15T15:15:29.278174+00:00",
+   "title": "Judge denies motion to dismiss DRAM price-fixing lawsuit against Micron, Samsung, and SK hynix",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge",
+   "score": 2,
+   "sources": 1,
+   "summary": "The judge characterized the three companies as \"hawks flying in formation\" when it came to their business decisions.",
+   "title_ar": "القاضي يرفض طلب إسقاط دعوى التلاعب بأسعار ذواكر DRAM المرفوعة ضد شرِكات Micron وSamsung وSK hynix"
+  },
   "tomshardware.com/tech-industry/big-tech/law-firm-files-class-action-lawsuit-against-nvidia-after-ceo-jensen-huang-confirms-affair-with-alleged-chinese-spy-more-to-come-as-multiple-other-law-firms-investigate-securities-fraud-following-stock-drop": {
    "at": "2026-11-10T00:15:31.996768+00:00",
    "title": "Law firm files class-action lawsuit against Nvidia after CEO Jensen Huang confirms affair with alleged Chinese spy",
@@ -12815,17 +12804,6 @@
    "sources": 1,
    "summary": "There are multiple speculations about Alice Huang's s history and how she built her relationship with Jensen Huang.",
    "title_ar": ""
-  },
-  "tomshardware.com/video-games/japanese-arcades-suffer-week-long-blackout-following-sega-server-hack-bandai-namco-titles-resume-trial-operations-as-sega-games-remain-offline": {
-   "at": "2026-11-08T15:05:38.712882+00:00",
-   "title": "Japanese arcades suffer week-long blackout following Sega server hack",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/video-games/japanese-arcades-suffer-week-long-blackout-following-sega-server-hack-bandai-namco-titles-resume-trial-operations-as-sega-games-remain-offline",
-   "score": 1,
-   "sources": 1,
-   "summary": "The sensory overload in video game arcades in Japan was eerily absent from some venues this week.",
-   "title_ar": "صالات الألعاب في اليابان تعاني من انقطاع لمدة أسبوع إثر اختراق خوادم Sega"
   },
   "tomshardware.com/video-games/nintendo/hobbyist-turns-usd45-usb-c-hub-into-a-working-nintendo-switch-2-dock-by-patching-its-firmware-consoles-proprietary-handshake-needs-about-540-bytes-of-code-to-answer": {
    "at": "2026-11-12T20:15:34.791975+00:00",
@@ -13371,7 +13349,7 @@
   "AI": "2026-11-15T11:45:30.463541+00:00",
   "Anime": "2026-11-15T12:15:28.003685+00:00",
   "Games": "2026-11-15T08:00:46.513774+00:00",
-  "Tech": "2026-11-15T14:45:25.621979+00:00"
+  "Tech": "2026-11-15T15:15:29.278174+00:00"
  },
  "digest_day": "2026-11-14",
  "weekly_day": "2026-11-13"
