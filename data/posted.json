@@ -584,6 +584,17 @@
    "summary": "The “Android Time Machine” is a fun project that puts Android versions into your browser, giving you a quick and easy chance to play around with older versions for a quick hit of nostalgia. more…",
    "title_ar": "شخص ما أعاد بناء إصدارات Android القديمة داخل المتصفح، وهي تثير الحنين فوراً [معرض الصور]"
   },
+  "9to5google.com/2026/11/16/gemini-rolling-out-66-new-regional-voices-on-android-and-ios-including-10-uk-dialects": {
+   "at": "2026-11-16T17:45:30.575392+00:00",
+   "title": "Gemini rolling out 66 new regional voices on Android and iOS, including 10+ UK dialects",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5google.com/2026/11/16/gemini-rolling-out-66-new-regional-voices-on-android-and-ios-including-10-uk-dialects/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Following a preview at Google I/O , Google is rolling out 66 new regional voices to the Gemini app on both Android and iOS today.",
+   "title_ar": ""
+  },
   "9to5google.com/2026/11/16/google-ask-maps-itineraries": {
    "at": "2026-11-16T14:15:27.693865+00:00",
    "title": "Google Maps rolling out travel itineraries & list search for Ask Maps",
@@ -3477,17 +3488,6 @@
    "summary": "Xiaomi's HyperOS 4 update includes intriguing new features like Soft Light Glass, memory improvements and more, but the not everyone will get the perks.",
    "title_ar": "هواتف Xiaomi هذه لن تحصل بعد الآن على الدعم لتحديث HyperOS 4 الأخير"
   },
-  "engadget.com/2308678/uber-is-launching-its-own-parking-reservation-service": {
-   "at": "2026-11-09T17:30:42.253598+00:00",
-   "title": "Uber is launching its own parking reservation service",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2308678/uber-is-launching-its-own-parking-reservation-service/",
-   "score": 3,
-   "sources": 2,
-   "summary": "Uber Parking is built on the company's acquisition of SpotHero.",
-   "title_ar": "Uber تطلق خدمة حجز مواقف السيارات الخاصة بها"
-  },
   "engadget.com/2310671/one-ui-9-samsung-galaxy-phones-last-major-update": {
    "at": "2026-11-14T13:30:37.958769+00:00",
    "title": "One UI 9 is the final major update for these older Samsung Galaxy phones",
@@ -4202,6 +4202,17 @@
    "sources": 1,
    "summary": "Apple has unveiled a new research study with the aim of learning how people use AI health tools.",
    "title_ar": ""
+  },
+  "engadget.com/2317417/google-adds-66-regional-dialects-to-gemini": {
+   "at": "2026-11-16T17:45:30.575392+00:00",
+   "title": "Google adds 66 regional dialects to Gemini",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2317417/google-adds-66-regional-dialects-to-gemini/",
+   "score": 3,
+   "sources": 2,
+   "summary": "From today, Gemini's making more of an effort to speak your language in a way that sounds more accurate.",
+   "title_ar": "جوجل تزيد 66 لهجة إقليمية إلى Gemini"
   },
   "engadget.com/2317689/apple-is-making-a-bigger-push-into-video-podcasts": {
    "at": "2026-11-16T16:00:59.223379+00:00",
@@ -8383,6 +8394,17 @@
    "summary": "'I wish hardware like the \"Xbox Series S\" wouldn't be released'",
    "title_ar": ""
   },
+  "kotaku.com/the-entire-internet-is-hoping-robert-pattinson-makes-james-bond-a-big-ol-weirdo-2000757473": {
+   "at": "2026-11-16T17:45:30.575392+00:00",
+   "title": "The Entire Internet Is Hoping Robert Pattinson Makes James Bond A Big Ol’ Weirdo",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/the-entire-internet-is-hoping-robert-pattinson-makes-james-bond-a-big-ol-weirdo-2000757473",
+   "score": 0,
+   "sources": 1,
+   "summary": "'This is the skin of a killer, Moneypenny.'",
+   "title_ar": ""
+  },
   "kotaku.com/the-internet-reacts-to-nvidia-ceos-resignation-jensen-huang-2000756273": {
    "at": "2026-11-12T16:15:31.023666+00:00",
    "title": "The Internet Reacts To Nvidia CEO Massive Bag Fumble",
@@ -9417,17 +9439,6 @@
    "summary": "Tae Kim, author of The Nvidia Way, thinks there are some promising alternatives to Huang.",
    "title_ar": ""
   },
-  "pcgamer.com/hardware/graphics-cards/amd-users-are-reporting-a-misfiring-utility-is-eating-ssd-health-by-1-percent-a-month-amd-says-a-fix-is-on-the-way-for-its-gpu-drivers": {
-   "at": "2026-11-09T17:30:42.253598+00:00",
-   "title": "AMD users are reporting a misfiring utility is eating SSD health by 1% a month. AMD says a fix is on the way for its GPU drivers",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-users-are-reporting-a-misfiring-utility-is-eating-ssd-health-by-1-percent-a-month-amd-says-a-fix-is-on-the-way-for-its-gpu-drivers/",
-   "score": 0,
-   "sources": 1,
-   "summary": "No rush.",
-   "title_ar": ""
-  },
   "pcgamer.com/hardware/graphics-cards/clear-national-security-concerns-that-need-to-be-addressed-immediately-new-letters-to-jensen-huang-from-congress-strike-a-tougher-tone-for-the-ex-nvidia-ceo": {
    "at": "2026-11-13T13:15:29.919250+00:00",
    "title": "'Clear national security concerns that need to be addressed immediately': new letters to Jensen Huang from Congress strike a tougher tone for the ex-Nvidia CEO",
@@ -10262,17 +10273,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier…",
-   "title_ar": ""
-  },
-  "techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis": {
-   "at": "2026-11-09T17:30:42.253598+00:00",
-   "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.",
    "title_ar": ""
   },
   "techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement": {
@@ -13217,7 +13217,7 @@
   "AI": "2026-11-16T17:15:28.791533+00:00",
   "Anime": "2026-11-16T16:30:56.289501+00:00",
   "Games": "2026-11-16T17:30:36.333074+00:00",
-  "Tech": "2026-11-16T17:00:55.773105+00:00"
+  "Tech": "2026-11-16T17:45:30.575392+00:00"
  },
  "digest_day": "2026-11-15",
  "weekly_day": "2026-11-13"
