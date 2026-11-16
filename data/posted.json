@@ -8383,17 +8383,6 @@
    "summary": "The proposed class action complaint alleges that Huang and Nvidia's executives provided 'false and misleading statements' to the press regarding Huang's relationship with alleged Chinese spy Alice…",
    "title_ar": ""
   },
-  "kotaku.com/nvidia-share-price-jensen-huang-ai-affair-alice-megaspeed-markets-2000755054": {
-   "at": "2026-11-09T11:30:47.083498+00:00",
-   "title": "Nvidia Shares Dip By Hundreds Of Billions Following CEO’s Statement On Affair With Possible Chinese Spy",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/nvidia-share-price-jensen-huang-ai-affair-alice-megaspeed-markets-2000755054",
-   "score": 0,
-   "sources": 1,
-   "summary": "The markets have not been kind to Nvidia this morning as CEO Jensen Huang's statement takes its toll on the company's stocks",
-   "title_ar": ""
-  },
   "kotaku.com/overwatch-2-reveal-announcement-blizzcon-2019-jeff-kaplan-2000756275": {
    "at": "2026-11-12T15:30:37.840473+00:00",
    "title": "Jeff Kaplan Blames Overwatch 2’s Messy Reveal On Blizzard Hubris: ‘You Guys Are F*cking Idiots’",
@@ -8404,6 +8393,17 @@
    "sources": 1,
    "summary": "The sequel that never truly came to be was announced in 2019",
    "title_ar": "Jeff Kaplan يلقي باللوم على الكشف الفوضوي للعبة Overwatch 2 بسبب غرور Blizzard: أنتم حمقى حقاً"
+  },
+  "kotaku.com/project-helix-next-xbox-microsoft-pc-asha-sharma-series-s-x-2000757405": {
+   "at": "2026-11-16T11:45:29.077213+00:00",
+   "title": "Microsoft Says Of The Next Xbox: ‘Helix Is A Console Capable Of Playing PC Games—Not A PC That Can Also Play Console Games’",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/project-helix-next-xbox-microsoft-pc-asha-sharma-series-s-x-2000757405",
+   "score": 0,
+   "sources": 1,
+   "summary": "Project Helix will also carry over progress from games played on every previous Xbox console",
+   "title_ar": ""
   },
   "kotaku.com/ps5-sales-just-wont-quit-2000755917": {
    "at": "2026-11-11T17:15:31.486357+00:00",
@@ -10473,17 +10473,6 @@
    "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
    "title_ar": "ميتا تطلق نموذج Muse Ember، وهو نموذج خفيف الوزن جديد لتنفيذ الوكلاء الذكية"
   },
-  "techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio": {
-   "at": "2026-11-09T11:30:47.083498+00:00",
-   "title": "Tesla expands robotaxi service to San Antonio",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
-   "score": 1,
-   "sources": 1,
-   "summary": "This will be the fourth Texas city in which Tesla will launch robotaxis.",
-   "title_ar": "تيسلا توسع خدمة الروبوتاكسي لتشمل سان أنтониيو"
-  },
   "techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia": {
    "at": "2026-11-09T22:30:37.284784+00:00",
    "title": "The race is on to sue Nvidia",
@@ -11496,17 +11485,6 @@
    "summary": "Meta's AI agent Muse can now call businesses on behalf of paying US subscribers, handling everything from cable providers to restaurants.",
    "title_ar": ""
   },
-  "the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls": {
-   "at": "2026-11-09T11:45:27.891477+00:00",
-   "title": "Nvidia espionage scandal weakens Huang's lobby against tighter AI chip export controls",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Nvidia CEO Jensen Huang has admitted to an extramarital affair with a woman US intelligence agencies classify as a suspected Chinese informant.",
-   "title_ar": ""
-  },
   "the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot": {
    "at": "2026-11-10T19:45:35.558073+00:00",
    "title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
@@ -12232,17 +12210,6 @@
    "sources": 1,
    "summary": "Prusament PETG ESD is the cheapest ESD filament on the market, while being carbon-fiber reinforced, something the competition doesn't have.",
    "title_ar": "شركة Prusa تطلق خيط طباعة ثلاثية الأبعاد جديداً معززاً بألياف الكربون وأنابيب الكربون النانوية لتصنيع الإلكترونيات"
-  },
-  "tomshardware.com/monitors/lg-woled-tvs-suffer-from-edge-rot-pixel-death-pixels-go-dark-around-the-edges-similar-to-a-mold-pattern-nearly-all-woled-test-units-show-clear-signs-of-degradation": {
-   "at": "2026-11-09T11:45:27.891477+00:00",
-   "title": "LG WOLED TVs suffer from 'edge rot' pixel death",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/monitors/lg-woled-tvs-suffer-from-edge-rot-pixel-death-pixels-go-dark-around-the-edges-similar-to-a-mold-pattern-nearly-all-woled-test-units-show-clear-signs-of-degradation",
-   "score": 1,
-   "sources": 1,
-   "summary": "LG WOLED TV panels made around 2019 to 2023 may be susceptible to edge rot — almost all of RTings' WOLED test units show clear signs of degradation",
-   "title_ar": "تلفزيونات LG بتقنية WOLED تعاني من موت البكسلات بسبب \"تعفن الحواف\""
   },
   "tomshardware.com/pc-components/cpus/amd-shares-how-it-can-retain-95-percent-of-server-performance-with-just-half-the-dram-sidestepping-memory-shortages-with-mext-tech-powers-over-100-servers-already-running-with-plans-to-expand-to-2-000-servers-in-2027": {
    "at": "2026-11-11T12:30:40.486421+00:00",
