@@ -3587,17 +3587,6 @@
    "summary": "If you've seen a circled capital Z on your Google Maps route, you should know what it means.",
    "title_ar": "ماذا يعني رمز الحرف Z المحاط ببائرة في خريطة جوجل"
   },
-  "engadget.com/2311532/youtube-will-once-again-be-part-of-billboard-chart-calculations-in-2027": {
-   "at": "2026-11-09T21:30:38.030751+00:00",
-   "title": "YouTube will once again be part of Billboard chart calculations in 2027",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2311532/youtube-will-once-again-be-part-of-billboard-chart-calculations-in-2027/",
-   "score": 3,
-   "sources": 2,
-   "summary": "Billboard will give more weight to free, ad-supported listening in its methodology.",
-   "title_ar": "يوتيوب ستصبح جزءاً من حسابات قوائم Billboard مرة أخرى في عام 2027"
-  },
   "engadget.com/2311630/amazon-finally-launches-the-250-ring-drone-cam-and-also-the-ring-rover-cam": {
    "at": "2026-11-10T15:45:33.266716+00:00",
    "title": "Amazon finally launches the $250 Ring Drone Cam and also the Ring Rover Cam",
@@ -8130,6 +8119,17 @@
    "summary": "It wasn't just the spy he was allegedly shagging",
    "title_ar": ""
   },
+  "kotaku.com/activision-treyarch-layoffs-call-of-duty-zombies-craig-houston-2000757439": {
+   "at": "2026-11-16T21:30:38.279985+00:00",
+   "title": "Xbox Layoffs Hit 20-Year Call Of Duty Veteran Who Wrote On Every Black Ops Game",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://kotaku.com/activision-treyarch-layoffs-call-of-duty-zombies-craig-houston-2000757439",
+   "score": 2,
+   "sources": 1,
+   "summary": "Craig Houston had been writing for the series since Call of Duty 3",
+   "title_ar": "تسريحات إكس بوكس تطال مخضرم Call of Duty صاحب الـ 20 عاماً والذي كتب لكل ألعاب Black Ops"
+  },
   "kotaku.com/big-walk-ai-disclosure-igf-awards-vg-chat-2000755514": {
    "at": "2026-11-10T17:45:28.481552+00:00",
    "title": "A Big Talk About Big Walk’s AI Fallout",
@@ -9802,6 +9802,17 @@
    "summary": "A new report says that video evidence of the affair exists, but was swept under the rug.",
    "title_ar": ""
   },
+  "pcgamer.com/software/ai/trump-supports-jensen-huangs-return-as-nvidia-ceo-but-it-doesnt-sound-like-the-board-is-interested": {
+   "at": "2026-11-16T21:30:38.279985+00:00",
+   "title": "Trump supports Jensen Huang's return as Nvidia CEO, but it doesn't sound like the board is interested",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/software/ai/trump-supports-jensen-huangs-return-as-nvidia-ceo-but-it-doesnt-sound-like-the-board-is-interested/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The US president doesn't seem too concerned about the potential risks to US national security: \"I think he learned a big lesson, I guess.\"",
+   "title_ar": ""
+  },
   "pcgamer.com/software/ai/xbox-ceo-looks-to-the-future-as-microsofts-console-turns-25-a-single-person-will-soon-be-able-to-wield-capabilities-that-once-required-entire-nations": {
    "at": "2026-11-12T22:30:41.416256+00:00",
    "title": "Xbox CEO looks to the future as Microsoft's console turns 25: 'A single person will soon be able to wield capabilities that once required entire nations'",
@@ -10372,17 +10383,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier…",
-   "title_ar": ""
-  },
-  "techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement": {
-   "at": "2026-11-09T21:30:38.030751+00:00",
-   "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
-   "score": 0,
-   "sources": 1,
-   "summary": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
    "title_ar": ""
   },
   "techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp": {
@@ -11308,17 +11308,6 @@
    "sources": 1,
    "summary": "Chinese investors are shut out of Anthropic's IPO, Bloomberg reports.",
    "title_ar": "البنوك تمنع مستثمري الصين وهونغ كونغ من الاكتتاب العام لشركة Anthropic بسبب ضوابط التصدير الأمريكية"
-  },
-  "the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo": {
-   "at": "2026-11-09T21:30:38.030751+00:00",
-   "title": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Anthropic is releasing Claude Fable 5.2 and Mythos 5.2, its most powerful models to date, in two versions: one freely available and one reserved for verified organizations.",
-   "title_ar": ""
   },
   "the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls": {
    "at": "2026-11-12T23:30:33.840937+00:00",
@@ -13469,7 +13458,7 @@
  "topic_last_posted": {
   "AI": "2026-11-16T21:15:30.071691+00:00",
   "Anime": "2026-11-16T21:15:30.071691+00:00",
-  "Games": "2026-11-16T20:45:32.720425+00:00",
+  "Games": "2026-11-16T21:30:38.279985+00:00",
   "Tech": "2026-11-16T21:01:26.567559+00:00"
  },
  "digest_day": "2026-11-16",
