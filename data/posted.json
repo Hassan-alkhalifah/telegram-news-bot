@@ -782,17 +782,6 @@
    "summary": "HBO Max and Paramount+ customers will soon be able to pay for one subscription that unlocks both services.",
    "title_ar": ""
   },
-  "9to5mac.com/2026/11/09/teens-and-parents-can-expect-instagram-notifications-about-ai-age-estimation": {
-   "at": "2026-11-09T13:00:49.302481+00:00",
-   "title": "Teens and parents can expect Instagram notifications about AI age estimation",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/09/teens-and-parents-can-expect-instagram-notifications-about-ai-age-estimation/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Meta says it’s expanding its AI age estimation globally to automatically extend Instagram account protections to millions more teenagers.",
-   "title_ar": ""
-  },
   "9to5mac.com/2026/11/10/adobe-unveils-new-ai-tools-for-photoshop-premiere-and-more-with-mcp-support-coming-in-2027": {
    "at": "2026-11-10T14:45:30.888067+00:00",
    "title": "Adobe unveils new AI tools for Photoshop, Premiere, and more, with MCP support coming in 2027",
@@ -1881,17 +1870,6 @@
    "sources": 1,
    "summary": "Broadley worked on SaGa , Final Fantasy games",
    "title_ar": "وفاة نيل برودلي، مدير تعريب سلسلة ألعاب SaGa"
-  },
-  "animenewsnetwork.com/news/2026-11-09/sega-confirms-leak-of-2.2-million-newsletter-recipients-email-addresses/.243646": {
-   "at": "2026-11-09T13:00:49.302481+00:00",
-   "title": "SEGA Confirms Leak of 2.2 Million Newsletter Recipients' Email Addresses",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-09/sega-confirms-leak-of-2.2-million-newsletter-recipients-email-addresses/.243646",
-   "score": 1,
-   "sources": 1,
-   "summary": "SEGA: No indications that other personal info was also leaked",
-   "title_ar": "SEGA تؤكد تسريب عناوين البريد الإلكتروني لـ 2.2 مليون مشترك في النشرة الإخبارية"
   },
   "animenewsnetwork.com/news/2026-11-09/steel-ball-run-jojo-bizarre-adventure-anime-special-video-highlights-stands/.243670": {
    "at": "2026-11-10T04:15:31.642487+00:00",
@@ -7976,17 +7954,6 @@
    "summary": "Killing Floor 3 developer Tripwire Interactive has announced that 36 people are being let go as the studio restructures.",
    "title_ar": ""
   },
-  "insider-gaming.com/two-new-ps-plus-titles-announced-ahead-of-schedule": {
-   "at": "2026-11-09T13:00:49.302481+00:00",
-   "title": "Two New PS Plus Titles Announced Ahead Of Schedule",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://insider-gaming.com/two-new-ps-plus-titles-announced-ahead-of-schedule/",
-   "score": 3,
-   "sources": 2,
-   "summary": "Two new PS Plus titles have been revealed ahead of schedule by PlayStation themselves, thanks to a Japanese PS Blog.",
-   "title_ar": ""
-  },
   "insider-gaming.com/vindictus-defying-fate-new-trailer-2027-release": {
    "at": "2026-11-13T18:15:30.111600+00:00",
    "title": "Vindictus: Defying Fate Targets 2027 Release on PC and PS5",
@@ -9879,17 +9846,6 @@
    "summary": "Available from 17th November.",
    "title_ar": ""
   },
-  "pushsquare.com/news/2026/11/2-upcoming-ps-plus-extra-premium-games-announced-early": {
-   "at": "2026-11-09T13:00:49.302481+00:00",
-   "title": "2 Upcoming PS Plus Extra, Premium Games Announced Early",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pushsquare.com/news/2026/11/2-upcoming-ps-plus-extra-premium-games-announced-early",
-   "score": 0,
-   "sources": 1,
-   "summary": "In the Japanese region at least.",
-   "title_ar": ""
-  },
   "pushsquare.com/news/2026/11/amd-sony-mark-ps5s-100-million-unit-milestone-with-signed-consoles": {
    "at": "2026-11-12T16:15:31.023666+00:00",
    "title": "AMD, Sony Mark PS5's 100 Million Unit Milestone with Signed Consoles",
@@ -11727,6 +11683,17 @@
    "summary": "Nvidia's board announced that Jensen Huang - its longtime co-founder, president, and CEO - has resigned after reports of two extramarital affairs, one with an alleged Chinese spy and one with an…",
    "title_ar": ""
   },
+  "theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down": {
+   "at": "2026-11-16T13:15:30.964009+00:00",
+   "title": "The Nvidia scandal isn’t slowing down",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+   "score": 1,
+   "sources": 1,
+   "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president.",
+   "title_ar": "فضيحة Nvidia لا تهدأ"
+  },
   "theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang": {
    "at": "2026-11-12T16:00:47.960550+00:00",
    "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ ahead",
@@ -13390,7 +13357,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-16T12:30:39.759667+00:00",
+  "AI": "2026-11-16T13:15:30.964009+00:00",
   "Anime": "2026-11-16T12:30:39.759667+00:00",
   "Games": "2026-11-16T12:45:32.036008+00:00",
   "Tech": "2026-11-16T13:00:46.009671+00:00"
