@@ -12343,17 +12343,6 @@
    "summary": "Seagate takes on high SSD storage prices with the Firecuda Force, a 8TB or 20TB hard drive that requires you to bring your own M.2 2280 SSD (ideally 1TB, with DRAM).",
    "title_ar": ""
   },
-  "tomshardware.com/pc-components/gpu-drivers/amd-adrenalin-bug-could-be-writing-data-continuously-wearing-out-ssds-radeon-owner-claims-external-events-utility-used-up-1-percent-of-ssd-health-every-month-for-over-a-year": {
-   "at": "2026-11-09T12:45:31.891689+00:00",
-   "title": "AMD admits GPU driver bug is writing data continuously, wearing out SSDs",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/pc-components/gpu-drivers/amd-adrenalin-bug-could-be-writing-data-continuously-wearing-out-ssds-radeon-owner-claims-external-events-utility-used-up-1-percent-of-ssd-health-every-month-for-over-a-year",
-   "score": 1,
-   "sources": 1,
-   "summary": "AMD is investigating reports that its External Events Utility generates continuous SSD writes of up to 5MB/s, even when Radeon-powered PCs are idle.",
-   "title_ar": "AMD تقر بأن خطأ في تعريفات وحدة معالجة الرسومات يكتب البيانات بشكل مستمر مما يتسبب في إهلاك وحدات SSD"
-  },
   "tomshardware.com/pc-components/gpus/nvidia-board-reportedly-approached-arm-ceo-rene-haas-during-replacement-search-jensen-huangs-transgressions-leave-nvidia-scrambling-to-fill-a-massive-void": {
    "at": "2026-11-13T21:00:41.462775+00:00",
    "title": "Nvidia board reportedly approached Arm CEO Rene Haas during replacement search",
@@ -12474,6 +12463,17 @@
    "sources": 1,
    "summary": "Google’s TPU 8i Max and TPU 8tx reuse TPU 8i and TPU 8t silicon to target long-context agents and confidential inference.",
    "title_ar": "جوجل تعيد تصميم سيليكون TPU إلى أنظمة مخصصة للوكلاء الأذكياء والأمان"
+  },
+  "tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-could-be-plotting-return-as-nvidia-ceo-report-claims-allies-have-formed-a-war-room-to-drive-reinstatement-days-after-resignation-scandal": {
+   "at": "2026-11-16T12:45:32.036008+00:00",
+   "title": "Jensen Huang could be plotting return as Nvidia CEO, report claims",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-could-be-plotting-return-as-nvidia-ceo-report-claims-allies-have-formed-a-war-room-to-drive-reinstatement-days-after-resignation-scandal",
+   "score": 0,
+   "sources": 1,
+   "summary": "Jensen Huang could be back in his old Nvidia office soon as allies rally to push the AI chipmaker to take him back just days after he was ousted over an affair with an alleged Chinese spy.",
+   "title_ar": ""
   },
   "tomshardware.com/tech-industry/artificial-intelligence/malaysia-and-singapore-step-up-nvidia-ai-chip-probes-as-charges-brought-against-chinese-national-over-917-smuggled-servers-firm-at-center-of-jensen-huang-controversy-announces-inventory-audit-to-account-for-all-restricted-gpus": {
    "at": "2026-11-13T16:30:38.946330+00:00",
@@ -13245,6 +13245,17 @@
    "summary": "Jacek Rozenek consented to AI being used on his voice lines to make them sound like he used to",
    "title_ar": ""
   },
+  "videogameschronicle.com/news/xbox-gem-the-chronicles-of-riddick-escape-from-butcher-bay-was-briefly-cancelled-but-nobody-told-its-developer": {
+   "at": "2026-11-16T12:45:32.036008+00:00",
+   "title": "Xbox gem The Chronicles of Riddick: Escape from Butcher Bay was briefly cancelled, but nobody told its developer",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.videogameschronicle.com/news/xbox-gem-the-chronicles-of-riddick-escape-from-butcher-bay-was-briefly-cancelled-but-nobody-told-its-developer/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Vivendi wanted to scrap the project, but Starbreeze only thought it had been cut on PS2",
+   "title_ar": "لعبة Xbox الشهيرة The Chronicles of Riddick: Escape from Butcher Bay ألغيت لفترة وجيزة، لكن لم يخبر أحد مطورها"
+  },
   "videogameschronicle.com/news/xbox-says-project-helix-is-a-console-that-can-play-pc-games-not-a-pc-that-can-play-console-games": {
    "at": "2026-11-16T10:00:41.449115+00:00",
    "title": "Xbox says Project Helix is a console that can play PC games, not a PC that can play console games",
@@ -13370,7 +13381,7 @@
  "topic_last_posted": {
   "AI": "2026-11-16T12:30:39.759667+00:00",
   "Anime": "2026-11-16T12:30:39.759667+00:00",
-  "Games": "2026-11-16T12:15:34.564378+00:00",
+  "Games": "2026-11-16T12:45:32.036008+00:00",
   "Tech": "2026-11-16T12:30:39.759667+00:00"
  },
  "digest_day": "2026-11-15",
