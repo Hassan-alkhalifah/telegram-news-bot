@@ -6040,6 +6040,17 @@
    "summary": "Apple is expected to launch the standard iPhone 18 and the iPhone Air 2 in spring 2027.",
    "title_ar": ""
   },
+  "gsmarena.com/iphone_duo_2_could_get_face_id_but_apple_is_running_out_of_time-news-75500.php": {
+   "at": "2026-11-16T23:45:29.284385+00:00",
+   "title": "iPhone Duo 2 could get Face ID, but Apple is running out of time",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/iphone_duo_2_could_get_face_id_but_apple_is_running_out_of_time-news-75500.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "Apple wants to bring Face ID to the iPhone Duo 2, but it's running out of time, according to Bloomberg's Mark Gurman.",
+   "title_ar": ""
+  },
   "gsmarena.com/jensen_huang_steps_down_as_nvidia_ceo_after_a_week_of_scandal_reports-news-75459.php": {
    "at": "2026-11-12T19:00:43.692442+00:00",
    "title": "Jensen Huang steps down as Nvidia CEO following reports of two affairs",
@@ -11045,6 +11056,17 @@
    "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told…",
    "title_ar": "Nvidia تؤكد سراً قدرتها على تتبع الشرائح لمكافحة التهريب، حتى في الوقت الذي تشكك فيه الصناعة علناً في جدوى ذلك"
   },
+  "the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices": {
+   "at": "2026-11-16T23:45:29.284385+00:00",
+   "title": "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Alibaba launches Qwen4-Max, a new flagship model with 2.4 trillion parameters that activates only 71 billion per token.",
+   "title_ar": "نموذج Qwen4-Max من Alibaba ينافس Opus 5.5 و GPT-6 و Kimi K3.1 Pro بأسعار أقل بكثير"
+  },
   "the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon": {
    "at": "2026-11-14T11:30:34.617290+00:00",
    "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
@@ -13346,7 +13368,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-16T22:45:27.362596+00:00",
+  "AI": "2026-11-16T23:45:29.284385+00:00",
   "Anime": "2026-11-16T23:15:32.491737+00:00",
   "Games": "2026-11-16T23:00:42.122663+00:00",
   "Tech": "2026-11-16T23:30:41.548334+00:00"
