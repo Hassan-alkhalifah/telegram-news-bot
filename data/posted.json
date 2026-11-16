@@ -3411,6 +3411,17 @@
    "summary": "Next entry in the series launches in the west in February 2027",
    "title_ar": ""
   },
+  "crunchyroll.com/news/quizzes/2026/11/16/anime-crosswords-puzzles-vol-81": {
+   "at": "2026-11-16T15:15:27.546146+00:00",
+   "title": "Crunchyroll News Puzzles Vol. 81: Universal Guidance and Messy Members",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://crunchyroll.com/news/quizzes/2026/11/16/anime-crosswords-puzzles-vol-81",
+   "score": 1,
+   "sources": 1,
+   "summary": "Test your anime knowledge with our latest puzzle collection!",
+   "title_ar": "أخبار Crunchyroll: الألغاز المجلد 81: إرشاد عالمي وأعضاء فوضويون"
+  },
   "engadget.com/2307733/what-tiny-blue-dot-on-android-phone-telling-you": {
    "at": "2026-11-10T03:30:38.523040+00:00",
    "title": "What the tiny blue dot on your Android phone is telling you",
@@ -11089,6 +11100,17 @@
    "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely": {
+   "at": "2026-11-16T15:15:27.546146+00:00",
+   "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Under the interim rule, US will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+   "title_ar": ""
+  },
   "techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas": {
    "at": "2026-11-16T12:30:39.759667+00:00",
    "title": "Zoox robotaxis are now on the Uber app in Las Vegas",
@@ -13292,7 +13314,7 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-16T14:15:27.693865+00:00",
-  "Anime": "2026-11-16T14:30:38.860571+00:00",
+  "Anime": "2026-11-16T15:15:27.546146+00:00",
   "Games": "2026-11-16T14:45:46.387109+00:00",
   "Tech": "2026-11-16T15:00:58.508151+00:00"
  },
