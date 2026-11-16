@@ -595,6 +595,17 @@
    "summary": "Google teased last month that detachable Googlebooks are coming soon, and a leak today provides the best look at the “Lenovo Googlebook Duet 13” yet. more…",
    "title_ar": "تسريب جهاز Lenovo Googlebook Duet 13 يشير إلى إطلاقه في يناير [معرض الصور]"
   },
+  "9to5google.com/2026/11/16/google-ask-maps-itineraries": {
+   "at": "2026-11-16T14:15:27.693865+00:00",
+   "title": "Google Maps rolling out travel itineraries & list search for Ask Maps",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5google.com/2026/11/16/google-ask-maps-itineraries/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Ahead of the holiday season, Google Maps is launching a handy travel itineraries feature alongside a slew of other new capabilities for Ask Maps. more…",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/09/anthropic-upgrades-claude-with-new-fable-5-2-model-details-here": {
    "at": "2026-11-09T19:15:30.412911+00:00",
    "title": "Anthropic upgrades Claude with new Fable 5.2 model, details here",
@@ -2541,6 +2552,17 @@
    "sources": 1,
    "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
    "title_ar": "أداة Claude Code تكشف الأسرار عن طريق الخطأ في جميع أنحاء GitHub"
+  },
+  "arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia": {
+   "at": "2026-11-16T14:15:27.693865+00:00",
+   "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Huang is weighing a return just days after resigning amid a deepening scandal.",
+   "title_ar": ""
   },
   "arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot": {
    "at": "2026-11-10T22:45:30.132408+00:00",
@@ -8229,6 +8251,17 @@
    "summary": "The founder is out amid multiple scandals",
    "title_ar": ""
   },
+  "kotaku.com/jesen-huang-reportedly-goes-from-calling-himself-a-piece-of-sht-to-exploring-a-return-to-nvidia-2000757422": {
+   "at": "2026-11-16T14:15:27.693865+00:00",
+   "title": "Jesen Huang Reportedly Goes From Calling Himself A ‘Piece Of Sh*t’ To Exploring A Return To Nvidia",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/jesen-huang-reportedly-goes-from-calling-himself-a-piece-of-sht-to-exploring-a-return-to-nvidia-2000757422",
+   "score": 0,
+   "sources": 1,
+   "summary": "Have we seen the last of the leather jacket-wearing founder?",
+   "title_ar": ""
+  },
   "kotaku.com/killing-floor-studio-cofounder-blames-spiraling-layoffs-on-woke-leftists-2000755642": {
    "at": "2026-11-10T23:45:31.690095+00:00",
    "title": "Killing Floor Studio Cofounder Blames Spiraling Layoffs On ‘Woke Leftists’",
@@ -12178,6 +12211,17 @@
    "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly.",
    "title_ar": ""
   },
+  "theverge.com/tech/1034110/google-ask-maps-ai-trip-planning": {
+   "at": "2026-11-16T14:15:27.693865+00:00",
+   "title": "Google Maps can now create trip itineraries for you",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+   "score": 3,
+   "sources": 2,
+   "summary": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop.",
+   "title_ar": "تطبيق Google Maps يمكنه الآن إنشاء خطط للرحلات نيابة عنك"
+  },
   "theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash": {
    "at": "2026-11-12T17:15:30.373926+00:00",
    "title": "‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug",
@@ -12331,17 +12375,6 @@
    "sources": 1,
    "summary": "After rumors of Nvidia GeForce RTX 5090 graphics cards being withdrawn from the consumer retail channel it is pleasing to see major U.S. eTailers like Newegg stuffed with cheaper stock today.",
    "title_ar": "توفر بطاقات Nvidia RTX 5090 من جديد على متجر Newegg مع 21 طرازاً"
-  },
-  "tomshardware.com/pc-components/gpus/nvidia-rtx-pro-6000-users-cables-almost-melted-even-when-limited-to-500w-12v-2x6-cables-appear-to-still-cause-problems-show-clear-signs-of-melting": {
-   "at": "2026-11-09T14:00:46.047929+00:00",
-   "title": "Nvidia RTX PRO 6000 user’s cables almost melted, even when limited to 500W",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-pro-6000-users-cables-almost-melted-even-when-limited-to-500w-12v-2x6-cables-appear-to-still-cause-problems-show-clear-signs-of-melting",
-   "score": 1,
-   "sources": 1,
-   "summary": "The 12V-2x6 connector nearly took out two RTX PRO 6000 Blackwell Workstation GPUs; luckily, the owner spotted the damaged cables before they melted the GPU connectors.",
-   "title_ar": "كابلات مستخدم بطاقة Nvidia RTX PRO 6000 كادت تذوب، حتى مع تقييد الطاقة بـ 500 واط"
   },
   "tomshardware.com/pc-components/gpus/nvidias-board-reportedly-preparing-to-oust-ceo-jensen-huang-as-second-extra-marital-affair-emerges-stock-has-plunged-20-percent-since-scandals-began-huang-has-been-first-and-only-ceo-for-33-years": {
    "at": "2026-11-12T00:00:42.456054+00:00",
@@ -13357,7 +13390,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-16T13:15:30.964009+00:00",
+  "AI": "2026-11-16T14:15:27.693865+00:00",
   "Anime": "2026-11-16T13:30:44.168694+00:00",
   "Games": "2026-11-16T13:45:28.964456+00:00",
   "Tech": "2026-11-16T14:00:42.798978+00:00"
