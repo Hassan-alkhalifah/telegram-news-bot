@@ -1882,17 +1882,6 @@
    "summary": "Witch Watch Season 2 is set to premiere in 2027.",
    "title_ar": ""
   },
-  "animenewsnetwork.com/news/2026-11-09/atelier-karia-game-video-previews-story/.243659": {
-   "at": "2026-11-09T22:45:30.460961+00:00",
-   "title": "Atelier Karia Game's Video Previews Story",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-09/atelier-karia-game-video-previews-story/.243659",
-   "score": 0,
-   "sources": 1,
-   "summary": "Game launches on February 25 for Switch 2, PS5, Xbox X|S, PC via Steam",
-   "title_ar": ""
-  },
   "animenewsnetwork.com/news/2026-11-09/ghost-end-of-night-anime-film-trailer-confirms-more-cast-and-staff-theme-song/.243662": {
    "at": "2026-11-10T01:45:28.760107+00:00",
    "title": "ghost – end of night Anime Film's Trailer Confirms More Cast & Staff, Theme Song",
@@ -1902,17 +1891,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Hitsujibungaku performs \"life\" for February 11 film",
-   "title_ar": ""
-  },
-  "animenewsnetwork.com/news/2026-11-09/kodansha-announces-winners-of-mangaka-discovery-global-manga-award/.243616": {
-   "at": "2026-11-09T22:45:30.460961+00:00",
-   "title": "Kodansha Announces Winners of Mangaka Discovery Global Manga Award",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-09/kodansha-announces-winners-of-mangaka-discovery-global-manga-award/.243616",
-   "score": 0,
-   "sources": 1,
-   "summary": "K Manga , Comic Days to publish grand prize-winners' entries in December",
    "title_ar": ""
   },
   "animenewsnetwork.com/news/2026-11-09/steel-ball-run-jojo-bizarre-adventure-anime-special-video-highlights-stands/.243670": {
@@ -5226,17 +5204,6 @@
    "summary": "Publisher Kalypso Media and developer Engine Software will release stealth tactics game Commandos: Origins Deluxe …",
    "title_ar": ""
   },
-  "gematsu.com/2026/11/cozy-life-simulation-game-wish-upon-a-llama-launches-december-9-for-ps5-xbox-series-ps4-xbox-one-switch-and-pc": {
-   "at": "2026-11-09T22:45:30.460961+00:00",
-   "title": "Cozy life simulation game Wish Upon a Llama launches December 9 for PS5, Xbox Series, PS4, Xbox One, Switch, and PC",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.gematsu.com/2026/11/cozy-life-simulation-game-wish-upon-a-llama-launches-december-9-for-ps5-xbox-series-ps4-xbox-one-switch-and-pc",
-   "score": 2,
-   "sources": 1,
-   "summary": "Cozy life simulation game Wish Upon a Llama will launch for PlayStation 5, Xbox Series, …",
-   "title_ar": "إطلاق لعبة محاكاة الحياة الهادئة Wish Upon a Llama في 9 ديسمبر على أجهزة PS5 و Xbox Series و PS4 و Xbox One و Switch و PC"
-  },
   "gematsu.com/2026/11/dave-the-diver-x-core-keeper-crossover-updates-announced": {
    "at": "2026-11-16T15:45:29.100899+00:00",
    "title": "DAVE THE DIVER x Core Keeper crossover updates announced",
@@ -5489,6 +5456,17 @@
    "sources": 2,
    "summary": "A listing for “Mega Man Legends – New Media” has appeared on the “What’s Shooting” …",
    "title_ar": "ظهور إدراج باسم “Mega Man Legends – New Media” على صفحة المشاريع الحالية لـ ACTRA Toronto"
+  },
+  "gematsu.com/2026/11/mercenaries-grace-launches-november-25-for-ps5-in-japan-in-december-for-switch-and-in-early-2027-for-pc": {
+   "at": "2026-11-16T23:00:42.122663+00:00",
+   "title": "Mercenaries Grace launches November 25 for PS5 in Japan, in December for Switch, and in early 2027 for PC",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.gematsu.com/2026/11/mercenaries-grace-launches-november-25-for-ps5-in-japan-in-december-for-switch-and-in-early-2027-for-pc",
+   "score": 2,
+   "sources": 1,
+   "summary": "Strategy RPG Mercenaries Grace will launch for PlayStation 5 on November 25 in Japan for …",
+   "title_ar": "إطلاق لعبة Mercenaries Grace في 25 نوفمبر لأجهزة PS5 في اليابان، وفي ديسمبر لـ Switch، وقي أوائل عام 2027 لأجهزة PC"
   },
   "gematsu.com/2026/11/mouse-work-launches-december-7": {
    "at": "2026-11-10T23:59:41.496286+00:00",
@@ -13480,7 +13458,7 @@
  "topic_last_posted": {
   "AI": "2026-11-16T22:45:27.362596+00:00",
   "Anime": "2026-11-16T21:15:30.071691+00:00",
-  "Games": "2026-11-16T22:15:29.191428+00:00",
+  "Games": "2026-11-16T23:00:42.122663+00:00",
   "Tech": "2026-11-16T22:30:37.407041+00:00"
  },
  "digest_day": "2026-11-16",
