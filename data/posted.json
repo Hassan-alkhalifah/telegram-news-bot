@@ -782,17 +782,6 @@
    "summary": "A new Financial Times report reveals how Apple saved billions in taxes in 2026 by shifting profits through Singapore and Ireland.",
    "title_ar": "تقرير: Apple وفرت أكثر من 5 مليارات دولار من الضرائب عبر سنغافورة وإيرلندا في عام 2026"
   },
-  "9to5mac.com/2026/11/09/security-bite-podcast-mac-malware-likely-helped-pull-off-the-record-6-3b-binance-hack": {
-   "at": "2026-11-09T11:00:51.692675+00:00",
-   "title": "Security Bite Podcast: Mac malware likely helped pull off the record $6.3B Binance hack",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/09/security-bite-podcast-mac-malware-likely-helped-pull-off-the-record-6-3b-binance-hack/",
-   "score": 2,
-   "sources": 1,
-   "summary": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform .",
-   "title_ar": "بودكاست Security Bite: البرمجيات الخبيثة على أجهزة Mac ساهمت على الأرجح في تنفيذ اختراق Binance القياسي بقيمة 6.3 مليار دولار"
-  },
   "9to5mac.com/2026/11/09/skydance-confirms-hbo-max-and-paramount-value-bundle-plan": {
    "at": "2026-11-10T00:45:27.365069+00:00",
    "title": "Skydance confirms HBO Max and Paramount+ ‘value’ bundle plan",
@@ -5061,6 +5050,17 @@
    "summary": "As Xbox celebrates its 25th anniversary, Xbox CEO Asha Sharma has shared her thoughts on where gaming is going over the next 25 years, and people are saying her message is really more about pushing…",
    "title_ar": ""
   },
+  "gamespot.com/articles/xbox-project-helix-is-a-console-that-plays-pc-games-not-the-other-way-around": {
+   "at": "2026-11-16T11:15:29.411401+00:00",
+   "title": "Xbox Project Helix Is A Console That Plays PC Games, Not The Other Way Around",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/xbox-project-helix-is-a-console-that-plays-pc-games-not-the-other-way-around/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Xbox has revealed more details about its next-gen device, Project Helix , describing it as a \"console capable of playing games from your PC.\" Prominently featured in the Xbox 25th Anniversary…",
+   "title_ar": ""
+  },
   "gamespot.com/articles/xbox-says-putting-ads-in-games-something-no-one-likes-could-help-save-gaming": {
    "at": "2026-11-13T19:15:30.326595+00:00",
    "title": "Xbox Says Putting Ads In Games, Something No One Likes, Could Help Save Gaming",
@@ -6446,17 +6446,6 @@
    "sources": 1,
    "summary": "Four minutes of new Fable gameplay has been released by Xbox, showing off more of the game's combat.",
    "title_ar": ""
-  },
-  "ign.com/articles/father-arrested-after-leaving-sleeping-6-year-old-daughter-in-line-for-pokmon-cards": {
-   "at": "2026-11-09T11:15:29.188887+00:00",
-   "title": "Father Arrested After Leaving Sleeping 6-Year-Old Daughter in Line for Pokémon Cards",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.ign.com/articles/father-arrested-after-leaving-sleeping-6-year-old-daughter-in-line-for-pokmon-cards",
-   "score": 3,
-   "sources": 2,
-   "summary": "",
-   "title_ar": "القبض على أب بعد ترك ابنته النائمة ذات الـ 6 أعوام في طابور بطاقات Pokémon"
   },
   "ign.com/articles/final-fantasy-xiv-players-mourn-the-primals-bassist-with-in-game-funerals-and-gatherings": {
    "at": "2026-11-11T23:30:38.099558+00:00",
@@ -8865,17 +8854,6 @@
    "score": 0,
    "sources": 1,
    "summary": "It's reportedly another DOOM game. id Software, the developer known for FPS hits such as DOOM and Quake , has confirmed it's got a new game in the pipeline.",
-   "title_ar": ""
-  },
-  "nintendolife.com/news/2026/11/father-arrested-for-leaving-6-year-old-daughter-sleeping-in-line-for-pokemon-cards": {
-   "at": "2026-11-09T11:15:29.188887+00:00",
-   "title": "Father Arrested For Leaving 6-Year-Old Daughter Sleeping In Line For Pokémon Cards",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.nintendolife.com/news/2026/11/father-arrested-for-leaving-6-year-old-daughter-sleeping-in-line-for-pokemon-cards",
-   "score": 0,
-   "sources": 1,
-   "summary": "NL used Rage.",
    "title_ar": ""
   },
   "nintendolife.com/news/2026/11/icymi-limited-run-games-announces-restock-of-tomb-raider-definitive-edition-for-switch-2": {
@@ -12497,6 +12475,17 @@
    "summary": "Top analyst firm SemiAnalysis says it has tracked staggering 1.5 gigawatts of banned AI accelerators flowing into China.",
    "title_ar": ""
   },
+  "tomshardware.com/tech-industry/artificial-intelligence/nvidia-amassed-usd530-billion-in-financial-guarantees-to-corner-the-ai-market-supply-commitments-rose-by-nearly-a-quarter-of-a-trillion-dollars-in-a-single-quarter": {
+   "at": "2026-11-16T11:15:29.411401+00:00",
+   "title": "Nvidia amassed $530 billion in financial guarantees to corner the AI market — supply commitments rose by nearly a quarter of a trillion dollars in a single quarter",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-amassed-usd530-billion-in-financial-guarantees-to-corner-the-ai-market-supply-commitments-rose-by-nearly-a-quarter-of-a-trillion-dollars-in-a-single-quarter",
+   "score": 2,
+   "sources": 1,
+   "summary": "Nvidia amassed $530 billion in financial guarantees to corner the AI market",
+   "title_ar": "Nvidia تجمع ضمانات مالية بقيمة 530 مليار دولار للسيطرة على سوق الذكاء الاصطناعي — التزامات التوريد ترتفع بنحو ربع تريليون دولار في ربع سنوي واحد"
+  },
   "tomshardware.com/tech-industry/artificial-intelligence/researchers-allege-deepseek-kimi-and-other-chinese-ai-models-were-trained-on-export-controlled-nvidia-blackwell-chips-statistical-analysis-on-model-weights-reveals-high-correlation-to-nvidia-hardware": {
    "at": "2026-11-14T15:00:41.934290+00:00",
    "title": "Researchers allege DeepSeek, Kimi, and other Chinese AI models were trained using banned Nvidia Blackwell GPUs",
@@ -13245,17 +13234,6 @@
    "summary": "A focus on neural rendering is also intended to offset constantly increasing costs",
    "title_ar": ""
   },
-  "videogameschronicle.com/news/zelda-ocarina-of-time-switch-2-could-be-getting-master-quest-dlc": {
-   "at": "2026-11-09T11:00:51.692675+00:00",
-   "title": "Zelda: Ocarina of Time Switch 2 could be getting Master Quest DLC",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.videogameschronicle.com/news/zelda-ocarina-of-time-switch-2-could-be-getting-master-quest-dlc/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Zelda: OoT remake datamine suggests a remixed adventured could be in the works",
-   "title_ar": ""
-  },
   "videogameschronicle.com/uncategorised/21-original-xbox-games-are-now-on-pc-via-backward-compatibility": {
    "at": "2026-11-12T22:15:30.200216+00:00",
    "title": "21 original Xbox games are now on PC via backward compatibility",
@@ -13344,6 +13322,17 @@
    "summary": "Nvidia’s cofounder and chief executive resigned on Thursday after the company opened an investigation into his affair with an alleged Chinese spy.",
    "title_ar": ""
   },
+  "wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess": {
+   "at": "2026-11-16T11:15:29.411401+00:00",
+   "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+   "score": 0,
+   "sources": 1,
+   "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
+   "title_ar": ""
+  },
   "wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang": {
    "at": "2026-11-12T14:30:42.687517+00:00",
    "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
@@ -13360,7 +13349,7 @@
   "AI": "2026-11-15T19:30:33.921229+00:00",
   "Anime": "2026-11-16T10:00:41.449115+00:00",
   "Games": "2026-11-15T23:45:28.542156+00:00",
-  "Tech": "2026-11-16T10:45:40.604434+00:00"
+  "Tech": "2026-11-16T11:15:29.411401+00:00"
  },
  "digest_day": "2026-11-15",
  "weekly_day": "2026-11-13"
