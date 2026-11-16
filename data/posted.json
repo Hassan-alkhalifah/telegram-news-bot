@@ -5985,17 +5985,6 @@
    "summary": "Nvidia announced today that Jensen Huang has resigned as president, CEO, and member of the board, effective immediately.",
    "title_ar": ""
   },
-  "gsmarena.com/leak_details_samsungs_plans_for_galaxy_ai_premium_new_features_on_free_and_paid_tiers-news-75408.php": {
-   "at": "2026-11-09T18:30:44.921863+00:00",
-   "title": "Leak details Samsung's plans for Galaxy AI Premium: new features on free and paid tiers",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.gsmarena.com/leak_details_samsungs_plans_for_galaxy_ai_premium_new_features_on_free_and_paid_tiers-news-75408.php",
-   "score": 2,
-   "sources": 1,
-   "summary": "Samsung organized its push into AI under the “Galaxy AI” umbrella, which includes a bunch of free features.",
-   "title_ar": "تسريبات تكشف عن خطط Samsung لخدمة Galaxy AI Premium: ميزات جديدة ضمن الفئات المجانية والمدفوعة"
-  },
   "gsmarena.com/microsoft_teams_outlook_and_365_services_are_down_more_than_12_hours_now-news-75469.php": {
    "at": "2026-11-13T12:00:41.837231+00:00",
    "title": "Microsoft Teams, Outlook, and 365 services are down, more than 12 hours now",
@@ -7690,6 +7679,17 @@
    "summary": "Microsoft is suffering from a global 365 outage that has also impacted XBOX services.",
    "title_ar": ""
   },
+  "insider-gaming.com/nba-2k-season-3-brings-in-vice-city": {
+   "at": "2026-11-16T18:45:27.900329+00:00",
+   "title": "NBA 2K27 Season 3 Brings in Vice City",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/nba-2k-season-3-brings-in-vice-city/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Season 3 of NBA 2K27 offers Vice City Edition featuring GTA locations, cosmetics, and more.",
+   "title_ar": ""
+  },
   "insider-gaming.com/nba-2k27-missed-sales-expectations": {
    "at": "2026-11-09T23:30:40.402796+00:00",
    "title": "NBA 2K27 Missed Sales Expectations Due to GTA 6",
@@ -8152,15 +8152,15 @@
    "summary": "His passing comes days after he performed at Fan Fest Japan 2026",
    "title_ar": "معجبو لعبة Final Fantasy XIV يتجمعون لإحياء ذكرى Eikichi Iwai عازف الباص لفرقة The Primals"
   },
-  "kotaku.com/fortnite-bullied-into-divulging-the-drop-rate-of-the-pirate-shop-token-2000755124": {
-   "at": "2026-11-09T18:30:44.921863+00:00",
-   "title": "Fortnite Bullied Into Divulging The Drop Rate Of The Pirate Shop Token",
+  "kotaku.com/grand-theft-auto-6-leak-gta6-hacker-pleads-guilty-2000757500": {
+   "at": "2026-11-16T18:45:27.900329+00:00",
+   "title": "GTA 6 Hacker Pleads Guilty To Cybercrimes After Infamous 2022 Leak",
    "topic": "Games",
    "status": "duplicate",
-   "url": "https://kotaku.com/fortnite-bullied-into-divulging-the-drop-rate-of-the-pirate-shop-token-2000755124",
+   "url": "https://kotaku.com/grand-theft-auto-6-leak-gta6-hacker-pleads-guilty-2000757500",
    "score": 0,
    "sources": 1,
-   "summary": "The token that gives you free stuff in the item shop isn't even the rarest loot in the event",
+   "summary": "The leak in 2022 was the first time the game was seen by the public before it was officially unveiled the following year",
    "title_ar": ""
   },
   "kotaku.com/gta-6-30-fps-confirmed-ps5-pro-pssr-xbox-cloud-streaming-2000755517": {
@@ -10341,17 +10341,6 @@
    "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
    "title_ar": ""
   },
-  "techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny": {
-   "at": "2026-11-09T18:30:44.921863+00:00",
-   "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
-   "title_ar": ""
-  },
   "techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes": {
    "at": "2026-11-10T04:45:31.249433+00:00",
    "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
@@ -10362,17 +10351,6 @@
    "sources": 1,
    "summary": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
    "title_ar": ""
-  },
-  "techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution": {
-   "at": "2026-11-09T18:30:44.921863+00:00",
-   "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-   "score": 1,
-   "sources": 1,
-   "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-   "title_ar": "ميتا تطلق نموذج Muse Ember، وهو نموذج خفيف الوزن جديد لتنفيذ الوكلاء الذكية"
   },
   "techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia": {
    "at": "2026-11-09T22:30:37.284784+00:00",
@@ -11077,6 +11055,17 @@
    "sources": 1,
    "summary": "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.",
    "title_ar": ""
+  },
+  "techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam": {
+   "at": "2026-11-16T18:45:27.900329+00:00",
+   "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+   "score": 1,
+   "sources": 1,
+   "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
+   "title_ar": "OpenAI تطلق تصنيفاً جديداً للصور وتحذيرات في ChatGPT لمكافحة المحتوى الجنسي للأطفال"
   },
   "techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion": {
    "at": "2026-11-16T17:15:28.791533+00:00",
@@ -12176,6 +12165,39 @@
    "score": 0,
    "sources": 1,
    "summary": "Following Jensen Huang's resignation as Nvidia's CEO last week, Trump told reporters on Monday that he's open to seeing Huang return and that he's not certain that the woman Huang reportedly had an…",
+   "title_ar": ""
+  },
+  "theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back": {
+   "at": "2026-11-16T18:45:27.900329+00:00",
+   "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC.",
+   "title_ar": ""
+  },
+  "theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning": {
+   "at": "2026-11-16T18:45:27.900329+00:00",
+   "title": "15 hotel guests were injured by chlorine poisoning due to Microsoft’s global email outage",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning",
+   "score": 0,
+   "sources": 1,
+   "summary": "Microsoft's worldwide 365 and Outlook outage had real-world consequences after it cut off email alerts for a German hotel's pool safety system.",
+   "title_ar": ""
+  },
+  "theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta": {
+   "at": "2026-11-16T18:45:27.900329+00:00",
+   "title": "Apple is adding face unlock to the iPhone Duo — without new hardware",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta",
+   "score": 0,
+   "sources": 1,
+   "summary": "Apple is working on a face unlock feature for the iPhone Duo that uses the front-facing camera for authentication, and it's already testing it with the new iOS 27.3 beta released today, as reported…",
    "title_ar": ""
   },
   "theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash": {
@@ -13357,7 +13379,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-16T18:00:43.512004+00:00",
+  "AI": "2026-11-16T18:45:27.900329+00:00",
   "Anime": "2026-11-16T16:30:56.289501+00:00",
   "Games": "2026-11-16T18:15:27.684104+00:00",
   "Tech": "2026-11-16T18:30:39.525694+00:00"
