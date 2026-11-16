@@ -683,17 +683,6 @@
    "summary": "After rolling out the first Release Candidates of macOS Sequoia 15.8.3 and macOS Tahoe 26.7.3 last week, Apple today released the official versions of both systems, alongside macOS 27.2.1 Golden Gate.",
    "title_ar": ""
   },
-  "9to5mac.com/2026/11/09/apple-staff-accused-of-signing-up-customers-to-subscriptions-without-consent-company-responds": {
-   "at": "2026-11-09T12:15:32.801871+00:00",
-   "title": "Apple staff accused of signing up customers to subscriptions without consent; company responds",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/09/apple-staff-accused-of-signing-up-customers-to-subscriptions-without-consent-company-responds/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Repair technician turned consumer rights advocate Louis Rossmann recently accused Apple store staff of signing up customers to the company’s services subscriptions without their consent.",
-   "title_ar": "اتهام موظفي Apple بتسجيل العملاء في اشتراكات دون موافقتهم؛ والشركة ترد"
-  },
   "9to5mac.com/2026/11/09/apple-to-open-new-developer-center-in-istanbul-as-part-of-broader-turkey-investment": {
    "at": "2026-11-09T20:15:41.150972+00:00",
    "title": "Apple to open new Developer Center in Istanbul as part of broader Turkey investment",
@@ -1727,6 +1716,17 @@
    "sources": 1,
    "summary": "Following the CYBERPUNK: EDGERUNNERS 2 panel at Lucca Comics & Games, we sat down…",
    "title_ar": "مائدة مستديرة: Bartosz Sztybor يتحدث عن احتمال وجود موسم ثالث لـ Edgerunners، وإعادة سرد علاقة David وLucy، والإلهام الشخصي لـ Roman"
+  },
+  "animecorner.me/skip-and-loafer-season-2-reveals-new-key-visual-new-trailer": {
+   "at": "2026-11-16T12:15:34.564378+00:00",
+   "title": "Skip and Loafer Season 2 Reveals New Key Visual, New Trailer",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://animecorner.me/skip-and-loafer-season-2-reveals-new-key-visual-new-trailer/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The previously announced Skip and Loafer Season 2 revealed a key visual and a…",
+   "title_ar": ""
   },
   "animecorner.me/sss-class-revival-hunter-new-trailer-previews-ending-theme-song-by-the-spellbound-x-boom-boom-satellites": {
    "at": "2026-11-11T16:15:31.205594+00:00",
@@ -4412,6 +4412,17 @@
    "summary": "You'd be forgiven for forgetting that Amy Hennig's superhero game Marvel 1943: Rise of Hydra exists, but apparently it's still in development despite its many troubles and rumours to the contrary.",
    "title_ar": ""
   },
+  "eurogamer.net/microsoft-project-helix-interview-details": {
+   "at": "2026-11-16T12:15:34.564378+00:00",
+   "title": "The next Xbox, Project Helix, is a console and \"not a PC\" says Microsoft, as it clarifies that computational power isn't sole focus this time",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/microsoft-project-helix-interview-details",
+   "score": 0,
+   "sources": 1,
+   "summary": "Microsoft has stressed that its next-generation Xbox console, Project Helix, \"is not a PC that can also play console games\", but rather \"a console that is also capable of playing games from your PC\".",
+   "title_ar": ""
+  },
   "eurogamer.net/nvidia-ceo-jensen-huang-affair-share-price": {
    "at": "2026-11-12T11:45:27.028227+00:00",
    "title": "Nvidia board considering ousting CEO Jensen Huang, report claims, as news of a second affair comes to light",
@@ -6236,17 +6247,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Spotify's AI DJ has been around since 2023, and the company expanded it to more languages and markets earlier this year.",
-   "title_ar": ""
-  },
-  "gsmarena.com/the_oppo_pad_air6_aka_oppo_pad_6_gets_unveiled_today_will_launch_next_week-news-75405.php": {
-   "at": "2026-11-09T12:00:44.615714+00:00",
-   "title": "The Oppo Pad Air6 (aka Oppo Pad 6) unveiled, sales start next week",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.gsmarena.com/the_oppo_pad_air6_aka_oppo_pad_6_gets_unveiled_today_will_launch_next_week-news-75405.php",
-   "score": 0,
-   "sources": 1,
-   "summary": "The Oppo Reno17 series is coming next week and instead of waiting until then, the company decided to reveal the new Oppo Pad Air6 today and launch it next week with the phones – in other words, we…",
    "title_ar": ""
   },
   "gsmarena.com/this_is_what_the_camera_island_on_the_galaxy_s27_pro_and_ultra_looks_like-news-75487.php": {
@@ -8933,6 +8933,17 @@
    "summary": "It's dino time.",
    "title_ar": ""
   },
+  "nintendolife.com/news/2026/11/mega-man-dual-override-reveals-robot-master-design-contest-winner": {
+   "at": "2026-11-16T12:15:34.564378+00:00",
+   "title": "Mega Man: Dual Override Reveals Robot Master Design Contest Winner",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.nintendolife.com/news/2026/11/mega-man-dual-override-reveals-robot-master-design-contest-winner",
+   "score": 3,
+   "sources": 2,
+   "summary": "Gold Prize Man.",
+   "title_ar": "Mega Man: Dual Override يكشف عن الفائز في مسابقة تصميم Robot Master"
+  },
   "nintendolife.com/news/2026/11/mouse-work-the-switch-2-game-using-joy-con-mouse-controls-arrives-this-december": {
    "at": "2026-11-10T23:59:41.496286+00:00",
    "title": "Mouse Work, The Switch 2 Game Using Joy-Con Mouse Controls, Arrives This December",
@@ -9074,17 +9085,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Update: Digital Foundry weighs in on the rumour.",
-   "title_ar": ""
-  },
-  "nintendolife.com/news/2026/11/speedrunners-didnt-take-long-to-find-new-ways-to-break-ocarina-of-time": {
-   "at": "2026-11-09T12:00:44.615714+00:00",
-   "title": "Speedrunners Didn't Take Long To Find New Ways To Break Ocarina Of Time",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.nintendolife.com/news/2026/11/speedrunners-didnt-take-long-to-find-new-ways-to-break-ocarina-of-time",
-   "score": 0,
-   "sources": 1,
-   "summary": "Fly me to the moon.",
    "title_ar": ""
   },
   "nintendolife.com/news/2026/11/super-mario-party-jamboree-updated-for-switch-2-and-switch-version-2-4-0": {
@@ -10130,6 +10130,17 @@
    "score": 0,
    "sources": 1,
    "summary": "\"Make it smaller, make it cheaper\".",
+   "title_ar": ""
+  },
+  "pushsquare.com/news/2026/11/mega-man-dual-overrides-boss-design-contest-winner-has-been-decided": {
+   "at": "2026-11-16T12:15:34.564378+00:00",
+   "title": "Mega Man: Dual Override's Boss Design Contest Winner Has Been Decided",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pushsquare.com/news/2026/11/mega-man-dual-overrides-boss-design-contest-winner-has-been-decided",
+   "score": 0,
+   "sources": 1,
+   "summary": "Clean sweep.",
    "title_ar": ""
   },
   "pushsquare.com/news/2026/11/multiple-silksong-expansions-hinted-at-in-tomorrows-ps5-physical-edition": {
@@ -11848,17 +11859,6 @@
    "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit.",
    "title_ar": "فشل صاروخ Vulcan وتدمير 40 قمراً صناعياً لـ Amazon Leo"
   },
-  "theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion": {
-   "at": "2026-11-09T12:00:44.615714+00:00",
-   "title": "Instagram’s AI age detection is expanding globally",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
-   "score": 1,
-   "sources": 1,
-   "summary": "Meta is globally expanding the age estimation technology it uses to find teenagers on Instagram who haven't correctly disclosed their age.",
-   "title_ar": "توسع ميزة الذكطس الاصطناعي لكشف الأعمار في Instagram عالمياً"
-  },
   "theverge.com/tech/1029665/seagate-firecuda-forge-hybrid-ssd-hard-drive-storage-alkemi-technology": {
    "at": "2026-11-10T11:15:34.200889+00:00",
    "title": "Seagate’s FireCuda Forge moves your data between a hard drive and SSD for better performance",
@@ -13326,7 +13326,7 @@
  "topic_last_posted": {
   "AI": "2026-11-15T19:30:33.921229+00:00",
   "Anime": "2026-11-16T10:00:41.449115+00:00",
-  "Games": "2026-11-15T23:45:28.542156+00:00",
+  "Games": "2026-11-16T12:15:34.564378+00:00",
   "Tech": "2026-11-16T11:30:37.261961+00:00"
  },
  "digest_day": "2026-11-15",
