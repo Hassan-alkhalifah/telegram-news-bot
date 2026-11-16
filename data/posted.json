@@ -2696,17 +2696,6 @@
    "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
    "title_ar": "وكيل البرمجة Grok Build يسرب كميات هائلة من المعلومات السرية، وبعضها يخص SpaceXSI"
   },
-  "arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage": {
-   "at": "2026-11-09T15:30:39.359074+00:00",
-   "title": "CEO Jensen Huang admits affair as Nvidia probes possible Chinese espionage",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
-   "title_ar": ""
-  },
   "arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks": {
    "at": "2026-11-12T19:00:43.692442+00:00",
    "title": "Families fight to keep Google’s “disturbing” AI off school-issued Chromebooks",
@@ -5149,6 +5138,17 @@
    "summary": "Cozy life simulation game Wish Upon a Llama will launch for PlayStation 5, Xbox Series, …",
    "title_ar": "إطلاق لعبة محاكاة الحياة الهادئة Wish Upon a Llama في 9 ديسمبر على أجهزة PS5 و Xbox Series و PS4 و Xbox One و Switch و PC"
   },
+  "gematsu.com/2026/11/dave-the-diver-x-core-keeper-crossover-updates-announced": {
+   "at": "2026-11-16T15:45:29.100899+00:00",
+   "title": "DAVE THE DIVER x Core Keeper crossover updates announced",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.gematsu.com/2026/11/dave-the-diver-x-core-keeper-crossover-updates-announced",
+   "score": 3,
+   "sources": 2,
+   "summary": "MINTROCKET, Pugstorm, and Fireshine Games have announced a two-way crossover for both DAVE THE DIVER …",
+   "title_ar": "الإعلان عن تحديثات تعاونية مشتركة بين DAVE THE DIVER و Core Keeper"
+  },
   "gematsu.com/2026/11/devolver-digital-and-blacklight-games-announce-roguelike-auto-battler-all-army-attack-for-pc": {
    "at": "2026-11-10T18:45:32.038513+00:00",
    "title": "Devolver Digital and BlackLight Games announce roguelike auto-battler All Army Attack for PC",
@@ -7272,6 +7272,17 @@
    "summary": "A brand new Dragon Quest game is on the way to mobile gaming.",
    "title_ar": ""
   },
+  "insider-gaming.com/dave-the-diver-core-keeper-crossover": {
+   "at": "2026-11-16T15:45:29.100899+00:00",
+   "title": "Dave the Diver and Core Keeper Reveal Free Two-Way Crossover",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/dave-the-diver-core-keeper-crossover/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Two beloved indie games are about to collide.",
+   "title_ar": ""
+  },
   "insider-gaming.com/devolver-digital-reveals-its-first-aaa-game": {
    "at": "2026-11-10T18:45:32.038513+00:00",
    "title": "Devolver Digital Reveals Its First “AAA” Game",
@@ -8031,17 +8042,6 @@
    "summary": "It wasn't just the spy he was allegedly shagging",
    "title_ar": ""
   },
-  "kotaku.com/beloved-mario-content-creator-says-his-health-is-failing-but-only-blindness-or-death-will-stop-him-from-posting-mario-facts-2000755083": {
-   "at": "2026-11-09T15:30:39.359074+00:00",
-   "title": "Beloved Mario Content Creator Says His Health Is Failing But ‘Only Blindness Or Death’ Will Stop Him From Posting Mario Facts",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/beloved-mario-content-creator-says-his-health-is-failing-but-only-blindness-or-death-will-stop-him-from-posting-mario-facts-2000755083",
-   "score": 0,
-   "sources": 1,
-   "summary": "'If I should one day stop posting: thank you very much for reading.'",
-   "title_ar": ""
-  },
   "kotaku.com/big-walk-ai-disclosure-igf-awards-vg-chat-2000755514": {
    "at": "2026-11-10T17:45:28.481552+00:00",
    "title": "A Big Talk About Big Walk’s AI Fallout",
@@ -8063,17 +8063,6 @@
    "sources": 1,
    "summary": "Jeremy Latcham is a Marvel veteran whose ‘guiding light’ was whether his grandma would like something",
    "title_ar": ""
-  },
-  "kotaku.com/ex-playstation-exec-says-true-innovation-would-be-making-the-ps6-cheaper-we-have-enough-power-in-the-machine-2000755081": {
-   "at": "2026-11-09T15:30:39.359074+00:00",
-   "title": "Ex–PlayStation Exec Says True Innovation Would Be Making The PS6 Cheaper: ‘We Have Enough Power In The Machine’",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://kotaku.com/ex-playstation-exec-says-true-innovation-would-be-making-the-ps6-cheaper-we-have-enough-power-in-the-machine-2000755081",
-   "score": 3,
-   "sources": 2,
-   "summary": "Shawn Layden isn't in love with a $1,200 PS6",
-   "title_ar": "تنفيذي سابق في PlayStation يقول إن الابتكار الحقيقي سيكون جعل جهاز PS6 أرخص: \"لدينا طاقة كافية في الجهاز\""
   },
   "kotaku.com/fairgames-haven-studios-jade-raymond-playstation-canceled-2000755584": {
    "at": "2026-11-10T21:00:49.784182+00:00",
@@ -10031,17 +10020,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Not a long way from home anymore.",
-   "title_ar": ""
-  },
-  "pushsquare.com/news/2026/11/making-a-usd300-ps5-instead-of-a-usd1200-ps6-would-be-true-innovation-says-ex-playstation-boss": {
-   "at": "2026-11-09T15:30:39.359074+00:00",
-   "title": "Making a $300 PS5 Instead of a $1,200 PS6 Would Be 'True Innovation', Says Ex-PlayStation Boss",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pushsquare.com/news/2026/11/making-a-usd300-ps5-instead-of-a-usd1200-ps6-would-be-true-innovation-says-ex-playstation-boss",
-   "score": 0,
-   "sources": 1,
-   "summary": "\"Make it smaller, make it cheaper\".",
    "title_ar": ""
   },
   "pushsquare.com/news/2026/11/mega-man-dual-overrides-boss-design-contest-winner-has-been-decided": {
@@ -13315,7 +13293,7 @@
  "topic_last_posted": {
   "AI": "2026-11-16T15:30:38.841161+00:00",
   "Anime": "2026-11-16T15:15:27.546146+00:00",
-  "Games": "2026-11-16T14:45:46.387109+00:00",
+  "Games": "2026-11-16T15:45:29.100899+00:00",
   "Tech": "2026-11-16T15:00:58.508151+00:00"
  },
  "digest_day": "2026-11-15",
