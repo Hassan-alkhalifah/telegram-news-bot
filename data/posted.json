@@ -1530,6 +1530,17 @@
    "summary": "iOS 27.3 beta 2 is now available, and Apple is adding the ability for users to unlock higher usage limits for Apple Intelligence and Siri AI via iCloud+.",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/16/apple-provides-a-safe-way-to-ask-an-ai-questions-about-your-health": {
+   "at": "2026-11-16T19:45:28.179505+00:00",
+   "title": "Apple provides a safe way to ask an AI questions about your health",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/16/apple-provides-a-safe-way-to-ask-an-ai-questions-about-your-health/",
+   "score": 0,
+   "sources": 1,
+   "summary": "A growing number of people are asking AI chatbots about their health issues, raising two major concerns: safety and privacy.",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/16/apple-releases-beta-2-for-ipados-27-3-watchos-27-3-and-more": {
    "at": "2026-11-16T18:30:39.525694+00:00",
    "title": "Apple releases beta 2 for iPadOS 27.3, watchOS 27.3, and more",
@@ -1936,17 +1947,6 @@
    "sources": 1,
    "summary": "K Manga , Comic Days to publish grand prize-winners' entries in December",
    "title_ar": ""
-  },
-  "animenewsnetwork.com/news/2026-11-09/saga-game-series-localization-director-neil-broadley-dies/.243656": {
-   "at": "2026-11-09T19:30:42.397627+00:00",
-   "title": "SaGa Game Series' Localization Director Neil Broadley Dies",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-09/saga-game-series-localization-director-neil-broadley-dies/.243656",
-   "score": 1,
-   "sources": 1,
-   "summary": "Broadley worked on SaGa , Final Fantasy games",
-   "title_ar": "وفاة نيل برودلي، مدير تعريب سلسلة ألعاب SaGa"
   },
   "animenewsnetwork.com/news/2026-11-09/steel-ball-run-jojo-bizarre-adventure-anime-special-video-highlights-stands/.243670": {
    "at": "2026-11-10T04:15:31.642487+00:00",
@@ -4676,6 +4676,17 @@
    "summary": "Slay the Spire 2, which released into early access earlier this year, is expanding once more with a major new beta update.",
    "title_ar": ""
   },
+  "eurogamer.net/star-wars-galactic-racer-split-screen-multiplayer": {
+   "at": "2026-11-16T19:45:28.179505+00:00",
+   "title": "Star Wars: Galactic Racer is getting much-requested split-screen multiplayer and new mode in 2027",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.eurogamer.net/star-wars-galactic-racer-split-screen-multiplayer",
+   "score": 2,
+   "sources": 2,
+   "summary": "The surprisingly awesome arcade podracing game Star Wars: Galactic Racer is getting split-screen multiplayer next year after loud fan requests, developer Fuse Games has announced.",
+   "title_ar": "لعبة Star Wars: Galactic Racer تحظى بميزة اللعب الجماعي عبر الشاشة المقسمة المطلوبة بشدة وبنمط جديد في عام 2027"
+  },
   "eurogamer.net/steam-deck-framerate-average-data-store-widget": {
    "at": "2026-11-10T14:30:45.059950+00:00",
    "title": "Steam now shows average Steam Deck framerates when browsing games, but Valve says it's considering expanding the feature to other hardware",
@@ -5642,6 +5653,17 @@
    "score": 0,
    "sources": 1,
    "summary": "SEGA has released the 35th anniversary animation for Sonic the Hedgehog, titled “Memories and Beyond.” …",
+   "title_ar": ""
+  },
+  "gematsu.com/2026/11/star-wars-galactic-racer-to-add-split-screen-supported-free-play-mode-in-early-2027": {
+   "at": "2026-11-16T19:45:28.179505+00:00",
+   "title": "Star Wars: Galactic Racer to add split-screen-supported ‘Free Play’ mode in early 2027",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gematsu.com/2026/11/star-wars-galactic-racer-to-add-split-screen-supported-free-play-mode-in-early-2027",
+   "score": 0,
+   "sources": 1,
+   "summary": "Publisher Secret Mode and developer Fuse Games will release a split-screen multiplayer-supported “Free Play” mode …",
    "title_ar": ""
   },
   "gematsu.com/2026/11/station-to-station-coming-to-ps5-switch-2-on-november-26": {
@@ -9362,6 +9384,17 @@
    "summary": "My, how times have changed.",
    "title_ar": ""
   },
+  "pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-hacker-pleads-guilty-to-all-charges": {
+   "at": "2026-11-16T19:45:28.179505+00:00",
+   "title": "Grand Theft Auto 6 hacker pleads guilty to all charges",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-hacker-pleads-guilty-to-all-charges/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Arion Kurtaj released dozens of GTA 6 videos to the public more than a year before the game was formally revealed.",
+   "title_ar": ""
+  },
   "pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-is-the-most-pre-ordered-game-of-all-time-on-both-xbox-and-playstation": {
    "at": "2026-11-10T17:45:28.481552+00:00",
    "title": "Grand Theft Auto 6 is 'the most pre-ordered' game of all time on both Xbox and PlayStation",
@@ -10405,17 +10438,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-   "title_ar": ""
-  },
-  "techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns": {
-   "at": "2026-11-09T19:30:42.397627+00:00",
-   "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
    "title_ar": ""
   },
   "techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans": {
@@ -13513,7 +13535,7 @@
  "topic_last_posted": {
   "AI": "2026-11-16T19:30:36.541129+00:00",
   "Anime": "2026-11-16T16:30:56.289501+00:00",
-  "Games": "2026-11-16T19:00:45.669826+00:00",
+  "Games": "2026-11-16T19:45:28.179505+00:00",
   "Tech": "2026-11-16T19:15:28.268205+00:00"
  },
  "digest_day": "2026-11-16",
