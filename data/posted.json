@@ -10946,6 +10946,17 @@
    "summary": "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion": {
+   "at": "2026-11-16T17:15:28.791533+00:00",
+   "title": "OpenAI will embed Apollo researchers to investigate AI subversion",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+   "score": 1,
+   "sources": 1,
+   "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+   "title_ar": "OpenAI ستدمج باحثين من Apollo للتحقيق في التخريب المرتبط بالذكاء الاصطناعي"
+  },
   "techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely": {
    "at": "2026-11-16T15:15:27.546146+00:00",
    "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
@@ -13181,7 +13192,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-16T16:15:29.153434+00:00",
+  "AI": "2026-11-16T17:15:28.791533+00:00",
   "Anime": "2026-11-16T16:30:56.289501+00:00",
   "Games": "2026-11-16T16:45:42.537942+00:00",
   "Tech": "2026-11-16T17:00:55.773105+00:00"
