@@ -2674,17 +2674,6 @@
    "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
    "title_ar": "عضو مجلس إدارة OpenAI يحذر: الذكاء الاصطناعي هو \"السبب الأكثر ترجيحاً\" لوفاتك"
   },
-  "arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github": {
-   "at": "2026-11-09T20:00:46.507717+00:00",
-   "title": "Claude Code is accidentally exposing secrets all over GitHub",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-   "score": 1,
-   "sources": 1,
-   "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
-   "title_ar": "أداة Claude Code تكشف الأسرار عن طريق الخطأ في جميع أنحاء GitHub"
-  },
   "arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia": {
    "at": "2026-11-16T14:15:27.693865+00:00",
    "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -4344,6 +4333,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Arion Kurtaj was deemed fit to stand trial earlier this year after breaching Rockstar's systems in 2022",
+   "title_ar": ""
+  },
+  "engadget.com/2318268/california-sues-openai-after-hugging-face-rogue-hacking-incident": {
+   "at": "2026-11-16T20:15:27.440383+00:00",
+   "title": "California sues OpenAI after that Hugging Face rogue hacking incident",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2318268/california-sues-openai-after-hugging-face-rogue-hacking-incident/",
+   "score": 0,
+   "sources": 1,
+   "summary": "State AG Rob Bonta has accused the company of making AI agents \"without the safeguards and monitoring necessary to adequately protect\" users.",
    "title_ar": ""
   },
   "eurogamer.net/blood-of-dawnwalker-new-game-plus": {
@@ -7184,17 +7184,6 @@
    "summary": "The Legend of Zelda: Ocarina of Time has broken a sale records for Nintendo, becoming the fastest-selling Switch 2 game over its first four days of availability.",
    "title_ar": ""
   },
-  "ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-dataminers-uncover-potential-majoras-mask-master-quest-dlc-hints": {
-   "at": "2026-11-09T20:00:46.507717+00:00",
-   "title": "The Legend of Zelda: Ocarina of Time Remake Dataminers Uncover Potential Majora's Mask, Master Quest DLC Hints",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-dataminers-uncover-potential-majoras-mask-master-quest-dlc-hints",
-   "score": 0,
-   "sources": 1,
-   "summary": "The Legend of Zelda: Ocarina of Time players are getting their hopes up after dataminers uncovered hints of Master Quest DLC – and maybe even some Majora's Mask content – tucked in the files of…",
-   "title_ar": ""
-  },
   "ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-players-use-in-game-ocarina-to-play-everything-from-linkin-park-titanic-and-japanese-supermarket-themes": {
    "at": "2026-11-11T12:00:42.781014+00:00",
    "title": "The Legend of Zelda: Ocarina of Time Remake Players Use In-Game Ocarina to Play Everything From Linkin Park, Titanic, and Japanese Supermarket Themes",
@@ -7281,17 +7270,6 @@
    "score": 0,
    "sources": 1,
    "summary": "World of Warcraft Forever has been incredibly popular, and has gone down as the biggest WoW launch in history.",
-   "title_ar": ""
-  },
-  "ign.com/articles/world-of-warcraft-forever-is-the-biggest-wow-launch-in-history": {
-   "at": "2026-11-09T20:00:46.507717+00:00",
-   "title": "World of Warcraft Forever Is the Biggest WoW Launch in History",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/world-of-warcraft-forever-is-the-biggest-wow-launch-in-history",
-   "score": 0,
-   "sources": 1,
-   "summary": "Even during the beta, World of Warcraft Forever was shaping up to be huge, with an unprecedented amount of testers.",
    "title_ar": ""
   },
   "ign.com/articles/wow-forevers-first-big-secret-has-been-discovered-by-players": {
@@ -10319,6 +10297,17 @@
    "summary": "Livestream will announce the nominees.",
    "title_ar": ""
   },
+  "pushsquare.com/news/2026/11/the-great-star-wars-galactic-racer-will-soon-be-even-better-major-new-features-announced": {
+   "at": "2026-11-16T20:15:27.440383+00:00",
+   "title": "The Great Star Wars: Galactic Racer Will Soon Be Even Better, Major New Features Announced",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pushsquare.com/news/2026/11/the-great-star-wars-galactic-racer-will-soon-be-even-better-major-new-features-announced",
+   "score": 0,
+   "sources": 1,
+   "summary": "Play with your Biddies.",
+   "title_ar": ""
+  },
   "pushsquare.com/news/2026/11/the-outer-worlds-2-ps5-dlc-split-into-two-parts-first-in-december": {
    "at": "2026-11-10T20:45:32.606213+00:00",
    "title": "The Outer Worlds 2 PS5 DLC Split into Two Parts, First in December",
@@ -11132,6 +11121,17 @@
    "sources": 1,
    "summary": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.",
    "title_ar": ""
+  },
+  "techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents": {
+   "at": "2026-11-16T20:15:27.440383+00:00",
+   "title": "California state AG sues OpenAI over rogue agent incidents",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+   "score": 4,
+   "sources": 2,
+   "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+   "title_ar": "المدعي العام لولاية كاليفورنيا يقاضي شركة OpenAI بسبب حوادث الوكلاء المارقين"
   },
   "techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours": {
    "at": "2026-11-16T18:00:43.512004+00:00",
@@ -13522,7 +13522,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-16T19:30:36.541129+00:00",
+  "AI": "2026-11-16T20:15:27.440383+00:00",
   "Anime": "2026-11-16T20:00:42.658900+00:00",
   "Games": "2026-11-16T19:45:28.179505+00:00",
   "Tech": "2026-11-16T19:50:23.589554+00:00"
