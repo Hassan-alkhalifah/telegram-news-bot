@@ -2509,6 +2509,17 @@
    "summary": "Kenta Shinohara's Witch Watch manga ended in this year's 51st issue of Shueisha's Weekly Shonen Jump magazine on Monday.",
    "title_ar": "انتهاء مانغا Witch Watch مع عرض الموسم الثاني من الأنمي في عام 2027"
   },
+  "animenewsnetwork.com/news/2026-11-16/34-percent-of-developers-in-2026-gdc-survey-were-laid-off-in-last-2-years/.243840": {
+   "at": "2026-11-16T14:30:38.860571+00:00",
+   "title": "34% of Developers in 2026 GDC Survey Were Laid Off in Last 2 Years",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-16/34-percent-of-developers-in-2026-gdc-survey-were-laid-off-in-last-2-years/.243840",
+   "score": 1,
+   "sources": 1,
+   "summary": "40% of game developers use generative AI, though 55% comment it has negative impact",
+   "title_ar": "34% من المطورين في استطلاع GDC لعام 2026 تعرضوا للتسريح في آخر عامين"
+  },
   "animenewsnetwork.com/news/2026-11-16/skip-and-loafer-anime-2nd-season-reveals-more-cast-in-1st-promo-video/.243852": {
    "at": "2026-11-16T10:45:40.604434+00:00",
    "title": "Skip & Loafer Anime's 2nd Season Reveals More Cast in 1st Promo Video",
@@ -2518,6 +2529,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Reina Ueda, Yuto Takenaka join cast for new season debuting in April 2027",
+   "title_ar": ""
+  },
+  "animenewsnetwork.com/news/2026-11-16/the-summer-hikaru-died-novels-end-with-3rd-volume/.243843": {
+   "at": "2026-11-16T14:30:38.860571+00:00",
+   "title": "The Summer Hikaru Died Novels End With 3rd Volume",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-16/the-summer-hikaru-died-novels-end-with-3rd-volume/.243843",
+   "score": 0,
+   "sources": 1,
+   "summary": "3rd volume ships on January 25",
    "title_ar": ""
   },
   "animenewsnetwork.com/news/2026-11-16/wanpaku-touken-ranbu-tv-anime-debuts-on-january-6/.243850": {
@@ -4829,17 +4851,6 @@
    "sources": 1,
    "summary": "Rockstar Games has announced Grand Theft Auto 6: The Festival, a concert coming to the Mana Wynwood in Miami on November 21.",
    "title_ar": ""
-  },
-  "gamespot.com/articles/gta-6-preloading-is-officially-live-files-mention-multiplayer-and-ps5-pro-features": {
-   "at": "2026-11-09T14:15:28.151193+00:00",
-   "title": "GTA 6 Preloading Is Officially Live, Files Mention Multiplayer And PS5 Pro Features",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.gamespot.com/articles/gta-6-preloading-is-officially-live-files-mention-multiplayer-and-ps5-pro-features/",
-   "score": 4,
-   "sources": 2,
-   "summary": "At long last, you can now install Grand Theft Auto 6 on your console via preloading , or at least you can if you live in Australia or New Zealand.",
-   "title_ar": "التنزيل المسبق لـ GTA 6 متاح رسميًا، والملفات تذكر الأطوار الجماعية ومميزات PS5 Pro"
   },
   "gamespot.com/articles/gta-6-preorder-numbers-are-so-good-even-take-two-is-struggling-to-believe-them": {
    "at": "2026-11-10T14:45:30.888067+00:00",
@@ -7447,17 +7458,6 @@
    "sources": 1,
    "summary": "GTA 6: The Album reportedly has 34 tracks, according to a vinyl video posted on Instagram.",
    "title_ar": "تسريب ألبوم GTA 6 يتضمن أسماء مثل Dua Lipa و Jennie و Lana Del Rey"
-  },
-  "insider-gaming.com/gta-6-datamine-reveals-multiplayer-references": {
-   "at": "2026-11-09T14:15:28.151193+00:00",
-   "title": "GTA 6 Datamine Reveals Multiplayer References",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/gta-6-datamine-reveals-multiplayer-references/",
-   "score": 0,
-   "sources": 1,
-   "summary": "A Grand Theft Auto 6 datamine has revealed some new details pertaining to the game's potential online game mode.",
-   "title_ar": ""
   },
   "insider-gaming.com/gta-6-datamine-reveals-possible-120hz-mode-but-no-vrr-support": {
    "at": "2026-11-09T14:30:39.343926+00:00",
@@ -13391,7 +13391,7 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-16T14:15:27.693865+00:00",
-  "Anime": "2026-11-16T13:30:44.168694+00:00",
+  "Anime": "2026-11-16T14:30:38.860571+00:00",
   "Games": "2026-11-16T13:45:28.964456+00:00",
   "Tech": "2026-11-16T14:00:42.798978+00:00"
  },
