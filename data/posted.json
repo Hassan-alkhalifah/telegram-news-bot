@@ -8086,17 +8086,6 @@
    "summary": "We didn't know Tomb Raider: Catalyst was coming to Switch 2, but Amazon seems to have confirmed it in a recent news post.",
    "title_ar": "Amazon تؤكد قدوم Tomb Raider: Catalyst إلى جهاز Switch 2"
   },
-  "insider-gaming.com/tripwire-interactive-announces-layoffs": {
-   "at": "2026-11-09T19:45:29.331647+00:00",
-   "title": "Killing Floor 3 Developer Tripwire Interactive Announces Layoffs",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/tripwire-interactive-announces-layoffs/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Killing Floor 3 developer Tripwire Interactive has announced that 36 people are being let go as the studio restructures.",
-   "title_ar": ""
-  },
   "insider-gaming.com/vindictus-defying-fate-new-trailer-2027-release": {
    "at": "2026-11-13T18:15:30.111600+00:00",
    "title": "Vindictus: Defying Fate Targets 2027 Release on PC and PS5",
@@ -9581,17 +9570,6 @@
    "sources": 1,
    "summary": "Skydance Games has \"made the difficult decision to scale down some of our projects.\"",
    "title_ar": ""
-  },
-  "pcgamer.com/gaming-industry/a-week-after-expanding-its-publishing-division-killing-floor-studio-tripwire-interactive-lays-off-36-people": {
-   "at": "2026-11-09T19:45:29.331647+00:00",
-   "title": "A week after expanding its publishing division, Killing Floor studio Tripwire Interactive lays off 36 people",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.pcgamer.com/gaming-industry/a-week-after-expanding-its-publishing-division-killing-floor-studio-tripwire-interactive-lays-off-36-people/",
-   "score": 3,
-   "sources": 2,
-   "summary": "Tripwire said the decision to put people out of work was \"a necessary one for the organization.\"",
-   "title_ar": "بعد أسبوع من توسيع قسم النشر، استوديو لعبة Killing Floor المسمى Tripwire Interactive يستغني عن 36 موظفاً"
   },
   "pcgamer.com/gaming-industry/events-conferences/award-winning-presenter-frankie-ward-returns-to-bring-you-this-years-pc-gaming-show-most-wanted": {
    "at": "2026-11-13T01:30:35.248863+00:00",
@@ -11584,17 +11562,6 @@
    "summary": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware.",
    "title_ar": "Meituan تطلق نموذج وكيل بـ 1.6 تريليون معلمة لم يلمس مطلقاً وحدة معالجة رسومية من Nvidia"
   },
-  "the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do": {
-   "at": "2026-11-09T19:45:29.331647+00:00",
-   "title": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Meta is introducing Muse Ember, its smallest and most efficient AI model, optimized for repetitive agent tasks such as tool calls, routing, and data extraction.",
-   "title_ar": ""
-  },
   "the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai": {
    "at": "2026-11-13T15:15:31.737336+00:00",
    "title": "Meta's Muse now calls businesses for you, but many companies might just hang up on the AI",
@@ -12485,6 +12452,17 @@
    "sources": 1,
    "summary": "Seagate takes on high SSD storage prices with the Firecuda Force, a 8TB or 20TB hard drive that requires you to bring your own M.2 2280 SSD (ideally 1TB, with DRAM).",
    "title_ar": ""
+  },
+  "tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028": {
+   "at": "2026-11-16T19:50:23.589554+00:00",
+   "title": "Nvidia announces Rubin HPC GPU with 'record number of CUDA cores' at Supercomputing 2026",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028",
+   "score": 2,
+   "sources": 1,
+   "summary": "Nvidia took the wraps off its Rubin HPC GPU at Supercomputing 2026.",
+   "title_ar": "Nvidia تعلن عن معالج الرسوميات Rubin HPC المزود بـ \"عدد قياسي من أنوية CUDA\" في مؤتمر Supercomputing 2026"
   },
   "tomshardware.com/pc-components/gpus/nvidia-board-reportedly-approached-arm-ceo-rene-haas-during-replacement-search-jensen-huangs-transgressions-leave-nvidia-scrambling-to-fill-a-massive-void": {
    "at": "2026-11-13T21:00:41.462775+00:00",
@@ -13536,7 +13514,7 @@
   "AI": "2026-11-16T19:30:36.541129+00:00",
   "Anime": "2026-11-16T16:30:56.289501+00:00",
   "Games": "2026-11-16T19:45:28.179505+00:00",
-  "Tech": "2026-11-16T19:15:28.268205+00:00"
+  "Tech": "2026-11-16T19:50:23.589554+00:00"
  },
  "digest_day": "2026-11-16",
  "weekly_day": "2026-11-13"
