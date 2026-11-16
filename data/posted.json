@@ -738,17 +738,6 @@
    "summary": "iOS 27.3 is currently in beta and packed with new features , here are three that will hit your iPhone when the update launches next month . more…",
    "title_ar": ""
   },
-  "9to5mac.com/2026/11/09/leak-reveals-details-for-more-iphone-18-models-launching-early-2027": {
-   "at": "2026-11-09T15:15:30.753947+00:00",
-   "title": "Leak reveals details for more iPhone 18 models launching early 2027",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/09/leak-reveals-details-for-more-iphone-18-models-launching-early-2027/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Apple is rumored to have three new iPhone models launching in early 2027: iPhone 18, iPhone 18e, and iPhone Air 2.",
-   "title_ar": "تسريبات تكشف عن تفاصيل المزيد من طرازات iPhone 18 التي ستطلق في أوائل عام 2027"
-  },
   "9to5mac.com/2026/11/09/report-apple-saved-over-5-billion-in-taxes-through-singapore-and-ireland-in-2026": {
    "at": "2026-11-09T21:00:47.361755+00:00",
    "title": "Report: Apple saved over $5 billion in taxes through Singapore and Ireland in 2026",
@@ -8581,17 +8570,6 @@
    "summary": "Leaving me cold",
    "title_ar": ""
   },
-  "kotaku.com/zelda-ocarina-of-time-remake-master-quest-dlc-majoras-mask-2000755101": {
-   "at": "2026-11-09T15:15:30.753947+00:00",
-   "title": "Ocarina Of Time Remake Dataminers Find Evidence Of Master Quest DLC And Maybe Majora’s Mask Remake",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/zelda-ocarina-of-time-remake-master-quest-dlc-majoras-mask-2000755101",
-   "score": 0,
-   "sources": 1,
-   "summary": "Harder dungeons might be coming to the remake soon, but that’s not the most surprising thing in the Switch 2 game’s files",
-   "title_ar": ""
-  },
   "kotaku.com/zelda-ocarina-of-time-remake-nintendo-64-sales-figures-switch-2-2000755871": {
    "at": "2026-11-11T11:15:27.839736+00:00",
    "title": "Zelda: Ocarina Of Time Remake Is Set To Outsell The N64 Original In Its First Week",
@@ -8767,6 +8745,17 @@
    "sources": 1,
    "summary": "The official website for the Skip to Loafer (Skip and Loafer) television anime revealed an additional pair of cast, new key visual, and the first promotional video for the Season 2 on Monday.",
    "title_ar": "الموسم الثاني من Skip to Loafer يكشف عن ثنائي تمثيل إضافي والعرض الترويجي الأول"
+  },
+  "myanimelist.net/news/74946798?_location=rss": {
+   "at": "2026-11-16T15:30:38.841161+00:00",
+   "title": "Manga 'Diamond no Kouzai' Gets TV Anime",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://myanimelist.net/news/74946798?_location=rss",
+   "score": 0,
+   "sources": 1,
+   "summary": "Production company TOHO animation opened an official website for a television anime adaptation of Oohashi Hirai's Diamond no Kouzai (The Days of Diamond) manga on Tuesday, revealing the main staff…",
+   "title_ar": ""
   },
   "nintendolife.com/news/2026/11/bandai-namco-reveals-its-involvement-on-zelda-ocarina-of-time": {
    "at": "2026-11-09T16:15:31.794362+00:00",
@@ -11188,6 +11177,17 @@
    "summary": "Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits.",
    "title_ar": "Anthropic تقول إن عادات كتابة التوجيهات القديمة تبطئ نموذج Claude Opus 5.5"
   },
+  "the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store": {
+   "at": "2026-11-16T15:30:38.841161+00:00",
+   "title": "Anthropic says the key to agent memory is knowing what to forget, not how much to store",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Anthropic studied how Claude retains knowledge across sessions.",
+   "title_ar": "Anthropic تقول إن مفتاح ذاكرة الوكيل هو معرفة ما يجب نسيانه، وليس مقدار ما يتم تخزينه"
+  },
   "the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes": {
    "at": "2026-11-10T23:45:31.690095+00:00",
    "title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
@@ -13313,7 +13313,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-16T14:15:27.693865+00:00",
+  "AI": "2026-11-16T15:30:38.841161+00:00",
   "Anime": "2026-11-16T15:15:27.546146+00:00",
   "Games": "2026-11-16T14:45:46.387109+00:00",
   "Tech": "2026-11-16T15:00:58.508151+00:00"
