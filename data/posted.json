@@ -2564,6 +2564,17 @@
    "summary": "Main staff also revealed",
    "title_ar": ""
   },
+  "animenewsnetwork.com/news/2026-11-17/arika-director-software-development-head-game-programmer-akira-kurabayashi-dies/.243908": {
+   "at": "2026-11-17T18:30:39.355161+00:00",
+   "title": "ARIKA Director, Software Development Head, Game Programmer Akira Kurabayashi Dies",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-17/arika-director-software-development-head-game-programmer-akira-kurabayashi-dies/.243908",
+   "score": 0,
+   "sources": 1,
+   "summary": "Kurabayashi worked on Tetris 99 , Pac-Man 99 , Street Fighter EX games",
+   "title_ar": ""
+  },
   "animenewsnetwork.com/news/2026-11-17/josemaru-short-anime-3rd-teaser-reveals-more-cast-january-10-debut/.243904": {
    "at": "2026-11-17T10:00:41.124507+00:00",
    "title": "Josemaru Short Anime's 3rd Teaser Reveals More Cast, January 10 Debut",
@@ -4324,6 +4335,17 @@
    "summary": "Those same physical copies are on their way out.",
    "title_ar": ""
   },
+  "engadget.com/2319504/icloud-and-other-apple-services-are-down-in-an-apparent-outage": {
+   "at": "2026-11-17T18:30:39.355161+00:00",
+   "title": "iCloud and other Apple services are down in an apparent outage",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2319504/icloud-and-other-apple-services-are-down-in-an-apparent-outage/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The full extent of the disruption isn't known yet.",
+   "title_ar": ""
+  },
   "eurogamer.net/blood-of-dawnwalker-new-game-plus": {
    "at": "2026-11-13T21:00:41.462775+00:00",
    "title": "The Blood of Dawnwalker is getting a New Game Plus mode in next week's update",
@@ -4863,6 +4885,17 @@
    "summary": "Rockstar's Grand Theft Auto 6 launches on November 19, and it's expected to help boost console sales for PS5 and Xbox Series X|S.",
    "title_ar": ""
   },
+  "gamespot.com/articles/gta-6s-lucia-actor-revealed-and-its-the-person-everyone-already-guessed": {
+   "at": "2026-11-17T18:30:39.355161+00:00",
+   "title": "GTA 6’s Lucia Actor Revealed, And It’s The Person Everyone Already Guessed",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/gta-6s-lucia-actor-revealed-and-its-the-person-everyone-already-guessed/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The actor playing Lucia in Grand Theft Auto 6 has been revealed, and it's Manni L.",
+   "title_ar": ""
+  },
   "gamespot.com/articles/intergalactic-the-heretic-prophet-has-some-unexpected-anime-influences": {
    "at": "2026-11-12T14:00:43.361823+00:00",
    "title": "Intergalactic: The Heretic Prophet Has Some Unexpected Anime Influences",
@@ -5148,6 +5181,17 @@
    "sources": 1,
    "summary": "Saying Overwatch 2 has had a rocky road since its 2019 reveal would be an understatement, and former Overwatch director Jeff Kaplan isn't a fan of how the game was first announced.",
    "title_ar": ""
+  },
+  "gematsu.com/2026/11/arika-director-akira-kurabayashi-dies": {
+   "at": "2026-11-17T18:30:39.355161+00:00",
+   "title": "ARIKA director Akira Kurabayashi dies",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.gematsu.com/2026/11/arika-director-akira-kurabayashi-dies",
+   "score": 3,
+   "sources": 2,
+   "summary": "Akira Kurabayashi, a company director and head of the software development division at ARIKA, passed …",
+   "title_ar": "وفاة المدير في شركة ARIKA، Akira Kurabayashi"
   },
   "gematsu.com/2026/11/black-forest-games-splits-from-thq-nordic": {
    "at": "2026-11-11T21:15:29.167728+00:00",
@@ -11309,17 +11353,6 @@
    "summary": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation.",
    "title_ar": "شركات الوساطة الأمريكية للبيانات تبيع بيئات تدريب للذكاء الاصطناعي بقيمة نصف مليار دولار لمختبرات صينية"
   },
-  "theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub": {
-   "at": "2026-11-10T18:15:30.268560+00:00",
-   "title": "ChatGPT is getting verified AI ‘Business Agents’",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-   "score": 1,
-   "sources": 1,
-   "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping.",
-   "title_ar": "ChatGPT يحصل على وكلاء أعمال ذكاء اصطناعي موثقين"
-  },
   "theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now": {
    "at": "2026-11-11T00:45:30.160305+00:00",
    "title": "Anthropic has its own AI-powered office suite now",
@@ -13172,7 +13205,7 @@
  "topic_last_posted": {
   "AI": "2026-11-17T18:15:28.079161+00:00",
   "Anime": "2026-11-17T17:30:36.296181+00:00",
-  "Games": "2026-11-17T17:45:28.710104+00:00",
+  "Games": "2026-11-17T18:30:39.355161+00:00",
   "Tech": "2026-11-17T18:00:48.514494+00:00"
  },
  "digest_day": "2026-11-17",
