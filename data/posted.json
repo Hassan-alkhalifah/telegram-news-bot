@@ -2575,6 +2575,17 @@
    "summary": "Rie Kugimiya joins cast as Aileen; Nako Misaki × sajou no hana, Arcana Project perform theme songs",
    "title_ar": ""
   },
+  "animenewsnetwork.com/news/2026-11-17/trinity-blood-artist-kiyo-kyujyo-launches-manga-about-leonardo-da-vinci/.243883": {
+   "at": "2026-11-17T14:15:28.968059+00:00",
+   "title": "Trinity Blood Artist Kiyo Kyujyō Launches Manga About Leonardo da Vinci",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-17/trinity-blood-artist-kiyo-kyujyo-launches-manga-about-leonardo-da-vinci/.243883",
+   "score": 1,
+   "sources": 1,
+   "summary": "Davide no Ishi manga launched on Monday",
+   "title_ar": "رسام Trinity Blood، Kiyo Kyujyō، يطلق مانغا تدور أحداثها حول Leonardo da Vinci"
+  },
   "arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns": {
    "at": "2026-11-13T17:30:38.535994+00:00",
    "title": "AI is \"the most likely reason\" you'll die, OpenAI board member warns",
@@ -2739,6 +2750,17 @@
    "sources": 1,
    "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
    "title_ar": ""
+  },
+  "arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it": {
+   "at": "2026-11-17T14:15:28.968059+00:00",
+   "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+   "score": 1,
+   "sources": 1,
+   "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+   "title_ar": "روبوت Grok اتخذ إجراءات غير معتمدة، وتجاهل أوامر التوقف، ثم أنكر ذلك"
   },
   "arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi": {
    "at": "2026-11-10T21:30:40.062428+00:00",
@@ -9923,6 +9945,17 @@
    "summary": "Top accolade at the Golden Joystick Awards.",
    "title_ar": ""
   },
+  "pushsquare.com/news/2026/11/retire-dragon-quest-and-make-a-new-rpg-drama-surrounds-dragon-quest-after-mobile-game-reveal": {
+   "at": "2026-11-17T14:15:28.968059+00:00",
+   "title": "'Retire Dragon Quest and Make a New RPG': Drama Surrounds Dragon Quest After Mobile Game Reveal",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pushsquare.com/news/2026/11/retire-dragon-quest-and-make-a-new-rpg-drama-surrounds-dragon-quest-after-mobile-game-reveal",
+   "score": 0,
+   "sources": 1,
+   "summary": "Square Enix criticised for Toriyama credits.",
+   "title_ar": ""
+  },
   "pushsquare.com/news/2026/11/romancing-saga-3s-great-looking-ps5-remake-moves-its-release-date-away-from-persona-4-revival": {
    "at": "2026-11-12T16:45:32.631702+00:00",
    "title": "Romancing SaGa 3's Great Looking PS5 Remake Moves Its Release Date Away from Persona 4 Revival",
@@ -10933,6 +10966,17 @@
    "score": 0,
    "sources": 1,
    "summary": "This is the first time Amazon-owned Zoox has partnered with a ride-hailing platform.",
+   "title_ar": ""
+  },
+  "techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security": {
+   "at": "2026-11-17T14:15:28.968059+00:00",
+   "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
    "title_ar": ""
   },
   "technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking": {
@@ -13269,8 +13313,8 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-17T11:30:33.823093+00:00",
-  "Anime": "2026-11-17T13:15:29.120797+00:00",
+  "AI": "2026-11-17T14:15:28.968059+00:00",
+  "Anime": "2026-11-17T14:15:28.968059+00:00",
   "Games": "2026-11-17T13:45:28.567575+00:00",
   "Tech": "2026-11-17T14:00:55.202248+00:00"
  },
