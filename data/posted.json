@@ -672,17 +672,6 @@
    "summary": "With the holidays fast approaching, Apple TV has shared trailers for two upcoming specials featuring Snoopy and the Fraggles.",
    "title_ar": "Apple TV تنشر عروضاً تشويقية لحلقات العطلات الخاصة القادمة لـ Snoopy و Fraggle Rock"
   },
-  "9to5mac.com/2026/11/10/apples-new-homeview-to-add-two-major-features-not-yet-announced-per-leaks": {
-   "at": "2026-11-10T15:15:32.240618+00:00",
-   "title": "Apple’s new HomeView to add two major features not yet announced, per leaks",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/10/apples-new-homeview-to-add-two-major-features-not-yet-announced-per-leaks/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Apple’s HomeView arrives this Friday ( pre-order here ), but leaks indicate there are already two major new features in the works that haven’t been announced.",
-   "title_ar": "جهاز Apple الجديد HomeView سيضيف ميزتين رئيسيتين لم يُعلن عنهما بعد، وفقاً للتسريبات."
-  },
   "9to5mac.com/2026/11/10/end-of-an-era-apple-support-community-forums-will-permanently-close-on-november-20": {
    "at": "2026-11-11T03:00:48.328760+00:00",
    "title": "End of an era: Apple Support Community forums will permanently close on November 20",
@@ -2542,6 +2531,17 @@
    "summary": "Mariya Ise, Hikaru Tōno, Nana Enomoto join cast",
    "title_ar": ""
   },
+  "animenewsnetwork.com/news/2026-11-17/mission-yozakura-family-hitsuji-gondaira-launches-manga-about-police-officer-in-meiji-era-japan/.243878": {
+   "at": "2026-11-17T15:15:40.604808+00:00",
+   "title": "Mission: Yozakura Family's Hitsuji Gondaira Launches Manga About Police Officer in Meiji-Era Japan",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-17/mission-yozakura-family-hitsuji-gondaira-launches-manga-about-police-officer-in-meiji-era-japan/.243878",
+   "score": 1,
+   "sources": 1,
+   "summary": "Ginza Uradoori Kо̄ban no HIzuki-san debuts next Tuesday",
+   "title_ar": "مؤلف Mission: Yozakura Family؛ Hitsuji Gondaira يطلق مانغا تدور حول ضابط شرطة في اليابان خلال عصر ميجي"
+  },
   "animenewsnetwork.com/news/2026-11-17/mistress-kanan-is-devilishly-easy-season-2-1st-video-unveils-more-cast-and-staff-2027-debut/.243905": {
    "at": "2026-11-17T11:00:42.907888+00:00",
    "title": "Mistress Kanan is Devilishly Easy Season 2's 1st Video Unveils More Cast & Staff, 2027 Debut",
@@ -4225,6 +4225,17 @@
    "summary": "You won't need to wait for TouchID on your $2,000 foldable.",
    "title_ar": ""
   },
+  "engadget.com/2318495/uber-eats-starts-drone-deliveries-in-texas": {
+   "at": "2026-11-17T15:15:40.604808+00:00",
+   "title": "Uber Eats starts drone deliveries in Texas",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2318495/uber-eats-starts-drone-deliveries-in-texas/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Uber hopes to hit 1 million daily drone deliveries by 2029.",
+   "title_ar": ""
+  },
   "engadget.com/2318790/apple-adds-new-disk-controls-to-prevent-ai-agents-from-running-amok": {
    "at": "2026-11-17T06:45:34.683431+00:00",
    "title": "Apple adds new disk controls to prevent AI agents from running amok",
@@ -4388,17 +4399,6 @@
    "score": 0,
    "sources": 1,
    "summary": "The Grand Theft Auto games have always been synonymous with America; Americana is baked into the crime series' very being.",
-   "title_ar": ""
-  },
-  "eurogamer.net/gta-6-30-fps-platforms-absolute-limit": {
-   "at": "2026-11-10T15:15:32.240618+00:00",
-   "title": "Rockstar details Grand Theft Auto 6 PS5 Pro enhancements, but it'll still only run at 30FPS",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.eurogamer.net/gta-6-30-fps-platforms-absolute-limit",
-   "score": 0,
-   "sources": 1,
-   "summary": "As Grand Theft Auto 6 preloads go live, developer Rockstar has detailed the enhancements coming to the PS5 Pro version of the game, confirming these won't include framerates above the 30 FPS its…",
    "title_ar": ""
   },
   "eurogamer.net/gta-6-internet-uk-broadband-ofcom-openreach": {
@@ -6281,6 +6281,17 @@
    "sources": 1,
    "summary": "Xiaomi introduced the rear screen last year with the 17 Pro and 17 Pro Max, but neither of those devices ever made it to markets outside China, at least not officially.",
    "title_ar": "شركة Xiaomi تؤكد دعم تطبيقات Google Maps وSpotify وYouTube Music لشاشة هاتف 18 Pro الخلفية"
+  },
+  "gsmarena.com/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491.php": {
+   "at": "2026-11-17T15:15:40.604808+00:00",
+   "title": "Xiaomi Watch S5 41mm, Xiaomi Clip buds and Xiaomi Smart Band 11 NFC go global",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "It’s never just one thing with Xiaomi – the company just announced the global rollout of its Xiaomi 18 Pro flagships and it is also bringing several accessories to the global market.",
+   "title_ar": ""
   },
   "gsmarena.com/xiaomi_watch_s5_41mm_xiaomi_smart_band_11_xiaomi_clip_earbuds_will_be_at_next_weeks_event_too-news-75442.php": {
    "at": "2026-11-12T01:15:27.437278+00:00",
@@ -10726,6 +10737,28 @@
    "summary": "This is the first time Amazon-owned Zoox has partnered with a ride-hailing platform.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials": {
+   "at": "2026-11-17T15:15:40.604808+00:00",
+   "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round.",
+   "title_ar": ""
+  },
+  "techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram": {
+   "at": "2026-11-17T15:15:40.604808+00:00",
+   "title": "Meta launches Direct, a standalone messaging app for Instagram",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Direct is launching in Turkey and Thailand, and can be used with or without an Instagram account.",
+   "title_ar": ""
+  },
   "techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security": {
    "at": "2026-11-17T14:15:28.968059+00:00",
    "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
@@ -10736,6 +10769,17 @@
    "sources": 1,
    "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
    "title_ar": ""
+  },
+  "techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow": {
+   "at": "2026-11-17T15:15:40.604808+00:00",
+   "title": "Uber and Zipline’s drone delivery service takes off in Texas, with dozens of cities to follow",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/",
+   "score": 4,
+   "sources": 3,
+   "summary": "The two companies want to make one million deliveries per day using Zipline drones by the end of 2029.",
+   "title_ar": "خدمة توصيل الطلبات بالدرون التابعة لـ Uber و Zipline تنطلق في تكساس وتتبعها عشرات المدن"
   },
   "technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking": {
    "at": "2026-11-12T21:15:29.818668+00:00",
@@ -11836,6 +11880,17 @@
    "sources": 1,
    "summary": "Mercedes-Benz is tossing its hat into the partial autonomy ring with the launch of two new features next year: hands-free highway driving and a point-to-point city navigation system.",
    "title_ar": "Mercedes-Benz تتحدى نظام FSD من Tesla بمساعد جديد للقيادة في المدن من نقطة إلى نقطة"
+  },
+  "theverge.com/transportation/1034794/uber-eats-zipline-drone-delivery-launch-texas-houston-dallas": {
+   "at": "2026-11-17T15:15:40.604808+00:00",
+   "title": "Uber and Zipline’s drone delivery service takes flight in Houston",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/transportation/1034794/uber-eats-zipline-drone-delivery-launch-texas-houston-dallas",
+   "score": 0,
+   "sources": 1,
+   "summary": "Uber Eats is officially launching drone delivery in partnership with Zipline starting Tuesday.",
+   "title_ar": ""
   },
   "tomshardware.com/3d-printing/prusa-launches-new-carbon-3d-printing-filament-for-electronics-manufacturing-carbon-fiber-and-carbon-nanotube-filled-material-dissipates-electrostatic-energy-for-static-sensitive-electronics": {
    "at": "2026-11-11T21:01:01.435634+00:00",
@@ -13028,9 +13083,9 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-17T15:00:48.416521+00:00",
-  "Anime": "2026-11-17T14:15:28.968059+00:00",
+  "Anime": "2026-11-17T15:15:40.604808+00:00",
   "Games": "2026-11-17T14:30:39.373129+00:00",
-  "Tech": "2026-11-17T14:45:30.275938+00:00"
+  "Tech": "2026-11-17T15:15:40.604808+00:00"
  },
  "digest_day": "2026-11-16",
  "weekly_day": "2026-11-13"
