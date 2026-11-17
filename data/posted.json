@@ -1,17 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/10/android-17-qpr2-pixel": {
-   "at": "2026-11-10T20:15:34.443962+00:00",
-   "title": "Google rolling out Android 17 QPR2 for Pixel",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5google.com/2026/11/10/android-17-qpr2-pixel/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Android 17 QPR2 is rolling out to Google Pixel devices as a sizable release that comes a month early in a small deviation from the quarterly cycle. more…",
-   "title_ar": ""
-  },
   "9to5google.com/2026/11/10/gemini-app-4-carbon": {
    "at": "2026-11-11T00:30:39.786741+00:00",
    "title": "Gemini 4 Carbon rolling out to Gemini app for AI Ultra, Argon remains",
@@ -56,17 +45,6 @@
    "summary": "Nintendo Switch users have until January 25 to change how they sign in to the Nintendo Switch app on their smartphones. more…",
    "title_ar": ""
   },
-  "9to5google.com/2026/11/10/no-the-pixel-tag-is-not-available-today": {
-   "at": "2026-11-10T20:15:34.443962+00:00",
-   "title": "No, the Pixel Tag is not available today",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5google.com/2026/11/10/no-the-pixel-tag-is-not-available-today/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Our first impressions on Google’s new Pixel Tag are live, but orders are not.",
-   "title_ar": ""
-  },
   "9to5google.com/2026/11/10/one-ui-9-5-rambler-samsung-galaxy-keyboard": {
    "at": "2026-11-11T04:00:42.731694+00:00",
    "title": "One UI 9.5 might bring Pixel 11’s ‘Rambler’ feature to Samsung Keyboard before Google’s",
@@ -88,17 +66,6 @@
    "sources": 1,
    "summary": "Following the last update in August , Google is rolling out a sizable update to Pixel Journal that adds Recorder audio entries and file exports. more…",
    "title_ar": "تطبيق Pixel Journal يضيف تكامل الصوت وتسجيله مع خيار التصدير"
-  },
-  "9to5google.com/2026/11/10/samsung-gallery-google-photos-backup-rollout": {
-   "at": "2026-11-10T20:15:34.443962+00:00",
-   "title": "Samsung Gallery officially adds Google Photos backup, but not for all Galaxy users",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/10/samsung-gallery-google-photos-backup-rollout/",
-   "score": 3,
-   "sources": 2,
-   "summary": "Samsung has officially launched Google Photos integration in its Gallery app with backup services, and it’s also now widely rolled out for Galaxy devices. more…",
-   "title_ar": "تطبيق Samsung Gallery يضيف رسمياً النسخ الاحتياطي عبر Google Photos ولكن ليس لجميع مستخدمي Galaxy"
   },
   "9to5google.com/2026/11/11/android-auto-gemini-intelligence-pixel": {
    "at": "2026-11-11T18:00:44.161979+00:00",
@@ -627,17 +594,6 @@
    "sources": 1,
    "summary": "Leaker Aaron Perris has discovered evidence of a new Mac app in the works at Apple called Harbor, which makes it easy to run local AI models across one or more Macs. more…",
    "title_ar": "أبل تطور تطبيق Mac جديداً لتسهيل تشغيل نماذج الذكاء الاصطناعي المحلية"
-  },
-  "9to5mac.com/2026/11/10/apple-just-released-new-airpods-pro-3-firmware-airpods-5-more": {
-   "at": "2026-11-10T20:15:34.443962+00:00",
-   "title": "Apple just released new AirPods Pro 3 firmware and more",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/10/apple-just-released-new-airpods-pro-3-firmware-airpods-5-more/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple is rolling out brand new firmware for select AirPods models today, including AirPods Pro 3.",
-   "title_ar": ""
   },
   "9to5mac.com/2026/11/10/apple-music-debuts-labrinths-new-single-created-live-on-the-touchscreen-macbook-pro": {
    "at": "2026-11-11T01:45:29.679063+00:00",
@@ -1596,6 +1552,17 @@
    "summary": "iCloud+ keeps adding new perks for subscribers, including two that are coming with iOS 27.3 when it launches next month . more…",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/17/ios-27-3s-redesigned-apple-health-app-requires-newer-iphone-model": {
+   "at": "2026-11-17T20:30:42.274897+00:00",
+   "title": "iOS 27.3’s redesigned Apple Health app requires newer iPhone model",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/17/ios-27-3s-redesigned-apple-health-app-requires-newer-iphone-model/",
+   "score": 0,
+   "sources": 1,
+   "summary": "iOS 27.3 will introduce an all-new Apple Health experience when it ships next month, but you’ll need an AI-compatible iPhone to get it.",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/17/jensen-huang-says-hes-ready-to-rejoin-nvidia-as-ceo-if-asked": {
    "at": "2026-11-17T16:15:29.055263+00:00",
    "title": "Jensen Huang says he’s ready to rejoin Nvidia as CEO (if asked)",
@@ -1880,17 +1847,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Tasuku Kaito, Kazuki Ura star in BL story",
-   "title_ar": ""
-  },
-  "animenewsnetwork.com/news/2026-11-10/hidive-to-release-made-in-abyss-awakening-mystery-film-in-2027-with-n-american-premiere-screening-/.243696": {
-   "at": "2026-11-10T20:15:34.443962+00:00",
-   "title": "HIDIVE to Release Made in Abyss: Awakening Mystery Film in 2027 With N. American Premiere Screening at Anime Frontier on December 5",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-10/hidive-to-release-made-in-abyss-awakening-mystery-film-in-2027-with-n-american-premiere-screening-/.243696",
-   "score": 0,
-   "sources": 1,
-   "summary": "English-subbed trailer streamed for 1st film in new Made in Abyss anime film series",
    "title_ar": ""
   },
   "animenewsnetwork.com/news/2026-11-10/kodansha-launches-1999tokoyo-building-horror-game-on-steam/.243702": {
@@ -2738,17 +2694,6 @@
    "score": 0,
    "sources": 1,
    "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
-   "title_ar": ""
-  },
-  "arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family": {
-   "at": "2026-11-10T20:15:34.443962+00:00",
-   "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Spruce up your home screen with expanded custom icons and AI-generated widgets.",
    "title_ar": ""
   },
   "arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor": {
@@ -4786,6 +4731,17 @@
    "summary": "The Legend of Zelda: Ocarina of Time remake has been a huge success for Nintendo, becoming the fastest-selling Switch 2 game ever, shifting more than 5.2 million copies in four days.",
    "title_ar": ""
   },
+  "gamespot.com/articles/007-first-light-might-be-the-end-of-the-line-for-james-bonds-favorite-watch": {
+   "at": "2026-11-17T20:30:42.274897+00:00",
+   "title": "007 First Light Might Be The End Of The Line For James Bond’s Favorite Watch",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/007-first-light-might-be-the-end-of-the-line-for-james-bonds-favorite-watch/",
+   "score": 0,
+   "sources": 1,
+   "summary": "After months of searching and numerous potential frontrunners, Robert Pattinson has been cast as the next James Bond .",
+   "title_ar": ""
+  },
   "gamespot.com/articles/amid-higher-gas-and-grocery-prices-gta-6-is-a-bargain-at-80-take-two-ceo-says": {
    "at": "2026-11-10T20:45:32.606213+00:00",
    "title": "Amid Higher Gas And Grocery Prices, GTA 6 Is A “Bargain” At $80, Take-Two CEO Says",
@@ -4806,6 +4762,17 @@
    "score": 0,
    "sources": 1,
    "summary": "2026 is the 25th anniversary of Xbox, and it's been a tough year for the brand with mass layoffs, studio closures/divestitures, and game cancellations.",
+   "title_ar": ""
+  },
+  "gamespot.com/articles/civilization-dev-lays-off-1-3-of-staff-new-xcom-game-facing-development-struggles-report": {
+   "at": "2026-11-17T20:30:42.274897+00:00",
+   "title": "Civilization Dev Lays Off 1/3 Of Staff, New XCOM Game Facing “Development Struggles” – Report",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/civilization-dev-lays-off-1-3-of-staff-new-xcom-game-facing-development-struggles-report/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The video game industry's woes continue as Take-Two's 2K division has confirmed that one third of the staff at Civilization and XCOM developer Firaxis Games is being laid off.",
    "title_ar": ""
   },
   "gamespot.com/articles/delete-gta-6-for-a-chance-to-win-another-game": {
@@ -5125,6 +5092,17 @@
    "score": 0,
    "sources": 1,
    "summary": "After quickly selling out earlier this year, Microsoft dropped a limited number of its 25th Anniversary Xbox Series X consoles for sale this week-- aaaaannnd they're already gone .",
+   "title_ar": ""
+  },
+  "gamespot.com/articles/these-are-some-of-the-biggest-snubs-at-the-game-awards-2026": {
+   "at": "2026-11-17T20:30:42.274897+00:00",
+   "title": "These Are Some Of The Biggest Snubs At The Game Awards 2026",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/these-are-some-of-the-biggest-snubs-at-the-game-awards-2026/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The nominees for The Game Awards have been announced.",
    "title_ar": ""
   },
   "gamespot.com/articles/we-got-a-grand-theft-at-disney-world-before-gta-6": {
@@ -6216,17 +6194,6 @@
    "summary": "Today, Samsung announced that a range of its products have been recognized by the Consumer Technology Association as part of the CES 2027 Innovation Awards program.",
    "title_ar": "Samsung Galaxy Z Fold8 و Fold8 Ultra يفوزان بجوائز CES 2027 لأفضل ابتكار"
   },
-  "gsmarena.com/samsung_officially_details_gallery_sync_with_google_storage-news-75424.php": {
-   "at": "2026-11-10T20:15:34.443962+00:00",
-   "title": "Samsung officially details Gallery sync with Google storage",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.gsmarena.com/samsung_officially_details_gallery_sync_with_google_storage-news-75424.php",
-   "score": 0,
-   "sources": 1,
-   "summary": "Samsung is officially detailing its Gallery app's move to Google storage today.",
-   "title_ar": ""
-  },
   "gsmarena.com/samsung_one_ui_9_5_voip_voice_call_recording-news-75433.php": {
    "at": "2026-11-11T08:15:32.939523+00:00",
    "title": "Samsung could allow One UI 9.5 users to record WhatsApp and Telegram voice calls",
@@ -6280,17 +6247,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Samsung opened pre-orders for its Intelligent Eyewear smart glasses on November 12 in the US and South Korea.",
-   "title_ar": ""
-  },
-  "gsmarena.com/spotifys_ai_dj_gets_new_voices_and_an_option_to_stop_the_chatter-news-75425.php": {
-   "at": "2026-11-10T20:15:34.443962+00:00",
-   "title": "Spotify's AI DJ gets new voices and an option to stop the chatter",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.gsmarena.com/spotifys_ai_dj_gets_new_voices_and_an_option_to_stop_the_chatter-news-75425.php",
-   "score": 0,
-   "sources": 1,
-   "summary": "Spotify's AI DJ has been around since 2023, and the company expanded it to more languages and markets earlier this year.",
    "title_ar": ""
   },
   "gsmarena.com/this_is_what_the_camera_island_on_the_galaxy_s27_pro_and_ultra_looks_like-news-75487.php": {
@@ -13135,6 +13091,17 @@
    "summary": "A total of five games are nominated for the Best Score Soundtrack for Video Games award",
    "title_ar": "ترشيحات جوائز Grammy لموسىقى ألعاب الفيديو هذا العام تشمل Bond و Star Wars و Wolverine"
   },
+  "videogameschronicle.com/news/walton-goggins-suggests-fallout-season-4-isnt-guaranteed": {
+   "at": "2026-11-17T20:30:42.274897+00:00",
+   "title": "Walton Goggins suggests Fallout season 4 isn’t guaranteed",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.videogameschronicle.com/news/walton-goggins-suggests-fallout-season-4-isnt-guaranteed/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Walton Goggins has high hopes for Fallout season 4 - if it happens",
+   "title_ar": "Walton Goggins يلمح إلى أن الموسم الرابع من Fallout ليس مضموناً"
+  },
   "videogameschronicle.com/news/xbox-gem-the-chronicles-of-riddick-escape-from-butcher-bay-was-briefly-cancelled-but-nobody-told-its-developer": {
    "at": "2026-11-16T12:45:32.036008+00:00",
    "title": "Xbox gem The Chronicles of Riddick: Escape from Butcher Bay was briefly cancelled, but nobody told its developer",
@@ -13293,7 +13260,7 @@
  "topic_last_posted": {
   "AI": "2026-11-17T20:15:28.473630+00:00",
   "Anime": "2026-11-17T17:30:36.296181+00:00",
-  "Games": "2026-11-17T19:55:41.247763+00:00",
+  "Games": "2026-11-17T20:30:42.274897+00:00",
   "Tech": "2026-11-17T20:00:45.700339+00:00"
  },
  "digest_day": "2026-11-17",
