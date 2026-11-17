@@ -6128,17 +6128,6 @@
    "summary": "Today, Samsung announced that a range of its products have been recognized by the Consumer Technology Association as part of the CES 2027 Innovation Awards program.",
    "title_ar": "Samsung Galaxy Z Fold8 و Fold8 Ultra يفوزان بجوائز CES 2027 لأفضل ابتكار"
   },
-  "gsmarena.com/samsung_made_limited_edition_galaxy_buds4_pro_with_nina_chuba-news-75409.php": {
-   "at": "2026-11-10T02:45:28.655400+00:00",
-   "title": "Samsung made limited edition Galaxy Buds4 Pro with Nina Chuba",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.gsmarena.com/samsung_made_limited_edition_galaxy_buds4_pro_with_nina_chuba-news-75409.php",
-   "score": 1,
-   "sources": 1,
-   "summary": "Samsung launched the Galaxy Buds4 Pro back in February alongside the Galaxy S26 series smartphones, and now the company is coming out with a new special edition made in collaboration with pop star…",
-   "title_ar": "سامسونگ تصنع نسخة محدودة من Galaxy Buds4 Pro بالتعاون مع Nina Chuba"
-  },
   "gsmarena.com/samsung_officially_details_gallery_sync_with_google_storage-news-75424.php": {
    "at": "2026-11-10T20:15:34.443962+00:00",
    "title": "Samsung officially details Gallery sync with Google storage",
@@ -12695,6 +12684,17 @@
    "summary": "Amazon has suffered a major setback in its plans to offer a viable Starlink rival, after 40 satellites destined for low earth orbit were destroyed in a failed rocket launch.",
    "title_ar": ""
   },
+  "tomshardware.com/tech-industry/supercomputers/researchers-recognize-that-ai-will-never-replace-hpc-says-amd-executive-high-precision-workloads-will-exist-for-a-very-long-time-even-as-ai-usage-expands": {
+   "at": "2026-11-17T02:45:29.078401+00:00",
+   "title": "Researchers ‘recognize that AI will never replace HPC,’ says AMD executive — high-precision workloads will ‘exist for a very long time’ even as AI usage expands",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/supercomputers/researchers-recognize-that-ai-will-never-replace-hpc-says-amd-executive-high-precision-workloads-will-exist-for-a-very-long-time-even-as-ai-usage-expands",
+   "score": 1,
+   "sources": 1,
+   "summary": "The emergence of AI has seemingly posed a threat to high-precision FP64 computation, but AMD doesn't think the HPC world is moving away from those complex calculations in the wake of AI.",
+   "title_ar": "الباحثون \"يُدركون أن الذكاء الاصطناعي لن يحل محل الحوسبة عالية الأداء HPC\"، وفقاً لمسؤول تنفيذي في AMD - أحمال العمل عالية الدقة \"ستظل موجودة لفترة طويلة جداً\" حتى مع توسع استخدام الذكاء الاصطناعي"
+  },
   "tomshardware.com/tech-industry/suspected-chinese-spy-at-center-of-jensen-huang-affair-surfaces-in-beijing-alice-huang-last-spotted-heading-to-shanghai-after-being-detained-questioned-in-singapore-in-2025-allegedly-helped-china-smuggle-hundreds-of-thousands-of-banned-chips": {
    "at": "2026-11-12T13:00:46.916755+00:00",
    "title": "Suspected Chinese spy at center of Jensen Huang affair surfaces in Beijing",
@@ -13283,7 +13283,7 @@
   "AI": "2026-11-16T23:45:29.284385+00:00",
   "Anime": "2026-11-17T01:00:42.518522+00:00",
   "Games": "2026-11-17T02:15:29.000252+00:00",
-  "Tech": "2026-11-17T02:42:57.962359+00:00"
+  "Tech": "2026-11-17T02:45:29.078401+00:00"
  },
  "digest_day": "2026-11-16",
  "weekly_day": "2026-11-13"
