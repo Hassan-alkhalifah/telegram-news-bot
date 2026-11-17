@@ -650,17 +650,6 @@
    "summary": "A British Columbia Supreme Court judge has certified a class action against Apple over allegations that its search agreement with Google stifled competition and inflated advertising prices.",
    "title_ar": "محكمة كندية تقر دعوى جماعية ضد Apple بسبب صفقة البحث مع Google"
   },
-  "9to5mac.com/2026/11/09/ios-27-2-1-has-fixes-for-security-issues-in-messages-airplay-and-more": {
-   "at": "2026-11-10T02:00:46.241440+00:00",
-   "title": "iOS 27.2.1 has fixes for security issues in Messages, AirPlay, and more",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/09/ios-27-2-1-has-fixes-for-security-issues-in-messages-airplay-and-more/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Today Apple released iOS 27.2.1 for iPhone with bug fixes and security updates, alongside a variety of related software updates on other platforms.",
-   "title_ar": "iOS 27.2.1 يتضمن إصلاحات لمشكلات أمنية في Messages و AirPlay والمزيد"
-  },
   "9to5mac.com/2026/11/09/ios-27-3-three-new-iphone-features-coming-soon": {
    "at": "2026-11-10T02:30:38.444106+00:00",
    "title": "iOS 27.3: Three new iPhone features coming soon",
@@ -5578,6 +5567,17 @@
    "summary": "SEGA has released the 35th anniversary animation for Sonic the Hedgehog, titled “Memories and Beyond.” …",
    "title_ar": ""
   },
+  "gematsu.com/2026/11/splatoon-3-version-12-0-0-update-launches-november-17": {
+   "at": "2026-11-17T02:15:29.000252+00:00",
+   "title": "Splatoon 3 version 12.0.0 update launches November 17",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.gematsu.com/2026/11/splatoon-3-version-12-0-0-update-launches-november-17",
+   "score": 3,
+   "sources": 2,
+   "summary": "Nintendo will release the version 12.0.0 update for Splatoon 3 on November 17, the company …",
+   "title_ar": "إطلاق تحديث الإصدار 12.0.0 لعبة Splatoon 3 في 17 نوفمبر"
+  },
   "gematsu.com/2026/11/star-wars-galactic-racer-to-add-split-screen-supported-free-play-mode-in-early-2027": {
    "at": "2026-11-16T19:45:28.179505+00:00",
    "title": "Star Wars: Galactic Racer to add split-screen-supported ‘Free Play’ mode in early 2027",
@@ -5620,17 +5620,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Byteproduct has released a new trailer for science-fiction shoot ’em up Sturmjager introducing the game’s …",
-   "title_ar": ""
-  },
-  "gematsu.com/2026/11/super-mario-party-jamboree-version-2-4-0-update-now-available-adds-gameshare-using-gamechat-on-switch-2": {
-   "at": "2026-11-10T02:00:46.241440+00:00",
-   "title": "Super Mario Party Jamboree version 2.4.0 update now available, adds GameShare using GameChat on Switch 2",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gematsu.com/2026/11/super-mario-party-jamboree-version-2-4-0-update-now-available-adds-gameshare-using-gamechat-on-switch-2",
-   "score": 0,
-   "sources": 1,
-   "summary": "Nintendo has released the version 2.4.0 update for Super Mario Party Jamboree, which adds GameShare …",
    "title_ar": ""
   },
   "gematsu.com/2026/11/teenage-mutant-ninja-turtles-splintered-fate-shell-squad-co-op-update-now-available": {
@@ -8953,6 +8942,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Award will be presented only once per decade.",
+   "title_ar": ""
+  },
+  "nintendolife.com/news/2026/11/splatoon-3-version-12-0-0-announced-here-are-the-full-patch-notes": {
+   "at": "2026-11-17T02:15:29.000252+00:00",
+   "title": "Splatoon 3 Version 12.0.0 Announced, Here Are The Full Patch Notes",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/splatoon-3-version-12-0-0-announced-here-are-the-full-patch-notes",
+   "score": 0,
+   "sources": 1,
+   "summary": "The dev team also has another update on the way.",
    "title_ar": ""
   },
   "nintendolife.com/news/2026/11/super-mario-party-jamboree-updated-for-switch-2-and-switch-version-2-4-0": {
@@ -13337,7 +13337,7 @@
  "topic_last_posted": {
   "AI": "2026-11-16T23:45:29.284385+00:00",
   "Anime": "2026-11-17T01:00:42.518522+00:00",
-  "Games": "2026-11-17T01:45:28.224020+00:00",
+  "Games": "2026-11-17T02:15:29.000252+00:00",
   "Tech": "2026-11-17T02:00:44.953961+00:00"
  },
  "digest_day": "2026-11-16",
