@@ -1,17 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/10/amazon-ring-drone-cam-robotics": {
-   "at": "2026-11-10T15:30:42.065908+00:00",
-   "title": "Amazon’s new Ring cameras are mounted to roving robots, including $250 Drone Cam",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5google.com/2026/11/10/amazon-ring-drone-cam-robotics/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Amazon’s Ring brand is today launching a new “Robotics” division that will start with two offerings – a $250 Ring Drone Cam and a $1,000 Rover Cam. more…",
-   "title_ar": ""
-  },
   "9to5google.com/2026/11/10/android-17-qpr2-november-pixel-update": {
    "at": "2026-11-10T20:00:49.531567+00:00",
    "title": "Android 17 QPR2 November update rolling out with 33 Pixel fixes",
@@ -561,6 +550,17 @@
    "sources": 1,
    "summary": "We’re only a couple of months away from our next Galaxy Unpacked, and while the expanded Galaxy S27 series is practically guaranteed to show up, the real fun tends to lie in whatever other gadgets…",
    "title_ar": "تسريب سماعات Galaxy Studio من Samsung مع تحكم باللمس ولونين"
+  },
+  "9to5google.com/2026/11/17/instagram-direct-dedicated-messaging-app": {
+   "at": "2026-11-17T15:30:43.795514+00:00",
+   "title": "Instagram launches dedicated ‘Direct’ messaging app that basically no one can use yet",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5google.com/2026/11/17/instagram-direct-dedicated-messaging-app/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Meta’s Instagram is launching a new “Direct” app that’s dedicated to direct messages, but it’s exceptionally limited at launch. more…",
+   "title_ar": ""
   },
   "9to5google.com/2026/11/17/samsung-galaxy-s27-redesign-confirmed-poll": {
    "at": "2026-11-17T14:00:55.202248+00:00",
@@ -5314,17 +5314,6 @@
    "summary": "Pachinko-inspired roguelike game High Roller Penny, a pachinko-inspired roguelike game, will launch for PC via …",
    "title_ar": ""
   },
-  "gematsu.com/2026/11/hunger-launches-in-early-access-on-december-3": {
-   "at": "2026-11-10T15:30:42.065908+00:00",
-   "title": "HUNGER launches in Early Access on December 3",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.gematsu.com/2026/11/hunger-launches-in-early-access-on-december-3",
-   "score": 4,
-   "sources": 2,
-   "summary": "Multiplayer extraction RPG HUNGER will launch in Early Access for PC via Steam on December …",
-   "title_ar": "إطلاق لعبة HUNGER في مرحلة الوصول المبكر في 3 ديسمبر"
-  },
   "gematsu.com/2026/11/kuloniku-bowl-up-coming-to-switch-2-switch-on-november-25": {
    "at": "2026-11-12T18:00:45.101887+00:00",
    "title": "KuloNiku: Bowl Up! coming to Switch 2, Switch on November 25",
@@ -7415,17 +7404,6 @@
    "summary": "If you're waiting for Honkai: Star Rail to come to XBOX or Nintendo Switch, you might be waiting just a little while longer...",
    "title_ar": "Honkai: Star Rail لا تظهر أي مؤشرات على إطلاقها لجهازي XBOX أو Switch"
   },
-  "insider-gaming.com/hunger-coming-early-access-next-month": {
-   "at": "2026-11-10T15:30:42.065908+00:00",
-   "title": "HUNGER Launching in Early Access on Steam Next Month",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/hunger-coming-early-access-next-month/",
-   "score": 0,
-   "sources": 1,
-   "summary": "GOOD FUN CORPORATION has revealed that HUNGER, the upcoming extraction RPG title, will launch in early access next month on Steam.",
-   "title_ar": ""
-  },
   "insider-gaming.com/id-software-confirms-next-game-is-in-development": {
    "at": "2026-11-12T21:45:31.646152+00:00",
    "title": "Id Software confirms next game is in development",
@@ -8150,6 +8128,17 @@
    "score": 0,
    "sources": 1,
    "summary": "The PS Plus app for PC is the latest victim of Sony's pivot back to console",
+   "title_ar": ""
+  },
+  "kotaku.com/sony-playstation-store-ps5-lawsuit-monopoly-you-owe-us-2000757669": {
+   "at": "2026-11-17T15:30:43.795514+00:00",
+   "title": "Sony Defeats $2.6 Billion Class-Action Lawsuit Over Claimed PlayStation Store Monopoly",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/sony-playstation-store-ps5-lawsuit-monopoly-you-owe-us-2000757669",
+   "score": 0,
+   "sources": 1,
+   "summary": "The UK case has rumbled along for years, but a London court ruled the evidence wasn't there",
    "title_ar": ""
   },
   "kotaku.com/sorry-aonuma-rolling-is-still-the-fastest-way-to-get-around-in-zelda-ocarina-of-time-2000755975": {
@@ -10011,17 +10000,6 @@
    "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
    "title_ar": "جوجل توسع محفظتها من عتاد الذكاء الاصطناعي بشريحتين جديدتين متخصصتين"
   },
-  "techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch": {
-   "at": "2026-11-10T15:30:42.065908+00:00",
-   "title": "Meta’s AI agent Muse lands on Apple Watch",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
-   "title_ar": ""
-  },
   "techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os": {
    "at": "2026-11-10T15:45:33.266716+00:00",
    "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
@@ -11154,6 +11132,17 @@
    "sources": 1,
    "summary": "OpenAI has launched two security products under its Daybreak brand.",
    "title_ar": ""
+  },
+  "the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments": {
+   "at": "2026-11-17T15:30:43.795514+00:00",
+   "title": "OpenAI opens its cybersecurity tool Daybreak to NATO and European governments",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/",
+   "score": 1,
+   "sources": 1,
+   "summary": "OpenAI is opening its cybersecurity tool Daybreak to NATO and several European governments, including Germany, France, and Poland.",
+   "title_ar": "OpenAI تفتح أداة الأمن السيبراني Daybreak الخاصة بها أمام الناتو والحكومات الأوروبية"
   },
   "the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary": {
    "at": "2026-11-14T11:45:27.095016+00:00",
@@ -13082,7 +13071,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-17T15:00:48.416521+00:00",
+  "AI": "2026-11-17T15:30:43.795514+00:00",
   "Anime": "2026-11-17T15:15:40.604808+00:00",
   "Games": "2026-11-17T14:30:39.373129+00:00",
   "Tech": "2026-11-17T15:15:40.604808+00:00"
