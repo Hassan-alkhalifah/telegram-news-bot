@@ -2762,17 +2762,6 @@
    "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
    "title_ar": "روبوت Grok اتخذ إجراءات غير معتمدة، وتجاهل أوامر التوقف، ثم أنكر ذلك"
   },
-  "arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi": {
-   "at": "2026-11-10T21:30:40.062428+00:00",
-   "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
-   "title_ar": "وكيل البرمجة Grok Build يسرب كميات هائلة من المعلومات السرية، وبعضها يخص SpaceXSI"
-  },
   "arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks": {
    "at": "2026-11-12T19:00:43.692442+00:00",
    "title": "Families fight to keep Google’s “disturbing” AI off school-issued Chromebooks",
@@ -7569,6 +7558,17 @@
    "summary": "On social media, six new GTA 6 screenshots have surfaced, focusing specifically on the game's incredible weather systems.",
    "title_ar": ""
   },
+  "insider-gaming.com/no-sony-game-of-the-year-nominations": {
+   "at": "2026-11-17T21:45:29.099483+00:00",
+   "title": "Sony Has No Game of the Year Nods for First Time Since 2014",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/no-sony-game-of-the-year-nominations/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Typical mainstays in the Game of the Year conversation, Sony doesn't have a nominee for the first time in 11 years.",
+   "title_ar": ""
+  },
   "insider-gaming.com/ocarina-of-time-sells-record-high-units-four-days": {
    "at": "2026-11-11T08:00:42.756362+00:00",
    "title": "Ocarina of Time Has Sold 5.2 Million Units in Four Days, Setting a New Record",
@@ -10847,6 +10847,17 @@
    "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
    "title_ar": "غوغل توسع نطاق الوصول إلى ميزة Gemini Tasks التي يمكنها المساعدة في المكالمات وعمليات الشراء"
   },
+  "techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one": {
+   "at": "2026-11-17T21:45:29.099483+00:00",
+   "title": "Google joins the tech outage trend by announcing it’s not having one",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+   "score": 2,
+   "sources": 1,
+   "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
+   "title_ar": "Google تنضم إلى موجة الأعطال التقنية بالإعلان عن عدم وجود أي عطل لديها"
+  },
   "techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off": {
    "at": "2026-11-17T19:00:43.400058+00:00",
    "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
@@ -11968,6 +11979,17 @@
    "sources": 1,
    "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use.",
    "title_ar": "وكيل الذكاء الاصطناعي Spark من Google يصبح \"Tasks\" - وهو الآن مجاني"
+  },
+  "theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang": {
+   "at": "2026-11-17T21:45:29.099483+00:00",
+   "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+   "score": 0,
+   "sources": 1,
+   "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang - though that will likely change once analysts are on the line…",
+   "title_ar": ""
   },
   "theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash": {
    "at": "2026-11-12T17:15:30.373926+00:00",
@@ -13214,7 +13236,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-17T21:00:42.092749+00:00",
+  "AI": "2026-11-17T21:45:29.099483+00:00",
   "Anime": "2026-11-17T17:30:36.296181+00:00",
   "Games": "2026-11-17T21:15:28.632064+00:00",
   "Tech": "2026-11-17T21:30:37.423291+00:00"
