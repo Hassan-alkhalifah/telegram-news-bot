@@ -5017,6 +5017,17 @@
    "summary": "Sony has canceled the upcoming live-service shooter Fairgame$, but there will be no job cuts connected to the game's closure.",
    "title_ar": ""
   },
+  "gamespot.com/articles/sony-is-updating-the-ps5-again-and-it-might-have-gta-6-pirates-in-mind": {
+   "at": "2026-11-17T13:15:29.120797+00:00",
+   "title": "Sony Is Updating The PS5 Again, And It Might Have GTA 6 Pirates In Mind",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/sony-is-updating-the-ps5-again-and-it-might-have-gta-6-pirates-in-mind/",
+   "score": 0,
+   "sources": 1,
+   "summary": "A new PS5 firmware update has dropped, but even at a chunky 1.2GB download, version 26.07-14.23.00 doesn't include a comprehensive list of notes.",
+   "title_ar": ""
+  },
   "gamespot.com/articles/the-head-of-gta-6s-parent-company-helped-make-one-of-the-best-christmas-movies-of-all-time": {
    "at": "2026-11-16T22:30:37.407041+00:00",
    "title": "The Head Of GTA 6’s Parent Company Helped Make One Of The Best Christmas Movies Of All Time",
@@ -8185,17 +8196,6 @@
    "summary": "The latest wave of Nintendo DMCAs on GitHub have targeted firmware for Nintendo Switch modchips and its old emulation-related nemesis, Yuzu",
    "title_ar": ""
   },
-  "kotaku.com/nintendo-shuts-down-switch-2-jailbreak-smilebasic-r4-piracy-homebrew-2000755504": {
-   "at": "2026-11-10T13:00:47.494990+00:00",
-   "title": "Nintendo Shuts Down Switch 2 Jailbreak, Sending Hackers Back To Square One",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://kotaku.com/nintendo-shuts-down-switch-2-jailbreak-smilebasic-r4-piracy-homebrew-2000755504",
-   "score": 2,
-   "sources": 1,
-   "summary": "The SmileBASIC exploit is no more",
-   "title_ar": "Nintendo تغلق ثغرة اختراق Switch 2 وتُعيد القراصنة إلى نقطة الصفر"
-  },
   "kotaku.com/nvidia-class-action-lawsuit-shareholders-affair-chinese-spy-jensen-huang-2000755505": {
    "at": "2026-11-10T13:45:30.921020+00:00",
    "title": "Nvidia Hit With Class Action Lawsuit For ‘Misleading’ Shareholders Following CEO’s Affair With Alleged Chinese Spy",
@@ -8635,6 +8635,17 @@
    "sources": 1,
    "summary": "The official website for the television anime adaptation of nonco's Kanan-sama wa Akumade Choroi (Mistress Kanan is Devilishly Easy) manga revealed additional cast, new staff, a teaser visual…",
    "title_ar": ""
+  },
+  "myanimelist.net/news/74949726?_location=rss": {
+   "at": "2026-11-17T13:15:29.120797+00:00",
+   "title": "Additional Cast for 'Odoru Sennen Kazoku' Announced",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://myanimelist.net/news/74949726?_location=rss",
+   "score": 1,
+   "sources": 1,
+   "summary": "The official website for the television anime adaptation of Akira Kazugai's Odoru Sennen Kazoku (Millennium Family) manga announced six additional cast members on Sunday.",
+   "title_ar": "الإعلان عن طاقم تمثيل إضافي لعمل 'Odoru Sennen Kazoku'"
   },
   "nintendolife.com/news/2026/11/cosy-train-sim-station-to-station-arrives-on-switch-2-later-this-month": {
    "at": "2026-11-12T14:30:42.687517+00:00",
@@ -9393,17 +9404,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Company co-founder seemingly ousted following multiple affair scandals.",
-   "title_ar": ""
-  },
-  "pcgamer.com/hardware/graphics-cards/law-firms-lining-up-for-a-chance-to-bop-nvidias-nose-on-behalf-of-its-own-shareholders-president-trump-says-fbi-are-sniffing-around-the-case": {
-   "at": "2026-11-10T13:00:47.494990+00:00",
-   "title": "Law firms lining up for a chance to bop Nvidia’s nose on behalf of its own shareholders; president Trump says FBI are sniffing around the AI company's case",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/hardware/graphics-cards/law-firms-lining-up-for-a-chance-to-bop-nvidias-nose-on-behalf-of-its-own-shareholders-president-trump-says-fbi-are-sniffing-around-the-case/",
-   "score": 0,
-   "sources": 1,
-   "summary": "It's all kicking off now.",
    "title_ar": ""
   },
   "pcgamer.com/hardware/graphics-cards/next-nvidia-ceo-has-to-have-national-security-as-a-top-priority-says-chairman-of-us-gov-committee-on-china-claims-huang-departure-could-have-been-avoided": {
@@ -13281,7 +13281,7 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-17T11:30:33.823093+00:00",
-  "Anime": "2026-11-17T10:00:41.124507+00:00",
+  "Anime": "2026-11-17T13:15:29.120797+00:00",
   "Games": "2026-11-17T13:00:43.909146+00:00",
   "Tech": "2026-11-17T12:45:27.821147+00:00"
  },
