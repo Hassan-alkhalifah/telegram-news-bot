@@ -4247,6 +4247,17 @@
    "summary": "You won't need to wait for TouchID on your $2,000 foldable.",
    "title_ar": ""
   },
+  "engadget.com/2318790/apple-adds-new-disk-controls-to-prevent-ai-agents-from-running-amok": {
+   "at": "2026-11-17T06:45:34.683431+00:00",
+   "title": "Apple adds new disk controls to prevent AI agents from running amok",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2318790/apple-adds-new-disk-controls-to-prevent-ai-agents-from-running-amok/",
+   "score": 1,
+   "sources": 1,
+   "summary": "After sounding an alarm about the issue, Apple is taking steps to limit Mac disk access to AI agents.",
+   "title_ar": "أبل تضيف عناصر تحكم جديدة للأقراص لمنع وكلاء الذكاء الاصطناعي من التصرف بشكل خارج عن السيطرة"
+  },
   "eurogamer.net/blood-of-dawnwalker-new-game-plus": {
    "at": "2026-11-13T21:00:41.462775+00:00",
    "title": "The Blood of Dawnwalker is getting a New Game Plus mode in next week's update",
@@ -7050,17 +7061,6 @@
    "score": 0,
    "sources": 1,
    "summary": "The much anticipated remake of The Legend of Zelda: Ocarina of Time launched on November 5, and one feature has fast become a big hit: the fact that you can now play any tune you like on Link’s…",
-   "title_ar": ""
-  },
-  "ign.com/articles/the-legend-of-zelda-ocarina-of-times-high-quality-visuals-have-players-second-guessing-decades-of-memories": {
-   "at": "2026-11-10T06:45:30.450672+00:00",
-   "title": "The Legend of Zelda: Ocarina of Time's High-Quality Visuals Have Players Second-Guessing Decades of Memories",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-times-high-quality-visuals-have-players-second-guessing-decades-of-memories",
-   "score": 0,
-   "sources": 1,
-   "summary": "The Legend of Zelda: Ocarina of Time remake gives Link's first 3D adventure a new coat of paint, but some of its details have players second-guessing the reality they thought they once knew.",
    "title_ar": ""
   },
   "ign.com/articles/the-legend-of-zelda-series-was-in-dire-straits-before-breath-of-the-wild-former-nintendo-marketing-leads-say": {
@@ -13272,7 +13272,7 @@
   "AI": "2026-11-16T23:45:29.284385+00:00",
   "Anime": "2026-11-17T05:15:30.251136+00:00",
   "Games": "2026-11-17T02:15:29.000252+00:00",
-  "Tech": "2026-11-17T06:00:40.267633+00:00"
+  "Tech": "2026-11-17T06:45:34.683431+00:00"
  },
  "digest_day": "2026-11-16",
  "weekly_day": "2026-11-13"
