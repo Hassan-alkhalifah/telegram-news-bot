@@ -1,17 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/09/google-gemini-memory-summary": {
-   "at": "2026-11-10T04:30:42.866450+00:00",
-   "title": "Google Gemini rolling out ‘Memory summary’ with everything it remembers about you",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/09/google-gemini-memory-summary/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Google Gemini now offers a “Memory summary” to “view, edit, and delete what Gemini Apps understands about you.” more…",
-   "title_ar": "Google Gemini يطرح ميزة Memory summary لتخزين كل ما تتذكره عنك"
-  },
   "9to5google.com/2026/11/10/amazon-ring-drone-cam-robotics": {
    "at": "2026-11-10T15:30:42.065908+00:00",
    "title": "Amazon’s new Ring cameras are mounted to roving robots, including $250 Drone Cam",
@@ -3410,6 +3399,17 @@
    "sources": 1,
    "summary": "\"YES\" is the only anime theme song in the Best Asian Pop Music Performance category",
    "title_ar": ""
+  },
+  "crunchyroll.com/news/latest/2026/11/17/onee-chan-no-midori-kun-live-action-film-new-clip-timelesz-theme-song": {
+   "at": "2026-11-17T04:45:28.745017+00:00",
+   "title": "Onee-chan no Midori-kun Live-Action Film Releases New Clip Featuring Timelesz Theme Song",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://crunchyroll.com/news/latest/2026/11/17/onee-chan-no-midori-kun-live-action-film-new-clip-timelesz-theme-song",
+   "score": 1,
+   "sources": 1,
+   "summary": "The adaptation of Amu Meguro's romance manga opens on December 4",
+   "title_ar": "إطلاق مقطع مصور جديد لفيلم الأوساخ الحي Onee-chan no Midori-kun يتضمن الأغنية الرئيسية لفرقة Timelesz"
   },
   "crunchyroll.com/news/quizzes/2026/11/16/anime-crosswords-puzzles-vol-81": {
    "at": "2026-11-16T15:15:27.546146+00:00",
@@ -13270,7 +13270,7 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-16T23:45:29.284385+00:00",
-  "Anime": "2026-11-17T01:00:42.518522+00:00",
+  "Anime": "2026-11-17T04:45:28.745017+00:00",
   "Games": "2026-11-17T02:15:29.000252+00:00",
   "Tech": "2026-11-17T04:30:38.322442+00:00"
  },
