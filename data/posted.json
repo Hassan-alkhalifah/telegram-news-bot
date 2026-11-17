@@ -78,17 +78,6 @@
    "summary": "Our first impressions on Google’s new Pixel Tag are live, but orders are not.",
    "title_ar": ""
   },
-  "9to5google.com/2026/11/10/november-2026-pixel-feature-drop": {
-   "at": "2026-11-10T19:00:47.857023+00:00",
-   "title": "November 2026 Pixel Drop: Create My Widget, HiLight for Google Messages, Pixel 10 Rambler, & more",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5google.com/2026/11/10/november-2026-pixel-feature-drop/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Like last year, the next Pixel Drop is rolling out a month early in November.",
-   "title_ar": ""
-  },
   "9to5google.com/2026/11/10/november-2026-pixel-watch-drop": {
    "at": "2026-11-10T19:15:33.332806+00:00",
    "title": "November Pixel Watch Drop: Create My Widget, Phone-to-Watch Unlock, and Wear OS 7.1",
@@ -1705,17 +1694,6 @@
    "sources": 1,
    "summary": "HIDIVE has acquired Giant Ojosama for its Winter 2027 simulcast lineup, with the comedy…",
    "title_ar": "حصري: انضمام Giant Ojosama إلى تشكيلة شتاء 2027 لمنصة HIDIVE، وتحديد موعد العرض الأول في Anime Frontier في 4 ديسمبر"
-  },
-  "animecorner.me/exclusive-made-in-abyss-awakening-mystery-heads-to-hidive-in-2027-north-american-premiere-set-for-december-5": {
-   "at": "2026-11-10T19:00:47.857023+00:00",
-   "title": "Exclusive: Made in Abyss: Awakening Mystery Heads to HIDIVE in 2027, North American Premiere Set for December 5",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://animecorner.me/exclusive-made-in-abyss-awakening-mystery-heads-to-hidive-in-2027-north-american-premiere-set-for-december-5/",
-   "score": 1,
-   "sources": 1,
-   "summary": "HIDIVE will distribute Made in Abyss: Awakening Mystery in 2027, with the film set…",
-   "title_ar": "حصرياً: فيلم Made in Abyss: Awakening Mystery قادم إلى منصة HIDIVE في عام 2027، والعرض الأول في أمريكا الشمالية مقرر في 5 ديسمبر"
   },
   "animecorner.me/exclusive-preview-ram-v-launches-mirror-maker-studios-ahead-of-deicidium-volume-1-release": {
    "at": "2026-11-11T17:45:30.625207+00:00",
@@ -4487,6 +4465,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Civilization and XCOM developer Firaxis Games has laid off around 60 people.",
+   "title_ar": ""
+  },
+  "eurogamer.net/game-awards-2026-nominees-full-list-gta-6": {
+   "at": "2026-11-17T19:15:31.436575+00:00",
+   "title": "The Game Awards 2026 nominees announced, and GTA 6 leads with eight nods before it's even out",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/game-awards-2026-nominees-full-list-gta-6",
+   "score": 0,
+   "sources": 1,
+   "summary": "The Game Awards 2026 nominees have been revealed, and Grand Theft Auto 6 leads the pack with eight nominations, two days before it even launches.",
    "title_ar": ""
   },
   "eurogamer.net/grand-theft-auto-6-meet-the-developers-tackling-it-head-on": {
@@ -9087,6 +9076,17 @@
    "summary": "But, just as with the next Elder Scrolls game, \"it'll be some time\" before it's ready to share more.",
    "title_ar": ""
   },
+  "pcgamer.com/games/fps/valve-sanctioned-half-life-remake-black-mesa-gets-a-mondo-update-and-a-steam-deck-verified-badge": {
+   "at": "2026-11-17T19:15:31.436575+00:00",
+   "title": "Valve-sanctioned Half-Life remake Black Mesa gets a mondo update and a Steam Deck verified badge",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.pcgamer.com/games/fps/valve-sanctioned-half-life-remake-black-mesa-gets-a-mondo-update-and-a-steam-deck-verified-badge/",
+   "score": 2,
+   "sources": 1,
+   "summary": "And cubemaps.",
+   "title_ar": "لعبة Black Mesa، وهي نسخة معاد إنتاجها من Half-Life مرخصة من شركة Valve، تحصل على تحديث ضخم وشارة التوافق مع Steam Deck"
+  },
   "pcgamer.com/games/fps/wolfenstein-3-is-in-production-at-machinegames": {
    "at": "2026-11-13T01:45:26.698758+00:00",
    "title": "Wolfenstein 3 is in production at MachineGames",
@@ -9316,17 +9316,6 @@
    "score": 0,
    "sources": 1,
    "summary": "According to the press release, \"THQ Nordic and Black Forest Games continue to collaborate on game development tasks.\"",
-   "title_ar": ""
-  },
-  "pcgamer.com/gaming-industry/playstation-plus-pc-app-is-being-shut-down-in-december-because-less-than-0-4-percent-of-eligible-subscribers-are-using-it": {
-   "at": "2026-11-10T19:00:47.857023+00:00",
-   "title": "PlayStation Plus PC app is being shut down in December because less than 0.4% of eligible subscribers are using it",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/gaming-industry/playstation-plus-pc-app-is-being-shut-down-in-december-because-less-than-0-4-percent-of-eligible-subscribers-are-using-it/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Yes, this fits with Sony's broader pullback from PC, but the real reason the app is \"retiring\" is a simple lack of interest.",
    "title_ar": ""
   },
   "pcgamer.com/gaming-industry/sony-cancels-another-live-service-game-ahead-of-release-but-at-least-there-wont-be-any-layoffs-this-time": {
@@ -13282,7 +13271,7 @@
  "topic_last_posted": {
   "AI": "2026-11-17T19:00:43.400058+00:00",
   "Anime": "2026-11-17T17:30:36.296181+00:00",
-  "Games": "2026-11-17T18:30:39.355161+00:00",
+  "Games": "2026-11-17T19:15:31.436575+00:00",
   "Tech": "2026-11-17T18:45:28.218639+00:00"
  },
  "digest_day": "2026-11-17",
