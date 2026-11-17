@@ -1409,6 +1409,17 @@
    "summary": "Apple has released the second iOS 27.3 developer beta for iPhone.",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/16/apples-leadership-overhaul-continues-with-new-apple-pay-and-wallet-chief": {
+   "at": "2026-11-17T03:15:26.622325+00:00",
+   "title": "Apple’s leadership overhaul continues with new Apple Pay and Wallet chief",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/16/apples-leadership-overhaul-continues-with-new-apple-pay-and-wallet-chief/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Bloomberg reports that Apple lifer Corey Fugman will replace Jennifer Bailey as the head of the Apple Pay and Wallet division.",
+   "title_ar": "استمرار تغييرات القيادة في Apple مع تعيين مسؤول جديد لـ Apple Pay وWallet"
+  },
   "9to5mac.com/2026/11/16/everything-new-in-ios-27-3-beta-2-so-far": {
    "at": "2026-11-16T19:30:36.541129+00:00",
    "title": "Everything new in iOS 27.3 beta 2",
@@ -3476,17 +3487,6 @@
    "sources": 1,
    "summary": "Venmo's receipt-scanning feature is rolling out now.",
    "title_ar": "Venmo تطلق أخيرًا ميزة تقسيم الفواتير داخل التطبيق"
-  },
-  "engadget.com/2311340/windows-11-is-finally-adding-an-easier-way-to-disable-sticky-keys-pop-up": {
-   "at": "2026-11-10T03:00:47.816942+00:00",
-   "title": "Windows 11 is finally adding an easier way to disable the Sticky Keys pop-up",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2311340/windows-11-is-finally-adding-an-easier-way-to-disable-sticky-keys-pop-up/",
-   "score": 1,
-   "sources": 1,
-   "summary": "There's a checkbox that simply turns it off.",
-   "title_ar": "نظام Windows 11 يضيف أخيرًا طريقة أسهل لتفعيل أو تعطيل نافذة Sticky Keys المنبثقة"
   },
   "engadget.com/2311447/google-maps-circled-z-meaning": {
    "at": "2026-11-14T16:15:33.058886+00:00",
@@ -13294,7 +13294,7 @@
   "AI": "2026-11-16T23:45:29.284385+00:00",
   "Anime": "2026-11-17T01:00:42.518522+00:00",
   "Games": "2026-11-17T02:15:29.000252+00:00",
-  "Tech": "2026-11-17T03:00:44.641259+00:00"
+  "Tech": "2026-11-17T03:15:26.622325+00:00"
  },
  "digest_day": "2026-11-16",
  "weekly_day": "2026-11-13"
