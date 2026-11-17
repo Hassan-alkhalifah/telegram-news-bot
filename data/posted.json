@@ -595,6 +595,17 @@
    "summary": "Xiaomi is pushing the limits of modern smartphone specs with a killer design, flush camera lenses, and a next-gen Snapdragon SoC. more…",
    "title_ar": ""
   },
+  "9to5google.com/2026/11/17/whatsapp-cloud-backups-free-beta": {
+   "at": "2026-11-17T19:00:43.400058+00:00",
+   "title": "WhatsApp starts rolling out built-in cloud backup on Android, and it’s free",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5google.com/2026/11/17/whatsapp-cloud-backups-free-beta/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Meta’s WhatsApp is making a huge change to chat backups, with a new built-in cloud backup option on Android that doesn’t rely on Google, and is free. more…",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/10/apple-arcade-unveils-three-new-games-from-hit-franchises": {
    "at": "2026-11-11T01:00:46.321581+00:00",
    "title": "Apple Arcade unveils three new games from hit franchises",
@@ -5259,17 +5270,6 @@
    "summary": "MINTROCKET, Pugstorm, and Fireshine Games have announced a two-way crossover for both DAVE THE DIVER …",
    "title_ar": "الإعلان عن تحديثات تعاونية مشتركة بين DAVE THE DIVER و Core Keeper"
   },
-  "gematsu.com/2026/11/devolver-digital-and-blacklight-games-announce-roguelike-auto-battler-all-army-attack-for-pc": {
-   "at": "2026-11-10T18:45:32.038513+00:00",
-   "title": "Devolver Digital and BlackLight Games announce roguelike auto-battler All Army Attack for PC",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.gematsu.com/2026/11/devolver-digital-and-blacklight-games-announce-roguelike-auto-battler-all-army-attack-for-pc",
-   "score": 3,
-   "sources": 2,
-   "summary": "Publisher Devolver Digital and developer BlackLight Games have announced All Army Attack, a “chaotic, large-scale …",
-   "title_ar": "الشركة الناشرة Devolver Digital والمطورة BlackLight Games تعلنان عن لعبة الآتو باتلر والروغلايك All Army Attack لأجهزة PC"
-  },
   "gematsu.com/2026/11/dome-keeper-coming-to-ps5-switch-on-december-14": {
    "at": "2026-11-12T17:00:46.909589+00:00",
    "title": "Dome Keeper coming to PS5, Switch on December 14",
@@ -7327,17 +7327,6 @@
    "summary": "Two beloved indie games are about to collide.",
    "title_ar": ""
   },
-  "insider-gaming.com/devolver-digital-reveals-its-first-aaa-game": {
-   "at": "2026-11-10T18:45:32.038513+00:00",
-   "title": "Devolver Digital Reveals Its First “AAA” Game",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/devolver-digital-reveals-its-first-aaa-game/",
-   "score": 0,
-   "sources": 1,
-   "summary": "After teasing the release of their first AAA game, Devolver Digital made its announcement on the new title.",
-   "title_ar": ""
-  },
   "insider-gaming.com/doom-dark-ages-free-slaughter-mode-november-16": {
    "at": "2026-11-12T21:00:42.157304+00:00",
    "title": "DOOM: The Dark Ages Slaughter Mode Arrives November 16",
@@ -8295,6 +8284,17 @@
    "summary": "'I wish hardware like the \"Xbox Series S\" wouldn't be released'",
    "title_ar": ""
   },
+  "kotaku.com/the-best-star-wars-racing-game-in-years-is-going-to-add-split-screen-multiplayer-2000757526": {
+   "at": "2026-11-17T19:00:43.400058+00:00",
+   "title": "The Best Star Wars Racing Game In Years Is Going To Add Split-Screen Multiplayer",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/the-best-star-wars-racing-game-in-years-is-going-to-add-split-screen-multiplayer-2000757526",
+   "score": 0,
+   "sources": 1,
+   "summary": "Galactic Racer is going old-school",
+   "title_ar": ""
+  },
   "kotaku.com/the-entire-internet-is-hoping-robert-pattinson-makes-james-bond-a-big-ol-weirdo-2000757473": {
    "at": "2026-11-16T17:45:30.575392+00:00",
    "title": "The Entire Internet Is Hoping Robert Pattinson Makes James Bond A Big Ol’ Weirdo",
@@ -9206,6 +9206,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Maybe it's just me.",
+   "title_ar": ""
+  },
+  "pcgamer.com/games/rpg/sci-fi-rpg-exodus-gets-even-more-mass-effect-like-with-its-female-lead-who-they-are-calling-femjun": {
+   "at": "2026-11-17T19:00:43.400058+00:00",
+   "title": "Sci-fi RPG Exodus gets even more Mass Effect-like with its female lead, who they are calling Femjun",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/games/rpg/sci-fi-rpg-exodus-gets-even-more-mass-effect-like-with-its-female-lead-who-they-are-calling-femjun/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Yup, it's official.",
    "title_ar": ""
   },
   "pcgamer.com/games/the-elder-scrolls/bethesda-shoots-down-elder-scrolls-6-sentinel-announcement-rumor-on-skyrims-15th-anniversary": {
@@ -10231,17 +10242,6 @@
    "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
    "title_ar": "OpenAI و Anthropic تواجهان رقابة جديدة مع دخول قانون سلامة الذكاء الاصطناعي في نيويورك حيز التنفيذ"
   },
-  "techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google": {
-   "at": "2026-11-10T18:55:06.598830+00:00",
-   "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-   "score": 1,
-   "sources": 1,
-   "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-   "title_ar": "OpenAI تطلق ملفات تعريف تجارية جديدة، مما يجعل ChatGPT أقرب قليلاً إلى Google"
-  },
   "techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available": {
    "at": "2026-11-10T19:15:33.332806+00:00",
    "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
@@ -10890,6 +10890,28 @@
    "sources": 1,
    "summary": "This is the first time Amazon-owned Zoox has partnered with a ride-hailing platform.",
    "title_ar": ""
+  },
+  "techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage": {
+   "at": "2026-11-17T19:00:43.400058+00:00",
+   "title": "Apple services, including iCloud, App Store, and Apple Music, hit by outage",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Apple's status page confirms its services are faces outages, but has not confirmed the cause.",
+   "title_ar": ""
+  },
+  "techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off": {
+   "at": "2026-11-17T19:00:43.400058+00:00",
+   "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+   "title_ar": "غوغل تحتفظ بمحادثات Gemini لمدة شهرين بدلاً من 72 ساعة، حتى مع إيقاف تشغيل السجل"
   },
   "techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials": {
    "at": "2026-11-17T15:15:40.604808+00:00",
@@ -12904,17 +12926,6 @@
    "summary": "The game has been delayed numerous times",
    "title_ar": ""
   },
-  "videogameschronicle.com/news/marvel-rivals-confirms-nightcrawler-and-dracula-as-playable-characters": {
-   "at": "2026-11-10T18:45:32.038513+00:00",
-   "title": "Marvel Rivals confirms Nightcrawler and Dracula as playable characters",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.videogameschronicle.com/news/marvel-rivals-confirms-nightcrawler-and-dracula-as-playable-characters/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Marvel Rivals skips Doctor Doom, giving us Dracula instead",
-   "title_ar": ""
-  },
   "videogameschronicle.com/news/microsoft-struggles-to-restore-online-services-after-major-outage": {
    "at": "2026-11-13T12:30:38.608932+00:00",
    "title": "Microsoft struggles to restore online services after major outage",
@@ -13269,7 +13280,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-17T18:15:28.079161+00:00",
+  "AI": "2026-11-17T19:00:43.400058+00:00",
   "Anime": "2026-11-17T17:30:36.296181+00:00",
   "Games": "2026-11-17T18:30:39.355161+00:00",
   "Tech": "2026-11-17T18:45:28.218639+00:00"
