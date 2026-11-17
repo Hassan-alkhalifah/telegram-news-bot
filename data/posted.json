@@ -10924,6 +10924,17 @@
    "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach": {
+   "at": "2026-11-17T04:15:27.056743+00:00",
+   "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+   "score": 1,
+   "sources": 1,
+   "summary": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+   "title_ar": "أوبر تقول إن المخترقين سرقوا معلومات تخص ما يقرب من 150 ألف رخصة قيادة خلال اختراق للبيانات"
+  },
   "techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely": {
    "at": "2026-11-16T15:15:27.546146+00:00",
    "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
@@ -13272,7 +13283,7 @@
   "AI": "2026-11-16T23:45:29.284385+00:00",
   "Anime": "2026-11-17T01:00:42.518522+00:00",
   "Games": "2026-11-17T02:15:29.000252+00:00",
-  "Tech": "2026-11-17T04:00:45.472441+00:00"
+  "Tech": "2026-11-17T04:15:27.056743+00:00"
  },
  "digest_day": "2026-11-16",
  "weekly_day": "2026-11-13"
