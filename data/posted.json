@@ -562,6 +562,17 @@
    "summary": "Meta’s Instagram is launching a new “Direct” app that’s dedicated to direct messages, but it’s exceptionally limited at launch. more…",
    "title_ar": ""
   },
+  "9to5google.com/2026/11/17/pixel-tag-coming-to-europe-leak-says": {
+   "at": "2026-11-17T16:00:43.258492+00:00",
+   "title": "Google Pixel Tag is coming to Europe ‘pretty soon,’ leak says",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/17/pixel-tag-coming-to-europe-leak-says/",
+   "score": 2,
+   "sources": 1,
+   "summary": "The Pixel Tag will begin selling in Europe soon, according to a recent leak.",
+   "title_ar": "تقرير مسرّب يؤكد إطلاق Google Pixel Tag في أوروبا قريباً جداً"
+  },
   "9to5google.com/2026/11/17/samsung-galaxy-s27-redesign-confirmed-poll": {
    "at": "2026-11-17T14:00:55.202248+00:00",
    "title": "Samsung’s Galaxy S27 redesign is ‘100%’ confirmed, leaker says – do you like it? [Poll]",
@@ -1539,6 +1550,17 @@
    "score": 2,
    "sources": 1,
    "summary": "Key Apple memory supplier SK Hynix has warned that RAM and flash memory shortages are likely to last through at least 2030, keeping product prices high.",
+   "title_ar": ""
+  },
+  "9to5mac.com/2026/11/17/apple-now-selling-iphone-duo-replacement-parts-and-tools": {
+   "at": "2026-11-17T16:00:43.258492+00:00",
+   "title": "Apple now selling iPhone Duo replacement parts and tools",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/17/apple-now-selling-iphone-duo-replacement-parts-and-tools/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Following last month’s launch of the iPhone Duo, which also saw the release of Apple’s official repair manuals for the device, Apple today began selling replacement parts and tools through its Self…",
    "title_ar": ""
   },
   "9to5mac.com/2026/11/17/apple-podcasts-2026-show-of-the-year-is-baby-this-is-keke-palmer": {
@@ -2740,17 +2762,6 @@
    "summary": "Any amount of AI coding is too much for many Indie Game Festival judges.",
    "title_ar": ""
   },
-  "arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak": {
-   "at": "2026-11-10T15:45:33.266716+00:00",
-   "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
-   "score": 2,
-   "sources": 1,
-   "summary": "The new model is up to twice as successful at some tasks.",
-   "title_ar": "DeepMind تكشف عن Gemini Robotics 2.5 ومعيار الأمان المفتوح ASIMOV-jailbreak"
-  },
   "arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395": {
    "at": "2026-11-12T15:00:44.798888+00:00",
    "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
@@ -3553,17 +3564,6 @@
    "sources": 1,
    "summary": "If you've seen a circled capital Z on your Google Maps route, you should know what it means.",
    "title_ar": "ماذا يعني رمز الحرف Z المحاط ببائرة في خريطة جوجل"
-  },
-  "engadget.com/2311630/amazon-finally-launches-the-250-ring-drone-cam-and-also-the-ring-rover-cam": {
-   "at": "2026-11-10T15:45:33.266716+00:00",
-   "title": "Amazon finally launches the $250 Ring Drone Cam and also the Ring Rover Cam",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.engadget.com/2311630/amazon-finally-launches-the-250-ring-drone-cam-and-also-the-ring-rover-cam/",
-   "score": 0,
-   "sources": 1,
-   "summary": "They're the first two products from Ring Robotics, the company's new autonomous home security devices category.",
-   "title_ar": ""
   },
   "engadget.com/2311763/samsung-one-ui-getting-rid-of-another-feature": {
    "at": "2026-11-14T17:45:27.416616+00:00",
@@ -4861,17 +4861,6 @@
    "score": 0,
    "sources": 1,
    "summary": "According to Take-Two boss Strauss Zelnick, the \"nature and velocity\" of the company's content releases in its major franchises, including GTA, will look \"dramatically different over the next…",
-   "title_ar": ""
-  },
-  "gamespot.com/articles/heres-how-your-xbox-one-can-play-gta-6": {
-   "at": "2026-11-10T15:45:33.266716+00:00",
-   "title": "Here’s How Your Xbox One Can Play GTA 6",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gamespot.com/articles/heres-how-your-xbox-one-can-play-gta-6/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Grand Theft Auto 6 is out next week, and the game is launching on both Xbox Series X|S and PS5.",
    "title_ar": ""
   },
   "gamespot.com/articles/intergalactic-the-heretic-prophet-has-some-unexpected-anime-influences": {
@@ -6612,17 +6601,6 @@
    "summary": "Rockstar has confirmed GTA 6 features something the franchise has never had before: mechanisms that encourage empathy.",
    "title_ar": ""
   },
-  "ign.com/articles/gta-6-will-run-at-30fps-on-all-consoles-features-ray-tracing-improvements-on-ps5-pro": {
-   "at": "2026-11-10T15:45:33.266716+00:00",
-   "title": "GTA 6 Will Run at 30fps On All Consoles, Features Ray Tracing Improvements on PS5 Pro",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/gta-6-will-run-at-30fps-on-all-consoles-features-ray-tracing-improvements-on-ps5-pro",
-   "score": 0,
-   "sources": 1,
-   "summary": "Rockstar has finally announced performance for GTA 6.",
-   "title_ar": ""
-  },
   "ign.com/articles/halo-campaign-evolved-to-get-firefight-as-a-free-update": {
    "at": "2026-11-12T19:30:37.701208+00:00",
    "title": "Halo: Campaign Evolved to Get Firefight as a Free Update",
@@ -7183,17 +7161,6 @@
    "sources": 1,
    "summary": "Microsoft has revealed three new nostalgic Xbox console boot-up options for Xbox Series X/S and Xbox One as part of a new update for the brand's 25th anniversary.",
    "title_ar": "أكس بوكس تكشف عن خيارات التشغيل لجهازي Original و 360 بمناسبة الذكرى السنوية الـ 25"
-  },
-  "ign.com/articles/you-dont-need-a-current-gen-console-if-youre-happy-to-play-gta-6-at-xbox-series-s-settings": {
-   "at": "2026-11-10T15:45:33.266716+00:00",
-   "title": "You Don't Need a Current-Gen Console if You're Happy to Play GTA 6 at Xbox Series S Settings",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/you-dont-need-a-current-gen-console-if-youre-happy-to-play-gta-6-at-xbox-series-s-settings",
-   "score": 0,
-   "sources": 1,
-   "summary": "After months of speculation, Rockstar finally revealed that GTA 6 would be targeting 30 fps on all of the current-generation consoles, including the Xbox Series S.",
-   "title_ar": ""
   },
   "insider-gaming.com/17-classic-xbox-games-could-be-coming-to-pc": {
    "at": "2026-11-12T13:30:41.496030+00:00",
@@ -8328,17 +8295,6 @@
    "summary": "A cloud gaming deal with Rockstar yields a nice bonus for people still playing on Xbox One",
    "title_ar": ""
   },
-  "kotaku.com/zelda-ocarina-of-time-remake-has-a-massive-second-act-change-that-took-my-breath-away-2000755518": {
-   "at": "2026-11-10T15:45:33.266716+00:00",
-   "title": "Zelda: Ocarina Of Time Remake Has A Massive Second-Act Change That Took My Breath Away",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/zelda-ocarina-of-time-remake-has-a-massive-second-act-change-that-took-my-breath-away-2000755518",
-   "score": 0,
-   "sources": 1,
-   "summary": "Leaving me cold",
-   "title_ar": ""
-  },
   "kotaku.com/zelda-ocarina-of-time-remake-nintendo-64-sales-figures-switch-2-2000755871": {
    "at": "2026-11-11T11:15:27.839736+00:00",
    "title": "Zelda: Ocarina Of Time Remake Is Set To Outsell The N64 Original In Its First Week",
@@ -8579,6 +8535,17 @@
    "score": 0,
    "sources": 1,
    "summary": "It's reportedly another DOOM game. id Software, the developer known for FPS hits such as DOOM and Quake , has confirmed it's got a new game in the pipeline.",
+   "title_ar": ""
+  },
+  "nintendolife.com/news/2026/11/gdc-survey-suggests-devs-want-to-make-games-for-switch-2-more-than-ps5-or-xbox": {
+   "at": "2026-11-17T16:00:43.258492+00:00",
+   "title": "GDC Survey Suggests Devs Want To Make Games For Switch 2 More Than PS5 Or Xbox",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/gdc-survey-suggests-devs-want-to-make-games-for-switch-2-more-than-ps5-or-xbox",
+   "score": 0,
+   "sources": 1,
+   "summary": "Haw-haw!",
    "title_ar": ""
   },
   "nintendolife.com/news/2026/11/i-dont-feel-this-is-a-good-direction-chrono-trigger-composer-thinks-its-time-to-end-dragon-quest": {
@@ -9373,6 +9340,17 @@
    "summary": "The scandal deepens as an alleged second affair comes to light.",
    "title_ar": ""
   },
+  "pcgamer.com/hardware/memory/i-want-to-be-clear-i-want-people-to-have-a-lot-of-ram-says-sam-altman-weeks-after-seeming-to-say-the-opposite": {
+   "at": "2026-11-17T16:00:43.258492+00:00",
+   "title": "'I want to be clear, I want people to have a lot of RAM' says Sam Altman, weeks after seeming to say the opposite",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/hardware/memory/i-want-to-be-clear-i-want-people-to-have-a-lot-of-ram-says-sam-altman-weeks-after-seeming-to-say-the-opposite/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Altman claims his remarks were taken out of context, but has since elaborated on his stance.",
+   "title_ar": ""
+  },
   "pcgamer.com/hardware/now-jensens-gone-intels-trouble-finding-a-steady-ceo-should-serve-as-cautionary-tale-to-nvidias-board": {
    "at": "2026-11-12T18:00:45.101887+00:00",
    "title": "Now Jensen's gone, Intel’s trouble finding a steady CEO should serve as cautionary tale to Nvidia’s board",
@@ -9780,6 +9758,17 @@
    "summary": "End of the road.",
    "title_ar": ""
   },
+  "pushsquare.com/news/2026/11/ps5-does-not-have-a-monopoly-on-digital-games-as-p2-billion-lawsuit-falls-through": {
+   "at": "2026-11-17T16:00:43.258492+00:00",
+   "title": "PS5 Does Not Have a 'Monopoly' on Digital Games as £2 Billion Lawsuit Falls Through",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pushsquare.com/news/2026/11/ps5-does-not-have-a-monopoly-on-digital-games-as-p2-billion-lawsuit-falls-through",
+   "score": 0,
+   "sources": 1,
+   "summary": "Pricing not deemed \"excessive\".",
+   "title_ar": ""
+  },
   "pushsquare.com/news/2026/11/ps5-has-officially-crossed-100-million-sales-sony-confirms": {
    "at": "2026-11-11T09:45:29.200335+00:00",
    "title": "PS5 Has Officially Crossed 100 Million Sales, Sony Confirms",
@@ -10065,17 +10054,6 @@
    "sources": 1,
    "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
    "title_ar": "جوجل توسع محفظتها من عتاد الذكاء الاصطناعي بشريحتين جديدتين متخصصتين"
-  },
-  "techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os": {
-   "at": "2026-11-10T15:45:33.266716+00:00",
-   "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
-   "title_ar": ""
   },
   "techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline": {
    "at": "2026-11-10T17:15:31.033273+00:00",
@@ -12299,6 +12277,17 @@
    "summary": "The city of Starbase, Texas, is set to vote on a proposed $24 billion data center to be built within its limits, but the SpaceX company town may not provide the friendly regulatory environment that…",
    "title_ar": "Elon Musk يريد بناء حاسوب فائق الذكاء الاصطناعي يعمل بالغاز بقيمة 24 مليار دولار في مدينة تابعة لشركته في تكساس"
   },
+  "tomshardware.com/tech-industry/data-centers/former-nvidia-ceo-jensen-huang-will-appear-before-a-house-foreign-affairs-panel-amid-concerns-over-his-affair-with-a-suspected-chinese-spy-will-testify-behind-closed-doors-december-1-nvidia-lawyer-will-also-appear": {
+   "at": "2026-11-17T16:00:43.258492+00:00",
+   "title": "Former Nvidia CEO Jensen Huang will appear before a House Foreign Affairs panel amid concerns over his affair with a suspected Chinese spy",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/former-nvidia-ceo-jensen-huang-will-appear-before-a-house-foreign-affairs-panel-amid-concerns-over-his-affair-with-a-suspected-chinese-spy-will-testify-behind-closed-doors-december-1-nvidia-lawyer-will-also-appear",
+   "score": 0,
+   "sources": 1,
+   "summary": "Former Nvidia CEO Jensen Huang will appear before the House Foreign Affairs, Intelligence, and China Select Committees on December 1, with Nvidia's lawyer following him on December 2.",
+   "title_ar": ""
+  },
   "tomshardware.com/tech-industry/data-centers/georgia-politicians-openai-slapped-with-racketeering-lawsuit-over-3-2-gigawatt-ai-data-centers-plaintiffs-allege-multiple-violations-were-part-of-a-coordinated-scheme-to-get-project-camellia-approved": {
    "at": "2026-11-11T17:30:36.579050+00:00",
    "title": "OpenAI and Georgia county leaders hit with Mafia-style RICO racketeering lawsuit over $30 billion AI data center",
@@ -13140,7 +13129,7 @@
   "AI": "2026-11-17T15:30:43.795514+00:00",
   "Anime": "2026-11-17T15:15:40.604808+00:00",
   "Games": "2026-11-17T15:45:27.158653+00:00",
-  "Tech": "2026-11-17T15:15:40.604808+00:00"
+  "Tech": "2026-11-17T16:00:43.258492+00:00"
  },
  "digest_day": "2026-11-16",
  "weekly_day": "2026-11-13"
