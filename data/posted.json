@@ -562,6 +562,17 @@
    "summary": "The monthly “ Google System Release Notes ” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC.",
    "title_ar": "ما الجديد في تحديثات نظام Google لشهر نوفمبر 2026 في Android [تحديث: لوحة الافتراضية لألعاب Pixel]"
   },
+  "9to5google.com/2026/11/16/phone-by-google-246-new-icon": {
+   "at": "2026-11-17T04:00:45.472441+00:00",
+   "title": "Phone by Google 246 rolls out gradient icon redesign on Android [U]",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/16/phone-by-google-246-new-icon/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Following the Messages update earlier this week , Phone by Google has received its redesigned gradient icon in the beta channel. more…",
+   "title_ar": "تطبيق Phone by Google يطرح إعادة تصميم لأيقونته المتدرجة على نظام Android [تحديث]"
+  },
   "9to5google.com/2026/11/16/samsungs-galaxy-studio-headphones-leak-with-touch-controls-two-colors": {
    "at": "2026-11-16T21:45:27.854120+00:00",
    "title": "Samsung’s ‘Galaxy Studio’ headphones leak with touch controls, two colors",
@@ -572,17 +583,6 @@
    "sources": 1,
    "summary": "We’re only a couple of months away from our next Galaxy Unpacked, and while the expanded Galaxy S27 series is practically guaranteed to show up, the real fun tends to lie in whatever other gadgets…",
    "title_ar": "تسريب سماعات Galaxy Studio من Samsung مع تحكم باللمس ولونين"
-  },
-  "9to5mac.com/2026/11/09/apple-tv-las-vegas-formula-1": {
-   "at": "2026-11-10T04:00:43.281243+00:00",
-   "title": "Apple to stream Las Vegas Formula 1 race for free in the United States",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/09/apple-tv-las-vegas-formula-1/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Apple today announced that the Formula 1 Las Vegas Grand Prix will be streaming for free on the Apple TV app , no subscription required.",
-   "title_ar": "أبل تبث سباق الفورمولا 1 في لاس فيغاس مجاناً في الولايات المتحدة"
   },
   "9to5mac.com/2026/11/10/adobe-unveils-new-ai-tools-for-photoshop-premiere-and-more-with-mcp-support-coming-in-2027": {
    "at": "2026-11-10T14:45:30.888067+00:00",
@@ -3477,17 +3477,6 @@
    "summary": "Some of Samsung's older Galaxy phones are reaching the end of their primary Android OS upgrades, with One UI 9 as the last update planned.",
    "title_ar": "تحديث One UI 9 هو التحديث الرئيسي الأخير لهواتف Samsung Galaxy القديمة هذه"
   },
-  "engadget.com/2310993/venmo-finally-launches-an-in-app-bill-splitting-feature": {
-   "at": "2026-11-10T03:45:31.704859+00:00",
-   "title": "Venmo finally launches an in-app bill splitting feature",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2310993/venmo-finally-launches-an-in-app-bill-splitting-feature/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Venmo's receipt-scanning feature is rolling out now.",
-   "title_ar": "Venmo تطلق أخيرًا ميزة تقسيم الفواتير داخل التطبيق"
-  },
   "engadget.com/2311447/google-maps-circled-z-meaning": {
    "at": "2026-11-14T16:15:33.058886+00:00",
    "title": "What the circled \"Z\" on Google Maps means",
@@ -6237,17 +6226,6 @@
    "sources": 1,
    "summary": "vivo teased the X500 series and Watch GT2 in India a week ago, and today it announced that the products will launch there on November 26 at 12 PM local time. vivo had previously only confirmed the…",
    "title_ar": "الإعلان عن موعد إطلاق سلسلة vivo X500 وساعة Watch GT2 في الهند"
-  },
-  "gsmarena.com/vivo_x500_x500_pro_and_x500_pro_max_prices_for_india_leak-news-75413.php": {
-   "at": "2026-11-10T03:45:31.704859+00:00",
-   "title": "vivo X500, X500 Pro, and X500 Pro Max prices for India leak",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.gsmarena.com/vivo_x500_x500_pro_and_x500_pro_max_prices_for_india_leak-news-75413.php",
-   "score": 0,
-   "sources": 1,
-   "summary": "vivo launched the X500, X500 Pro, and X500 Pro Max in China in September and then they went global last month, but they're still not officially available in India.",
-   "title_ar": ""
   },
   "gsmarena.com/watch_xiaomis_global_launch_event_for_the_xiaomi_18_pro_and_xiaomi_18_pro_max_here-news-75494.php": {
    "at": "2026-11-16T18:30:39.525694+00:00",
@@ -13294,7 +13272,7 @@
   "AI": "2026-11-16T23:45:29.284385+00:00",
   "Anime": "2026-11-17T01:00:42.518522+00:00",
   "Games": "2026-11-17T02:15:29.000252+00:00",
-  "Tech": "2026-11-17T03:45:28.337505+00:00"
+  "Tech": "2026-11-17T04:00:45.472441+00:00"
  },
  "digest_day": "2026-11-16",
  "weekly_day": "2026-11-13"
