@@ -12,17 +12,6 @@
    "summary": "Google Gemini now offers a “Memory summary” to “view, edit, and delete what Gemini Apps understands about you.” more…",
    "title_ar": "Google Gemini يطرح ميزة Memory summary لتخزين كل ما تتذكره عنك"
   },
-  "9to5google.com/2026/11/09/samsung-bets-that-youll-either-buy-a-galaxy-s27-pro-or-ultra-next-year": {
-   "at": "2026-11-10T03:29:34.341640+00:00",
-   "title": "Samsung bets that you’ll either buy a Galaxy S27 Pro or Ultra next year",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/09/samsung-bets-that-youll-either-buy-a-galaxy-s27-pro-or-ultra-next-year/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Samsung is teeing up to kick off 2027 with an all-new lineup of flagship smartphones , and despite rising prices at your local Best Buy, the brand is still hedging that you’re going to pony up for…",
-   "title_ar": "تراهن Samsung على أنك ستشتري إما Galaxy S27 Pro أو Ultra في العام المقبل"
-  },
   "9to5google.com/2026/11/10/amazon-ring-drone-cam-robotics": {
    "at": "2026-11-10T15:30:42.065908+00:00",
    "title": "Amazon’s new Ring cameras are mounted to roving robots, including $250 Drone Cam",
@@ -1484,6 +1473,17 @@
    "score": 0,
    "sources": 1,
    "summary": "iOS 27.3 beta 2 arrived today, most notably giving the iPhone Duo a face unlock feature .",
+   "title_ar": ""
+  },
+  "9to5mac.com/2026/11/16/iphone-duo-gets-one-of-face-ids-best-features-with-upcoming-ios-27-3-update": {
+   "at": "2026-11-17T03:30:48.012844+00:00",
+   "title": "iPhone Duo gets one of Face ID’s best features with upcoming iOS 27.3 update",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/16/iphone-duo-gets-one-of-face-ids-best-features-with-upcoming-ios-27-3-update/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Soon, your alarms, timers, and phone calls will be less disruptive on iPhone Duo. more…",
    "title_ar": ""
   },
   "9to5mac.com/2026/11/16/macos-27-3-beta-2-now-available": {
@@ -3432,17 +3432,6 @@
    "sources": 1,
    "summary": "Test your anime knowledge with our latest puzzle collection!",
    "title_ar": "أخبار Crunchyroll: الألغاز المجلد 81: إرشاد عالمي وأعضاء فوضويون"
-  },
-  "engadget.com/2307733/what-tiny-blue-dot-on-android-phone-telling-you": {
-   "at": "2026-11-10T03:30:38.523040+00:00",
-   "title": "What the tiny blue dot on your Android phone is telling you",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2307733/what-tiny-blue-dot-on-android-phone-telling-you/",
-   "score": 1,
-   "sources": 1,
-   "summary": "That tiny blue dot on the top right corner of your Android phone indicates something important.",
-   "title_ar": "ما تخبرك به النقطة الزرقاء الصغيرة على هاتف Android الخاص بك"
   },
   "engadget.com/2307797/nvidia-dlss-4-5-presets-should-know": {
    "at": "2026-11-10T18:00:45.031142+00:00",
@@ -12618,17 +12607,6 @@
    "summary": "The ITI is lobbying against the ban of these optical transceivers needed by data centers to convert electrical signals into optical signals.",
    "title_ar": "ميكروصوفت تضغط ضد حظر محتمل لمعدات الشبكات الضوئية الصينية المخصصة لمراكز بيانات الذكاء الاصطناعي بينما تدرس هيئة الاتصالات الفيدرالية تقييد الواردات"
   },
-  "tomshardware.com/tech-industry/policy/nvidia-cracks-down-on-overseas-cloud-ai-gpu-rentals-for-china-partners-face-51-percent-non-chinese-quota-as-black-market-b300-rack-prices-surge-to-usd2-8-million": {
-   "at": "2026-11-10T03:15:34.954721+00:00",
-   "title": "Nvidia cracks down on overseas cloud AI GPU rentals for China",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/tech-industry/policy/nvidia-cracks-down-on-overseas-cloud-ai-gpu-rentals-for-china-partners-face-51-percent-non-chinese-quota-as-black-market-b300-rack-prices-surge-to-usd2-8-million",
-   "score": 1,
-   "sources": 1,
-   "summary": "Nvidia may cap cloud partners’ Chinese business at 49% as Chinese firms buy up more than 1 million gaming and workstation GPUs.",
-   "title_ar": "Nvidia تتصدى لتأجير وحدات معالجة الرسوميات الخاصة بالذكاء الاصطناعي السحابية في الخارج لصالح الصين"
-  },
   "tomshardware.com/tech-industry/policy/president-trump-says-the-fbi-is-investigating-jensen-huangs-affair-nvidia-also-accused-of-intervening-in-megaspeed-chip-smuggling-investigation": {
    "at": "2026-11-10T12:45:34.396719+00:00",
    "title": "President Trump says the FBI is investigating Jensen Huang’s affair",
@@ -12694,6 +12672,17 @@
    "sources": 1,
    "summary": "Amazon has suffered a major setback in its plans to offer a viable Starlink rival, after 40 satellites destined for low earth orbit were destroyed in a failed rocket launch.",
    "title_ar": ""
+  },
+  "tomshardware.com/tech-industry/supercomputers/amd-grabs-over-40-percent-of-new-top500-list-for-supercomputers-up-14-percent-since-last-year-new-lux-system-developed-between-amd-and-department-of-energy-debuts-at-no-14-with-epyc-cpus-and-instinct-mi355x-gpus": {
+   "at": "2026-11-17T03:30:48.012844+00:00",
+   "title": "AMD grabs over 40% of new TOP500 list for supercomputers, up 14% since last year",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/supercomputers/amd-grabs-over-40-percent-of-new-top500-list-for-supercomputers-up-14-percent-since-last-year-new-lux-system-developed-between-amd-and-department-of-energy-debuts-at-no-14-with-epyc-cpus-and-instinct-mi355x-gpus",
+   "score": 1,
+   "sources": 1,
+   "summary": "AMD's Lux supercomputer debuted at position 14 on the new TOP500 list published during SC26.",
+   "title_ar": "AMD تستحوذ على أكثر من 40% من قائمة TOP500 الجديدة للحواسيب العملاقة، بزيادة قدرها 14% مقارنة بالعام الماضي"
   },
   "tomshardware.com/tech-industry/supercomputers/researchers-recognize-that-ai-will-never-replace-hpc-says-amd-executive-high-precision-workloads-will-exist-for-a-very-long-time-even-as-ai-usage-expands": {
    "at": "2026-11-17T02:45:29.078401+00:00",
@@ -13294,7 +13283,7 @@
   "AI": "2026-11-16T23:45:29.284385+00:00",
   "Anime": "2026-11-17T01:00:42.518522+00:00",
   "Games": "2026-11-17T02:15:29.000252+00:00",
-  "Tech": "2026-11-17T03:15:26.622325+00:00"
+  "Tech": "2026-11-17T03:30:48.012844+00:00"
  },
  "digest_day": "2026-11-16",
  "weekly_day": "2026-11-13"
