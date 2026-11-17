@@ -2564,6 +2564,17 @@
    "summary": "Series debuted in June 2025",
    "title_ar": ""
   },
+  "animenewsnetwork.com/news/2026-11-17/rpg-maker-u2u-software-launches-for-pc-via-steam-on-january-28/.243916": {
+   "at": "2026-11-17T23:00:44.352035+00:00",
+   "title": "RPG Maker U2U Software Launches for PC via Steam on January 28",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-17/rpg-maker-u2u-software-launches-for-pc-via-steam-on-january-28/.243916",
+   "score": 0,
+   "sources": 1,
+   "summary": "Perspective 2D Map Editor Demo available until release",
+   "title_ar": ""
+  },
   "animenewsnetwork.com/news/2026-11-17/the-eternal-fool-words-of-wisdom-anime-new-video-unveils-more-cast-theme-songs-january-9-debut/.243889": {
    "at": "2026-11-17T10:00:41.124507+00:00",
    "title": "The Eternal Fool's Words of Wisdom Anime's New Video Unveils More Cast, Theme Songs, January 9 Debut",
@@ -2628,17 +2639,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Huang is weighing a return just days after resigning amid a deepening scandal.",
-   "title_ar": ""
-  },
-  "arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot": {
-   "at": "2026-11-10T22:45:30.132408+00:00",
-   "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
    "title_ar": ""
   },
   "arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup": {
@@ -10055,17 +10055,6 @@
    "summary": "Point the finger.",
    "title_ar": ""
   },
-  "pushsquare.com/news/2026/11/unknown-9-dev-being-shut-down-two-years-after-disaster-ps5-launch": {
-   "at": "2026-11-10T22:45:30.132408+00:00",
-   "title": "Unknown 9 Dev Being Shut Down Two Years After Disaster PS5 Launch",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.pushsquare.com/news/2026/11/unknown-9-dev-being-shut-down-two-years-after-disaster-ps5-launch",
-   "score": 2,
-   "sources": 1,
-   "summary": "Bandai Namco confirms.",
-   "title_ar": "إغلاق مطور لعبة Unknown 9 بعد مرور عامين على إطلاقها الكارثي على أجهزة PS5"
-  },
   "pushsquare.com/news/2026/11/we-dont-take-your-support-for-granted-mlb-the-show-27-revealed-for-ps5-after-tough-year": {
    "at": "2026-11-17T15:45:27.158653+00:00",
    "title": "'We Don't Take Your Support for Granted': MLB The Show 27 Revealed for PS5 After Tough Year",
@@ -11638,6 +11627,17 @@
    "sources": 1,
    "summary": "It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio.",
    "title_ar": ""
+  },
+  "theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake": {
+   "at": "2026-11-17T23:00:44.352035+00:00",
+   "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+   "score": 1,
+   "sources": 1,
+   "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives.",
+   "title_ar": "حتى Sam Altman ليس آمنًا من التزييف العميق بالذكاء الاصطناعي على Instagram"
   },
   "theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick": {
    "at": "2026-11-16T11:30:37.261961+00:00",
@@ -13324,7 +13324,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-17T22:30:40.650802+00:00",
+  "AI": "2026-11-17T23:00:44.352035+00:00",
   "Anime": "2026-11-17T17:30:36.296181+00:00",
   "Games": "2026-11-17T22:00:49.505897+00:00",
   "Tech": "2026-11-17T22:45:27.301875+00:00"
