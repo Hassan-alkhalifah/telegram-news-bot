@@ -738,17 +738,6 @@
    "summary": "A new Apple TV 4K releases this Friday ( pre-order here ), with an upgraded Siri Remote.",
    "title_ar": ""
   },
-  "9to5mac.com/2026/11/10/rings-wheeled-and-flying-robots-will-patrol-your-home": {
-   "at": "2026-11-10T14:15:31.785799+00:00",
-   "title": "Ring’s wheeled and flying robots will patrol your home",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/10/rings-wheeled-and-flying-robots-will-patrol-your-home/",
-   "score": 6,
-   "sources": 3,
-   "summary": "Some people use a whole bunch of fixed cameras to monitor their homes, but Amazon has just announced a more flexible solution through wheeled and flying robots.",
-   "title_ar": "روبوتات Ring ذات العجلات والطائرة سترقب منزلك"
-  },
   "9to5mac.com/2026/11/10/spotifys-ai-dj-adds-nine-voices-and-a-setting-to-reduce-interruptions": {
    "at": "2026-11-10T21:00:49.784182+00:00",
    "title": "Spotify’s AI DJ adds nine voices and a setting to reduce interruptions",
@@ -4687,6 +4676,17 @@
    "summary": "Valve has released a new Steam update that adds Steam Deck framerate data to a game's store page, giving potential buyers an indication of how well a game runs on the handheld.",
    "title_ar": "متجر Steam يعرض الآن متوسط معدلات الإطارات لجهاز Steam Deck عند تصفح الألعاب، وValve تقول إنها تدرس توسيع الميزة لتشمل عتاداً آخر"
   },
+  "eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-physical-sales-us-1-million": {
+   "at": "2026-11-17T14:30:39.373129+00:00",
+   "title": "The Legend of Zelda: Ocarina of Time on Switch 2 is the US' best-selling physical game so far this year",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-physical-sales-us-1-million",
+   "score": 0,
+   "sources": 1,
+   "summary": "The very popular and critically-acclaimed The Legend of Zelda: Ocarina of Time remake has set another record.",
+   "title_ar": ""
+  },
   "eurogamer.net/wolfenstein-3-new-id-software-game-announced-xbox": {
    "at": "2026-11-13T12:30:38.608932+00:00",
    "title": "Xbox boss announces Wolfenstein 3 and confirms new game in development at idSoftware despite reported job cut \"bloodbath\"",
@@ -5367,17 +5367,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Rockstar Games has released a teaser trailer for Macca & Friends, an animated series featured …",
-   "title_ar": ""
-  },
-  "gematsu.com/2026/11/grand-theft-auto-vi-pre-load-now-available-ps5-pro-support-confirmed": {
-   "at": "2026-11-10T14:15:31.785799+00:00",
-   "title": "Grand Theft Auto VI pre-load now available, PS5 Pro support confirmed",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gematsu.com/2026/11/grand-theft-auto-vi-pre-load-now-available-ps5-pro-support-confirmed",
-   "score": 0,
-   "sources": 1,
-   "summary": "Rockstar Games has released a new trailer for Grand Theft Auto VI to commemorate the …",
    "title_ar": ""
   },
   "gematsu.com/2026/11/grime-ii-coming-to-switch-2-switch-on-november-27-alongside-a-final-coda-update": {
@@ -7811,6 +7800,17 @@
    "summary": "PlayStation has canceled Fairgames, the Haven Studios' live-service shooter, following disappointing player feedback and retention results.",
    "title_ar": "سوني تلغي لعبة Fairgames، شوتر الخدمة الحية من PlayStation"
   },
+  "insider-gaming.com/sony-wins-playstation-digital-games-lawsuit": {
+   "at": "2026-11-17T14:30:39.373129+00:00",
+   "title": "Sony Wins PlayStation Digital Games Lawsuit",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://insider-gaming.com/sony-wins-playstation-digital-games-lawsuit/",
+   "score": 2,
+   "sources": 1,
+   "summary": "An ongoing lawsuit against Sony over the PlayStation Store monopolizing game prices has been settled in Sony's favor.",
+   "title_ar": "سوني تفوز بدعوى ألعاب PlayStation الرقمية"
+  },
   "insider-gaming.com/star-wars-galactic-racer-splitscreen": {
    "at": "2026-11-16T22:00:42.069161+00:00",
    "title": "Star Wars: Galactic Racer Adding In Local Split-Screen",
@@ -9428,17 +9428,6 @@
    "summary": "Another committee for the committee pile.",
    "title_ar": ""
   },
-  "pcgamer.com/hardware/graphics-cards/trump-calls-his-pal-jensen-huang-an-honourable-guy-and-says-he-probably-has-an-excuse-for-nvidia-ceos-affair-with-alleged-spy": {
-   "at": "2026-11-10T14:15:31.785799+00:00",
-   "title": "Trump calls his pal Jensen Huang an ‘honourable guy’ and says he ‘probably has an excuse’ for Nvidia CEO’s affair with alleged spy",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/hardware/graphics-cards/trump-calls-his-pal-jensen-huang-an-honourable-guy-and-says-he-probably-has-an-excuse-for-nvidia-ceos-affair-with-alleged-spy/",
-   "score": 0,
-   "sources": 1,
-   "summary": "It's been a tough week for Team Green.",
-   "title_ar": ""
-  },
   "pcgamer.com/hardware/graphics-cards/us-agencies-confirm-criminal-investigation-into-megaspeed-datacenter-company-is-in-a-colossal-tangle-over-nvidia-chips": {
    "at": "2026-11-17T13:45:28.567575+00:00",
    "title": "US agencies confirm criminal investigation into Megaspeed - datacenter company is in a colossal tangle over Nvidia chips",
@@ -9800,17 +9789,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Making light work of it.",
-   "title_ar": ""
-  },
-  "pushsquare.com/news/2026/11/gta-6-ps5-pro-features-revealed-30fps-target-on-both-consoles": {
-   "at": "2026-11-10T14:15:31.785799+00:00",
-   "title": "GTA 6 PS5 Pro Features Revealed, 30fps Target on Both Consoles",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-pro-features-revealed-30fps-target-on-both-consoles",
-   "score": 0,
-   "sources": 1,
-   "summary": "Improved clarity and ray traced shadows on PS5 Pro.",
    "title_ar": ""
   },
   "pushsquare.com/news/2026/11/gta-6-subscription-will-include-nba-2k27-for-free-on-ps5": {
@@ -10187,17 +10165,6 @@
    "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information…",
    "title_ar": ""
   },
-  "techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion": {
-   "at": "2026-11-10T14:15:31.785799+00:00",
-   "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
-   "title_ar": ""
-  },
   "techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature": {
    "at": "2026-11-10T16:15:34.950976+00:00",
    "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
@@ -10306,17 +10273,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
-   "title_ar": ""
-  },
-  "techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot": {
-   "at": "2026-11-10T14:15:31.785799+00:00",
-   "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
    "title_ar": ""
   },
   "techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter": {
@@ -11089,17 +11045,6 @@
    "summary": "Anthropic's new Claude for Manufacturing plugin connects the AI directly to Autodesk Fusion, Oracle NetSuite, and Infor.",
    "title_ar": ""
   },
-  "the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago": {
-   "at": "2026-11-10T14:15:31.785799+00:00",
-   "title": "Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Anthropic's Fable 5.2 completes 41.3 percent of real freelance jobs at professional quality on the Remote Labor Index, more than double the next-best systems Opus 5.5 and GPT 6 Astra.",
-   "title_ar": ""
-  },
   "the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history": {
    "at": "2026-11-13T15:45:46.957589+00:00",
    "title": "Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history",
@@ -11419,17 +11364,6 @@
    "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping.",
    "title_ar": "ChatGPT يحصل على وكلاء أعمال ذكاء اصطناعي موثقين"
   },
-  "theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion": {
-   "at": "2026-11-10T14:15:31.785799+00:00",
-   "title": "Anthropic targets $1.4 trillion IPO",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
-   "score": 0,
-   "sources": 1,
-   "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations.",
-   "title_ar": ""
-  },
   "theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now": {
    "at": "2026-11-11T00:45:30.160305+00:00",
    "title": "Anthropic has its own AI-powered office suite now",
@@ -11704,17 +11638,6 @@
    "sources": 1,
    "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit.",
    "title_ar": "فشل صاروخ Vulcan وتدمير 40 قمراً صناعياً لـ Amazon Leo"
-  },
-  "theverge.com/tech/1030282/amazon-ring-robotics-rover-cam-4k-security-business": {
-   "at": "2026-11-10T14:15:31.785799+00:00",
-   "title": "Amazon turned its Alexa robot into a Ring security patrol bot",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/tech/1030282/amazon-ring-robotics-rover-cam-4k-security-business",
-   "score": 0,
-   "sources": 1,
-   "summary": "As part of a new brand called Ring Robotics - designed to take a more proactive approach to security instead of just monitoring - a new rolling mobile security camera was announced by Amazon, called…",
-   "title_ar": ""
   },
   "theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates": {
    "at": "2026-11-10T17:30:40.491963+00:00",
@@ -13315,7 +13238,7 @@
  "topic_last_posted": {
   "AI": "2026-11-17T14:15:28.968059+00:00",
   "Anime": "2026-11-17T14:15:28.968059+00:00",
-  "Games": "2026-11-17T13:45:28.567575+00:00",
+  "Games": "2026-11-17T14:30:39.373129+00:00",
   "Tech": "2026-11-17T14:00:55.202248+00:00"
  },
  "digest_day": "2026-11-16",
