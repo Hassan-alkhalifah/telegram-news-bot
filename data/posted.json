@@ -166,17 +166,6 @@
    "summary": "Samsung has officially launched Google Photos integration in its Gallery app with backup services, and it’s also now widely rolled out for Galaxy devices. more…",
    "title_ar": "تطبيق Samsung Gallery يضيف رسمياً النسخ الاحتياطي عبر Google Photos ولكن ليس لجميع مستخدمي Galaxy"
   },
-  "9to5google.com/2026/11/10/samsungs-paid-ai-ambitions-have-a-giant-gemini-problem": {
-   "at": "2026-11-10T12:45:34.396719+00:00",
-   "title": "Samsung’s paid Galaxy AI plan has a giant Gemini problem",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5google.com/2026/11/10/samsungs-paid-ai-ambitions-have-a-giant-gemini-problem/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Good morning.",
-   "title_ar": ""
-  },
   "9to5google.com/2026/11/11/android-auto-gemini-intelligence-pixel": {
    "at": "2026-11-11T18:00:44.161979+00:00",
    "title": "Android Auto is getting a Gemini upgrade, but only if you use a Pixel",
@@ -716,17 +705,6 @@
    "summary": "Users visiting the Apple Support Community tonight were greeted with a message informing them that the platform will permanently shut down on November 20.",
    "title_ar": "نهاية حقبة: منتديات مجتمع دعم Apple ستغلق نهائياً في 20 نوفمبر"
   },
-  "9to5mac.com/2026/11/10/google-deepmind-analysis-proves-signal-and-whatsapp-encryption-is-secure": {
-   "at": "2026-11-10T12:45:34.396719+00:00",
-   "title": "Google DeepMind analysis proves Signal and WhatsApp encryption is secure",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/10/google-deepmind-analysis-proves-signal-and-whatsapp-encryption-is-secure/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The Signal protocol has long been considered the gold standard for end-to-end encrypted messaging, with Edward Snowden a notable advocate.",
-   "title_ar": ""
-  },
   "9to5mac.com/2026/11/10/ifixit-tears-down-touchscreen-macbook-pro-reveals-light-up-apple-logo-details": {
    "at": "2026-11-10T23:30:39.934038+00:00",
    "title": "iFixit tears down touchscreen MacBook Pro, reveals light-up Apple logo details",
@@ -737,17 +715,6 @@
    "sources": 1,
    "summary": "iFixit published its teardown of the new MacBook Pro with PROLED XDR Display today, revealing interesting details about how Apple brought back its illuminated logo on the lid.",
    "title_ar": "موقع iFixit يفكك حاسوب MacBook Pro بشاشة تعمل باللمس ويكشف عن تفاصيل شعار Apple المضيء"
-  },
-  "9to5mac.com/2026/11/10/instagram-effect-builder-lets-you-create-images-with-an-ai-prompt": {
-   "at": "2026-11-10T12:45:34.396719+00:00",
-   "title": "Instagram Effect Builder lets you create images with an AI prompt",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/10/instagram-effect-builder-lets-you-create-images-with-an-ai-prompt/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Instagram launched an Edits app for iPhone back in 2025, with a Mac version introduced just a few days ago.",
-   "title_ar": "أداة Instagram Effect Builder تتيح لك إنشاء صور باستخدام موجه ذكاء اصطناعي"
   },
   "9to5mac.com/2026/11/10/ios-27-2-adds-new-features-in-six-iphone-apps-details-here": {
    "at": "2026-11-10T20:00:49.531567+00:00",
@@ -4379,6 +4346,17 @@
    "summary": "After Bethesda formally named The Elder Scrolls 6: Sentinel earlier this month, some series fans were hopeful that more news wasn't far behind.",
    "title_ar": ""
   },
+  "eurogamer.net/dragon-quest-series-composer-akira-toriyama": {
+   "at": "2026-11-17T13:00:43.909146+00:00",
+   "title": "Is it time to retire Dragon Quest as a series? Chrono Trigger composer Yasunori Mitsuda thinks it might be",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.eurogamer.net/dragon-quest-series-composer-akira-toriyama",
+   "score": 2,
+   "sources": 2,
+   "summary": "Chrono Trigger composer Yasunori Mitsuda thinks it may be time for Square Enix to retire Dragon Quest, while reflecting on the direction of the popular RPG series after Akira Toriyama's death .",
+   "title_ar": "هل حان وقت إنهاء سلسلة Dragon Quest؟ مؤلف موسيقى Chrono Trigger ياسونوري ميتسودا يعتقد ذلك"
+  },
   "eurogamer.net/ea-madden-nfl-27-dont-delete-gta-6": {
    "at": "2026-11-17T09:30:46.648938+00:00",
    "title": "EA really doesn't want you to delete Madden NFL 27 to make room for GTA 6",
@@ -7041,6 +7019,17 @@
    "summary": "Sony has confirmed that GTA 6 is now the most preordered game in PlayStation Store history, although it failed to put a number on it.",
    "title_ar": ""
   },
+  "ign.com/articles/sony-squeezes-in-last-minute-ps5-firmware-security-update-ahead-of-gta-6-release-date-amid-fresh-hacker-claim": {
+   "at": "2026-11-17T13:00:43.909146+00:00",
+   "title": "Sony Squeezes in Last-Minute PS5 Firmware Security Update Ahead of GTA 6 Release Date, Amid Fresh Hacker Claim",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/sony-squeezes-in-last-minute-ps5-firmware-security-update-ahead-of-gta-6-release-date-amid-fresh-hacker-claim",
+   "score": 0,
+   "sources": 1,
+   "summary": "Sony has released a new PS5 firmware security update just a day before the release of GTA 6, and hot on the heels of a new claim from a prominent hacker around the console.",
+   "title_ar": ""
+  },
   "ign.com/articles/tekken-legend-katsuhiro-harada-says-he-wishes-hardware-like-the-xbox-series-s-wouldnt-be-released": {
    "at": "2026-11-11T16:15:31.205594+00:00",
    "title": "Tekken Legend Katsuhiro Harada Says He Wishes 'Hardware Like the Xbox Series S Wouldn't Be Released'",
@@ -7326,17 +7315,6 @@
    "sources": 1,
    "summary": "Nightcrawler has officially been unveiled by NetEase Games as the newest hero to join the Marvel Rivals roster with Season 11.",
    "title_ar": "بداية نهاية العالم في الموسم 11 من Marvel Rivals مع الكشف عن Nightcrawler و Dracula"
-  },
-  "insider-gaming.com/ea-sports-fc-27-update-v1-2-0-patch-notes": {
-   "at": "2026-11-10T12:45:34.396719+00:00",
-   "title": "EA FC 27 Update v1.2.0 & Full Patch Notes—First Major Gameplay Changes",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/ea-sports-fc-27-update-v1-2-0-patch-notes/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The 1.2.0 update for EA FC 27 makes the first real gameplay changes that alter matches, check out the full patch notes.",
-   "title_ar": ""
   },
   "insider-gaming.com/elder-scrolls-sentinel-no-news-today-anniversary": {
    "at": "2026-11-11T16:00:43.139434+00:00",
@@ -8691,6 +8669,17 @@
    "summary": "It's reportedly another DOOM game. id Software, the developer known for FPS hits such as DOOM and Quake , has confirmed it's got a new game in the pipeline.",
    "title_ar": ""
   },
+  "nintendolife.com/news/2026/11/i-dont-feel-this-is-a-good-direction-chrono-trigger-composer-thinks-its-time-to-end-dragon-quest": {
+   "at": "2026-11-17T13:00:43.909146+00:00",
+   "title": "\"I Don't Feel This Is A Good Direction\" - Chrono Trigger Composer Thinks It's Time To End Dragon Quest",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/i-dont-feel-this-is-a-good-direction-chrono-trigger-composer-thinks-its-time-to-end-dragon-quest",
+   "score": 0,
+   "sources": 1,
+   "summary": "\"it’s no longer possible to create anything new\".",
+   "title_ar": ""
+  },
   "nintendolife.com/news/2026/11/icymi-limited-run-games-announces-restock-of-tomb-raider-definitive-edition-for-switch-2": {
    "at": "2026-11-14T03:30:38.986198+00:00",
    "title": "ICYMI: Limited Run Games Announces Restock Of Tomb Raider: Definitive Edition For Switch 2",
@@ -9426,6 +9415,17 @@
    "score": 0,
    "sources": 1,
    "summary": "A clear message to Nvidia's board.",
+   "title_ar": ""
+  },
+  "pcgamer.com/hardware/graphics-cards/nvidia-tightens-up-control-of-its-own-national-security-policies-as-it-cozies-up-to-us-government-with-new-board-controlled-committee": {
+   "at": "2026-11-17T13:00:43.909146+00:00",
+   "title": "Nvidia tightens up control of its own national security policies as it cozies up to US government with new board-controlled committee",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-tightens-up-control-of-its-own-national-security-policies-as-it-cozies-up-to-us-government-with-new-board-controlled-committee/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Another committee for the committee pile.",
    "title_ar": ""
   },
   "pcgamer.com/hardware/graphics-cards/trump-calls-his-pal-jensen-huang-an-honourable-guy-and-says-he-probably-has-an-excuse-for-nvidia-ceos-affair-with-alleged-spy": {
@@ -12574,17 +12574,6 @@
    "summary": "This group will oversee the company's national security concerns and global trade compliance to avoid a repeat of Jensen's scandals.",
    "title_ar": ""
   },
-  "tomshardware.com/tech-industry/policy/president-trump-says-the-fbi-is-investigating-jensen-huangs-affair-nvidia-also-accused-of-intervening-in-megaspeed-chip-smuggling-investigation": {
-   "at": "2026-11-10T12:45:34.396719+00:00",
-   "title": "President Trump says the FBI is investigating Jensen Huang’s affair",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.tomshardware.com/tech-industry/policy/president-trump-says-the-fbi-is-investigating-jensen-huangs-affair-nvidia-also-accused-of-intervening-in-megaspeed-chip-smuggling-investigation",
-   "score": 0,
-   "sources": 1,
-   "summary": "The FBI is probably concerned about the implication of a Chinese agent having influence over the leader of the U.S.'s leading AI chip manufacturer.",
-   "title_ar": ""
-  },
   "tomshardware.com/tech-industry/president-trump-says-apples-tim-cook-is-the-only-man-to-replace-jensen-huang-as-nvidia-ceo-proposes-a-legend-replaces-a-legend-in-call-for-apples-executive-chairman-of-its-board": {
    "at": "2026-11-12T16:30:40.307813+00:00",
    "title": "President Trump says Apple’s Tim Cook is the only man to replace Jensen Huang as Nvidia CEO",
@@ -13293,7 +13282,7 @@
  "topic_last_posted": {
   "AI": "2026-11-17T11:30:33.823093+00:00",
   "Anime": "2026-11-17T10:00:41.124507+00:00",
-  "Games": "2026-11-17T12:30:52.203253+00:00",
+  "Games": "2026-11-17T13:00:43.909146+00:00",
   "Tech": "2026-11-17T12:45:27.821147+00:00"
  },
  "digest_day": "2026-11-16",
