@@ -5754,17 +5754,6 @@
    "summary": "The Xiaomi 18 may be closer than we expected – reports coming out of China indicate that one seller has started taking blind pre-orders for the upcoming model.",
    "title_ar": "بائع في الصين يبدأ بتلقي طلبات مسبقة عمياء لهاتف Xiaomi 18 العادي"
   },
-  "gsmarena.com/adobes_ai_assistant_learns_to_work_in_the_background_and_google_is_helping_out-news-75428.php": {
-   "at": "2026-11-10T23:15:28.915987+00:00",
-   "title": "Adobe's AI assistant learns to work in the background, and Google is helping out",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.gsmarena.com/adobes_ai_assistant_learns_to_work_in_the_background_and_google_is_helping_out-news-75428.php",
-   "score": 0,
-   "sources": 1,
-   "summary": "Adobe is holding its Max conference in Miami Beach today, and it has used the occasion to announce a bunch of new AI features, along with an expanded partnership with Google.",
-   "title_ar": ""
-  },
   "gsmarena.com/analysts_samsung_held_twothirds_of_the_global_foldable_market_in_q3_thanks_to_the_z_fold8-news-75455.php": {
    "at": "2026-11-12T20:45:29.538831+00:00",
    "title": "Analysts: Samsung held two-thirds of the global foldable market in Q3, thanks to the Z Fold8",
@@ -10121,17 +10110,6 @@
    "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
    "title_ar": "أزمة Nvidia تجعل خبراء حوكمة الشركات يستمتعون بالمشهد"
   },
-  "techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect": {
-   "at": "2026-11-10T23:15:28.915987+00:00",
-   "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-   "score": 1,
-   "sources": 1,
-   "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-   "title_ar": "OpenAI و Anthropic تواجهان رقابة جديدة مع دخول قانون سلامة الذكاء الاصطناعي في نيويورك حيز التنفيذ"
-  },
   "techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement": {
    "at": "2026-11-11T01:45:29.679063+00:00",
    "title": "X launches its own clipping feature to spur influencer engagement",
@@ -10923,6 +10901,17 @@
    "sources": 1,
    "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
    "title_ar": "إطلاق Lumo من Proton، وهو بديل لـ ChatGPT و Claude يركز على الخصوصية، على أجهزة سطح المكتب"
+  },
+  "techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding": {
+   "at": "2026-11-17T23:30:35.323229+00:00",
+   "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
+   "title_ar": "تقنية الدماغ من شركة Science Corporation تبلغ قيمتها 3.5 مليارات دولار بعد تمويل جديد"
   },
   "techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit": {
    "at": "2026-11-17T22:00:49.505897+00:00",
@@ -13324,7 +13313,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-17T23:00:44.352035+00:00",
+  "AI": "2026-11-17T23:30:35.323229+00:00",
   "Anime": "2026-11-17T17:30:36.296181+00:00",
   "Games": "2026-11-17T22:00:49.505897+00:00",
   "Tech": "2026-11-17T23:15:27.298280+00:00"
