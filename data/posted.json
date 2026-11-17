@@ -3906,6 +3906,17 @@
    "summary": "You can lock in orders for two LG cameras and a video doorbell.",
    "title_ar": "فتح باب الطلب المسبق لبعض أجهزة Apple Home Collection في 13 نوفمبر"
   },
+  "engadget.com/2314792/improve-amazon-kindle-experience-doing-simple-things": {
+   "at": "2026-11-17T05:30:36.232787+00:00",
+   "title": "Improve your Amazon Kindle experience by doing these simple things",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2314792/improve-amazon-kindle-experience-doing-simple-things/",
+   "score": 1,
+   "sources": 1,
+   "summary": "If you love the convenience of a Kindle but miss the feel of having a physical book in your hands, we have some tips for you.",
+   "title_ar": "حسن تجربة استخدام Amazon Kindle الخاص بك من خلال القيام بهذه الأمور البسيطة"
+  },
   "engadget.com/2314891/every-xbox-console-generation-sorted-release-date": {
    "at": "2026-11-16T21:01:26.567559+00:00",
    "title": "Every Xbox console generation sorted by release date",
@@ -13157,17 +13168,6 @@
    "summary": "There are now 25 classic Xbox games available on PC, and four have achievements",
    "title_ar": ""
   },
-  "wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol": {
-   "at": "2026-11-10T05:15:30.464477+00:00",
-   "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
-   "score": 1,
-   "sources": 1,
-   "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended.",
-   "title_ar": "أداة ذكاء اصطناعي جديدة من Google DeepMind تثبت أن بروتوكول Signal آمن"
-  },
   "wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway": {
    "at": "2026-11-11T15:45:31.215182+00:00",
    "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
@@ -13261,7 +13261,7 @@
   "AI": "2026-11-16T23:45:29.284385+00:00",
   "Anime": "2026-11-17T05:15:30.251136+00:00",
   "Games": "2026-11-17T02:15:29.000252+00:00",
-  "Tech": "2026-11-17T05:00:44.779285+00:00"
+  "Tech": "2026-11-17T05:30:36.232787+00:00"
  },
  "digest_day": "2026-11-16",
  "weekly_day": "2026-11-13"
