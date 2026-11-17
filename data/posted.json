@@ -12,17 +12,6 @@
    "summary": "Google Gemini now offers a “Memory summary” to “view, edit, and delete what Gemini Apps understands about you.” more…",
    "title_ar": "Google Gemini يطرح ميزة Memory summary لتخزين كل ما تتذكره عنك"
   },
-  "9to5google.com/2026/11/09/hunter-ceiling-fans-google-home-amazon-alexa-support": {
-   "at": "2026-11-10T02:15:30.258102+00:00",
-   "title": "Hunter is killing Google Home, Alexa controls for its smart ceiling fans",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/09/hunter-ceiling-fans-google-home-amazon-alexa-support/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Hunter, a major brand for ceiling fans in the US, is pulling the plug on its Google Home and Amazon Alexa bridge for controlling “HunterSMART” models in just a few weeks. more…",
-   "title_ar": "Hunter تلغي دعم Google Home وAlexa لمواقف المراوح الذكية الخاصة بها"
-  },
   "9to5google.com/2026/11/09/samsung-bets-that-youll-either-buy-a-galaxy-s27-pro-or-ultra-next-year": {
    "at": "2026-11-10T03:29:34.341640+00:00",
    "title": "Samsung bets that you’ll either buy a Galaxy S27 Pro or Ultra next year",
@@ -594,28 +583,6 @@
    "sources": 1,
    "summary": "We’re only a couple of months away from our next Galaxy Unpacked, and while the expanded Galaxy S27 series is practically guaranteed to show up, the real fun tends to lie in whatever other gadgets…",
    "title_ar": "تسريب سماعات Galaxy Studio من Samsung مع تحكم باللمس ولونين"
-  },
-  "9to5mac.com/2026/11/09/apple-releases-ios-26-7-3-watchos-27-2-1-and-more": {
-   "at": "2026-11-10T02:15:30.258102+00:00",
-   "title": "Apple releases iOS 26.7.3, watchOS 27.2.1, and more",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/09/apple-releases-ios-26-7-3-watchos-27-2-1-and-more/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Today Apple released a variety of software updates with the latest security fixes, including iOS 26.7.3 for iPhone, watchOS 27.2.1 for Apple Watch, and more. more…",
-   "title_ar": ""
-  },
-  "9to5mac.com/2026/11/09/apple-releases-ios-27-2-1-for-iphone-heres-whats-new": {
-   "at": "2026-11-10T02:15:30.258102+00:00",
-   "title": "Apple releases iOS 27.2.1 for iPhone, here’s what’s new",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/09/apple-releases-ios-27-2-1-for-iphone-heres-whats-new/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple has released a minor new software update for iPhone users today: iOS 27.2.1.",
-   "title_ar": ""
   },
   "9to5mac.com/2026/11/09/apple-releases-macos-27-2-1-golden-gate-tahoe-26-7-3-and-sequoia-15-8-3": {
    "at": "2026-11-10T02:30:38.444106+00:00",
@@ -1496,6 +1463,17 @@
    "sources": 1,
    "summary": "In addition to macOS 27.3 beta 2 , Apple is also rolling out the first Release Candidates for macOS Sequoia 15.8.4 and macOS Tahoe 26.7.4.",
    "title_ar": ""
+  },
+  "9to5mac.com/2026/11/16/former-apple-chairman-arthur-levinson-files-to-sell-31-8-million-in-company-stock": {
+   "at": "2026-11-17T02:30:36.736099+00:00",
+   "title": "Former Apple chairman Arthur Levinson files to sell $31.8 million in company stock",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/16/former-apple-chairman-arthur-levinson-files-to-sell-31-8-million-in-company-stock/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Arthur Levinson, who currently serves as Apple’s lead independent director, informed the SEC today of his plans to sell 90,000 shares of Apple stock worth approximately $31.8 million.",
+   "title_ar": "الرئيس السابق لشركة Apple آرثر ليفينسون يتقدم بطلب لبيع أسهم في الشركة بقيمة 31.8 مليون دولار"
   },
   "9to5mac.com/2026/11/16/ios-27-3-adds-new-face-unlock-feature-for-iphone-duo": {
    "at": "2026-11-16T18:15:27.684104+00:00",
@@ -8955,17 +8933,6 @@
    "summary": "The dev team also has another update on the way.",
    "title_ar": ""
   },
-  "nintendolife.com/news/2026/11/super-mario-party-jamboree-updated-for-switch-2-and-switch-version-2-4-0": {
-   "at": "2026-11-10T02:15:30.258102+00:00",
-   "title": "Super Mario Party Jamboree Updated For Switch 2 And Switch (Version 2.4.0)",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.nintendolife.com/news/2026/11/super-mario-party-jamboree-updated-for-switch-2-and-switch-version-2-4-0",
-   "score": 0,
-   "sources": 1,
-   "summary": "Download it today.",
-   "title_ar": ""
-  },
   "nintendolife.com/news/2026/11/switch-2-supposedly-jailbroken-via-software-only-exploit": {
    "at": "2026-11-10T13:15:31.997482+00:00",
    "title": "Switch 2 Supposedly Jailbroken Via Software-Only Exploit",
@@ -13338,7 +13305,7 @@
   "AI": "2026-11-16T23:45:29.284385+00:00",
   "Anime": "2026-11-17T01:00:42.518522+00:00",
   "Games": "2026-11-17T02:15:29.000252+00:00",
-  "Tech": "2026-11-17T02:00:44.953961+00:00"
+  "Tech": "2026-11-17T02:30:36.736099+00:00"
  },
  "digest_day": "2026-11-16",
  "weekly_day": "2026-11-13"
