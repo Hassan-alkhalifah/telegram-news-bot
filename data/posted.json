@@ -78,17 +78,6 @@
    "summary": "Our first impressions on Google’s new Pixel Tag are live, but orders are not.",
    "title_ar": ""
   },
-  "9to5google.com/2026/11/10/november-2026-pixel-watch-drop": {
-   "at": "2026-11-10T19:15:33.332806+00:00",
-   "title": "November Pixel Watch Drop: Create My Widget, Phone-to-Watch Unlock, and Wear OS 7.1",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5google.com/2026/11/10/november-2026-pixel-watch-drop/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Besides a big update for phones , there’s also a sizable Pixel Watch Drop today, but it’s mostly a preview of what’s to come. more…",
-   "title_ar": ""
-  },
   "9to5google.com/2026/11/10/one-ui-9-5-rambler-samsung-galaxy-keyboard": {
    "at": "2026-11-11T04:00:42.731694+00:00",
    "title": "One UI 9.5 might bring Pixel 11’s ‘Rambler’ feature to Samsung Keyboard before Google’s",
@@ -517,6 +506,17 @@
    "sources": 1,
    "summary": "We’re only a couple of months away from our next Galaxy Unpacked, and while the expanded Galaxy S27 series is practically guaranteed to show up, the real fun tends to lie in whatever other gadgets…",
    "title_ar": "تسريب سماعات Galaxy Studio من Samsung مع تحكم باللمس ولونين"
+  },
+  "9to5google.com/2026/11/17/google-home-new-features-nest-thermostat-upgrades": {
+   "at": "2026-11-17T19:30:36.148932+00:00",
+   "title": "Google confirms huge list of new Home features, including three Nest Thermostat upgrades",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/17/google-home-new-features-nest-thermostat-upgrades/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Google Home is constantly rolling out new updates and, today, the company is detailing some of its latest updates including a faster Gemini for Home experience and an upcoming Nest Thermostat…",
+   "title_ar": "Google تؤكد قائمة ضخمة من المزايا الجديدة لـ Google Home، تشمل 3 ترقيات لـ Nest Thermostat"
   },
   "9to5google.com/2026/11/17/instagram-direct-dedicated-messaging-app": {
    "at": "2026-11-17T15:30:43.795514+00:00",
@@ -1495,6 +1495,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Apple will soon be adding a video podcasts section to Apple TV , which will also be available in the Apple TV app on other devices like smart TVs.",
+   "title_ar": ""
+  },
+  "9to5mac.com/2026/11/17/airpods-pro-3-keep-getting-better-heres-whats-new-ios-27": {
+   "at": "2026-11-17T19:30:36.148932+00:00",
+   "title": "AirPods Pro 3 keep getting better, here’s what’s new in iOS 27",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/17/airpods-pro-3-keep-getting-better-heres-whats-new-ios-27/",
+   "score": 0,
+   "sources": 1,
+   "summary": "AirPods got a variety of new features this fall in iOS 27, several of which are exclusive to AirPods Pro 3 (now only $179).",
    "title_ar": ""
   },
   "9to5mac.com/2026/11/17/apple-hears-liquid-glass-feedback-tests-small-but-welcome-change": {
@@ -3609,17 +3620,6 @@
    "summary": "If your laptop doesn't seem to hold a charge as well as it used to, start by checking the diagnostics this tool can report.",
    "title_ar": "هذه الأداة المدمجة في Windows يمكنها تشخيص حالة بطارية حاسوبك"
   },
-  "engadget.com/2312136/google-november-pixel-drop-rambler-hilight-updates": {
-   "at": "2026-11-10T19:15:33.332806+00:00",
-   "title": "Google's impressive Rambler dictation tech is now available on Pixel 10 devices too",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.engadget.com/2312136/google-november-pixel-drop-rambler-hilight-updates/",
-   "score": 0,
-   "sources": 1,
-   "summary": "November's Pixel Drop also brings other AI features to older Pixel phones, while the Pixel 11's HiLight feature now works with Google Messages.",
-   "title_ar": ""
-  },
   "engadget.com/2312177/anthropic-takes-on-google-and-microsoft-with-claude-sheets": {
    "at": "2026-11-10T23:59:41.496286+00:00",
    "title": "Anthropic takes on Google and Microsoft with Claude Sheets",
@@ -5105,17 +5105,6 @@
    "summary": "After quickly selling out earlier this year, Microsoft dropped a limited number of its 25th Anniversary Xbox Series X consoles for sale this week-- aaaaannnd they're already gone .",
    "title_ar": ""
   },
-  "gamespot.com/articles/valve-is-giving-you-more-ways-to-know-if-a-game-runs-well-on-steam-deck": {
-   "at": "2026-11-10T19:15:33.332806+00:00",
-   "title": "Valve Is Giving You More Ways To Know If A Game Runs Well On Steam Deck",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gamespot.com/articles/valve-is-giving-you-more-ways-to-know-if-a-game-runs-well-on-steam-deck/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Valve's Steam Deck verification program has been a helpful, if somewhat flawed, method of determining if a game is a good fit for the company's handheld PC.",
-   "title_ar": ""
-  },
   "gamespot.com/articles/we-got-a-grand-theft-at-disney-world-before-gta-6": {
    "at": "2026-11-16T14:45:46.387109+00:00",
    "title": "We Got A Grand Theft At Disney World Before GTA 6",
@@ -5136,17 +5125,6 @@
    "score": 0,
    "sources": 1,
    "summary": "The long-rumored Wolfenstein 3 has been officially confirmed to be in development at MachineGames.",
-   "title_ar": ""
-  },
-  "gamespot.com/articles/wow-forever-just-received-its-first-big-post-launch-changes": {
-   "at": "2026-11-10T19:15:33.332806+00:00",
-   "title": "WoW: Forever Just Received Its First Big Post-Launch Changes",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gamespot.com/articles/wow-forever-just-received-its-first-big-post-launch-changes/",
-   "score": 0,
-   "sources": 1,
-   "summary": "World of Warcraft: Forever received its first post-launch updates over the weekend, giving players a good reason to run each dungeon more than once alongside upcoming class tweaks.",
    "title_ar": ""
   },
   "gamespot.com/articles/xbox-ceos-25th-anniversary-message-is-about-ai-even-if-she-wont-say-it": {
@@ -7954,6 +7932,17 @@
    "summary": "Civilization 7 has struggled in its first year",
    "title_ar": ""
   },
+  "kotaku.com/ex-ceo-jensen-huang-says-hed-be-honored-to-return-to-nvidia-but-the-ai-tech-giant-is-saying-no-thanks-2000757760": {
+   "at": "2026-11-17T19:30:36.148932+00:00",
+   "title": "Ex-CEO Jensen Huang Says He’d Be ‘Honored’ To Return To Nvidia But The AI Tech Giant Is Saying No Thanks",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/ex-ceo-jensen-huang-says-hed-be-honored-to-return-to-nvidia-but-the-ai-tech-giant-is-saying-no-thanks-2000757760",
+   "score": 0,
+   "sources": 1,
+   "summary": "New phone, who dis?",
+   "title_ar": ""
+  },
   "kotaku.com/fairgames-haven-studios-jade-raymond-playstation-canceled-2000755584": {
    "at": "2026-11-10T21:00:49.784182+00:00",
    "title": "Sony Cancels Fairgames After Years Of Silence",
@@ -9758,17 +9747,6 @@
    "summary": "Leonida here we come.",
    "title_ar": ""
   },
-  "pushsquare.com/news/2026/11/gta-6-on-ps5-is-ps-stores-most-pre-ordered-digital-game-in-history": {
-   "at": "2026-11-10T19:15:33.332806+00:00",
-   "title": "GTA 6 on PS5 Is PS Store's Most Pre-Ordered Digital Game in History",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pushsquare.com/news/2026/11/gta-6-on-ps5-is-ps-stores-most-pre-ordered-digital-game-in-history",
-   "score": 0,
-   "sources": 1,
-   "summary": "Record breaker.",
-   "title_ar": ""
-  },
   "pushsquare.com/news/2026/11/gta-6-preloading-is-causing-major-download-traffic-spikes-in-europe": {
    "at": "2026-11-11T17:00:46.445959+00:00",
    "title": "GTA 6 Preloading Is Causing Major Download Traffic Spikes in Europe",
@@ -10230,17 +10208,6 @@
    "sources": 1,
    "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
    "title_ar": "OpenAI و Anthropic تواجهان رقابة جديدة مع دخول قانون سلامة الذكاء الاصطناعي في نيويورك حيز التنفيذ"
-  },
-  "techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available": {
-   "at": "2026-11-10T19:15:33.332806+00:00",
-   "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
-   "title_ar": ""
   },
   "techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement": {
    "at": "2026-11-11T01:45:29.679063+00:00",
@@ -11683,17 +11650,6 @@
    "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit.",
    "title_ar": "فشل صاروخ Vulcan وتدمير 40 قمراً صناعياً لـ Amazon Leo"
   },
-  "theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding": {
-   "at": "2026-11-10T19:15:33.332806+00:00",
-   "title": "Google’s Pixel Tag tracker is now available",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
-   "score": 3,
-   "sources": 2,
-   "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase.",
-   "title_ar": "متعقب Pixel Tag من Google متوفر الآن"
-  },
   "theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery": {
    "at": "2026-11-11T04:45:30.059766+00:00",
    "title": "Starlink Mini 2 adds a swappable battery",
@@ -11704,17 +11660,6 @@
    "sources": 1,
    "summary": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop.",
    "title_ar": "Starlink Mini 2 يضيف بطارية قابلة للاستبدال"
-  },
-  "theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight": {
-   "at": "2026-11-10T19:15:33.332806+00:00",
-   "title": "Google is making Pixel HiLight slightly more useful",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
-   "score": 0,
-   "sources": 1,
-   "summary": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: as part of the November 2026 Pixel Drop, the light can light up when you get Google Messages…",
-   "title_ar": ""
   },
   "theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies": {
    "at": "2026-11-10T22:15:33.417093+00:00",
@@ -12783,6 +12728,17 @@
    "summary": "Third Signal plans to give studios more creative freedom",
    "title_ar": ""
   },
+  "videogameschronicle.com/news/for-the-first-time-in-11-years-sony-doesnt-have-a-goty-nomination-at-the-game-awards": {
+   "at": "2026-11-17T19:30:36.148932+00:00",
+   "title": "For the first time in 11 years, Sony doesn’t have a GOTY nomination at The Game Awards",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.videogameschronicle.com/news/for-the-first-time-in-11-years-sony-doesnt-have-a-goty-nomination-at-the-game-awards/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Until now, a Sony published game had made it into the GOTY noms since 2015",
+   "title_ar": ""
+  },
   "videogameschronicle.com/news/gta-6-is-the-most-nominated-game-at-the-game-awards-2026": {
    "at": "2026-11-17T17:30:36.296181+00:00",
    "title": "GTA 6 is the most nominated game at The Game Awards 2026",
@@ -13272,7 +13228,7 @@
   "AI": "2026-11-17T19:00:43.400058+00:00",
   "Anime": "2026-11-17T17:30:36.296181+00:00",
   "Games": "2026-11-17T19:15:31.436575+00:00",
-  "Tech": "2026-11-17T18:45:28.218639+00:00"
+  "Tech": "2026-11-17T19:30:36.148932+00:00"
  },
  "digest_day": "2026-11-17",
  "weekly_day": "2026-11-13"
