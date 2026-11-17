@@ -34,17 +34,6 @@
    "summary": "Hunter, a major brand for ceiling fans in the US, is pulling the plug on its Google Home and Amazon Alexa bridge for controlling “HunterSMART” models in just a few weeks. more…",
    "title_ar": "Hunter تلغي دعم Google Home وAlexa لمواقف المراوح الذكية الخاصة بها"
   },
-  "9to5google.com/2026/11/09/november-2026-google-system-updates": {
-   "at": "2026-11-10T00:00:44.607533+00:00",
-   "title": "What’s new in Android’s November 2026 Google System Updates [U]",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/09/november-2026-google-system-updates/",
-   "score": 1,
-   "sources": 1,
-   "summary": "The monthly “ Google System Release Notes ” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC.",
-   "title_ar": "ما الجديد في تحديثات نظام Google لشهر نوفمبر 2026 لنظام Android [تحديث]"
-  },
   "9to5google.com/2026/11/09/samsung-bets-that-youll-either-buy-a-galaxy-s27-pro-or-ultra-next-year": {
    "at": "2026-11-10T03:29:34.341640+00:00",
    "title": "Samsung bets that you’ll either buy a Galaxy S27 Pro or Ultra next year",
@@ -7679,6 +7668,17 @@
    "summary": "A new trailer has been revealed for MACCA & FRIENDS, an in-game animated show set to feature in Grand Theft Auto 6.",
    "title_ar": ""
   },
+  "insider-gaming.com/new-gta-6-screenshots-showcase-intense-weather-systems": {
+   "at": "2026-11-17T00:15:29.018530+00:00",
+   "title": "New GTA 6 Screenshots Showcase Intense Weather Systems",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/new-gta-6-screenshots-showcase-intense-weather-systems/",
+   "score": 0,
+   "sources": 1,
+   "summary": "On social media, six new GTA 6 screenshots have surfaced, focusing specifically on the game's incredible weather systems.",
+   "title_ar": ""
+  },
   "insider-gaming.com/new-gta-6-trailer-released-pre-load-window": {
    "at": "2026-11-10T14:30:45.059950+00:00",
    "title": "New GTA 6 Trailer Released to Promote Pre-Load Window",
@@ -7864,17 +7864,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Star Wars: Galactic Racer is about to get even better for fans of local multiplayer.",
-   "title_ar": ""
-  },
-  "insider-gaming.com/take-two-ceo-gta-7-development": {
-   "at": "2026-11-10T00:00:44.607533+00:00",
-   "title": "GTA 7 Won’t Take as Long as GTA 6, Says Take-Two CEO",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/take-two-ceo-gta-7-development/",
-   "score": 0,
-   "sources": 1,
-   "summary": "It's been 13 years since GTA 5 released, and we're just now getting GTA 6.",
    "title_ar": ""
   },
   "insider-gaming.com/take-two-ceo-gta-movie-tv-show": {
@@ -10935,6 +10924,17 @@
    "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
    "title_ar": "المدعي العام لولاية كاليفورنيا يقاضي شركة OpenAI بسبب حوادث الوكلاء المارقين"
   },
+  "techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information": {
+   "at": "2026-11-17T00:15:29.018530+00:00",
+   "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+   "score": 1,
+   "sources": 1,
+   "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
+   "title_ar": "عملاق الأمن السيبراني Infoblox يؤكد وقوع حادث أمني بعد وصول قراصنة إلى معلومات الشركة"
+  },
   "techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours": {
    "at": "2026-11-16T18:00:43.512004+00:00",
    "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
@@ -11791,17 +11791,6 @@
    "score": 0,
    "sources": 1,
    "summary": "As part of a new brand called Ring Robotics - designed to take a more proactive approach to security instead of just monitoring - a new rolling mobile security camera was announced by Amazon, called…",
-   "title_ar": ""
-  },
-  "theverge.com/tech/1030446/trump-jensen-huang-press-conference": {
-   "at": "2026-11-10T00:00:44.607533+00:00",
-   "title": "Here’s what Trump said he knew about Jensen Huang",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-   "score": 0,
-   "sources": 1,
-   "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy.",
    "title_ar": ""
   },
   "theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates": {
@@ -13371,7 +13360,7 @@
   "AI": "2026-11-16T23:45:29.284385+00:00",
   "Anime": "2026-11-16T23:15:32.491737+00:00",
   "Games": "2026-11-17T00:00:42.428472+00:00",
-  "Tech": "2026-11-16T23:30:41.548334+00:00"
+  "Tech": "2026-11-17T00:15:29.018530+00:00"
  },
  "digest_day": "2026-11-16",
  "weekly_day": "2026-11-13"
