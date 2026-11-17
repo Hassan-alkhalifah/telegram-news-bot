@@ -518,6 +518,17 @@
    "summary": "Google Home is constantly rolling out new updates and, today, the company is detailing some of its latest updates including a faster Gemini for Home experience and an upcoming Nest Thermostat…",
    "title_ar": "Google تؤكد قائمة ضخمة من المزايا الجديدة لـ Google Home، تشمل 3 ترقيات لـ Nest Thermostat"
   },
+  "9to5google.com/2026/11/17/google-wallet-ios-app": {
+   "at": "2026-11-17T20:00:45.700339+00:00",
+   "title": "The Google Wallet app is now available on iOS",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5google.com/2026/11/17/google-wallet-ios-app/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Google Wallet is now available on iOS to “organize purchases, tickets, boarding passes, and more in one easy place” in the US. more…",
+   "title_ar": ""
+  },
   "9to5google.com/2026/11/17/instagram-direct-dedicated-messaging-app": {
    "at": "2026-11-17T15:30:43.795514+00:00",
    "title": "Instagram launches dedicated ‘Direct’ messaging app that basically no one can use yet",
@@ -4367,6 +4378,17 @@
    "sources": 1,
    "summary": "The full extent of the disruption isn't known yet.",
    "title_ar": ""
+  },
+  "engadget.com/2319673/google-wallet-is-launching-on-ios": {
+   "at": "2026-11-17T20:00:45.700339+00:00",
+   "title": "Google Wallet is launching on iOS",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2319673/google-wallet-is-launching-on-ios/",
+   "score": 4,
+   "sources": 2,
+   "summary": "In case you, for some reason, don't want to use the nearly identical Apple Wallet.",
+   "title_ar": "Google Wallet قادم قريباً إلى منصة iOS"
   },
   "eurogamer.net/blood-of-dawnwalker-new-game-plus": {
    "at": "2026-11-13T21:00:41.462775+00:00",
@@ -13327,7 +13349,7 @@
   "AI": "2026-11-17T19:45:36.813850+00:00",
   "Anime": "2026-11-17T17:30:36.296181+00:00",
   "Games": "2026-11-17T19:55:41.247763+00:00",
-  "Tech": "2026-11-17T19:30:36.148932+00:00"
+  "Tech": "2026-11-17T20:00:45.700339+00:00"
  },
  "digest_day": "2026-11-17",
  "weekly_day": "2026-11-13"
