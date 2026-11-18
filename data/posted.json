@@ -3862,6 +3862,17 @@
    "summary": "Motorola's latest phone has a monstrous tandem OLED display, a huge 7,000mah battery, fancy cameras and a massive $1,600 price tag.",
    "title_ar": "هاتف Motorola Signature 27 هو وحش حقيقي"
   },
+  "engadget.com/2315475/google-gemini-memory-summary-see-what-remembers-about-you": {
+   "at": "2026-11-18T00:15:29.434017+00:00",
+   "title": "You can now see and edit what Google Gemini remembers about you",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2315475/google-gemini-memory-summary-see-what-remembers-about-you/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Editing the AI's memory is one way you can shape its responses.",
+   "title_ar": "يمكنك الآن رؤية وتعديل ما يتذكره Google Gemini عنك"
+  },
   "engadget.com/2315525/metas-muse-can-now-make-calls-on-your-behalf-if-you-have-a-paid-subscription": {
    "at": "2026-11-13T00:00:43.833823+00:00",
    "title": "Meta's Muse can now make calls on your behalf (if you have a paid subscription)",
@@ -4707,6 +4718,17 @@
    "score": 0,
    "sources": 1,
    "summary": "After months of searching and numerous potential frontrunners, Robert Pattinson has been cast as the next James Bond .",
+   "title_ar": ""
+  },
+  "gamespot.com/articles/bioware-is-dead-but-mass-effects-spiritual-successor-exodus-just-gave-us-a-glimpse-of-a-spicy-romance": {
+   "at": "2026-11-18T00:15:29.434017+00:00",
+   "title": "BioWare Is Dead, But Mass Effect’s Spiritual Successor Exodus Just Gave Us A Glimpse of A Spicy Romance",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/bioware-is-dead-but-mass-effects-spiritual-successor-exodus-just-gave-us-a-glimpse-of-a-spicy-romance/",
+   "score": 0,
+   "sources": 1,
+   "summary": "For the first time since its announcement during December 2023's The Game Awards, players are getting a look at the female player-character from its upcoming sci-fi RPG Exodus --which was full of…",
    "title_ar": ""
   },
   "gamespot.com/articles/candy-crush-is-celebrating-xboxs-25th-anniversary-with-halo-fallout-and-doom-crossovers-including-remixed-music": {
@@ -13250,7 +13272,7 @@
   "AI": "2026-11-17T23:30:35.323229+00:00",
   "Anime": "2026-11-17T17:30:36.296181+00:00",
   "Games": "2026-11-17T22:00:49.505897+00:00",
-  "Tech": "2026-11-18T00:00:51.118565+00:00"
+  "Tech": "2026-11-18T00:15:29.434017+00:00"
  },
  "digest_day": "2026-11-17",
  "weekly_day": "2026-11-13"
