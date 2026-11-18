@@ -1750,28 +1750,6 @@
    "summary": "Witch Watch Season 2 is set to premiere in 2027.",
    "title_ar": ""
   },
-  "animenewsnetwork.com/news/2026-11-11/crunchyroll-screens-the-guy-she-was-interested-in-wasnt-a-guy-at-all-here-u-are-bless-premieres-at-/.243735": {
-   "at": "2026-11-11T22:15:40.644389+00:00",
-   "title": "Crunchyroll Screens The Guy She Was Interested In Wasn't a Guy at All, Here U Are, Bless Premieres at Anime Frontier",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-11/crunchyroll-screens-the-guy-she-was-interested-in-wasnt-a-guy-at-all-here-u-are-bless-premieres-at-/.243735",
-   "score": 0,
-   "sources": 1,
-   "summary": "Dengeki Daisy , Fate Rewinder , more anime screen at event in Fort Worth, TX",
-   "title_ar": ""
-  },
-  "animenewsnetwork.com/news/2026-11-11/godzilla-minus-zero-film-opens-at-no.1-in-japan-grotesqqque-anime-film-at-no.8/.243685": {
-   "at": "2026-11-11T22:15:40.644389+00:00",
-   "title": "Godzilla Minus Zero Film Opens at #1 in Japan, Grotesqqque Anime Film at #8",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-11/godzilla-minus-zero-film-opens-at-no.1-in-japan-grotesqqque-anime-film-at-no.8/.243685",
-   "score": 1,
-   "sources": 1,
-   "summary": "Live-action Nanji, Hoshi no Gotoku film drops to #3",
-   "title_ar": "فيلم Godzilla Minus Zero يفتتح في المركز الأول في اليابان، وفيلم الأنمي Grotesqqque في المركز الثامن"
-  },
   "animenewsnetwork.com/news/2026-11-11/tsugumi-project-anime-reveals-january-2027-premiere/.243744": {
    "at": "2026-11-12T04:15:27.978659+00:00",
    "title": "Tsugumi Project Anime Reveals January 2027 Premiere",
@@ -9219,6 +9197,17 @@
    "summary": "My, how times have changed.",
    "title_ar": ""
   },
+  "pcgamer.com/games/grand-theft-auto/devolvers-not-just-launching-a-game-on-the-same-day-as-gta-6-its-using-a-shot-by-shot-remake-of-the-gta-6-launch-trailer-too": {
+   "at": "2026-11-18T22:30:36.207855+00:00",
+   "title": "Devolver's not just launching a game on the same day as GTA 6, it's using a shot-by-shot remake of the GTA 6 launch trailer too",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.pcgamer.com/games/grand-theft-auto/devolvers-not-just-launching-a-game-on-the-same-day-as-gta-6-its-using-a-shot-by-shot-remake-of-the-gta-6-launch-trailer-too/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Ever see cartoon rodents get it on in the shower?",
+   "title_ar": ""
+  },
   "pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-hacker-pleads-guilty-to-all-charges": {
    "at": "2026-11-16T19:45:28.179505+00:00",
    "title": "Grand Theft Auto 6 hacker pleads guilty to all charges",
@@ -13564,6 +13553,17 @@
    "summary": "The union representing flight attendants for the defunct airline struck a deal with Google to scrub sensitive employee records from a $10 million data sale.",
    "title_ar": "جوجل أرادت بيانات Spirit Airlines، ومضيفو الطيران وجدوا طريقة للانسحاب"
   },
+  "wired.com/story/guys-really-we-got-this": {
+   "at": "2026-11-18T22:30:36.207855+00:00",
+   "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://www.wired.com/story/guys-really-we-got-this/",
+   "score": 0,
+   "sources": 1,
+   "summary": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
+   "title_ar": ""
+  },
   "wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo": {
    "at": "2026-11-18T17:45:45.588246+00:00",
    "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
@@ -13645,7 +13645,7 @@
  "topic_last_posted": {
   "AI": "2026-11-18T22:00:46.577554+00:00",
   "Anime": "2026-11-18T22:15:32.393278+00:00",
-  "Games": "2026-11-18T21:30:40.169752+00:00",
+  "Games": "2026-11-18T22:30:36.207855+00:00",
   "Tech": "2026-11-18T21:45:28.960539+00:00"
  },
  "digest_day": "2026-11-18",
