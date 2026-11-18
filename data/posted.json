@@ -573,17 +573,6 @@
    "summary": "Apple Arcade just added new games last week, but today another title has debuted, and several more have been announced for release soon.",
    "title_ar": "Apple Arcade يكشف عن 3 ألعاب جديدة من سلاسل شهيرة"
   },
-  "9to5mac.com/2026/11/10/apple-confirms-ongoing-outage-affecting-icloud-and-more": {
-   "at": "2026-11-11T00:00:44.402594+00:00",
-   "title": "Apple confirms ongoing outage affecting iCloud and more",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/10/apple-confirms-ongoing-outage-affecting-icloud-and-more/",
-   "score": 2,
-   "sources": 1,
-   "summary": "If you’re having problems accessing iCloud and other Apple services this evening, you’re not alone.",
-   "title_ar": "أبل تؤكد وجود عطل مستمر يؤثر على iCloud وغيرها"
-  },
   "9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy": {
    "at": "2026-11-11T05:00:45.948064+00:00",
    "title": "Apple has new Mac app coming to make running local AI models easy",
@@ -2707,28 +2696,6 @@
    "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
    "title_ar": ""
   },
-  "arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor": {
-   "at": "2026-11-11T00:00:44.402594+00:00",
-   "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
-   "title_ar": ""
-  },
-  "arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive": {
-   "at": "2026-11-10T23:59:41.496286+00:00",
-   "title": "Seagate's new hybrid drive raises some old questions",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
-   "title_ar": ""
-  },
   "arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning": {
    "at": "2026-11-11T17:45:30.625207+00:00",
    "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
@@ -3576,17 +3543,6 @@
    "summary": "If your laptop doesn't seem to hold a charge as well as it used to, start by checking the diagnostics this tool can report.",
    "title_ar": "هذه الأداة المدمجة في Windows يمكنها تشخيص حالة بطارية حاسوبك"
   },
-  "engadget.com/2312177/anthropic-takes-on-google-and-microsoft-with-claude-sheets": {
-   "at": "2026-11-10T23:59:41.496286+00:00",
-   "title": "Anthropic takes on Google and Microsoft with Claude Sheets",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.engadget.com/2312177/anthropic-takes-on-google-and-microsoft-with-claude-sheets/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The company also has a new whiteboard app.",
-   "title_ar": ""
-  },
   "engadget.com/2312648/reasons-why-tv-soundbar-audio-delay": {
    "at": "2026-11-14T22:00:40.719145+00:00",
    "title": "The reasons why your TV soundbar has an audio delay",
@@ -3608,17 +3564,6 @@
    "sources": 1,
    "summary": "There's a suite of features with Google's Health app, but you've likely overlooked the intuitive food tracking function that helps keep your diet in check.",
    "title_ar": "ميزة مظلومة في تطبيق Google Health تجعل تتبع الطعام أقل إزعاجاً"
-  },
-  "engadget.com/2312947/nvidia-shareholders-are-suing-the-company-and-ceo-jensen-huang": {
-   "at": "2026-11-10T23:59:41.496286+00:00",
-   "title": "NVIDIA shareholders are suing the company and CEO Jensen Huang",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.engadget.com/2312947/nvidia-shareholders-are-suing-the-company-and-ceo-jensen-huang/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The company's shares have plummeted in response to the exec's affair with an alleged Chinese spy.",
-   "title_ar": ""
   },
   "engadget.com/2312969/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works": {
    "at": "2026-11-11T00:30:39.786741+00:00",
@@ -4323,6 +4268,17 @@
    "sources": 1,
    "summary": "NVIDIA's board chair said it doesn't want Jensen Huang back in the CEO role during the company's first earnings call since his resignation.",
    "title_ar": ""
+  },
+  "engadget.com/2320041/oregon-is-the-latest-state-to-sue-openai-over-child-safety": {
+   "at": "2026-11-18T00:00:51.118565+00:00",
+   "title": "Oregon is the latest state to sue OpenAI over child safety",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2320041/oregon-is-the-latest-state-to-sue-openai-over-child-safety/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Oregon's Attorney General filed a lawsuit against the maker of ChatGPT over alleged child safety issues.",
+   "title_ar": "أوريغون هي أحدث ولاية تقاضي OpenAI بسبب سلامة الأطفال"
   },
   "eurogamer.net/blood-of-dawnwalker-new-game-plus": {
    "at": "2026-11-13T21:00:41.462775+00:00",
@@ -5456,17 +5412,6 @@
    "sources": 2,
    "summary": "Publisher Sony Interactive Entertainment and developer San Diego Studio have officially announced MLB The Show …",
    "title_ar": "الإعلان عن لعبة MLB The Show 27"
-  },
-  "gematsu.com/2026/11/mouse-work-launches-december-7": {
-   "at": "2026-11-10T23:59:41.496286+00:00",
-   "title": "Mouse Work launches December 7",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.gematsu.com/2026/11/mouse-work-launches-december-7",
-   "score": 4,
-   "sources": 2,
-   "summary": "Party game Mouse Work will launch for Switch 2 on December 7, developer Nitrome announced. …",
-   "title_ar": "إطلاق لعبة Mouse Work في 7 ديسمبر"
   },
   "gematsu.com/2026/11/nba-2k27-x-grand-theft-auto-vi-collaboration-announced": {
    "at": "2026-11-16T16:30:56.289501+00:00",
@@ -7393,6 +7338,17 @@
    "summary": "The actors for Jason and Lucia, the two protagonists for Grand Theft Auto 6, have finally been officially revealed.",
    "title_ar": ""
   },
+  "insider-gaming.com/gta-6-screenshots-surface-social-media": {
+   "at": "2026-11-18T00:00:51.118565+00:00",
+   "title": "New GTA 6 Screenshots Surface Online Showing New Weapons, Scenes",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/gta-6-screenshots-surface-social-media/",
+   "score": 0,
+   "sources": 1,
+   "summary": "On social media, six new GTA 6 screenshots have surfaced, reportedly having been datamined by a reputable Rockstar insider.",
+   "title_ar": ""
+  },
   "insider-gaming.com/gta-6-surpasses-1-billion-presales": {
    "at": "2026-11-11T18:30:44.676236+00:00",
    "title": "GTA 6 Surpasses $1 Billion in Presales a Week Before Launch",
@@ -7985,17 +7941,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Have we seen the last of the leather jacket-wearing founder?",
-   "title_ar": ""
-  },
-  "kotaku.com/killing-floor-studio-cofounder-blames-spiraling-layoffs-on-woke-leftists-2000755642": {
-   "at": "2026-11-10T23:45:31.690095+00:00",
-   "title": "Killing Floor Studio Cofounder Blames Spiraling Layoffs On ‘Woke Leftists’",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/killing-floor-studio-cofounder-blames-spiraling-layoffs-on-woke-leftists-2000755642",
-   "score": 0,
-   "sources": 1,
-   "summary": "John Gibson stepped down from Tripwire Interactive over his support for an abortion ban",
    "title_ar": ""
   },
   "kotaku.com/logitech-gta-6-release-day-off-logi-game-day-2000755995": {
@@ -8668,17 +8613,6 @@
    "sources": 2,
    "summary": "Gold Prize Man.",
    "title_ar": "Mega Man: Dual Override يكشف عن الفائز في مسابقة تصميم Robot Master"
-  },
-  "nintendolife.com/news/2026/11/mouse-work-the-switch-2-game-using-joy-con-mouse-controls-arrives-this-december": {
-   "at": "2026-11-10T23:59:41.496286+00:00",
-   "title": "Mouse Work, The Switch 2 Game Using Joy-Con Mouse Controls, Arrives This December",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.nintendolife.com/news/2026/11/mouse-work-the-switch-2-game-using-joy-con-mouse-controls-arrives-this-december",
-   "score": 0,
-   "sources": 1,
-   "summary": "Put in a shift.",
-   "title_ar": ""
   },
   "nintendolife.com/news/2026/11/nab-a-free-shiny-legendary-with-pokemon-legends-z-as-new-limited-time-mystery-gift-code": {
    "at": "2026-11-12T18:15:28.482070+00:00",
@@ -11045,17 +10979,6 @@
    "summary": "Anthropic studied how Claude retains knowledge across sessions.",
    "title_ar": "Anthropic تقول إن مفتاح ذاكرة الوكيل هو معرفة ما يجب نسيانه، وليس مقدار ما يتم تخزينه"
   },
-  "the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes": {
-   "at": "2026-11-10T23:45:31.690095+00:00",
-   "title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Anthropic is expanding Claude with Sheets, Whiteboards, and Interactive Connectors, letting partners like Adobe and Atlassian embed their apps directly inside Claude.",
-   "title_ar": ""
-  },
   "the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them": {
    "at": "2026-11-15T15:45:27.498281+00:00",
    "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
@@ -13327,7 +13250,7 @@
   "AI": "2026-11-17T23:30:35.323229+00:00",
   "Anime": "2026-11-17T17:30:36.296181+00:00",
   "Games": "2026-11-17T22:00:49.505897+00:00",
-  "Tech": "2026-11-17T23:45:30.792875+00:00"
+  "Tech": "2026-11-18T00:00:51.118565+00:00"
  },
  "digest_day": "2026-11-17",
  "weekly_day": "2026-11-13"
