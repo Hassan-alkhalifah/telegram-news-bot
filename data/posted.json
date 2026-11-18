@@ -4522,6 +4522,17 @@
    "summary": "Sony has managed to squeeze out another PlayStation 5 firmware update before the highly-anticipated release of Grand Theft Auto 6 .",
    "title_ar": ""
   },
+  "eurogamer.net/ps5-pro-not-powerful-enough-gta-6-60fps": {
+   "at": "2026-11-18T18:30:39.042625+00:00",
+   "title": "Even the PS5 Pro is \"not powerful enough\" to run GTA 6 at 60FPS or 40FPS, Rockstar says",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/ps5-pro-not-powerful-enough-gta-6-60fps",
+   "score": 0,
+   "sources": 1,
+   "summary": "Don't expect GTA 6 to get an update supporting higher framerate modes, at least, not on current-generation consoles.",
+   "title_ar": ""
+  },
   "eurogamer.net/rainbow-six-vegas-new-game-ubisoft-spades-report": {
    "at": "2026-11-14T12:30:35.445498+00:00",
    "title": "Ubisoft is reportedly making a new Rainbow Six Vegas game, nearly two decades after Vegas 2",
@@ -4608,6 +4619,17 @@
    "score": 0,
    "sources": 1,
    "summary": "After months of searching and numerous potential frontrunners, Robert Pattinson has been cast as the next James Bond .",
+   "title_ar": ""
+  },
+  "gamespot.com/articles/bigfoot-is-back-in-gta-6-and-apparently-he-smells-revolting": {
+   "at": "2026-11-18T18:30:39.042625+00:00",
+   "title": "Bigfoot Is Back In GTA 6, And Apparently He Smells Revolting",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/bigfoot-is-back-in-gta-6-and-apparently-he-smells-revolting/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Grand Theft Auto games have been home to some weird phenomena over the years, and in GTA 6 , it looks like Bigfoot is back and stinkier than ever.",
    "title_ar": ""
   },
   "gamespot.com/articles/bioware-is-dead-but-mass-effects-spiritual-successor-exodus-just-gave-us-a-glimpse-of-a-spicy-romance": {
@@ -5147,6 +5169,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Saying Overwatch 2 has had a rocky road since its 2019 reveal would be an understatement, and former Overwatch director Jeff Kaplan isn't a fan of how the game was first announced.",
+   "title_ar": ""
+  },
+  "gematsu.com/2026/11/arcade-archives-tx-1-v-8-launches-november-19": {
+   "at": "2026-11-18T18:30:39.042625+00:00",
+   "title": "Arcade Archives TX-1 V.8 launches November 19",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gematsu.com/2026/11/arcade-archives-tx-1-v-8-launches-november-19",
+   "score": 0,
+   "sources": 1,
+   "summary": "Arcade Archives 2 TX-1 V.8 will launch for PlayStation 5, Xbox Series, and Switch 2, and …",
    "title_ar": ""
   },
   "gematsu.com/2026/11/arika-director-akira-kurabayashi-dies": {
@@ -12255,6 +12288,17 @@
    "summary": "The 8BitDo 64 was a loose remake of the Nintendo 64's unusual triple-grip controller that did away with that gamepad's centered analog stick.",
    "title_ar": ""
   },
+  "theverge.com/tech/1036796/google-android-app-games-developers-foldables-support": {
+   "at": "2026-11-18T18:30:39.042625+00:00",
+   "title": "Google is forcing Android app developers to properly support foldables",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.theverge.com/tech/1036796/google-android-app-games-developers-foldables-support",
+   "score": 1,
+   "sources": 1,
+   "summary": "Now that Apple's foldable is here, Google wants to make sure apps on Android foldables are a good experience.",
+   "title_ar": "Google تجبر مطوري تطبيقات أندرويد على دعم الهواتف القابلة للطي بشكل صحيح"
+  },
   "theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash": {
    "at": "2026-11-12T17:15:30.373926+00:00",
    "title": "‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug",
@@ -13536,7 +13580,7 @@
   "AI": "2026-11-18T17:45:45.588246+00:00",
   "Anime": "2026-11-18T18:00:56.960760+00:00",
   "Games": "2026-11-18T18:15:29.300227+00:00",
-  "Tech": "2026-11-18T17:30:38.146394+00:00"
+  "Tech": "2026-11-18T18:30:39.042625+00:00"
  },
  "digest_day": "2026-11-18",
  "weekly_day": "2026-11-13"
