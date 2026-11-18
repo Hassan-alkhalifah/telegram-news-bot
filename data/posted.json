@@ -507,6 +507,17 @@
    "summary": "Google Play is introducing new adaptive app and game quality requirements next year to elevate the Android foldable experience. more…",
    "title_ar": ""
   },
+  "9to5google.com/2026/11/18/google-pixel-app-lock-release-beta": {
+   "at": "2026-11-18T21:30:40.169752+00:00",
+   "title": "Google Pixel officially re-releases App Lock in beta, Samsung Galaxy gets it too",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5google.com/2026/11/18/google-pixel-app-lock-release-beta/",
+   "score": 0,
+   "sources": 1,
+   "summary": "It’s been a wild ride for Google Pixel’s App Lock feature, but the company is officially re-releasing the feature today, right alongside its debut on Samsung Galaxy devices. more…",
+   "title_ar": ""
+  },
   "9to5google.com/2026/11/18/google-wallet-may-soon-be-able-to-store-your-social-security-card": {
    "at": "2026-11-18T16:15:29.193296+00:00",
    "title": "Google Wallet may soon be able to store your Social Security card",
@@ -561,17 +572,6 @@
    "sources": 1,
    "summary": "Bloomberg reports that Apple has met with Thai government officials in the wake of its recent wave of iPhone alerts about mercenary spyware attacks.",
    "title_ar": "تقارير تفيد بأن Apple اجتمعت مع مسؤولين تايلانديين بشأن تنبيهات برامج التجسس المرسلة إلى سياسيين"
-  },
-  "9to5mac.com/2026/11/11/binance-warns-iphone-crypto-holders-of-security-flaw-researchers-say-remains-unpatched": {
-   "at": "2026-11-11T21:28:14.082607+00:00",
-   "title": "Binance warns iPhone crypto holders of security flaw researchers say remains unpatched",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/11/binance-warns-iphone-crypto-holders-of-security-flaw-researchers-say-remains-unpatched/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Crypto exchange Binance has warned iPhone users about an iOS vulnerability that could allow malicious apps to access sensitive data stored by other apps.",
-   "title_ar": "منصة Binance تحذر مالكي أجهزة iPhone من ثغرة أمنية يقول الباحثون إنها لا تزال غير مُصلحة"
   },
   "9to5mac.com/2026/11/12/30-of-iphone-duo-buyers-may-have-returned-it-but-i-dont-think-apple-should-worry": {
    "at": "2026-11-12T13:00:46.916755+00:00",
@@ -1749,17 +1749,6 @@
    "sources": 1,
    "summary": "Live-action Nanji, Hoshi no Gotoku film drops to #3",
    "title_ar": "فيلم Godzilla Minus Zero يفتتح في المركز الأول في اليابان، وفيلم الأنمي Grotesqqque في المركز الثامن"
-  },
-  "animenewsnetwork.com/news/2026-11-11/gundam-seed-freedom-zero-prequel-anime-film-gets-novel/.243714": {
-   "at": "2026-11-11T21:15:29.167728+00:00",
-   "title": "Gundam Seed Freedom Zero Prequel Anime Film Gets Novel",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-11/gundam-seed-freedom-zero-prequel-anime-film-gets-novel/.243714",
-   "score": 2,
-   "sources": 1,
-   "summary": "Gundam Seed FREEDOM film writer Liu Goto pens new novel slated for January 19 release",
-   "title_ar": "فيلم الأنمي المجهري Gundam Seed Freedom Zero Prequel يحصل على رواية"
   },
   "animenewsnetwork.com/news/2026-11-11/tsugumi-project-anime-reveals-january-2027-premiere/.243744": {
    "at": "2026-11-12T04:15:27.978659+00:00",
@@ -4181,17 +4170,6 @@
    "summary": "GTA 6 is out at midnight everywhere (19th November), but it's far from the only game in town.",
    "title_ar": ""
   },
-  "eurogamer.net/destroy-all-humans-independent-thq-embracer": {
-   "at": "2026-11-11T21:15:29.167728+00:00",
-   "title": "Destroy All Humans remake developer goes independent, splits from THQ Nordic and parent company Embracer Group",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.eurogamer.net/destroy-all-humans-independent-thq-embracer",
-   "score": 3,
-   "sources": 2,
-   "summary": "Black Forest Games - the studio that remade the first two cult-classic Destroy All Humans games - has spun out from under former owners THQ Nordic and Embracer Group.",
-   "title_ar": "مطور نسخة إعادة إنتاج Destroy All Humans يقرر الاستقلال والانفصال عن THQ Nordic والشركة الأم Embracer Group"
-  },
   "eurogamer.net/dragon-quest-series-composer-akira-toriyama": {
    "at": "2026-11-17T13:00:43.909146+00:00",
    "title": "Is it time to retire Dragon Quest as a series? Chrono Trigger composer Yasunori Mitsuda thinks it might be",
@@ -4256,6 +4234,17 @@
    "score": 0,
    "sources": 1,
    "summary": "The Game Awards 2026 nominees have been revealed, and Grand Theft Auto 6 leads the pack with eight nominations, two days before it even launches.",
+   "title_ar": ""
+  },
+  "eurogamer.net/grand-theft-auto-6-breaks-reddit-not-out-yet": {
+   "at": "2026-11-18T21:30:40.169752+00:00",
+   "title": "GTA 6 is so big, it managed to break Reddit - and it isn't even actually out yet",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/grand-theft-auto-6-breaks-reddit-not-out-yet",
+   "score": 0,
+   "sources": 1,
+   "summary": "Grand Theft Auto 6 isn't even out yet, and it's already causing some technical issues over at the game's official Reddit page.",
    "title_ar": ""
   },
   "eurogamer.net/grand-theft-auto-6-meet-the-developers-tackling-it-head-on": {
@@ -4852,6 +4841,17 @@
    "summary": "Grand Theft Auto 6 co-protagonist Jason is, like many Americans, a fan of cats.",
    "title_ar": ""
   },
+  "gamespot.com/articles/kfc-announces-gta-6-promo-where-you-get-a-disc-shaped-piece-of-chicken": {
+   "at": "2026-11-18T21:30:40.169752+00:00",
+   "title": "KFC Announces GTA 6 Promo Where You Get A Disc-Shaped Piece Of Chicken",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.gamespot.com/articles/kfc-announces-gta-6-promo-where-you-get-a-disc-shaped-piece-of-chicken/",
+   "score": 2,
+   "sources": 1,
+   "summary": "A lot of people are upset that they can't get GTA 6 on a physical disc, and KFC is now stepping up to do what Rockstar isn't.",
+   "title_ar": "KFC تعلن عن عرض ترويجي لـ GTA 6 تحصل خلاله على قطعة دجاج على شكل قرص"
+  },
   "gamespot.com/articles/marvel-1943-rise-of-hydra-isnt-canceled-but-dont-get-too-excited": {
    "at": "2026-11-12T12:00:41.421543+00:00",
    "title": "Marvel 1943: Rise Of Hydra Isn’t Canceled, But Don’t Get Too Excited",
@@ -5181,17 +5181,6 @@
    "sources": 2,
    "summary": "Akira Kurabayashi, a company director and head of the software development division at ARIKA, passed …",
    "title_ar": "وفاة المدير في شركة ARIKA، Akira Kurabayashi"
-  },
-  "gematsu.com/2026/11/black-forest-games-splits-from-thq-nordic": {
-   "at": "2026-11-11T21:15:29.167728+00:00",
-   "title": "Black Forest Games splits from THQ Nordic",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gematsu.com/2026/11/black-forest-games-splits-from-thq-nordic",
-   "score": 0,
-   "sources": 1,
-   "summary": "Black Forest Games has split from THQ Nordic after nearly 10 years of ownership, the …",
-   "title_ar": ""
   },
   "gematsu.com/2026/11/book-nook-launches-december-1-for-pc-later-for-switch": {
    "at": "2026-11-16T23:15:32.491737+00:00",
@@ -6975,17 +6964,6 @@
    "summary": "A now-deleted listing for ‘Mega Man Legends — New Media’ was spotted on a ‘What’s Shooting’ page for ACTRA Toronto, hinting that a new game, film, or TV series in the franchise's 'Legends' series is…",
    "title_ar": ""
   },
-  "ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep": {
-   "at": "2026-11-11T21:15:29.167728+00:00",
-   "title": "Nintendo Takes Down Switch Emulators and Mod Chip Firmware In Massive GitHub DMCA Sweep",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
-   "score": 0,
-   "sources": 1,
-   "summary": "Nintendo has sent four DMCA takedown notices to GitHub targeting two Nintendo Switch emulators, Yuzu and Citron Neo, along with mod chip firmware.",
-   "title_ar": ""
-  },
   "ign.com/articles/nvidia-board-is-preparing-to-potentially-oust-ceo-jensen-huang": {
    "at": "2026-11-12T01:00:44.376825+00:00",
    "title": "Nvidia Board Is Preparing to Potentially Oust CEO Jensen Huang",
@@ -7690,6 +7668,17 @@
    "summary": "The PlayStation 5 has seen yet another firmware update, once again improving the console's security ahead of GTA 6's release.",
    "title_ar": ""
   },
+  "insider-gaming.com/ps5-pros-cpu-upgrade-is-not-enough-for-gta-6-at-60-fps": {
+   "at": "2026-11-18T21:30:40.169752+00:00",
+   "title": "PS5 Pro’s CPU Upgrade Is Not Enough for GTA 6 at 60 FPS",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/ps5-pros-cpu-upgrade-is-not-enough-for-gta-6-at-60-fps/",
+   "score": 0,
+   "sources": 1,
+   "summary": "GTA 6 on PS5 Pro adds ray-traced shadows and PSSR improvements, but Rockstar says CPU limits prevent the game from reaching higher FPS.",
+   "title_ar": ""
+  },
   "insider-gaming.com/rainbow-six-vegas-3": {
    "at": "2026-11-13T21:15:27.545641+00:00",
    "title": "EXCLUSIVE: Rainbow Six: Vegas Series Set to Return After Nearly Two Decades",
@@ -7930,6 +7919,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Jason Ronald says neural rendering can generate frames without more hardware power, helping keep Project Helix accessible and affordable.",
+   "title_ar": ""
+  },
+  "kotaku.com/43-soldiers-re-enlisted-in-the-army-in-exchange-for-time-off-to-play-grand-theft-auto-6-im-all-about-the-heist-2000758133": {
+   "at": "2026-11-18T21:30:40.169752+00:00",
+   "title": "43 Soldiers Re-Enlisted In The Army In Exchange For Time Off To Play Grand Theft Auto 6: ‘I’m All About The Heist’",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/43-soldiers-re-enlisted-in-the-army-in-exchange-for-time-off-to-play-grand-theft-auto-6-im-all-about-the-heist-2000758133",
+   "score": 0,
+   "sources": 1,
+   "summary": "An unusual signing bonus",
    "title_ar": ""
   },
   "kotaku.com/a-one-a-two-hoo-a-three-2000756353": {
@@ -8370,17 +8370,6 @@
    "score": 0,
    "sources": 1,
    "summary": "The UK case has rumbled along for years, but a London court ruled the evidence wasn't there",
-   "title_ar": ""
-  },
-  "kotaku.com/sorry-aonuma-rolling-is-still-the-fastest-way-to-get-around-in-zelda-ocarina-of-time-2000755975": {
-   "at": "2026-11-11T21:15:29.167728+00:00",
-   "title": "Sorry, Aonuma, Rolling Is Still The Fastest Way To Get Around In Zelda: Ocarina Of Time",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/sorry-aonuma-rolling-is-still-the-fastest-way-to-get-around-in-zelda-ocarina-of-time-2000755975",
-   "score": 0,
-   "sources": 1,
-   "summary": "Ha!",
    "title_ar": ""
   },
   "kotaku.com/spider-man-2-and-a-bunch-of-other-great-games-are-about-to-look-even-better-on-base-ps5-2000756594": {
@@ -10395,17 +10384,6 @@
    "sources": 1,
    "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
    "title_ar": ""
-  },
-  "techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure": {
-   "at": "2026-11-11T21:15:29.167728+00:00",
-   "title": "Meta is losing its longtime head of infrastructure",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
-   "title_ar": "ميتا تخسر رئيس البنية التحتية القديم لديها"
   },
   "techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline": {
    "at": "2026-11-12T00:00:42.456054+00:00",
@@ -13656,7 +13634,7 @@
  "topic_last_posted": {
   "AI": "2026-11-18T21:15:27.276622+00:00",
   "Anime": "2026-11-18T21:00:42.185991+00:00",
-  "Games": "2026-11-18T20:30:45.248115+00:00",
+  "Games": "2026-11-18T21:30:40.169752+00:00",
   "Tech": "2026-11-18T21:00:42.185991+00:00"
  },
  "digest_day": "2026-11-18",
