@@ -2872,17 +2872,6 @@
    "summary": "Crunchyroll will stream novel series adaptation in January 2027",
    "title_ar": "أنمي Red Riding Hood: A Detective Story يكشف عن رسومات الشخصيات والعروض الدعائية"
   },
-  "crunchyroll.com/news/latest/2026/11/11/sss-class-revival-hunter-anime-ending-theme-song-trailer": {
-   "at": "2026-11-11T10:00:42.122952+00:00",
-   "title": "SSS-Class Revival Hunter Anime Previews Ending Theme Song in New Trailer",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://crunchyroll.com/news/latest/2026/11/11/sss-class-revival-hunter-anime-ending-theme-song-trailer",
-   "score": 1,
-   "sources": 1,
-   "summary": "Crunchyroll will stream the series as it airs",
-   "title_ar": "أنمي SSS-Class Revival Hunter يستعرض أغنية شارة النهاية في عِرض دعائي جديد"
-  },
   "crunchyroll.com/news/latest/2026/11/11/the-legend-of-zelda-ocarina-of-time-remake-fastest-selling-switch-2-game": {
    "at": "2026-11-11T14:30:37.349238+00:00",
    "title": "The Legend of Zelda: Ocarina of Time Remake Becomes Fastest-Selling Switch 2 Game",
@@ -4291,6 +4280,17 @@
    "summary": "YouTube view counts are about to go up (again) thanks to a new metric.",
    "title_ar": ""
   },
+  "engadget.com/2320221/palmer-luckeys-slab-seastead-is-way-cooler-than-a-floating-data-center": {
+   "at": "2026-11-18T10:00:43.613079+00:00",
+   "title": "Palmer Luckey says his SLAB seastead is 'way cooler' than a floating data center",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2320221/palmer-luckeys-slab-seastead-is-way-cooler-than-a-floating-data-center/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Palmer Luckey is touting a new 'SLAB' seastead that would act as a lawless city state.",
+   "title_ar": ""
+  },
   "eurogamer.net/blood-of-dawnwalker-new-game-plus": {
    "at": "2026-11-13T21:00:41.462775+00:00",
    "title": "The Blood of Dawnwalker is getting a New Game Plus mode in next week's update",
@@ -4676,6 +4676,17 @@
    "summary": "Xbox boss Asha Sharma has confirmed Wolfenstein 3 is in development at MachineGames, the Swedish studio behind the acclaimed Wolfenstein: The New Order , Wolfenstein 2: The New Colossal, and 2024's…",
    "title_ar": ""
   },
+  "eurogamer.net/world-of-warcraft-forever-gold-exploit-abusers-suspended-trade-blocked": {
+   "at": "2026-11-18T10:00:43.613079+00:00",
+   "title": "Blizzard suspends World of Warcraft: Forever gold exploit abusers, puts trading blocks on their accounts and removes ill-gotten funds for good measure",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/world-of-warcraft-forever-gold-exploit-abusers-suspended-trade-blocked",
+   "score": 0,
+   "sources": 1,
+   "summary": "Players who abused World of Warcraft: Forever's Blackmaw Hold unintended gold farm, which allowed a small minority of players to hoard thousands of gold in a few days , have drawn the ire of WoW…",
+   "title_ar": ""
+  },
   "eurogamer.net/world-of-warcraft-forever-gold-farm-exploit": {
    "at": "2026-11-17T19:55:41.247763+00:00",
    "title": "World of Warcraft: Forever's in-game economy has been ravaged by an exploit that allowed players to farm thousands of gold",
@@ -4686,17 +4697,6 @@
    "sources": 2,
    "summary": "World of Warcraft: Forever has suffered its first economic nightmare, as a dungeon farm exploit has left some players with thousands of gold in their bags while the vast majority of players are…",
    "title_ar": "تعرض اقتصاد لعبة World of Warcraft: Forever لتخريب كبير بسبب ثغرة سمحت للاعبين بجمع آلاف القطع الذهبية"
-  },
-  "eurogamer.net/zelda-ocarina-of-time-switch-2-sales-nintendo": {
-   "at": "2026-11-11T10:00:42.122952+00:00",
-   "title": "The Legend of Zelda: Ocarina of Time remake sells in huge numbers, becoming the fastest-selling Switch 2 game",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.eurogamer.net/zelda-ocarina-of-time-switch-2-sales-nintendo",
-   "score": 0,
-   "sources": 1,
-   "summary": "The Legend of Zelda: Ocarina of Time remake has been a huge success for Nintendo, becoming the fastest-selling Switch 2 game ever, shifting more than 5.2 million copies in four days.",
-   "title_ar": ""
   },
   "gamespot.com/articles/007-first-light-might-be-the-end-of-the-line-for-james-bonds-favorite-watch": {
    "at": "2026-11-17T20:30:42.274897+00:00",
@@ -8074,6 +8074,17 @@
    "sources": 1,
    "summary": "The sequel that never truly came to be was announced in 2019",
    "title_ar": "Jeff Kaplan يلقي باللوم على الكشف الفوضوي للعبة Overwatch 2 بسبب غرور Blizzard: أنتم حمقى حقاً"
+  },
+  "kotaku.com/palmer-luckey-wants-to-build-a-bioshock-city-in-the-middle-of-the-ocean-thats-definitely-not-a-glorified-ai-data-center-its-way-cooler-than-that-2000757925": {
+   "at": "2026-11-18T10:00:43.613079+00:00",
+   "title": "Palmer Luckey Wants To Build A BioShock City In The Middle Of The Ocean That’s Definitely Not A Glorified AI Data Center: ‘It’s Way Cooler Than That’",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://kotaku.com/palmer-luckey-wants-to-build-a-bioshock-city-in-the-middle-of-the-ocean-thats-definitely-not-a-glorified-ai-data-center-its-way-cooler-than-that-2000757925",
+   "score": 2,
+   "sources": 2,
+   "summary": "The guy who went from VR to drone warfare is ready to launch a sovereign state in the sea",
+   "title_ar": "Palmer Luckey يريد بناء مدينة BioShock في منتصف المحيط والتي بالتأكيد ليست مركز بيانات ذكاء اصطناعي مُمجّد: \"إنها أروع بكثير من ذلك\""
   },
   "kotaku.com/project-helix-next-xbox-microsoft-pc-asha-sharma-series-s-x-2000757405": {
    "at": "2026-11-16T11:45:29.077213+00:00",
@@ -12431,6 +12442,17 @@
    "summary": "The Justice and Commerce Departments have announced an investigation into Megaspeed over concerns that it may have been involved in the illegal export of Nvidia's AI hardware.",
    "title_ar": ""
   },
+  "tomshardware.com/tech-industry/data-centers/usd3-26-million-in-spacex-ai-data-center-revenue-will-be-pumped-back-into-the-city-of-memphis-up-to-usd25-000-on-offer-to-low-income-residents-for-repairs-and-home-improvements": {
+   "at": "2026-11-18T10:00:43.613079+00:00",
+   "title": "$3.26 million in SpaceX AI data center revenue will be pumped back into the City of Memphis",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/usd3-26-million-in-spacex-ai-data-center-revenue-will-be-pumped-back-into-the-city-of-memphis-up-to-usd25-000-on-offer-to-low-income-residents-for-repairs-and-home-improvements",
+   "score": 1,
+   "sources": 1,
+   "summary": "The City of Memphis is making its first major investment, almost $3.3 million, through the Community Benefit Ordinance.",
+   "title_ar": "ضخ 3.26 مليون دولار من إيرادات مركز بيانات الذكاء الاصطناعي التابع لـ SpaceX مرة أخرى في مدينة ممفيس"
+  },
   "tomshardware.com/tech-industry/elon-musk-signs-petition-to-reinstate-jensen-huang-as-nvidia-ceo-over-130-000-sign-online-petition-but-not-all-nvidians-support-jensens-return": {
    "at": "2026-11-15T12:15:28.003685+00:00",
    "title": "Elon Musk signs petition to reinstate Jensen Huang as Nvidia CEO — over 130,000 sign online petition, but not all Nvidians support Jensen's return",
@@ -13238,8 +13260,8 @@
  "topic_last_posted": {
   "AI": "2026-11-18T01:00:44.231153+00:00",
   "Anime": "2026-11-18T01:45:25.858220+00:00",
-  "Games": "2026-11-18T05:15:29.134888+00:00",
-  "Tech": "2026-11-18T08:00:45.108104+00:00"
+  "Games": "2026-11-18T10:00:43.613079+00:00",
+  "Tech": "2026-11-18T10:00:43.613079+00:00"
  },
  "digest_day": "2026-11-17",
  "weekly_day": "2026-11-13"
