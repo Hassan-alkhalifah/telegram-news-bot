@@ -8779,6 +8779,17 @@
    "summary": "The dev team also has another update on the way.",
    "title_ar": ""
   },
+  "nintendolife.com/news/2026/11/splatoon-3-version-12-0-0-update-out-now-here-are-the-full-patch-notes": {
+   "at": "2026-11-18T01:00:44.231153+00:00",
+   "title": "Splatoon 3 Version 12.0.0 Update Out Now, Here Are The Full Patch Notes",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/splatoon-3-version-12-0-0-update-out-now-here-are-the-full-patch-notes",
+   "score": 0,
+   "sources": 1,
+   "summary": "The dev team also has another update on the way.",
+   "title_ar": ""
+  },
   "nintendolife.com/news/2026/11/that-was-very-tough-indiana-jones-dev-struggled-to-transition-from-gunplay": {
    "at": "2026-11-17T00:30:36.360305+00:00",
    "title": "\"That Was Very Tough\" - Indiana Jones Dev Struggled To Transition From Gunplay",
@@ -10825,6 +10836,17 @@
    "summary": "Nvidia's interim CEO says the company is done selling chips to China.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now": {
+   "at": "2026-11-18T01:00:44.231153+00:00",
+   "title": "Nvidia promises that revenue will keep soaring — for now",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+   "title_ar": "Nvidia تعد بأن تستمر الإيرادات في الارتفاع الصاروخي — في الوقت الحالي"
+  },
   "techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo": {
    "at": "2026-11-17T22:45:27.301875+00:00",
    "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
@@ -11341,17 +11363,6 @@
    "sources": 1,
    "summary": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation.",
    "title_ar": "شركات الوساطة الأمريكية للبيانات تبيع بيئات تدريب للذكاء الاصطناعي بقيمة نصف مليار دولار لمختبرات صينية"
-  },
-  "theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now": {
-   "at": "2026-11-11T00:45:30.160305+00:00",
-   "title": "Anthropic has its own AI-powered office suite now",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
-   "score": 1,
-   "sources": 1,
-   "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to…",
-   "title_ar": "شركة Anthropic تطلق حزمة مكتبية مدعومة بالذكاء الاصطناعي"
   },
   "theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model": {
    "at": "2026-11-11T15:45:31.215182+00:00",
@@ -13258,7 +13269,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-18T00:30:35.883916+00:00",
+  "AI": "2026-11-18T01:00:44.231153+00:00",
   "Anime": "2026-11-17T17:30:36.296181+00:00",
   "Games": "2026-11-17T22:00:49.505897+00:00",
   "Tech": "2026-11-18T00:45:28.867219+00:00"
