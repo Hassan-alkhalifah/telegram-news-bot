@@ -650,17 +650,6 @@
    "summary": "The tentpole feature of iCloud+ is cloud storage, but Apple keeps improving and expanding the service to include other perks too.",
    "title_ar": "iCloud+ يحصل على ميزة جديدة في iOS 18 إذا دفعت مقابل مساحة تخزين إضافية"
   },
-  "9to5mac.com/2026/11/11/ios-27-3-adds-new-setting-to-bypass-website-cookie-popups-eventually": {
-   "at": "2026-11-11T15:15:28.924897+00:00",
-   "title": "iOS 27.3 adds new setting to bypass website cookie popups (eventually)",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/11/ios-27-3-adds-new-setting-to-bypass-website-cookie-popups-eventually/",
-   "score": 0,
-   "sources": 1,
-   "summary": "iOS 27.3 is currently in beta and packed with new features , including a ‘Global Privacy Control’ setting in Safari that could someday put an end to cookie consent pop-ups. more…",
-   "title_ar": ""
-  },
   "9to5mac.com/2026/11/11/iphone-is-the-winner-of-new-battery-test-topping-all-androids": {
    "at": "2026-11-11T16:30:40.090607+00:00",
    "title": "iPhone is the winner of new battery test, topping all Androids",
@@ -1827,17 +1816,6 @@
    "summary": "Anime Frontier to host premiere screening on December 6 alongside Shangri-La Frontier , Fate Rewinder",
    "title_ar": ""
   },
-  "animenewsnetwork.com/news/2026-11-11/cyberagent-announces-business-alliance-with-animation-studio-mappa/.243717": {
-   "at": "2026-11-11T15:15:28.924897+00:00",
-   "title": "CyberAgent Announces Business Alliance With Animation Studio MAPPA",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-11/cyberagent-announces-business-alliance-with-animation-studio-mappa/.243717",
-   "score": 0,
-   "sources": 1,
-   "summary": "CyberAgent has acquired stake in MAPPA's parent company MHD Co.",
-   "title_ar": ""
-  },
   "animenewsnetwork.com/news/2026-11-11/falcom-reveals-sequel-for-the-legend-of-heroes-trails-beyond-the-horizon-game/.243725": {
    "at": "2026-11-11T18:15:27.122064+00:00",
    "title": "Falcom Reveals Sequel for The Legend of Heroes: Trails beyond the Horizon Game",
@@ -2794,17 +2772,6 @@
    "sources": 1,
    "summary": "Ride X-Eggs, Seed X-Eggs and more will be available as part of the collab",
    "title_ar": "Kamen Rider MY-TH يطلق تعاوناً رسمياً مع Tom and Jerry"
-  },
-  "crunchyroll.com/news/latest/2026/11/11/monogatari-series-secret-society-holox-collaboration-exhibition": {
-   "at": "2026-11-11T15:15:28.924897+00:00",
-   "title": "Monogatari Series and Secret Society holoX Announce Collab and Exhibition",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://crunchyroll.com/news/latest/2026/11/11/monogatari-series-secret-society-holox-collaboration-exhibition",
-   "score": 1,
-   "sources": 1,
-   "summary": "The exhibition kicks off in Shibuya on January 3, 2027",
-   "title_ar": "سلسلة Monogatari و Secret Society holoX تعلنان عن تعاون ومعرض"
   },
   "crunchyroll.com/news/latest/2026/11/11/red-riding-hood-a-detective-story-anime-character-art-trailers": {
    "at": "2026-11-11T16:15:31.205594+00:00",
@@ -4500,6 +4467,17 @@
    "summary": "Good Fun Corp, the studio made up of the original developers behind Hell Let Loose, has finally announced a release date for its anticipated next project: Hunger.",
    "title_ar": ""
   },
+  "eurogamer.net/infinity-nikki-elon-musk-maye-mother-fan-reaction": {
+   "at": "2026-11-18T15:15:31.160637+00:00",
+   "title": "Infinity Nikki fans threaten to boycott game after promotion by Elon Musk's mother, but there may be a genuine reason for her involvement",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.eurogamer.net/infinity-nikki-elon-musk-maye-mother-fan-reaction",
+   "score": 2,
+   "sources": 2,
+   "summary": "Infinity Nikki , the free-to-play, cozy, open-world dress-up game, is at the centre of controversy again, though this time not because fans disliked one of the game's updates .",
+   "title_ar": "عشاق لعبة Infinity Nikki يهددون بمقاطعة اللعبة بعد الترويج لها من قبل والدة Elon Musk، ولكن قد يكون هناك سبب حقيقي لمشاركتها"
+  },
   "eurogamer.net/katsuhiro-harada-xbox-series-s-wish-it-wouldnt-release": {
    "at": "2026-11-11T16:15:31.205594+00:00",
    "title": "\"I wish hardware like the Xbox Series S wouldn't be released\" - former Tekken director Katsuhiro Harada trashes Microsoft's console in front of senior Xbox staff",
@@ -4784,6 +4762,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Rockstar's Grand Theft Auto 6 launches on November 19, and it's expected to be a gigantic commercial success, but just how big will the launch be?",
+   "title_ar": ""
+  },
+  "gamespot.com/articles/gta-6-finally-changed-the-default-rockstar-game-controls": {
+   "at": "2026-11-18T15:15:31.160637+00:00",
+   "title": "GTA 6 Finally Changed The Default Rockstar-Game Controls",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/gta-6-finally-changed-the-default-rockstar-game-controls/",
+   "score": 0,
+   "sources": 1,
+   "summary": "If you've played Rockstar series like Grand Theft Auto or Read Dead Redemption over the past few decades, then you're familiar with their default control scheme, which maps sprinting to a face…",
    "title_ar": ""
   },
   "gamespot.com/articles/gta-6-has-a-lot-of-different-bird-species-heres-how-many": {
@@ -8383,17 +8372,6 @@
    "summary": "Wanda has been M.I.A. since Doctor Strange in the Multiverse of Madness",
    "title_ar": ""
   },
-  "kotaku.com/visionquest-post-credits-wanda-scarlet-witch-doctor-doom-doomsday-2000755899": {
-   "at": "2026-11-11T15:15:28.924897+00:00",
-   "title": "VisionQuest’s Post-Credits Scene Has Marvel Fans Losing Their Minds, And Has Major Ramifications For Doomsday",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/visionquest-post-credits-wanda-scarlet-witch-doctor-doom-doomsday-2000755899",
-   "score": 0,
-   "sources": 1,
-   "summary": "I know some folks bought tickets for the upcoming crossover movie immediately",
-   "title_ar": ""
-  },
   "kotaku.com/we-got-before-gta6-memes-jokes-grand-theft-auto-6-2000757813": {
    "at": "2026-11-18T09:00:59.512866+00:00",
    "title": "RIP To ‘We Got X Before GTA 6’ Memes",
@@ -9096,6 +9074,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Well, there's no accounting for taste.",
+   "title_ar": ""
+  },
+  "pcgamer.com/games/adventure/elon-musks-mother-is-promoting-a-dress-up-gacha-game-for-some-reason": {
+   "at": "2026-11-18T15:15:31.160637+00:00",
+   "title": "Elon Musk's mother is promoting a dress-up gacha game, for some reason",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/games/adventure/elon-musks-mother-is-promoting-a-dress-up-gacha-game-for-some-reason/",
+   "score": 0,
+   "sources": 1,
+   "summary": "I mean, sure.",
    "title_ar": ""
   },
   "pcgamer.com/games/crimson-desert-wins-pc-game-of-the-year-at-the-2026-golden-joystick-awards": {
@@ -9877,6 +9866,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Making light work of it.",
+   "title_ar": ""
+  },
+  "pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum": {
+   "at": "2026-11-18T15:15:31.160637+00:00",
+   "title": "GTA 6 PS5 Trophies Revealed, 100% Completion Needed for the Platinum",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum",
+   "score": 0,
+   "sources": 1,
+   "summary": "Strap in for the long haul.",
    "title_ar": ""
   },
   "pushsquare.com/news/2026/11/gta-6-requires-new-ps5-firmware-update-to-play": {
@@ -12915,6 +12915,17 @@
    "summary": "The game currently sits at a score of 99, alongside The Legend of Zelda: Ocarina of Time",
    "title_ar": ""
   },
+  "videogameschronicle.com/news/gta-6-base-ps5-performance-analysis-shows-struggle-to-maintain-30-fps-at-all-times": {
+   "at": "2026-11-18T15:15:31.160637+00:00",
+   "title": "GTA 6 base PS5 performance analysis shows ‘struggle’ to maintain 30 FPS at all times",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.videogameschronicle.com/news/gta-6-base-ps5-performance-analysis-shows-struggle-to-maintain-30-fps-at-all-times/",
+   "score": 0,
+   "sources": 1,
+   "summary": "GTA 6 can maintain 30 FPS on PS5 Pro, but not base PS5",
+   "title_ar": ""
+  },
   "videogameschronicle.com/news/gta-6-is-the-most-nominated-game-at-the-game-awards-2026": {
    "at": "2026-11-17T17:30:36.296181+00:00",
    "title": "GTA 6 is the most nominated game at The Game Awards 2026",
@@ -13403,7 +13414,7 @@
  "topic_last_posted": {
   "AI": "2026-11-18T14:45:28.968423+00:00",
   "Anime": "2026-11-18T14:30:41.729060+00:00",
-  "Games": "2026-11-18T14:15:28.155067+00:00",
+  "Games": "2026-11-18T15:15:31.160637+00:00",
   "Tech": "2026-11-18T15:00:49.228603+00:00"
  },
  "digest_day": "2026-11-17",
