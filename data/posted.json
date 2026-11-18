@@ -1,17 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/11/android-auto-gemini-intelligence-pixel": {
-   "at": "2026-11-11T18:00:44.161979+00:00",
-   "title": "Android Auto is getting a Gemini upgrade, but only if you use a Pixel",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5google.com/2026/11/11/android-auto-gemini-intelligence-pixel/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Google has confirmed that Gemini on Android Auto is adding “proactive suggestions” soon, but only for Pixel users. more…",
-   "title_ar": ""
-  },
   "9to5google.com/2026/11/11/google-home-brings-back-sounds-for-gemini-and-im-both-elated-and-irritated-video": {
    "at": "2026-11-11T19:00:43.856829+00:00",
    "title": "Google Home brings back sounds for Gemini, and I’m both elated and irritated [Video]",
@@ -33,17 +22,6 @@
    "sources": 1,
    "summary": "A new Google Home update is rolling out with a fix for “Live View” issues affecting Nest Cam devices, improvements for the Nest Hub, upgrades for Gemini, and more. more…",
    "title_ar": "تحديث Google Home يحل مشاكل العرض المباشر (Live View) لأجهزة Nest، ويحسن أجهزة Nest Hub ومساعد Gemini للسماعات"
-  },
-  "9to5google.com/2026/11/11/google-pixel-tag-launch-countries": {
-   "at": "2026-11-11T18:00:44.161979+00:00",
-   "title": "Google Pixel Tag is only available in 8 countries, and excludes Europe",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5google.com/2026/11/11/google-pixel-tag-launch-countries/",
-   "score": 0,
-   "sources": 1,
-   "summary": "With Google’s Pixel Tag now offiically available, Google has also confirmed where the Android Find Hub tracker will be on sale, and it’s a limited list. more…",
-   "title_ar": ""
   },
   "9to5google.com/2026/11/11/google-voice-rcs-support-teardown": {
    "at": "2026-11-11T19:15:28.995119+00:00",
@@ -2553,6 +2531,17 @@
    "summary": "Season 2's key visual, character visuals also revealed",
    "title_ar": ""
   },
+  "animenewsnetwork.com/news/2026-11-18/sumikko-gurashi-franchise-new-switch-2-game-launches-on-november-19/.243949": {
+   "at": "2026-11-18T18:00:56.960760+00:00",
+   "title": "Sumikko Gurashi Franchise's New Switch 2 Game Launches on November 19",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-18/sumikko-gurashi-franchise-new-switch-2-game-launches-on-november-19/.243949",
+   "score": 1,
+   "sources": 1,
+   "summary": "Players run hot spring in Sumikkogurashi Welcome to Poka Poka Onsen game",
+   "title_ar": "إطلاق لعبة جديدة لسلسلة Sumikko Gurashi على جهاز Switch 2 في 19 نوفمبر"
+  },
   "arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns": {
    "at": "2026-11-13T17:30:38.535994+00:00",
    "title": "AI is \"the most likely reason\" you'll die, OpenAI board member warns",
@@ -4698,6 +4687,17 @@
    "summary": "The Game Awards will air on Disney+ this year, and along with that, Disney has teased \"major announcements and surprises\" for its own games at the event.",
    "title_ar": ""
   },
+  "gamespot.com/articles/dont-expect-to-see-vice-city-for-a-long-time-in-gta-6": {
+   "at": "2026-11-18T18:00:56.960760+00:00",
+   "title": "Don’t Expect To See Vice City For A Long Time In GTA 6",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/dont-expect-to-see-vice-city-for-a-long-time-in-gta-6/",
+   "score": 0,
+   "sources": 1,
+   "summary": "For those still waiting for GTA 6 to unlock, it's possible you have something of a mistaken impression of what the early hours will look like.",
+   "title_ar": ""
+  },
   "gamespot.com/articles/ea-begs-you-to-not-delete-madden-27-for-gta-6": {
    "at": "2026-11-16T21:01:26.567559+00:00",
    "title": "EA Begs You To Not Delete Madden 27 For GTA 6",
@@ -5830,17 +5830,6 @@
    "sources": 1,
    "summary": "Samsung was the first smartphone brand to offer a variable aperture main camera, with the Galaxy S9 and S9+ back in 2018.",
    "title_ar": "الشائعات تشير إلى الموعد الجديد لجلب سامسونج لفتحة العدسة المتغيرة إلى هواتِفها الرائدة Pro و Ultra"
-  },
-  "gsmarena.com/heres_your_first_look_at_nothings_upcoming_screenless_ainative_device-news-75439.php": {
-   "at": "2026-11-11T18:00:44.161979+00:00",
-   "title": "Here's your first look at Nothing's upcoming screenless AI-native device",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.gsmarena.com/heres_your_first_look_at_nothings_upcoming_screenless_ainative_device-news-75439.php",
-   "score": 1,
-   "sources": 1,
-   "summary": "Nothing CEO Carl Pei recently confirmed that the company would launch its first AI-native product next month, sharing an early teaser of the device.",
-   "title_ar": "إليك نظرتك الأولى على جهاز Nothing القادم المدعوم بالذكاء الاصطناعي بلا شاشة"
   },
   "gsmarena.com/honor_700_series_launch_date_is_official_just_as_a_carrier_listing_reveals_most_specs-news-75471.php": {
    "at": "2026-11-13T13:30:37.071510+00:00",
@@ -13512,10 +13501,10 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-18T17:45:45.588246+00:00",
-  "Anime": "2026-11-18T14:30:41.729060+00:00",
+  "Anime": "2026-11-18T18:00:56.960760+00:00",
   "Games": "2026-11-18T17:15:30.738582+00:00",
   "Tech": "2026-11-18T17:30:38.146394+00:00"
  },
- "digest_day": "2026-11-17",
+ "digest_day": "2026-11-18",
  "weekly_day": "2026-11-13"
 }
