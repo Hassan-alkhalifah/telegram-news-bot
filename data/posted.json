@@ -1662,17 +1662,6 @@
    "summary": "Love Live!",
    "title_ar": ""
   },
-  "animecorner.me/mashle-season-3-reveals-first-main-trailer-and-new-key-visual-january-9-premiere": {
-   "at": "2026-11-11T11:30:35.922528+00:00",
-   "title": "Mashle Season 3 Reveals First Main Trailer and New Key Visual, January 9 Premiere",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://animecorner.me/mashle-season-3-reveals-first-main-trailer-and-new-key-visual-january-9-premiere/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Mashle: Magic and Muscles Season 3 TV anime revealed the first main and new key visual, along with a January 9, 2027 premiere date.",
-   "title_ar": ""
-  },
   "animecorner.me/mistress-kanan-is-devilishly-easy-season-2-anime-reveals-visual-trailer-additional-cast": {
    "at": "2026-11-17T11:00:42.907888+00:00",
    "title": "Mistress Kanan Is Devilishly Easy Season 2 Anime Reveals Visual, Trailer, Additional Cast",
@@ -6193,6 +6182,17 @@
    "sources": 1,
    "summary": "Sharp has announced the Aquos sense11, the latest in its line of mid-range phones for Japan.",
    "title_ar": "Sharp تكشف عن هاتف Aquos sense11 النحيف والخفيف مع شاشة OLED بسطوع 3000 شمعة"
+  },
+  "gsmarena.com/the_apple_homeview_is_a_repairability_nightmare-news-75519.php": {
+   "at": "2026-11-18T11:45:28.855882+00:00",
+   "title": "The Apple HomeView is a repairability nightmare",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.gsmarena.com/the_apple_homeview_is_a_repairability_nightmare-news-75519.php",
+   "score": 1,
+   "sources": 1,
+   "summary": "The Apple HomeView made its debut over a month ago, and the folks over at iFixit have now performed their signature teardown test.",
+   "title_ar": "جهاز Apple HomeView يُعد كابوساً فيما يتعلق بسهولة الإصلاح"
   },
   "gsmarena.com/this_is_what_the_camera_island_on_the_galaxy_s27_pro_and_ultra_looks_like-news-75487.php": {
    "at": "2026-11-16T10:45:40.604434+00:00",
@@ -13025,17 +13025,6 @@
    "summary": "Logitech says that its workers can take a day off for GTA 6, or another new game",
    "title_ar": ""
   },
-  "videogameschronicle.com/news/playstation-5-officially-clears-100-million-consoles-shipped": {
-   "at": "2026-11-11T11:30:35.922528+00:00",
-   "title": "PlayStation 5 officially clears 100 million consoles shipped",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.videogameschronicle.com/news/playstation-5-officially-clears-100-million-consoles-shipped/",
-   "score": 0,
-   "sources": 1,
-   "summary": "PS5 reached the 100m milestone a few months slower than PS4",
-   "title_ar": ""
-  },
   "videogameschronicle.com/news/playstation-beats-2-6-billion-lawsuit-over-its-game-prices": {
    "at": "2026-11-17T16:15:29.055263+00:00",
    "title": "PlayStation beats $2.6 billion lawsuit over its game prices",
@@ -13338,7 +13327,7 @@
   "AI": "2026-11-18T11:30:33.937179+00:00",
   "Anime": "2026-11-18T11:30:33.937179+00:00",
   "Games": "2026-11-18T10:40:34.107765+00:00",
-  "Tech": "2026-11-18T11:00:43.741979+00:00"
+  "Tech": "2026-11-18T11:45:28.855882+00:00"
  },
  "digest_day": "2026-11-17",
  "weekly_day": "2026-11-13"
