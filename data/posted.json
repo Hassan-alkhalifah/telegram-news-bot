@@ -1,17 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/11/google-home-update-nest-hub-gemini-cameras": {
-   "at": "2026-11-11T19:30:37.369868+00:00",
-   "title": "Google Home update fixes Nest ‘Live View’ issues, improves Nest Hub and Gemini for speakers",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/11/google-home-update-nest-hub-gemini-cameras/",
-   "score": 1,
-   "sources": 1,
-   "summary": "A new Google Home update is rolling out with a fix for “Live View” issues affecting Nest Cam devices, improvements for the Nest Hub, upgrades for Gemini, and more. more…",
-   "title_ar": "تحديث Google Home يحل مشاكل العرض المباشر (Live View) لأجهزة Nest، ويحسن أجهزة Nest Hub ومساعد Gemini للسماعات"
-  },
   "9to5google.com/2026/11/11/motorola-ma2-wireless-android-auto-adapter-launch": {
    "at": "2026-11-12T01:30:36.235017+00:00",
    "title": "Motorola MA2 wireless Android Auto adapter is now available, but at nearly twice the price",
@@ -10396,17 +10385,6 @@
    "summary": "And it's mandatory.",
    "title_ar": ""
   },
-  "techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair": {
-   "at": "2026-11-11T19:30:37.369868+00:00",
-   "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
-   "title_ar": ""
-  },
   "techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec": {
    "at": "2026-11-11T23:30:38.099558+00:00",
    "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
@@ -13179,6 +13157,17 @@
    "summary": "An apparent GTA 6 map is being shared around online, having been spotted at Selfridges in the UK",
    "title_ar": "تسريب خريطة GTA 6 على ما يبدو في فعالية لبيع بضائع Selfridges"
   },
+  "videogameschronicle.com/news/gta-6-players-discover-our-real-first-look-at-the-game-was-likely-hidden-in-a-2021-remaster": {
+   "at": "2026-11-18T19:45:31.552390+00:00",
+   "title": "GTA 6 players discover our real first look at the game was likely hidden in a 2021 remaster",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.videogameschronicle.com/news/gta-6-players-discover-our-real-first-look-at-the-game-was-likely-hidden-in-a-2021-remaster/",
+   "score": 2,
+   "sources": 1,
+   "summary": "The image from 2021 may have been our first look at GTA 6",
+   "title_ar": "لاعبو GTA 6 يكتشفون أن أول نظرة حقيقية لنا على اللعبة ربما كانت مخفية في نسخة معاد تحسينها صدرت عام 2021"
+  },
   "videogameschronicle.com/news/halo-campaign-evolved-is-getting-firefight-in-a-free-update": {
    "at": "2026-11-12T19:00:43.692442+00:00",
    "title": "Halo: Campaign Evolved is getting Firefight in a free update",
@@ -13634,7 +13623,7 @@
  "topic_last_posted": {
   "AI": "2026-11-18T19:30:36.392427+00:00",
   "Anime": "2026-11-18T19:09:41.976096+00:00",
-  "Games": "2026-11-18T19:00:46.389050+00:00",
+  "Games": "2026-11-18T19:45:31.552390+00:00",
   "Tech": "2026-11-18T19:15:29.036433+00:00"
  },
  "digest_day": "2026-11-18",
