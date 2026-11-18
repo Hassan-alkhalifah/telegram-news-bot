@@ -573,28 +573,6 @@
    "summary": "Crypto exchange Binance has warned iPhone users about an iOS vulnerability that could allow malicious apps to access sensitive data stored by other apps.",
    "title_ar": "منصة Binance تحذر مالكي أجهزة iPhone من ثغرة أمنية يقول الباحثون إنها لا تزال غير مُصلحة"
   },
-  "9to5mac.com/2026/11/11/icloud-has-new-perk-in-ios-27-if-you-pay-for-more-storage": {
-   "at": "2026-11-11T19:45:31.665323+00:00",
-   "title": "iCloud+ has new perk in iOS 27 if you pay for more storage",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/11/icloud-has-new-perk-in-ios-27-if-you-pay-for-more-storage/",
-   "score": 1,
-   "sources": 1,
-   "summary": "The tentpole feature of iCloud+ is cloud storage, but Apple keeps improving and expanding the service to include other perks too.",
-   "title_ar": "iCloud+ يحصل على ميزة جديدة في iOS 18 إذا دفعت مقابل مساحة تخزين إضافية"
-  },
-  "9to5mac.com/2026/11/11/openais-personal-finance-features-for-chatgpt-expands-to-mac-app": {
-   "at": "2026-11-11T20:00:40.805454+00:00",
-   "title": "OpenAI’s personal finance features for ChatGPT expands to Mac app",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/11/openais-personal-finance-features-for-chatgpt-expands-to-mac-app/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Earlier this year, OpenAI introduced ChatGPT Finances.",
-   "title_ar": "ميزات التمويل الشخصي من OpenAI لـ ChatGPT تتوسع لتشمل تطبيق Mac"
-  },
   "9to5mac.com/2026/11/12/30-of-iphone-duo-buyers-may-have-returned-it-but-i-dont-think-apple-should-worry": {
    "at": "2026-11-12T13:00:46.916755+00:00",
    "title": "30% of iPhone Duo buyers may have returned it, but I don’t think Apple should worry",
@@ -1540,6 +1518,17 @@
    "sources": 1,
    "summary": "Leaker Ice Universe says Apple is currently developing four models of the 20th anniversary iPhone which we’ve been referring to as the iPhone 20 .",
    "title_ar": "مسرب يدعي أن Apple تطور أربعة طرازات من آيفون بمناسبة الذكرى العشرين"
+  },
+  "9to5mac.com/2026/11/18/new-leaks-detail-next-years-iphone-pro-redesign-and-iphone-duo-2": {
+   "at": "2026-11-18T20:00:48.512263+00:00",
+   "title": "New leaks detail next year’s iPhone Pro redesign and iPhone Duo 2",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/18/new-leaks-detail-next-years-iphone-pro-redesign-and-iphone-duo-2/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Next year’s fall iPhone lineup is expected to include 20th anniversary redesigned Pro models and an iPhone Duo 2.",
+   "title_ar": ""
   },
   "9to5mac.com/2026/11/18/the-uk-and-some-other-countries-dont-get-more-siri-ai-usage-with-icloud": {
    "at": "2026-11-18T17:00:45.850781+00:00",
@@ -4191,17 +4180,6 @@
    "sources": 2,
    "summary": "Black Forest Games - the studio that remade the first two cult-classic Destroy All Humans games - has spun out from under former owners THQ Nordic and Embracer Group.",
    "title_ar": "مطور نسخة إعادة إنتاج Destroy All Humans يقرر الاستقلال والانفصال عن THQ Nordic والشركة الأم Embracer Group"
-  },
-  "eurogamer.net/dont-expect-elder-scrolls-6-sentinel-for-some-time-bethesda": {
-   "at": "2026-11-11T19:45:31.665323+00:00",
-   "title": "Don't expect more information on The Elder Scrolls 6: Sentinel \"for some time,\" Bethesda says",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.eurogamer.net/dont-expect-elder-scrolls-6-sentinel-for-some-time-bethesda",
-   "score": 0,
-   "sources": 1,
-   "summary": "After Bethesda formally named The Elder Scrolls 6: Sentinel earlier this month, some series fans were hopeful that more news wasn't far behind.",
-   "title_ar": ""
   },
   "eurogamer.net/dragon-quest-series-composer-akira-toriyama": {
    "at": "2026-11-17T13:00:43.909146+00:00",
@@ -7358,17 +7336,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Fable fans can now view the new Bowerstone map for the reboot releasing in February 2027 in the XBOX 25th Anniversary Magazine.",
-   "title_ar": ""
-  },
-  "insider-gaming.com/former-tekken-director-feels-xbox-series-s-is-extra-work-for-a-slightly-weaker-child": {
-   "at": "2026-11-11T20:00:40.805454+00:00",
-   "title": "Former Tekken Director Feels XBOX Series S is “Extra Work for a Slightly Weaker Child”",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/former-tekken-director-feels-xbox-series-s-is-extra-work-for-a-slightly-weaker-child/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Katsuhiro Harada didn't hold back any punches when sharing his feelings on the XBOX Series S in front of senior XBOX official.",
    "title_ar": ""
   },
   "insider-gaming.com/four-minutes-new-fable-gameplay-released": {
@@ -11276,6 +11243,17 @@
    "summary": "Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation": {
+   "at": "2026-11-18T20:00:48.512263+00:00",
+   "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
+   "title_ar": "منصة إدارة المصروفات Payhawk تعلن عن جمع 280 مليون دولار وتقييم بملياري دولار"
+  },
   "technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking": {
    "at": "2026-11-12T21:15:29.818668+00:00",
    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
@@ -13624,7 +13602,7 @@
   "AI": "2026-11-18T19:30:36.392427+00:00",
   "Anime": "2026-11-18T19:09:41.976096+00:00",
   "Games": "2026-11-18T19:45:31.552390+00:00",
-  "Tech": "2026-11-18T19:15:29.036433+00:00"
+  "Tech": "2026-11-18T20:00:48.512263+00:00"
  },
  "digest_day": "2026-11-18",
  "weekly_day": "2026-11-13"
