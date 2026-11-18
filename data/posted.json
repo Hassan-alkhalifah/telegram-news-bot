@@ -1,17 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/10/gemini-app-4-carbon": {
-   "at": "2026-11-11T00:30:39.786741+00:00",
-   "title": "Gemini 4 Carbon rolling out to Gemini app for AI Ultra, Argon remains",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5google.com/2026/11/10/gemini-app-4-carbon/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Following the preview at the end of last month , Google is now bringing its latest Gemini 4 Carbon model to the Gemini app. more…",
-   "title_ar": ""
-  },
   "9to5google.com/2026/11/10/nintendo-will-soon-discontinue-google-and-apple-sign-ins": {
    "at": "2026-11-11T02:00:42.717663+00:00",
    "title": "Nintendo will soon discontinue Google and Apple sign-ins",
@@ -1573,6 +1562,17 @@
    "sources": 1,
    "summary": "OpenAI kicked off the GPT-6 generation with Astra in September , then upgraded Sol to GPT-6.1 a few weeks later at DevDay .",
    "title_ar": ""
+  },
+  "9to5mac.com/2026/11/17/report-iphone-set-to-gain-market-share-in-2027-amid-industry-wide-slump": {
+   "at": "2026-11-18T00:45:28.867219+00:00",
+   "title": "Report: iPhone set to gain market share in 2027 amid industry-wide slump",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/17/report-iphone-set-to-gain-market-share-in-2027-amid-industry-wide-slump/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Apple could see iPhone shipments rise 7% next year, giving it a 26% share of global smartphone shipments, according to a new report.",
+   "title_ar": "تقرير: iPhone في طريقه لزيادة حصته السوقية في عام 2027 وسط ركود يضرب الصناعة بأكملها"
   },
   "9to5mac.com/2026/11/17/vsco-launches-its-first-native-mac-photo-editor-with-raw-support-batch-editing-more": {
    "at": "2026-11-17T17:00:45.712547+00:00",
@@ -3532,17 +3532,6 @@
    "summary": "Samsung has discontinued Samsung Messages in favor of Google Messages in the US, and it looks like another One UI feature may suffer the same fate.",
    "title_ar": "سامسونگ قد تتخلص من ميزة أخرى في واجهة One UI"
   },
-  "engadget.com/2312022/google-fi-super-network-automatic-carrier-switching": {
-   "at": "2026-11-11T00:30:39.786741+00:00",
-   "title": "Google Fi announces super network automatic carrier switching for improved speed and reception",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2312022/google-fi-super-network-automatic-carrier-switching/",
-   "score": 2,
-   "sources": 1,
-   "summary": "It's rolling out first on Pixel phones before wider availability arrives in 2027.",
-   "title_ar": "Google Fi تعلن عن ميزة التبديل التلقائي لشبكات الاتصال الخلوية لتحسين السرعة والاستقبال"
-  },
   "engadget.com/2312107/built-in-windows-tool-diagnose-pc-battery-health-powercfg": {
    "at": "2026-11-14T20:45:28.455167+00:00",
    "title": "This built-in Windows tool can diagnose your PC's battery health",
@@ -3575,17 +3564,6 @@
    "sources": 1,
    "summary": "There's a suite of features with Google's Health app, but you've likely overlooked the intuitive food tracking function that helps keep your diet in check.",
    "title_ar": "ميزة مظلومة في تطبيق Google Health تجعل تتبع الطعام أقل إزعاجاً"
-  },
-  "engadget.com/2312969/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works": {
-   "at": "2026-11-11T00:30:39.786741+00:00",
-   "title": "iFixit teardown shows how Apple's glowing PROLED MacBook logo works",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.engadget.com/2312969/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The new laptop goes the extra mile to recreate the iconic feature.",
-   "title_ar": ""
   },
   "engadget.com/2313048/apple-maps-hidden-features-users-should-know": {
    "at": "2026-11-15T13:45:24.442819+00:00",
@@ -9065,6 +9043,17 @@
    "summary": "Macca and Friends is coming to Weazel TV on November 19.",
    "title_ar": ""
   },
+  "pcgamer.com/games/grand-theft-auto/newzoo-analyst-expects-grand-theft-auto-to-turn-around-a-rough-year-for-console-gaming-without-gta-6-the-console-market-would-likely-be-down-year-over-year-in-2026": {
+   "at": "2026-11-18T00:45:28.867219+00:00",
+   "title": "Newzoo analyst expects Grand Theft Auto to turn around a rough year for console gaming: 'without GTA 6 the console market would likely be down year-over-year in 2026'",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/games/grand-theft-auto/newzoo-analyst-expects-grand-theft-auto-to-turn-around-a-rough-year-for-console-gaming-without-gta-6-the-console-market-would-likely-be-down-year-over-year-in-2026/",
+   "score": 0,
+   "sources": 1,
+   "summary": "There's a lot riding on Jason and Lucia.",
+   "title_ar": ""
+  },
   "pcgamer.com/games/grand-theft-auto/palworld-developer-pocketpair-gives-employees-time-off-for-a-5-day-business-trip-in-vice-city-when-gta-6-launches": {
    "at": "2026-11-12T22:15:30.200216+00:00",
    "title": "Palworld developer Pocketpair gives employees time off for 'a 5-day business trip in Vice City when GTA 6 launches'",
@@ -11364,17 +11353,6 @@
    "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to…",
    "title_ar": "شركة Anthropic تطلق حزمة مكتبية مدعومة بالذكاء الاصطناعي"
   },
-  "theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout": {
-   "at": "2026-11-11T00:30:39.786741+00:00",
-   "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-   "score": 0,
-   "sources": 1,
-   "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago.",
-   "title_ar": ""
-  },
   "theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model": {
    "at": "2026-11-11T15:45:31.215182+00:00",
    "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
@@ -13283,7 +13261,7 @@
   "AI": "2026-11-18T00:30:35.883916+00:00",
   "Anime": "2026-11-17T17:30:36.296181+00:00",
   "Games": "2026-11-17T22:00:49.505897+00:00",
-  "Tech": "2026-11-18T00:15:29.434017+00:00"
+  "Tech": "2026-11-18T00:45:28.867219+00:00"
  },
  "digest_day": "2026-11-17",
  "weekly_day": "2026-11-13"
