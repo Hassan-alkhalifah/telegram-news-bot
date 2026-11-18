@@ -1398,6 +1398,17 @@
    "summary": "AirPods got a variety of new features this fall in iOS 27, several of which are exclusive to AirPods Pro 3 (now only $179).",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/17/apple-announces-app-store-price-changes-in-multiple-countries-new-california-tax-rules": {
+   "at": "2026-11-18T02:22:44.747269+00:00",
+   "title": "Apple announces App Store price changes in multiple countries, new California tax rules",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/17/apple-announces-app-store-price-changes-in-multiple-countries-new-california-tax-rules/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Apple today announced that App Store prices for apps and In-App Purchases will be adjusted in five countries starting December 3, following changes in taxes and foreign exchange rates.",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/17/apple-hears-liquid-glass-feedback-tests-small-but-welcome-change": {
    "at": "2026-11-17T12:45:27.821147+00:00",
    "title": "Apple hears Liquid Glass feedback, tests small but welcome change",
@@ -2827,17 +2838,6 @@
    "sources": 1,
    "summary": "Read our interview with the Naruto voice actors at New York Comic Con!",
    "title_ar": "مؤدّو أصوات Naruto الأصليون يتحدثون عن سبب شعور العودة إلى Team 7 بشكل مختلف بعد 20 عاماً"
-  },
-  "crunchyroll.com/news/latest/2026/11/11/aoharu-once-more-light-anime-january-2027-premiere-main-voice-cast-teaser-trailer": {
-   "at": "2026-11-11T02:15:32.253391+00:00",
-   "title": "Aoharu Once More Light Anime Announces January 2027 Premiere, Main Voice Cast in Teaser Trailer",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://crunchyroll.com/news/latest/2026/11/11/aoharu-once-more-light-anime-january-2027-premiere-main-voice-cast-teaser-trailer",
-   "score": 1,
-   "sources": 1,
-   "summary": "Tasuku Kaito and Kazuki Ura play the two main characters",
-   "title_ar": "أنمي Aoharu Once More Light يلعن عن عرضه الأول في يناير 2027، وكشف طاقم الأداء الصوتي الرئيسي في عرض تشويقي"
   },
   "crunchyroll.com/news/latest/2026/11/11/berserk-of-gluttony-season-2-anime-april-2027-premiere": {
    "at": "2026-11-11T09:15:34.237962+00:00",
@@ -6215,6 +6215,17 @@
    "sources": 1,
    "summary": "Samsung opened pre-orders for its Intelligent Eyewear smart glasses on November 12 in the US and South Korea.",
    "title_ar": ""
+  },
+  "gsmarena.com/sharp_unveils_the_light_and_thin_aquos_sense11_with_a_3000nit_oled_screen-news-75507.php": {
+   "at": "2026-11-18T02:22:44.747269+00:00",
+   "title": "Sharp unveils the light and thin Aquos sense11 with a 3,000-nit OLED screen",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.gsmarena.com/sharp_unveils_the_light_and_thin_aquos_sense11_with_a_3000nit_oled_screen-news-75507.php",
+   "score": 1,
+   "sources": 1,
+   "summary": "Sharp has announced the Aquos sense11, the latest in its line of mid-range phones for Japan.",
+   "title_ar": "Sharp تكشف عن هاتف Aquos sense11 النحيف والخفيف مع شاشة OLED بسطوع 3000 شمعة"
   },
   "gsmarena.com/this_is_what_the_camera_island_on_the_galaxy_s27_pro_and_ultra_looks_like-news-75487.php": {
    "at": "2026-11-16T10:45:40.604434+00:00",
@@ -9791,6 +9802,17 @@
    "summary": "Making light work of it.",
    "title_ar": ""
   },
+  "pushsquare.com/news/2026/11/gta-6-requires-new-ps5-firmware-update-to-play": {
+   "at": "2026-11-18T02:22:44.747269+00:00",
+   "title": "GTA 6 Requires New PS5 Firmware Update to Play",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pushsquare.com/news/2026/11/gta-6-requires-new-ps5-firmware-update-to-play",
+   "score": 0,
+   "sources": 1,
+   "summary": "Sony confirms v14.23.00 is required.",
+   "title_ar": ""
+  },
   "pushsquare.com/news/2026/11/gta-6-subscription-will-include-nba-2k27-for-free-on-ps5": {
    "at": "2026-11-16T16:45:42.537942+00:00",
    "title": "GTA 6 Subscription Will Include NBA 2K27 for Free on PS5",
@@ -13338,7 +13360,7 @@
   "AI": "2026-11-18T01:00:44.231153+00:00",
   "Anime": "2026-11-18T01:45:25.858220+00:00",
   "Games": "2026-11-17T22:00:49.505897+00:00",
-  "Tech": "2026-11-18T02:15:28.580453+00:00"
+  "Tech": "2026-11-18T02:22:44.747269+00:00"
  },
  "digest_day": "2026-11-17",
  "weekly_day": "2026-11-13"
