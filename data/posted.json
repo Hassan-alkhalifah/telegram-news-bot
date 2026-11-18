@@ -4280,6 +4280,17 @@
    "summary": "It now takes 24 hours to send a message to Voyager 1, as it reaches a distance that's one light-day away from our planet.",
    "title_ar": "مسبار الفضاء Voyager 1 التابع لـ NASA أصبح الآن على بعد يوم ضوئي واحد من الأرض"
   },
+  "engadget.com/2320303/youll-need-the-latest-ps5-firmware-update-to-play-gta-vi": {
+   "at": "2026-11-18T13:15:30.091944+00:00",
+   "title": "You'll need the latest PS5 firmware update to play GTA VI",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2320303/youll-need-the-latest-ps5-firmware-update-to-play-gta-vi/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Double-check your PS5's firmware is up to date, or you may not be able to play GTA VI.",
+   "title_ar": ""
+  },
   "eurogamer.net/blood-of-dawnwalker-new-game-plus": {
    "at": "2026-11-13T21:00:41.462775+00:00",
    "title": "The Blood of Dawnwalker is getting a New Game Plus mode in next week's update",
@@ -9945,6 +9956,17 @@
    "summary": "Pricing not deemed \"excessive\".",
    "title_ar": ""
   },
+  "pushsquare.com/news/2026/11/ps5-pro-is-not-powerful-enough-to-run-gta-6-at-60fps-rockstar-explains-frame-rate-decision": {
+   "at": "2026-11-18T13:15:30.091944+00:00",
+   "title": "'PS5 Pro Is Not Powerful Enough to Run GTA 6 at 60fps': Rockstar Explains Frame Rate Decision",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pushsquare.com/news/2026/11/ps5-pro-is-not-powerful-enough-to-run-gta-6-at-60fps-rockstar-explains-frame-rate-decision",
+   "score": 0,
+   "sources": 1,
+   "summary": "And why it's not the end of the world.",
+   "title_ar": ""
+  },
   "pushsquare.com/news/2026/11/resident-evil-requiem-wins-the-first-2026-game-of-the-year-award": {
    "at": "2026-11-11T21:30:40.859189+00:00",
    "title": "Resident Evil Requiem Wins the First 2026 Game of the Year Award",
@@ -12211,6 +12233,17 @@
    "summary": "Nvidia Board reportedly moves to expel Jensen Huang as stock tumbles on latest scandals and lack of succession plans at Nvidia.",
    "title_ar": ""
   },
+  "tomshardware.com/pc-components/gpus/nvidias-revenue-hits-usd115-8-billion-as-vera-rubin-generates-usd20-billion-in-another-record-setting-quarter-commitments-increase-to-usd390-billion-fy28-forecast-raised": {
+   "at": "2026-11-18T13:15:30.091944+00:00",
+   "title": "Nvidia's revenue hits $115.8 billion as Vera Rubin generates $20 billion in another record-setting quarter",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-revenue-hits-usd115-8-billion-as-vera-rubin-generates-usd20-billion-in-another-record-setting-quarter-commitments-increase-to-usd390-billion-fy28-forecast-raised",
+   "score": 2,
+   "sources": 1,
+   "summary": "Nvidia's quarterly revenue surged to $115.8 billion as Vera Rubin achieved a record $20 billion debut, while total commitments to suppliers and customers climbed to $540 billion and rising costs…",
+   "title_ar": "إيرادات Nvidia تصل إلى 115.8 مليار دولار مع تحقيق Vera Rubin لـ 20 مليار دولار في ربع قياسي آخر"
+  },
   "tomshardware.com/pc-components/gpus/techie-turns-usd2-500-cmp-170hx-8gb-mining-card-into-a-full-fat-a100-80gb-with-voltage-glitching-carefully-blowing-onboard-fuses-to-unlock-entire-vram-and-shader-modules": {
    "at": "2026-11-12T11:00:44.066668+00:00",
    "title": "Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of VRAM",
@@ -13360,7 +13393,7 @@
   "AI": "2026-11-18T13:00:45.679198+00:00",
   "Anime": "2026-11-18T11:30:33.937179+00:00",
   "Games": "2026-11-18T12:45:30.479472+00:00",
-  "Tech": "2026-11-18T12:30:50.138616+00:00"
+  "Tech": "2026-11-18T13:15:30.091944+00:00"
  },
  "digest_day": "2026-11-17",
  "weekly_day": "2026-11-13"
