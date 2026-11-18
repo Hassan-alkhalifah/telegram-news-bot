@@ -6095,17 +6095,6 @@
    "summary": "Back in December, Nvidia received government approval to sell its H200 AI chips to specially approved customers in China.",
    "title_ar": ""
   },
-  "gsmarena.com/oneplus_12_is_now_receiving_the_update_to_coloros_17_based_on_android_17-news-75445.php": {
-   "at": "2026-11-11T23:15:29.710326+00:00",
-   "title": "OnePlus 12 is now receiving the update to ColorOS 17, based on Android 17",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.gsmarena.com/oneplus_12_is_now_receiving_the_update_to_coloros_17_based_on_android_17-news-75445.php",
-   "score": 1,
-   "sources": 1,
-   "summary": "A few days ago, OnePlus announced its rollout schedule for the ColorOS 17 update, based on Android 17, for this month.",
-   "title_ar": "هاتف OnePlus 12 يتلقى الآن التحديث إلى واجهة ColorOS 17 المبنية على نظام Android 17"
-  },
   "gsmarena.com/oneplus_turbo_7_pro_gets_certified_ahead_of_launch_more_specs_leak-news-75524.php": {
    "at": "2026-11-18T15:00:49.228603+00:00",
    "title": "OnePlus Turbo 7 Pro gets certified ahead of launch, more specs leak",
@@ -10198,6 +10187,17 @@
    "summary": "And why it's not the end of the world.",
    "title_ar": ""
   },
+  "pushsquare.com/news/2026/11/psn-down-sporadically-for-some-as-gta-6-launches-around-the-world": {
+   "at": "2026-11-18T23:30:35.418884+00:00",
+   "title": "PSN Down Sporadically for Some as GTA 6 Launches Around the World",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.pushsquare.com/news/2026/11/psn-down-sporadically-for-some-as-gta-6-launches-around-the-world",
+   "score": 2,
+   "sources": 1,
+   "summary": "Squeaky bum time.",
+   "title_ar": "تعطل شبكة PSN بشكل متقطع لدى البعض مع إطلاق لعبة GTA 6 حول العالم"
+  },
   "pushsquare.com/news/2026/11/retire-dragon-quest-and-make-a-new-rpg-drama-surrounds-dragon-quest-after-mobile-game-reveal": {
    "at": "2026-11-17T14:15:28.968059+00:00",
    "title": "'Retire Dragon Quest and Make a New RPG': Drama Surrounds Dragon Quest After Mobile Game Reveal",
@@ -11242,6 +11242,17 @@
    "sources": 1,
    "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
    "title_ar": "تقرير: Anthropic تُسعر طرحها العام الأولي عند 83 دولاراً للسهم، متجاوزة النطاق المتوقع"
+  },
+  "techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit": {
+   "at": "2026-11-18T23:30:35.418884+00:00",
+   "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+   "title_ar": ""
   },
   "techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked": {
    "at": "2026-11-18T17:45:45.588246+00:00",
@@ -13667,7 +13678,7 @@
  "topic_last_posted": {
   "AI": "2026-11-18T23:00:41.626270+00:00",
   "Anime": "2026-11-18T23:15:26.582727+00:00",
-  "Games": "2026-11-18T22:45:25.547716+00:00",
+  "Games": "2026-11-18T23:30:35.418884+00:00",
   "Tech": "2026-11-18T22:45:25.547716+00:00"
  },
  "digest_day": "2026-11-18",
