@@ -1,17 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/10/one-ui-9-5-rambler-samsung-galaxy-keyboard": {
-   "at": "2026-11-11T04:00:42.731694+00:00",
-   "title": "One UI 9.5 might bring Pixel 11’s ‘Rambler’ feature to Samsung Keyboard before Google’s",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5google.com/2026/11/10/one-ui-9-5-rambler-samsung-galaxy-keyboard/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The Pixel 11 launched with one AI tool most people got on board with, called “Rambler.” It’s a transcription tool that overhauls and cleans up voice-to-text messages.",
-   "title_ar": ""
-  },
   "9to5google.com/2026/11/10/pixel-journal-recorder-export": {
    "at": "2026-11-11T05:15:31.487318+00:00",
    "title": "Pixel Journal adds Recorder audio integration & export option",
@@ -419,6 +408,17 @@
    "summary": "We’re only a couple of months away from our next Galaxy Unpacked, and while the expanded Galaxy S27 series is practically guaranteed to show up, the real fun tends to lie in whatever other gadgets…",
    "title_ar": "تسريب سماعات Galaxy Studio من Samsung مع تحكم باللمس ولونين"
   },
+  "9to5google.com/2026/11/17/email-text-with-gemini": {
+   "at": "2026-11-18T04:15:28.214612+00:00",
+   "title": "You can now Email and Text (via Google Messages, iMessage) with Gemini",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/17/email-text-with-gemini/",
+   "score": 1,
+   "sources": 1,
+   "summary": "As previewed at I/O 2026, you can text — via Google Messages and iMessage — or email directly with Gemini. more…",
+   "title_ar": "يمكنك الآن المراسلة وإرسال الرسائل النصية (عبر Google Messages و iMessage) باستخدام Gemini"
+  },
   "9to5google.com/2026/11/17/galaxy-ai-paywall-details-emerge-starting-with-now-brief": {
    "at": "2026-11-18T03:30:33.413070+00:00",
    "title": "More paid Galaxy AI details emerge, starting with Now Brief limitations",
@@ -605,17 +605,6 @@
    "sources": 1,
    "summary": "Leaker Aaron Perris has discovered evidence of a new Mac app in the works at Apple called Harbor, which makes it easy to run local AI models across one or more Macs. more…",
    "title_ar": "أبل تطور تطبيق Mac جديداً لتسهيل تشغيل نماذج الذكاء الاصطناعي المحلية"
-  },
-  "9to5mac.com/2026/11/10/apple-to-investigate-accident-that-killed-three-workers-at-iphone-parts-factory-in-india": {
-   "at": "2026-11-11T04:00:42.731694+00:00",
-   "title": "Apple to investigate accident that killed three workers at iPhone parts factory in India",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/10/apple-to-investigate-accident-that-killed-three-workers-at-iphone-parts-factory-in-india/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Reuters reports that three contract workers died after inhaling gas during an inspection at a Tata Electronics factory that produces iPhone components in India.",
-   "title_ar": "أبل تحقق في حادث مقتل 3 عمال في مصنع لمكونات آيفون في الهند"
   },
   "9to5mac.com/2026/11/10/apple-tv-shares-trailers-for-upcoming-snoopy-and-fraggle-rock-holiday-specials": {
    "at": "2026-11-11T04:30:38.289179+00:00",
@@ -13415,7 +13404,7 @@
   "AI": "2026-11-18T01:00:44.231153+00:00",
   "Anime": "2026-11-18T01:45:25.858220+00:00",
   "Games": "2026-11-17T22:00:49.505897+00:00",
-  "Tech": "2026-11-18T04:00:41.455589+00:00"
+  "Tech": "2026-11-18T04:15:28.214612+00:00"
  },
  "digest_day": "2026-11-17",
  "weekly_day": "2026-11-13"
