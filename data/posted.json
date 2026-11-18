@@ -2410,6 +2410,17 @@
    "summary": "Uchida plays Gekkō, CHiCO with HoneyWorks performs opening song \"CHASE!\"",
    "title_ar": ""
   },
+  "animenewsnetwork.com/news/2026-11-18/duel-masters-gt-manga-gets-4th-part/.243957": {
+   "at": "2026-11-18T22:15:32.393278+00:00",
+   "title": "Duel Masters GT Manga Gets 4th Part",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-18/duel-masters-gt-manga-gets-4th-part/.243957",
+   "score": 1,
+   "sources": 1,
+   "summary": "3rd part ended on Wednesday",
+   "title_ar": "مانغا Duel Masters GT تحصل على جزء رابع"
+  },
   "animenewsnetwork.com/news/2026-11-18/identity-v-game-oha-suta-daigo-gakuen-short-anime-unveils-more-cast-staff-november-24-debut/.243933": {
    "at": "2026-11-18T08:15:30.359385+00:00",
    "title": "Identity V Game's Oha Suta Daigo Gakuen Short Anime Unveils More Cast, Staff, November 24 Debut",
@@ -3476,17 +3487,6 @@
    "sources": 1,
    "summary": "You don't have long to grab the augmented reality tools for your Galaxy devices.",
    "title_ar": "سامسونج توقف هذه التطبيقات المفيدة للهواتف المحولة في شهر ديسمبر"
-  },
-  "engadget.com/2314121/united-is-restricting-ai-agents-from-booking-flights": {
-   "at": "2026-11-11T22:01:01.517047+00:00",
-   "title": "United is restricting AI agents from booking flights",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.engadget.com/2314121/united-is-restricting-ai-agents-from-booking-flights/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The airline believes AI poses security risks and may violate DOT and FAA rules.",
-   "title_ar": ""
   },
   "engadget.com/2314427/apple-maps-convenient-share-eta-feature-for-carplay-users": {
    "at": "2026-11-16T17:30:36.333074+00:00",
@@ -11705,17 +11705,6 @@
    "summary": "AI music generator Suno can now create images and video clips to go with its songs, thanks to a new feature called Visuals.",
    "title_ar": ""
   },
-  "theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents": {
-   "at": "2026-11-11T22:01:01.517047+00:00",
-   "title": "United won’t let your AI agent book your flight",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-   "score": 2,
-   "sources": 2,
-   "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns.",
-   "title_ar": "United لن تسمح لوكيل الذكاء الاصطناعي الخاص بك بحجز رحلتك"
-  },
   "theverge.com/ai-artificial-intelligence/1031689/jensen-huang-fired-nvidia": {
    "at": "2026-11-12T14:00:43.361823+00:00",
    "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
@@ -13300,6 +13289,17 @@
    "summary": "Microsoft 365 services including Outlook and Teams have been experiencing issues for nearly 24 hours",
    "title_ar": ""
   },
+  "videogameschronicle.com/news/mindseye-studio-wants-to-sue-saboteurs-to-pay-off-62-million-debt": {
+   "at": "2026-11-18T22:15:32.393278+00:00",
+   "title": "MindsEye studio wants to sue ‘saboteurs’ to pay off £62 million debt",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.videogameschronicle.com/news/mindseye-studio-wants-to-sue-saboteurs-to-pay-off-62-million-debt/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Build A Rocket Boy has sought further investment to fund this legal action",
+   "title_ar": ""
+  },
   "videogameschronicle.com/news/nba-2k27-is-getting-a-vice-city-edition-as-well-as-numerous-gta-6-themed-items-in-season-3": {
    "at": "2026-11-16T16:45:42.537942+00:00",
    "title": "NBA 2K27 is getting a Vice City Edition, as well as numerous GTA 6 themed items in Season 3",
@@ -13644,7 +13644,7 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-18T22:00:46.577554+00:00",
-  "Anime": "2026-11-18T21:00:42.185991+00:00",
+  "Anime": "2026-11-18T22:15:32.393278+00:00",
   "Games": "2026-11-18T21:30:40.169752+00:00",
   "Tech": "2026-11-18T21:45:28.960539+00:00"
  },
