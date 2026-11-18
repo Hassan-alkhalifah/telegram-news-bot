@@ -595,17 +595,6 @@
    "summary": "YouTube Music is simplifying its core navigation on Android and iOS by removing the Samples tab, though the vertical video format remains in the app. more…",
    "title_ar": "YouTube Music يزيل تبويب Samples على أجهزة Android و iOS"
   },
-  "9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy": {
-   "at": "2026-11-11T05:00:45.948064+00:00",
-   "title": "Apple has new Mac app coming to make running local AI models easy",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Leaker Aaron Perris has discovered evidence of a new Mac app in the works at Apple called Harbor, which makes it easy to run local AI models across one or more Macs. more…",
-   "title_ar": "أبل تطور تطبيق Mac جديداً لتسهيل تشغيل نماذج الذكاء الاصطناعي المحلية"
-  },
   "9to5mac.com/2026/11/11/apple-invites-app-now-lets-hosts-poll-guests-plus-new-emoji-effect-added": {
    "at": "2026-11-11T23:45:31.393013+00:00",
    "title": "Apple Invites app now lets hosts poll guests, plus new emoji effect added",
@@ -8647,6 +8636,17 @@
    "summary": "The official website of the Sakamoto Days television anime unveiled a pair of additional cast, key visual (pictured), the opening theme, and first promotional video for the second season on Wednesday.",
    "title_ar": ""
   },
+  "myanimelist.net/news/74952442?_location=rss": {
+   "at": "2026-11-18T05:00:49.771860+00:00",
+   "title": "'Isekai Munchkin' Reveals New Staff, Theme Songs, Second Promo",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://myanimelist.net/news/74952442?_location=rss",
+   "score": 0,
+   "sources": 1,
+   "summary": "The official website for the television anime adaptation of Yuu Shimizu and Makoto Aogiri's Isekai Munchkin: HP1 no Mama de Saikyou Saisoku Dungeon Kouryaku (Otherworldly Munchkin: Let's Speedrun…",
+   "title_ar": ""
+  },
   "nintendolife.com/news/2026/11/castlevania-belmonts-curse-has-been-updated-to-version-1-1-4": {
    "at": "2026-11-17T13:30:39.454999+00:00",
    "title": "Castlevania: Belmont's Curse Has Been Updated To Version 1.1.4",
@@ -11726,17 +11726,6 @@
    "sources": 1,
    "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit.",
    "title_ar": "فشل صاروخ Vulcan وتدمير 40 قمراً صناعياً لـ Amazon Leo"
-  },
-  "theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery": {
-   "at": "2026-11-11T04:45:30.059766+00:00",
-   "title": "Starlink Mini 2 adds a swappable battery",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
-   "score": 1,
-   "sources": 1,
-   "summary": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop.",
-   "title_ar": "Starlink Mini 2 يضيف بطارية قابلة للاستبدال"
   },
   "theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai": {
    "at": "2026-11-11T14:08:28.032764+00:00",
