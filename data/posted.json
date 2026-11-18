@@ -705,17 +705,6 @@
    "summary": "watchOS 27.3 will launch to all users next month and introduce these three new Apple Watch features. more…",
    "title_ar": "watchOS 27.3: ثلاث ميزات جديدة قادمة قريباً إلى Apple Watch"
   },
-  "9to5mac.com/2026/11/11/whatsapp-may-soon-replace-the-communities-tab-on-ios": {
-   "at": "2026-11-11T13:45:30.225986+00:00",
-   "title": "WhatsApp may soon replace the Communities tab on iOS",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/11/whatsapp-may-soon-replace-the-communities-tab-on-ios/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Some WhatsApp beta testers on iOS are seeing a new option in the app’s bottom navigation bar that replaces the Communities tab.",
-   "title_ar": "قد يستبدل واتساب قريباً تبويب Communities على نظام iOS"
-  },
   "9to5mac.com/2026/11/12/30-of-iphone-duo-buyers-may-have-returned-it-but-i-dont-think-apple-should-worry": {
    "at": "2026-11-12T13:00:46.916755+00:00",
    "title": "30% of iPhone Duo buyers may have returned it, but I don’t think Apple should worry",
@@ -1595,6 +1584,17 @@
    "sources": 1,
    "summary": "I’ve had the iPhone Duo for nearly two weeks now, and have officially decided to return it.",
    "title_ar": "لماذا لم يكن هاتف iPhone Duo مناسباً لي (ولكن قد يكون مناسباً لك)"
+  },
+  "9to5mac.com/2026/11/18/leaker-claims-apple-developing-four-models-of-20th-anniversary-iphone": {
+   "at": "2026-11-18T14:00:48.532386+00:00",
+   "title": "Leaker claims Apple developing four models of 20th anniversary iPhone",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/18/leaker-claims-apple-developing-four-models-of-20th-anniversary-iphone/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Leaker Ice Universe says Apple is currently developing four models of the 20th anniversary iPhone which we’ve been referring to as the iPhone 20 .",
+   "title_ar": "مسرب يدعي أن Apple تطور أربعة طرازات من آيفون بمناسبة الذكرى العشرين"
   },
   "animecorner.me/are-you-a-landmine-chihara-san-anime-unveils-main-visual": {
    "at": "2026-11-16T12:30:39.759667+00:00",
@@ -2816,17 +2816,6 @@
    "sources": 1,
    "summary": "Ride X-Eggs, Seed X-Eggs and more will be available as part of the collab",
    "title_ar": "Kamen Rider MY-TH يطلق تعاوناً رسمياً مع Tom and Jerry"
-  },
-  "crunchyroll.com/news/latest/2026/11/11/mashle-magic-and-muscles-season-3-anime-release-date-trailer-key-visual-cast": {
-   "at": "2026-11-11T13:45:30.225986+00:00",
-   "title": "MASHLE: MAGIC AND MUSCLES Season 3 Anime Shares Trailer, Key Visual, Cast Additions",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://crunchyroll.com/news/latest/2026/11/11/mashle-magic-and-muscles-season-3-anime-release-date-trailer-key-visual-cast",
-   "score": 0,
-   "sources": 1,
-   "summary": "Crunchyroll will stream the Tri-Magicathlon Divine Visionary Final Exam Arc starting January 9",
-   "title_ar": ""
   },
   "crunchyroll.com/news/latest/2026/11/11/monogatari-series-secret-society-holox-collaboration-exhibition": {
    "at": "2026-11-11T15:15:28.924897+00:00",
@@ -11452,17 +11441,6 @@
    "summary": "AI music generator Suno can now create images and video clips to go with its songs, thanks to a new feature called Visuals.",
    "title_ar": ""
   },
-  "the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs": {
-   "at": "2026-11-11T14:00:44.209801+00:00",
-   "title": "US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs/",
-   "score": 1,
-   "sources": 1,
-   "summary": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation.",
-   "title_ar": "شركات الوساطة الأمريكية للبيانات تبيع بيئات تدريب للذكاء الاصطناعي بقيمة نصف مليار دولار لمختبرات صينية"
-  },
   "theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model": {
    "at": "2026-11-11T15:45:31.215182+00:00",
    "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
@@ -13404,7 +13382,7 @@
   "AI": "2026-11-18T13:45:29.492013+00:00",
   "Anime": "2026-11-18T11:30:33.937179+00:00",
   "Games": "2026-11-18T13:30:38.996689+00:00",
-  "Tech": "2026-11-18T13:15:30.091944+00:00"
+  "Tech": "2026-11-18T14:00:48.532386+00:00"
  },
  "digest_day": "2026-11-17",
  "weekly_day": "2026-11-13"
