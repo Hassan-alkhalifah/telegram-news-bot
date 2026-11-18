@@ -1,17 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/11/google-home-brings-back-sounds-for-gemini-and-im-both-elated-and-irritated-video": {
-   "at": "2026-11-11T19:00:43.856829+00:00",
-   "title": "Google Home brings back sounds for Gemini, and I’m both elated and irritated [Video]",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/11/google-home-brings-back-sounds-for-gemini-and-im-both-elated-and-irritated-video/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Classic Google Assistant sounds for special timers are back, but the “confirm” sound for smart home commands is unexpectedly different. more…",
-   "title_ar": "تطبيق Google Home يعيد الأصوات لـ Gemini، وأنا بين مبتهج ومنزعج [فيديو]"
-  },
   "9to5google.com/2026/11/11/google-home-update-nest-hub-gemini-cameras": {
    "at": "2026-11-11T19:30:37.369868+00:00",
    "title": "Google Home update fixes Nest ‘Live View’ issues, improves Nest Hub and Gemini for speakers",
@@ -33,17 +22,6 @@
    "sources": 1,
    "summary": "It might finally be happening.",
    "title_ar": "تطبيق Google Voice يبدو أنه يعمل أخيرًا على دعم تقنية RCS"
-  },
-  "9to5google.com/2026/11/11/google-wallet-home-key": {
-   "at": "2026-11-11T19:00:43.856829+00:00",
-   "title": "Google Wallet rolling out digital Google Home keys with supported locks on Android",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5google.com/2026/11/11/google-wallet-home-key/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Google Wallet for Android is rolling out support for digital home keys if you have a compatible smart lock in Google Home. more…",
-   "title_ar": ""
   },
   "9to5google.com/2026/11/11/motorola-ma2-wireless-android-auto-adapter-launch": {
    "at": "2026-11-12T01:30:36.235017+00:00",
@@ -1530,6 +1508,17 @@
    "summary": "Apple will announce the winners of its 2026 App Store Awards in the weeks ahead.",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/18/apple-releases-new-homeview-27-2-1-software-update": {
+   "at": "2026-11-18T19:00:46.389050+00:00",
+   "title": "Apple releases new HomeView 27.2.1 software update",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/18/apple-releases-new-homeview-27-2-1-software-update/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Apple has just released its first post-launch software update for the HomeView, version 27.2.1.",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/18/ios-27-3-adds-siri-ai-usage-limits-heres-what-counts-toward-your-limit": {
    "at": "2026-11-18T16:45:45.744480+00:00",
    "title": "iOS 27.3 adds Siri AI usage limits, here’s what counts toward your limit",
@@ -1595,17 +1584,6 @@
    "sources": 1,
    "summary": "A main visual was unveiled for the upcoming Are You a Landmine, Chihara-san? anime.…",
    "title_ar": ""
-  },
-  "animecorner.me/black-clover-season-2-episode-7-preview-continues-fight-against-megicula": {
-   "at": "2026-11-11T18:45:29.055581+00:00",
-   "title": "Black Clover Season 2 Episode 7 Preview Continues Fight Against Megicula",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://animecorner.me/black-clover-season-2-episode-7-preview-continues-fight-against-megicula/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Black Clover Season 2 has released preview images and synopsis for Episode 7 (Episode 177 overall) ahead of its November 14 premiere.",
-   "title_ar": "معاينة الحلقة 7 من الموسم الثاني لـ Black Clover تواصل القتال ضد Megicula"
   },
   "animecorner.me/exclusive-giant-ojosama-joins-hidive-winter-2027-lineup-anime-frontier-premiere-set-for-december-4": {
    "at": "2026-11-17T17:30:36.296181+00:00",
@@ -2551,17 +2529,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Huang is weighing a return just days after resigning amid a deepening scandal.",
-   "title_ar": ""
-  },
-  "arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum": {
-   "at": "2026-11-11T18:45:29.055581+00:00",
-   "title": "Apple is shuttering its 28-year-old online community forum",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple has already made the forum read-only.",
    "title_ar": ""
   },
   "arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia": {
@@ -5269,6 +5236,17 @@
    "sources": 1,
    "summary": "Console Archives The Firemen 2: Pete & Danny will launch for PlayStation 5 and Switch …",
    "title_ar": ""
+  },
+  "gematsu.com/2026/11/coral-island-for-switch-2-launches-december-7-alongside-version-1-4-update": {
+   "at": "2026-11-18T19:00:46.389050+00:00",
+   "title": "Coral Island for Switch 2 launches December 7 alongside version 1.4 update",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.gematsu.com/2026/11/coral-island-for-switch-2-launches-december-7-alongside-version-1-4-update",
+   "score": 2,
+   "sources": 1,
+   "summary": "The Switch 2 version of simulation game Coral Island will launch on December 7 alongside …",
+   "title_ar": "لعبة Coral Island على Switch 2 تصدر في 7 ديسمبر بالتزامن مع تحديث الإصدار 1.4"
   },
   "gematsu.com/2026/11/dave-the-diver-x-core-keeper-crossover-updates-announced": {
    "at": "2026-11-16T15:45:29.100899+00:00",
@@ -13612,7 +13590,7 @@
  "topic_last_posted": {
   "AI": "2026-11-18T18:45:28.132523+00:00",
   "Anime": "2026-11-18T18:00:56.960760+00:00",
-  "Games": "2026-11-18T18:15:29.300227+00:00",
+  "Games": "2026-11-18T19:00:46.389050+00:00",
   "Tech": "2026-11-18T18:30:39.042625+00:00"
  },
  "digest_day": "2026-11-18",
