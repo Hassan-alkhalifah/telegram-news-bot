@@ -2586,6 +2586,17 @@
    "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
    "title_ar": ""
   },
+  "arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits": {
+   "at": "2026-11-19T03:00:48.698346+00:00",
+   "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
+   "title_ar": "أوكرانيا تفجر جسر بوتين باستخدام طائرات مسيرة ترحيلية لتجاوز قيود Starlink"
+  },
   "arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach": {
    "at": "2026-11-18T20:45:28.245153+00:00",
    "title": "Windows Server 2028 public preview bets on a security-first approach",
@@ -2772,28 +2783,6 @@
    "sources": 2,
    "summary": "Kevin Molina-Ortiz directs and Ian Flynn writes at GXS Productions",
    "title_ar": "رسوم متحركة بمناسبة الذكرى السنوية الـ 35 لـ Sonic the Hedgehog تضع الفريق في مواجهة Metal Sonic"
-  },
-  "crunchyroll.com/news/latest/2026/11/12/star-detective-precure-anime-1st-ending-video-10-million-views": {
-   "at": "2026-11-12T02:45:27.451780+00:00",
-   "title": "Star Detective Precure! Anime 1st Ending Video Reaches 10 Million Views",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://crunchyroll.com/news/latest/2026/11/12/star-detective-precure-anime-1st-ending-video-10-million-views",
-   "score": 0,
-   "sources": 1,
-   "summary": "Crunchyroll streams the 23rd Precure TV series",
-   "title_ar": ""
-  },
-  "crunchyroll.com/news/latest/2026/11/12/tsugumi-project-anime-january-2027-release-date-key-visual": {
-   "at": "2026-11-12T03:00:41.495875+00:00",
-   "title": "Tsugumi Project Anime Reveals January 2027 Broadcast, New Visual",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://crunchyroll.com/news/latest/2026/11/12/tsugumi-project-anime-january-2027-release-date-key-visual",
-   "score": 0,
-   "sources": 1,
-   "summary": "The upcoming series adapts a post-apocalyptic action manga",
-   "title_ar": ""
   },
   "crunchyroll.com/news/latest/2026/11/13/a-certain-dark-item-anime-vs-item-trailer": {
    "at": "2026-11-13T19:00:44.623605+00:00",
@@ -9032,6 +9021,17 @@
    "summary": "Whipped into shape.",
    "title_ar": ""
   },
+  "nintendolife.com/news/2026/11/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-december": {
+   "at": "2026-11-19T03:00:48.698346+00:00",
+   "title": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This December",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-december",
+   "score": 0,
+   "sources": 1,
+   "summary": "Update: Release date confirmed! : Here on Nintendo Life, we first heard about the laid-back co-op farming sim Coral Island back in 2021, when it successfully hit its Kickstarter goal .",
+   "title_ar": ""
+  },
   "nintendolife.com/news/2026/11/the-game-awards-2026-nominees-to-be-announced-next-week-zelda-and-gta-6-eligible": {
    "at": "2026-11-14T01:15:28.664912+00:00",
    "title": "The Game Awards 2026 Nominees To Be Announced Next Week, Zelda And GTA 6 Eligible",
@@ -13657,7 +13657,7 @@
   "AI": "2026-11-19T02:45:27.407290+00:00",
   "Anime": "2026-11-19T01:15:30.257585+00:00",
   "Games": "2026-11-19T02:15:29.011321+00:00",
-  "Tech": "2026-11-19T02:30:34.919348+00:00"
+  "Tech": "2026-11-19T03:00:48.698346+00:00"
  },
  "digest_day": "2026-11-18",
  "weekly_day": "2026-11-13"
