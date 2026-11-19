@@ -1398,6 +1398,17 @@
    "summary": "According to a new report from Bloomberg , Apple’s head of camera and photo software retired last month.",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/19/apple-releases-ios-27-3-public-beta-2-heres-whats-new": {
+   "at": "2026-11-19T21:45:26.976771+00:00",
+   "title": "Apple releases iOS 27.3 public beta 2, new developer beta 2 build",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/19/apple-releases-ios-27-3-public-beta-2-heres-whats-new/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Apple has released iOS 27.3 public beta 2 for iPhone.",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/19/apple-tv-f1-academy-stream-next-year": {
    "at": "2026-11-19T19:45:36.623601+00:00",
    "title": "Apple TV will stream all-female racing series F1 Academy starting next year",
@@ -1462,6 +1473,17 @@
    "score": 0,
    "sources": 1,
    "summary": "iPadOS 27.3 is now in beta and will launch to all users next month , here are three new features it introduces for iPad. more…",
+   "title_ar": ""
+  },
+  "9to5mac.com/2026/11/19/ipados-27-3-watchos-27-3-more-get-public-beta-2-heres-whats-new": {
+   "at": "2026-11-19T21:45:26.976771+00:00",
+   "title": "iPadOS 27.3, watchOS 27.3, more get public beta 2, here’s what’s new",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/19/ipados-27-3-watchos-27-3-more-get-public-beta-2-heres-whats-new/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Apple has released public beta 2 for iPadOS 27.3 alongside a variety of other 27.3 updates.",
    "title_ar": ""
   },
   "9to5mac.com/2026/11/19/major-privacy-breaches-reported-in-muse-ai-including-bank-balances": {
@@ -10957,6 +10979,17 @@
    "summary": "Alibaba launches Qwen4-Max, a new flagship model with 2.4 trillion parameters that activates only 71 billion per token.",
    "title_ar": "نموذج Qwen4-Max من Alibaba ينافس Opus 5.5 و GPT-6 و Kimi K3.1 Pro بأسعار أقل بكثير"
   },
+  "the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool": {
+   "at": "2026-11-19T21:45:26.976771+00:00",
+   "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/",
+   "score": 1,
+   "sources": 1,
+   "summary": "An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an \"attacker.\" The agent recognized the conflict with its assigned…",
+   "title_ar": "وكيل ذكاء اصطناعي من OpenAI مُكلّف بمهمة كتابة بسيطة يقرر من تلقاء نفسه بناء أداة سرية لمراقبة البريد الإلكتروني"
+  },
   "the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon": {
    "at": "2026-11-14T11:30:34.617290+00:00",
    "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
@@ -13280,7 +13313,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-19T20:45:35.552628+00:00",
+  "AI": "2026-11-19T21:45:26.976771+00:00",
   "Anime": "2026-11-19T21:15:27.638906+00:00",
   "Games": "2026-11-19T21:15:27.638906+00:00",
   "Tech": "2026-11-19T21:30:40.800987+00:00"
