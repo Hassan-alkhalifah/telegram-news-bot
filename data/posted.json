@@ -2531,6 +2531,17 @@
    "summary": "Players run hot spring in Sumikkogurashi Welcome to Poka Poka Onsen game",
    "title_ar": "إطلاق لعبة جديدة لسلسلة Sumikko Gurashi على جهاز Switch 2 في 19 نوفمبر"
   },
+  "animenewsnetwork.com/news/2026-11-18/youre-so-sloppy-hotta-sensei-manga-ends-in-2-chapters/.243956": {
+   "at": "2026-11-19T01:18:22.705402+00:00",
+   "title": "'You're So Sloppy, Hotta-Sensei' Manga Ends in 2 Chapters",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-18/youre-so-sloppy-hotta-sensei-manga-ends-in-2-chapters/.243956",
+   "score": 0,
+   "sources": 1,
+   "summary": "Series debuted in March 2022",
+   "title_ar": ""
+  },
   "arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns": {
    "at": "2026-11-13T17:30:38.535994+00:00",
    "title": "AI is \"the most likely reason\" you'll die, OpenAI board member warns",
@@ -11254,6 +11265,17 @@
    "summary": "Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor": {
+   "at": "2026-11-19T01:18:22.705402+00:00",
+   "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+   "title_ar": "Snapchat يتيح الآن للمطورين بناء عدسات الواقع المعزز (AR) باستخدام مساعدين الذكاء الاصطناعي مثل Claude Code و Cursor"
+  },
   "techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation": {
    "at": "2026-11-18T20:00:48.512263+00:00",
    "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
@@ -13577,7 +13599,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-19T00:45:27.199451+00:00",
+  "AI": "2026-11-19T01:18:22.705402+00:00",
   "Anime": "2026-11-19T01:15:30.257585+00:00",
   "Games": "2026-11-19T00:15:28.716284+00:00",
   "Tech": "2026-11-19T01:00:41.232317+00:00"
