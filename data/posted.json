@@ -4841,6 +4841,17 @@
    "summary": "Rockstar's Grand Theft Auto 6 launches on November 19, and it's expected to be a gigantic commercial success, but just how big will the launch be?",
    "title_ar": ""
   },
+  "gamespot.com/articles/gta-6-digital-release-has-gamestop-ceo-defending-physical-games-for-obvious-reasons": {
+   "at": "2026-11-19T14:30:35.268004+00:00",
+   "title": "GTA 6’s Digital Release Has GameStop CEO Defending Physical Games, For Obvious Reasons",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/gta-6-digital-release-has-gamestop-ceo-defending-physical-games-for-obvious-reasons/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The GTA 6 launch looks set to break several records, as the digital-only game appears on track to be a major critical and commercial hit .",
+   "title_ar": ""
+  },
   "gamespot.com/articles/gta-6-finally-changed-the-default-rockstar-game-controls": {
    "at": "2026-11-18T15:15:31.160637+00:00",
    "title": "GTA 6 Finally Changed The Default Rockstar-Game Controls",
@@ -12662,6 +12673,17 @@
    "summary": "macOS on PCs becomes possible thanks to Apple Silicon translator for x86-64 — Hackintoshes",
    "title_ar": "تشغيل نظام macOS على الحواسيب الشخصية يصبح ممكناً مرة أخرى بفضل أداة الترجمة لمعالجات Apple Silicon على بنية x86-64"
   },
+  "tomshardware.com/software/windows/developer-vibe-codes-windows-11-alternative-operating-system-for-amd64-arm64-and-riscv64-hardware-libernt-is-a-free-64-bit-clone-promising-reliable-stable-and-efficient-performance": {
+   "at": "2026-11-19T14:30:35.268004+00:00",
+   "title": "Developer vibe codes Windows 11 alternative operating system for amd64, arm64, and riscv64 hardware",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/software/windows/developer-vibe-codes-windows-11-alternative-operating-system-for-amd64-arm64-and-riscv64-hardware-libernt-is-a-free-64-bit-clone-promising-reliable-stable-and-efficient-performance",
+   "score": 1,
+   "sources": 1,
+   "summary": "There’s a new vibe-coded OS in town going by the name of LiberNT.",
+   "title_ar": "مطور يبتكر نظام تشغيل بديلاً لـ Windows 11 لأجهزة amd64 وarm64 وriscv64"
+  },
   "tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-could-be-plotting-return-as-nvidia-ceo-report-claims-allies-have-formed-a-war-room-to-drive-reinstatement-days-after-resignation-scandal": {
    "at": "2026-11-16T12:45:32.036008+00:00",
    "title": "Jensen Huang could be plotting return as Nvidia CEO, report claims",
@@ -13701,7 +13723,7 @@
   "AI": "2026-11-19T14:15:41.986120+00:00",
   "Anime": "2026-11-19T14:00:44.201436+00:00",
   "Games": "2026-11-19T13:45:29.703866+00:00",
-  "Tech": "2026-11-19T13:30:40.550327+00:00"
+  "Tech": "2026-11-19T14:30:35.268004+00:00"
  },
  "digest_day": "2026-11-18",
  "weekly_day": "2026-11-13"
