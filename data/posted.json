@@ -1,17 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/11/motorola-ma2-wireless-android-auto-adapter-launch": {
-   "at": "2026-11-12T01:30:36.235017+00:00",
-   "title": "Motorola MA2 wireless Android Auto adapter is now available, but at nearly twice the price",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/11/motorola-ma2-wireless-android-auto-adapter-launch/",
-   "score": 1,
-   "sources": 1,
-   "summary": "After first appearing months ago, the Motorola MA2 wireless Android Auto adapter is officially available for purchase in the US, but at a much higher price than expected. more…",
-   "title_ar": "محول Android Auto اللاسلكي Motorola MA2 متاح الآن، ولكن بسعر يقارب الضاعف"
-  },
   "9to5google.com/2026/11/12/android-17-qpr3-beta-3-pixel-2": {
    "at": "2026-11-12T21:30:35.379377+00:00",
    "title": "Google rolling out Android 17 QPR3 Beta 4 for Pixel",
@@ -2782,17 +2771,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Crunchyroll streams the 23rd Precure TV series",
-   "title_ar": ""
-  },
-  "crunchyroll.com/news/latest/2026/11/12/tetsuryo-meet-with-tetsudou-musume-anime-opening-song-music-video-asaka": {
-   "at": "2026-11-12T01:30:36.235017+00:00",
-   "title": "Asaka Releases Tetsuryo! meet with Tetsudou Musume Anime Opening Song Music Video",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://crunchyroll.com/news/latest/2026/11/12/tetsuryo-meet-with-tetsudou-musume-anime-opening-song-music-video-asaka",
-   "score": 0,
-   "sources": 1,
-   "summary": "The CD single will be available on November 18",
    "title_ar": ""
   },
   "crunchyroll.com/news/latest/2026/11/12/tsugumi-project-anime-january-2027-release-date-key-visual": {
@@ -6447,6 +6425,17 @@
    "summary": "Robert Pattinson is the next James Bond, which means there is no shortage of opinions flying around the internet about this news.",
    "title_ar": ""
   },
+  "ign.com/articles/43-army-members-reenlisted-in-exchange-for-paid-time-off-to-play-gta-6": {
+   "at": "2026-11-19T01:30:37.568472+00:00",
+   "title": "43 Army Members Reenlisted in Exchange for Paid Time Off to Play GTA 6",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/43-army-members-reenlisted-in-exchange-for-paid-time-off-to-play-gta-6",
+   "score": 0,
+   "sources": 1,
+   "summary": "If you’ve been following the GTA 6 hype train, you’ll probably remember the time that an army battalion went viral for offering service members four days of paid time off to play Rockstar's…",
+   "title_ar": ""
+  },
   "ign.com/articles/a-gta-6-location-was-teased-by-rockstar-all-the-way-back-in-2021-and-whats-inside-was-worth-the-wait": {
    "at": "2026-11-18T23:15:26.582727+00:00",
    "title": "A GTA 6 Location Was Teased by Rockstar All the Way Back in 2021 — And What's Inside Was Worth the Wait",
@@ -6721,6 +6710,17 @@
    "sources": 1,
    "summary": "GTA 6 has become the joint-highest rated game of all time, following the widespread publication of reviews.",
    "title_ar": ""
+  },
+  "ign.com/articles/gta-6-launch-causes-massive-spike-in-traffic-for-internet-provider-xfinity": {
+   "at": "2026-11-19T01:30:37.568472+00:00",
+   "title": "GTA 6 Launch Causes Massive Spike in Traffic for Internet Provider Xfinity",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.ign.com/articles/gta-6-launch-causes-massive-spike-in-traffic-for-internet-provider-xfinity",
+   "score": 2,
+   "sources": 1,
+   "summary": "Internet provider Xfinity has reported a massive spike in traffic on Xbox consoles for GTA 6's New Zealand launch.",
+   "title_ar": "إطلاق GTA 6 يتسبب في ارتفاع هائل بحركة المرور لدى مزود الإنترنت Xfinity"
   },
   "ign.com/articles/gta-6-launch-live-blog": {
    "at": "2026-11-18T12:45:30.479472+00:00",
@@ -13601,7 +13601,7 @@
  "topic_last_posted": {
   "AI": "2026-11-19T01:18:22.705402+00:00",
   "Anime": "2026-11-19T01:15:30.257585+00:00",
-  "Games": "2026-11-19T00:15:28.716284+00:00",
+  "Games": "2026-11-19T01:30:37.568472+00:00",
   "Tech": "2026-11-19T01:00:41.232317+00:00"
  },
  "digest_day": "2026-11-18",
