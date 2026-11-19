@@ -1585,6 +1585,17 @@
    "summary": "In light of growing pushback from users who want more control over how AI is integrated into their apps (if at all), Canva is introducing new settings that let them hide generative AI features and…",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/19/major-privacy-breaches-reported-in-muse-ai-including-bank-balances": {
+   "at": "2026-11-19T12:45:28.204672+00:00",
+   "title": "Major privacy breaches reported in Muse AI, including bank balances",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/19/major-privacy-breaches-reported-in-muse-ai-including-bank-balances/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Meta employees have expressed concerns about what appear to be major privacy breaches when using Muse , currently the second most popular free iPhone app in the App Store with over 10 million…",
+   "title_ar": "الإبلاغ عن انتهاكات رئيسية للخصوصية في تطبيق Muse AI تشمل أرصدة الحسابات البنكية"
+  },
   "animecorner.me/are-you-a-landmine-chihara-san-anime-unveils-main-visual": {
    "at": "2026-11-16T12:30:39.759667+00:00",
    "title": "Are You a Landmine, Chihara-san? Anime Unveils Main Visual",
@@ -4653,6 +4664,17 @@
    "sources": 2,
    "summary": "World of Warcraft: Forever has suffered its first economic nightmare, as a dungeon farm exploit has left some players with thousands of gold in their bags while the vast majority of players are…",
    "title_ar": "تعرض اقتصاد لعبة World of Warcraft: Forever لتخريب كبير بسبب ثغرة سمحت للاعبين بجمع آلاف القطع الذهبية"
+  },
+  "eurogamer.net/world-of-warcraft-forever-secret-hunter-pet-green-cat": {
+   "at": "2026-11-19T12:45:28.204672+00:00",
+   "title": "The hunt for World of Warcraft: Forever secrets continue with the discovery of an elusive pet",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/world-of-warcraft-forever-secret-hunter-pet-green-cat",
+   "score": 0,
+   "sources": 1,
+   "summary": "The search for secrets in World of Warcraft: Forever continues ever onwards, with a new breakthrough coming to light in recent days.",
+   "title_ar": ""
   },
   "eurogamer.net/xbox-cant-say-grand-theft-auto-6-marketing": {
    "at": "2026-11-19T09:15:32.144538+00:00",
@@ -11925,6 +11947,17 @@
    "summary": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform.",
    "title_ar": "Suno يتيح لك الآن إنشاء فيديوهات بالذكاء الاصطناعي لموسيقاك المصنوعة بالذكاء الاصطناعي"
   },
+  "theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button": {
+   "at": "2026-11-19T12:45:28.204672+00:00",
+   "title": "Canva adds an AI ‘off’ button",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+   "score": 0,
+   "sources": 1,
+   "summary": "Canva will now allow you to turn off its generative AI features.",
+   "title_ar": ""
+  },
   "theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google": {
    "at": "2026-11-19T00:45:27.199451+00:00",
    "title": "The nation’s largest school districts consider ditching Google Search",
@@ -13767,7 +13800,7 @@
   "AI": "2026-11-19T05:30:34.127043+00:00",
   "Anime": "2026-11-19T04:30:35.103449+00:00",
   "Games": "2026-11-19T12:00:44.341770+00:00",
-  "Tech": "2026-11-19T12:30:36.241327+00:00"
+  "Tech": "2026-11-19T12:45:28.204672+00:00"
  },
  "digest_day": "2026-11-18",
  "weekly_day": "2026-11-13"
