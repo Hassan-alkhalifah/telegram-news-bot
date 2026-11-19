@@ -1816,17 +1816,6 @@
    "summary": "New service available in Japan only launched on November 5",
    "title_ar": "Kakao Piccoma تطلق منصة الـ BL Webtoon الجديدة Lulumiru"
   },
-  "animenewsnetwork.com/news/2026-11-12/nabe-ni-tama-wo-ukenagara-tv-anime-reveals-main-cast-staff-january-debut/.243753": {
-   "at": "2026-11-12T11:15:31.120728+00:00",
-   "title": "Nabe ni Tama wo Ukenagara TV Anime Reveals Main Cast, Staff, January Debut",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-12/nabe-ni-tama-wo-ukenagara-tv-anime-reveals-main-cast-staff-january-debut/.243753",
-   "score": 0,
-   "sources": 1,
-   "summary": "Shū Uchida, Masaaki Mizunaka both voice Juntarō in J.C.STAFF anime",
-   "title_ar": ""
-  },
   "animenewsnetwork.com/news/2026-11-12/professor-layton-and-the-new-world-of-steam-game-reveals-english-dub-cast/.243767": {
    "at": "2026-11-12T18:45:29.967016+00:00",
    "title": "Professor Layton and The New World of Steam Game Reveals English Dub, Cast",
@@ -4531,17 +4520,6 @@
    "score": 0,
    "sources": 1,
    "summary": "The Legend of Zelda was in \"dire straits\" before Breath of the Wild gave the beloved series a massive second wind, according to two former Nintendo marketing leads.",
-   "title_ar": ""
-  },
-  "eurogamer.net/marvel-1943-rise-of-hydra-not-cancelled-skydance-says": {
-   "at": "2026-11-12T11:15:31.120728+00:00",
-   "title": "Amy Hennig's Marvel 1943: Rise of Hydra hasn't been cancelled, Skydance reportedly says, as rumours swirl to the contrary",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.eurogamer.net/marvel-1943-rise-of-hydra-not-cancelled-skydance-says",
-   "score": 0,
-   "sources": 1,
-   "summary": "You'd be forgiven for forgetting that Amy Hennig's superhero game Marvel 1943: Rise of Hydra exists, but apparently it's still in development despite its many troubles and rumours to the contrary.",
    "title_ar": ""
   },
   "eurogamer.net/microsoft-project-helix-interview-details": {
@@ -11694,6 +11672,17 @@
    "summary": "Google's Gemini 4 Hydrogen replaces the Flash series, but benchmarks suggest it also makes the pricier Argon obsolete.",
    "title_ar": ""
   },
+  "the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago": {
+   "at": "2026-11-19T11:30:38.064409+00:00",
+   "title": "Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Google DeepMind has released Gemini 4 Neon, its fourth model in seven weeks, which is nearly 2x faster than its sibling Carbon, outperforms it on most benchmarks and comes in at a significantly…",
+   "title_ar": ""
+  },
   "the-decoder.com/isomorphic-labs-raises-5-billion-in-its-second-mega-round-within-six-months": {
    "at": "2026-11-17T15:00:48.416521+00:00",
    "title": "Isomorphic Labs raises $5 billion in its second mega-round within six months",
@@ -12177,17 +12166,6 @@
    "sources": 1,
    "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit.",
    "title_ar": "فشل صاروخ Vulcan وتدمير 40 قمراً صناعياً لـ Amazon Leo"
-  },
-  "theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls": {
-   "at": "2026-11-12T11:15:31.120728+00:00",
-   "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls",
-   "score": 1,
-   "sources": 1,
-   "summary": "When (or if) Ring's security camera drone flies into our homes in January, you won't get the option to pilot it yourself.",
-   "title_ar": "Ring تؤكد أن طائرتها المسيرة المزودة بكاميرا لن تحتوي على عناصر تحكم يدوية بعد تحطمها في CBS News"
   },
   "theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout": {
    "at": "2026-11-12T17:15:30.373926+00:00",
@@ -12881,6 +12859,17 @@
    "sources": 1,
    "summary": "Researchers pinpoint that DeepSeek, Kimi, and other Chinese AI models were trained on export-controlled Nvidia Blackwell chips — statistical analysis on model weights reveals high correlation to…",
    "title_ar": ""
+  },
+  "tomshardware.com/tech-industry/artificial-intelligence/three-e-waste-nvidia-v100s-hit-100-tokens-per-second-on-qwen-3-6-35b-in-a-usd1-042-homelab-rig-decommissioned-gpus-outpace-a-usd5-399-m5-max-mac-studio-at-long-contexts": {
+   "at": "2026-11-19T11:30:38.064409+00:00",
+   "title": "Three 'e-waste' Nvidia V100s hit 100 tokens per second on Qwen 3.6 35B in a $1,042 homelab rig",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/three-e-waste-nvidia-v100s-hit-100-tokens-per-second-on-qwen-3-6-35b-in-a-usd1-042-homelab-rig-decommissioned-gpus-outpace-a-usd5-399-m5-max-mac-studio-at-long-contexts",
+   "score": 1,
+   "sources": 1,
+   "summary": "A homelab builder runs Qwen 3.6 35B on three used Nvidia Tesla V100 GPUs at about 100 tokens per second, in a $1,042 build.",
+   "title_ar": "ثلاث وحدات Nvidia V100 من النفايات الإلكترونية تصل إلى 100 رمز في الثانية على نموذج Qwen 3.6 35B في جهاز منزلي بتكلفة 1042 دولاراً"
   },
   "tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that": {
    "at": "2026-11-14T15:45:26.431480+00:00",
@@ -13866,7 +13855,7 @@
   "AI": "2026-11-19T05:30:34.127043+00:00",
   "Anime": "2026-11-19T04:30:35.103449+00:00",
   "Games": "2026-11-19T06:30:35.105237+00:00",
-  "Tech": "2026-11-19T11:15:31.030470+00:00"
+  "Tech": "2026-11-19T11:30:38.064409+00:00"
  },
  "digest_day": "2026-11-18",
  "weekly_day": "2026-11-13"
