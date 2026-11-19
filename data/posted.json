@@ -573,17 +573,6 @@
    "summary": "Besides removing the Samples tab , YouTube Music for Android and iOS is rolling out instant access to Ask Music with a new Gemini icon in the top-right corner. more…",
    "title_ar": ""
   },
-  "9to5mac.com/2026/11/12/30-of-iphone-duo-buyers-may-have-returned-it-but-i-dont-think-apple-should-worry": {
-   "at": "2026-11-12T13:00:46.916755+00:00",
-   "title": "30% of iPhone Duo buyers may have returned it, but I don’t think Apple should worry",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/12/30-of-iphone-duo-buyers-may-have-returned-it-but-i-dont-think-apple-should-worry/",
-   "score": 0,
-   "sources": 1,
-   "summary": "A poll of 9to5Mac readers who were lucky enough to take delivery of their iPhone Duo in the first few days shows that 30% of them have returned it for a refund.",
-   "title_ar": ""
-  },
   "9to5mac.com/2026/11/12/apple-home-collection-accessories-available-for-pre-order-this-friday": {
    "at": "2026-11-12T16:00:47.960550+00:00",
    "title": "Apple Home Collection accessories available for pre-order this Friday",
@@ -2519,6 +2508,17 @@
    "sources": 1,
    "summary": "Series about clothing designer reborn as princess' stepmom has amassed more than 100 million views",
    "title_ar": ""
+  },
+  "animenewsnetwork.com/news/2026-11-19/rakuen-tsuiho-expelled-from-paradise-kokoro-no-resonance-film-opens-at-no.5-in-japan/.243961": {
+   "at": "2026-11-19T13:15:43.819973+00:00",
+   "title": "Rakuen Tsuihō -Expelled from Paradise- Kokoro no Resonance Film Opens at #5 in Japan",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-19/rakuen-tsuiho-expelled-from-paradise-kokoro-no-resonance-film-opens-at-no.5-in-japan/.243961",
+   "score": 1,
+   "sources": 1,
+   "summary": "Godzilla Minus Zero stays at #1, becomes highest-earning live-action IMAX film in Japan",
+   "title_ar": "فيلم Rakuen Tsuihō -Expelled from Paradise- Kokoro no Resonance يفتتح في المركز 5 في اليابان"
   },
   "animenewsnetwork.com/news/2026-11-19/shin-oishinbo-anime-reveals-more-cast-staff-january-4-debut-in-main-trailer/.243985": {
    "at": "2026-11-19T11:00:45.237272+00:00",
@@ -5787,17 +5787,6 @@
    "summary": "Cozy multiplayer sandbox game Tinker Islands will launch in Early Access for PC via Steam …",
    "title_ar": ""
   },
-  "gematsu.com/2026/11/vindictus-defying-fate-confirmed-for-ps5-cinematic-trailer-teaser": {
-   "at": "2026-11-12T13:00:46.916755+00:00",
-   "title": "Vindictus: Defying Fate confirmed for PS5, ‘Cinematic’ trailer teaser",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.gematsu.com/2026/11/vindictus-defying-fate-confirmed-for-ps5-cinematic-trailer-teaser",
-   "score": 2,
-   "sources": 1,
-   "summary": "Medieval fantasy action RPG Vindictus: Defying Fate will be available for PlayStation 5 alongside PC …",
-   "title_ar": "التأكيد على صدور لعبة Vindictus: Defying Fate على جهاز PS5 مع إطلاق عرض دعوي سينمائي"
-  },
   "gematsu.com/2026/11/vindictus-defying-fate-let-the-righteous-judge-cinematic-trailer": {
    "at": "2026-11-13T20:30:37.655938+00:00",
    "title": "Vindictus: Defying Fate ‘Let the Righteous Judge’ cinematic trailer",
@@ -5841,17 +5830,6 @@
    "sources": 1,
    "summary": "The PlayStation 5 and Xbox Series versions of tactical first-person shooter Zero Hour will launch …",
    "title_ar": "إطلاق لعبة Zero Hour على PS5 و Xbox Series في 3 ديسمبر"
-  },
-  "gsmarena.com/a_seller_in_china_has_started_taking_blind_preorders_for_the_vanilla_xiaomi_18-news-75452.php": {
-   "at": "2026-11-12T13:15:29.049450+00:00",
-   "title": "A seller in China has started taking blind pre-orders for the vanilla Xiaomi 18",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.gsmarena.com/a_seller_in_china_has_started_taking_blind_preorders_for_the_vanilla_xiaomi_18-news-75452.php",
-   "score": 1,
-   "sources": 1,
-   "summary": "The Xiaomi 18 may be closer than we expected – reports coming out of China indicate that one seller has started taking blind pre-orders for the upcoming model.",
-   "title_ar": "بائع في الصين يبدأ بتلقي طلبات مسبقة عمياء لهاتف Xiaomi 18 العادي"
   },
   "gsmarena.com/analysts_samsung_held_twothirds_of_the_global_foldable_market_in_q3_thanks_to_the_z_fold8-news-75455.php": {
    "at": "2026-11-12T20:45:29.538831+00:00",
@@ -6348,6 +6326,17 @@
    "summary": "Samsung has announced the One UI 9.5 beta program for the Galaxy S26 series in select markets.",
    "title_ar": ""
   },
+  "gsmarena.com/samsung_one_ui_9_5_open_gate_video_recording_dual_cam_panorama-news-75538.php": {
+   "at": "2026-11-19T13:15:43.819973+00:00",
+   "title": "Samsung could bring native Open Gate video recording and dual-cam panorama to its smartphones with One UI 9.5",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/samsung_one_ui_9_5_open_gate_video_recording_dual_cam_panorama-news-75538.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "Samsung announced the One UI 9.5 beta program for the Galaxy S26 series yesterday.",
+   "title_ar": ""
+  },
   "gsmarena.com/samsung_settles_fouryear_wireless_powershare_patent_lawsuit-news-75456.php": {
    "at": "2026-11-12T18:30:37.128953+00:00",
    "title": "Samsung settles four-year Wireless PowerShare patent lawsuit",
@@ -6721,6 +6710,17 @@
    "sources": 1,
    "summary": "Former Nvidia CEO Jensen Huang resigned today amid a scandal involving an affair with a suspected Chinese spy and an executive that reported to him.",
    "title_ar": ""
+  },
+  "ign.com/articles/gamestop-ceo-blasts-digital-only-gta-6-no-disc": {
+   "at": "2026-11-19T13:15:43.819973+00:00",
+   "title": "As GTA 6 Skips Discs, GameStop CEO Says Digital-Only 'Has Hurt Consumers' and Retailers",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.ign.com/articles/gamestop-ceo-blasts-digital-only-gta-6-no-disc",
+   "score": 3,
+   "sources": 2,
+   "summary": "As GTA 6 launches without a physical disc, GameStop CEO Ryan Cohen warns that the industry's shift to digital-only games has hurt both consumers and retail.",
+   "title_ar": "مع تخلي GTA 6 عن الأقراص، رئيس GameStop التنفيذي يقول إن الإصدارات الرقمية فقط \"أضرَت بالمستهلكين\" وتجار التجزئة"
   },
   "ign.com/articles/god-of-war-sons-of-sparta-coming-to-ps4-next-week-with-new-content": {
    "at": "2026-11-13T17:45:29.299284+00:00",
@@ -8108,6 +8108,17 @@
    "summary": "World Premiere, or whatever he says",
    "title_ar": ""
   },
+  "kotaku.com/gamestop-ceo-criticizes-digital-only-games-gta-6-releases-without-a-disc-2000758233": {
+   "at": "2026-11-19T13:15:43.819973+00:00",
+   "title": "GameStop CEO Criticizes Digital-Only Games As GTA 6 Releases Without A Disc",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/gamestop-ceo-criticizes-digital-only-games-gta-6-releases-without-a-disc-2000758233",
+   "score": 0,
+   "sources": 1,
+   "summary": "'Unquestionably, the decision to move to all digital has hurt consumers, and it’s also hurt GameStop.'",
+   "title_ar": ""
+  },
   "kotaku.com/grand-theft-auto-6-gta6-fox-news-lucia-hooker-rachel-campos-duffy-2000757710": {
    "at": "2026-11-17T17:45:28.710104+00:00",
    "title": "Fox News Weighs In On Grand Theft Auto 6, Asks If Lucia Is A Hooker",
@@ -9382,6 +9393,17 @@
    "score": 0,
    "sources": 1,
    "summary": "What, no Sideways Hank O'Mally?",
+   "title_ar": ""
+  },
+  "pcgamer.com/games/grand-theft-auto/if-youre-fed-up-of-gta-6-at-30-fps-this-tool-gets-it-up-to-60-and-injects-dlss-5-if-you-have-a-powerful-enough-gaming-pc": {
+   "at": "2026-11-19T13:15:43.819973+00:00",
+   "title": "If you're fed up of GTA 6 at 30 fps, this tool gets it up to 60 and injects DLSS 5 if you have a powerful enough gaming PC",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/games/grand-theft-auto/if-youre-fed-up-of-gta-6-at-30-fps-this-tool-gets-it-up-to-60-and-injects-dlss-5-if-you-have-a-powerful-enough-gaming-pc/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Though we've struggled to get it working over here.",
    "title_ar": ""
   },
   "pcgamer.com/games/grand-theft-auto/miami-heat-shows-off-its-vice-city-hardwood-ahead-of-the-big-grand-theft-auto-6-basketball-game": {
@@ -11782,6 +11804,17 @@
    "summary": "OpenAI physicist Nathaniel Craig used GPT-6 Astra to tackle a problem that had stumped particle physicists for over 25 years.",
    "title_ar": "نموذج OpenAI المسمى GPT-6 Astra يعالج أصعب مسألة رياضية في النموذج المعياري على شبكة بلورية"
   },
+  "the-decoder.com/openais-own-researchers-now-say-they-value-their-ai-tools-more-than-nearly-half-their-colleagues": {
+   "at": "2026-11-19T13:15:43.819973+00:00",
+   "title": "OpenAI's own researchers now say they value their AI tools more than nearly half their colleagues",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/openais-own-researchers-now-say-they-value-their-ai-tools-more-than-nearly-half-their-colleagues/",
+   "score": 1,
+   "sources": 1,
+   "summary": "OpenAI's internal use of coding agents is growing fast, with theoretical token costs now exceeding researchers' base salaries.",
+   "title_ar": "باحثو OpenAI أنفسهم يقولون الآن إنهم يدركون قيمة أدوات الذكاء الاصطناعي الخاصة بهم أكثر من نصف زملائهم تقريباً"
+  },
   "the-decoder.com/sec-probes-nvidia-over-undisclosed-chip-sales-tied-to-china": {
    "at": "2026-11-18T13:45:29.492013+00:00",
    "title": "SEC probes Nvidia over undisclosed chip sales tied to China",
@@ -13168,17 +13201,6 @@
    "summary": "The emergence of AI has seemingly posed a threat to high-precision FP64 computation, but AMD doesn't think the HPC world is moving away from those complex calculations in the wake of AI.",
    "title_ar": "الباحثون \"يُدركون أن الذكاء الاصطناعي لن يحل محل الحوسبة عالية الأداء HPC\"، وفقاً لمسؤول تنفيذي في AMD - أحمال العمل عالية الدقة \"ستظل موجودة لفترة طويلة جداً\" حتى مع توسع استخدام الذكاء الاصطناعي"
   },
-  "tomshardware.com/tech-industry/suspected-chinese-spy-at-center-of-jensen-huang-affair-surfaces-in-beijing-alice-huang-last-spotted-heading-to-shanghai-after-being-detained-questioned-in-singapore-in-2025-allegedly-helped-china-smuggle-hundreds-of-thousands-of-banned-chips": {
-   "at": "2026-11-12T13:00:46.916755+00:00",
-   "title": "Suspected Chinese spy at center of Jensen Huang affair surfaces in Beijing",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.tomshardware.com/tech-industry/suspected-chinese-spy-at-center-of-jensen-huang-affair-surfaces-in-beijing-alice-huang-last-spotted-heading-to-shanghai-after-being-detained-questioned-in-singapore-in-2025-allegedly-helped-china-smuggle-hundreds-of-thousands-of-banned-chips",
-   "score": 0,
-   "sources": 1,
-   "summary": "There are multiple speculations about Alice Huang's s history and how she built her relationship with Jensen Huang.",
-   "title_ar": ""
-  },
   "tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen": {
    "at": "2026-11-16T18:30:39.525694+00:00",
    "title": "Trump calls for Jensen Huang reinstatement as Nvidia CEO",
@@ -13397,17 +13419,6 @@
    "score": 0,
    "sources": 1,
    "summary": "The studio's head said last year that it was always supposed to be a trilogy",
-   "title_ar": ""
-  },
-  "videogameschronicle.com/news/marvel-1943-rise-of-hydra-staff-were-reportedly-told-the-game-hasnt-been-cancelled-despite-online-rumour": {
-   "at": "2026-11-12T13:15:29.049450+00:00",
-   "title": "Marvel 1943: Rise of Hydra staff were reportedly told the game hasn’t been cancelled despite online rumour",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.videogameschronicle.com/news/marvel-1943-rise-of-hydra-staff-were-reportedly-told-the-game-hasnt-been-cancelled-despite-online-rumour/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The game has been delayed numerous times",
    "title_ar": ""
   },
   "videogameschronicle.com/news/microsoft-struggles-to-restore-online-services-after-major-outage": {
@@ -13786,9 +13797,9 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-19T05:30:34.127043+00:00",
-  "Anime": "2026-11-19T04:30:35.103449+00:00",
-  "Games": "2026-11-19T12:00:44.341770+00:00",
+  "AI": "2026-11-19T13:15:43.819973+00:00",
+  "Anime": "2026-11-19T13:15:43.819973+00:00",
+  "Games": "2026-11-19T13:15:43.819973+00:00",
   "Tech": "2026-11-19T13:00:44.987847+00:00"
  },
  "digest_day": "2026-11-18",
