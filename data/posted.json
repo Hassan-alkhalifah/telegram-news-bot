@@ -3543,17 +3543,6 @@
    "summary": "Apple Maps has plenty of useful features - some big, some small.",
    "title_ar": ""
   },
-  "engadget.com/2314515/nintendo-is-ending-google-and-apple-sign-ins-early-next-year": {
-   "at": "2026-11-12T11:30:39.423362+00:00",
-   "title": "Nintendo is ending Google and Apple sign-ins early next year",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.engadget.com/2314515/nintendo-is-ending-google-and-apple-sign-ins-early-next-year/",
-   "score": 0,
-   "sources": 1,
-   "summary": "You'll soon no longer be able to use Google and Apple log-ins to access Nintendo.",
-   "title_ar": ""
-  },
   "engadget.com/2314584/jensen-huang-is-out-as-nvidia-ceo": {
    "at": "2026-11-12T14:30:42.687517+00:00",
    "title": "Jensen Huang is out as NVIDIA CEO",
@@ -4542,17 +4531,6 @@
    "score": 0,
    "sources": 1,
    "summary": "New Zealand's tourism board has taken advantage of all the excitement surrounding Grand Theft Auto 6 's launch, as hordes of players who've changed their Xbox timezones to that of the world's second…",
-   "title_ar": ""
-  },
-  "eurogamer.net/nvidia-ceo-jensen-huang-affair-share-price": {
-   "at": "2026-11-12T11:45:27.028227+00:00",
-   "title": "Nvidia board considering ousting CEO Jensen Huang, report claims, as news of a second affair comes to light",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.eurogamer.net/nvidia-ceo-jensen-huang-affair-share-price",
-   "score": 0,
-   "sources": 1,
-   "summary": "Nvidia's board of directors has reportedly met to decide whether to remove the company's embattled CEO Jensen Huang, as news of a second extramarital affair has come to light.",
    "title_ar": ""
   },
   "eurogamer.net/nvidia-ceo-jensen-huang-resigns": {
@@ -12618,6 +12596,17 @@
    "summary": "Following a post on X, AMD Japan's claim that the company values gamers \"above all else\" saw those gamers point out that its own CEO believes the company is more focused on data centers.",
    "title_ar": "منشور تفاخر لشركة AMD على تويتر بأنها تحب اللاعبين يواجه ملاحظة مجتمعية لاذعة"
   },
+  "tomshardware.com/pc-components/cpus/intel-diamond-rapids-shows-signs-of-life-in-sc26-demo-running-live-server-next-gen-xeon-7-cpu-breaks-cover-at-partner-booths-no-showcase-from-intel": {
+   "at": "2026-11-19T11:45:27.950184+00:00",
+   "title": "Intel Diamond Rapids shows signs of life in SC26 demo running live server",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/pc-components/cpus/intel-diamond-rapids-shows-signs-of-life-in-sc26-demo-running-live-server-next-gen-xeon-7-cpu-breaks-cover-at-partner-booths-no-showcase-from-intel",
+   "score": 1,
+   "sources": 1,
+   "summary": "Intel’s next-gen Xeon Diamond Rapids CPUs appeared at two booths during SC26, one of which featured a running server, but neither were directly from Intel.",
+   "title_ar": "معالجات Intel Diamond Rapids تظهر مؤشرات حياة في عرض حي لخادم ضمن فعاليات SC26"
+  },
   "tomshardware.com/pc-components/cpus/intel-reclaims-overall-cpu-market-share-for-the-first-time-since-2025-massive-desktop-gains-offset-amds-record-server-and-mobile-growth": {
    "at": "2026-11-15T13:45:24.442819+00:00",
    "title": "Intel reclaims overall CPU market share for the first time since 2025",
@@ -12782,17 +12771,6 @@
    "sources": 1,
    "summary": "macOS on PCs becomes possible thanks to Apple Silicon translator for x86-64 — Hackintoshes",
    "title_ar": "تشغيل نظام macOS على الحواسيب الشخصية يصبح ممكناً مرة أخرى بفضل أداة الترجمة لمعالجات Apple Silicon على بنية x86-64"
-  },
-  "tomshardware.com/tech-industry/artificial-intelligence/google-adds-two-new-specialized-chips-for-ai-agents-and-security-to-8th-gen-tpu-lineup-tpu-8i-max-puts-two-chips-on-one-package-for-long-context-work-tpu-8tx-swaps-arm-hosts-for-amd-epyc": {
-   "at": "2026-11-12T11:30:39.423362+00:00",
-   "title": "Google reworks TPU silicon into specialized systems for agents and security",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-adds-two-new-specialized-chips-for-ai-agents-and-security-to-8th-gen-tpu-lineup-tpu-8i-max-puts-two-chips-on-one-package-for-long-context-work-tpu-8tx-swaps-arm-hosts-for-amd-epyc",
-   "score": 1,
-   "sources": 1,
-   "summary": "Google’s TPU 8i Max and TPU 8tx reuse TPU 8i and TPU 8t silicon to target long-context agents and confidential inference.",
-   "title_ar": "جوجل تعيد تصميم سيليكون TPU إلى أنظمة مخصصة للوكلاء الأذكياء والأمان"
   },
   "tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-could-be-plotting-return-as-nvidia-ceo-report-claims-allies-have-formed-a-war-room-to-drive-reinstatement-days-after-resignation-scandal": {
    "at": "2026-11-16T12:45:32.036008+00:00",
@@ -13855,7 +13833,7 @@
   "AI": "2026-11-19T05:30:34.127043+00:00",
   "Anime": "2026-11-19T04:30:35.103449+00:00",
   "Games": "2026-11-19T06:30:35.105237+00:00",
-  "Tech": "2026-11-19T11:30:38.064409+00:00"
+  "Tech": "2026-11-19T11:45:27.950184+00:00"
  },
  "digest_day": "2026-11-18",
  "weekly_day": "2026-11-13"
