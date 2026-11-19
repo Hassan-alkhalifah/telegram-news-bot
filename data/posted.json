@@ -5985,17 +5985,6 @@
    "summary": "Huawei is expected to launch a new smartwatch in its portfolio soon with the Watch Air.",
    "title_ar": "تسريب ساعة Huawei Watch Air بتصميم نحيف للغاية"
   },
-  "gsmarena.com/huaweis_osta_subbrand_now_has_an_official_launch_date-news-75448.php": {
-   "at": "2026-11-12T06:00:40.939331+00:00",
-   "title": "Huawei's Osta sub-brand now has an official launch date",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.gsmarena.com/huaweis_osta_subbrand_now_has_an_official_launch_date-news-75448.php",
-   "score": 1,
-   "sources": 1,
-   "summary": "Huawei has recently been rumored to be working on introducing a new sub-brand called Xingmang in Chinese, and Osta in English.",
-   "title_ar": "العلامة التجارية الفرعية Osta من Huawei تملك الآن موعد إطلاق رسمي"
-  },
   "gsmarena.com/iphone_20_pro_may_bring_back_titanium-news-75535.php": {
    "at": "2026-11-19T02:30:34.919348+00:00",
    "title": "iPhone 20 Pro may bring back titanium",
@@ -12563,6 +12552,17 @@
    "summary": "The mysterious Intel Core Ultra 7 260K has surfaced in some prebuilt gaming PCs on Newegg, despite no official mention of the chip from Intel.",
    "title_ar": "ظهور معالج إنتل غير المعلن Core Ultra 7 260K في أجهزة ألعاب مجهزة مسبقاً على متجر Newegg"
   },
+  "tomshardware.com/pc-components/gpu-drivers/nvidia-geforce-driver-bug-reportedly-hammers-ssds-with-up-to-30gb-of-writes-per-hour-users-trace-massive-idle-wear-to-background-service-newer-driver-reportedly-still-affected": {
+   "at": "2026-11-19T06:00:52.906018+00:00",
+   "title": "Nvidia GeForce driver bug reportedly hammers SSDs with up to 30GB of writes per hour",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/pc-components/gpu-drivers/nvidia-geforce-driver-bug-reportedly-hammers-ssds-with-up-to-30gb-of-writes-per-hour-users-trace-massive-idle-wear-to-background-service-newer-driver-reportedly-still-affected",
+   "score": 1,
+   "sources": 1,
+   "summary": "Nvidia’s GeForce 621.14 and 621.24 drivers reportedly rewrite a log file nonstop, writing gigabytes to SSDs every hour.",
+   "title_ar": "تقرير: خطأ في تعريف Nvidia GeForce يستنزف أقراص SSD بمعدل كتابة يصل إلى 30 جيجابايت في الساعة"
+  },
   "tomshardware.com/pc-components/gpus/china-threatens-countermeasures-on-the-face-of-new-ai-gpu-rental-and-export-restrictions-beijing-threatens-retaliation-ahead-of-thursdays-xi-jinping-meeting-sino-american-trade-war-may-be-renewed-for-a-new-season": {
    "at": "2026-11-18T11:00:43.741979+00:00",
    "title": "China threatens 'countermeasures' in the face of new AI GPU rental and export restrictions — Beijing threatens retaliation ahead of Thursday's Xi Jinping meeting, Sino-American trade war may be renewed for a new season",
@@ -13734,7 +13734,7 @@
   "AI": "2026-11-19T05:30:34.127043+00:00",
   "Anime": "2026-11-19T04:30:35.103449+00:00",
   "Games": "2026-11-19T04:00:40.841849+00:00",
-  "Tech": "2026-11-19T05:45:27.497610+00:00"
+  "Tech": "2026-11-19T06:00:52.906018+00:00"
  },
  "digest_day": "2026-11-18",
  "weekly_day": "2026-11-13"
