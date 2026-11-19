@@ -650,17 +650,6 @@
    "summary": "Apple Music and Buckingham Palace today announced that King Charles will join the next episode of Sir Elton John’s Rocket Hour to discuss the 50th anniversary of his charity and the role music has…",
    "title_ar": "برنامج Elton John على Apple Music يستضيف King Charles في حلقة خاصة يوم 14 نوفمبر"
   },
-  "9to5mac.com/2026/11/12/foxconn-revenue-climbs-46-bloomberg-forecasts-16m-iphone-duo-sales": {
-   "at": "2026-11-12T13:45:28.358599+00:00",
-   "title": "Foxconn revenue climbs 46%; Bloomberg forecasts 16M iPhone Duo sales",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/12/foxconn-revenue-climbs-46-bloomberg-forecasts-16m-iphone-duo-sales/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Key Apple manufacturing partner Foxconn has announced a year-on-year revenue increase of 46%, thanks to a mix of consumer electronics and server demand.",
-   "title_ar": "ارتفاع إيرادات Foxconn بنسبة 46%، وBloomberg تتوقع مبيعات بـ 16 مليون وحدة لـ iPhone Duo"
-  },
   "9to5mac.com/2026/11/12/grok-bot-for-mac-adds-integration-with-apple-mail-messages-notes-and-more": {
    "at": "2026-11-12T20:45:29.538831+00:00",
    "title": "Grok Bot for Mac adds integration with Apple Mail, Messages, Notes, and more",
@@ -4335,6 +4324,17 @@
    "summary": "Grand Theft Auto 6 .",
    "title_ar": ""
   },
+  "eurogamer.net/grand-theft-auto-6-no-web-social-media-apps": {
+   "at": "2026-11-19T13:45:29.703866+00:00",
+   "title": "GTA 6 has replaced websites with social media and phone apps because \"it didn't feel necessary\"",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/grand-theft-auto-6-no-web-social-media-apps",
+   "score": 0,
+   "sources": 1,
+   "summary": "The internet of today is a far cry from the days when Grand Theft Auto 5 was released, which is partly why Rockstar didn't bring back its own satirical version of the web in GTA 6 .",
+   "title_ar": ""
+  },
   "eurogamer.net/grand-theft-auto-6-players-love-crime-social-media-animals": {
    "at": "2026-11-19T09:45:27.407946+00:00",
    "title": "After Grand Theft Auto 6's launch, players are in love with wacky criminality, in-game social media, and animal fatalities",
@@ -5764,17 +5764,6 @@
    "sources": 1,
    "summary": "The Game Awards has announced its nominees for 2026, as selected by a global jury …",
    "title_ar": ""
-  },
-  "gematsu.com/2026/11/the-spectrum-retreat-redux-coming-to-ps5-xbox-series-and-pc-on-november-26": {
-   "at": "2026-11-12T13:30:41.496030+00:00",
-   "title": "The Spectrum Retreat: Redux coming to PS5, Xbox Series, and PC on November 26",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.gematsu.com/2026/11/the-spectrum-retreat-redux-coming-to-ps5-xbox-series-and-pc-on-november-26",
-   "score": 3,
-   "sources": 2,
-   "summary": "Ripstone will release The Spectrum Retreat: Redux, a remastered version of the 2018-released first-person puzzler …",
-   "title_ar": "لعبة TheSpectrumRetreat: Redux قادمة إلى PS5 وXbox Series وPC في 26 نوفمبر"
   },
   "gematsu.com/2026/11/this-weeks-japanese-game-releases-grand-theft-auto-vi-more": {
    "at": "2026-11-16T13:45:28.964456+00:00",
@@ -7404,17 +7393,6 @@
    "summary": "Microsoft has revealed three new nostalgic Xbox console boot-up options for Xbox Series X/S and Xbox One as part of a new update for the brand's 25th anniversary.",
    "title_ar": "أكس بوكس تكشف عن خيارات التشغيل لجهازي Original و 360 بمناسبة الذكرى السنوية الـ 25"
   },
-  "insider-gaming.com/17-classic-xbox-games-could-be-coming-to-pc": {
-   "at": "2026-11-12T13:30:41.496030+00:00",
-   "title": "17 Classic XBOX Games Could be Coming to PC",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/17-classic-xbox-games-could-be-coming-to-pc/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Files have been found on the Microsoft Store backend, suggesting that a few Xbox classics could soon be available on PC.",
-   "title_ar": ""
-  },
   "insider-gaming.com/5-big-ps5-games-will-receive-qssr-update": {
    "at": "2026-11-13T14:45:39.112881+00:00",
    "title": "5 Big PS5 Games Will Receive QSSR Update",
@@ -7590,6 +7568,17 @@
    "sources": 1,
    "summary": "Grand Theft Auto 6 has just gone live in New Zealand, which means the game has officially hit the market after years of development.",
    "title_ar": ""
+  },
+  "insider-gaming.com/gta-6-jason-actor-seemingly-confirmed-in-social-media-post": {
+   "at": "2026-11-19T13:45:29.703866+00:00",
+   "title": "GTA 6 Jason Actor Seemingly Confirmed in Social Media Post",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://insider-gaming.com/gta-6-jason-actor-seemingly-confirmed-in-social-media-post/",
+   "score": 2,
+   "sources": 1,
+   "summary": "GTA 6's Jason actor has been seemingly confirmed as Dylan Rourke, which players were already expecting.",
+   "title_ar": "البود كاست المزعوم لممثل شخصية Jason في GTA 6 يؤكد هويته من خلال منشور على وسائل التواصل الاجتماعي"
   },
   "insider-gaming.com/gta-6-lucia-actress-officially-revealed-during-2026-game-awards-nominations": {
    "at": "2026-11-17T17:15:33.141500+00:00",
@@ -8315,17 +8304,6 @@
    "score": 0,
    "sources": 1,
    "summary": "There's no official word on a release date, but 2027 is looking very likely",
-   "title_ar": ""
-  },
-  "kotaku.com/nintendo-github-dmca-takedowns-picofly-modchips-piracy-repositories-2000756232": {
-   "at": "2026-11-12T13:45:28.358599+00:00",
-   "title": "Nintendo’s Latest Volley Of DMCA Takedowns Wipes Over 200 Nintendo Switch Projects Off Of GitHub",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/nintendo-github-dmca-takedowns-picofly-modchips-piracy-repositories-2000756232",
-   "score": 0,
-   "sources": 1,
-   "summary": "The latest wave of Nintendo DMCAs on GitHub have targeted firmware for Nintendo Switch modchips and its old emulation-related nemesis, Yuzu",
    "title_ar": ""
   },
   "kotaku.com/no-websites-in-gta-6-vice-city-rockstar-rob-nelson-interview-2000757890": {
@@ -10053,6 +10031,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Digital Foundry delivers the verdict.",
+   "title_ar": ""
+  },
+  "pushsquare.com/news/2026/11/gta-6-has-an-easy-mode-buried-in-an-impressive-range-of-accessibility-options": {
+   "at": "2026-11-19T13:45:29.703866+00:00",
+   "title": "GTA 6 Has an Easy Mode Buried in an Impressive Range of Accessibility Options",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pushsquare.com/news/2026/11/gta-6-has-an-easy-mode-buried-in-an-impressive-range-of-accessibility-options",
+   "score": 0,
+   "sources": 1,
+   "summary": "Take it easy.",
    "title_ar": ""
   },
   "pushsquare.com/news/2026/11/gta-6-launch-leads-to-special-holiday-for-all-palworld-dev-employees": {
@@ -13821,7 +13810,7 @@
  "topic_last_posted": {
   "AI": "2026-11-19T13:15:43.819973+00:00",
   "Anime": "2026-11-19T13:15:43.819973+00:00",
-  "Games": "2026-11-19T13:15:43.819973+00:00",
+  "Games": "2026-11-19T13:45:29.703866+00:00",
   "Tech": "2026-11-19T13:30:40.550327+00:00"
  },
  "digest_day": "2026-11-18",
