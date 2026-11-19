@@ -1431,6 +1431,17 @@
    "summary": "In light of growing pushback from users who want more control over how AI is integrated into their apps (if at all), Canva is introducing new settings that let them hide generative AI features and…",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/19/chatgpt-health-feature-will-soon-work-with-mac-app-dots-more": {
+   "at": "2026-11-19T23:15:31.964553+00:00",
+   "title": "ChatGPT Health feature now works with Mac app, Dots, more",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/19/chatgpt-health-feature-will-soon-work-with-mac-app-dots-more/",
+   "score": 1,
+   "sources": 1,
+   "summary": "OpenAI relaunched its ChatGPT Health feature over the summer after piloting earlier in the year.",
+   "title_ar": "ميزة ChatGPT Health تعمل الآن مع تطبيق Mac و Dots والمزيد"
+  },
   "9to5mac.com/2026/11/19/halide-3-4-adds-a-bigger-viewfinder-and-fill-flash-for-iphone-duo": {
    "at": "2026-11-19T17:15:27.451428+00:00",
    "title": "Halide camera app just got even better for iPhone Duo",
@@ -1473,6 +1484,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Apple has released public beta 2 for iPadOS 27.3 alongside a variety of other 27.3 updates.",
+   "title_ar": ""
+  },
+  "9to5mac.com/2026/11/19/macos-27-3-public-beta-2-now-available-heres-everything-new": {
+   "at": "2026-11-19T23:15:31.964553+00:00",
+   "title": "macOS 27.3 public beta 2 now available, here’s everything new",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/19/macos-27-3-public-beta-2-now-available-heres-everything-new/",
+   "score": 0,
+   "sources": 1,
+   "summary": "After releasing developer beta 2 of macOS 27.3 earlier this week, the company is now rolling out the public beta for users looking to try the new features ahead of next month’s official release.",
    "title_ar": ""
   },
   "9to5mac.com/2026/11/19/major-privacy-breaches-reported-in-muse-ai-including-bank-balances": {
@@ -3202,6 +3224,17 @@
    "summary": "The media mix adaptation premieres on January 7",
    "title_ar": "أنمي Charisma يرحب بشخصية Terra في أحدث عروض الشخصيات"
   },
+  "crunchyroll.com/news/latest/2026/11/19/grotesqqque-anime-anthology-film-gets-one-week-screening-in-la": {
+   "at": "2026-11-19T23:15:31.964553+00:00",
+   "title": "GROTESQQQUE Anime Anthology Film Gets One-Week Screening in LA",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://crunchyroll.com/news/latest/2026/11/19/grotesqqque-anime-anthology-film-gets-one-week-screening-in-la",
+   "score": 0,
+   "sources": 1,
+   "summary": "Screening to be held at the Alamo Drafthouse Cinema Downtown Los Angeles starting December 3",
+   "title_ar": ""
+  },
   "crunchyroll.com/news/latest/2026/11/19/majutsu-wo-kiwamete-tabi-ni-deta-tensei-elf-moteamashita-jumyo-de-ikeru-densetsu-to-naru-anime-december-30-release-date-main-trailer-key-visual-theme-songs": {
    "at": "2026-11-19T10:15:30.236255+00:00",
    "title": "Majutsu wo Kiwamete Tabi ni Deta Tensei Elf, Moteamashita Jumyo de Ikeru Densetsu to Naru Anime Reveals Premiere Date, Theme Songs in New Trailer",
@@ -4125,6 +4158,17 @@
    "sources": 1,
    "summary": "The headlining film is a Billie Eilish 3D concert experience co-directed by James Cameron.",
    "title_ar": "Meta Quest تضيف ميزات شراء واستئجار الأفلام ثلاثية الأبعاد إلى تطبيق TV الخاص بها"
+  },
+  "engadget.com/2322541/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g": {
+   "at": "2026-11-19T23:15:31.964553+00:00",
+   "title": "Meta's Muse Charm will reportedly cost $300 and come with free Verizon 5G",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2322541/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Meta's standalone AI gadget won't be cheap, but it might come with a free data plan.",
+   "title_ar": ""
   },
   "eurogamer.net/blood-of-dawnwalker-new-game-plus": {
    "at": "2026-11-13T21:00:41.462775+00:00",
@@ -13206,7 +13250,7 @@
   "AI": "2026-11-19T22:45:25.559686+00:00",
   "Anime": "2026-11-19T22:00:41.507260+00:00",
   "Games": "2026-11-19T23:00:41.478852+00:00",
-  "Tech": "2026-11-19T22:30:34.878537+00:00"
+  "Tech": "2026-11-19T23:15:31.964553+00:00"
  },
  "digest_day": "2026-11-19",
  "weekly_day": "2026-11-13"
