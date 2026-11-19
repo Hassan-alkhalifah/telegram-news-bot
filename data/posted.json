@@ -1442,6 +1442,17 @@
    "summary": "According to a new report from Bloomberg , Apple’s head of camera and photo software retired last month.",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/19/apple-tv-f1-academy-stream-next-year": {
+   "at": "2026-11-19T19:45:36.623601+00:00",
+   "title": "Apple TV will stream all-female racing series F1 Academy starting next year",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/19/apple-tv-f1-academy-stream-next-year/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Apple is coming up to the end of its first year as the exclusive broadcaster of Formula 1 in the United States, with the deal set to continue through 2031.",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/19/canva-introduces-new-controls-to-hide-generative-ai-features": {
    "at": "2026-11-19T12:30:36.241327+00:00",
    "title": "Canva introduces new controls to hide generative AI features",
@@ -2553,17 +2564,6 @@
    "summary": "With MyMems , Wright says he wants to \"turn the simulation inward.\"",
    "title_ar": ""
   },
-  "arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash": {
-   "at": "2026-11-12T19:30:37.701208+00:00",
-   "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
-   "title_ar": ""
-  },
   "arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it": {
    "at": "2026-11-17T14:15:28.968059+00:00",
    "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
@@ -3444,17 +3444,6 @@
    "summary": "Discover these overlooked Google Maps features that help you plan your route and cut distractions so you can arrive at your destination on time.",
    "title_ar": ""
   },
-  "engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage": {
-   "at": "2026-11-12T19:45:29.855688+00:00",
-   "title": "Multiple Microsoft 365 services are experiencing an outage",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Outlook and Teams are among the platforms impacted by \"elevated load\" issues.",
-   "title_ar": ""
-  },
   "engadget.com/2315321/signs-someone-blocked-your-number-iphone": {
    "at": "2026-11-18T03:00:43.783968+00:00",
    "title": "Ways to tell if someone blocked your phone number on iPhone",
@@ -4081,6 +4070,17 @@
    "sources": 1,
    "summary": "Even Rockstar developers fear layoffs, as GTA 6 rakes in billions of dollars.",
    "title_ar": ""
+  },
+  "engadget.com/2322221/apple-tv-expands-its-racing-coverage-with-the-all-female-f1-academy": {
+   "at": "2026-11-19T19:45:36.623601+00:00",
+   "title": "Apple TV expands its racing coverage with the all-female F1 Academy",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2322221/apple-tv-expands-its-racing-coverage-with-the-all-female-f1-academy/",
+   "score": 3,
+   "sources": 2,
+   "summary": "The platform will air \"every qualifying session and race throughout the season.\"",
+   "title_ar": "Apple TV توسع تغطيتها لسباقات السيارات مع بطولة F1 Academy المخصصة للسيدات بالكامل"
   },
   "eurogamer.net/blood-of-dawnwalker-new-game-plus": {
    "at": "2026-11-13T21:00:41.462775+00:00",
@@ -4740,17 +4740,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Rockstar's Grand Theft Auto 6 finally releases this week.",
-   "title_ar": ""
-  },
-  "gamespot.com/articles/disney-teases-major-announcements-for-the-game-awards": {
-   "at": "2026-11-12T19:30:37.701208+00:00",
-   "title": "Disney Teases “Major Announcements” For The Game Awards",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gamespot.com/articles/disney-teases-major-announcements-for-the-game-awards/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The Game Awards will air on Disney+ this year, and along with that, Disney has teased \"major announcements and surprises\" for its own games at the event.",
    "title_ar": ""
   },
   "gamespot.com/articles/dont-expect-to-see-vice-city-for-a-long-time-in-gta-6": {
@@ -5765,6 +5754,17 @@
    "summary": "Google Wallet is now on the list of apps you can connect to Personal Intelligence in Gemini, joining the likes of Gmail, Photos, YouTube, and Search.",
    "title_ar": "تطبيق Gemini يمكنه الآن الاطلاع على مشترياتك في Google Wallet لمساعدتك في وضع الميزانية"
   },
+  "gsmarena.com/google_launches_gemini_4_neon_its_new_midtier_ai_model-news-75544.php": {
+   "at": "2026-11-19T19:45:36.623601+00:00",
+   "title": "Google launches Gemini 4 Neon, its new mid-tier AI model",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/google_launches_gemini_4_neon_its_new_midtier_ai_model-news-75544.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "Google has just announced Gemini 4 Neon, the latest member of its Gemini 4 family of AI models.",
+   "title_ar": ""
+  },
   "gsmarena.com/heres_everything_new_in_ios_273_beta_2_and_macos_273_beta_2-news-75508.php": {
    "at": "2026-11-17T17:45:28.710104+00:00",
    "title": "Here's everything new in iOS 27.3 beta 2 and macOS 27.3 beta 2",
@@ -6766,17 +6766,6 @@
    "summary": "The actors behind GTA 6 protagonists Jason and Lucia have finally been pictured together, after years of speculation regarding their identities.",
    "title_ar": ""
   },
-  "ign.com/articles/halo-campaign-evolved-to-get-firefight-as-a-free-update": {
-   "at": "2026-11-12T19:30:37.701208+00:00",
-   "title": "Halo: Campaign Evolved to Get Firefight as a Free Update",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/halo-campaign-evolved-to-get-firefight-as-a-free-update",
-   "score": 0,
-   "sources": 1,
-   "summary": "When Halo: Campaign Evolved first came out in July it did not include any multiplayer modes, but the first-person shooter remake will at least get Firefight as a free update this Winter.",
-   "title_ar": ""
-  },
   "ign.com/articles/he-needs-a-second-chance-some-nvidia-employees-really-want-former-ceo-jensen-huang-back": {
    "at": "2026-11-13T17:45:29.299284+00:00",
    "title": "'He Needs a Second Chance' – Some Nvidia Employees Really Want Former CEO Jensen Huang Back",
@@ -7689,17 +7678,6 @@
    "sources": 2,
    "summary": "Wipe the blood off your fangs as Rebel Wolves are readying Update 1.2 for The Blood of Dawnwalker, bringing new features.",
    "title_ar": "تحديث The Blood of Dawnwalker رقم 1.2 يضيف نمط New Game+ وتعديلات على توازن طريقة اللعب"
-  },
-  "insider-gaming.com/the-game-awards-2026-disney-plus": {
-   "at": "2026-11-12T19:30:37.701208+00:00",
-   "title": "The Game Awards to air on Disney Plus",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/the-game-awards-2026-disney-plus/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Geoff Keighley says The Game Awards 2026 will air live on Disney+.",
-   "title_ar": ""
   },
   "insider-gaming.com/the-game-awards-nominees-to-be-announced-ahead-of-gta-6-release": {
    "at": "2026-11-13T19:45:30.100251+00:00",
@@ -8900,6 +8878,17 @@
    "summary": "Including three tasty discounts!",
    "title_ar": ""
   },
+  "nintendolife.com/news/2026/11/these-30plus-games-are-coming-to-nintendo-switch-eshop-this-week-november-19": {
+   "at": "2026-11-19T19:45:36.623601+00:00",
+   "title": "These 30+ Games Are Coming To Nintendo Switch eShop This Week (November 19)",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/these-30plus-games-are-coming-to-nintendo-switch-eshop-this-week-november-19",
+   "score": 0,
+   "sources": 1,
+   "summary": "Barbenhammer.",
+   "title_ar": ""
+  },
   "nintendolife.com/news/2026/11/ubisoft-is-laying-off-staff-from-two-of-its-biggest-studios": {
    "at": "2026-11-19T18:12:24.570159+00:00",
    "title": "Ubisoft Is Laying Off Staff From Two Of Its Biggest Studios",
@@ -9659,17 +9648,6 @@
    "summary": "Plot twist.",
    "title_ar": ""
   },
-  "pushsquare.com/news/2026/11/disney-bringing-game-reveals-to-the-game-awards-next-month": {
-   "at": "2026-11-12T19:30:37.701208+00:00",
-   "title": "Disney Bringing Game Reveals to The Game Awards Next Month",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.pushsquare.com/news/2026/11/disney-bringing-game-reveals-to-the-game-awards-next-month",
-   "score": 5,
-   "sources": 3,
-   "summary": "Also being streamed live on Disney+.",
-   "title_ar": "Disney ستكشف عن ألعاب جديدة في حفل The Game Awards الشهر القادم"
-  },
   "pushsquare.com/news/2026/11/dokev-set-for-2028-launch-but-youll-see-it-again-this-year": {
    "at": "2026-11-14T02:15:27.185019+00:00",
    "title": "DokeV Set for 2028 Launch, But You'll See It Again This Year",
@@ -10109,17 +10087,6 @@
    "sources": 1,
    "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
    "title_ar": "الديمقراطيون يفتحون تحقيقاً مع Nvidia ويكتبون رسالة لاذعة بشأن \"مخطط\" Huang مع Trump"
-  },
-  "techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions": {
-   "at": "2026-11-12T19:45:29.855688+00:00",
-   "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
-   "title_ar": "أحدث ترقية لبحث Google تعد بإجابات أفضل عن أسئلتك الأكثر تعقيداً"
   },
   "techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports": {
    "at": "2026-11-12T20:30:38.172843+00:00",
@@ -13190,6 +13157,17 @@
    "summary": "A total of five games are nominated for the Best Score Soundtrack for Video Games award",
    "title_ar": "ترشيحات جوائز Grammy لموسىقى ألعاب الفيديو هذا العام تشمل Bond و Star Wars و Wolverine"
   },
+  "videogameschronicle.com/news/ubisoft-has-founded-a-studio-dedicated-to-generative-ai-in-games": {
+   "at": "2026-11-19T19:45:36.623601+00:00",
+   "title": "Ubisoft has founded a studio dedicated to generative AI in games",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.videogameschronicle.com/news/ubisoft-has-founded-a-studio-dedicated-to-generative-ai-in-games/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Ubisoft confirms reports that it has a dedicated gen AI studio",
+   "title_ar": ""
+  },
   "videogameschronicle.com/news/ubisoft-is-laying-off-166-staff-in-its-montreal-and-quebec-city-offices": {
    "at": "2026-11-19T16:15:29.829080+00:00",
    "title": "Ubisoft is laying off 166 staff in its Montréal and Québec City offices",
@@ -13349,7 +13327,7 @@
   "AI": "2026-11-19T19:30:36.011283+00:00",
   "Anime": "2026-11-19T18:12:24.570159+00:00",
   "Games": "2026-11-19T19:15:30.589313+00:00",
-  "Tech": "2026-11-19T19:00:41.686613+00:00"
+  "Tech": "2026-11-19T19:45:36.623601+00:00"
  },
  "digest_day": "2026-11-19",
  "weekly_day": "2026-11-13"
