@@ -1750,28 +1750,6 @@
    "summary": "Witch Watch Season 2 is set to premiere in 2027.",
    "title_ar": ""
   },
-  "animenewsnetwork.com/news/2026-11-11/tsugumi-project-anime-reveals-january-2027-premiere/.243744": {
-   "at": "2026-11-12T04:15:27.978659+00:00",
-   "title": "Tsugumi Project Anime Reveals January 2027 Premiere",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-11/tsugumi-project-anime-reveals-january-2027-premiere/.243744",
-   "score": 0,
-   "sources": 1,
-   "summary": "New visual also unveiled",
-   "title_ar": ""
-  },
-  "animenewsnetwork.com/news/2026-11-11/welsh-and-shedar-anime-launches-webtoon/.243736": {
-   "at": "2026-11-12T04:15:27.978659+00:00",
-   "title": "Welsh & Shedar Anime Launches Webtoon",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-11/welsh-and-shedar-anime-launches-webtoon/.243736",
-   "score": 1,
-   "sources": 1,
-   "summary": "12-episode webtoon features multiple artists",
-   "title_ar": "استوديو Welsh & Shedar Anime يطلق وقبتون (Webtoon)"
-  },
   "animenewsnetwork.com/news/2026-11-12/blue-rights-company-unveils-pilot-film-for-orochi-seventh-echoes-original-animated-feature/.243748": {
    "at": "2026-11-13T01:00:41.233613+00:00",
    "title": "Blue Rights Company Unveils Pilot Film for Orochi -Seventh Echoes- Original Animated Feature",
@@ -11617,6 +11595,17 @@
    "summary": "Meta's AI agent Muse can now call businesses on behalf of paying US subscribers, handling everything from cable providers to restaurants.",
    "title_ar": ""
   },
+  "the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives": {
+   "at": "2026-11-19T04:15:29.797667+00:00",
+   "title": "Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Microsoft's AI division MAI unveiled seven new models for code, security, images, language, and routing at Ignite.",
+   "title_ar": "ميكروصوفت تستبدل نماذج الذكاء الاصطناعي الخارجية في منتجاتها ببدائل محلية أرخص"
+  },
   "the-decoder.com/mistral-plays-catch-up-with-vibe-desktop-as-rivals-already-command-full-operating-systems": {
    "at": "2026-11-18T15:30:37.412615+00:00",
    "title": "Mistral plays catch-up with Vibe Desktop as rivals already command full operating systems",
@@ -13676,7 +13665,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-19T03:15:26.544367+00:00",
+  "AI": "2026-11-19T04:15:29.797667+00:00",
   "Anime": "2026-11-19T03:30:38.332798+00:00",
   "Games": "2026-11-19T04:00:40.841849+00:00",
   "Tech": "2026-11-19T03:45:29.160582+00:00"
