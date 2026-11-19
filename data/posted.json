@@ -11727,6 +11727,17 @@
    "summary": "OpenAI is taking a second shot at AI-powered shopping with ChatGPT Wallet after scrapping its first approach, Instant Checkout.",
    "title_ar": ""
   },
+  "the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering": {
+   "at": "2026-11-19T05:30:34.127043+00:00",
+   "title": "OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Working with AMD, OpenAI achieved up to 14 percent PPA improvement on AMD's flagship GPU IP in less than five months.",
+   "title_ar": "OpenAI تقول إن نماذجها حققت تحسيناً في شرائح المعالجة يعادل عاماً كاملاً فوق جهود الهندسة الخاصة بـ AMD"
+  },
   "the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute": {
    "at": "2026-11-12T17:00:46.909589+00:00",
    "title": "OpenAI’s data suggests that frontier models are hiding their thoughts because developers optimize for capability and compute",
@@ -13709,7 +13720,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-19T05:00:41.259231+00:00",
+  "AI": "2026-11-19T05:30:34.127043+00:00",
   "Anime": "2026-11-19T04:30:35.103449+00:00",
   "Games": "2026-11-19T04:00:40.841849+00:00",
   "Tech": "2026-11-19T05:15:28.985721+00:00"
