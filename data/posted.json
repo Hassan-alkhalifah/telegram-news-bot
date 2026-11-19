@@ -562,17 +562,6 @@
    "summary": "Apple TV has announced a new comedy, She’s Fine, that’s coming soon with stars Elizabeth Banks and Ted Danson.",
    "title_ar": "مسلسل كوميدي جديد على Apple TV من بطولة Elizabeth Banks وTed Danson قريباً"
   },
-  "9to5mac.com/2026/11/12/opera-one-for-ios-adds-data-saver-feature-cutting-browsing-data-usage-by-up-to-80": {
-   "at": "2026-11-12T23:00:38.483126+00:00",
-   "title": "Opera One for iOS adds Data Saver feature, cutting browsing data usage by up to 80%",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/12/opera-one-for-ios-adds-data-saver-feature-cutting-browsing-data-usage-by-up-to-80/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Opera today announced that its Data Saver feature is now available on iOS, in a press release that also revealed a 20% year-over-year increase in the browser’s monthly active users.",
-   "title_ar": "متصفح Opera One لنظام iOS يضيف ميزة Data Saver لتقليل استهلاك بيانات التصفح بنسبة تصل إلى 80%"
-  },
   "9to5mac.com/2026/11/13/apple-details-homeview-facial-recognition-repair-options-and-more-in-new-support-guides": {
    "at": "2026-11-13T22:45:29.345492+00:00",
    "title": "Apple details HomeView facial recognition, repair options, and more in new support guides",
@@ -4115,6 +4104,17 @@
    "summary": "The Alphabet Workers Union voiced concern over Google requiring its AI tools be bundled with Search.",
    "title_ar": ""
   },
+  "engadget.com/2322377/you-can-now-purchase-the-512gb-steam-machine-like-a-normal-console": {
+   "at": "2026-11-19T23:00:41.478852+00:00",
+   "title": "You can now purchase the 512GB Steam Machine like a normal console",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2322377/you-can-now-purchase-the-512gb-steam-machine-like-a-normal-console/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Valve has worked through the waitlist for the smaller version of its gaming PC.",
+   "title_ar": ""
+  },
   "engadget.com/2322428/meta-quest-adds-3d-movie-purchases-and-rentals-to-its-tv-app": {
    "at": "2026-11-19T21:30:40.800987+00:00",
    "title": "Meta Quest adds 3D movie purchases and rentals to its TV app",
@@ -6491,17 +6491,6 @@
    "summary": "George Lazenby, who formerly portrayed James Bond, is giving Robert Pattinson some sage advice after the Batman actor scored the historic and highly coveted role.",
    "title_ar": ""
   },
-  "ign.com/articles/former-nvidia-ceo-jensen-huang-reportedly-had-third-affair-with-another-employee": {
-   "at": "2026-11-12T23:00:38.483126+00:00",
-   "title": "Former Nvidia CEO Jensen Huang Reportedly Had Third Affair With Another Employee",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/former-nvidia-ceo-jensen-huang-reportedly-had-third-affair-with-another-employee",
-   "score": 0,
-   "sources": 1,
-   "summary": "Former Nvidia CEO Jensen Huang resigned today amid a scandal involving an affair with a suspected Chinese spy and an executive that reported to him.",
-   "title_ar": ""
-  },
   "ign.com/articles/gamestop-ceo-blasts-digital-only-gta-6-no-disc": {
    "at": "2026-11-19T13:15:43.819973+00:00",
    "title": "As GTA 6 Skips Discs, GameStop CEO Says Digital-Only 'Has Hurt Consumers' and Retailers",
@@ -7612,6 +7601,17 @@
    "sources": 1,
    "summary": "Star Wars: Galactic Racer is about to get even better for fans of local multiplayer.",
    "title_ar": ""
+  },
+  "insider-gaming.com/steam-machine-512gb-2tb-reservation-update": {
+   "at": "2026-11-19T23:00:41.478852+00:00",
+   "title": "Steam Machine Update Details 512GB and 2TB Reservations",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://insider-gaming.com/steam-machine-512gb-2tb-reservation-update/",
+   "score": 3,
+   "sources": 2,
+   "summary": "Valve has sent purchase invites to all remaining Steam Machine 2TB reservation holders and says the 512GB model no longer has a waitlist.",
+   "title_ar": "تحديث Steam Machine يوضح تفاصيل حجز نسختي 512GB و 2TB"
   },
   "insider-gaming.com/take-two-ceo-gta-movie-tv-show": {
    "at": "2026-11-12T23:51:44.105229+00:00",
@@ -9241,17 +9241,6 @@
    "summary": "Jennifer Svedberg-Yen says she left the studio in July after finishing up work on the studio's hit RPG.",
    "title_ar": "كاتبة القصة الرئيسية للعبة Clair Obscur: Expedition 33 غادرت استوديو Sandfall Interactive الصيف الماضي: لقد افترقنا"
   },
-  "pcgamer.com/games/rpg/new-4-minute-fable-gameplay-trailer-shows-a-game-that-doesnt-look-much-like-fable": {
-   "at": "2026-11-12T23:00:38.483126+00:00",
-   "title": "New 4-minute Fable gameplay trailer shows a game that doesn't look much like Fable",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/games/rpg/new-4-minute-fable-gameplay-trailer-shows-a-game-that-doesnt-look-much-like-fable/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Maybe it's just me.",
-   "title_ar": ""
-  },
   "pcgamer.com/games/rpg/sci-fi-rpg-exodus-gets-even-more-mass-effect-like-with-its-female-lead-who-they-are-calling-femjun": {
    "at": "2026-11-17T19:00:43.400058+00:00",
    "title": "Sci-fi RPG Exodus gets even more Mass Effect-like with its female lead, who they are calling Femjun",
@@ -9999,17 +9988,6 @@
    "sources": 1,
    "summary": "And it's mandatory.",
    "title_ar": ""
-  },
-  "techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump": {
-   "at": "2026-11-12T22:45:28.331463+00:00",
-   "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-   "score": 2,
-   "sources": 1,
-   "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
-   "title_ar": "الديمقراطيون يفتحون تحقيقاً مع Nvidia ويكتبون رسالة لاذعة بشأن \"مخطط\" Huang مع Trump"
   },
   "techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay": {
    "at": "2026-11-13T00:15:33.813675+00:00",
@@ -13227,7 +13205,7 @@
  "topic_last_posted": {
   "AI": "2026-11-19T22:45:25.559686+00:00",
   "Anime": "2026-11-19T22:00:41.507260+00:00",
-  "Games": "2026-11-19T22:15:26.512721+00:00",
+  "Games": "2026-11-19T23:00:41.478852+00:00",
   "Tech": "2026-11-19T22:30:34.878537+00:00"
  },
  "digest_day": "2026-11-19",
