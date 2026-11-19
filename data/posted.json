@@ -1508,6 +1508,17 @@
    "summary": "In light of growing pushback from users who want more control over how AI is integrated into their apps (if at all), Canva is introducing new settings that let them hide generative AI features and…",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/19/ios-27-3-beta-can-cause-homeview-issues-apple-confirms": {
+   "at": "2026-11-19T16:00:41.986617+00:00",
+   "title": "iOS 27.3 beta can cause HomeView issues, Apple confirms",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/19/ios-27-3-beta-can-cause-homeview-issues-apple-confirms/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Apple’s new HomeView just launched last Friday, but some early adopters reported issues with Siri AI in their first days of use.",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/19/major-privacy-breaches-reported-in-muse-ai-including-bank-balances": {
    "at": "2026-11-19T12:45:28.204672+00:00",
    "title": "Major privacy breaches reported in Muse AI, including bank balances",
@@ -1518,6 +1529,17 @@
    "sources": 1,
    "summary": "Meta employees have expressed concerns about what appear to be major privacy breaches when using Muse , currently the second most popular free iPhone app in the App Store with over 10 million…",
    "title_ar": "الإبلاغ عن انتهاكات رئيسية للخصوصية في تطبيق Muse AI تشمل أرصدة الحسابات البنكية"
+  },
+  "9to5mac.com/2026/11/19/microsoft-to-do-is-retiring-including-mac-and-ios-apps": {
+   "at": "2026-11-19T16:00:41.986617+00:00",
+   "title": "Microsoft To Do is retiring, including Mac and iOS apps",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/19/microsoft-to-do-is-retiring-including-mac-and-ios-apps/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Microsoft is saying goodbye to its task management service To Do, including the Mac and iOS apps.",
+   "title_ar": ""
   },
   "9to5mac.com/2026/11/19/oled-imac-plans-may-be-cancelled-by-apple-for-two-reasons": {
    "at": "2026-11-19T13:00:44.987847+00:00",
@@ -11804,6 +11826,17 @@
    "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York…",
    "title_ar": "أكبر مناطق المدارس في البلاد تدرس الاستغناء عن Google Search"
   },
+  "theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure": {
+   "at": "2026-11-19T16:00:41.986617+00:00",
+   "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+   "score": 2,
+   "sources": 1,
+   "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public…",
+   "title_ar": ""
+  },
   "theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon": {
    "at": "2026-11-17T22:45:27.301875+00:00",
    "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
@@ -13621,7 +13654,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-19T15:15:37.938861+00:00",
+  "AI": "2026-11-19T16:00:41.986617+00:00",
   "Anime": "2026-11-19T15:00:46.925457+00:00",
   "Games": "2026-11-19T15:45:33.055360+00:00",
   "Tech": "2026-11-19T15:30:39.484888+00:00"
