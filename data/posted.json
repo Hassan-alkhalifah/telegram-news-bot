@@ -584,28 +584,6 @@
    "summary": "Besides removing the Samples tab , YouTube Music for Android and iOS is rolling out instant access to Ask Music with a new Gemini icon in the top-right corner. more…",
    "title_ar": ""
   },
-  "9to5mac.com/2026/11/11/apple-invites-app-now-lets-hosts-poll-guests-plus-new-emoji-effect-added": {
-   "at": "2026-11-11T23:45:31.393013+00:00",
-   "title": "Apple Invites app now lets hosts poll guests, plus new emoji effect added",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/11/apple-invites-app-now-lets-hosts-poll-guests-plus-new-emoji-effect-added/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Apple Invites, an iCloud+ feature, just added two new features in this month’s update. more…",
-   "title_ar": "تطبيق Apple Invites يتيح الآن للمضيفين إجراء استطلاعات للضيوف، مع إضافة تأثير إيموجي جديد"
-  },
-  "9to5mac.com/2026/11/11/apple-reportedly-met-with-thai-officials-over-spyware-alerts-sent-to-politicians": {
-   "at": "2026-11-12T00:00:42.456054+00:00",
-   "title": "Apple reportedly met with Thai officials over spyware alerts sent to politicians",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/11/apple-reportedly-met-with-thai-officials-over-spyware-alerts-sent-to-politicians/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Bloomberg reports that Apple has met with Thai government officials in the wake of its recent wave of iPhone alerts about mercenary spyware attacks.",
-   "title_ar": "تقارير تفيد بأن Apple اجتمعت مع مسؤولين تايلانديين بشأن تنبيهات برامج التجسس المرسلة إلى سياسيين"
-  },
   "9to5mac.com/2026/11/12/30-of-iphone-duo-buyers-may-have-returned-it-but-i-dont-think-apple-should-worry": {
    "at": "2026-11-12T13:00:46.916755+00:00",
    "title": "30% of iPhone Duo buyers may have returned it, but I don’t think Apple should worry",
@@ -10374,17 +10352,6 @@
    "summary": "And it's mandatory.",
    "title_ar": ""
   },
-  "techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline": {
-   "at": "2026-11-12T00:00:42.456054+00:00",
-   "title": "The unfolding Jensen Huang scandal: a timeline",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-   "title_ar": ""
-  },
   "techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors": {
    "at": "2026-11-12T03:15:28.327520+00:00",
    "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
@@ -11198,6 +11165,17 @@
    "sources": 1,
    "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
    "title_ar": "تقرير: Anthropic تُسعر طرحها العام الأولي عند 83 دولاراً للسهم، متجاوزة النطاق المتوقع"
+  },
+  "techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team": {
+   "at": "2026-11-19T00:00:53.851536+00:00",
+   "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+   "score": 1,
+   "sources": 1,
+   "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+   "title_ar": "إيلون ماسك يقول إن الإطاحة بـ Jensen Huang تشبه \"طرد Michael Jordan من فريقك\""
   },
   "techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit": {
    "at": "2026-11-18T23:30:35.418884+00:00",
@@ -12486,17 +12464,6 @@
    "summary": "After rumors of Nvidia GeForce RTX 5090 graphics cards being withdrawn from the consumer retail channel it is pleasing to see major U.S. eTailers like Newegg stuffed with cheaper stock today.",
    "title_ar": "توفر بطاقات Nvidia RTX 5090 من جديد على متجر Newegg مع 21 طرازاً"
   },
-  "tomshardware.com/pc-components/gpus/nvidias-board-reportedly-preparing-to-oust-ceo-jensen-huang-as-second-extra-marital-affair-emerges-stock-has-plunged-20-percent-since-scandals-began-huang-has-been-first-and-only-ceo-for-33-years": {
-   "at": "2026-11-12T00:00:42.456054+00:00",
-   "title": "Nvidia’s Board reportedly preparing to oust CEO Jensen Huang as second extra-marital affair emerges",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-board-reportedly-preparing-to-oust-ceo-jensen-huang-as-second-extra-marital-affair-emerges-stock-has-plunged-20-percent-since-scandals-began-huang-has-been-first-and-only-ceo-for-33-years",
-   "score": 0,
-   "sources": 1,
-   "summary": "Nvidia Board reportedly moves to expel Jensen Huang as stock tumbles on latest scandals and lack of succession plans at Nvidia.",
-   "title_ar": ""
-  },
   "tomshardware.com/pc-components/gpus/nvidias-revenue-hits-usd115-8-billion-as-vera-rubin-generates-usd20-billion-in-another-record-setting-quarter-commitments-increase-to-usd390-billion-fy28-forecast-raised": {
    "at": "2026-11-18T13:15:30.091944+00:00",
    "title": "Nvidia's revenue hits $115.8 billion as Vera Rubin generates $20 billion in another record-setting quarter",
@@ -13632,7 +13599,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-18T23:00:41.626270+00:00",
+  "AI": "2026-11-19T00:00:53.851536+00:00",
   "Anime": "2026-11-18T23:15:26.582727+00:00",
   "Games": "2026-11-18T23:30:35.418884+00:00",
   "Tech": "2026-11-18T23:45:28.350880+00:00"
