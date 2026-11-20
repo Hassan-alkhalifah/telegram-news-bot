@@ -4313,6 +4313,17 @@
    "summary": "WhatsApp is giving users the ability to create even bigger group chats with up to 1,500 participants.",
    "title_ar": ""
   },
+  "engadget.com/2322728/google-boosts-geminis-ability-to-do-repetitive-tasks-on-its-mac-app": {
+   "at": "2026-11-20T12:45:39.324963+00:00",
+   "title": "Google boosts Gemini's ability to do 'repetitive tasks' on its Mac app",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2322728/google-boosts-geminis-ability-to-do-repetitive-tasks-on-its-mac-app/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Google's Gemini app for Mac can now use your computer to list items on eBay, speed up creative tasks and fill out forms for you.",
+   "title_ar": ""
+  },
   "eurogamer.net/blood-of-dawnwalker-new-game-plus": {
    "at": "2026-11-13T21:00:41.462775+00:00",
    "title": "The Blood of Dawnwalker is getting a New Game Plus mode in next week's update",
@@ -4674,6 +4685,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Grand Theft Auto 6 is estimated to have sold nearly 25 million copies in one day, generating approximately $2.5bn in sales revenue - a staggering result that's beyond even what even observers were…",
+   "title_ar": ""
+  },
+  "eurogamer.net/gta-6-spoiler-free-advice": {
+   "at": "2026-11-20T12:45:39.324963+00:00",
+   "title": "Playing GTA 6 this weekend? Here's 16 spoiler-free tips for your first playthrough",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/gta-6-spoiler-free-advice",
+   "score": 0,
+   "sources": 1,
+   "summary": "It's launch weekend for GTA 6 - in case you hadn't noticed - and since I've played the best part of a hundred hours of this thing, I thought it might be useful to share a few pieces of advice from…",
    "title_ar": ""
   },
   "eurogamer.net/gta-6-tracklist-leak": {
@@ -11463,6 +11485,17 @@
    "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call.",
    "title_ar": "نبذة مختصرة عن تقلبات أسهم Nvidia الأخيرة"
   },
+  "theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app": {
+   "at": "2026-11-20T12:45:39.324963+00:00",
+   "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+   "score": 1,
+   "sources": 1,
+   "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data.",
+   "title_ar": "Signal يحظر Gemini و Siri من قراءة شاشتك"
+  },
   "theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon": {
    "at": "2026-11-17T22:45:27.301875+00:00",
    "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
@@ -13236,7 +13269,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-20T01:30:35.363236+00:00",
+  "AI": "2026-11-20T12:45:39.324963+00:00",
   "Anime": "2026-11-20T10:00:53.647088+00:00",
   "Games": "2026-11-20T12:30:39.372947+00:00",
   "Tech": "2026-11-20T12:00:41.794635+00:00"
