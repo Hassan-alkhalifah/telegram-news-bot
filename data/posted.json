@@ -529,17 +529,6 @@
    "summary": "After the better part of 7 years, Samsung’s mobile division has a new chief and it’s Choi Won-Joon, who is already off to a great start with the successful launch of Galaxy Z Fold 8. more…",
    "title_ar": "قسْم الهواتف المحمولة في Samsung يمتلك مسؤولاً جديداً لأول مرة منذ سنوات"
   },
-  "9to5mac.com/2026/11/12/apple-tv-just-debuted-three-new-originals-including-a-heist-thriller-series": {
-   "at": "2026-11-13T02:30:35.469608+00:00",
-   "title": "Apple TV just debuted three new originals, including a heist thriller series",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/12/apple-tv-just-debuted-three-new-originals-including-a-heist-thriller-series/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Apple TV subscribers can now watch three new originals, including a heist thriller series, a film based on true events, and the first of two holiday specials coming to the platform this season.",
-   "title_ar": "Apple TV يطلق ثلاثة أعمال أصلية جديدة، بما في ذلك مسلسل إثارة عن السرقة"
-  },
   "9to5mac.com/2026/11/12/new-apple-tv-comedy-starring-elizabeth-banks-ted-danson-coming-soon": {
    "at": "2026-11-13T03:00:41.387537+00:00",
    "title": "New Apple TV comedy starring Elizabeth Banks, Ted Danson coming soon",
@@ -5468,17 +5457,6 @@
    "summary": "Publisher Two Cakes Studio and developer Frag Lab will release a PlayStation 5 version of …",
    "title_ar": "لعبة Forest Escape: Last Train قادمة إلى PS5 مع الكشف عن موقع جديد"
   },
-  "gematsu.com/2026/11/girls-und-panzer-all-star-tank-carnival-adds-ps5-and-pc-versions-launches-march-25-2027-in-japan": {
-   "at": "2026-11-13T02:15:30.882674+00:00",
-   "title": "Girls und Panzer: All-Star Tank Carnival adds PS5 and PC versions, launches March 25, 2027 in Japan",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.gematsu.com/2026/11/girls-und-panzer-all-star-tank-carnival-adds-ps5-and-pc-versions-launches-march-25-2027-in-japan",
-   "score": 2,
-   "sources": 1,
-   "summary": "Tank battle action Girls und Panzer: All-Star Tank Carnival will launch for PlayStation 5, Switch …",
-   "title_ar": "لعبة Girls und Panzer: All-Star Tank Carnival تضيف نسختين لأجهزة PS5 و PC، وتصدر في 25 مارس 2027 في اليابان"
-  },
   "gematsu.com/2026/11/girls-und-panzer-hakunetsu-mahjong-tag-battle-desu-announced-for-ps5-switch-2": {
    "at": "2026-11-14T02:00:50.146390+00:00",
    "title": "Girls und Panzer Hakunetsu! Mahjong Tag Battle Desu! announced for PS5, Switch 2",
@@ -8601,17 +8579,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Hook, line, and Core Keeper.",
-   "title_ar": ""
-  },
-  "nintendolife.com/news/2026/11/doom-developer-id-software-confirms-its-working-on-a-new-game": {
-   "at": "2026-11-13T02:30:35.469608+00:00",
-   "title": "DOOM Developer id Software Confirms It's Working On A New Game",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.nintendolife.com/news/2026/11/doom-developer-id-software-confirms-its-working-on-a-new-game",
-   "score": 0,
-   "sources": 1,
-   "summary": "It's reportedly another DOOM game. id Software, the developer known for FPS hits such as DOOM and Quake , has confirmed it's got a new game in the pipeline.",
    "title_ar": ""
   },
   "nintendolife.com/news/2026/11/gdc-survey-suggests-devs-want-to-make-games-for-switch-2-more-than-ps5-or-xbox": {
@@ -12409,6 +12376,17 @@
    "summary": "Windows 0-day lets attackers run software by partially bypass the lock screen with just some keystrokes — even BitLocker-protected machines are seemingly vulnerable",
    "title_ar": "ثغرة يوم الصفر الجديدة في شاشة قفل Windows 11 تفتح أجهزة الكمبيوتر المحمية بـ BitLocker بضع ضغطات مفاتيح فقط"
   },
+  "tomshardware.com/tech-industry/data-centers/ai-data-center-power-demand-will-double-by-2030-thanks-to-usd4-trillion-in-spending-adding-an-entire-great-britain-to-energy-strain-93-large-ai-factories-with-projected-capacity-of-around-50-gigawatts": {
+   "at": "2026-11-20T02:30:35.993742+00:00",
+   "title": "AI data center power demand will double by 2030 thanks to $4 trillion in spending, adding an entire Great Britain to energy strain",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-power-demand-will-double-by-2030-thanks-to-usd4-trillion-in-spending-adding-an-entire-great-britain-to-energy-strain-93-large-ai-factories-with-projected-capacity-of-around-50-gigawatts",
+   "score": 1,
+   "sources": 1,
+   "summary": "IEA's report says that power production and distribution is barely keeping up with the rapid growth of AI data centers.",
+   "title_ar": "الطلب على الطاقة في مراكز بيانات الذكاء الاصطناعي سيتضاعف بحلول عام 2030 بفضل استفادة تبلغ 4 تريليونات دولار، مما يضيف ضغطاً طاقياً يعادل دولة بريطانيا بأكملها"
+  },
   "tomshardware.com/tech-industry/data-centers/former-nvidia-ceo-jensen-huang-will-appear-before-a-house-foreign-affairs-panel-amid-concerns-over-his-affair-with-a-suspected-chinese-spy-will-testify-behind-closed-doors-december-1-nvidia-lawyer-will-also-appear": {
    "at": "2026-11-17T16:00:43.258492+00:00",
    "title": "Former Nvidia CEO Jensen Huang will appear before a House Foreign Affairs panel amid concerns over his affair with a suspected Chinese spy",
@@ -13173,7 +13151,7 @@
   "AI": "2026-11-20T01:30:35.363236+00:00",
   "Anime": "2026-11-20T01:00:51.570516+00:00",
   "Games": "2026-11-19T23:00:41.478852+00:00",
-  "Tech": "2026-11-20T02:15:27.026995+00:00"
+  "Tech": "2026-11-20T02:30:35.993742+00:00"
  },
  "digest_day": "2026-11-19",
  "weekly_day": "2026-11-13"
