@@ -518,6 +518,17 @@
    "summary": "Google might have had a chance to keep the temperature sensor around, it seems, as a supposed prototype shows off a device that offered both the last-gen temperature sensor and the new HiLight LED…",
    "title_ar": "نموذج أولي مزعوم لـ Pixel 11 Pro يضم خاصية HiLight ومستشعر حرارة"
   },
+  "9to5google.com/2026/11/20/google-health-5-13-release-notes": {
+   "at": "2026-11-20T19:00:41.791820+00:00",
+   "title": "Google Health 5.13 rolling out: Improved food search, more swimming controls",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/20/google-health-5-13-release-notes/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Version 5.13 of Google Health is rolling out to Android and iOS with updates across five areas.",
+   "title_ar": "إطلاق تحديث Google Health 5.13: بحث محسن عن الأطعمة ومزيد من عناصر تحكم السباحة"
+  },
   "9to5google.com/2026/11/20/google-pixel-us-smartphone-market-q3-2026": {
    "at": "2026-11-20T18:30:42.309899+00:00",
    "title": "Google Pixel held its ground in the US despite a middling Pixel 11 launch",
@@ -1616,6 +1627,17 @@
    "score": 0,
    "sources": 1,
    "summary": "iOS 27.3 is currently in beta testing with developers and public beta users.",
+   "title_ar": ""
+  },
+  "9to5mac.com/2026/11/20/ios-27-has-clever-new-messages-feature-ive-been-using-a-lot": {
+   "at": "2026-11-20T19:00:41.791820+00:00",
+   "title": "iOS 27 has clever new Messages feature I’ve been using a lot",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/20/ios-27-has-clever-new-messages-feature-ive-been-using-a-lot/",
+   "score": 0,
+   "sources": 1,
+   "summary": "iOS 27 gives the Messages app a variety of welcome upgrades , including one I’ve found myself using a lot: a Smart Reply feature that’s now personalized to the user’s writing style. more…",
    "title_ar": ""
   },
   "9to5mac.com/2026/11/20/iphone-air-2-dual-camera-system": {
@@ -13008,7 +13030,7 @@
   "AI": "2026-11-20T16:45:28.250819+00:00",
   "Anime": "2026-11-20T17:30:37.306708+00:00",
   "Games": "2026-11-20T18:15:31.152134+00:00",
-  "Tech": "2026-11-20T18:45:29.365606+00:00"
+  "Tech": "2026-11-20T19:00:41.791820+00:00"
  },
  "digest_day": "2026-11-20",
  "weekly_day": "2026-11-20"
