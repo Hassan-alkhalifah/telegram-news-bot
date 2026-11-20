@@ -518,6 +518,17 @@
    "summary": "Google might have had a chance to keep the temperature sensor around, it seems, as a supposed prototype shows off a device that offered both the last-gen temperature sensor and the new HiLight LED…",
    "title_ar": "نموذج أولي مزعوم لـ Pixel 11 Pro يضم خاصية HiLight ومستشعر حرارة"
   },
+  "9to5google.com/2026/11/20/google-pixel-us-smartphone-market-q3-2026": {
+   "at": "2026-11-20T18:30:42.309899+00:00",
+   "title": "Google Pixel held its ground in the US despite a middling Pixel 11 launch",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/20/google-pixel-us-smartphone-market-q3-2026/",
+   "score": 2,
+   "sources": 1,
+   "summary": "The latest quarterly data for the US smartphone market reveals that Google Pixel is holding its ground despite the overall market faltering, and the other two major Android brands struggling. more…",
+   "title_ar": "Google Pixel تحافظ على مكانتها في الولايات المتحدة رغم إطلاق متوسط المستوى لهاتف Pixel 11"
+  },
   "9to5google.com/2026/11/20/google-search-easter-egg-robert-pattinson-james-bond": {
    "at": "2026-11-20T13:00:42.488802+00:00",
    "title": "Google Search adds a clever Easter egg for Robert Pattinson’s James Bond casting [Video]",
@@ -4522,6 +4533,17 @@
    "summary": "Hours before it's even playable in most of the world, Grand Theft Auto 6 has already broken the record for the most viewers across livestreaming platforms like Twitch .",
    "title_ar": ""
   },
+  "eurogamer.net/gta-6-credits-florida-joker-rockstar": {
+   "at": "2026-11-20T18:30:42.309899+00:00",
+   "title": "GTA 6 credits actually include 'Florida Joker', the viral internet personality who once demanded $10 million from Rockstar Games",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/gta-6-credits-florida-joker-rockstar",
+   "score": 0,
+   "sources": 1,
+   "summary": "Lawrence Sullivan, better known to the online world as the 'Florida Joker', is in GTA 6 .",
+   "title_ar": ""
+  },
   "eurogamer.net/gta-6-discless-release-code-in-a-box-gamestop-ceo": {
    "at": "2026-11-19T13:30:40.550327+00:00",
    "title": "GameStop CEO slams 'code-in-a-box' games in the wake of GTA 6's discless release",
@@ -6665,6 +6687,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Rockstar has revealed a new batch of GTA 6 screenshots – and even a Weather Channel forecast – showcasing Leonida's dynamic weather.",
+   "title_ar": ""
+  },
+  "ign.com/articles/gta-6-has-only-been-out-for-a-day-and-people-are-already-asking-take-twos-boss-about-gta-7": {
+   "at": "2026-11-20T18:30:42.309899+00:00",
+   "title": "GTA 6 Has Only Been Out For a Day and People Are Already Asking Take-Two's Boss About GTA 7",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/gta-6-has-only-been-out-for-a-day-and-people-are-already-asking-take-twos-boss-about-gta-7",
+   "score": 0,
+   "sources": 1,
+   "summary": "GTA 6 has finally arrived after more than a decade of waiting, but apparently that's not enough for some people.",
    "title_ar": ""
   },
   "ign.com/articles/gta-6-has-police-departments-across-america-begging-people-not-to-commit-crimes-irl": {
@@ -10836,17 +10869,6 @@
    "summary": "After Meta, OpenAI, Anthropic, and Google launched their own AI agents, Apple is now building one too - while making it harder for rivals to access its devices.",
    "title_ar": ""
   },
-  "the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls": {
-   "at": "2026-11-13T18:30:35.441286+00:00",
-   "title": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Chinese investors are shut out of Anthropic's IPO, Bloomberg reports.",
-   "title_ar": "البنوك تمنع مستثمري الصين وهونغ كونغ من الاكتتاب العام لشركة Anthropic بسبب ضوابط التصدير الأمريكية"
-  },
   "the-decoder.com/californias-attorney-general-sues-openai-over-rogue-ai-models-that-attacked-hugging-face": {
    "at": "2026-11-17T15:00:48.416521+00:00",
    "title": "California's attorney general sues OpenAI over rogue AI models that attacked Hugging Face",
@@ -12997,7 +13019,7 @@
   "AI": "2026-11-20T16:45:28.250819+00:00",
   "Anime": "2026-11-20T17:30:37.306708+00:00",
   "Games": "2026-11-20T18:15:31.152134+00:00",
-  "Tech": "2026-11-20T18:00:44.657674+00:00"
+  "Tech": "2026-11-20T18:30:42.309899+00:00"
  },
  "digest_day": "2026-11-20",
  "weekly_day": "2026-11-20"
