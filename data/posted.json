@@ -1,17 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/12/pebblebees-latest-android-find-hub-trackers-try-some-festive-colors-but-fall-short-on-sparkle": {
-   "at": "2026-11-13T02:00:41.247442+00:00",
-   "title": "Pebblebee’s latest Android Find Hub trackers try some festive colors, but fall short on sparkle",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/12/pebblebees-latest-android-find-hub-trackers-try-some-festive-colors-but-fall-short-on-sparkle/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Available now, Pebblebee’s latest Android Find Hub tracker color drop might also be the first real miss, with the festive theme falling short of what it’s supposed to look like. more…",
-   "title_ar": "أجهزة تتبع Pebblebee الأحدث المخصصة لشبكة Android Find Hub تجرب بعض الألوان الاحتفالية ولكنها تقصر في الجاذبية"
-  },
   "9to5google.com/2026/11/13/android-auto-18-2-update-beta-release": {
    "at": "2026-11-13T23:45:27.959069+00:00",
    "title": "Android Auto 18.2 update starts rolling out with more light mode teases",
@@ -528,6 +517,17 @@
    "sources": 1,
    "summary": "Motorola’s upcoming Razr Flex foldable is expected to have the same wide foldable form factor as Galaxy Z Fold 8 and iPhone Duo, and new leaks not only reveal its design, but hint at some key specs…",
    "title_ar": ""
+  },
+  "9to5google.com/2026/11/19/samsung-mobile-division-lead-choi-won-joon": {
+   "at": "2026-11-20T02:15:27.026995+00:00",
+   "title": "Samsung’s mobile division has someone new in charge for the first time in years",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/19/samsung-mobile-division-lead-choi-won-joon/",
+   "score": 1,
+   "sources": 1,
+   "summary": "After the better part of 7 years, Samsung’s mobile division has a new chief and it’s Choi Won-Joon, who is already off to a great start with the successful launch of Galaxy Z Fold 8. more…",
+   "title_ar": "قسْم الهواتف المحمولة في Samsung يمتلك مسؤولاً جديداً لأول مرة منذ سنوات"
   },
   "9to5mac.com/2026/11/12/apple-tv-just-debuted-three-new-originals-including-a-heist-thriller-series": {
    "at": "2026-11-13T02:30:35.469608+00:00",
@@ -7184,17 +7184,6 @@
    "summary": "GTA 6 lacks a parody of Disney World partially because developer Rockstar felt there wasn't a strong enough narrative justification for all the work that would have to go into meeting player…",
    "title_ar": ""
   },
-  "ign.com/articles/wolfenstein-3-confirmed-to-be-in-development-at-machinegames": {
-   "at": "2026-11-13T02:00:41.247442+00:00",
-   "title": "Wolfenstein 3 Confirmed to Be in Development at MachineGames",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/wolfenstein-3-confirmed-to-be-in-development-at-machinegames",
-   "score": 0,
-   "sources": 1,
-   "summary": "As part of the Xbox's 25th anniversary celebration at Xbox Fanfest in Seattle today, developer MachineGames confirmed what had long been rumored: that Wolfenstein 3 is in development.",
-   "title_ar": ""
-  },
   "ign.com/articles/xbox-25th-anniversary-console-stock-sells-out-in-seconds-sparking-fan-fury-over-scalping-and-limited-supply": {
    "at": "2026-11-13T13:30:37.071510+00:00",
    "title": "Xbox 25th Anniversary Console Stock Sells Out in Seconds, Sparking Fan Fury Over Scalping and Limited Supply",
@@ -13184,7 +13173,7 @@
   "AI": "2026-11-20T01:30:35.363236+00:00",
   "Anime": "2026-11-20T01:00:51.570516+00:00",
   "Games": "2026-11-19T23:00:41.478852+00:00",
-  "Tech": "2026-11-20T02:00:39.563337+00:00"
+  "Tech": "2026-11-20T02:15:27.026995+00:00"
  },
  "digest_day": "2026-11-19",
  "weekly_day": "2026-11-13"
