@@ -3620,17 +3620,6 @@
    "summary": "A riff on Google's Pixel Screenshots could pull together fragmented information from across your phone.",
    "title_ar": ""
   },
-  "engadget.com/2316384/google-now-lets-people-connect-gemini-to-their-bank-accounts": {
-   "at": "2026-11-13T21:30:39.667764+00:00",
-   "title": "Google now lets people connect Gemini to their bank accounts",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2316384/google-now-lets-people-connect-gemini-to-their-bank-accounts/",
-   "score": 1,
-   "sources": 1,
-   "summary": "This is for spending analysis and not for making purchases.",
-   "title_ar": "Google يتيح الآن للمستخدمين ربط Gemini بحساباتهم المصرفية"
-  },
   "engadget.com/2316714/instagram-will-let-creators-add-amazon-affiliate-links-directly-to-their-posts-and-reels": {
    "at": "2026-11-16T17:00:55.773105+00:00",
    "title": "Instagram will let creators add Amazon affiliate links directly to their posts and Reels",
@@ -5301,17 +5290,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Jensen Huang, the co-founder of Nvidia who was recently ousted as CEO after he admitted to having an affair with someone that US intelligence believes could by a spy for China, has now said he is…",
-   "title_ar": ""
-  },
-  "gamespot.com/articles/physical-gta-6-copies-might-be-vulnerable-to-a-very-stupid-but-serious-trick": {
-   "at": "2026-11-13T21:30:39.667764+00:00",
-   "title": "“Physical” GTA 6 Copies Might Be Vulnerable To A Very Stupid But Serious Trick",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gamespot.com/articles/physical-gta-6-copies-might-be-vulnerable-to-a-very-stupid-but-serious-trick/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Grand Theft Auto 6 ditched traditional discs for its \"physical\" launch, with Rockstar's game being sold as a digital code-in-box at retailers beginning this week.",
    "title_ar": ""
   },
   "gamespot.com/articles/psn-went-down-sorta-on-gta-6-eve": {
@@ -8932,6 +8910,17 @@
    "sources": 1,
    "summary": "And cubemaps.",
    "title_ar": "لعبة Black Mesa، وهي نسخة معاد إنتاجها من Half-Life مرخصة من شركة Valve، تحصل على تحديث ضخم وشارة التوافق مع Steam Deck"
+  },
+  "pcgamer.com/games/grand-theft-auto/21-percent-of-rockstar-staff-have-been-employed-by-the-company-for-over-10-years-which-explains-a-lot-about-gta-6s-record-breaking-launch": {
+   "at": "2026-11-20T21:30:48.999814+00:00",
+   "title": "21% of Rockstar staff have been employed by the company for over 10 years, which explains a lot about GTA 6's record-breaking launch",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.pcgamer.com/games/grand-theft-auto/21-percent-of-rockstar-staff-have-been-employed-by-the-company-for-over-10-years-which-explains-a-lot-about-gta-6s-record-breaking-launch/",
+   "score": 2,
+   "sources": 1,
+   "summary": "It's easier to make successful games when you hold onto the people who know how.",
+   "title_ar": "21% من موظفي Rockstar يعملون في الشركة لأكثر من 10 سنوات، وهو ما يفسر الكثير عن إطلاق GTA 6 الذي يحطم الأرقام القياسية"
   },
   "pcgamer.com/games/grand-theft-auto/cyberleek-drops-what-they-claim-is-a-near-complete-gta-6-xbox-build-online": {
    "at": "2026-11-19T23:30:38.682295+00:00",
@@ -13018,7 +13007,7 @@
  "topic_last_posted": {
   "AI": "2026-11-20T21:00:49.729112+00:00",
   "Anime": "2026-11-20T20:30:35.779308+00:00",
-  "Games": "2026-11-20T20:45:28.690951+00:00",
+  "Games": "2026-11-20T21:30:48.999814+00:00",
   "Tech": "2026-11-20T21:15:29.298115+00:00"
  },
  "digest_day": "2026-11-20",
