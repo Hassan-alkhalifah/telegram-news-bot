@@ -9571,17 +9571,6 @@
    "summary": "Presumably none of the roughly 30,000 Microsoft employees laid off in the last four years could have prevented this.",
    "title_ar": ""
   },
-  "pcgamer.com/software/security/microsoft-says-there-is-no-evidence-of-malicious-activity-being-the-cause-of-the-global-service-outage-affecting-governments-and-organisations-around-the-world": {
-   "at": "2026-11-13T10:45:26.095053+00:00",
-   "title": "Microsoft says there is 'no evidence of malicious activity' being the cause of the global service outage affecting governments and organisations around the world",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/software/security/microsoft-says-there-is-no-evidence-of-malicious-activity-being-the-cause-of-the-global-service-outage-affecting-governments-and-organisations-around-the-world/",
-   "score": 0,
-   "sources": 1,
-   "summary": "A bunch of governments, state institutions, and companies are affected globally.",
-   "title_ar": ""
-  },
   "pushsquare.com/news/2026/11/base-ps5s-qssr-enhancer-coming-to-6-more-games-in-spider-man-2-now": {
    "at": "2026-11-13T14:45:39.112881+00:00",
    "title": "Base PS5's QSSR Enhancer Coming to 6 More Games, in Spider-Man 2 Now",
@@ -12343,6 +12332,17 @@
    "summary": "Nvidia amassed $530 billion in financial guarantees to corner the AI market",
    "title_ar": "Nvidia تجمع ضمانات مالية بقيمة 530 مليار دولار للسيطرة على سوق الذكاء الاصطناعي — التزامات التوريد ترتفع بنحو ربع تريليون دولار في ربع سنوي واحد"
   },
+  "tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus": {
+   "at": "2026-11-20T10:45:27.920153+00:00",
+   "title": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helped Lisa Su's outfit boost its new CPUs",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
+   "score": 1,
+   "sources": 1,
+   "summary": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helping Lisa Su's outfit boost its new CPUs",
+   "title_ar": "شركة OpenAI تساعد AMD في تحسين تصميم وحدة معالجة الرسوميات الرائدة القادمة بنسبة 14% في مؤشرات PPA، ونماذج GPT تساعد أيضاً شركة Lisa Su في تعزيز وحدات المعالجة المركزية الجديدة"
+  },
   "tomshardware.com/tech-industry/artificial-intelligence/researchers-allege-deepseek-kimi-and-other-chinese-ai-models-were-trained-on-export-controlled-nvidia-blackwell-chips-statistical-analysis-on-model-weights-reveals-high-correlation-to-nvidia-hardware": {
    "at": "2026-11-14T15:00:41.934290+00:00",
    "title": "Researchers allege DeepSeek, Kimi, and other Chinese AI models were trained using banned Nvidia Blackwell GPUs",
@@ -13261,7 +13261,7 @@
   "AI": "2026-11-20T01:30:35.363236+00:00",
   "Anime": "2026-11-20T10:00:53.647088+00:00",
   "Games": "2026-11-19T23:00:41.478852+00:00",
-  "Tech": "2026-11-20T10:30:44.533760+00:00"
+  "Tech": "2026-11-20T10:45:27.920153+00:00"
  },
  "digest_day": "2026-11-19",
  "weekly_day": "2026-11-13"
