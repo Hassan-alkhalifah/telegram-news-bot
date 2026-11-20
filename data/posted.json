@@ -6128,6 +6128,17 @@
    "summary": "The Motorola Razr 50 Ultra, which is sold in the US as the Razr+ 2024, joined Motorola's Android 17 beta program back in April.",
    "title_ar": "توفر تحديث Android 50 لهاتف Motorola Razr 50 Ultra في أوروبا مع وجود شرط معين"
   },
+  "gsmarena.com/motorola_razr_flex_certification_reveals_an_unexpected_chipset_as_a_live_image_leaks-news-75553.php": {
+   "at": "2026-11-20T13:30:34.780991+00:00",
+   "title": "Motorola Razr Flex certification reveals an unexpected chipset as a live image leaks",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/motorola_razr_flex_certification_reveals_an_unexpected_chipset_as_a_live_image_leaks-news-75553.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "Motorola's wide foldable, the Razr Flex, showed up on Geekbench earlier this month with what was seemingly the Snapdragon 8 Gen 5 chipset.",
+   "title_ar": ""
+  },
   "gsmarena.com/motorola_razr_fold_android_17_stable_update-news-75536.php": {
    "at": "2026-11-19T08:00:41.007126+00:00",
    "title": "Motorola Razr Fold finally receives Android 17 stable update",
@@ -11144,6 +11155,17 @@
    "summary": "Google DeepMind has released Gemini 4 Neon, its fourth model in seven weeks, which is nearly 2x faster than its sibling Carbon, outperforms it on most benchmarks and comes in at a significantly…",
    "title_ar": ""
   },
+  "the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine": {
+   "at": "2026-11-20T13:30:34.780991+00:00",
+   "title": "Google's latest homepage update pushes its search engine further toward an AI answer engine",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Google is rolling out a collapsible sidebar globally on its Desktop Search homepage.",
+   "title_ar": "تحديث جوجل الأخير للصفحة الرئيسية يدفع محرك البحث الخاص بها نحو محرك إجابات يعتمد على الذكاء الاصطناعي"
+  },
   "the-decoder.com/isomorphic-labs-raises-5-billion-in-its-second-mega-round-within-six-months": {
    "at": "2026-11-17T15:00:48.416521+00:00",
    "title": "Isomorphic Labs raises $5 billion in its second mega-round within six months",
@@ -13225,7 +13247,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-20T12:45:39.324963+00:00",
+  "AI": "2026-11-20T13:30:34.780991+00:00",
   "Anime": "2026-11-20T10:00:53.647088+00:00",
   "Games": "2026-11-20T12:30:39.372947+00:00",
   "Tech": "2026-11-20T13:15:42.264101+00:00"
