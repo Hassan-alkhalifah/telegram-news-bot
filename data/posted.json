@@ -4104,6 +4104,17 @@
    "summary": "Replaying missions is possible, but not easy.",
    "title_ar": ""
   },
+  "engadget.com/2321988/google-signs-deal-with-blue-origin-to-send-satellite-data-centers-into-orbit": {
+   "at": "2026-11-20T03:45:25.897976+00:00",
+   "title": "Google signs deal with Blue Origin to send satellite data centers into orbit",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2321988/google-signs-deal-with-blue-origin-to-send-satellite-data-centers-into-orbit/",
+   "score": 1,
+   "sources": 1,
+   "summary": "This is part of Project Suncatcher, an experiment aimed at running AI systems in space.",
+   "title_ar": "جوجل توقيع اتفاقية مع Blue Origin لإرسال مراكز بيانات عبر الأقمار الصناعية إلى المدار"
+  },
   "engadget.com/2322144/anthropic-is-now-a-public-company-worth-more-than-1-trillion": {
    "at": "2026-11-19T19:00:41.686613+00:00",
    "title": "Anthropic is now a public company worth more than $1 trillion",
@@ -8524,6 +8535,17 @@
    "score": 0,
    "sources": 1,
    "summary": "The official website of Gensou Suikoden (Suikoden: The Anime) revealed additional cast on Wednesday.",
+   "title_ar": ""
+  },
+  "myanimelist.net/news/74960147?_location=rss": {
+   "at": "2026-11-20T03:45:25.897976+00:00",
+   "title": "Additional Cast for 'Zombie no Afureta Sekai de Ore dake ga Osowarenai' Announced",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://myanimelist.net/news/74960147?_location=rss",
+   "score": 0,
+   "sources": 1,
+   "summary": "The official website of the Zombie no Afureta Sekai de Ore dake ga Osowarenai (In a World Full of Zombies I'm the Only One Who Doesn't Get Attacked) television anime announced seven additional cast…",
    "title_ar": ""
   },
   "nintendolife.com/news/2026/11/8bitdo-reveals-its-own-gamecube-controller-for-switch-2": {
@@ -13173,7 +13195,7 @@
   "AI": "2026-11-20T01:30:35.363236+00:00",
   "Anime": "2026-11-20T01:00:51.570516+00:00",
   "Games": "2026-11-19T23:00:41.478852+00:00",
-  "Tech": "2026-11-20T03:30:45.103063+00:00"
+  "Tech": "2026-11-20T03:45:25.897976+00:00"
  },
  "digest_day": "2026-11-19",
  "weekly_day": "2026-11-13"
