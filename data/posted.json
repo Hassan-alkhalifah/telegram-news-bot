@@ -2674,6 +2674,17 @@
    "summary": "Huang is weighing a return just days after resigning amid a deepening scandal.",
    "title_ar": ""
   },
+  "arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers": {
+   "at": "2026-11-20T22:00:43.015324+00:00",
+   "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Meta is “re-evaluating” 2030 sustainability goals.",
+   "title_ar": "ميتا تعيد النظر في هدف الوصول إلى الحياد الكربوني بحلول عام 2030 وسط انبعاثات قياسية من مراكز بيانات الذكاء الاصطناعي"
+  },
   "arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027": {
    "at": "2026-11-19T19:00:41.686613+00:00",
    "title": "Google will launch Android app verification requirement globally in January 2027",
@@ -7096,6 +7107,17 @@
    "summary": "A former Rockstar developer tells stories about the real-life research that went into making the Grand Theft Auto games so authentic.",
    "title_ar": "قصص العصابات من خطوط المواجهة لأبحاث Rockstar الواقعية للعبة Grand Theft Auto"
   },
+  "ign.com/articles/satoru-gojos-english-voice-actor-didnt-realize-these-wild-lines-he-recorded-were-for-gta-6": {
+   "at": "2026-11-20T22:00:43.015324+00:00",
+   "title": "Satoru Gojo's English Voice Actor Didn't Realize These Wild Lines He Recorded Were for GTA 6",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/satoru-gojos-english-voice-actor-didnt-realize-these-wild-lines-he-recorded-were-for-gta-6",
+   "score": 0,
+   "sources": 1,
+   "summary": "Kaiji Tang, the English voice actor behind iconic anime characters like Jujutsu Kaisen’s Satoru Gojo and Demon Slayer’s Sanemi Shinazugawa, was left stunned after learning that he had unknowingly…",
+   "title_ar": ""
+  },
   "ign.com/articles/some-gta-6-players-think-max-weight-jason-and-lucia-arent-big-enough": {
    "at": "2026-11-20T14:45:28.420501+00:00",
    "title": "Some GTA 6 Players Think Max Weight Jason and Lucia Aren't Big Enough",
@@ -9041,6 +9063,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Follow Jason and Lucia's journey through Leonida.",
+   "title_ar": ""
+  },
+  "pcgamer.com/games/grand-theft-auto/gta-6-movement-speed-setting-walk-faster": {
+   "at": "2026-11-20T22:00:43.015324+00:00",
+   "title": "Try this GTA 6 movement speed setting to make Jason and Lucia walk faster",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-movement-speed-setting-walk-faster/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Pep up their step",
    "title_ar": ""
   },
   "pcgamer.com/games/grand-theft-auto/gta-6-refuel-repair-cars": {
@@ -13005,7 +13038,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-20T21:00:49.729112+00:00",
+  "AI": "2026-11-20T22:00:43.015324+00:00",
   "Anime": "2026-11-20T20:30:35.779308+00:00",
   "Games": "2026-11-20T21:30:48.999814+00:00",
   "Tech": "2026-11-20T21:45:28.281798+00:00"
