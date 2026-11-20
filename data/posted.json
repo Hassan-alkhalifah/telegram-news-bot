@@ -1816,17 +1816,6 @@
    "summary": "Anime based on Fudaya Sanmongarasu, Tomozo's novels debuts in January 2027",
    "title_ar": ""
   },
-  "animenewsnetwork.com/news/2026-11-13/purge-list-webtoon-live-action-film-adaptation-begins-production-for-2027-release/.243551": {
-   "at": "2026-11-13T14:15:43.095559+00:00",
-   "title": "Purge List Webtoon's Live-Action Film Adaptation Begins Production for 2027 Release",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-13/purge-list-webtoon-live-action-film-adaptation-begins-production-for-2027-release/.243551",
-   "score": 1,
-   "sources": 1,
-   "summary": "Historical action film will star Woo-sung Jung as ruthless power broker",
-   "title_ar": "بدء إنتاج الفيلم الواقعي المقتبس من الويب تون Purge List لعرضه في عام 2027"
-  },
   "animenewsnetwork.com/news/2026-11-14/even-the-student-council-has-its-holes-anime-casts-yoko-hikasa/.243815": {
    "at": "2026-11-15T00:30:37.389756+00:00",
    "title": "Even the Student Council Has It's Holes! Anime Casts Yōko Hikasa",
@@ -5620,17 +5609,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Pachinko-inspired roguelike game High Roller Penny, a pachinko-inspired roguelike game, will launch for PC via …",
-   "title_ar": ""
-  },
-  "gematsu.com/2026/11/lucky-luke-the-lonesome-cowboy-collection-announced-for-ps5-xbox-series-switch-2-ps4-xbox-one-switch-and-pc": {
-   "at": "2026-11-13T14:15:43.095559+00:00",
-   "title": "Lucky Luke: The Lonesome Cowboy Collection announced for PS5, Xbox Series, Switch 2, PS4, Xbox One, Switch, and PC",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gematsu.com/2026/11/lucky-luke-the-lonesome-cowboy-collection-announced-for-ps5-xbox-series-switch-2-ps4-xbox-one-switch-and-pc",
-   "score": 0,
-   "sources": 1,
-   "summary": "Atari publishing label Infogrames and developers Graphite Labs and Implicit Conversions have announced Lucky Luke: …",
    "title_ar": ""
   },
   "gematsu.com/2026/11/mercenaries-grace-launches-november-25-for-ps5-in-japan-in-december-for-switch-and-in-early-2027-for-pc": {
@@ -12288,6 +12266,17 @@
    "summary": "Jensen Huang could be back in his old Nvidia office soon as allies rally to push the AI chipmaker to take him back just days after he was ousted over an affair with an alleged Chinese spy.",
    "title_ar": ""
   },
+  "tomshardware.com/tech-industry/artificial-intelligence/lawyers-usd9-450-private-ai-server-of-12-used-nvidia-v100s-now-runs-every-deepseek-v4-1-flash-expert-at-4-bit-nvfp4-up-to-184-tokens-per-second-on-code-and-long-documents-start-answering-in-about-half-the-time": {
+   "at": "2026-11-20T14:30:35.111068+00:00",
+   "title": "Lawyer’s $9,450 private AI server with 12 used Nvidia V100s now runs every DeepSeek V4.1 Flash expert",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyers-usd9-450-private-ai-server-of-12-used-nvidia-v100s-now-runs-every-deepseek-v4-1-flash-expert-at-4-bit-nvfp4-up-to-184-tokens-per-second-on-code-and-long-documents-start-answering-in-about-half-the-time",
+   "score": 1,
+   "sources": 1,
+   "summary": "A lawyer’s private AI server now runs DeepSeek V4.1 Flash on 12 used Nvidia V100 GPUs, with every expert at 4-bit NVFP4.",
+   "title_ar": "خادم ذكاء اصطناعي خاص لمحامٍ بتكلفة 9,450 دولاراً ويضم 12 وحدة معالجة رسوميات مستعملة من نوع Nvidia V100 يشغل الآن كل خبراء DeepSeek V4.1 Flash"
+  },
   "tomshardware.com/tech-industry/artificial-intelligence/malaysia-and-singapore-step-up-nvidia-ai-chip-probes-as-charges-brought-against-chinese-national-over-917-smuggled-servers-firm-at-center-of-jensen-huang-controversy-announces-inventory-audit-to-account-for-all-restricted-gpus": {
    "at": "2026-11-13T16:30:38.946330+00:00",
    "title": "Malaysia and Singapore step up Nvidia AI chip probes amidst Jensen Huang controversy",
@@ -13217,7 +13206,7 @@
   "AI": "2026-11-20T13:30:34.780991+00:00",
   "Anime": "2026-11-20T10:00:53.647088+00:00",
   "Games": "2026-11-20T14:00:53.537214+00:00",
-  "Tech": "2026-11-20T14:15:29.122737+00:00"
+  "Tech": "2026-11-20T14:30:35.111068+00:00"
  },
  "digest_day": "2026-11-19",
  "weekly_day": "2026-11-13"
