@@ -540,17 +540,6 @@
    "summary": "Apple TV subscribers can now watch three new originals, including a heist thriller series, a film based on true events, and the first of two holiday specials coming to the platform this season.",
    "title_ar": "Apple TV يطلق ثلاثة أعمال أصلية جديدة، بما في ذلك مسلسل إثارة عن السرقة"
   },
-  "9to5mac.com/2026/11/12/elton-johns-apple-music-show-to-feature-king-charles-in-november-14-special": {
-   "at": "2026-11-13T01:15:27.296470+00:00",
-   "title": "Elton John’s Apple Music show to feature King Charles in November 14 special",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/12/elton-johns-apple-music-show-to-feature-king-charles-in-november-14-special/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Apple Music and Buckingham Palace today announced that King Charles will join the next episode of Sir Elton John’s Rocket Hour to discuss the 50th anniversary of his charity and the role music has…",
-   "title_ar": "برنامج Elton John على Apple Music يستضيف King Charles في حلقة خاصة يوم 14 نوفمبر"
-  },
   "9to5mac.com/2026/11/12/ios-27s-find-my-app-adds-convenient-feature-ive-long-wished-for": {
    "at": "2026-11-13T01:45:26.698758+00:00",
    "title": "iOS 27’s Find My app adds convenient feature I’ve long wished for",
@@ -2509,6 +2498,17 @@
    "summary": "Artist ao performs opening, band moon drop perform ending song",
    "title_ar": ""
   },
+  "animenewsnetwork.com/news/2026-11-19/this-world-is-worth-fighting-for-manga-gets-live-action-series/.243996": {
+   "at": "2026-11-20T01:15:27.513340+00:00",
+   "title": "This World is Worth Fighting For Manga Gets Live-Action Series",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-19/this-world-is-worth-fighting-for-manga-gets-live-action-series/.243996",
+   "score": 0,
+   "sources": 1,
+   "summary": "Series based on Hatsumi Kodama's Kono Yo wa Tatakau Kachi ga Aru manga debuts in January 2027",
+   "title_ar": ""
+  },
   "arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns": {
    "at": "2026-11-13T17:30:38.535994+00:00",
    "title": "AI is \"the most likely reason\" you'll die, OpenAI board member warns",
@@ -2805,17 +2805,6 @@
    "sources": 1,
    "summary": "Free update launches with the new character today",
    "title_ar": "لعبة Naruto to Boruto: Shinobi Striker ترحب بشخصية Kabuto Yakushi (وضع الناسك) باعتبارها الإضافة الـ 50"
-  },
-  "crunchyroll.com/news/latest/2026/11/13/orochi-seventh-echoes-original-anime-movie-pilot-film": {
-   "at": "2026-11-13T01:15:27.296470+00:00",
-   "title": "OROCHI -Seventh Echoes- Original Anime Movie Releases Pilot Film",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://crunchyroll.com/news/latest/2026/11/13/orochi-seventh-echoes-original-anime-movie-pilot-film",
-   "score": 0,
-   "sources": 1,
-   "summary": "Takashi Nakamura handles the original concept, direction, character design and art design",
-   "title_ar": ""
   },
   "crunchyroll.com/news/latest/2026/11/14/77th-kohaku-uta-gassen-performers-ado-yoasobi-tm-network-tm-revolution": {
    "at": "2026-11-14T01:00:23.051746+00:00",
@@ -5929,6 +5918,17 @@
    "sources": 1,
    "summary": "Huawei is expected to launch a new smartwatch in its portfolio soon with the Watch Air.",
    "title_ar": "تسريب ساعة Huawei Watch Air بتصميم نحيف للغاية"
+  },
+  "gsmarena.com/instagram_story_edit-news-75541.php": {
+   "at": "2026-11-20T01:15:27.513340+00:00",
+   "title": "About time: You can now edit your Instagram Stories after posting them",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/instagram_story_edit-news-75541.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "Until now, if you posted a Story on Instagram and later found something was wrong with it - such as a typo or the wrong music - you'd have to delete it and post a new Story with the correct content.",
+   "title_ar": ""
   },
   "gsmarena.com/iphone_20_pro_may_bring_back_titanium-news-75535.php": {
    "at": "2026-11-19T02:30:34.919348+00:00",
@@ -10902,6 +10902,17 @@
    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you": {
+   "at": "2026-11-20T01:15:27.513340+00:00",
+   "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+   "score": 1,
+   "sources": 1,
+   "summary": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
+   "title_ar": "تريد رؤية استهلاك الذكاء الاصطناعي مباشرة على أيقونات جهاز Mac الخاص بك؟ هذا التطبيق الجديد الذكي يتيح لك ذلك"
+  },
   "the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices": {
    "at": "2026-11-16T23:45:29.284385+00:00",
    "title": "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
@@ -13206,7 +13217,7 @@
   "AI": "2026-11-20T00:45:28.926974+00:00",
   "Anime": "2026-11-20T01:00:51.570516+00:00",
   "Games": "2026-11-19T23:00:41.478852+00:00",
-  "Tech": "2026-11-20T00:43:14.832131+00:00"
+  "Tech": "2026-11-20T01:15:27.513340+00:00"
  },
  "digest_day": "2026-11-19",
  "weekly_day": "2026-11-13"
