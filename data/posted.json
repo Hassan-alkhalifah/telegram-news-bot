@@ -4258,6 +4258,17 @@
    "summary": "Google is doubling down on Gemini AI in its desktop search, despite complaints from users and employees alike.",
    "title_ar": "إعادة تصميم الصفحة الرئيسية الأخيرة من Google تجعل Gemini أكثر بروزاً"
   },
+  "engadget.com/2322650/uber-kids-rides-children-aged-10-to-12-years-old": {
+   "at": "2026-11-20T06:45:26.852719+00:00",
+   "title": "Uber Kids will let parents book trips for their children aged 10 to 12 years old",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2322650/uber-kids-rides-children-aged-10-to-12-years-old/",
+   "score": 2,
+   "sources": 2,
+   "summary": "Uber is testing rides for children ages 10 to 12 and will pay drivers more for them.",
+   "title_ar": "خدمة Uber Kids تتيح للآالياء حجز رحلات لأطفالهم تتراوح أعمارهم بين 10 و12 عاماً"
+  },
   "eurogamer.net/blood-of-dawnwalker-new-game-plus": {
    "at": "2026-11-13T21:00:41.462775+00:00",
    "title": "The Blood of Dawnwalker is getting a New Game Plus mode in next week's update",
@@ -6149,17 +6160,6 @@
    "sources": 1,
    "summary": "One of the complaints following the iPhone Duo's launch was the lack of apps optimized for its wide inner display and user interface.",
    "title_ar": ""
-  },
-  "gsmarena.com/redmi_note_18_charging_speed_revealed_via_online_listing-news-75464.php": {
-   "at": "2026-11-13T06:45:26.801899+00:00",
-   "title": "Redmi Note 18 series spotted online, charging speed revealed",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.gsmarena.com/redmi_note_18_charging_speed_revealed_via_online_listing-news-75464.php",
-   "score": 1,
-   "sources": 1,
-   "summary": "Although Xiaomi launched the Redmi Note 17 series only a few months ago, the company appears to be gearing up to introduce its successors.",
-   "title_ar": "رصد سلسلة Redmi Note 18 عبر الإنترنت، والكشف عن سرعة الشحن"
   },
   "gsmarena.com/samsung_could_beat_apple_to_market_with_a_bezelless_phone_display-news-75510.php": {
    "at": "2026-11-17T22:15:30.159290+00:00",
@@ -10880,6 +10880,17 @@
    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers": {
+   "at": "2026-11-20T06:45:26.852719+00:00",
+   "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Uber is testing the new program in three U.S. cities.",
+   "title_ar": ""
+  },
   "techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you": {
    "at": "2026-11-20T01:15:27.513340+00:00",
    "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
@@ -13239,7 +13250,7 @@
   "AI": "2026-11-20T01:30:35.363236+00:00",
   "Anime": "2026-11-20T01:00:51.570516+00:00",
   "Games": "2026-11-19T23:00:41.478852+00:00",
-  "Tech": "2026-11-20T06:15:40.081738+00:00"
+  "Tech": "2026-11-20T06:45:26.852719+00:00"
  },
  "digest_day": "2026-11-19",
  "weekly_day": "2026-11-13"
