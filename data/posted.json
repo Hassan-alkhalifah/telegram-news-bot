@@ -8317,17 +8317,6 @@
    "summary": "Fans still want Zelda on a cartridge",
    "title_ar": ""
   },
-  "myanimelist.net/news/74934042?_location=rss": {
-   "at": "2026-11-13T03:30:36.978185+00:00",
-   "title": "Light Novel 'Isekai Douraku ni Akitara' Gets TV Anime in Winter 2027",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://myanimelist.net/news/74934042?_location=rss",
-   "score": 1,
-   "sources": 1,
-   "summary": "Publishing company Shufunotomo announced a television anime adaptation of Fudaya Sanmongarasu and Tomozo's Isekai Douraku ni Akitara (Living It Up in Another World Until I Get Bored) light novel on…",
-   "title_ar": "الرواية الخفيفة Isekai Douraku ni Akitara تحصل على مسلسل أنمي تلفزيوني في شتاء 2027"
-  },
   "myanimelist.net/news/74934668?_location=rss": {
    "at": "2026-11-13T09:00:46.127668+00:00",
    "title": "CyberAgent Expands Production Network With Latent One Launch and MAPPA Partnership",
@@ -11452,6 +11441,17 @@
    "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives.",
    "title_ar": "حتى Sam Altman ليس آمنًا من التزييف العميق بالذكاء الاصطناعي على Instagram"
   },
+  "theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads": {
+   "at": "2026-11-20T03:30:45.103063+00:00",
+   "title": "Some creators are skeptical of Instagram’s new affiliate program",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
+   "score": 1,
+   "sources": 1,
+   "summary": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers.",
+   "title_ar": "بعض صناع المحتوى متشككون تجاه برنامج المنتسبين الجديد في Instagram"
+  },
   "theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick": {
    "at": "2026-11-16T11:30:37.261961+00:00",
    "title": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
@@ -13173,7 +13173,7 @@
   "AI": "2026-11-20T01:30:35.363236+00:00",
   "Anime": "2026-11-20T01:00:51.570516+00:00",
   "Games": "2026-11-19T23:00:41.478852+00:00",
-  "Tech": "2026-11-20T03:15:34.272410+00:00"
+  "Tech": "2026-11-20T03:30:45.103063+00:00"
  },
  "digest_day": "2026-11-19",
  "weekly_day": "2026-11-13"
