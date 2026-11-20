@@ -628,17 +628,6 @@
    "summary": "Coinciding with the launch of Apple HomeView, the company has been updating its support website with new guides covering everything from facial recognition and user profiles to troubleshooting and…",
    "title_ar": "أبل تفصل ميزة التعرف على الوجه HomeView خيارات الإصلاح والمزيد في أدلة دعم جديدة"
   },
-  "9to5mac.com/2026/11/13/perplexity-brings-ai-agents-feature-called-teammates-to-the-mac": {
-   "at": "2026-11-13T21:00:41.462775+00:00",
-   "title": "Perplexity brings AI agents feature called Teammates to the Mac",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/13/perplexity-brings-ai-agents-feature-called-teammates-to-the-mac/",
-   "score": 1,
-   "sources": 1,
-   "summary": "This week, Perplexity has deployed its new proactive agentic AI feature called Teammates to the Mac.",
-   "title_ar": "Perplexity توفر ميزة وكلاء الذكاء الاصطناعي المسماة Teammates لأجهزة Mac"
-  },
   "9to5mac.com/2026/11/14/homeview-ambient-dark-mode-should-come-to-all-devices": {
    "at": "2026-11-14T17:45:27.416616+00:00",
    "title": "Here’s a HomeView feature that should come to every Apple device",
@@ -1827,17 +1816,6 @@
    "summary": "Witch Watch Season 2 is set to premiere in 2027.",
    "title_ar": ""
   },
-  "animenewsnetwork.com/news/2026-11-13/giant-ojosama-tv-anime-reveals-more-cast/.243804": {
-   "at": "2026-11-13T21:00:41.462775+00:00",
-   "title": "Giant Ojosama TV Anime Reveals More Cast",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-13/giant-ojosama-tv-anime-reveals-more-cast/.243804",
-   "score": 0,
-   "sources": 1,
-   "summary": "Series casts Rina Kawaguchi as Stella, Risa Imayanagi as Madoka Ito",
-   "title_ar": ""
-  },
   "animenewsnetwork.com/news/2026-11-14/even-the-student-council-has-its-holes-anime-casts-yoko-hikasa/.243815": {
    "at": "2026-11-15T00:30:37.389756+00:00",
    "title": "Even the Student Council Has It's Holes! Anime Casts Yōko Hikasa",
@@ -2838,17 +2816,6 @@
    "sources": 1,
    "summary": "Read our interview with the Naruto voice actors at New York Comic Con!",
    "title_ar": "مؤدّو أصوات Naruto الأصليون يتحدثون عن سبب شعور العودة إلى Team 7 بشكل مختلف بعد 20 عاماً"
-  },
-  "crunchyroll.com/news/latest/2026/11/13/j-novel-club-announces-13-new-digital-releases-and-two-new-print-releases": {
-   "at": "2026-11-13T20:45:31.167926+00:00",
-   "title": "J-Novel Club Announces 13 New Digital Releases and Two New Print Releases",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://crunchyroll.com/news/latest/2026/11/13/j-novel-club-announces-13-new-digital-releases-and-two-new-print-releases",
-   "score": 1,
-   "sources": 1,
-   "summary": "Releases of seven light novels and six manga are now available on the website",
-   "title_ar": "دار J-Novel Club تعلن عن 13 إصداراً رقمياً جديداً وإصدارين ورقيين جديدين"
   },
   "crunchyroll.com/news/latest/2026/11/14/77th-kohaku-uta-gassen-performers-ado-yoasobi-tm-network-tm-revolution": {
    "at": "2026-11-14T01:00:23.051746+00:00",
@@ -4355,17 +4322,6 @@
    "score": 0,
    "sources": 1,
    "summary": "It describes the fix as incomplete and calls for a simple way for developers to opt out of AI snooping.",
-   "title_ar": ""
-  },
-  "eurogamer.net/blood-of-dawnwalker-new-game-plus": {
-   "at": "2026-11-13T21:00:41.462775+00:00",
-   "title": "The Blood of Dawnwalker is getting a New Game Plus mode in next week's update",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.eurogamer.net/blood-of-dawnwalker-new-game-plus",
-   "score": 0,
-   "sources": 1,
-   "summary": "A New Game Plus mode is coming to vampiric RPG The Blood of Dawnwalker next week.",
    "title_ar": ""
   },
   "eurogamer.net/build-a-rocket-boy-mindseye-debt-administration-litigation": {
@@ -11100,6 +11056,17 @@
    "summary": "OpenAI releases GPT-6.2 Astra and Sol, two new models that are more capable and cheaper than their predecessors.",
    "title_ar": ""
   },
+  "the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think": {
+   "at": "2026-11-20T21:00:49.729112+00:00",
+   "title": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/",
+   "score": 1,
+   "sources": 1,
+   "summary": "OpenAI has significantly strengthened safeguards against extracting internal reasoning from GPT-6.2 Astra and GPT-6.2 Sol.",
+   "title_ar": "أوبن إيه آي تجعل من الصعب جداً على المهاجمين استخراج طريقة تفكير أحدث نماذج الذكاء الاصطناعي لديها"
+  },
   "the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time": {
    "at": "2026-11-18T14:45:28.968423+00:00",
    "title": "OpenAI opens its AI systems to four independent on-site auditors for the first time",
@@ -11220,28 +11187,6 @@
    "sources": 1,
    "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president.",
    "title_ar": "فضيحة Nvidia لا تهدأ"
-  },
-  "theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow": {
-   "at": "2026-11-13T21:00:41.462775+00:00",
-   "title": "Let’s talk about Jensen Huang’s many affairs!",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
-   "score": 0,
-   "sources": 1,
-   "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia.",
-   "title_ar": ""
-  },
-  "theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet": {
-   "at": "2026-11-13T21:00:41.462775+00:00",
-   "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-   "score": 0,
-   "sources": 1,
-   "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents.",
-   "title_ar": ""
   },
   "theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china": {
    "at": "2026-11-15T19:30:33.921229+00:00",
@@ -12067,17 +12012,6 @@
    "sources": 1,
    "summary": "Nvidia took the wraps off its Rubin HPC GPU at Supercomputing 2026.",
    "title_ar": "Nvidia تعلن عن معالج الرسوميات Rubin HPC المزود بـ \"عدد قياسي من أنوية CUDA\" في مؤتمر Supercomputing 2026"
-  },
-  "tomshardware.com/pc-components/gpus/nvidia-board-reportedly-approached-arm-ceo-rene-haas-during-replacement-search-jensen-huangs-transgressions-leave-nvidia-scrambling-to-fill-a-massive-void": {
-   "at": "2026-11-13T21:00:41.462775+00:00",
-   "title": "Nvidia board reportedly approached Arm CEO Rene Haas during replacement search",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-board-reportedly-approached-arm-ceo-rene-haas-during-replacement-search-jensen-huangs-transgressions-leave-nvidia-scrambling-to-fill-a-massive-void",
-   "score": 0,
-   "sources": 1,
-   "summary": "Nvidia's board of directors reportedly approached Rene Haas, chief executive of Arm and a long-time Nvidia veteran, in CEO search.",
-   "title_ar": ""
   },
   "tomshardware.com/pc-components/gpus/nvidia-rtx-5090-stock-returns-to-newegg-with-21-models-but-scarcity-pricing-keeps-the-cheapest-air-cooled-cards-at-least-three-times-msrp": {
    "at": "2026-11-15T17:30:37.130076+00:00",
@@ -13082,7 +13016,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-20T20:00:50.831558+00:00",
+  "AI": "2026-11-20T21:00:49.729112+00:00",
   "Anime": "2026-11-20T20:30:35.779308+00:00",
   "Games": "2026-11-20T20:45:28.690951+00:00",
   "Tech": "2026-11-20T20:15:36.813541+00:00"
