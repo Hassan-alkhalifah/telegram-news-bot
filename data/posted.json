@@ -2652,6 +2652,17 @@
    "summary": "Show Hayami, Miyu Tomita, more join cast; new visual also revealed",
    "title_ar": ""
   },
+  "animenewsnetwork.com/news/2026-11-20/yen-press-licenses-oshi-no-ko-etude-for-two-bungo-stray-dogs-the-untold-origins-of-the-detective-/.244035": {
+   "at": "2026-11-20T20:30:35.779308+00:00",
+   "title": "Yen Press Licenses [Oshi No Ko] Étude for Two, Bungo Stray Dogs: The Untold Origins of the Detective Agency, More Manga/Novels",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-20/yen-press-licenses-oshi-no-ko-etude-for-two-bungo-stray-dogs-the-untold-origins-of-the-detective-/.244035",
+   "score": 1,
+   "sources": 1,
+   "summary": "Also: Mercenary Sisters , Caring for a Corpse , Megarosalia , more",
+   "title_ar": "دار Yen Press ترخيص مانغا [Oshi No Ko] Étude for Two و Bungo Stray Dogs: The Untold Origins of the Detective Agency، بالإضافة إلى مانغا وروايات أخرى"
+  },
   "arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history": {
    "at": "2026-11-17T17:15:33.141500+00:00",
    "title": "Google makes it easier to use Gemini without training AI on your data",
@@ -4333,6 +4344,17 @@
    "score": 0,
    "sources": 1,
    "summary": "If you miss certain aspects of older GTA games, there are few ways you can wind back the clock.",
+   "title_ar": ""
+  },
+  "engadget.com/2323574/signal-now-blocks-screenshots-by-default-to-stymie-ai-agents": {
+   "at": "2026-11-20T20:30:35.779308+00:00",
+   "title": "Signal now blocks screenshots by default to stymie AI agents",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2323574/signal-now-blocks-screenshots-by-default-to-stymie-ai-agents/",
+   "score": 0,
+   "sources": 1,
+   "summary": "It describes the fix as incomplete and calls for a simple way for developers to opt out of AI snooping.",
    "title_ar": ""
   },
   "eurogamer.net/blood-of-dawnwalker-new-game-plus": {
@@ -7987,6 +8009,17 @@
    "summary": "Getting your money for nothing and your chicks for free does not make for great game design",
    "title_ar": ""
   },
+  "kotaku.com/gta-6-release-was-so-big-it-broke-internet-download-records-twice-in-one-week-2000758654": {
+   "at": "2026-11-20T20:30:35.779308+00:00",
+   "title": "GTA 6 Release Was So Big It Broke Internet Download Records Twice In One Week",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/gta-6-release-was-so-big-it-broke-internet-download-records-twice-in-one-week-2000758654",
+   "score": 0,
+   "sources": 1,
+   "summary": "With no physical edition, the 210GB download is mandatory for every player",
+   "title_ar": ""
+  },
   "kotaku.com/gta-6-sold-32-5-million-copies-in-pre-release-as-take-two-crowns-it-the-biggest-entertainment-launch-in-history-2000758965": {
    "at": "2026-11-20T19:45:27.385033+00:00",
    "title": "GTA 6 Sold 32.5 Million Copies In Pre-Release As Take-Two Crowns It The ‘Biggest Entertainment Launch In History’",
@@ -10935,17 +10968,6 @@
    "summary": "Megaspeed, the firm owned by ousted Nvidia CEO Jensen Huang's former lover Alice Huang, arranged nearly $12 billion in Nvidia chip orders for Chinese companies between 2024 and 2025, according to…",
    "title_ar": "شركة مرتبطة بالصديقة السابقة لـ Jensen Huang توسطت في صفقات لشرائح Nvidia إلى الصين بقيمة تقارب 12 مليار دولار حسب التقارير"
   },
-  "the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models": {
-   "at": "2026-11-13T20:27:55.837463+00:00",
-   "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Former OpenAI researcher Will DePue says he has produced the first technical evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group are using Nvidia's latest Blackwell GPUs despite US export…",
-   "title_ar": "باحث سابق في OpenAI يقول إنه عثر على بصمات لشرائح Nvidia Blackwell مخفية داخل ستة نماذج ذكاء اصطناعي صينية"
-  },
   "the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol": {
    "at": "2026-11-14T17:00:44.007123+00:00",
    "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
@@ -13072,7 +13094,7 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-20T20:00:50.831558+00:00",
-  "Anime": "2026-11-20T17:30:37.306708+00:00",
+  "Anime": "2026-11-20T20:30:35.779308+00:00",
   "Games": "2026-11-20T19:45:27.385033+00:00",
   "Tech": "2026-11-20T20:15:36.813541+00:00"
  },
