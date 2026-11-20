@@ -4379,17 +4379,6 @@
    "summary": "Last night, it was revealed that Clair Obscur: Expedition 33 's lead narrative designer, Jennifer Svedberg-Yen, won a BAFTA Breakthrough US award for her contribution to the hit 2025 game, which…",
    "title_ar": ""
   },
-  "eurogamer.net/crimson-desert-ai-pipeline-dokev-2028": {
-   "at": "2026-11-13T22:30:35.279455+00:00",
-   "title": "Crimson Desert studio is implementing AI \"throughout our entire development pipeline,\" and expects DokeV to launch in 2028",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.eurogamer.net/crimson-desert-ai-pipeline-dokev-2028",
-   "score": 3,
-   "sources": 2,
-   "summary": "Crimson Desert and DokeV developer Pearl Abyss is planning to further integrate generative AI into its workflow.",
-   "title_ar": "استوديو Crimson Desert يطبق الذكاء الاصطناعي طوال عملية التطوير بأكملها، ويتوقع إطلاق DokeV في عام 2028."
-  },
   "eurogamer.net/cyberleek-gta-6-dev-build": {
    "at": "2026-11-19T21:15:27.638906+00:00",
    "title": "Infamous GTA 6 leaker CyberLeek is back, and this time the group claims to have leaked a full development build of the game",
@@ -6073,17 +6062,6 @@
    "summary": "Yesterday, Motorola started teasing the upcoming Edge 70 Neo, revealing its official launch date for the phone, which will be November 24.",
    "title_ar": ""
   },
-  "gsmarena.com/motorola_razr_50_ultra_starts_getting_android_17_in_europe-news-75480.php": {
-   "at": "2026-11-13T22:15:29.106798+00:00",
-   "title": "Motorola Razr 50 Ultra's Android 17 update becomes available in Europe, with a catch",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.gsmarena.com/motorola_razr_50_ultra_starts_getting_android_17_in_europe-news-75480.php",
-   "score": 1,
-   "sources": 1,
-   "summary": "The Motorola Razr 50 Ultra, which is sold in the US as the Razr+ 2024, joined Motorola's Android 17 beta program back in April.",
-   "title_ar": "توفر تحديث Android 50 لهاتف Motorola Razr 50 Ultra في أوروبا مع وجود شرط معين"
-  },
   "gsmarena.com/motorola_razr_flex_certification_reveals_an_unexpected_chipset_as_a_live_image_leaks-news-75553.php": {
    "at": "2026-11-20T13:30:34.780991+00:00",
    "title": "Motorola Razr Flex certification reveals an unexpected chipset as a live image leaks",
@@ -6215,6 +6193,17 @@
    "sources": 1,
    "summary": "One of the complaints following the iPhone Duo's launch was the lack of apps optimized for its wide inner display and user interface.",
    "title_ar": ""
+  },
+  "gsmarena.com/samsung_appoints_new_leadership_tm_roh_remains_ceo-news-75568.php": {
+   "at": "2026-11-20T22:30:37.675414+00:00",
+   "title": "Samsung appoints new leadership, TM Roh remains CEO",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.gsmarena.com/samsung_appoints_new_leadership_tm_roh_remains_ceo-news-75568.php",
+   "score": 1,
+   "sources": 1,
+   "summary": "After seven years, Samsung is shaking up its leadership and is replacing the head of the mobile division.",
+   "title_ar": "سامسونغ تعين قيادة جديدة، وTM Roh يظل رئيساً تنفيذياً"
   },
   "gsmarena.com/samsung_could_beat_apple_to_market_with_a_bezelless_phone_display-news-75510.php": {
    "at": "2026-11-17T22:15:30.159290+00:00",
@@ -9514,17 +9503,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Let's ride into the sunset together.",
-   "title_ar": ""
-  },
-  "pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline": {
-   "at": "2026-11-13T22:30:35.279455+00:00",
-   "title": "Don't like AI in games? Crimson Desert studio Pearl Abyss ain't care: it's expanding AI use 'throughout our entire development pipeline'",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Pearl Abyss apologized for the presence of AI-generated art in Crimson Desert earlier this year, but it's not slowing down.",
    "title_ar": ""
   },
   "pcgamer.com/software/ai/jensen-huang-isnt-coming-back-says-nvidia-board": {
@@ -13063,7 +13041,7 @@
   "AI": "2026-11-20T22:00:43.015324+00:00",
   "Anime": "2026-11-20T20:30:35.779308+00:00",
   "Games": "2026-11-20T21:30:48.999814+00:00",
-  "Tech": "2026-11-20T22:15:27.064754+00:00"
+  "Tech": "2026-11-20T22:30:37.675414+00:00"
  },
  "digest_day": "2026-11-20",
  "weekly_day": "2026-11-20"
