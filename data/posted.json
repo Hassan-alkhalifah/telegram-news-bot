@@ -2784,17 +2784,6 @@
    "summary": "Tsukuyomi Kansha-sai event takes place December 26 on YouTube and VRChat",
    "title_ar": "الحدث الافتراضي Cosmic Princess Kaguya! يعلن عن الفنانين الضيوف Black onyX"
   },
-  "crunchyroll.com/news/latest/2026/11/13/inherit-the-winds-anime-key-visual": {
-   "at": "2026-11-13T09:00:46.127668+00:00",
-   "title": "Inherit the Winds Anime Takes It Easy in New Key Visual",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://crunchyroll.com/news/latest/2026/11/13/inherit-the-winds-anime-key-visual",
-   "score": 0,
-   "sources": 1,
-   "summary": "The original series begins airing in January 2027",
-   "title_ar": ""
-  },
   "crunchyroll.com/news/latest/2026/11/13/j-novel-club-announces-13-new-digital-releases-and-two-new-print-releases": {
    "at": "2026-11-13T20:45:31.167926+00:00",
    "title": "J-Novel Club Announces 13 New Digital Releases and Two New Print Releases",
@@ -5820,6 +5809,17 @@
    "summary": "Apple has just announced the finalists for this year's App Store Awards, with 45 apps and games from developers around the world in the running.",
    "title_ar": ""
   },
+  "gsmarena.com/apple_tightens_its_grip_on_a_shrinking_us_smartphone_market-news-75556.php": {
+   "at": "2026-11-20T09:15:40.622074+00:00",
+   "title": "Apple tightens its grip on a shrinking US smartphone market",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.gsmarena.com/apple_tightens_its_grip_on_a_shrinking_us_smartphone_market-news-75556.php",
+   "score": 1,
+   "sources": 1,
+   "summary": "Counterpoint Research has published its latest US smartphone market data, and the third quarter of this year (July to September) wasn't a great one.",
+   "title_ar": "Apple تشتد قبضتها على سوق الهواتف الذكية الأمريكي المتراجع"
+  },
   "gsmarena.com/best_phones_2026_gsmarena_awards-news-75526.php": {
    "at": "2026-11-19T15:45:33.055360+00:00",
    "title": "GSMArena Awards 2026: The winners",
@@ -7547,17 +7547,6 @@
    "summary": "Grand Theft Auto 6 has received several nominations at this year's The Game Awards, representing a massive slate of potential wins.",
    "title_ar": ""
   },
-  "insider-gaming.com/microsoft-xbox-outage-global": {
-   "at": "2026-11-13T09:15:30.494168+00:00",
-   "title": "XBOX Impacted By Global Microsoft Outage As Worldwide Tech Suffers",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/microsoft-xbox-outage-global/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Microsoft is suffering from a global 365 outage that has also impacted XBOX services.",
-   "title_ar": ""
-  },
   "insider-gaming.com/nba-2k-season-3-brings-in-vice-city": {
    "at": "2026-11-16T18:45:27.900329+00:00",
    "title": "NBA 2K27 Season 3 Brings in Vice City",
@@ -8405,17 +8394,6 @@
    "summary": "Fans still want Zelda on a cartridge",
    "title_ar": ""
   },
-  "myanimelist.net/news/74934668?_location=rss": {
-   "at": "2026-11-13T09:00:46.127668+00:00",
-   "title": "CyberAgent Expands Production Network With Latent One Launch and MAPPA Partnership",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://myanimelist.net/news/74934668?_location=rss",
-   "score": 2,
-   "sources": 1,
-   "summary": "CyberAgent is expanding its presence in Japan's animation industry through a combination of studio development and strategic investment, establishing a new animation studio under its subsidiary…",
-   "title_ar": "CyberAgent توسع شبكة إنتاجها بإطلاق Latent One وشراكة مع MAPPA"
-  },
   "myanimelist.net/news/74934867?_location=rss": {
    "at": "2026-11-13T10:30:35.677564+00:00",
    "title": "'Isekai Tensei Soudouki' Reveals Additional Cast, Staff, Theme Songs, Second Promo",
@@ -8623,6 +8601,17 @@
    "score": 0,
    "sources": 1,
    "summary": "The official website of the Zombie no Afureta Sekai de Ore dake ga Osowarenai (In a World Full of Zombies I'm the Only One Who Doesn't Get Attacked) television anime announced seven additional cast…",
+   "title_ar": ""
+  },
+  "myanimelist.net/news/74960710?_location=rss": {
+   "at": "2026-11-20T09:15:40.622074+00:00",
+   "title": "'Pen to Wappa to Jijitsukon' Unveils Additional Cast, Staff, Theme Songs, First Promo",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://myanimelist.net/news/74960710?_location=rss",
+   "score": 0,
+   "sources": 1,
+   "summary": "The official website of the Pen to Wappa to Jijitsukon (A Pen, Handcuffs, and a Common-Law Marriage) television anime unveiled additional cast, staff, the theme songs, a key visual (pictured), and…",
    "title_ar": ""
   },
   "nintendolife.com/news/2026/11/8bitdo-reveals-its-own-gamecube-controller-for-switch-2": {
@@ -13272,7 +13261,7 @@
   "AI": "2026-11-20T01:30:35.363236+00:00",
   "Anime": "2026-11-20T09:00:41.682947+00:00",
   "Games": "2026-11-19T23:00:41.478852+00:00",
-  "Tech": "2026-11-20T08:15:26.133916+00:00"
+  "Tech": "2026-11-20T09:15:40.622074+00:00"
  },
  "digest_day": "2026-11-19",
  "weekly_day": "2026-11-13"
