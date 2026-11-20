@@ -11177,6 +11177,17 @@
    "summary": "AI music generator Suno can now create images and video clips to go with its songs, thanks to a new feature called Visuals.",
    "title_ar": ""
   },
+  "theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem": {
+   "at": "2026-11-20T16:45:28.250819+00:00",
+   "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+   "score": 3,
+   "sources": 2,
+   "summary": "Anthropic mathematician Levent Alpöge claims he has solved the Riemann hypothesis, one of mathematics' most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded…",
+   "title_ar": "رياضياتي في شركة Anthropic يدعي حل إحدى مسائل جائزة الألفية الشهيرة بمساعدة Claude"
+  },
   "theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down": {
    "at": "2026-11-16T13:15:30.964009+00:00",
    "title": "The Nvidia scandal isn’t slowing down",
@@ -12100,6 +12111,17 @@
    "sources": 1,
    "summary": "There’s a new vibe-coded OS in town going by the name of LiberNT.",
    "title_ar": "مطور يبتكر نظام تشغيل بديلاً لـ Windows 11 لأجهزة amd64 وarm64 وriscv64"
+  },
+  "tomshardware.com/tech-industry/artificial-intelligence/anthropic-mathematician-claims-to-have-solved-167-year-old-math-problem-with-claude-riemann-hypothesis-proof-allegedly-discovered-but-remains-unconfirmed": {
+   "at": "2026-11-20T16:45:28.250819+00:00",
+   "title": "Anthropic mathematician claims to have solved 167-year-old math problem with Claude — Riemann hypothesis proof allegedly discovered but remains unconfirmed",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-mathematician-claims-to-have-solved-167-year-old-math-problem-with-claude-riemann-hypothesis-proof-allegedly-discovered-but-remains-unconfirmed",
+   "score": 0,
+   "sources": 1,
+   "summary": "An anthropic mathematician claims to have solved the Riemann hypothesis using Claude.",
+   "title_ar": ""
   },
   "tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-could-be-plotting-return-as-nvidia-ceo-report-claims-allies-have-formed-a-war-room-to-drive-reinstatement-days-after-resignation-scandal": {
    "at": "2026-11-16T12:45:32.036008+00:00",
@@ -13027,7 +13049,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-20T15:00:58.715478+00:00",
+  "AI": "2026-11-20T16:45:28.250819+00:00",
   "Anime": "2026-11-20T16:30:48.356113+00:00",
   "Games": "2026-11-20T16:15:28.721971+00:00",
   "Tech": "2026-11-20T16:32:47.691974+00:00"
