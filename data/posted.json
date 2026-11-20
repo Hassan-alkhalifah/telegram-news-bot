@@ -1574,6 +1574,17 @@
    "summary": "I upgraded to an Apple Watch Series 12 this fall ( now $329 on Amazon ), and there are four main features that make me especially glad I did. more…",
    "title_ar": "Apple Watch Series 12: أربع ميزات بارزة تجعلني سعيداً بالترقية"
   },
+  "9to5mac.com/2026/11/20/apples-just-works-approach-is-great-but-goes-a-little-too-far": {
+   "at": "2026-11-20T23:30:37.472050+00:00",
+   "title": "Apple’s ‘just works’ approach is great, but goes a little too far",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/20/apples-just-works-approach-is-great-but-goes-a-little-too-far/",
+   "score": 1,
+   "sources": 1,
+   "summary": "“It just works” is one of the phrases most commonly associated with Apple .",
+   "title_ar": "نهج Apple القائم على \"العمل ببساطة\" رائع، لكنه يذهب أبعد من اللازم بقليل"
+  },
   "9to5mac.com/2026/11/20/car-keys-in-apple-wallet-coming-soon-to-three-popular-vehicle-brands": {
    "at": "2026-11-20T16:32:47.691974+00:00",
    "title": "Car Keys in Apple Wallet coming soon to these popular vehicle brands",
@@ -7338,17 +7349,6 @@
    "summary": "Back when the Steam Machine first came out in June, it was in short supply, due to the limited amount of hardware Valve was able to get its hands on (thanks, RAM crisis).",
    "title_ar": ""
   },
-  "insider-gaming.com/barbie-rewind-gta-6-release-window": {
-   "at": "2026-11-13T23:30:36.514115+00:00",
-   "title": "Why Atari Launched Barbie: Rewind Just Before GTA 6",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://insider-gaming.com/barbie-rewind-gta-6-release-window/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Barbie: Rewind launched close to GTA 6 by design.",
-   "title_ar": "لماذا أطلقت Atari لعبة Barbie: Rewind قبيل إصدار GTA 6 مباشرة"
-  },
   "insider-gaming.com/civilization-and-xcom-studio-firaxis-lays-off-a-third-of-staff": {
    "at": "2026-11-17T17:30:36.296181+00:00",
    "title": "Civilization and XCOM Studio, Firaxis, Lays Off a Third of Staff",
@@ -9933,17 +9933,6 @@
    "sources": 1,
    "summary": "And it's mandatory.",
    "title_ar": ""
-  },
-  "techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price": {
-   "at": "2026-11-13T23:15:30.320871+00:00",
-   "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
-   "score": 1,
-   "sources": 1,
-   "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display.",
-   "title_ar": "جهاز Kindle Colorsoft الجديد من Amazon هو قارئ إلكتروني فاخر بسعر مرتفع"
   },
   "techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances": {
    "at": "2026-11-14T07:00:41.453344+00:00",
@@ -12992,6 +12981,17 @@
    "summary": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
    "title_ar": "ميزة Live Rewind في ساعة Apple Watch يمكنها تسجيل وإعادة المحادثات المنطوقة. إنها محرجة بعض الشيء"
   },
+  "wired.com/story/cops-are-being-extremely-corny-about-gta-vi": {
+   "at": "2026-11-20T23:30:37.472050+00:00",
+   "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The blockbuster game makes no secret of its contempt for law enforcement.",
+   "title_ar": ""
+  },
   "wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents": {
    "at": "2026-11-20T00:00:45.009159+00:00",
    "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
@@ -13063,7 +13063,7 @@
   "AI": "2026-11-20T22:00:43.015324+00:00",
   "Anime": "2026-11-20T20:30:35.779308+00:00",
   "Games": "2026-11-20T21:30:48.999814+00:00",
-  "Tech": "2026-11-20T23:15:27.092616+00:00"
+  "Tech": "2026-11-20T23:30:37.472050+00:00"
  },
  "digest_day": "2026-11-20",
  "weekly_day": "2026-11-20"
