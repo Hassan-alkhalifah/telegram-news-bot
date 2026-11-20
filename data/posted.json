@@ -617,17 +617,6 @@
    "summary": "Amazon has lowered the price of the Samsung Galaxy Watch 8 into the “steal” category right now, as the Wear OS smartwatch starts at just $199 as part of the extended Black Friday deals. more…",
    "title_ar": "ساعة Galaxy Watch 8 صفقة لا تعوض بسعر 200 دولار فقط حالياً على موقع Amazon"
   },
-  "9to5mac.com/2026/11/13/apple-details-homeview-facial-recognition-repair-options-and-more-in-new-support-guides": {
-   "at": "2026-11-13T22:45:29.345492+00:00",
-   "title": "Apple details HomeView facial recognition, repair options, and more in new support guides",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/13/apple-details-homeview-facial-recognition-repair-options-and-more-in-new-support-guides/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Coinciding with the launch of Apple HomeView, the company has been updating its support website with new guides covering everything from facial recognition and user profiles to troubleshooting and…",
-   "title_ar": "أبل تفصل ميزة التعرف على الوجه HomeView خيارات الإصلاح والمزيد في أدلة دعم جديدة"
-  },
   "9to5mac.com/2026/11/14/homeview-ambient-dark-mode-should-come-to-all-devices": {
    "at": "2026-11-14T17:45:27.416616+00:00",
    "title": "Here’s a HomeView feature that should come to every Apple device",
@@ -6018,6 +6007,17 @@
    "summary": "The second iOS 27.3 beta is now rolling out to developers, bringing several new features, including facial unlocking on the iPhone Duo.",
    "title_ar": ""
   },
+  "gsmarena.com/iphone_duo_shipping_times_are_finally_getting_shorter-news-75573.php": {
+   "at": "2026-11-20T22:45:35.604038+00:00",
+   "title": "iPhone Duo shipping times are finally getting shorter",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.gsmarena.com/iphone_duo_shipping_times_are_finally_getting_shorter-news-75573.php",
+   "score": 1,
+   "sources": 1,
+   "summary": "Apple's iPhone Duo sold out within hours of pre-orders opening last month, and if you've tried to order one from Apple since, you've been looking at a delivery estimate in late January.",
+   "title_ar": "أوقات شحن iPhone Duo تصبح أقصر أخيرًا"
+  },
   "gsmarena.com/iqoo_z12_lite_shows_up_in_the_google_play_console_has_key_specs_revealed-news-75514.php": {
    "at": "2026-11-18T05:15:29.134888+00:00",
    "title": "iQOO Z12 Lite shows up in the Google Play Console, has key specs revealed",
@@ -9054,6 +9054,17 @@
    "summary": "Everything we've learned after digging into GTA 6 for over 100 hours.",
    "title_ar": ""
   },
+  "pcgamer.com/games/grand-theft-auto/gta-6-how-long-to-fly-across-map": {
+   "at": "2026-11-20T22:45:35.604038+00:00",
+   "title": "Despite GTA 6's huge map, it only takes about 4 minutes to fly across it in a plane",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-long-to-fly-across-map/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Someone had to do it.",
+   "title_ar": ""
+  },
   "pcgamer.com/games/grand-theft-auto/gta-6-looks-gorgeous-and-seeing-it-run-at-a-stable-30-fps-on-ageing-ps5-pro-hardware-makes-me-hopeful-for-pc-performance": {
    "at": "2026-11-18T15:30:37.412615+00:00",
    "title": "GTA 6 looks gorgeous, and seeing it run at a stable 30 fps on ageing PS5 Pro hardware makes me hopeful for PC performance",
@@ -9911,17 +9922,6 @@
    "sources": 1,
    "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display.",
    "title_ar": "جهاز Kindle Colorsoft الجديد من Amazon هو قارئ إلكتروني فاخر بسعر مرتفع"
-  },
-  "techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say": {
-   "at": "2026-11-13T22:45:29.345492+00:00",
-   "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Nvidia poured tens of billions into AI startups under Huang.",
-   "title_ar": ""
   },
   "techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances": {
    "at": "2026-11-14T07:00:41.453344+00:00",
@@ -13041,7 +13041,7 @@
   "AI": "2026-11-20T22:00:43.015324+00:00",
   "Anime": "2026-11-20T20:30:35.779308+00:00",
   "Games": "2026-11-20T21:30:48.999814+00:00",
-  "Tech": "2026-11-20T22:30:37.675414+00:00"
+  "Tech": "2026-11-20T22:45:35.604038+00:00"
  },
  "digest_day": "2026-11-20",
  "weekly_day": "2026-11-20"
