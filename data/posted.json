@@ -12,17 +12,6 @@
    "summary": "Google has started rolling out the Android Auto 18.2 update, but don’t expect much to change on your car’s display. more…",
    "title_ar": "بدء إطلاق تحديث Android Auto 18.2 مع المزيد من التلميحات حول الوضع الفاتح"
   },
-  "9to5google.com/2026/11/13/gemini-google-wallet": {
-   "at": "2026-11-13T18:15:30.111600+00:00",
-   "title": "You can now set up Gemini’s Google Wallet integration for ‘personal finance insights’",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/13/gemini-google-wallet/",
-   "score": 1,
-   "sources": 1,
-   "summary": "As we spotted in September , the Gemini app is adding Google Wallet integration in the US that makes possible “responses informed by your spending habits.” more…",
-   "title_ar": "يمكنك الآن إعداد تكامل Google Wallet مع Gemini للحصول على \"رؤى التمويل الشخصي\""
-  },
   "9to5google.com/2026/11/13/google-pixel-watch-media-controls-redesign-update": {
    "at": "2026-11-14T00:30:39.481334+00:00",
    "title": "Pixel Watch update brings a sweet redesign I wish was on more apps",
@@ -7701,17 +7690,6 @@
    "summary": "Ubisoft reports a €254.5 million first-half loss as net bookings fall 16.5%, despite a stronger quarter for Assassin’s Creed Black Flag Resynced.",
    "title_ar": ""
   },
-  "insider-gaming.com/vindictus-defying-fate-new-trailer-2027-release": {
-   "at": "2026-11-13T18:15:30.111600+00:00",
-   "title": "Vindictus: Defying Fate Targets 2027 Release on PC and PS5",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/vindictus-defying-fate-new-trailer-2027-release/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Nexon has released a new cinematic trailer for Vindictus: Defying Fate, with the action RPG targeting a 2027 launch on PC and PS5.",
-   "title_ar": ""
-  },
   "insider-gaming.com/xbox-game-preservation-project-helix": {
    "at": "2026-11-15T23:45:28.542156+00:00",
    "title": "Game Preservation Is Core to XBOX Project Helix",
@@ -8702,6 +8680,17 @@
    "summary": "GOoTOTY?",
    "title_ar": ""
   },
+  "nintendolife.com/news/2026/11/persona-6-doesnt-have-a-date-yet-but-atlus-says-you-wont-have-to-wait-as-long-for-persona-7": {
+   "at": "2026-11-20T18:15:31.152134+00:00",
+   "title": "Persona 6 Doesn't Have A Date Yet, But Atlus Says You Won't Have To Wait As Long For Persona 7",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.nintendolife.com/news/2026/11/persona-6-doesnt-have-a-date-yet-but-atlus-says-you-wont-have-to-wait-as-long-for-persona-7",
+   "score": 2,
+   "sources": 2,
+   "summary": "A'ight, slow down.",
+   "title_ar": "لعبة Persona 6 ليس لها موعد إطلاق بعد، لكن Atlus تقول إنك لن تضطر للانتظار طويلاً من أجل Persona 7"
+  },
   "nintendolife.com/news/2026/11/round-up-spare-a-thought-for-these-games-launching-on-gta-6-day": {
    "at": "2026-11-19T12:00:44.341770+00:00",
    "title": "Round Up: Spare A Thought For These Games Launching On 'GTA 6 Day'",
@@ -9470,6 +9459,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Presumably none of the roughly 30,000 Microsoft employees laid off in the last four years could have prevented this.",
+   "title_ar": ""
+  },
+  "pushsquare.com/news/2026/11/atlus-doesnt-want-you-to-wait-yet-another-10-years-for-persona-7": {
+   "at": "2026-11-20T18:15:31.152134+00:00",
+   "title": "Atlus Doesn't Want You to Wait Yet Another 10 Years for Persona 7",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pushsquare.com/news/2026/11/atlus-doesnt-want-you-to-wait-yet-another-10-years-for-persona-7",
+   "score": 0,
+   "sources": 1,
+   "summary": "Plans in place to speed development up.",
    "title_ar": ""
   },
   "pushsquare.com/news/2026/11/clair-obscur-studio-has-lost-one-of-its-most-important-developers": {
@@ -12996,7 +12996,7 @@
  "topic_last_posted": {
   "AI": "2026-11-20T16:45:28.250819+00:00",
   "Anime": "2026-11-20T17:30:37.306708+00:00",
-  "Games": "2026-11-20T17:45:27.873279+00:00",
+  "Games": "2026-11-20T18:15:31.152134+00:00",
   "Tech": "2026-11-20T18:00:44.657674+00:00"
  },
  "digest_day": "2026-11-20",
