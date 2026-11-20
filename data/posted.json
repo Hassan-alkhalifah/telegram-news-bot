@@ -540,17 +540,6 @@
    "summary": "Apple TV subscribers can now watch three new originals, including a heist thriller series, a film based on true events, and the first of two holiday specials coming to the platform this season.",
    "title_ar": "Apple TV يطلق ثلاثة أعمال أصلية جديدة، بما في ذلك مسلسل إثارة عن السرقة"
   },
-  "9to5mac.com/2026/11/12/ios-27s-find-my-app-adds-convenient-feature-ive-long-wished-for": {
-   "at": "2026-11-13T01:45:26.698758+00:00",
-   "title": "iOS 27’s Find My app adds convenient feature I’ve long wished for",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/12/ios-27s-find-my-app-adds-convenient-feature-ive-long-wished-for/",
-   "score": 1,
-   "sources": 1,
-   "summary": "iOS 27 is packed with new features, including several for the Find My app .",
-   "title_ar": "تطبيق Find My في نظام iOS 17 يضيف ميزة مريحة طالما تمنيتها"
-  },
   "9to5mac.com/2026/11/12/new-apple-tv-comedy-starring-elizabeth-banks-ted-danson-coming-soon": {
    "at": "2026-11-13T03:00:41.387537+00:00",
    "title": "New Apple TV comedy starring Elizabeth Banks, Ted Danson coming soon",
@@ -6051,17 +6040,6 @@
    "summary": "Motorola has put up a teaser \"coming soon\" page on Flipkart for a new phone in India.",
    "title_ar": "Motorola تبدأ التشويق لهاتف Edge 70 Neo وتلمح إلى موعد الإعلان عنه"
   },
-  "gsmarena.com/new_details_about_the_vivo_x500s_surface-news-75458.php": {
-   "at": "2026-11-13T01:45:26.698758+00:00",
-   "title": "New details about the vivo X500s surface",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.gsmarena.com/new_details_about_the_vivo_x500s_surface-news-75458.php",
-   "score": 0,
-   "sources": 1,
-   "summary": "Late last month, a tipster shared some details about the vivo X500s, which is expected to be the fourth model in the company’s X500 lineup.",
-   "title_ar": ""
-  },
   "gsmarena.com/new_leak_offers_a_first_look_at_the_iphone_20_pros_front_glass-news-75503.php": {
    "at": "2026-11-17T13:45:28.567575+00:00",
    "title": "New leak offers a first look at the iPhone 20 Pro's front glass",
@@ -8965,17 +8943,6 @@
    "sources": 1,
    "summary": "And cubemaps.",
    "title_ar": "لعبة Black Mesa، وهي نسخة معاد إنتاجها من Half-Life مرخصة من شركة Valve، تحصل على تحديث ضخم وشارة التوافق مع Steam Deck"
-  },
-  "pcgamer.com/games/fps/wolfenstein-3-is-in-production-at-machinegames": {
-   "at": "2026-11-13T01:45:26.698758+00:00",
-   "title": "Wolfenstein 3 is in production at MachineGames",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/games/fps/wolfenstein-3-is-in-production-at-machinegames/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Blazkowicz is backscowicz.",
-   "title_ar": ""
   },
   "pcgamer.com/games/grand-theft-auto/22-years-after-the-hot-coffee-controversy-uk-politician-says-grand-theft-auto-6-is-something-that-we-can-be-really-proud-of": {
    "at": "2026-11-13T17:30:38.535994+00:00",
@@ -12431,6 +12398,17 @@
    "summary": "US DoJ partially disrupts FaceStealer campaign that's taken $400m from victims and threatens open-source software — gov techs disrupt cloud infrastructure and find 900 videos of targeted tech workers",
    "title_ar": "مكتب التحقيقات الفيدرالي (FBI) يعطل حملة FaceStealer الكورية الشمالية التي تقف وراء اختراق Binance بقيمة 5 مليارات دولار"
   },
+  "tomshardware.com/tech-industry/cyber-security/new-windows-11-lock-screen-zero-day-unlocks-bitlocker-protected-pcs-with-just-a-few-keystrokes-win-u-keyboard-trick-lets-physical-attackers-run-usb-payloads-or-create-new-admin-accounts": {
+   "at": "2026-11-20T01:45:27.911174+00:00",
+   "title": "New Windows 11 lock screen zero-day unlocks BitLocker-protected PCs with just a few keystrokes",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/new-windows-11-lock-screen-zero-day-unlocks-bitlocker-protected-pcs-with-just-a-few-keystrokes-win-u-keyboard-trick-lets-physical-attackers-run-usb-payloads-or-create-new-admin-accounts",
+   "score": 1,
+   "sources": 1,
+   "summary": "Windows 0-day lets attackers run software by partially bypass the lock screen with just some keystrokes — even BitLocker-protected machines are seemingly vulnerable",
+   "title_ar": "ثغرة يوم الصفر الجديدة في شاشة قفل Windows 11 تفتح أجهزة الكمبيوتر المحمية بـ BitLocker بضع ضغطات مفاتيح فقط"
+  },
   "tomshardware.com/tech-industry/data-centers/former-nvidia-ceo-jensen-huang-will-appear-before-a-house-foreign-affairs-panel-amid-concerns-over-his-affair-with-a-suspected-chinese-spy-will-testify-behind-closed-doors-december-1-nvidia-lawyer-will-also-appear": {
    "at": "2026-11-17T16:00:43.258492+00:00",
    "title": "Former Nvidia CEO Jensen Huang will appear before a House Foreign Affairs panel amid concerns over his affair with a suspected Chinese spy",
@@ -13195,7 +13173,7 @@
   "AI": "2026-11-20T01:30:35.363236+00:00",
   "Anime": "2026-11-20T01:00:51.570516+00:00",
   "Games": "2026-11-19T23:00:41.478852+00:00",
-  "Tech": "2026-11-20T01:15:27.513340+00:00"
+  "Tech": "2026-11-20T01:45:27.911174+00:00"
  },
  "digest_day": "2026-11-19",
  "weekly_day": "2026-11-13"
