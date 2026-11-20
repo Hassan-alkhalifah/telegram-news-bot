@@ -1739,17 +1739,6 @@
    "summary": "Witch Watch Season 2 is set to premiere in 2027.",
    "title_ar": ""
   },
-  "animenewsnetwork.com/news/2026-11-12/blue-rights-company-unveils-pilot-film-for-orochi-seventh-echoes-original-animated-feature/.243748": {
-   "at": "2026-11-13T01:00:41.233613+00:00",
-   "title": "Blue Rights Company Unveils Pilot Film for Orochi -Seventh Echoes- Original Animated Feature",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-12/blue-rights-company-unveils-pilot-film-for-orochi-seventh-echoes-original-animated-feature/.243748",
-   "score": 1,
-   "sources": 1,
-   "summary": "Akira film animation director Takashi Nakamura helms film, credited for original concept",
-   "title_ar": "شركة Blue Rights تكشف النقاب عن الفيلم التجريبي لعمل الرسوم المتحركة الأصلي Orochi -Seventh Echoes-"
-  },
   "animenewsnetwork.com/news/2026-11-13/aquaman-romance-webtoon-gets-japanese-live-action-series-premiering-on-december-25/.243785": {
    "at": "2026-11-13T16:00:42.735165+00:00",
    "title": "Aquaman Romance Webtoon Gets Japanese Live-Action Series Premiering on December 25",
@@ -3322,6 +3311,17 @@
    "sources": 1,
    "summary": "Trio of audiobooks announced as part of this week’s reveals",
    "title_ar": ""
+  },
+  "crunchyroll.com/news/latest/2026/11/20/wandance-live-action-movie-manga-collab-trailer": {
+   "at": "2026-11-20T01:00:51.570516+00:00",
+   "title": "Wandance Live-Action Movie Releases Manga Collaboration Trailer",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://crunchyroll.com/news/latest/2026/11/20/wandance-live-action-movie-manga-collab-trailer",
+   "score": 1,
+   "sources": 1,
+   "summary": "The adaptation releases in Japan on November 27",
+   "title_ar": "إعلان فيلم الـ Live-Action لـ Wandance يصدر عرضاً تعاونياً مع المانجا"
   },
   "crunchyroll.com/news/quizzes/2026/11/16/anime-crosswords-puzzles-vol-81": {
    "at": "2026-11-16T15:15:27.546146+00:00",
@@ -7745,17 +7745,6 @@
    "summary": "Nexon has released a new cinematic trailer for Vindictus: Defying Fate, with the action RPG targeting a 2027 launch on PC and PS5.",
    "title_ar": ""
   },
-  "insider-gaming.com/wolfenstein-3-confirmed-xbox-asha-sharma": {
-   "at": "2026-11-13T00:45:29.533648+00:00",
-   "title": "Wolfenstein 3 Officially Confirmed by XBOX CEO Asha Sharma",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/wolfenstein-3-confirmed-xbox-asha-sharma/",
-   "score": 0,
-   "sources": 1,
-   "summary": "MachineGames is working on Wolfenstein 3, XBOX CEO Asha Sharma confirms, while teasing a small portion of the game's script.",
-   "title_ar": ""
-  },
   "insider-gaming.com/xbox-game-preservation-project-helix": {
    "at": "2026-11-15T23:45:28.542156+00:00",
    "title": "Game Preservation Is Core to XBOX Project Helix",
@@ -9273,17 +9262,6 @@
    "sources": 1,
    "summary": "More info to be announced at Halo Fest in December.",
    "title_ar": ""
-  },
-  "pcgamer.com/games/resident-evil/im-a-big-zach-cregger-fan-angela-santalbano-gushes-about-the-resident-evil-movie-and-likens-bryan-to-her-own-grace-ashcroft": {
-   "at": "2026-11-13T00:45:29.533648+00:00",
-   "title": "'I'm a big Zach Cregger fan': Angela Sant'Albano gushes about the Resident Evil movie and likens Bryan to her own Grace Ashcroft",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.pcgamer.com/games/resident-evil/im-a-big-zach-cregger-fan-angela-santalbano-gushes-about-the-resident-evil-movie-and-likens-bryan-to-her-own-grace-ashcroft/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Grace and Bryan—two peas in a very scared pod.",
-   "title_ar": "'أنا معجب كبير بـ Zach Cregger': Angela Sant'Albano تشيد بحماس بفيلم Resident Evil وتُشبه Bryan بشخصيتها Grace Ashcroft"
   },
   "pcgamer.com/games/rpg/clair-obscur-expedition-33-lead-writer-left-sandfall-interactive-last-summer-weve-parted-ways": {
    "at": "2026-11-18T22:45:25.547716+00:00",
@@ -10836,6 +10814,17 @@
    "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac": {
+   "at": "2026-11-20T01:00:51.570516+00:00",
+   "title": "Apple may be developing its own AI agent that runs your Mac",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+   "title_ar": ""
+  },
   "techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development": {
    "at": "2026-11-19T16:45:28.420559+00:00",
    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
@@ -11583,17 +11572,6 @@
    "sources": 1,
    "summary": "When Apple CEO John Ternus announced the first touchscreen Mac last month, the biggest reaction in the room wasn't for the PROLED MacBook Pro's OLED touchscreen or the thinner and lighter chassis…",
    "title_ar": "كان يجب على Apple أن تجعل شعار MacBook بإضاءة RGB"
-  },
-  "theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang": {
-   "at": "2026-11-13T01:00:41.233613+00:00",
-   "title": "Donald Trump really wants Tim Cook to run Nvidia",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
-   "score": 0,
-   "sources": 1,
-   "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy.",
-   "title_ar": ""
   },
   "theverge.com/tech/1032862/microsoft-outlook-down-outage": {
    "at": "2026-11-13T13:00:45.245111+00:00",
@@ -13226,7 +13204,7 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-20T00:45:28.926974+00:00",
-  "Anime": "2026-11-19T22:00:41.507260+00:00",
+  "Anime": "2026-11-20T01:00:51.570516+00:00",
   "Games": "2026-11-19T23:00:41.478852+00:00",
   "Tech": "2026-11-20T00:43:14.832131+00:00"
  },
