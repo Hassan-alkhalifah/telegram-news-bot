@@ -463,6 +463,17 @@
    "summary": "Besides removing the Samples tab , YouTube Music for Android and iOS is rolling out instant access to Ask Music with a new Gemini icon in the top-right corner. more…",
    "title_ar": ""
   },
+  "9to5google.com/2026/11/19/android-3d-emoji-specs-requirements": {
+   "at": "2026-11-20T00:43:14.832131+00:00",
+   "title": "Google’s 3D emoji has wild Android spec requirements: 10GB of free space, 6GB RAM",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/19/android-3d-emoji-specs-requirements/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Google introduced 3D emoji on Pixel this year, and has just detailed the minimum specifications required to get them on your Android phone. more…",
+   "title_ar": "رموز تعبيرية ثلاثية الأبعاد من Google تتطلب مواصفات خارقة لنظام Android: مساحة خالية 10 جيجابايت و6 جيجابايت من ذاكرة الوصول العشوائي"
+  },
   "9to5google.com/2026/11/19/canva-ai-features-toggle": {
    "at": "2026-11-19T17:15:27.451428+00:00",
    "title": "AI features could be turned off with a simple toggle, Canva proves",
@@ -13206,7 +13217,7 @@
   "AI": "2026-11-20T00:30:34.666784+00:00",
   "Anime": "2026-11-19T22:00:41.507260+00:00",
   "Games": "2026-11-19T23:00:41.478852+00:00",
-  "Tech": "2026-11-20T00:15:29.746030+00:00"
+  "Tech": "2026-11-20T00:43:14.832131+00:00"
  },
  "digest_day": "2026-11-19",
  "weekly_day": "2026-11-13"
