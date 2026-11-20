@@ -661,17 +661,6 @@
    "summary": "This week, Perplexity has deployed its new proactive agentic AI feature called Teammates to the Mac.",
    "title_ar": "Perplexity توفر ميزة وكلاء الذكاء الاصطناعي المسماة Teammates لأجهزة Mac"
   },
-  "9to5mac.com/2026/11/13/this-tiny-ios-27-camera-feature-really-makes-a-huge-difference": {
-   "at": "2026-11-13T19:15:30.326595+00:00",
-   "title": "This tiny iOS 27 camera feature really makes a huge difference",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/13/this-tiny-ios-27-camera-feature-really-makes-a-huge-difference/",
-   "score": 1,
-   "sources": 1,
-   "summary": "When shooting both photos and videos on my iPhone, I make regular use of a few different third-party apps, mostly because I like to take manual control.",
-   "title_ar": "هذه الميزة الصغيرة للكاميرا في iOS 17 تحدث فرقاً هائلاً حقاً"
-  },
   "9to5mac.com/2026/11/14/homeview-ambient-dark-mode-should-come-to-all-devices": {
    "at": "2026-11-14T17:45:27.416616+00:00",
    "title": "Here’s a HomeView feature that should come to every Apple device",
@@ -1639,6 +1628,17 @@
    "sources": 1,
    "summary": "Apple is expected to release the iPhone 18 and iPhone Air 2 sometime next spring.",
    "title_ar": "نموذج وهمي لجهاز iPhone Air 2 يستعرض تصميماً جديداً بكاميرا مزدوجة"
+  },
+  "9to5mac.com/2026/11/20/lafaers-5-in-1-presence-sensor-fixes-the-most-annoying-automation-in-apple-home": {
+   "at": "2026-11-20T19:30:37.355775+00:00",
+   "title": "HomeKit Weekly: Lafaer’s 5-in-1 presence sensor fixes an annoying automation in Apple Home",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/20/lafaers-5-in-1-presence-sensor-fixes-the-most-annoying-automation-in-apple-home/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Motion-based automations are generally straightforward in Apple Home.",
+   "title_ar": "نشرة HomeKit الأسبوعية: مستشعر الحضور 5 في 1 من Lafaer يعالج مشكلة مزعجة في الأتمتة داخل Apple Home"
   },
   "9to5mac.com/2026/11/20/security-bite-podcast-not-amused-two-months-of-meta-muse-privacy-problems": {
    "at": "2026-11-20T11:30:42.560819+00:00",
@@ -3653,17 +3653,6 @@
    "summary": "Editing the AI's memory is one way you can shape its responses.",
    "title_ar": "يمكنك الآن رؤية وتعديل ما يتذكره Google Gemini عنك"
   },
-  "engadget.com/2316342/meta-quest-3-disney-plus-3d-movies-hands-on": {
-   "at": "2026-11-13T19:15:30.326595+00:00",
-   "title": "Disney's 3D movies shine on Meta's Quest 3, it's just a shame it took so long",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.engadget.com/2316342/meta-quest-3-disney-plus-3d-movies-hands-on/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Finally, you can watch Avatar in 3D HFR at home.",
-   "title_ar": ""
-  },
   "engadget.com/2316348/samsung-one-ui-9-5-feature-memory-app-from-pixel-playbook": {
    "at": "2026-11-14T14:29:57.114717+00:00",
    "title": "Samsung is taking a page out of Pixel's playbook with One UI 9.5",
@@ -4808,6 +4797,17 @@
    "summary": "New Zealand's tourism board has taken advantage of all the excitement surrounding Grand Theft Auto 6 's launch, as hordes of players who've changed their Xbox timezones to that of the world's second…",
    "title_ar": ""
   },
+  "eurogamer.net/persona-6-games-come-quicker-atlus": {
+   "at": "2026-11-20T19:30:37.355775+00:00",
+   "title": "After taking seven years to make Persona 6 and four years to make Persona 5, Atlus promises future games will come quicker",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/persona-6-games-come-quicker-atlus",
+   "score": 0,
+   "sources": 1,
+   "summary": "Persona 6 is still slowly chugging in the background, but developer Atlus is promising that future games in its beloved RPG series won't take quite as long as they used to.",
+   "title_ar": ""
+  },
   "eurogamer.net/playstation-sony-game-awards-no-nominations": {
    "at": "2026-11-18T15:30:37.412615+00:00",
    "title": "PlayStation has no Game of the Year nominations at The Game Awards for the first time in 11 years",
@@ -5499,17 +5499,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Xbox has revealed more details about its next-gen device, Project Helix , describing it as a \"console capable of playing games from your PC.\" Prominently featured in the Xbox 25th Anniversary…",
-   "title_ar": ""
-  },
-  "gamespot.com/articles/xbox-says-putting-ads-in-games-something-no-one-likes-could-help-save-gaming": {
-   "at": "2026-11-13T19:15:30.326595+00:00",
-   "title": "Xbox Says Putting Ads In Games, Something No One Likes, Could Help Save Gaming",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gamespot.com/articles/xbox-says-putting-ads-in-games-something-no-one-likes-could-help-save-gaming/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Xbox Cloud Gaming now has a free ad-supported version that's rolling out as part of Microsoft's bigger push to bring more ads to Xbox.",
    "title_ar": ""
   },
   "gamespot.com/articles/you-can-play-grand-theft-auto-6-at-60fps-using-this-absurdly-complicated-method": {
@@ -9428,6 +9417,17 @@
    "summary": "Altman claims his remarks were taken out of context, but has since elaborated on his stance.",
    "title_ar": ""
   },
+  "pcgamer.com/hardware/openai-says-it-redesigned-an-amd-gpu-and-amd-is-using-some-of-those-tweaks-for-use-in-future-products": {
+   "at": "2026-11-20T19:30:37.355775+00:00",
+   "title": "OpenAI says it redesigned an AMD GPU and AMD is using some of those tweaks ‘for use in future products’",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/hardware/openai-says-it-redesigned-an-amd-gpu-and-amd-is-using-some-of-those-tweaks-for-use-in-future-products/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Let's hope we actually see some performance gains from it.",
+   "title_ar": ""
+  },
   "pcgamer.com/movies-tv/not-even-walton-goggins-knows-if-fallout-will-have-a-season-4-if-we-get-the-opportunity-to-come-back-for-season-four-that-would-continue-to-honor-how-sacred-this-is-to-people": {
    "at": "2026-11-19T03:45:29.160582+00:00",
    "title": "Not even Walton Goggins knows if Fallout will have a Season 4: 'if we get the opportunity to come back for season four, that would continue to honor how sacred this is to people'",
@@ -12992,17 +12992,6 @@
    "summary": "Interim CEO Collette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation across the board.",
    "title_ar": ""
   },
-  "wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage": {
-   "at": "2026-11-13T19:15:30.326595+00:00",
-   "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
-   "title_ar": ""
-  },
   "wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess": {
    "at": "2026-11-16T11:15:29.411401+00:00",
    "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
@@ -13030,7 +13019,7 @@
   "AI": "2026-11-20T16:45:28.250819+00:00",
   "Anime": "2026-11-20T17:30:37.306708+00:00",
   "Games": "2026-11-20T18:15:31.152134+00:00",
-  "Tech": "2026-11-20T19:15:29.262790+00:00"
+  "Tech": "2026-11-20T19:30:37.355775+00:00"
  },
  "digest_day": "2026-11-20",
  "weekly_day": "2026-11-20"
