@@ -1673,6 +1673,17 @@
    "summary": "Welcome to Indie App Spotlight .",
    "title_ar": "تسليط الضوء على التطبيقات المستقلة: Salon هو تطبيق لـ Apple TV يحول تلفازك إلى إطار صور"
   },
+  "9to5mac.com/2026/11/21/ios-27-my-favorite-new-iphone-features-other-than-ai": {
+   "at": "2026-11-21T22:30:36.152922+00:00",
+   "title": "iOS 27: My favorite new iPhone features (other than AI)",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/21/ios-27-my-favorite-new-iphone-features-other-than-ai/",
+   "score": 0,
+   "sources": 1,
+   "summary": "When Apple released iOS 27 in September, Siri Ai stole a lot of the headline.",
+   "title_ar": ""
+  },
   "animecorner.me/are-you-a-landmine-chihara-san-anime-unveils-main-visual": {
    "at": "2026-11-16T12:30:39.759667+00:00",
    "title": "Are You a Landmine, Chihara-san? Anime Unveils Main Visual",
@@ -11804,6 +11815,17 @@
    "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked.",
    "title_ar": "تقارير تفيد بتعرض مكتب التحقيقات الفيدرالي FBI ووزارة الزراعة الأمريكية USDA للاختراق"
   },
+  "theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label": {
+   "at": "2026-11-21T22:30:36.152922+00:00",
+   "title": "Amazon is complaining about NYC Council on shipping labels, too",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+   "score": 1,
+   "sources": 1,
+   "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act.",
+   "title_ar": "أمازون تتذمر أيضاً من مجلس مدينة نيويورك بشأن ملصقات الشحن"
+  },
   "theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles": {
    "at": "2026-11-16T12:30:39.759667+00:00",
    "title": "Amazon’s Zoox robotaxis are now available via Uber",
@@ -12942,7 +12964,7 @@
   "AI": "2026-11-21T16:30:46.691937+00:00",
   "Anime": "2026-11-21T17:45:28.517954+00:00",
   "Games": "2026-11-21T19:15:29.639529+00:00",
-  "Tech": "2026-11-21T22:15:28.713059+00:00"
+  "Tech": "2026-11-21T22:30:36.152922+00:00"
  },
  "digest_day": "2026-11-21",
  "weekly_day": "2026-11-20"
