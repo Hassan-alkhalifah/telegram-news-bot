@@ -1849,17 +1849,6 @@
    "summary": "Video also previews \"Dream Believers (106th Class Start Ver.)\" song",
    "title_ar": ""
   },
-  "animenewsnetwork.com/news/2026-11-14/re-zero-starting-life-in-another-world-tv-anime-gets-5th-season/.243813": {
-   "at": "2026-11-14T12:00:41.963405+00:00",
-   "title": "Re:ZERO -Starting Life in Another World- TV Anime Gets 5th Season",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-14/re-zero-starting-life-in-another-world-tv-anime-gets-5th-season/.243813",
-   "score": 0,
-   "sources": 1,
-   "summary": "\"Ultra teaser visual\" revealed",
-   "title_ar": ""
-  },
   "animenewsnetwork.com/news/2026-11-15/bride-of-the-barrier-master-anime-streams-video-for-hana-twin-hazuki-ichise/.243831": {
    "at": "2026-11-15T16:15:30.656569+00:00",
    "title": "Bride of the Barrier Master Anime Streams Video for Hana's Twin Hazuki Ichise",
@@ -2914,17 +2903,6 @@
    "score": 0,
    "sources": 1,
    "summary": "The rom-com series is available on Crunchyroll",
-   "title_ar": ""
-  },
-  "crunchyroll.com/news/latest/2026/11/14/re-zero-starting-life-in-another-world-season-5-anime-announced-ultra-teaser-visual": {
-   "at": "2026-11-14T12:15:29.017001+00:00",
-   "title": "Re:ZERO -Starting Life in Another World- Season 5 Anime Announced",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://crunchyroll.com/news/latest/2026/11/14/re-zero-starting-life-in-another-world-season-5-anime-announced-ultra-teaser-visual",
-   "score": 0,
-   "sources": 1,
-   "summary": "A teaser visual was also unveiled at an event today",
    "title_ar": ""
   },
   "crunchyroll.com/news/latest/2026/11/14/the-iceblade-sorcerer-shall-rule-the-world-season-2-anime-opening-song-music-video-sizuk": {
@@ -12046,6 +12024,17 @@
    "summary": "An anthropic mathematician claims to have solved the Riemann hypothesis using Claude.",
    "title_ar": ""
   },
+  "tomshardware.com/tech-industry/artificial-intelligence/homelabbers-second-gen-optane-build-runs-2-8-trillion-parameter-kimi-k3-at-3-11-tokens-per-second-after-adding-two-rtx-3090s-moving-nearly-half-the-model-into-a-ram-drive-boosted-performance-by-41-percent": {
+   "at": "2026-11-21T12:15:32.167202+00:00",
+   "title": "Homelabber’s second-gen Optane build uses two RTX 3090s to run 2.8-trillion-parameter Kimi AI model at 3.11 tokens per second",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabbers-second-gen-optane-build-runs-2-8-trillion-parameter-kimi-k3-at-3-11-tokens-per-second-after-adding-two-rtx-3090s-moving-nearly-half-the-model-into-a-ram-drive-boosted-performance-by-41-percent",
+   "score": 1,
+   "sources": 1,
+   "summary": "A Reddit homelabber’s Optane PMem 200 server now runs Moonshot AI’s Kimi K3 at 3.11 tokens/s with two RTX 3090s and a RAM drive.",
+   "title_ar": "مدمج مختبر منزلي للجيل الثاني من Optane يتيح بطاقتي RTX 3090 لتشغيل نموذج الذكاء الاصطناعي Kimi بـ 2.8 تريليون معلمة بسرعة 3.11 رمز في الثانية"
+  },
   "tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-could-be-plotting-return-as-nvidia-ceo-report-claims-allies-have-formed-a-war-room-to-drive-reinstatement-days-after-resignation-scandal": {
    "at": "2026-11-16T12:45:32.036008+00:00",
    "title": "Jensen Huang could be plotting return as Nvidia CEO, report claims",
@@ -12198,17 +12187,6 @@
    "score": 0,
    "sources": 1,
    "summary": "The Taipei 101 skyscraper was lit up with messages of support for Jensen Huang overnight, the former Nvidia CEO who left the company after admitting to an affair with a former customer who has been…",
-   "title_ar": ""
-  },
-  "tomshardware.com/tech-industry/commemorative-plaque-at-dennys-booth-where-nvidia-was-born-has-been-removed-sign-removed-in-wake-of-jensens-scandals-marked-the-booth-that-launched-a-usd1-trillion-company": {
-   "at": "2026-11-14T12:15:29.017001+00:00",
-   "title": "Commemorative plaque at Denny’s booth where Nvidia was born has been removed in wake of Jensen Huang scandals",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.tomshardware.com/tech-industry/commemorative-plaque-at-dennys-booth-where-nvidia-was-born-has-been-removed-sign-removed-in-wake-of-jensens-scandals-marked-the-booth-that-launched-a-usd1-trillion-company",
-   "score": 0,
-   "sources": 1,
-   "summary": "The San Jose, California, branch of Denny's once featured a plaque commemorating the booth where Jensen Huang and his two other co-founders worked to build Nvidia.",
    "title_ar": ""
   },
   "tomshardware.com/tech-industry/cyber-security/fbi-disrupts-north-korean-facestealer-campaign-behind-usd5-billion-binance-hack-doj-seizes-facestealer-cloud-infrastructure-containing-900-videos-of-tech-workers-hackers-used-ai-deepfakes-to-steal-usd400-million-and-compromise-open-source-software": {
@@ -12986,7 +12964,7 @@
   "AI": "2026-11-20T22:00:43.015324+00:00",
   "Anime": "2026-11-21T10:00:40.890676+00:00",
   "Games": "2026-11-21T06:00:50.374510+00:00",
-  "Tech": "2026-11-21T04:00:38.752262+00:00"
+  "Tech": "2026-11-21T12:15:32.167202+00:00"
  },
  "digest_day": "2026-11-20",
  "weekly_day": "2026-11-20"
