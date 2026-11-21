@@ -2872,17 +2872,6 @@
    "summary": "Comedy adaptation is set to premiere in January 2027",
    "title_ar": ""
   },
-  "crunchyroll.com/news/latest/2026/11/14/love-live-hasunosora-jyogakuin-school-idol-club-trailer-tv-anime-footage": {
-   "at": "2026-11-14T15:00:41.934290+00:00",
-   "title": "Love Live! Hasunosora Jyogakuin School Idol Club Trailer Shows Off New TV Anime Footage",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://crunchyroll.com/news/latest/2026/11/14/love-live-hasunosora-jyogakuin-school-idol-club-trailer-tv-anime-footage",
-   "score": 0,
-   "sources": 1,
-   "summary": "TV anime version premieres in Japan on January 10",
-   "title_ar": ""
-  },
   "crunchyroll.com/news/latest/2026/11/15/bang-dream-its-mygo-ave-mujica-the-die-is-cast-sequel-anime-mygo-teaser-trailer": {
    "at": "2026-11-15T17:00:42.566761+00:00",
    "title": "BanG Dream! It's MyGO!!!!! / Ave Mujica – The Die is Cast Sequel Anime Centers MyGO!!!!! in New Trailer",
@@ -9164,17 +9153,6 @@
    "summary": "They better have a Snowy Plover.",
    "title_ar": ""
   },
-  "pcgamer.com/games/halo/halo-campaign-evolved-is-getting-firefight-as-a-free-update-though-im-not-sure-itll-do-much-to-change-the-remakes-fortunes": {
-   "at": "2026-11-14T15:00:41.934290+00:00",
-   "title": "Halo: Campaign Evolved is getting Firefight as a free update, though I'm not sure it'll do much to change the remake's fortunes",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/games/halo/halo-campaign-evolved-is-getting-firefight-as-a-free-update-though-im-not-sure-itll-do-much-to-change-the-remakes-fortunes/",
-   "score": 0,
-   "sources": 1,
-   "summary": "More info to be announced at Halo Fest in December.",
-   "title_ar": ""
-  },
   "pcgamer.com/games/rpg/clair-obscur-expedition-33-lead-writer-left-sandfall-interactive-last-summer-weve-parted-ways": {
    "at": "2026-11-18T22:45:25.547716+00:00",
    "title": "Clair Obscur: Expedition 33 lead writer left Sandfall Interactive last summer: 'We've parted ways'",
@@ -9669,6 +9647,17 @@
    "sources": 1,
    "summary": "And why it's not the end of the world.",
    "title_ar": ""
+  },
+  "pushsquare.com/news/2026/11/ps5-survives-gta-6s-unfathomably-humongous-launch-without-a-hitch": {
+   "at": "2026-11-21T15:15:26.333050+00:00",
+   "title": "PS5 Survives GTA 6's Unfathomably Humongous Launch without a Hitch",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.pushsquare.com/news/2026/11/ps5-survives-gta-6s-unfathomably-humongous-launch-without-a-hitch",
+   "score": 2,
+   "sources": 1,
+   "summary": "Sony delivers steady and stable experience.",
+   "title_ar": "أجهزة PS5 تتجاوز الإطلاق الضخم وغير المسبوق للعبة GTA 6 بسلاسة تامّة"
   },
   "pushsquare.com/news/2026/11/psn-down-sporadically-for-some-as-gta-6-launches-around-the-world": {
    "at": "2026-11-18T23:30:35.418884+00:00",
@@ -12013,17 +12002,6 @@
    "summary": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helping Lisa Su's outfit boost its new CPUs",
    "title_ar": "شركة OpenAI تساعد AMD في تحسين تصميم وحدة معالجة الرسوميات الرائدة القادمة بنسبة 14% في مؤشرات PPA، ونماذج GPT تساعد أيضاً شركة Lisa Su في تعزيز وحدات المعالجة المركزية الجديدة"
   },
-  "tomshardware.com/tech-industry/artificial-intelligence/researchers-allege-deepseek-kimi-and-other-chinese-ai-models-were-trained-on-export-controlled-nvidia-blackwell-chips-statistical-analysis-on-model-weights-reveals-high-correlation-to-nvidia-hardware": {
-   "at": "2026-11-14T15:00:41.934290+00:00",
-   "title": "Researchers allege DeepSeek, Kimi, and other Chinese AI models were trained using banned Nvidia Blackwell GPUs",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-allege-deepseek-kimi-and-other-chinese-ai-models-were-trained-on-export-controlled-nvidia-blackwell-chips-statistical-analysis-on-model-weights-reveals-high-correlation-to-nvidia-hardware",
-   "score": 0,
-   "sources": 1,
-   "summary": "Researchers pinpoint that DeepSeek, Kimi, and other Chinese AI models were trained on export-controlled Nvidia Blackwell chips — statistical analysis on model weights reveals high correlation to…",
-   "title_ar": ""
-  },
   "tomshardware.com/tech-industry/artificial-intelligence/three-e-waste-nvidia-v100s-hit-100-tokens-per-second-on-qwen-3-6-35b-in-a-usd1-042-homelab-rig-decommissioned-gpus-outpace-a-usd5-399-m5-max-mac-studio-at-long-contexts": {
    "at": "2026-11-19T11:30:38.064409+00:00",
    "title": "Three 'e-waste' Nvidia V100s hit 100 tokens per second on Qwen 3.6 35B in a $1,042 homelab rig",
@@ -12875,7 +12853,7 @@
  "topic_last_posted": {
   "AI": "2026-11-21T13:45:44.194279+00:00",
   "Anime": "2026-11-21T13:30:39.161886+00:00",
-  "Games": "2026-11-21T06:00:50.374510+00:00",
+  "Games": "2026-11-21T15:15:26.333050+00:00",
   "Tech": "2026-11-21T14:15:30.516074+00:00"
  },
  "digest_day": "2026-11-20",
