@@ -5864,17 +5864,6 @@
    "summary": "The deliberations are complete and our editors' panel has made its decision – here are the winners of the GSMArena 2026 Awards.",
    "title_ar": ""
   },
-  "gsmarena.com/chatgpt_wallet_lets_openais_agents_buy_things_for_you-news-75481.php": {
-   "at": "2026-11-14T00:15:30.627039+00:00",
-   "title": "ChatGPT Wallet lets OpenAI's agents buy things for you",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.gsmarena.com/chatgpt_wallet_lets_openais_agents_buy_things_for_you-news-75481.php",
-   "score": 0,
-   "sources": 1,
-   "summary": "OpenAI today announced ChatGPT Wallet, a new feature that lets its Dots AI agents complete purchases on your behalf.",
-   "title_ar": ""
-  },
   "gsmarena.com/galaxy_s27_pros_exynos_2700_runs_geekbench_heres_how_it_stacks_up_against_snapdragon-news-75565.php": {
    "at": "2026-11-20T22:15:27.064754+00:00",
    "title": "Galaxy S27 Pro's Exynos 2700 runs Geekbench, here's how it stacks up against Snapdragon",
@@ -6457,6 +6446,17 @@
    "sources": 1,
    "summary": "WhatsApp started testing its encrypted cloud storage backup solution on Android in April and expanded testing to iOS in July.",
    "title_ar": "خيار النسخ الاحتياطي للتخزين السحابي المشفر الخاص بـ WhatsApp أصبح متاحاً الآن لبعض مستخدمي الإصدار التجريبي على Android"
+  },
+  "gsmarena.com/whatsapp_group_chat_member_limit_increased-news-75560.php": {
+   "at": "2026-11-21T00:15:39.719332+00:00",
+   "title": "WhatsApp increases the group chat limit to 1,500 members",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/whatsapp_group_chat_member_limit_increased-news-75560.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "WhatsApp has increased the group chat limit from 1,024 to 1,500 members, reports WABetaInfo.",
+   "title_ar": ""
   },
   "gsmarena.com/xiaomi_18_prereservations_are_now_live_in_china-news-75561.php": {
    "at": "2026-11-20T23:45:27.501475+00:00",
@@ -9318,17 +9318,6 @@
    "summary": "Yup, it's official.",
    "title_ar": ""
   },
-  "pcgamer.com/games/third-person-shooter/season-10-has-been-a-challenging-one-for-us-marvel-rivals-is-upgrading-storms-summer-skin-after-favouritism-complaints": {
-   "at": "2026-11-14T00:00:51.803497+00:00",
-   "title": "'Season 10 has been a challenging one for us': Marvel Rivals is upgrading Storm's summer skin after favouritism complaints",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.pcgamer.com/games/third-person-shooter/season-10-has-been-a-challenging-one-for-us-marvel-rivals-is-upgrading-storms-summer-skin-after-favouritism-complaints/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Storm's reworked legendary skin will be here for Christmas.",
-   "title_ar": "\"الموسم العاشر كان تحدياً بالنسبة لنا\": Marvel Rivals تحدث مظهر Storm الصيفي بعد شكاوى من المحاباة"
-  },
   "pcgamer.com/games/world-of-warcraft/ive-done-some-stupid-stuff-says-wow-forever-dev-whos-adding-unique-fun-items-to-the-game-theres-a-lot-theyve-not-seen-that-im-very-happy-with": {
    "at": "2026-11-20T17:30:37.306708+00:00",
    "title": "'I've done some stupid stuff', says WoW: Forever dev who's adding unique, fun items to the game: 'There's a lot they've not seen that I'm very happy with'",
@@ -12012,17 +12001,6 @@
    "sources": 1,
    "summary": "Nvidia's Vera CPU, powered by its custom Olympus Arm cores, already offers strong performance with unoptimized code, but at SC26, the company demonstrated that further software optimizations can…",
    "title_ar": "Nvidia تدیٔ أن معالج Vera CPU الخاص بها يمكنه تحقيق زيادة في الأداء تصل إلى 39% عبر تحسين البرمجيات في مؤتمر SC26، حيث يلزم ضبط معماري لإطلاق العنان بالكامل لنوى Olympus المخصصة"
-  },
-  "tomshardware.com/pc-components/cpus/unannounced-intel-core-ultra-7-260k-cpu-surfaces-in-newegg-prebuilt-gaming-pcs-intel-doesnt-have-official-specs-list-available-for-exclusive-arrow-lake-chip": {
-   "at": "2026-11-14T00:15:30.627039+00:00",
-   "title": "Unannounced Intel Core Ultra 7 260K CPU surfaces in Newegg prebuilt gaming PCs",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/pc-components/cpus/unannounced-intel-core-ultra-7-260k-cpu-surfaces-in-newegg-prebuilt-gaming-pcs-intel-doesnt-have-official-specs-list-available-for-exclusive-arrow-lake-chip",
-   "score": 1,
-   "sources": 1,
-   "summary": "The mysterious Intel Core Ultra 7 260K has surfaced in some prebuilt gaming PCs on Newegg, despite no official mention of the chip from Intel.",
-   "title_ar": "ظهور معالج إنتل غير المعلن Core Ultra 7 260K في أجهزة ألعاب مجهزة مسبقاً على متجر Newegg"
   },
   "tomshardware.com/pc-components/gpu-drivers/nvidia-geforce-driver-bug-reportedly-hammers-ssds-with-up-to-30gb-of-writes-per-hour-users-trace-massive-idle-wear-to-background-service-newer-driver-reportedly-still-affected": {
    "at": "2026-11-19T06:00:52.906018+00:00",
