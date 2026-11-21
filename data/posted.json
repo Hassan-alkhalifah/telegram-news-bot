@@ -3642,17 +3642,6 @@
    "summary": "The app will become even more of a shopping mall, just in time for Black Friday.",
    "title_ar": "تطبيق Instagram سيسمح لصناع المحتوى بإضافة روابط عملاء Amazon مباشرة إلى منشوراتهم وReels"
   },
-  "engadget.com/2316926/watch-spacex-attempt-to-catch-the-starship-upper-stage-for-the-first-time": {
-   "at": "2026-11-14T21:00:44.615668+00:00",
-   "title": "Watch SpaceX attempt to catch the Starship upper stage for the first time",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2316926/watch-spacex-attempt-to-catch-the-starship-upper-stage-for-the-first-time/",
-   "score": 1,
-   "sources": 1,
-   "summary": "While the company has pulled off this trick a few times with Super Heavy boosters, it'll be a first for the Ship.",
-   "title_ar": "راقب محاولة SpaceX للإمساك بالمرحلة العليا لصاروخ Starship للمرة الأولى"
-  },
   "engadget.com/2317185/italy-orders-meta-to-pay-887m-for-not-obtaining-specific-consent-over-user-photos": {
    "at": "2026-11-15T17:45:28.778265+00:00",
    "title": "Italy orders Meta to pay $887M for not obtaining specific consent over user photos",
@@ -3883,6 +3872,17 @@
    "sources": 1,
    "summary": "Xiaomi is back with more Pro phones, featuring second screens, capable cameras and a slick red color.",
    "title_ar": ""
+  },
+  "engadget.com/2319042/trade-offs-using-apple-airpods-max-headphones": {
+   "at": "2026-11-21T21:15:29.363256+00:00",
+   "title": "The trade-offs of using Apple's AirPods Max headphones",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2319042/trade-offs-using-apple-airpods-max-headphones/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Apple's AirPods Max sound great, but they come with a lot of compromises for $549 headphones.",
+   "title_ar": "إيجابيات وسلبيات استخدام سماعات AirPods Max من Apple"
   },
   "engadget.com/2319193/unified-disney-plus-and-hulu-app-is-set-to-arrive-in-december": {
    "at": "2026-11-17T18:45:28.218639+00:00",
@@ -12931,7 +12931,7 @@
   "AI": "2026-11-21T16:30:46.691937+00:00",
   "Anime": "2026-11-21T17:45:28.517954+00:00",
   "Games": "2026-11-21T19:15:29.639529+00:00",
-  "Tech": "2026-11-21T21:00:44.526236+00:00"
+  "Tech": "2026-11-21T21:15:29.363256+00:00"
  },
  "digest_day": "2026-11-21",
  "weekly_day": "2026-11-20"
