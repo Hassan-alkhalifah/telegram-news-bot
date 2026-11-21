@@ -6315,6 +6315,17 @@
    "summary": "Samsung announced the One UI 9.5 beta program for the Galaxy S26 series yesterday.",
    "title_ar": ""
   },
+  "gsmarena.com/samsung_redesigned_live_notifications_one_ui_9_5-news-75583.php": {
+   "at": "2026-11-21T21:45:25.715049+00:00",
+   "title": "Samsung testing Apple's Dynamic Island-style Live Notifications in One UI 9.5",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.gsmarena.com/samsung_redesigned_live_notifications_one_ui_9_5-news-75583.php",
+   "score": 1,
+   "sources": 1,
+   "summary": "Samsung introduced Live Notifications with One UI 7 and is now working on a visual change that would make the feature feel more like Apple's Dynamic Island.",
+   "title_ar": "سامسونگ تختبر إشعارات مباشرة بتصميم شبيه بـ Dynamic Island من Apple في واجهة One UI 9.5"
+  },
   "gsmarena.com/samsungs_android_laptops_are_codenamed_origin_heres_what_we_know-news-75549.php": {
    "at": "2026-11-20T02:45:29.508791+00:00",
    "title": "Samsung's Googlebooks are codenamed Origin, here's what we know",
@@ -10726,6 +10737,17 @@
    "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
    "title_ar": "شركة ناشئة تقاضي Apple في الهند بسبب ميزة مشاركة جهات الاتصال عبر النقر"
   },
+  "techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance": {
+   "at": "2026-11-21T21:45:25.715049+00:00",
+   "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+   "title_ar": ""
+  },
   "techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good": {
    "at": "2026-11-21T18:45:27.322096+00:00",
    "title": "Trump says reported FBI database hack is ‘not good’",
@@ -12931,7 +12953,7 @@
   "AI": "2026-11-21T16:30:46.691937+00:00",
   "Anime": "2026-11-21T17:45:28.517954+00:00",
   "Games": "2026-11-21T19:15:29.639529+00:00",
-  "Tech": "2026-11-21T21:15:29.363256+00:00"
+  "Tech": "2026-11-21T21:45:25.715049+00:00"
  },
  "digest_day": "2026-11-21",
  "weekly_day": "2026-11-20"
