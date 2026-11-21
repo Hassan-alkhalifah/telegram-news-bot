@@ -11716,6 +11716,17 @@
    "summary": "Google is announcing some significant changes to its smart home software.",
    "title_ar": "تول جوجل إنها ستوقف خدمة Google Assistant على السماعات الذكية العام القادم"
   },
+  "theverge.com/tech/1039543/fbi-usda-hacked": {
+   "at": "2026-11-21T18:00:41.247540+00:00",
+   "title": "The FBI and USDA were reportedly hacked",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+   "score": 1,
+   "sources": 1,
+   "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked.",
+   "title_ar": "تقارير تفيد بتعرض مكتب التحقيقات الفيدرالي FBI ووزارة الزراعة الأمريكية USDA للاختراق"
+  },
   "theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles": {
    "at": "2026-11-16T12:30:39.759667+00:00",
    "title": "Amazon’s Zoox robotaxis are now available via Uber",
@@ -12854,8 +12865,8 @@
   "AI": "2026-11-21T16:30:46.691937+00:00",
   "Anime": "2026-11-21T17:45:28.517954+00:00",
   "Games": "2026-11-21T17:30:35.174176+00:00",
-  "Tech": "2026-11-21T17:15:30.243012+00:00"
+  "Tech": "2026-11-21T18:00:41.247540+00:00"
  },
- "digest_day": "2026-11-20",
+ "digest_day": "2026-11-21",
  "weekly_day": "2026-11-20"
 }
