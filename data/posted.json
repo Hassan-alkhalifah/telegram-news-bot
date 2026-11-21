@@ -4357,6 +4357,17 @@
    "summary": "The recalls come after the California DMV banned Waymo from operating on its state freeways.",
    "title_ar": "Waymo تستدعي سيارات الأجرة الذكية ذاتية القيادة بعد دخولها حارات طرق سريعة مغلقة"
   },
+  "engadget.com/2324122/teslas-assisted-driving-system-gets-the-green-light-for-rollout-in-italy": {
+   "at": "2026-11-21T18:45:27.322096+00:00",
+   "title": "Tesla's assisted driving system gets the green light for rollout in Italy",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2324122/teslas-assisted-driving-system-gets-the-green-light-for-rollout-in-italy/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Tesla's self-driving tech is awaiting another major vote from the European Union before the end of the year.",
+   "title_ar": "نظام القيادة المساعدة من Tesla يحصل على الضوء الأخضر للطلاق في إيطاليا"
+  },
   "eurogamer.net/build-a-rocket-boy-mindseye-debt-administration-litigation": {
    "at": "2026-11-18T15:45:29.181476+00:00",
    "title": "Mindseye developer Build a Rocket Boy - founded by ex-GTA veteran - has a mountain of debt, and the main plan for paying it back is litigation",
@@ -10671,6 +10682,17 @@
    "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
    "title_ar": "شركة ناشئة تقاضي Apple في الهند بسبب ميزة مشاركة جهات الاتصال عبر النقر"
   },
+  "techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good": {
+   "at": "2026-11-21T18:45:27.322096+00:00",
+   "title": "Trump says reported FBI database hack is ‘not good’",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+   "title_ar": ""
+  },
   "the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices": {
    "at": "2026-11-16T23:45:29.284385+00:00",
    "title": "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
@@ -12876,7 +12898,7 @@
   "AI": "2026-11-21T16:30:46.691937+00:00",
   "Anime": "2026-11-21T17:45:28.517954+00:00",
   "Games": "2026-11-21T17:30:35.174176+00:00",
-  "Tech": "2026-11-21T18:30:36.470004+00:00"
+  "Tech": "2026-11-21T18:45:27.322096+00:00"
  },
  "digest_day": "2026-11-21",
  "weekly_day": "2026-11-20"
