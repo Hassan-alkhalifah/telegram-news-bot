@@ -3741,6 +3741,17 @@
    "summary": "You'll soon be able to watch video podcasts through the Apple TV app.",
    "title_ar": ""
   },
+  "engadget.com/2317961/used-apple-airpods-deep-discounts-not-worth-it": {
+   "at": "2026-11-21T14:15:30.516074+00:00",
+   "title": "Why deep discounts on used Apple AirPods just aren't worth it",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2317961/used-apple-airpods-deep-discounts-not-worth-it/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Before you click buy on used AirPods, learn about the risks most sellers never mention and the smarter ways to save on a brand new pair of earbuds.",
+   "title_ar": "لماذا لا تستحق التخفيضات الكبيرة على سماعات Apple AirPods المستعملة عناء شرائها"
+  },
   "engadget.com/2318001/gta-6-hacker-pleads-guilty-to-stealing-and-leaking-gameplay-footage": {
    "at": "2026-11-16T18:15:27.684104+00:00",
    "title": "GTA 6 hacker pleads guilty to stealing and leaking gameplay footage",
@@ -5842,17 +5853,6 @@
    "summary": "Apple has released the second developer beta of iOS 27.3, a week after the iOS 27.2.1 update came out.",
    "title_ar": ""
   },
-  "gsmarena.com/heres_what_the_oneplus_16s_launch_in_india_is_rumored_to_depend_on-news-75475.php": {
-   "at": "2026-11-14T14:15:29.221119+00:00",
-   "title": "Here's what the OnePlus 16's launch in India is rumored to depend on",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.gsmarena.com/heres_what_the_oneplus_16s_launch_in_india_is_rumored_to_depend_on-news-75475.php",
-   "score": 2,
-   "sources": 1,
-   "summary": "The OnePlus 16 launched in China in October, and since OnePlus officially exited Europe and North America back in July while saying it would continue in India, its fans there may have been wondering…",
-   "title_ar": "إليك ما يُشاع أن إطلاق الهاتف OnePlus 16 في الهند يعتمد عليه"
-  },
   "gsmarena.com/heres_when_iphone_18_and_iphone_air_2_display_production_will_reportedly_start-news-75525.php": {
    "at": "2026-11-18T23:15:26.582727+00:00",
    "title": "Here's when iPhone 18 and iPhone Air 2 display production will reportedly start",
@@ -5950,6 +5950,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Apple is expected to unveil its 20th-anniversary iPhone 20 Pro lineup next year.",
+   "title_ar": ""
+  },
+  "gsmarena.com/iphone_air_2_shows_off_its_dualcamera_design_in_another_dummy_unit_leak-news-75574.php": {
+   "at": "2026-11-21T14:15:30.516074+00:00",
+   "title": "iPhone Air 2 shows off its dual-camera design in another dummy unit leak",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/iphone_air_2_shows_off_its_dualcamera_design_in_another_dummy_unit_leak-news-75574.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "Earlier this month, the iPhone Air 2 and the standard iPhone 18 showed up as dummy units on Weibo.",
    "title_ar": ""
   },
   "gsmarena.com/iphone_duo_2_could_get_face_id_but_apple_is_running_out_of_time-news-75500.php": {
@@ -12244,17 +12255,6 @@
    "summary": "Nvidia Board Director sold around 4.2 million shares beginning August 31 and ending September 18, with the sale making him somewhere around $947 million.",
    "title_ar": "عضو مجلس إدارة Nvidia يبيع أسهماً بقيمة مليار دولار قبل فضيحة Jensen Huang"
   },
-  "tomshardware.com/tech-industry/pentagon-struggles-to-account-for-usd31-billion-in-missing-f-35-aircraft-parts-weeks-after-shipment-was-swiped-by-china-tracking-of-estimated-26-million-parts-is-outdated-inaccurate-and-incomplete-says-watchdog": {
-   "at": "2026-11-14T14:00:42.628631+00:00",
-   "title": "Pentagon ‘struggles to account for’ $31 billion in missing F-35 aircraft parts, weeks after shipment was swiped by China",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/tech-industry/pentagon-struggles-to-account-for-usd31-billion-in-missing-f-35-aircraft-parts-weeks-after-shipment-was-swiped-by-china-tracking-of-estimated-26-million-parts-is-outdated-inaccurate-and-incomplete-says-watchdog",
-   "score": 1,
-   "sources": 1,
-   "summary": "The Pentagon is struggling to track an astonishing 26 million F-35 warfighter parts, worth an estimated $31 billion, according to analysis published by the Government Accountability Office this week.",
-   "title_ar": "البنتاغون \"يكافح من أجل تفسير\" فقدان قطع غيار طائرات F-35 بقيمة 31 مليار دولار، بعد أسابيع من سرقة شحنة من قبل الصين"
-  },
   "tomshardware.com/tech-industry/policy/nvidia-board-establishes-national-security-and-export-control-oversight-committee-in-wake-of-jensen-huang-scandal-group-to-work-with-independent-law-national-security-and-trade-compliance-experts": {
    "at": "2026-11-17T11:30:33.823093+00:00",
    "title": "Nvidia board establishes National Security and Export Control Oversight Committee in wake of Jensen Huang scandal",
@@ -12898,7 +12898,7 @@
   "AI": "2026-11-21T13:45:44.194279+00:00",
   "Anime": "2026-11-21T13:30:39.161886+00:00",
   "Games": "2026-11-21T06:00:50.374510+00:00",
-  "Tech": "2026-11-21T12:15:32.167202+00:00"
+  "Tech": "2026-11-21T14:15:30.516074+00:00"
  },
  "digest_day": "2026-11-20",
  "weekly_day": "2026-11-20"
