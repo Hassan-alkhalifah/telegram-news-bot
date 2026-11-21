@@ -9791,17 +9791,6 @@
    "summary": "And it's mandatory.",
    "title_ar": ""
   },
-  "techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit": {
-   "at": "2026-11-14T16:45:29.083433+00:00",
-   "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-   "title_ar": ""
-  },
   "techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang": {
    "at": "2026-11-14T21:45:27.688039+00:00",
    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
@@ -10692,17 +10681,6 @@
    "sources": 1,
    "summary": "A Vals AI investigation shows that leading AI models from Anthropic, OpenAI and Google have almost no safeguards against use in autonomous weapons systems.",
    "title_ar": "نماذج Anthropic و OpenAI و Google حددت بسهولة مسعفين وصحفيين وجنوداً مستسلمين كأهداف لطائرات كاميكازي المسيرة"
-  },
-  "the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5": {
-   "at": "2026-11-14T16:45:29.083433+00:00",
-   "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits.",
-   "title_ar": "Anthropic تقول إن عادات كتابة التوجيهات القديمة تبطئ نموذج Claude Opus 5.5"
   },
   "the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store": {
    "at": "2026-11-16T15:30:38.841161+00:00",
@@ -12167,6 +12145,17 @@
    "summary": "Despite Nvidia's board saying it has no intention of bringing former CEO Jensen Huang back to the company, some directors are reportedly still pushing for that to happen.",
    "title_ar": ""
   },
+  "tomshardware.com/tech-industry/data-centers/trump-wants-to-ban-us-companies-from-building-overseas-data-centers-as-bans-slow-development-also-considers-putting-a-tremendous-tax-in-lieu-of-prohibition": {
+   "at": "2026-11-21T16:45:29.886062+00:00",
+   "title": "Trump wants to ban US companies from building overseas data centers as bans slow development",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/trump-wants-to-ban-us-companies-from-building-overseas-data-centers-as-bans-slow-development-also-considers-putting-a-tremendous-tax-in-lieu-of-prohibition",
+   "score": 1,
+   "sources": 1,
+   "summary": "The president wants U.S. data center companies to stay within U.S. borders or pay a hefty fee if they want to build in foreign countries.",
+   "title_ar": "ترامب يريد حظر الشركات الأمريكية من بناء مراكز بيانات في الخارج مع إبطاء الحظر للتطوير"
+  },
   "tomshardware.com/tech-industry/data-centers/us-government-confirms-criminal-investigation-into-singapore-company-at-the-heart-of-jensen-huang-scandal-megaspeed-identified-over-suspicious-activity-company-placed-on-no-sell-list-by-nvidia": {
    "at": "2026-11-17T13:45:28.567575+00:00",
    "title": "US government confirms criminal investigation into Singapore company at the heart of Jensen Huang scandal",
@@ -12854,7 +12843,7 @@
   "AI": "2026-11-21T16:30:46.691937+00:00",
   "Anime": "2026-11-21T16:30:46.691937+00:00",
   "Games": "2026-11-21T15:15:26.333050+00:00",
-  "Tech": "2026-11-21T16:15:25.388450+00:00"
+  "Tech": "2026-11-21T16:45:29.886062+00:00"
  },
  "digest_day": "2026-11-20",
  "weekly_day": "2026-11-20"
