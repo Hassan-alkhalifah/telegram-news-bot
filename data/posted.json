@@ -12002,17 +12002,6 @@
    "summary": "A homelab builder runs Qwen 3.6 35B on three used Nvidia Tesla V100 GPUs at about 100 tokens per second, in a $1,042 build.",
    "title_ar": "ثلاث وحدات Nvidia V100 من النفايات الإلكترونية تصل إلى 100 رمز في الثانية على نموذج Qwen 3.6 35B في جهاز منزلي بتكلفة 1042 دولاراً"
   },
-  "tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that": {
-   "at": "2026-11-14T15:45:26.431480+00:00",
-   "title": "U.S. Treasury Secretary questions whether Nvidia knowingly sold AI GPUs to shell companies, says company itself is responsible — ‘I think it is important that anyone at the company there be held accountable for that’",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that",
-   "score": 1,
-   "sources": 1,
-   "summary": "Scott Bessent wonders whether Nvidia's management knew about selling restricted hardware to shell companies, but does not directly blame Jensen Huang of anything.",
-   "title_ar": "وزيرة الخزانة الأمريكية تتساءل عما إذا كانت Nvidia قد باعت وحدات معالجة الرسوميات الخاصة بالذكاء الاصطناعي لشركات وهمية عن علم، وتقول إن الشركة نفسها مسؤولة - \"أعتقد أنه من المهم أن يُحاسب أي شخص في الشركة على ذلك\""
-  },
   "tomshardware.com/tech-industry/big-tech/jensen-huang-says-he-would-be-honored-to-return-as-nvidia-ceo-first-statement-since-resignation-follows-support-from-billionaires-investors-and-some-employees": {
    "at": "2026-11-17T16:45:31.786033+00:00",
    "title": "Jensen Huang says he would be ‘honored’ to return as Nvidia CEO",
