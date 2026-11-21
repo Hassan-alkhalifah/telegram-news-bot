@@ -617,6 +617,17 @@
    "summary": "Folding phones have come in numerous variations over the years as the concept has evolved.",
    "title_ar": "ميزات Galaxy Z Fold 8: ما يمكنك القيام به على هاتف قابل للطي"
   },
+  "9to5google.com/2026/11/21/gemini-camera-redesign": {
+   "at": "2026-11-21T21:00:44.526236+00:00",
+   "title": "Gemini app rolls out very slick camera redesign on Android",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/21/gemini-camera-redesign/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Google has thoroughly redesigned Gemini for Android’s in-app camera that lets you quickly add an image to prompts. more…",
+   "title_ar": "تطبيق Gemini يطرح إعادة تصميم أنيقة للغاية للكاميرا على نظام Android"
+  },
   "9to5mac.com/2026/11/15/apple-engineers-actively-working-on-face-id-for-iphone-duo-2s-outer-display-report": {
    "at": "2026-11-15T16:45:28.820277+00:00",
    "title": "Apple engineers ‘actively working’ on Face ID for iPhone Duo 2’s outer display: report",
@@ -3443,17 +3454,6 @@
    "sources": 1,
    "summary": "Test your anime knowledge with our latest puzzle collection!",
    "title_ar": "أخبار Crunchyroll: الألغاز المجلد 81: إرشاد عالمي وأعضاء فوضويون"
-  },
-  "engadget.com/2312107/built-in-windows-tool-diagnose-pc-battery-health-powercfg": {
-   "at": "2026-11-14T20:45:28.455167+00:00",
-   "title": "This built-in Windows tool can diagnose your PC's battery health",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2312107/built-in-windows-tool-diagnose-pc-battery-health-powercfg/",
-   "score": 1,
-   "sources": 1,
-   "summary": "If your laptop doesn't seem to hold a charge as well as it used to, start by checking the diagnostics this tool can report.",
-   "title_ar": "هذه الأداة المدمجة في Windows يمكنها تشخيص حالة بطارية حاسوبك"
   },
   "engadget.com/2312648/reasons-why-tv-soundbar-audio-delay": {
    "at": "2026-11-14T22:00:40.719145+00:00",
@@ -12931,7 +12931,7 @@
   "AI": "2026-11-21T16:30:46.691937+00:00",
   "Anime": "2026-11-21T17:45:28.517954+00:00",
   "Games": "2026-11-21T19:15:29.639529+00:00",
-  "Tech": "2026-11-21T20:30:33.901681+00:00"
+  "Tech": "2026-11-21T21:00:44.526236+00:00"
  },
  "digest_day": "2026-11-21",
  "weekly_day": "2026-11-20"
