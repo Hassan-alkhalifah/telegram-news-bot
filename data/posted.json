@@ -3455,17 +3455,6 @@
    "summary": "Test your anime knowledge with our latest puzzle collection!",
    "title_ar": "أخبار Crunchyroll: الألغاز المجلد 81: إرشاد عالمي وأعضاء فوضويون"
   },
-  "engadget.com/2312648/reasons-why-tv-soundbar-audio-delay": {
-   "at": "2026-11-14T22:00:40.719145+00:00",
-   "title": "The reasons why your TV soundbar has an audio delay",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2312648/reasons-why-tv-soundbar-audio-delay/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Audio delays are really irritating, especially when watching sports and live events.",
-   "title_ar": "أسباب تأخر الصوت في مكبر الصوت التلفزيوني الخاص بك"
-  },
   "engadget.com/2312924/underrated-google-health-app-food-tracker": {
    "at": "2026-11-14T23:15:34.017325+00:00",
    "title": "This underrated Google Health app feature can make food tracking less annoying",
@@ -3883,6 +3872,17 @@
    "sources": 1,
    "summary": "Apple's AirPods Max sound great, but they come with a lot of compromises for $549 headphones.",
    "title_ar": "إيجابيات وسلبيات استخدام سماعات AirPods Max من Apple"
+  },
+  "engadget.com/2319109/built-in-windows-tool-find-problem-directx-diagnostic": {
+   "at": "2026-11-21T22:15:28.713059+00:00",
+   "title": "This built-in windows tool can tell if your DirectX has a problem",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2319109/built-in-windows-tool-find-problem-directx-diagnostic/",
+   "score": 1,
+   "sources": 1,
+   "summary": "DxDiag is a handy and free resource for troubleshooting DirectX.",
+   "title_ar": "هذه الأداة المدمجة في Windows يمكنها معرفة ما إذا كانت لديك مشكلة في DirectX"
   },
   "engadget.com/2319193/unified-disney-plus-and-hulu-app-is-set-to-arrive-in-december": {
    "at": "2026-11-17T18:45:28.218639+00:00",
@@ -8118,17 +8118,6 @@
    "sources": 1,
    "summary": "We're tracking all of the news, discoveries, and conversations as Rockstar's new open-world blockbuster goes live",
    "title_ar": "تحديثات مباشرة حول GTA 6: الإطلاق الأكبر في تاريخ الألعاب"
-  },
-  "kotaku.com/long-lost-self-deleting-pokemon-fishing-game-for-nintendo-ds-resurfaces-20-years-later-2000756876": {
-   "at": "2026-11-14T22:00:40.719145+00:00",
-   "title": "Long Lost Self-Deleting Pokémon Fishing Game For Nintendo DS Resurfaces 20 Years Later",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/long-lost-self-deleting-pokemon-fishing-game-for-nintendo-ds-resurfaces-20-years-later-2000756876",
-   "score": 0,
-   "sources": 1,
-   "summary": "PokéPark: Fishing Rally was only available at a Japanese theme park in 2005, with one collector now boasting what's believed to be the lone playable hard copy",
-   "title_ar": ""
   },
   "kotaku.com/mass-effect-spiritual-successor-exodus-has-revealed-its-version-of-femshep-and-i-have-a-couple-of-questions-2000757696": {
    "at": "2026-11-18T00:30:35.883916+00:00",
@@ -12953,7 +12942,7 @@
   "AI": "2026-11-21T16:30:46.691937+00:00",
   "Anime": "2026-11-21T17:45:28.517954+00:00",
   "Games": "2026-11-21T19:15:29.639529+00:00",
-  "Tech": "2026-11-21T21:45:25.715049+00:00"
+  "Tech": "2026-11-21T22:15:28.713059+00:00"
  },
  "digest_day": "2026-11-21",
  "weekly_day": "2026-11-20"
