@@ -1,17 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/13/android-auto-18-2-update-beta-release": {
-   "at": "2026-11-13T23:45:27.959069+00:00",
-   "title": "Android Auto 18.2 update starts rolling out with more light mode teases",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/13/android-auto-18-2-update-beta-release/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Google has started rolling out the Android Auto 18.2 update, but don’t expect much to change on your car’s display. more…",
-   "title_ar": "بدء إطلاق تحديث Android Auto 18.2 مع المزيد من التلميحات حول الوضع الفاتح"
-  },
   "9to5google.com/2026/11/13/google-pixel-watch-media-controls-redesign-update": {
    "at": "2026-11-14T00:30:39.481334+00:00",
    "title": "Pixel Watch update brings a sweet redesign I wish was on more apps",
@@ -4390,6 +4379,17 @@
    "summary": "The historic launch is happening while Rockstar workers vote on union recognition.",
    "title_ar": ""
   },
+  "engadget.com/2323927/youtube-could-pay-3-billion-to-settle-social-media-addiction-lawsuits-with-school-districts": {
+   "at": "2026-11-21T00:00:44.661854+00:00",
+   "title": "YouTube could pay $3 billion to settle social media addiction lawsuits with school districts",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2323927/youtube-could-pay-3-billion-to-settle-social-media-addiction-lawsuits-with-school-districts/",
+   "score": 2,
+   "sources": 1,
+   "summary": "YouTube is facing a growing number of lawsuits alleging that its platform is designed to be addictive and that it has harmed teens.",
+   "title_ar": "يوتيوب قد تدفع 3 مليارات دولار لتسوية دعاوى إدمان وسائل التواصل الاجتماعي مع المناطق التعليمية"
+  },
   "eurogamer.net/build-a-rocket-boy-mindseye-debt-administration-litigation": {
    "at": "2026-11-18T15:45:29.181476+00:00",
    "title": "Mindseye developer Build a Rocket Boy - founded by ex-GTA veteran - has a mountain of debt, and the main plan for paying it back is litigation",
@@ -5191,6 +5191,17 @@
    "score": 0,
    "sources": 1,
    "summary": "In just a few short hours, the years-long wait for Grand Theft Auto 6 will finally be over.",
+   "title_ar": ""
+  },
+  "gamespot.com/articles/gta-6-players-captivated-by-mandy-apparently-include-a-former-nintendo-president": {
+   "at": "2026-11-21T00:00:44.661854+00:00",
+   "title": "GTA 6 Players Captivated By Mandy Apparently Include A Former Nintendo President",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/gta-6-players-captivated-by-mandy-apparently-include-a-former-nintendo-president/",
+   "score": 0,
+   "sources": 1,
+   "summary": "A character named Mandy has the attention of many Grand Theft Auto 6 players--and that appears to include Reggie Fils-Aimé, the man who used to run Nintendo of America.",
    "title_ar": ""
   },
   "gamespot.com/articles/gta-6-sets-even-more-records": {
@@ -7644,17 +7655,6 @@
    "score": 0,
    "sources": 1,
    "summary": "GTA 6 on PS5 Pro adds ray-traced shadows and PSSR improvements, but Rockstar says CPU limits prevent the game from reaching higher FPS.",
-   "title_ar": ""
-  },
-  "insider-gaming.com/resident-evil-requiem-grace-ashcroft-future": {
-   "at": "2026-11-13T23:45:27.959069+00:00",
-   "title": "Resident Evil Requiem Star Wants More for Grace Ashcroft",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/resident-evil-requiem-grace-ashcroft-future/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Resident Evil Requiem’s Angela Sant’Albano wants Grace and Leon’s mentorship to develop, describing their bond as brotherly and sisterly.",
    "title_ar": ""
   },
   "insider-gaming.com/rockstar-explains-why-gta-6-doesnt-have-a-40-fps-mode": {
@@ -13074,7 +13074,7 @@
   "AI": "2026-11-20T22:00:43.015324+00:00",
   "Anime": "2026-11-20T20:30:35.779308+00:00",
   "Games": "2026-11-20T21:30:48.999814+00:00",
-  "Tech": "2026-11-20T23:45:27.501475+00:00"
+  "Tech": "2026-11-21T00:00:44.661854+00:00"
  },
  "digest_day": "2026-11-20",
  "weekly_day": "2026-11-20"
