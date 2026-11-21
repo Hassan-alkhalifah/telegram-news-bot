@@ -3389,6 +3389,17 @@
    "summary": "The show must go on!",
    "title_ar": "الإعلان عن الموسم الثاني من أنمي Tamon's B-side"
   },
+  "crunchyroll.com/news/latest/2026/11/21/witch-on-the-holy-night-anime-film-3rd-key-visual-tv-commercial": {
+   "at": "2026-11-21T16:30:46.691937+00:00",
+   "title": "Witch on the Holy Night Anime Film Reveals 3rd Key Visual, TV Commercial",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://crunchyroll.com/news/latest/2026/11/21/witch-on-the-holy-night-anime-film-3rd-key-visual-tv-commercial",
+   "score": 1,
+   "sources": 1,
+   "summary": "Witch on the Holy Night will release worldwide in January 2027",
+   "title_ar": "الكشف عن الملصق الترويجي الثالث وإعلان تلفزيوني لفيلم الأنمي Witch on the Holy Night"
+  },
   "crunchyroll.com/news/quizzes/2026/11/16/anime-crosswords-puzzles-vol-81": {
    "at": "2026-11-16T15:15:27.546146+00:00",
    "title": "Crunchyroll News Puzzles Vol. 81: Universal Guidance and Messy Members",
@@ -3399,17 +3410,6 @@
    "sources": 1,
    "summary": "Test your anime knowledge with our latest puzzle collection!",
    "title_ar": "أخبار Crunchyroll: الألغاز المجلد 81: إرشاد عالمي وأعضاء فوضويون"
-  },
-  "engadget.com/2311447/google-maps-circled-z-meaning": {
-   "at": "2026-11-14T16:15:33.058886+00:00",
-   "title": "What the circled \"Z\" on Google Maps means",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2311447/google-maps-circled-z-meaning/",
-   "score": 1,
-   "sources": 1,
-   "summary": "If you've seen a circled capital Z on your Google Maps route, you should know what it means.",
-   "title_ar": "ماذا يعني رمز الحرف Z المحاط ببائرة في خريطة جوجل"
   },
   "engadget.com/2311763/samsung-one-ui-getting-rid-of-another-feature": {
    "at": "2026-11-14T17:45:27.416616+00:00",
@@ -10924,6 +10924,17 @@
    "summary": "Nvidia is close to acquiring AI startup Inception for at least $500 million, according to The Information.",
    "title_ar": ""
   },
+  "the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end": {
+   "at": "2026-11-21T16:30:46.691937+00:00",
+   "title": "Nvidia researchers argue huge AI context windows are a dead end",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Nvidia researchers argue that language models often don't need their full context windows—which are slow, expensive, and prone to errors—and propose an alternative.",
+   "title_ar": "باحثو Nvidia يجادلون بأن نوافذ السياق الضخمة للذكاء الاصطناعي هي طريق مسدود"
+  },
   "the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains": {
    "at": "2026-11-17T20:45:27.817205+00:00",
    "title": "OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains",
@@ -12840,8 +12851,8 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-21T13:45:44.194279+00:00",
-  "Anime": "2026-11-21T13:30:39.161886+00:00",
+  "AI": "2026-11-21T16:30:46.691937+00:00",
+  "Anime": "2026-11-21T16:30:46.691937+00:00",
   "Games": "2026-11-21T15:15:26.333050+00:00",
   "Tech": "2026-11-21T16:15:25.388450+00:00"
  },
