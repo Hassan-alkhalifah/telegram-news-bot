@@ -1871,17 +1871,6 @@
    "summary": "Kanon Takao voices Hana's twin sister in anime premiering in January",
    "title_ar": "أنمي Bride of the Barrier Master يبث عرضاً توضيحياً لشخصية Hazuki Ichise التوأم لهانا"
   },
-  "animenewsnetwork.com/news/2026-11-15/mages-develops-girls-und-panzer-mahjong-game-for-ps5-switch-2/.243827": {
-   "at": "2026-11-15T07:30:34.885638+00:00",
-   "title": "MAGES Develops Girls und Panzer Mahjong Game For PS5, Switch 2",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-15/mages-develops-girls-und-panzer-mahjong-game-for-ps5-switch-2/.243827",
-   "score": 0,
-   "sources": 1,
-   "summary": "Game slated for 2027 release",
-   "title_ar": ""
-  },
   "animenewsnetwork.com/news/2026-11-15/odekake-kozame-anime-gets-2nd-film/.243832": {
    "at": "2026-11-15T14:15:28.840720+00:00",
    "title": "Odekake Kozame Anime Gets 2nd Film",
@@ -8823,6 +8812,17 @@
    "summary": "\"The greatest open world game\".",
    "title_ar": ""
   },
+  "nintendolife.com/news/2026/11/harada-reveals-the-pokemon-he-wanted-to-add-to-pokken-tournament": {
+   "at": "2026-11-22T07:30:41.387484+00:00",
+   "title": "Harada Reveals The Pokémon He Wanted To Add To Pokken Tournament",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.nintendolife.com/news/2026/11/harada-reveals-the-pokemon-he-wanted-to-add-to-pokken-tournament",
+   "score": 2,
+   "sources": 1,
+   "summary": "Pangoro missed out.",
+   "title_ar": "Harada يكشف عن البوكيمون الذي كان يريد إضافته إلى Pokken Tournament"
+  },
   "nintendolife.com/news/2026/11/i-dont-feel-this-is-a-good-direction-chrono-trigger-composer-thinks-its-time-to-end-dragon-quest": {
    "at": "2026-11-17T13:00:43.909146+00:00",
    "title": "\"I Don't Feel This Is A Good Direction\" - Chrono Trigger Composer Thinks It's Time To End Dragon Quest",
@@ -13073,7 +13073,7 @@
  "topic_last_posted": {
   "AI": "2026-11-21T16:30:46.691937+00:00",
   "Anime": "2026-11-22T04:30:36.138204+00:00",
-  "Games": "2026-11-21T19:15:29.639529+00:00",
+  "Games": "2026-11-22T07:30:41.387484+00:00",
   "Tech": "2026-11-22T02:45:35.983045+00:00"
  },
  "digest_day": "2026-11-21",
