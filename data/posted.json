@@ -11144,17 +11144,6 @@
    "summary": "Isomorphic Labs has raised $5 billion, just six months after a $2.1 billion round.",
    "title_ar": "Isomorphic Labs تجمع 5 مليارات دولار في جولتها الكبرى الثانية خلال ستة أشهر"
   },
-  "the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu": {
-   "at": "2026-11-15T10:15:28.035942+00:00",
-   "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware.",
-   "title_ar": "Meituan تطلق نموذج وكيل بـ 1.6 تريليون معلمة لم يلمس مطلقاً وحدة معالجة رسومية من Nvidia"
-  },
   "the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives": {
    "at": "2026-11-19T04:15:29.797667+00:00",
    "title": "Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives",
