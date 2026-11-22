@@ -3565,6 +3565,17 @@
    "summary": "All 12 episodes of Season 3 Part One are now streaming on Crunchyroll",
    "title_ar": ""
   },
+  "crunchyroll.com/news/latest/2026/11/22/sakamoto-days-manga-ends": {
+   "at": "2026-11-22T17:45:26.125345+00:00",
+   "title": "Sakamoto Days Manga Ends in Weekly Shonen Jump",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://crunchyroll.com/news/latest/2026/11/22/sakamoto-days-manga-ends",
+   "score": 1,
+   "sources": 1,
+   "summary": "The manga series originally premiered in November 2020",
+   "title_ar": "انتهاء مانغا Sakamoto Days في مجلة Weekly Shonen Jump"
+  },
   "crunchyroll.com/news/latest/2026/11/22/shiboyugi-playing-death-games-to-put-food-on-the-table-anime-sequel-announced": {
    "at": "2026-11-22T04:45:28.195182+00:00",
    "title": "SHIBOYUGI: Playing Death Games to Put Food on the Table Anime Sequel Announced",
@@ -12233,17 +12244,6 @@
    "summary": "Nvidia took the wraps off its Rubin HPC GPU at Supercomputing 2026.",
    "title_ar": "Nvidia تعلن عن معالج الرسوميات Rubin HPC المزود بـ \"عدد قياسي من أنوية CUDA\" في مؤتمر Supercomputing 2026"
   },
-  "tomshardware.com/pc-components/gpus/nvidia-rtx-5090-stock-returns-to-newegg-with-21-models-but-scarcity-pricing-keeps-the-cheapest-air-cooled-cards-at-least-three-times-msrp": {
-   "at": "2026-11-15T17:30:37.130076+00:00",
-   "title": "Nvidia RTX 5090 stock returns to Newegg with 21 models",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-stock-returns-to-newegg-with-21-models-but-scarcity-pricing-keeps-the-cheapest-air-cooled-cards-at-least-three-times-msrp",
-   "score": 1,
-   "sources": 1,
-   "summary": "After rumors of Nvidia GeForce RTX 5090 graphics cards being withdrawn from the consumer retail channel it is pleasing to see major U.S. eTailers like Newegg stuffed with cheaper stock today.",
-   "title_ar": "توفر بطاقات Nvidia RTX 5090 من جديد على متجر Newegg مع 21 طرازاً"
-  },
   "tomshardware.com/pc-components/gpus/nvidias-revenue-hits-usd115-8-billion-as-vera-rubin-generates-usd20-billion-in-another-record-setting-quarter-commitments-increase-to-usd390-billion-fy28-forecast-raised": {
    "at": "2026-11-18T13:15:30.091944+00:00",
    "title": "Nvidia's revenue hits $115.8 billion as Vera Rubin generates $20 billion in another record-setting quarter",
@@ -13204,7 +13204,7 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-22T17:30:34.644514+00:00",
-  "Anime": "2026-11-22T16:30:43.411414+00:00",
+  "Anime": "2026-11-22T17:45:26.125345+00:00",
   "Games": "2026-11-22T12:15:37.092096+00:00",
   "Tech": "2026-11-22T17:15:27.116030+00:00"
  },
