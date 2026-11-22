@@ -1871,17 +1871,6 @@
    "summary": "3 main cast members celebrate news with staff returning from 1st film, 2nd season",
    "title_ar": ""
   },
-  "animenewsnetwork.com/news/2026-11-15/stranger-than-heaven-game-streams-story-trailer-for-2nd-act-kure/.243829": {
-   "at": "2026-11-15T12:15:28.003685+00:00",
-   "title": "Stranger Than Heaven Game Streams Story Trailer for 2nd Act 'Kure'",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-15/stranger-than-heaven-game-streams-story-trailer-for-2nd-act-kure/.243829",
-   "score": 1,
-   "sources": 1,
-   "summary": "Game launches on January 15 for Xbox Series X|S, PlayStation 5, PC via Steam",
-   "title_ar": "لعبة Stranger Than Heaven تبث العرض الترويجي لقصة الفصل الثاني Kure"
-  },
   "animenewsnetwork.com/news/2026-11-15/the-summer-hikaru-died-novels-end-with-3rd-volume/.243843": {
    "at": "2026-11-16T13:30:44.168694+00:00",
    "title": "The Summer Hikaru Died Novels End With 3rd Volume",
@@ -4840,6 +4829,17 @@
    "sources": 1,
    "summary": "You've probably heard at least a little bit of the Grand Theft Auto 6 soundtrack from French electronic duo, Justice: a single taken from the act's original soundtrack has been released as a…",
    "title_ar": ""
+  },
+  "eurogamer.net/gta-6-launch-day-engagement-circana": {
+   "at": "2026-11-22T12:15:37.092096+00:00",
+   "title": "Over half of all console players active on GTA 6's launch day played it, says Circana",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.eurogamer.net/gta-6-launch-day-engagement-circana",
+   "score": 2,
+   "sources": 1,
+   "summary": "On Grand Theft Auto 6 's launch day, more than half of everyone playing on PS5 and Xbox was playing GTA 6.",
+   "title_ar": "شركة Circana تقول إن أكثر من نصف لاعبي الأجهزة المنزلية النشطين في يوم إطلاق GTA 6 لعبوها"
   },
   "eurogamer.net/gta-6-leaker-pleads-guilty": {
    "at": "2026-11-16T19:00:45.669826+00:00",
@@ -12453,6 +12453,17 @@
    "summary": "A leaked Ohio bill could allow data centers to qualify as public utilities for the purpose of eminent domain law, allowing companies to seize private land for building new facilities.",
    "title_ar": "مشروع قانون مسرب في ولاية Ohio قد يسمح لشركات مراكز بيانات الذكاء الاصطناعي بمصادرة الأراضي الخاصة لمشاريعها باستخدام قانون الاستيلاء للمصلحة العامة"
   },
+  "tomshardware.com/tech-industry/data-centers/lenders-back-spacexs-usd43-billion-nvidia-gpu-deal-but-worry-the-collateral-could-end-up-in-orbit-making-it-impossible-to-reclaim-if-musk-defaults-five-year-hell-or-high-water-lease-may-lack-a-written-earth-only-guarantee": {
+   "at": "2026-11-22T12:15:37.092096+00:00",
+   "title": "Lenders back SpaceX's $43 billion Nvidia GPU deal but worry the collateral could end up in orbit, making them impossible to reclaim if Musk defaults",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/lenders-back-spacexs-usd43-billion-nvidia-gpu-deal-but-worry-the-collateral-could-end-up-in-orbit-making-it-impossible-to-reclaim-if-musk-defaults-five-year-hell-or-high-water-lease-may-lack-a-written-earth-only-guarantee",
+   "score": 2,
+   "sources": 1,
+   "summary": "The $43 billion loan is structured as a unique arrangement in which a different company buys the Nvidia chips, while SpaceX makes quarterly payments to use them.",
+   "title_ar": "المقرضون يدعمون صفقة وحدات معالجة الرسوميات Nvidia التابعة لـ SpaceX بقيمة 43 مليار دولار، لكنهم يشعرون بالقلق من أن الضمانات قد تنتهي في المدار، مما يجعل استردادها مستحيلاً إذا تخلف Musk عن السداد"
+  },
   "tomshardware.com/tech-industry/data-centers/microsoft-365-outage-leads-to-chlorine-gas-poisoning-of-15-hotel-guests-email-warning-system-fails-40-first-responders-deployed-for-triage-four-hospitalized": {
    "at": "2026-11-15T18:15:28.256402+00:00",
    "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
@@ -12507,17 +12518,6 @@
    "sources": 1,
    "summary": "The City of Memphis is making its first major investment, almost $3.3 million, through the Community Benefit Ordinance.",
    "title_ar": "ضخ 3.26 مليون دولار من إيرادات مركز بيانات الذكاء الاصطناعي التابع لـ SpaceX مرة أخرى في مدينة ممفيس"
-  },
-  "tomshardware.com/tech-industry/elon-musk-signs-petition-to-reinstate-jensen-huang-as-nvidia-ceo-over-130-000-sign-online-petition-but-not-all-nvidians-support-jensens-return": {
-   "at": "2026-11-15T12:15:28.003685+00:00",
-   "title": "Elon Musk signs petition to reinstate Jensen Huang as Nvidia CEO — over 130,000 sign online petition, but not all Nvidians support Jensen's return",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.tomshardware.com/tech-industry/elon-musk-signs-petition-to-reinstate-jensen-huang-as-nvidia-ceo-over-130-000-sign-online-petition-but-not-all-nvidians-support-jensens-return",
-   "score": 0,
-   "sources": 1,
-   "summary": "An online petition with over 91,000 signatures is calling for the reinstatement of Nvidia's disgraced former CEO.",
-   "title_ar": ""
   },
   "tomshardware.com/tech-industry/nvidia-board-director-cashed-out-usd1-billion-in-stock-before-jensen-huang-scandal-mark-stevens-sold-4-2-million-shares-without-a-trading-plan": {
    "at": "2026-11-15T14:15:28.840720+00:00",
@@ -13172,8 +13172,8 @@
  "topic_last_posted": {
   "AI": "2026-11-21T16:30:46.691937+00:00",
   "Anime": "2026-11-22T11:57:31.760900+00:00",
-  "Games": "2026-11-22T10:00:51.691044+00:00",
-  "Tech": "2026-11-22T02:45:35.983045+00:00"
+  "Games": "2026-11-22T12:15:37.092096+00:00",
+  "Tech": "2026-11-22T12:15:37.092096+00:00"
  },
  "digest_day": "2026-11-21",
  "weekly_day": "2026-11-20"
