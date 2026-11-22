@@ -8834,6 +8834,17 @@
    "summary": "Voice actress Kiyono Yasuno announced her marriage on her official website on Sunday.",
    "title_ar": "المغنية ومؤدية الأصوات Kiyono Yasuno تعلن زواجها"
   },
+  "myanimelist.net/news/74968755?_location=rss": {
+   "at": "2026-11-22T15:30:39.871185+00:00",
+   "title": "Manga 'Sakamoto Days' Concludes Serialization",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://myanimelist.net/news/74968755?_location=rss",
+   "score": 0,
+   "sources": 1,
+   "summary": "Yuuto Suzuki's Sakamoto Days manga has concluded with chapter 284 in the 52nd issue of Weekly Shounen Jump magazine on Monday, after 6-year serialization.",
+   "title_ar": ""
+  },
   "myanimelist.net/news/74968770?_location=rss": {
    "at": "2026-11-22T15:15:30.662725+00:00",
    "title": "'Yozakura-san Chi no Daisakusen' Creator Launches New Manga",
@@ -10990,6 +11001,17 @@
    "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
    "title_ar": ""
   },
+  "the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace": {
+   "at": "2026-11-22T15:30:39.871185+00:00",
+   "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
+   "score": 0,
+   "sources": 1,
+   "summary": "A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep developing software on their own and…",
+   "title_ar": ""
+  },
   "the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices": {
    "at": "2026-11-16T23:45:29.284385+00:00",
    "title": "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
@@ -12056,6 +12078,17 @@
    "sources": 1,
    "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act.",
    "title_ar": "أمازون تتذمر أيضاً من مجلس مدينة نيويورك بشأن ملصقات الشحن"
+  },
+  "theverge.com/tech/1039732/protesters-storm-meta-offices-in-india": {
+   "at": "2026-11-22T15:30:39.871185+00:00",
+   "title": "Protesters storm Meta offices in India",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+   "score": 1,
+   "sources": 1,
+   "summary": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN.",
+   "title_ar": "محتجون يقتحمون مكاتب شركة Meta في الهند"
   },
   "theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles": {
    "at": "2026-11-16T12:30:39.759667+00:00",
@@ -13195,7 +13228,7 @@
   "AI": "2026-11-22T13:15:27.043574+00:00",
   "Anime": "2026-11-22T15:15:30.662725+00:00",
   "Games": "2026-11-22T12:15:37.092096+00:00",
-  "Tech": "2026-11-22T14:15:27.919675+00:00"
+  "Tech": "2026-11-22T15:30:39.871185+00:00"
  },
  "digest_day": "2026-11-21",
  "weekly_day": "2026-11-20"
