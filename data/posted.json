@@ -617,6 +617,17 @@
    "summary": "Google has thoroughly redesigned Gemini for Android’s in-app camera that lets you quickly add an image to prompts. more…",
    "title_ar": "تطبيق Gemini يطرح إعادة تصميم أنيقة للغاية للكاميرا على نظام Android"
   },
+  "9to5google.com/2026/11/22/google-home-app-better-than-nest": {
+   "at": "2026-11-22T14:15:27.919675+00:00",
+   "title": "The Google Home app is better than Nest alone ever was, mostly",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/22/google-home-app-better-than-nest/",
+   "score": 1,
+   "sources": 1,
+   "summary": "The Nest app is officially dead, but it’s worth taking a step back and remembering that, while there are some rough edges, the Google Home app is a better smart home experience than Nest alone ever…",
+   "title_ar": "تطبيق Google Home أفضل بكثير من تطبيق Nest وحده في الغالب"
+  },
   "9to5mac.com/2026/11/15/apple-engineers-actively-working-on-face-id-for-iphone-duo-2s-outer-display-report": {
    "at": "2026-11-15T16:45:28.820277+00:00",
    "title": "Apple engineers ‘actively working’ on Face ID for iPhone Duo 2’s outer display: report",
@@ -13228,7 +13239,7 @@
   "AI": "2026-11-22T13:15:27.043574+00:00",
   "Anime": "2026-11-22T12:30:33.856471+00:00",
   "Games": "2026-11-22T12:15:37.092096+00:00",
-  "Tech": "2026-11-22T13:00:43.051515+00:00"
+  "Tech": "2026-11-22T14:15:27.919675+00:00"
  },
  "digest_day": "2026-11-21",
  "weekly_day": "2026-11-20"
