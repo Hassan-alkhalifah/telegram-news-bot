@@ -3664,17 +3664,6 @@
    "summary": "There are a few other tasks your Apple TV can handle.",
    "title_ar": "كيف يمكنك منح جهاز Apple TV القديم الخاص بك هدفاً جديداً"
   },
-  "engadget.com/2313890/apple-switch-control-feature-on-other-devices": {
-   "at": "2026-11-15T21:00:40.486686+00:00",
-   "title": "You can control your other devices with this resourceful Apple feature",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2313890/apple-switch-control-feature-on-other-devices/",
-   "score": 1,
-   "sources": 1,
-   "summary": "There's a lot you can do with this accessibility feature.",
-   "title_ar": "يمكنك التحكم بأجهزتك الأخرى باستخدام ميزة Apple العملية هذه"
-  },
   "engadget.com/2313930/samsung-is-discontinuing-these-useful-mobile-apps-in-december": {
    "at": "2026-11-15T22:30:42.216273+00:00",
    "title": "Samsung is discontinuing these useful mobile apps in December",
@@ -4125,6 +4114,17 @@
    "sources": 1,
    "summary": "Some Android status bar icons are quite self-explanatory, but others aren't quite as clear-cut.",
    "title_ar": "ما تعنيه أيقونة المفتاح الصغيرة على جهاز Android الخاص بك"
+  },
+  "engadget.com/2319519/ios-settings-help-control-mobile-data-use": {
+   "at": "2026-11-22T21:00:42.877696+00:00",
+   "title": "These iOS settings will help you control your mobile data use",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2319519/ios-settings-help-control-mobile-data-use/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Keeping your mobile data usage under control is generally a good idea, doubly so if you're on a restrictive plan, and iOS offers a few ways to do so.",
+   "title_ar": "هذه الإعدادات في نظام iOS ستساعدك على التحكم في استهلاك بيانات الهاتف المحمول"
   },
   "engadget.com/2319673/google-wallet-is-launching-on-ios": {
    "at": "2026-11-17T20:00:45.700339+00:00",
@@ -6116,17 +6116,6 @@
    "sources": 1,
    "summary": "Back in April, Samsung's Exynos 2700 emerged in early Geekbench listings, but that engineering sample had its fastest core running at just 2.88GHz.",
    "title_ar": "معالج Exynos 2700 الخاص بـ Galaxy S27 Pro يظهر في اختبارات Geekbench، وإليك كيفية أداءه في مواجهة Snapdragon"
-  },
-  "gsmarena.com/gaming_performance_evolution_iphone_15_pro_to_iphone_18_pro-news-75486.php": {
-   "at": "2026-11-15T20:45:35.120248+00:00",
-   "title": "Gaming performance evolution: iPhone 15 Pro to iPhone 18 Pro",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.gsmarena.com/gaming_performance_evolution_iphone_15_pro_to_iphone_18_pro-news-75486.php",
-   "score": 1,
-   "sources": 1,
-   "summary": "The iPhone has always had a great selection of games, including some AAA titles from older console generations.",
-   "title_ar": "تطور أداء الألعاب: من iPhone 15 Pro إلى iPhone 18 Pro"
   },
   "gsmarena.com/google_launches_gemini_4_neon_its_new_midtier_ai_model-news-75544.php": {
    "at": "2026-11-19T19:45:36.623601+00:00",
@@ -11705,17 +11694,6 @@
    "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are.",
    "title_ar": ""
   },
-  "theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed": {
-   "at": "2026-11-15T20:45:35.120248+00:00",
-   "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-   "score": 0,
-   "sources": 1,
-   "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly.",
-   "title_ar": ""
-  },
   "theverge.com/tech/1034110/google-ask-maps-ai-trip-planning": {
    "at": "2026-11-16T14:15:27.693865+00:00",
    "title": "Google Maps can now create trip itineraries for you",
@@ -13228,7 +13206,7 @@
   "AI": "2026-11-22T17:30:34.644514+00:00",
   "Anime": "2026-11-22T17:45:26.125345+00:00",
   "Games": "2026-11-22T12:15:37.092096+00:00",
-  "Tech": "2026-11-22T20:45:27.693546+00:00"
+  "Tech": "2026-11-22T21:00:42.877696+00:00"
  },
  "digest_day": "2026-11-22",
  "weekly_day": "2026-11-20"
