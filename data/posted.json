@@ -12618,6 +12618,17 @@
    "summary": "Dai's post shows how much Nvidia employees looked up to the former CEO.",
    "title_ar": ""
   },
+  "tomshardware.com/tech-industry/semiconductors/ai-agents-design-an-entirely-new-cpu-architecture-from-scratch-startup-claims-frostbite-posts-4-59x-the-performance-per-watt-of-an-in-order-core-in-pre-silicon-tests": {
+   "at": "2026-11-22T13:15:27.043574+00:00",
+   "title": "AI agents design an entirely new CPU architecture from scratch, startup claims",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/tech-industry/semiconductors/ai-agents-design-an-entirely-new-cpu-architecture-from-scratch-startup-claims-frostbite-posts-4-59x-the-performance-per-watt-of-an-in-order-core-in-pre-silicon-tests",
+   "score": 0,
+   "sources": 1,
+   "summary": "Architect Labs says its AI agents designed Frostbite, an interaction-net CPU with 4.59x the performance per watt of an in-order core.",
+   "title_ar": ""
+  },
   "tomshardware.com/tech-industry/semiconductors/intel-18a-yields-hit-70-percent-as-company-signs-microsoft-as-emib-customer-the-first-company-to-publicly-commit-to-intels-new-packaging-technology": {
    "at": "2026-11-19T13:30:40.550327+00:00",
    "title": "Intel 18A yields hit 70% as company signs Microsoft as EMIB customer",
@@ -13135,6 +13146,17 @@
    "summary": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
    "title_ar": "ميزة Live Rewind في ساعة Apple Watch يمكنها تسجيل وإعادة المحادثات المنطوقة. إنها محرجة بعض الشيء"
   },
+  "wired.com/story/banks-are-cracking-down-on-ai-agents": {
+   "at": "2026-11-22T13:15:27.043574+00:00",
+   "title": "Banks Have Had It Up to Here With Your AI Agent",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+   "score": 2,
+   "sources": 2,
+   "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+   "title_ar": ""
+  },
   "wired.com/story/cops-are-being-extremely-corny-about-gta-vi": {
    "at": "2026-11-20T23:30:37.472050+00:00",
    "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
@@ -13214,7 +13236,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-21T16:30:46.691937+00:00",
+  "AI": "2026-11-22T13:15:27.043574+00:00",
   "Anime": "2026-11-22T12:30:33.856471+00:00",
   "Games": "2026-11-22T12:15:37.092096+00:00",
   "Tech": "2026-11-22T13:00:43.051515+00:00"
