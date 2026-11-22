@@ -617,6 +617,17 @@
    "summary": "The Nest app is officially dead, but it’s worth taking a step back and remembering that, while there are some rough edges, the Google Home app is a better smart home experience than Nest alone ever…",
    "title_ar": "تطبيق Google Home أفضل بكثير من تطبيق Nest وحده في الغالب"
   },
+  "9to5google.com/2026/11/22/pixel-weather-report": {
+   "at": "2026-11-22T21:30:34.262424+00:00",
+   "title": "Pixel Weather rolls out ‘Report current weather’ to ‘improve local forecasts’",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/22/pixel-weather-report/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Google this weekend rolled out the latest update to Pixel Weather with a new reporting feature and small interface tweaks. more…",
+   "title_ar": "تطبيق Pixel Weather يطلق ميزة \"الإبلاغ عن الطقس الحالي\" لـ \"تحسين التنبؤات المحلية\""
+  },
   "9to5mac.com/2026/11/15/apples-messages-app-keeps-getting-better-here-are-my-favorite-updates": {
    "at": "2026-11-15T23:15:28.504619+00:00",
    "title": "Apple’s Messages app keeps getting better; here are my favorite updates",
@@ -11683,17 +11694,6 @@
    "summary": "Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, \"the Nvidia board unanimously accepted his resignation and does…",
    "title_ar": ""
   },
-  "theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites": {
-   "at": "2026-11-15T21:15:34.678622+00:00",
-   "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
-   "score": 1,
-   "sources": 1,
-   "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit.",
-   "title_ar": "فشل صاروخ Vulcan وتدمير 40 قمراً صناعياً لـ Amazon Leo"
-  },
   "theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools": {
    "at": "2026-11-16T01:45:28.073825+00:00",
    "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
@@ -13217,7 +13217,7 @@
   "AI": "2026-11-22T21:15:27.269281+00:00",
   "Anime": "2026-11-22T17:45:26.125345+00:00",
   "Games": "2026-11-22T12:15:37.092096+00:00",
-  "Tech": "2026-11-22T21:00:42.877696+00:00"
+  "Tech": "2026-11-22T21:30:34.262424+00:00"
  },
  "digest_day": "2026-11-22",
  "weekly_day": "2026-11-20"
