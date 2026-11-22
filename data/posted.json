@@ -3774,17 +3774,6 @@
    "summary": "The app will become even more of a shopping mall, just in time for Black Friday.",
    "title_ar": "تطبيق Instagram سيسمح لصناع المحتوى بإضافة روابط عملاء Amazon مباشرة إلى منشوراتهم وReels"
   },
-  "engadget.com/2317210/amazon-is-reportedly-working-on-a-database-for-virtually-every-item-for-sale-on-earth": {
-   "at": "2026-11-15T20:30:44.545774+00:00",
-   "title": "Amazon is reportedly working on a database for 'virtually every item for sale on Earth'",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2317210/amazon-is-reportedly-working-on-a-database-for-virtually-every-item-for-sale-on-earth/",
-   "score": 1,
-   "sources": 1,
-   "summary": "This would include products that the online commerce giant doesn't even sell.",
-   "title_ar": "تقارير تفيد بأن Amazon تعمل على قاعدة بيانات \"لكل سلعة للبيع على وجه الأرض تقريباً\""
-  },
   "engadget.com/2317283/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites": {
    "at": "2026-11-16T05:00:50.461771+00:00",
    "title": "ULA Vulcan rocket failure destroys 40 Amazon Leo satellites",
@@ -4125,6 +4114,17 @@
    "sources": 1,
    "summary": "The full extent of the disruption isn't known yet.",
    "title_ar": ""
+  },
+  "engadget.com/2319509/what-tiny-key-icon-means-android-device": {
+   "at": "2026-11-22T20:45:27.693546+00:00",
+   "title": "What the tiny key icon means on your Android device",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2319509/what-tiny-key-icon-means-android-device/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Some Android status bar icons are quite self-explanatory, but others aren't quite as clear-cut.",
+   "title_ar": "ما تعنيه أيقونة المفتاح الصغيرة على جهاز Android الخاص بك"
   },
   "engadget.com/2319673/google-wallet-is-launching-on-ios": {
    "at": "2026-11-17T20:00:45.700339+00:00",
@@ -13228,7 +13228,7 @@
   "AI": "2026-11-22T17:30:34.644514+00:00",
   "Anime": "2026-11-22T17:45:26.125345+00:00",
   "Games": "2026-11-22T12:15:37.092096+00:00",
-  "Tech": "2026-11-22T20:30:34.320876+00:00"
+  "Tech": "2026-11-22T20:45:27.693546+00:00"
  },
  "digest_day": "2026-11-22",
  "weekly_day": "2026-11-20"
