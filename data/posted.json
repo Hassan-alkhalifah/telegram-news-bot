@@ -1651,6 +1651,17 @@
    "summary": "When Apple released iOS 27 in September, Siri Ai stole a lot of the headline.",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/22/apple-tested-a-complication-column-for-the-iphone-duo-lock-screen-per-leak": {
+   "at": "2026-11-22T17:15:27.116030+00:00",
+   "title": "Apple tested a ‘complication column’ for the iPhone Duo Lock Screen, per leak",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/22/apple-tested-a-complication-column-for-the-iphone-duo-lock-screen-per-leak/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Apple made a bunch of changes to iOS to optimize it for the iPhone Duo’s form factor, including revamping the Lock Screen.",
+   "title_ar": "حسب تسريب، آبل اختبرت \"عمود إضافات\" لشاشة قفل iPhone Duo"
+  },
   "9to5mac.com/2026/11/22/macbook-neo-2-likely-to-launch-around-march-could-feature-new-colors-report": {
    "at": "2026-11-22T15:45:27.152060+00:00",
    "title": "MacBook Neo 2 likely to launch around March, could feature new colors: report",
@@ -2960,17 +2971,6 @@
    "summary": "The new season will premiere in January 2027",
    "title_ar": ""
   },
-  "crunchyroll.com/news/latest/2026/11/15/bang-dream-its-mygo-ave-mujica-the-die-is-cast-sequel-anime-mygo-teaser-trailer": {
-   "at": "2026-11-15T17:00:42.566761+00:00",
-   "title": "BanG Dream! It's MyGO!!!!! / Ave Mujica – The Die is Cast Sequel Anime Centers MyGO!!!!! in New Trailer",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://crunchyroll.com/news/latest/2026/11/15/bang-dream-its-mygo-ave-mujica-the-die-is-cast-sequel-anime-mygo-teaser-trailer",
-   "score": 0,
-   "sources": 1,
-   "summary": "The crossover series premieres January 8, 2027",
-   "title_ar": ""
-  },
   "crunchyroll.com/news/latest/2026/11/15/magical-sisters-lulutto-lilly-anime-toko-sena-character-trailer": {
    "at": "2026-11-15T17:15:32.575145+00:00",
    "title": "Magical Sisters Lulutto Lilly Anime Showcases Idols Toko and Sena in New Character Trailer",
@@ -3563,6 +3563,17 @@
    "score": 0,
    "sources": 1,
    "summary": "A teaser visual featuring Yuki was also released",
+   "title_ar": ""
+  },
+  "crunchyroll.com/news/latest/2026/11/22/shozen-anime-trailer-key-visual-2": {
+   "at": "2026-11-22T17:15:27.116030+00:00",
+   "title": "Shozen Anime Reveals New Trailer, Visual, Cast Additions",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://crunchyroll.com/news/latest/2026/11/22/shozen-anime-trailer-key-visual-2",
+   "score": 0,
+   "sources": 1,
+   "summary": "The fantasy series premieres April 2027",
    "title_ar": ""
   },
   "crunchyroll.com/news/latest/2026/11/22/the-detective-is-already-dead-season-2-anime-new-arc-trailer-visual": {
@@ -12398,17 +12409,6 @@
    "summary": "The Taipei 101 skyscraper was lit up with messages of support for Jensen Huang overnight, the former Nvidia CEO who left the company after admitting to an affair with a former customer who has been…",
    "title_ar": ""
   },
-  "tomshardware.com/tech-industry/cyber-security/fbi-disrupts-north-korean-facestealer-campaign-behind-usd5-billion-binance-hack-doj-seizes-facestealer-cloud-infrastructure-containing-900-videos-of-tech-workers-hackers-used-ai-deepfakes-to-steal-usd400-million-and-compromise-open-source-software": {
-   "at": "2026-11-15T17:00:42.566761+00:00",
-   "title": "FBI disrupts North Korean FaceStealer campaign behind $5 billion Binance hack",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/tech-industry/cyber-security/fbi-disrupts-north-korean-facestealer-campaign-behind-usd5-billion-binance-hack-doj-seizes-facestealer-cloud-infrastructure-containing-900-videos-of-tech-workers-hackers-used-ai-deepfakes-to-steal-usd400-million-and-compromise-open-source-software",
-   "score": 1,
-   "sources": 1,
-   "summary": "US DoJ partially disrupts FaceStealer campaign that's taken $400m from victims and threatens open-source software — gov techs disrupt cloud infrastructure and find 900 videos of targeted tech workers",
-   "title_ar": "مكتب التحقيقات الفيدرالي (FBI) يعطل حملة FaceStealer الكورية الشمالية التي تقف وراء اختراق Binance بقيمة 5 مليارات دولار"
-  },
   "tomshardware.com/tech-industry/cyber-security/new-windows-11-lock-screen-zero-day-unlocks-bitlocker-protected-pcs-with-just-a-few-keystrokes-win-u-keyboard-trick-lets-physical-attackers-run-usb-payloads-or-create-new-admin-accounts": {
    "at": "2026-11-20T01:45:27.911174+00:00",
    "title": "New Windows 11 lock screen zero-day unlocks BitLocker-protected PCs with just a few keystrokes",
@@ -13184,7 +13184,7 @@
   "AI": "2026-11-22T13:15:27.043574+00:00",
   "Anime": "2026-11-22T16:30:43.411414+00:00",
   "Games": "2026-11-22T12:15:37.092096+00:00",
-  "Tech": "2026-11-22T16:00:42.256832+00:00"
+  "Tech": "2026-11-22T17:15:27.116030+00:00"
  },
  "digest_day": "2026-11-21",
  "weekly_day": "2026-11-20"
