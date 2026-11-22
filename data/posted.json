@@ -1,17 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/15/lenovo-googlebook-duet-13-leak": {
-   "at": "2026-11-15T22:00:50.316966+00:00",
-   "title": "‘Lenovo Googlebook Duet 13’ leak points to January launch [Gallery]",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/15/lenovo-googlebook-duet-13-leak/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Google teased last month that detachable Googlebooks are coming soon, and a leak today provides the best look at the “Lenovo Googlebook Duet 13” yet. more…",
-   "title_ar": "تسريب جهاز Lenovo Googlebook Duet 13 يشير إلى إطلاقه في يناير [معرض الصور]"
-  },
   "9to5google.com/2026/11/16/android-time-machine-old-versions-browser": {
    "at": "2026-11-16T16:00:59.223379+00:00",
    "title": "Someone rebuilt old Android versions in your browser, and it’s an instant nostalgia hit [Gallery]",
@@ -1661,6 +1650,17 @@
    "sources": 1,
    "summary": "Apple made a bunch of changes to iOS to optimize it for the iPhone Duo’s form factor, including revamping the Lock Screen.",
    "title_ar": "حسب تسريب، آبل اختبرت \"عمود إضافات\" لشاشة قفل iPhone Duo"
+  },
+  "9to5mac.com/2026/11/22/ios-27-has-a-clever-fix-for-unreliable-wi-fi-connections": {
+   "at": "2026-11-22T22:15:33.051131+00:00",
+   "title": "iOS 27 has a clever fix for unreliable Wi-Fi connections",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/22/ios-27-has-a-clever-fix-for-unreliable-wi-fi-connections/",
+   "score": 1,
+   "sources": 1,
+   "summary": "9to5Mac is brought to you by Tello Mobile.",
+   "title_ar": "iOS 17 يتضمن مصلحاً ذكياً لاتصالات Wi-Fi غير المستقرة"
   },
   "9to5mac.com/2026/11/22/macbook-neo-2-likely-to-launch-around-march-could-feature-new-colors-report": {
    "at": "2026-11-22T15:45:27.152060+00:00",
@@ -7547,17 +7547,6 @@
    "summary": "Ever since Microsoft first teased its next-generation console/PC hybrid last year, there's been a lot of speculation on what Project Helix even is.",
    "title_ar": ""
   },
-  "ign.com/articles/xbox-reveals-original-and-360-boot-up-options-for-25th-anniversary": {
-   "at": "2026-11-15T22:15:28.495060+00:00",
-   "title": "Xbox Reveals Original and 360 Boot-Up Options for 25th Anniversary",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.ign.com/articles/xbox-reveals-original-and-360-boot-up-options-for-25th-anniversary",
-   "score": 2,
-   "sources": 1,
-   "summary": "Microsoft has revealed three new nostalgic Xbox console boot-up options for Xbox Series X/S and Xbox One as part of a new update for the brand's 25th anniversary.",
-   "title_ar": "أكس بوكس تكشف عن خيارات التشغيل لجهازي Original و 360 بمناسبة الذكرى السنوية الـ 25"
-  },
   "ign.com/articles/you-can-now-buy-the-steam-machine-without-a-reservation-but-supplies-are-limited": {
    "at": "2026-11-20T00:00:45.009159+00:00",
    "title": "You Can Now Buy the Steam Machine Without a Reservation – But Supplies Are Limited",
@@ -13195,7 +13184,7 @@
   "AI": "2026-11-22T21:15:27.269281+00:00",
   "Anime": "2026-11-22T17:45:26.125345+00:00",
   "Games": "2026-11-22T12:15:37.092096+00:00",
-  "Tech": "2026-11-22T21:30:34.262424+00:00"
+  "Tech": "2026-11-22T22:15:33.051131+00:00"
  },
  "digest_day": "2026-11-22",
  "weekly_day": "2026-11-20"
