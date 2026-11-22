@@ -12299,6 +12299,17 @@
    "summary": "A huge discount on Amazon has brought the Gen 5 2TB Samsung 9100 Pro down to $349.99, an almost half-price saving compared to its list price.",
    "title_ar": ""
   },
+  "tomshardware.com/software/windows/17-year-old-windows-7-gets-unofficial-directx-12-and-vulkan-1-4-support-enthusiasts-bring-nvidia-rtx-50-amd-rx-9000-and-intel-arc-gpus-to-the-aging-os": {
+   "at": "2026-11-22T20:15:27.476055+00:00",
+   "title": "17-year-old Windows 7 gets unofficial DirectX 12 and Vulkan 1.4 support",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/software/windows/17-year-old-windows-7-gets-unofficial-directx-12-and-vulkan-1-4-support-enthusiasts-bring-nvidia-rtx-50-amd-rx-9000-and-intel-arc-gpus-to-the-aging-os",
+   "score": 1,
+   "sources": 1,
+   "summary": "A community-developed project brings DirectX 12 and Vulkan 1.4 support to Microsoft's retired operating system, allowing modern Nvidia, AMD, and Intel graphics cards to work with Windows 7.",
+   "title_ar": "نظام Windows 7 الذي يبلغ من العمر 17 عاماً يحصل على دعم غير رسمي لـ DirectX 12 و Vulkan 1.4"
+  },
   "tomshardware.com/software/windows/developer-vibe-codes-windows-11-alternative-operating-system-for-amd64-arm64-and-riscv64-hardware-libernt-is-a-free-64-bit-clone-promising-reliable-stable-and-efficient-performance": {
    "at": "2026-11-19T14:30:35.268004+00:00",
    "title": "Developer vibe codes Windows 11 alternative operating system for amd64, arm64, and riscv64 hardware",
@@ -13206,7 +13217,7 @@
   "AI": "2026-11-22T17:30:34.644514+00:00",
   "Anime": "2026-11-22T17:45:26.125345+00:00",
   "Games": "2026-11-22T12:15:37.092096+00:00",
-  "Tech": "2026-11-22T20:00:42.561780+00:00"
+  "Tech": "2026-11-22T20:15:27.476055+00:00"
  },
  "digest_day": "2026-11-22",
  "weekly_day": "2026-11-20"
