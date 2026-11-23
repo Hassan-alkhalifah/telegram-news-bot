@@ -23,17 +23,6 @@
    "summary": "Following a preview at Google I/O , Google is rolling out 66 new regional voices to the Gemini app on both Android and iOS today.",
    "title_ar": ""
   },
-  "9to5google.com/2026/11/16/google-ask-maps-itineraries": {
-   "at": "2026-11-16T14:15:27.693865+00:00",
-   "title": "Google Maps rolling out travel itineraries & list search for Ask Maps",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5google.com/2026/11/16/google-ask-maps-itineraries/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Ahead of the holiday season, Google Maps is launching a handy travel itineraries feature alongside a slew of other new capabilities for Ask Maps. more…",
-   "title_ar": ""
-  },
   "9to5google.com/2026/11/16/google-intelligent-eyewear-gentle-monster-android-xr-sold-out": {
    "at": "2026-11-16T19:15:28.268205+00:00",
    "title": "Google’s Intelligent Eyewear glasses from Gentle Monster are already sold out",
@@ -1662,6 +1651,17 @@
    "summary": "One of the most dramatic shifts in the AI landscape is the emergence of intelligent agents that can use iPhone and Mac apps in order to carry out tasks on our behalf.",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/23/jensen-huang-reinstated-as-ceo-of-nvidia-despite-companys-previous-statement": {
+   "at": "2026-11-23T14:15:28.309955+00:00",
+   "title": "Jensen Huang reinstated as CEO of Nvidia despite company’s previous statement",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/23/jensen-huang-reinstated-as-ceo-of-nvidia-despite-companys-previous-statement/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nvidia has announced that disgraced CEO Jensen Huang has been reinstated to the role, effective immediately.",
+   "title_ar": ""
+  },
   "animecorner.me/bang-dream-yumemita-gets-new-anime-series": {
    "at": "2026-11-20T15:00:58.715478+00:00",
    "title": "BanG Dream! Yume∞Mita Gets New Anime Series",
@@ -2795,15 +2795,15 @@
    "summary": "Google search is making it even easier to access AI tools on the search page.",
    "title_ar": ""
   },
-  "arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia": {
-   "at": "2026-11-16T14:15:27.693865+00:00",
-   "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+  "arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair": {
+   "at": "2026-11-23T14:15:28.309955+00:00",
+   "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
    "topic": "AI",
    "status": "duplicate",
-   "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+   "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
    "score": 0,
    "sources": 1,
-   "summary": "Huang is weighing a return just days after resigning amid a deepening scandal.",
+   "summary": "Board says senior government officials confirmed Huang is \"no national security risk.\"",
    "title_ar": ""
   },
   "arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers": {
@@ -8174,17 +8174,6 @@
    "summary": "It was a dangerous and wild journey that was almost cut short by alligators",
    "title_ar": ""
   },
-  "kotaku.com/jesen-huang-reportedly-goes-from-calling-himself-a-piece-of-sht-to-exploring-a-return-to-nvidia-2000757422": {
-   "at": "2026-11-16T14:15:27.693865+00:00",
-   "title": "Jesen Huang Reportedly Goes From Calling Himself A ‘Piece Of Sh*t’ To Exploring A Return To Nvidia",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/jesen-huang-reportedly-goes-from-calling-himself-a-piece-of-sht-to-exploring-a-return-to-nvidia-2000757422",
-   "score": 0,
-   "sources": 1,
-   "summary": "Have we seen the last of the leather jacket-wearing founder?",
-   "title_ar": ""
-  },
   "kotaku.com/live-updates-on-gta-6-the-biggest-launch-in-gaming-history-2000758030": {
    "at": "2026-11-18T16:00:50.103274+00:00",
    "title": "Live Updates On GTA 6: The Biggest Launch In Gaming History",
@@ -8228,6 +8217,17 @@
    "sources": 2,
    "summary": "Grand Theft Auto 6 doesn’t feature satirical websites because the emphasis was on social media and phone apps",
    "title_ar": "شبكة الإنترنت غير موجودة في GTA 6: \"لم نجدها ضرورية بالنسبة لنا\""
+  },
+  "kotaku.com/nvidia-makes-jensen-huang-ceo-again-just-days-after-saying-it-would-never-do-that-2000759433": {
+   "at": "2026-11-23T14:15:28.309955+00:00",
+   "title": "Nvidia Makes Jensen Huang CEO Again Just Days After Saying It Would Never Do That",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/nvidia-makes-jensen-huang-ceo-again-just-days-after-saying-it-would-never-do-that-2000759433",
+   "score": 0,
+   "sources": 1,
+   "summary": "The Board of Directors voted unanimously to bring back the man they fired",
+   "title_ar": ""
   },
   "kotaku.com/original-director-behind-marvels-failed-mahershala-ali-blade-movie-says-lifes-too-short-to-make-sht-films-2000759167": {
    "at": "2026-11-21T20:00:46.842546+00:00",
@@ -11111,6 +11111,17 @@
    "summary": "The Lean and Mathlib community has officially confirmed Levent Alpöge's proof of the Riemann hypothesis as correct.",
    "title_ar": ""
   },
+  "the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough": {
+   "at": "2026-11-23T14:15:28.309955+00:00",
+   "title": "Meta's Alexandr Wang warns the AI industry isn't ready for what's coming after Riemann breakthrough",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Meta's Chief AI Officer Alexandr Wang sees the recent AI-assisted proof sketch of the Riemann Hypothesis as a clear sign that superintelligence is right around the corner.",
+   "title_ar": "ألكسندر وانغ من Meta يحذر من أن قطاع الذكاء الاصطناعي ليس مستعداً لما هو قادم بعد إنجاز Riemann"
+  },
   "the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives": {
    "at": "2026-11-19T04:15:29.797667+00:00",
    "title": "Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives",
@@ -11506,17 +11517,6 @@
    "sources": 1,
    "summary": "Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, \"the Nvidia board unanimously accepted his resignation and does…",
    "title_ar": ""
-  },
-  "theverge.com/tech/1034110/google-ask-maps-ai-trip-planning": {
-   "at": "2026-11-16T14:15:27.693865+00:00",
-   "title": "Google Maps can now create trip itineraries for you",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
-   "score": 3,
-   "sources": 2,
-   "summary": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop.",
-   "title_ar": "تطبيق Google Maps يمكنه الآن إنشاء خطط للرحلات نيابة عنك"
   },
   "theverge.com/tech/1034192/robert-pattinson-james-bond": {
    "at": "2026-11-16T17:30:36.333074+00:00",
@@ -11923,6 +11923,17 @@
    "score": 2,
    "sources": 1,
    "summary": "Motorola's unannounced Moto Tag 3 has been listed for sale online, just five months after the Moto Tag 2 went on sale in the US, and before any official announcement of a follow-up.",
+   "title_ar": ""
+  },
+  "theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated": {
+   "at": "2026-11-23T14:15:28.309955+00:00",
+   "title": "Jensen Huang is back as Nvidia’s CEO",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nvidia has reinstated Jensen Huang as its CEO.",
    "title_ar": ""
   },
   "theverge.com/transportation/1034321/mercedes-benz-mb-drive-assist-pro-hands-free-highway-assist-2027": {
@@ -12375,6 +12386,17 @@
    "sources": 1,
    "summary": "The City of Memphis is making its first major investment, almost $3.3 million, through the Community Benefit Ordinance.",
    "title_ar": "ضخ 3.26 مليون دولار من إيرادات مركز بيانات الذكاء الاصطناعي التابع لـ SpaceX مرة أخرى في مدينة ممفيس"
+  },
+  "tomshardware.com/tech-industry/nvidia-reinstates-jensen-huang-as-ceo-following-unanimous-vote-by-company-board-11-day-exit-from-company-saw-stock-prices-fall-by-24-percent-after-affair-scandal": {
+   "at": "2026-11-23T14:15:28.309955+00:00",
+   "title": "Nvidia reinstates Jensen Huang as CEO following unanimous vote by company board",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/tech-industry/nvidia-reinstates-jensen-huang-as-ceo-following-unanimous-vote-by-company-board-11-day-exit-from-company-saw-stock-prices-fall-by-24-percent-after-affair-scandal",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nvidia has reinstated Jensen Huang.",
+   "title_ar": ""
   },
   "tomshardware.com/tech-industry/policy/nvidia-board-establishes-national-security-and-export-control-oversight-committee-in-wake-of-jensen-huang-scandal-group-to-work-with-independent-law-national-security-and-trade-compliance-experts": {
    "at": "2026-11-17T11:30:33.823093+00:00",
@@ -13005,7 +13027,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-23T13:30:35.007374+00:00",
+  "AI": "2026-11-23T14:15:28.309955+00:00",
   "Anime": "2026-11-23T11:30:34.634511+00:00",
   "Games": "2026-11-23T13:45:29.387367+00:00",
   "Tech": "2026-11-23T14:00:51.937032+00:00"
