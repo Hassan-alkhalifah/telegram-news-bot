@@ -3631,17 +3631,6 @@
    "summary": "Editing the AI's memory is one way you can shape its responses.",
    "title_ar": "يمكنك الآن رؤية وتعديل ما يتذكره Google Gemini عنك"
   },
-  "engadget.com/2316714/instagram-will-let-creators-add-amazon-affiliate-links-directly-to-their-posts-and-reels": {
-   "at": "2026-11-16T17:00:55.773105+00:00",
-   "title": "Instagram will let creators add Amazon affiliate links directly to their posts and Reels",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2316714/instagram-will-let-creators-add-amazon-affiliate-links-directly-to-their-posts-and-reels/",
-   "score": 3,
-   "sources": 2,
-   "summary": "The app will become even more of a shopping mall, just in time for Black Friday.",
-   "title_ar": "تطبيق Instagram سيسمح لصناع المحتوى بإضافة روابط عملاء Amazon مباشرة إلى منشوراتهم وReels"
-  },
   "engadget.com/2317417/google-adds-66-regional-dialects-to-gemini": {
    "at": "2026-11-16T17:45:30.575392+00:00",
    "title": "Google adds 66 regional dialects to Gemini",
@@ -4487,6 +4476,17 @@
    "score": 0,
    "sources": 1,
    "summary": "So much for the board not intending to bring him back.",
+   "title_ar": ""
+  },
+  "engadget.com/2325245/google-is-finally-retiring-the-nest-app-early-next-year": {
+   "at": "2026-11-23T17:15:39.309842+00:00",
+   "title": "Google is finally retiring the Nest app early next year",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2325245/google-is-finally-retiring-the-nest-app-early-next-year/",
+   "score": 0,
+   "sources": 1,
+   "summary": "It's also removing Google Assistant from smart speakers and displays.",
    "title_ar": ""
   },
   "eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed": {
@@ -5532,17 +5532,6 @@
    "score": 0,
    "sources": 1,
    "summary": "On the eve of GTA 6' s official launch on November 19, Sony's PlayStation Network appears to be facing some issues, at least for some people, at some point, today.",
-   "title_ar": ""
-  },
-  "gamespot.com/articles/rockstar-could-have-released-gta-6-sooner-as-gta-5-5-but-you-have-to-take-big-swings": {
-   "at": "2026-11-16T17:00:55.773105+00:00",
-   "title": "Rockstar Could Have Released GTA 6 Sooner As GTA 5.5, But “You Have To Take Big Swings”",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gamespot.com/articles/rockstar-could-have-released-gta-6-sooner-as-gta-5-5-but-you-have-to-take-big-swings/",
-   "score": 0,
-   "sources": 1,
-   "summary": "After years of development, multiple delays, and loads of hype, Rockstar Games is finally releasing Grand Theft Auto 6 on November 19.",
    "title_ar": ""
   },
   "gamespot.com/articles/somehow-jensen-huang-returned": {
@@ -10209,17 +10198,6 @@
    "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S.",
    "title_ar": "مكتب التحقيقات الفيدرالي يقول إن أداة الاختراق مفتوحة المصدر Artex AI استُخدمت لاختراق الشبكات في \"أقل من ثلاث ساعات\""
   },
-  "techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts": {
-   "at": "2026-11-16T17:00:55.773105+00:00",
-   "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/",
-   "score": 0,
-   "sources": 1,
-   "summary": "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.",
-   "title_ar": ""
-  },
   "techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam": {
    "at": "2026-11-16T18:45:27.900329+00:00",
    "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
@@ -10230,17 +10208,6 @@
    "sources": 1,
    "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
    "title_ar": "OpenAI تطلق تصنيفاً جديداً للصور وتحذيرات في ChatGPT لمكافحة المحتوى الجنسي للأطفال"
-  },
-  "techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion": {
-   "at": "2026-11-16T17:15:28.791533+00:00",
-   "title": "OpenAI will embed Apollo researchers to investigate AI subversion",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-   "score": 1,
-   "sources": 1,
-   "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-   "title_ar": "OpenAI ستدمج باحثين من Apollo للتحقيق في التخريب المرتبط بالذكاء الاصطناعي"
   },
   "techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine": {
    "at": "2026-11-16T18:15:27.684104+00:00",
@@ -10923,6 +10890,17 @@
    "sources": 1,
    "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
    "title_ar": "كبير العلماء في OpenAI لديه أفكار حول كيفية الحد من تطوير الذكاء الاصطناعي"
+  },
+  "techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious": {
+   "at": "2026-11-23T17:15:39.309842+00:00",
+   "title": "Meta throws out its net-zero goal. Its competitors should be furious",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Meta walked back its 2030 net zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
+   "title_ar": "Meta تتخلى عن هدف الانبعاثات الصفرية، ومنافساها يجب أن يشعروا بالغضب"
   },
   "techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo": {
    "at": "2026-11-23T14:30:36.963245+00:00",
@@ -12673,6 +12651,17 @@
    "summary": "Until now, a Sony published game had made it into the GOTY noms since 2015",
    "title_ar": ""
   },
+  "videogameschronicle.com/news/grand-theft-auto-6-has-received-a-new-patch-which-fixes-autosaving": {
+   "at": "2026-11-23T17:15:39.309842+00:00",
+   "title": "Grand Theft Auto 6 has received a new update which fixes autosaving",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.videogameschronicle.com/news/grand-theft-auto-6-has-received-a-new-patch-which-fixes-autosaving/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The new patch fixes other bugs, including being unable to lose Wanted Levels",
+   "title_ar": ""
+  },
   "videogameschronicle.com/news/grand-theft-auto-6-is-currently-the-highest-scoring-video-game-of-all-time-according-to-metacritic": {
    "at": "2026-11-18T11:30:33.937179+00:00",
    "title": "Grand Theft Auto 6 is currently the highest scoring video game of all time, according to Metacritic",
@@ -13129,7 +13118,7 @@
   "AI": "2026-11-23T16:00:44.821504+00:00",
   "Anime": "2026-11-23T16:30:44.151198+00:00",
   "Games": "2026-11-23T17:00:44.895857+00:00",
-  "Tech": "2026-11-23T16:45:30.148249+00:00"
+  "Tech": "2026-11-23T17:15:39.309842+00:00"
  },
  "digest_day": "2026-11-22",
  "weekly_day": "2026-11-20"
