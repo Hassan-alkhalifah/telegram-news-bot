@@ -661,28 +661,6 @@
    "summary": "Bloomberg reports that Apple lifer Corey Fugman will replace Jennifer Bailey as the head of the Apple Pay and Wallet division.",
    "title_ar": "استمرار تغييرات القيادة في Apple مع تعيين مسؤول جديد لـ Apple Pay وWallet"
   },
-  "9to5mac.com/2026/11/16/everything-new-in-ios-27-3-beta-2-so-far": {
-   "at": "2026-11-16T19:30:36.541129+00:00",
-   "title": "Everything new in iOS 27.3 beta 2",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/16/everything-new-in-ios-27-3-beta-2-so-far/",
-   "score": 0,
-   "sources": 1,
-   "summary": "iOS 27.3 beta 2 is here.",
-   "title_ar": ""
-  },
-  "9to5mac.com/2026/11/16/first-macos-sequoia-15-8-4-and-macos-tahoe-26-7-4-rcs-rolling-out": {
-   "at": "2026-11-16T19:30:36.541129+00:00",
-   "title": "First macOS Sequoia 15.8.4 and macOS Tahoe 26.7.4 RCs rolling out",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/16/first-macos-sequoia-15-8-4-and-macos-tahoe-26-7-4-rcs-rolling-out/",
-   "score": 0,
-   "sources": 1,
-   "summary": "In addition to macOS 27.3 beta 2 , Apple is also rolling out the first Release Candidates for macOS Sequoia 15.8.4 and macOS Tahoe 26.7.4.",
-   "title_ar": ""
-  },
   "9to5mac.com/2026/11/16/former-apple-chairman-arthur-levinson-files-to-sell-31-8-million-in-company-stock": {
    "at": "2026-11-17T02:30:36.736099+00:00",
    "title": "Former Apple chairman Arthur Levinson files to sell $31.8 million in company stock",
@@ -693,17 +671,6 @@
    "sources": 1,
    "summary": "Arthur Levinson, who currently serves as Apple’s lead independent director, informed the SEC today of his plans to sell 90,000 shares of Apple stock worth approximately $31.8 million.",
    "title_ar": "الرئيس السابق لشركة Apple آرثر ليفينسون يتقدم بطلب لبيع أسهم في الشركة بقيمة 31.8 مليون دولار"
-  },
-  "9to5mac.com/2026/11/16/ios-27-3-brings-vertical-video-and-video-podcasts-to-apple-tv-app": {
-   "at": "2026-11-16T19:30:36.541129+00:00",
-   "title": "iOS 27.3 brings vertical video and video podcasts to Apple TV app",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/16/ios-27-3-brings-vertical-video-and-video-podcasts-to-apple-tv-app/",
-   "score": 0,
-   "sources": 1,
-   "summary": "iOS 27.3 beta 2 debuted today and includes two new types of video in the Apple TV app: vertical ‘clips’ and video podcasts. more…",
-   "title_ar": ""
   },
   "9to5mac.com/2026/11/16/iphone-duo-gets-one-of-face-ids-best-features-with-upcoming-ios-27-3-update": {
    "at": "2026-11-17T03:30:48.012844+00:00",
@@ -748,17 +715,6 @@
    "sources": 1,
    "summary": "Apple TV today celebrated two Grammy nominations, one of which further establishes a canceled show as an unlikely awards success story.",
    "title_ar": "حصول مسلسلي Schmigadoon و Widow’s Bay على ترشيحين لجائزة Grammy لصالح Apple TV"
-  },
-  "9to5mac.com/2026/11/16/siri-ai-health-app-questions-ios-27": {
-   "at": "2026-11-16T19:30:36.541129+00:00",
-   "title": "You can now ask Siri AI questions about your health data, with iOS 27.3 beta 2",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/16/siri-ai-health-app-questions-ios-27/",
-   "score": 0,
-   "sources": 1,
-   "summary": "While Siri AI expanded on what kinds of things you can ask Apple’s voice assistant in many ways, one area where the system took a step back was health data.",
-   "title_ar": ""
   },
   "9to5mac.com/2026/11/16/tvos-27-3-beta-2-brings-siri-ai-to-apple-tv-beta-testers": {
    "at": "2026-11-17T01:45:28.224020+00:00",
@@ -2816,6 +2772,17 @@
    "sources": 1,
    "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
    "title_ar": "روبوت Grok اتخذ إجراءات غير معتمدة، وتجاهل أوامر التوقف، ثم أنكر ذلك"
+  },
+  "arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages": {
+   "at": "2026-11-23T19:45:27.670567+00:00",
+   "title": "Amazon fights Delivery Protection Act by putting stickers on its packages",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Amazon now uses its packages for political purposes.",
+   "title_ar": ""
   },
   "arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up": {
    "at": "2026-11-19T22:30:34.878537+00:00",
@@ -5159,6 +5126,17 @@
    "sources": 1,
    "summary": "The video game industry's woes continue as Take-Two's 2K division has confirmed that one third of the staff at Civilization and XCOM developer Firaxis Games is being laid off.",
    "title_ar": ""
+  },
+  "gamespot.com/articles/cyberpunk-2-is-canceled-director-jokes-after-gta-6-raises-the-bar": {
+   "at": "2026-11-23T19:45:27.670567+00:00",
+   "title": "Cyberpunk 2 Is Canceled, Director Jokes, After GTA 6 Raises The Bar",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.gamespot.com/articles/cyberpunk-2-is-canceled-director-jokes-after-gta-6-raises-the-bar/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Grand Theft Auto 6 has raised the bar for open-world games, and Cyberpunk 2 creative director Igor Sarzyński is feeling it.",
+   "title_ar": "مخرج Cyberpunk 2 يمزح بإلغاء اللعبة بعد أن رفعت GTA 6 سقف التوقعات"
   },
   "gamespot.com/articles/deborah-ann-woll-reprising-role-as-god-of-wars-faye-in-prime-videos-tv-show": {
    "at": "2026-11-23T18:30:36.354437+00:00",
@@ -10055,17 +10033,6 @@
    "summary": "Nvidia interim CEO and long-time CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third quarter results.",
    "title_ar": "جميع الأسئلة التي يجب على Nvidia الإجابة عليها يوم الثلاثاء - ولكنها على الأرجح لن تفعل ذلك"
   },
-  "techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id": {
-   "at": "2026-11-16T19:30:36.541129+00:00",
-   "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.",
-   "title_ar": ""
-  },
   "techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks": {
    "at": "2026-11-16T21:01:26.567559+00:00",
    "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
@@ -10814,6 +10781,17 @@
    "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia": {
+   "at": "2026-11-23T19:45:27.670567+00:00",
+   "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Politicians on both side of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.",
+   "title_ar": ""
+  },
   "techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing": {
    "at": "2026-11-23T15:15:29.725530+00:00",
    "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
@@ -11210,17 +11188,6 @@
    "summary": "OpenAI chief scientist Jakub Pachocki has released internal perplexity scores for the entire GPT series for the first time, up to an unreleased model beyond the current generation.",
    "title_ar": ""
   },
-  "the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice": {
-   "at": "2026-11-16T19:30:36.541129+00:00",
-   "title": "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/",
-   "score": 1,
-   "sources": 1,
-   "summary": "OpenAI physicist Nathaniel Craig used GPT-6 Astra to tackle a problem that had stumped particle physicists for over 25 years.",
-   "title_ar": "نموذج OpenAI المسمى GPT-6 Astra يعالج أصعب مسألة رياضية في النموذج المعياري على شبكة بلورية"
-  },
   "the-decoder.com/openais-own-researchers-now-say-they-value-their-ai-tools-more-than-nearly-half-their-colleagues": {
    "at": "2026-11-19T13:15:43.819973+00:00",
    "title": "OpenAI's own researchers now say they value their AI tools more than nearly half their colleagues",
@@ -11527,17 +11494,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, \"the Nvidia board unanimously accepted his resignation and does…",
-   "title_ar": ""
-  },
-  "theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription": {
-   "at": "2026-11-16T19:30:36.541129+00:00",
-   "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features…",
    "title_ar": ""
   },
   "theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories": {
@@ -12996,7 +12952,7 @@
  "topic_last_posted": {
   "AI": "2026-11-23T19:00:41.499044+00:00",
   "Anime": "2026-11-23T16:30:44.151198+00:00",
-  "Games": "2026-11-23T19:15:28.120416+00:00",
+  "Games": "2026-11-23T19:45:27.670567+00:00",
   "Tech": "2026-11-23T19:30:36.152676+00:00"
  },
  "digest_day": "2026-11-23",
