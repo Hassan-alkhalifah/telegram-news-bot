@@ -8812,6 +8812,17 @@
    "summary": "The 52nd issue of Weekly Shounen Jump magazine began serializing a new manga by Hitsuji Gondaira, titled Ginza Uradoori Kouban no Hizuki-san (Hizuki of the Ginza Patrol), on Monday.",
    "title_ar": "مبتكر Yozakura-san Chi no Daisakusen يطلق مانغا جديدة"
   },
+  "myanimelist.net/news/74972403?_location=rss": {
+   "at": "2026-11-23T11:15:28.380472+00:00",
+   "title": "'Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made' Announces Additional Cast",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://myanimelist.net/news/74972403?_location=rss",
+   "score": 0,
+   "sources": 1,
+   "summary": "The official website for the television anime adaptation of Haka Tokura and Shin Arakawa's Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made (Magical Buffs: The Support Caster Is Stronger…",
+   "title_ar": ""
+  },
   "nintendolife.com/news/2026/11/8bitdo-reveals-its-own-gamecube-controller-for-switch-2": {
    "at": "2026-11-18T16:45:45.744480+00:00",
    "title": "8BitDo Reveals Its Own GameCube Controller For Switch 2",
@@ -9118,6 +9129,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Gold Gauntlets turn Silver.",
+   "title_ar": ""
+  },
+  "nintendolife.com/news/2026/11/woke-up-to-a-st-show-binding-of-isaac-dev-shocked-to-find-genai-music-in-repentanceplus": {
+   "at": "2026-11-23T11:15:28.380472+00:00",
+   "title": "\"Woke Up To A S**t Show\" - Binding Of Isaac Dev Shocked To Find GenAI Music In 'Repentance+'",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/woke-up-to-a-st-show-binding-of-isaac-dev-shocked-to-find-genai-music-in-repentanceplus",
+   "score": 0,
+   "sources": 1,
+   "summary": "A weekend of review bombing.",
    "title_ar": ""
   },
   "nintendolife.com/news/2026/11/zelda-ocarina-of-time-remake-crowned-2026s-best-selling-physical-video-game-in-the-us": {
@@ -12233,6 +12255,17 @@
    "summary": "A Reddit homelabber’s Optane PMem 200 server now runs Moonshot AI’s Kimi K3 at 3.11 tokens/s with two RTX 3090s and a RAM drive.",
    "title_ar": "مدمج مختبر منزلي للجيل الثاني من Optane يتيح بطاقتي RTX 3090 لتشغيل نموذج الذكاء الاصطناعي Kimi بـ 2.8 تريليون معلمة بسرعة 3.11 رمز في الثانية"
   },
+  "tomshardware.com/tech-industry/artificial-intelligence/homelabbers-usd3-500-build-straps-four-32gb-nvidia-v100s-to-a-lenovo-mini-pc-for-128gb-of-vram-coreboot-oculink-docks-and-a-solder-bridge-unlock-285-tokens-sec-in-qwen3-8-27b": {
+   "at": "2026-11-23T11:15:28.380472+00:00",
+   "title": "Homelabber's $3,500 build straps four 32GB Nvidia V100s to a Lenovo mini PC for 128GB of VRAM",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabbers-usd3-500-build-straps-four-32gb-nvidia-v100s-to-a-lenovo-mini-pc-for-128gb-of-vram-coreboot-oculink-docks-and-a-solder-bridge-unlock-285-tokens-sec-in-qwen3-8-27b",
+   "score": 1,
+   "sources": 1,
+   "summary": "A homelab builder runs four used Nvidia Tesla V100 32GB GPUs off a Lenovo ThinkCentre M720q Tiny over OCuLink for 128GB of VRAM.",
+   "title_ar": "بناء منزلي بقيمة 3500 دولار يربط أربع بطاقات Nvidia V100 بسعة 32 جيجابايت بحاسوب Lenovo مصغر لتوفير 128 جيجابايت من ذاكرة الفيديو العشوائية"
+  },
   "tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-could-be-plotting-return-as-nvidia-ceo-report-claims-allies-have-formed-a-war-room-to-drive-reinstatement-days-after-resignation-scandal": {
    "at": "2026-11-16T12:45:32.036008+00:00",
    "title": "Jensen Huang could be plotting return as Nvidia CEO, report claims",
@@ -13096,7 +13129,7 @@
   "AI": "2026-11-23T01:30:36.371011+00:00",
   "Anime": "2026-11-23T10:00:53.331607+00:00",
   "Games": "2026-11-23T11:00:52.438671+00:00",
-  "Tech": "2026-11-23T10:45:35.801589+00:00"
+  "Tech": "2026-11-23T11:15:28.380472+00:00"
  },
  "digest_day": "2026-11-22",
  "weekly_day": "2026-11-20"
