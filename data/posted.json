@@ -1838,17 +1838,6 @@
    "summary": "Ortrans debuts on January 21",
    "title_ar": "Tetsuya Tsutsui يطلق مانغا Ortrans جديدة"
   },
-  "animenewsnetwork.com/news/2026-11-16/ultraman-teo-actress-noa-nekada-dies-at-23/.243868": {
-   "at": "2026-11-16T21:15:30.071691+00:00",
-   "title": "Ultraman Teo Actress Noa Nekada Dies at 23",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-16/ultraman-teo-actress-noa-nekada-dies-at-23/.243868",
-   "score": 1,
-   "sources": 1,
-   "summary": "Ongoing Ultraman Teo series will broadcast as planned with Nekada's already-filmed scenes",
-   "title_ar": "وفاة الممثلة Noa Nekada بطلة مسلسل Ultraman Teo عن عمر 23 عاماً"
-  },
   "animenewsnetwork.com/news/2026-11-17/arika-director-software-development-head-game-programmer-akira-kurabayashi-dies/.243908": {
    "at": "2026-11-17T18:30:39.355161+00:00",
    "title": "ARIKA Director, Software Development Head, Game Programmer Akira Kurabayashi Dies",
@@ -4444,6 +4433,17 @@
    "sources": 1,
    "summary": "It's going to be a busy few days in Washington DC for the freshly reinstated CEO.",
    "title_ar": ""
+  },
+  "engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau": {
+   "at": "2026-11-23T21:30:33.327316+00:00",
+   "title": "New leaks reveal the iPhone 18e will have a redesigned camera plateau",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/",
+   "score": 2,
+   "sources": 1,
+   "summary": "We've also got further confirmation the iPhone Air 2 will have a second camera lens.",
+   "title_ar": "تسريبات جديدة تكشف أن iPhone 18e سيأتي بتصميم جديد لمنصة الكاميرا"
   },
   "eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed": {
    "at": "2026-11-22T17:30:34.644514+00:00",
@@ -7294,17 +7294,6 @@
    "summary": "The internet is reacting to Jensen Huang's shock return as Nvidia CEO.",
    "title_ar": ""
   },
-  "ign.com/articles/this-is-akin-to-a-moon-landing-how-gamings-top-content-creators-are-preparing-for-gta-6s-launch-and-beyond": {
-   "at": "2026-11-16T21:15:30.071691+00:00",
-   "title": "'This Is Akin to a Moon Landing': How Gaming's Top Content Creators Are Preparing for GTA 6's Launch and Beyond",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/this-is-akin-to-a-moon-landing-how-gamings-top-content-creators-are-preparing-for-gta-6s-launch-and-beyond",
-   "score": 0,
-   "sources": 1,
-   "summary": "GTA 6 is finally almost here, and the world's biggest content creators are trying to figure out how to handle this behemoth.",
-   "title_ar": ""
-  },
   "ign.com/articles/ubisoft-creates-generative-ai-game-studio-called-motherbrain": {
    "at": "2026-11-19T22:15:26.512721+00:00",
    "title": "Ubisoft Creates Generative AI Game Studio Called Motherbrain",
@@ -9351,6 +9340,17 @@
    "summary": "I think most players will find Mandy.",
    "title_ar": "الممثلة التي تؤدي دور Mandy في لعبة GTA 6 تكشف عن نفسها: (إذا لعبتم اللعبة، فأخبروني إن وجدتموني)"
   },
+  "pcgamer.com/games/grand-theft-auto/the-grand-theft-auto-6-hacker-who-was-hospitalized-in-2023-has-been-released-on-parole-with-a-warning-not-to-do-it-again": {
+   "at": "2026-11-23T21:30:33.327316+00:00",
+   "title": "The Grand Theft Auto 6 hacker who was hospitalized in 2023 has been released on parole with a warning not to do it again",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/games/grand-theft-auto/the-grand-theft-auto-6-hacker-who-was-hospitalized-in-2023-has-been-released-on-parole-with-a-warning-not-to-do-it-again/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Following his guilty plea, Arion Kurtaj was given a seven-year sentence but released \"on license\" with a warning and restrictions to his online activity..",
+   "title_ar": ""
+  },
   "pcgamer.com/games/grand-theft-auto/they-would-never-stop-working-on-this-game-gta-6s-development-couldve-gone-on-for-longer-just-because-its-really-hard-to-close-it-down": {
    "at": "2026-11-17T18:15:28.079161+00:00",
    "title": "'They would never stop working on this game': GTA 6's development could've gone on for longer just because 'it's really hard to close it down'",
@@ -11265,17 +11265,6 @@
    "summary": "Anthropic mathematician Levent Alpöge claims he has solved the Riemann hypothesis, one of mathematics' most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded…",
    "title_ar": "رياضياتي في شركة Anthropic يدعي حل إحدى مسائل جائزة الألفية الشهيرة بمساعدة Claude"
   },
-  "theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor": {
-   "at": "2026-11-16T21:15:30.071691+00:00",
-   "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-   "score": 1,
-   "sources": 1,
-   "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases.",
-   "title_ar": "سام ألتمان يقول إنه يريد للجميع \"أن يمتلكوا الكثير من الذاكرة العشوائية RAM\""
-  },
   "theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq": {
    "at": "2026-11-20T00:30:34.666784+00:00",
    "title": "Anthropic starts trading on Wall Street",
@@ -11373,6 +11362,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Robert Pattinson's casting as James Bond made enough sense given his recent work with director Denis Villeneuve, who's making the franchise's next film over at Amazon.",
+   "title_ar": ""
+  },
+  "theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv": {
+   "at": "2026-11-23T21:30:33.327316+00:00",
+   "title": "Apple renews Ted Lasso for season 5",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
+   "score": 0,
+   "sources": 1,
+   "summary": "One of Apple's biggest shows is sticking around for at least one more season.",
    "title_ar": ""
   },
   "theverge.com/gadgets/1034881/the-verge-best-of-2026": {
@@ -12975,7 +12975,7 @@
   "AI": "2026-11-23T21:00:40.293618+00:00",
   "Anime": "2026-11-23T20:30:36.394673+00:00",
   "Games": "2026-11-23T19:45:27.670567+00:00",
-  "Tech": "2026-11-23T21:15:26.278479+00:00"
+  "Tech": "2026-11-23T21:30:33.327316+00:00"
  },
  "digest_day": "2026-11-23",
  "weekly_day": "2026-11-20"
