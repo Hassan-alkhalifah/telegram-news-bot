@@ -2795,6 +2795,17 @@
    "summary": "New trailer: ufotable updated 67 minutes for premium screenings starting on Friday",
    "title_ar": ""
   },
+  "animenewsnetwork.com/news/2026-11-23/magical-buffs-anime-announces-3-more-cast-members/.244111": {
+   "at": "2026-11-23T11:30:34.634511+00:00",
+   "title": "Magical Buffs Anime Announces 3 More Cast Members",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-23/magical-buffs-anime-announces-3-more-cast-members/.244111",
+   "score": 1,
+   "sources": 1,
+   "summary": "Yūki Hirose, Natsumi Takamori, Yuka Nukui join anime debuting on January 4",
+   "title_ar": "أنمي Magical Buffs يعلن عن انضمام 3 أعضاء جدد لطاقم الأداء الصوتي"
+  },
   "arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history": {
    "at": "2026-11-17T17:15:33.141500+00:00",
    "title": "Google makes it easier to use Gemini without training AI on your data",
@@ -5730,17 +5741,6 @@
    "score": 0,
    "sources": 1,
    "summary": "No one knows yet exactly what the next-gen Xbox console, Project Helix , will be, but most people are convinced it won't be cheap.",
-   "title_ar": ""
-  },
-  "gamespot.com/articles/xbox-project-helix-is-a-console-that-plays-pc-games-not-the-other-way-around": {
-   "at": "2026-11-16T11:15:29.411401+00:00",
-   "title": "Xbox Project Helix Is A Console That Plays PC Games, Not The Other Way Around",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gamespot.com/articles/xbox-project-helix-is-a-console-that-plays-pc-games-not-the-other-way-around/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Xbox has revealed more details about its next-gen device, Project Helix , describing it as a \"console capable of playing games from your PC.\" Prominently featured in the Xbox 25th Anniversary…",
    "title_ar": ""
   },
   "gamespot.com/articles/you-can-play-grand-theft-auto-6-at-60fps-using-this-absurdly-complicated-method": {
@@ -12299,17 +12299,6 @@
    "summary": "The Bureau of Industry and Security has announced a new interim final rule to ensure restrictions on the export of physical AI hardware cannot be bypassed by accessing it remotely in data centers…",
    "title_ar": ""
   },
-  "tomshardware.com/tech-industry/artificial-intelligence/nvidia-amassed-usd530-billion-in-financial-guarantees-to-corner-the-ai-market-supply-commitments-rose-by-nearly-a-quarter-of-a-trillion-dollars-in-a-single-quarter": {
-   "at": "2026-11-16T11:15:29.411401+00:00",
-   "title": "Nvidia amassed $530 billion in financial guarantees to corner the AI market — supply commitments rose by nearly a quarter of a trillion dollars in a single quarter",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-amassed-usd530-billion-in-financial-guarantees-to-corner-the-ai-market-supply-commitments-rose-by-nearly-a-quarter-of-a-trillion-dollars-in-a-single-quarter",
-   "score": 2,
-   "sources": 1,
-   "summary": "Nvidia amassed $530 billion in financial guarantees to corner the AI market",
-   "title_ar": "Nvidia تجمع ضمانات مالية بقيمة 530 مليار دولار للسيطرة على سوق الذكاء الاصطناعي — التزامات التوريد ترتفع بنحو ربع تريليون دولار في ربع سنوي واحد"
-  },
   "tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus": {
    "at": "2026-11-20T10:45:27.920153+00:00",
    "title": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helped Lisa Su's outfit boost its new CPUs",
@@ -13102,17 +13091,6 @@
    "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
    "title_ar": "\"كذب\" Jensen Huang أثار قلق مجلس إدارة Nvidia قبيل استقالته"
   },
-  "wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess": {
-   "at": "2026-11-16T11:15:29.411401+00:00",
-   "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
-   "score": 0,
-   "sources": 1,
-   "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
-   "title_ar": ""
-  },
   "wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang": {
    "at": "2026-11-17T22:30:40.650802+00:00",
    "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
@@ -13127,7 +13105,7 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-23T01:30:36.371011+00:00",
-  "Anime": "2026-11-23T10:00:53.331607+00:00",
+  "Anime": "2026-11-23T11:30:34.634511+00:00",
   "Games": "2026-11-23T11:00:52.438671+00:00",
   "Tech": "2026-11-23T11:15:28.380472+00:00"
  },
