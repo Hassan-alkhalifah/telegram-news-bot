@@ -595,6 +595,17 @@
    "summary": "Google this weekend rolled out the latest update to Pixel Weather with a new reporting feature and small interface tweaks. more…",
    "title_ar": "تطبيق Pixel Weather يطلق ميزة \"الإبلاغ عن الطقس الحالي\" لـ \"تحسين التنبؤات المحلية\""
   },
+  "9to5google.com/2026/11/23/ai-mode-wallet-gemini": {
+   "at": "2026-11-23T17:45:29.489626+00:00",
+   "title": "AI Mode adding Google Drive, Wallet, & Gemini app integration",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/23/ai-mode-wallet-gemini/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Personal Intelligence in AI Mode is expanding today with Google Drive, Wallet, and even Gemini app integrations. more…",
+   "title_ar": "وضع الذكاء الاصطناعي يضيف تكاملاً مع Google Drive وWallet وتطبيق Gemini"
+  },
   "9to5google.com/2026/11/23/oneplus-us-website-shuts-down": {
    "at": "2026-11-23T15:45:28.235141+00:00",
    "title": "OnePlus starts shutting down its website to ‘focus on customer support’",
@@ -6953,6 +6964,17 @@
    "summary": "Rockstar has revealed a new batch of GTA 6 screenshots – and even a Weather Channel forecast – showcasing Leonida's dynamic weather.",
    "title_ar": ""
   },
+  "ign.com/articles/gta-6-hacker-free-after-time-served-over-2022-cyber-attack": {
+   "at": "2026-11-23T17:45:29.489626+00:00",
+   "title": "Judge Lets Hacker Behind Massive GTA 6 Leak of 2022 Go Free With a Warning: 'Don't Let This Happen Again'",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/gta-6-hacker-free-after-time-served-over-2022-cyber-attack",
+   "score": 0,
+   "sources": 1,
+   "summary": "The hacker behind the massive GTA 6 leak in September 2022 has been released on license with a strong warning from the judge.",
+   "title_ar": ""
+  },
   "ign.com/articles/gta-6-has-only-been-out-for-a-day-and-people-are-already-asking-take-twos-boss-about-gta-7": {
    "at": "2026-11-20T18:30:42.309899+00:00",
    "title": "GTA 6 Has Only Been Out For a Day and People Are Already Asking Take-Two's Boss About GTA 7",
@@ -13107,7 +13129,7 @@
   "AI": "2026-11-23T16:00:44.821504+00:00",
   "Anime": "2026-11-23T16:30:44.151198+00:00",
   "Games": "2026-11-23T17:30:38.574815+00:00",
-  "Tech": "2026-11-23T17:15:39.309842+00:00"
+  "Tech": "2026-11-23T17:45:29.489626+00:00"
  },
  "digest_day": "2026-11-22",
  "weekly_day": "2026-11-20"
