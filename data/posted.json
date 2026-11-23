@@ -1871,17 +1871,6 @@
    "summary": "Hiroshi Tachi, Jin Shirasu, Rui Kurihara, Haruki Mochizuki, Tomu Miyazaki, 3 more join cast",
    "title_ar": "الإعلان عن طاقم تمثيل إضافي وموعد العرض في 10 يناير لمسلسل الواقع الحقيقي Twisted Sisters"
   },
-  "animenewsnetwork.com/news/2026-11-16/tetsuya-tsutsui-launches-new-ortrans-manga/.243867": {
-   "at": "2026-11-16T23:15:32.491737+00:00",
-   "title": "Tetsuya Tsutsui Launches New Ortrans Manga",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-16/tetsuya-tsutsui-launches-new-ortrans-manga/.243867",
-   "score": 1,
-   "sources": 1,
-   "summary": "Ortrans debuts on January 21",
-   "title_ar": "Tetsuya Tsutsui يطلق مانغا Ortrans جديدة"
-  },
   "animenewsnetwork.com/news/2026-11-17/arika-director-software-development-head-game-programmer-akira-kurabayashi-dies/.243908": {
    "at": "2026-11-17T18:30:39.355161+00:00",
    "title": "ARIKA Director, Software Development Head, Game Programmer Akira Kurabayashi Dies",
@@ -5666,17 +5655,6 @@
    "summary": "Akira Kurabayashi, a company director and head of the software development division at ARIKA, passed …",
    "title_ar": "وفاة المدير في شركة ARIKA، Akira Kurabayashi"
   },
-  "gematsu.com/2026/11/book-nook-launches-december-1-for-pc-later-for-switch": {
-   "at": "2026-11-16T23:15:32.491737+00:00",
-   "title": "Book Nook launches December 1 for PC, later for Switch",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gematsu.com/2026/11/book-nook-launches-december-1-for-pc-later-for-switch",
-   "score": 0,
-   "sources": 1,
-   "summary": "Cozy diorama crafting game Book Nook will launch for PC via Steam on December 1, …",
-   "title_ar": ""
-  },
   "gematsu.com/2026/11/console-archives-the-firemen-2-pete-danny-launches-november-19": {
    "at": "2026-11-18T18:15:29.300227+00:00",
    "title": "Console Archives The Firemen 2: Pete & Danny launches November 19",
@@ -6281,6 +6259,17 @@
    "sources": 1,
    "summary": "Apple's 20th anniversary iPhones, expected next year, are rumored to bring a quad-curved front glass with extremely slim bezels, but it now looks like Samsung may want to get there first.",
    "title_ar": ""
+  },
+  "gsmarena.com/samsung_details_the_tech_behind_the_galaxy_smarttag3s_longer_finding_range-news-75596.php": {
+   "at": "2026-11-23T23:15:39.480052+00:00",
+   "title": "Samsung details the tech behind the Galaxy SmartTag3's longer finding range",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.gsmarena.com/samsung_details_the_tech_behind_the_galaxy_smarttag3s_longer_finding_range-news-75596.php",
+   "score": 1,
+   "sources": 1,
+   "summary": "Samsung announced the Galaxy SmartTag3 back in late September, and the tracker went on sale in the US earlier this month.",
+   "title_ar": "سامسونج توضح التقنية الكامنة وراء نطاق البحث الأطول في Galaxy SmartTag3"
   },
   "gsmarena.com/samsung_galaxy_a24_4g_gets_one_ui_9_based_on_android_17-news-75517.php": {
    "at": "2026-11-18T06:45:30.159636+00:00",
@@ -12898,7 +12887,7 @@
   "AI": "2026-11-23T21:00:40.293618+00:00",
   "Anime": "2026-11-23T20:30:36.394673+00:00",
   "Games": "2026-11-23T19:45:27.670567+00:00",
-  "Tech": "2026-11-23T23:00:43.960158+00:00"
+  "Tech": "2026-11-23T23:15:39.480052+00:00"
  },
  "digest_day": "2026-11-23",
  "weekly_day": "2026-11-20"
