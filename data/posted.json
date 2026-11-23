@@ -10011,6 +10011,17 @@
    "summary": "Green for go.",
    "title_ar": ""
   },
+  "pushsquare.com/news/2026/11/silent-hill-fatal-frame-inspire-this-promising-new-ps5-horror-game": {
+   "at": "2026-11-23T13:15:42.554074+00:00",
+   "title": "Silent Hill, Fatal Frame Inspire This Promising New PS5 Horror Game",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pushsquare.com/news/2026/11/silent-hill-fatal-frame-inspire-this-promising-new-ps5-horror-game",
+   "score": 0,
+   "sources": 1,
+   "summary": "Ugly Within coming to PS5.",
+   "title_ar": ""
+  },
   "pushsquare.com/news/2026/11/spyros-new-ps5-game-teases-appearance-at-this-years-game-awards": {
    "at": "2026-11-18T14:45:28.968423+00:00",
    "title": "Spyro's New PS5 Game Teases Appearance at This Year's Game Awards",
@@ -11309,17 +11320,6 @@
    "summary": "Anthropic mathematician Levent Alpöge claims he has solved the Riemann hypothesis, one of mathematics' most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded…",
    "title_ar": "رياضياتي في شركة Anthropic يدعي حل إحدى مسائل جائزة الألفية الشهيرة بمساعدة Claude"
   },
-  "theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down": {
-   "at": "2026-11-16T13:15:30.964009+00:00",
-   "title": "The Nvidia scandal isn’t slowing down",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
-   "score": 1,
-   "sources": 1,
-   "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president.",
-   "title_ar": "فضيحة Nvidia لا تهدأ"
-  },
   "theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor": {
    "at": "2026-11-16T21:15:30.071691+00:00",
    "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
@@ -11947,6 +11947,17 @@
    "summary": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN.",
    "title_ar": "محتجون يقتحمون مكاتب شركة Meta في الهند"
   },
+  "theverge.com/tech/1039903/motorola-moto-tag-3-tracker-amazon-leak": {
+   "at": "2026-11-23T13:15:42.554074+00:00",
+   "title": "Amazon is taking orders for the Moto Tag 3 before it’s even been announced",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.theverge.com/tech/1039903/motorola-moto-tag-3-tracker-amazon-leak",
+   "score": 2,
+   "sources": 1,
+   "summary": "Motorola's unannounced Moto Tag 3 has been listed for sale online, just five months after the Moto Tag 2 went on sale in the US, and before any official announcement of a follow-up.",
+   "title_ar": ""
+  },
   "theverge.com/transportation/1034321/mercedes-benz-mb-drive-assist-pro-hands-free-highway-assist-2027": {
    "at": "2026-11-17T04:30:38.322442+00:00",
    "title": "Mercedes-Benz takes on Tesla FSD with new point-to-point city driving assist",
@@ -12023,17 +12034,6 @@
    "sources": 1,
    "summary": "Intel’s next-gen Xeon Diamond Rapids CPUs appeared at two booths during SC26, one of which featured a running server, but neither were directly from Intel.",
    "title_ar": "معالجات Intel Diamond Rapids تظهر مؤشرات حياة في عرض حي لخادم ضمن فعاليات SC26"
-  },
-  "tomshardware.com/pc-components/cpus/intel-sued-by-shareholders-for-misleading-investors-after-stock-plunges-29-percent-class-action-claims-the-company-downplayed-the-severity-of-pc-market-headwinds": {
-   "at": "2026-11-16T13:00:46.009671+00:00",
-   "title": "Intel sued by shareholders for misleading investors after stock plunges 29%",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/pc-components/cpus/intel-sued-by-shareholders-for-misleading-investors-after-stock-plunges-29-percent-class-action-claims-the-company-downplayed-the-severity-of-pc-market-headwinds",
-   "score": 2,
-   "sources": 1,
-   "summary": "The Southfield Fire and Police Retirement System pension fund accuses Intel of withholding important information about its business performance.",
-   "title_ar": "شركة Intel تواجه دعوى قضائية من المساهمين بتهمة تضليل المستثمرين بعد هوي السهم بنسبة 29%"
   },
   "tomshardware.com/pc-components/cpus/nvidia-claims-its-vera-cpu-can-gain-up-to-39-percent-performance-boost-via-software-optimization-at-sc26-architectural-fine-tuning-is-needed-to-fully-unleash-custom-olympus-cores": {
    "at": "2026-11-18T03:45:26.498469+00:00",
@@ -13030,7 +13030,7 @@
   "AI": "2026-11-23T12:30:38.285314+00:00",
   "Anime": "2026-11-23T11:30:34.634511+00:00",
   "Games": "2026-11-23T12:45:27.338609+00:00",
-  "Tech": "2026-11-23T13:00:45.373580+00:00"
+  "Tech": "2026-11-23T13:15:42.554074+00:00"
  },
  "digest_day": "2026-11-22",
  "weekly_day": "2026-11-20"
