@@ -8317,17 +8317,6 @@
    "summary": "The guy who went from VR to drone warfare is ready to launch a sovereign state in the sea",
    "title_ar": "Palmer Luckey يريد بناء مدينة BioShock في منتصف المحيط والتي بالتأكيد ليست مركز بيانات ذكاء اصطناعي مُمجّد: \"إنها أروع بكثير من ذلك\""
   },
-  "kotaku.com/project-helix-next-xbox-microsoft-pc-asha-sharma-series-s-x-2000757405": {
-   "at": "2026-11-16T11:45:29.077213+00:00",
-   "title": "Microsoft Says Of The Next Xbox: ‘Helix Is A Console Capable Of Playing PC Games—Not A PC That Can Also Play Console Games’",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/project-helix-next-xbox-microsoft-pc-asha-sharma-series-s-x-2000757405",
-   "score": 0,
-   "sources": 1,
-   "summary": "Project Helix will also carry over progress from games played on every previous Xbox console",
-   "title_ar": ""
-  },
   "kotaku.com/ps5-gets-last-minute-software-update-thats-required-to-play-gta-6-2000757868": {
    "at": "2026-11-18T03:15:27.201348+00:00",
    "title": "PS5 Gets Last-Minute Software Update That’s Required To Play GTA 6",
@@ -11562,17 +11551,6 @@
    "summary": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers.",
    "title_ar": "بعض صناع المحتوى متشككون تجاه برنامج المنتسبين الجديد في Instagram"
   },
-  "theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick": {
-   "at": "2026-11-16T11:30:37.261961+00:00",
-   "title": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
-   "score": 1,
-   "sources": 1,
-   "summary": "Washington Senator Maria Cantwell, one of the top Democrats on the Senate commerce committee, has taken fire at the Department of Commerce (DOC) under Secretary Howard Lutnick for neglecting to…",
-   "title_ar": "سيناتور تهاجم وزيرة التجارة بسبب تدفق رقائق الذكاء الاصطناعي من Nvidia إلى الصين"
-  },
   "theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update": {
    "at": "2026-11-17T16:30:38.123447+00:00",
    "title": "The DOJ says it’s investigating Megaspeed",
@@ -12210,6 +12188,17 @@
    "sources": 1,
    "summary": "A huge discount on Amazon has brought the Gen 5 2TB Samsung 9100 Pro down to $349.99, an almost half-price saving compared to its list price.",
    "title_ar": ""
+  },
+  "tomshardware.com/peripherals/gaming-mice/weird-finger-wearable-gaming-mouse-kickstarter-breaks-8x-its-crowdfunding-goal-but-it-potentially-has-major-design-flaws-and-is-kind-of-sketchy": {
+   "at": "2026-11-23T11:45:33.877115+00:00",
+   "title": "Weird finger-wearable gaming mouse raises $43,000 on Kickstarter, a staggering 8x its crowdfunding goal",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/peripherals/gaming-mice/weird-finger-wearable-gaming-mouse-kickstarter-breaks-8x-its-crowdfunding-goal-but-it-potentially-has-major-design-flaws-and-is-kind-of-sketchy",
+   "score": 1,
+   "sources": 1,
+   "summary": "The Borslon finger-worn gaming mouse is the first of its kind, reaching $43,000 in its Kickstarter campaign and shattering its $5,000 goal.",
+   "title_ar": "فأرة ألعاب غريبة تُلبس في الإصبع ت جمع 43 ألف دولار على Kickstarter، متجاوزة هدفها التمويلي بأضعاف مذهلة"
   },
   "tomshardware.com/software/windows/17-year-old-windows-7-gets-unofficial-directx-12-and-vulkan-1-4-support-enthusiasts-bring-nvidia-rtx-50-amd-rx-9000-and-intel-arc-gpus-to-the-aging-os": {
    "at": "2026-11-22T20:15:27.476055+00:00",
@@ -13107,7 +13096,7 @@
   "AI": "2026-11-23T01:30:36.371011+00:00",
   "Anime": "2026-11-23T11:30:34.634511+00:00",
   "Games": "2026-11-23T11:00:52.438671+00:00",
-  "Tech": "2026-11-23T11:15:28.380472+00:00"
+  "Tech": "2026-11-23T11:45:33.877115+00:00"
  },
  "digest_day": "2026-11-22",
  "weekly_day": "2026-11-20"
