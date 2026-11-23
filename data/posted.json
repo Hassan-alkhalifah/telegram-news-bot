@@ -10913,6 +10913,17 @@
    "summary": "Anthropic launches the largest IPO in history, dethroning SpaceX as the previous record holder.",
    "title_ar": "طرح Anthropic للاكتتاب العام بقيمة 81.3 مليار دولار يحطم رقم SpaceX القياسي بينما تهز أسعار الفائدة المرتفعة والرياح السياسية المعاكسة القطاع"
   },
+  "the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy": {
+   "at": "2026-11-23T19:00:41.499044+00:00",
+   "title": "Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Since May, SpaceXSI has been renting compute to competitors like Anthropic and Google while scaling back its own AI projects.",
+   "title_ar": ""
+  },
   "the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors": {
    "at": "2026-11-20T17:45:27.873279+00:00",
    "title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
@@ -12994,7 +13005,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-23T18:15:30.436100+00:00",
+  "AI": "2026-11-23T19:00:41.499044+00:00",
   "Anime": "2026-11-23T16:30:44.151198+00:00",
   "Games": "2026-11-23T18:30:36.354437+00:00",
   "Tech": "2026-11-23T18:45:38.977778+00:00"
