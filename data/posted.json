@@ -606,6 +606,17 @@
    "summary": "Google this weekend rolled out the latest update to Pixel Weather with a new reporting feature and small interface tweaks. more…",
    "title_ar": "تطبيق Pixel Weather يطلق ميزة \"الإبلاغ عن الطقس الحالي\" لـ \"تحسين التنبؤات المحلية\""
   },
+  "9to5google.com/2026/11/23/oneplus-us-website-shuts-down": {
+   "at": "2026-11-23T15:45:28.235141+00:00",
+   "title": "OnePlus starts shutting down its website to ‘focus on customer support’",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/23/oneplus-us-website-shuts-down/",
+   "score": 2,
+   "sources": 1,
+   "summary": "After shutting down its US operations earlier this year, OnePlus has quietly closed its website in some regions as it shifts to “focus on customer support.” more…",
+   "title_ar": "OnePlus تبدأ في إغلاق موقعها الإلكتروني \"للتركيز على دعم العملاء\""
+  },
   "9to5google.com/2026/11/23/samsung-galaxy-watch-10-new-schedule-report": {
    "at": "2026-11-23T13:45:29.387367+00:00",
    "title": "‘Galaxy Watch 10’ won’t launch in 2027 as Samsung tries to slow RAMageddon losses",
@@ -6754,6 +6765,17 @@
    "sources": 2,
    "summary": "Marvel has released a major new Avengers: Doomsday trailer showing our best look at the film yet, though the studio is seemingly keeping some of its big cards close to its chest.",
    "title_ar": "العرض الدعائي الأخير لـ Avengers: Doomsday يركز بشكل كبير على Steve Rogers بينما تستمر Marvel في إبقاء الكشوفات الكبرى طّي الكتمان"
+  },
+  "ign.com/articles/avengers-doomsday-runtime-revealed-as-trailer-teased-for-today": {
+   "at": "2026-11-23T15:45:28.235141+00:00",
+   "title": "Avengers: Doomsday Runtime Revealed as Trailer Teased for Today",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/avengers-doomsday-runtime-revealed-as-trailer-teased-for-today",
+   "score": 0,
+   "sources": 1,
+   "summary": "Fans are expecting a fresh Avengers: Doomsday trailer today, and now have a good idea of the movie's runtime.",
+   "title_ar": ""
   },
   "ign.com/articles/blade-director-says-he-walked-away-from-marvels-canceled-movie-because-lifes-too-short-to-make-st-films": {
    "at": "2026-11-21T19:15:29.639529+00:00",
@@ -13162,7 +13184,7 @@
   "AI": "2026-11-23T15:15:29.725530+00:00",
   "Anime": "2026-11-23T15:00:46.538114+00:00",
   "Games": "2026-11-23T15:30:39.344715+00:00",
-  "Tech": "2026-11-23T14:45:33.706042+00:00"
+  "Tech": "2026-11-23T15:45:28.235141+00:00"
  },
  "digest_day": "2026-11-22",
  "weekly_day": "2026-11-20"
