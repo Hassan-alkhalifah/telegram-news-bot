@@ -3081,17 +3081,6 @@
    "summary": "Lapin Track will adapt Ohashi Hirai's ongoing baseball manga",
    "title_ar": ""
   },
-  "crunchyroll.com/news/latest/2026/11/16/wanpaku-touken-ranbu-anime-january-6-2027-premiere-date-teaser-visual": {
-   "at": "2026-11-16T04:30:35.397812+00:00",
-   "title": "Wanpaku! Touken Ranbu Anime Unveils January 6, 2027 Premiere Date, Teaser Visual",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://crunchyroll.com/news/latest/2026/11/16/wanpaku-touken-ranbu-anime-january-6-2027-premiere-date-teaser-visual",
-   "score": 0,
-   "sources": 1,
-   "summary": "Gaku Kinoshita (Sumikko Gurashi) serves as director",
-   "title_ar": ""
-  },
   "crunchyroll.com/news/latest/2026/11/17/japan-box-office-godzilla-minus-zero-number-1-2nd-weekend-japan-box-office": {
    "at": "2026-11-17T01:00:42.518522+00:00",
    "title": "Japan Box Office: Godzilla Minus Zero Stays at No. 1 for 2nd Weekend",
@@ -6512,6 +6501,17 @@
    "sources": 1,
    "summary": "Today, Samsung announced that a range of its products have been recognized by the Consumer Technology Association as part of the CES 2027 Innovation Awards program.",
    "title_ar": "Samsung Galaxy Z Fold8 و Fold8 Ultra يفوزان بجوائز CES 2027 لأفضل ابتكار"
+  },
+  "gsmarena.com/samsung_may_shift_galaxy_watch_to_a_twoyear_launch_cycle-news-75587.php": {
+   "at": "2026-11-23T04:45:29.204336+00:00",
+   "title": "Samsung may shift Galaxy Watch to a two-year launch cycle",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.gsmarena.com/samsung_may_shift_galaxy_watch_to_a_twoyear_launch_cycle-news-75587.php",
+   "score": 2,
+   "sources": 1,
+   "summary": "According to a new report from South Korea, Samsung may skip launching a new Galaxy Watch lineup next year and shift to a two-year release cycle.",
+   "title_ar": "سامسونگ قد تنتقل بساعة Galaxy Watch إلى دورة إطلاق مدتها عامان"
   },
   "gsmarena.com/samsung_one_ui_9_5_app_lock_feature-news-75522.php": {
    "at": "2026-11-18T12:30:50.138616+00:00",
@@ -13140,7 +13140,7 @@
   "AI": "2026-11-23T01:30:36.371011+00:00",
   "Anime": "2026-11-23T02:30:34.188113+00:00",
   "Games": "2026-11-22T12:15:37.092096+00:00",
-  "Tech": "2026-11-22T22:30:36.635611+00:00"
+  "Tech": "2026-11-23T04:45:29.204336+00:00"
  },
  "digest_day": "2026-11-22",
  "weekly_day": "2026-11-20"
