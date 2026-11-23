@@ -595,6 +595,17 @@
    "summary": "Anthropic is rolling out a new Claude app for Android that picks up a Material 3 Expressive redesign. more…",
    "title_ar": "Claude يطرح تطبيق Android محدثاً بتصميم Material 3 Expressive الجديد"
   },
+  "9to5google.com/2026/11/23/google-meet-web-makes-1080p-streaming-free": {
+   "at": "2026-11-23T23:45:28.061890+00:00",
+   "title": "Google Meet unlocks 1080p video streaming for all accounts on web",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/23/google-meet-web-makes-1080p-streaming-free/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Streaming in 1080p will be the default in Google Meet, regardless of whether you pay for Google Workspace.",
+   "title_ar": "Google Meet يتيح بث الفيديو بدقة 1080p لجميع الحسابات على الويب"
+  },
   "9to5google.com/2026/11/23/kodak-slidetag-android-iphone-e-ink-tracker": {
    "at": "2026-11-23T21:15:26.278479+00:00",
    "title": "Kodak SlideTag is a $35 Android & iPhone tracker with an E-Ink display to show your photos and more [Gallery]",
@@ -759,17 +770,6 @@
    "sources": 1,
    "summary": "Interested in getting an iPhone Duo before Christmas?",
    "title_ar": "طلبات iPhone Duo الجديد تُشحن الآن قبل شهر كامل من الموعد السابق"
-  },
-  "9to5mac.com/2026/11/16/schmigadoon-and-widows-bay-land-apple-tv-two-grammy-nominations": {
-   "at": "2026-11-16T23:30:41.548334+00:00",
-   "title": "‘Schmigadoon!’ and ‘Widow’s Bay’ land Apple TV two Grammy nominations",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/16/schmigadoon-and-widows-bay-land-apple-tv-two-grammy-nominations/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Apple TV today celebrated two Grammy nominations, one of which further establishes a canceled show as an unlikely awards success story.",
-   "title_ar": "حصول مسلسلي Schmigadoon و Widow’s Bay على ترشيحين لجائزة Grammy لصالح Apple TV"
   },
   "9to5mac.com/2026/11/16/tvos-27-3-beta-2-brings-siri-ai-to-apple-tv-beta-testers": {
    "at": "2026-11-17T01:45:28.224020+00:00",
@@ -12909,7 +12909,7 @@
   "AI": "2026-11-23T21:00:40.293618+00:00",
   "Anime": "2026-11-23T20:30:36.394673+00:00",
   "Games": "2026-11-23T19:45:27.670567+00:00",
-  "Tech": "2026-11-23T23:30:34.430300+00:00"
+  "Tech": "2026-11-23T23:45:28.061890+00:00"
  },
  "digest_day": "2026-11-23",
  "weekly_day": "2026-11-20"
