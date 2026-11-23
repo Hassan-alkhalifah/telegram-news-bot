@@ -5787,17 +5787,6 @@
    "summary": "The Switch 2 version of simulation game Coral Island will launch on December 7 alongside …",
    "title_ar": "لعبة Coral Island على Switch 2 تصدر في 7 ديسمبر بالتزامن مع تحديث الإصدار 1.4"
   },
-  "gematsu.com/2026/11/dave-the-diver-x-core-keeper-crossover-updates-announced": {
-   "at": "2026-11-16T15:45:29.100899+00:00",
-   "title": "DAVE THE DIVER x Core Keeper crossover updates announced",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.gematsu.com/2026/11/dave-the-diver-x-core-keeper-crossover-updates-announced",
-   "score": 3,
-   "sources": 2,
-   "summary": "MINTROCKET, Pugstorm, and Fireshine Games have announced a two-way crossover for both DAVE THE DIVER …",
-   "title_ar": "الإعلان عن تحديثات تعاونية مشتركة بين DAVE THE DIVER و Core Keeper"
-  },
   "gematsu.com/2026/11/firaxis-games-lays-off-a-third-of-staff": {
    "at": "2026-11-17T17:00:45.712547+00:00",
    "title": "Firaxis Games lays off a third of staff",
@@ -7556,17 +7545,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Clair Obscur: Expedition 33 narrative lead Jennifer Svedberg-Yen left Sandfall, planning to pursue her own projects and mentor writers.",
-   "title_ar": ""
-  },
-  "insider-gaming.com/dave-the-diver-core-keeper-crossover": {
-   "at": "2026-11-16T15:45:29.100899+00:00",
-   "title": "Dave the Diver and Core Keeper Reveal Free Two-Way Crossover",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/dave-the-diver-core-keeper-crossover/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Two beloved indie games are about to collide.",
    "title_ar": ""
   },
   "insider-gaming.com/fable-bowerstone-map-revealed": {
@@ -11419,6 +11397,17 @@
    "summary": "AI music generator Suno can now create images and video clips to go with its songs, thanks to a new feature called Visuals.",
    "title_ar": ""
   },
+  "the-decoder.com/us-spies-tracked-nvidia-scandal-figures-ties-to-chinese-intelligence-for-over-a-year": {
+   "at": "2026-11-23T16:00:44.821504+00:00",
+   "title": "US spies tracked Nvidia scandal figure's ties to Chinese intelligence for over a year",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/us-spies-tracked-nvidia-scandal-figures-ties-to-chinese-intelligence-for-over-a-year/",
+   "score": 1,
+   "sources": 1,
+   "summary": "US intelligence agencies tracked contacts between Alice Huang and China's Ministry of State Security for over a year, the New York Times reports.",
+   "title_ar": ""
+  },
   "the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model": {
    "at": "2026-11-23T15:15:29.725530+00:00",
    "title": "Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model",
@@ -13181,7 +13170,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-23T15:15:29.725530+00:00",
+  "AI": "2026-11-23T16:00:44.821504+00:00",
   "Anime": "2026-11-23T15:00:46.538114+00:00",
   "Games": "2026-11-23T15:30:39.344715+00:00",
   "Tech": "2026-11-23T15:45:28.235141+00:00"
