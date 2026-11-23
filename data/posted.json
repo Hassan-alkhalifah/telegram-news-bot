@@ -584,6 +584,17 @@
    "summary": "Personal Intelligence in AI Mode is expanding today with Google Drive, Wallet, and even Gemini app integrations. more…",
    "title_ar": "وضع الذكاء الاصطناعي يضيف تكاملاً مع Google Drive وWallet وتطبيق Gemini"
   },
+  "9to5google.com/2026/11/23/nothing-ear-note-ai-recorder-teaser": {
+   "at": "2026-11-23T20:30:36.394673+00:00",
+   "title": "Nothing Ear (note) is yet another AI recorder, but with earbuds inside",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5google.com/2026/11/23/nothing-ear-note-ai-recorder-teaser/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Set to launch on December 8, Nothing has confirmed its mysterious AI product will be called “Ear (note),” and it’s an AI recorder with earbuds inside. more…",
+   "title_ar": ""
+  },
   "9to5google.com/2026/11/23/oneplus-us-website-shuts-down": {
    "at": "2026-11-23T15:45:28.235141+00:00",
    "title": "OnePlus starts shutting down its website to ‘focus on customer support’",
@@ -1617,6 +1628,17 @@
    "sources": 1,
    "summary": "HIDIVE has acquired Giant Ojosama for its Winter 2027 simulcast lineup, with the comedy…",
    "title_ar": "حصري: انضمام Giant Ojosama إلى تشكيلة شتاء 2027 لمنصة HIDIVE، وتحديد موعد العرض الأول في Anime Frontier في 4 ديسمبر"
+  },
+  "animecorner.me/hidive-announces-never-before-announced-new-simulcasts-to-be-revealed-at-anime-frontier-in-schedule-unveil": {
+   "at": "2026-11-23T20:30:36.394673+00:00",
+   "title": "HIDIVE Announces 'Never-Before-Announced New Simulcasts' to Be Revealed at Anime Frontier in Schedule Unveil",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://animecorner.me/hidive-announces-never-before-announced-new-simulcasts-to-be-revealed-at-anime-frontier-in-schedule-unveil/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Anime streamer HIDIVE announced its schedule for Anime Frontier 2026 across December 4-6, which…",
+   "title_ar": "HIDIVE تعلن عن أعمال جديدة تُعرض بالتزامن مع البث الأصلي سيتم الكشف عنها في فعاليات Anime Frontier ضمن جدول المواعيد"
   },
   "animecorner.me/kuku-loop-the-100th-times-the-charm-anime-announced-for-2027-reveals-main-cast-and-teaser-visual": {
    "at": "2026-11-18T12:45:30.479472+00:00",
@@ -11364,6 +11386,17 @@
    "summary": "Hundreds of gadgets pass across our desks each year.",
    "title_ar": ""
   },
+  "theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording": {
+   "at": "2026-11-23T20:30:36.394673+00:00",
+   "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+   "score": 2,
+   "sources": 2,
+   "summary": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings…",
+   "title_ar": "سماعات Ear Note القادمة من شركة Nothing تأتي بميزة التنسيق عبر الذكاء الاصطناعي"
+  },
   "theverge.com/games/1036140/will-wright-mymems-ai-game-interview": {
    "at": "2026-11-18T18:45:28.132523+00:00",
    "title": "Will Wright’s next game uses AI to map your memories",
@@ -12939,8 +12972,8 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-23T19:00:41.499044+00:00",
-  "Anime": "2026-11-23T16:30:44.151198+00:00",
+  "AI": "2026-11-23T20:30:36.394673+00:00",
+  "Anime": "2026-11-23T20:30:36.394673+00:00",
   "Games": "2026-11-23T19:45:27.670567+00:00",
   "Tech": "2026-11-23T20:22:53.042783+00:00"
  },
