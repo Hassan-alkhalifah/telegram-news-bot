@@ -628,17 +628,6 @@
    "summary": "Following the arrival of Apple Intelligence on iPhones in China with iOS 27.3 beta 1, Apple is now expanding support to iPads and Macs ahead of the public release of its 27.3 updates.",
    "title_ar": ""
   },
-  "9to5mac.com/2026/11/16/apple-provides-a-safe-way-to-ask-an-ai-questions-about-your-health": {
-   "at": "2026-11-16T19:45:28.179505+00:00",
-   "title": "Apple provides a safe way to ask an AI questions about your health",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/16/apple-provides-a-safe-way-to-ask-an-ai-questions-about-your-health/",
-   "score": 0,
-   "sources": 1,
-   "summary": "A growing number of people are asking AI chatbots about their health issues, raising two major concerns: safety and privacy.",
-   "title_ar": ""
-  },
   "9to5mac.com/2026/11/16/apple-website-now-available-in-spanish-for-us-users": {
    "at": "2026-11-17T06:00:40.267633+00:00",
    "title": "Apple․com now available in Spanish for US users",
@@ -1518,6 +1507,17 @@
    "sources": 1,
    "summary": "One of Apple’s most beloved products this year was undoubtedly the MacBook Neo .",
    "title_ar": "تقرير: احتمال إطلاق MacBook Neo 2 حوالي شهر مارس مع إمكانية توفره بألوان جديدة"
+  },
+  "9to5mac.com/2026/11/23/apple-releasing-productred-homepod-mini-and-airpods-max-per-report": {
+   "at": "2026-11-23T20:00:40.935025+00:00",
+   "title": "Apple releasing Product(RED) versions of two products soon, per report",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/23/apple-releasing-productred-homepod-mini-and-airpods-max-per-report/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Apple plans to launch new Product(RED) versions of AirPods Max and the HomePod mini 2, according to a new Bloomberg report .",
+   "title_ar": "تقرير: آبل ستطلق قريباً إصدارات (Product(RED)) من منتجين"
   },
   "9to5mac.com/2026/11/23/apple-tv-announces-timberlake-series-coming-soon": {
    "at": "2026-11-23T14:45:33.706042+00:00",
@@ -4390,6 +4390,17 @@
    "summary": "Uber's Recorded Rides option is rolling out to Baltimore, Raleigh, Indianapolis and St.",
    "title_ar": ""
   },
+  "engadget.com/2325643/the-infamous-gta-6-hacker-has-been-released-after-pleading-guilty": {
+   "at": "2026-11-23T20:00:40.935025+00:00",
+   "title": "The infamous GTA 6 hacker has been released after pleading guilty",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2325643/the-infamous-gta-6-hacker-has-been-released-after-pleading-guilty/",
+   "score": 0,
+   "sources": 1,
+   "summary": "A judge warned the hacker not to \"let this happen again.\"",
+   "title_ar": ""
+  },
   "eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed": {
    "at": "2026-11-22T17:30:34.644514+00:00",
    "title": "Binding of Isaac dev pulls AI-generated music from Repentance+ after players expose it",
@@ -4950,17 +4961,6 @@
    "sources": 1,
    "summary": "Don't expect GTA 6 to get an update supporting higher framerate modes, at least, not on current-generation consoles.",
    "title_ar": ""
-  },
-  "eurogamer.net/star-wars-galactic-racer-split-screen-multiplayer": {
-   "at": "2026-11-16T19:45:28.179505+00:00",
-   "title": "Star Wars: Galactic Racer is getting much-requested split-screen multiplayer and new mode in 2027",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.eurogamer.net/star-wars-galactic-racer-split-screen-multiplayer",
-   "score": 2,
-   "sources": 2,
-   "summary": "The surprisingly awesome arcade podracing game Star Wars: Galactic Racer is getting split-screen multiplayer next year after loud fan requests, developer Fuse Games has announced.",
-   "title_ar": "لعبة Star Wars: Galactic Racer تحظى بميزة اللعب الجماعي عبر الشاشة المقسمة المطلوبة بشدة وبنمط جديد في عام 2027"
   },
   "eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-physical-sales-us-1-million": {
    "at": "2026-11-17T14:30:39.373129+00:00",
@@ -5763,17 +5763,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Publisher Activision and developer Toys for Bob will share more information on Spyro: A Realm …",
-   "title_ar": ""
-  },
-  "gematsu.com/2026/11/star-wars-galactic-racer-to-add-split-screen-supported-free-play-mode-in-early-2027": {
-   "at": "2026-11-16T19:45:28.179505+00:00",
-   "title": "Star Wars: Galactic Racer to add split-screen-supported ‘Free Play’ mode in early 2027",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gematsu.com/2026/11/star-wars-galactic-racer-to-add-split-screen-supported-free-play-mode-in-early-2027",
-   "score": 0,
-   "sources": 1,
-   "summary": "Publisher Secret Mode and developer Fuse Games will release a split-screen multiplayer-supported “Free Play” mode …",
    "title_ar": ""
   },
   "gematsu.com/2026/11/the-detective-is-already-dead-game-launches-in-2027-in-japan": {
@@ -9120,17 +9109,6 @@
    "summary": "Preorders of GTA 6 totalled approximately 32.5 million copies.",
    "title_ar": ""
   },
-  "pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-hacker-pleads-guilty-to-all-charges": {
-   "at": "2026-11-16T19:45:28.179505+00:00",
-   "title": "Grand Theft Auto 6 hacker pleads guilty to all charges",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-hacker-pleads-guilty-to-all-charges/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Arion Kurtaj released dozens of GTA 6 videos to the public more than a year before the game was formally revealed.",
-   "title_ar": ""
-  },
   "pcgamer.com/games/grand-theft-auto/gta-6-achievements-list": {
    "at": "2026-11-18T15:30:37.412615+00:00",
    "title": "GTA 6 achievement list: Every unlawful challenge standing between you and 100% completion",
@@ -9228,6 +9206,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Pep up their step",
+   "title_ar": ""
+  },
+  "pcgamer.com/games/grand-theft-auto/gta-6-players-swore-the-weather-system-was-broken-and-the-latest-patch-has-confirmed-those-suspicions": {
+   "at": "2026-11-23T20:00:40.935025+00:00",
+   "title": "GTA 6 players swore the weather system was broken and the latest patch has confirmed those suspicions",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-players-swore-the-weather-system-was-broken-and-the-latest-patch-has-confirmed-those-suspicions/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Rockstar brought weather back to Leonida.",
    "title_ar": ""
   },
   "pcgamer.com/games/grand-theft-auto/gta-6-refuel-repair-cars": {
@@ -11859,6 +11848,28 @@
    "summary": "Let's say you're Jensen Huang.",
    "title_ar": ""
   },
+  "theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return": {
+   "at": "2026-11-23T20:00:40.935025+00:00",
+   "title": "How Jensen Huang ended up as Nvidia CEO again",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+   "score": 0,
+   "sources": 1,
+   "summary": "The Jensen Huang era of Nvidia nearly came to an end this month.",
+   "title_ar": ""
+  },
+  "theverge.com/tech/1040487/nvidia-ceo-jensen-huang-staff-applauds-return": {
+   "at": "2026-11-23T20:00:40.935025+00:00",
+   "title": "Jensen Huang says he’ll be a ‘better CEO’ as staff applauds his return",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/tech/1040487/nvidia-ceo-jensen-huang-staff-applauds-return",
+   "score": 0,
+   "sources": 1,
+   "summary": "Jensen Huang returned to Nvidia's office as CEO today to a crowd of applauding employees who stood and filmed the co-founder's first moments back.",
+   "title_ar": ""
+  },
   "theverge.com/transportation/1034321/mercedes-benz-mb-drive-assist-pro-hands-free-highway-assist-2027": {
    "at": "2026-11-17T04:30:38.322442+00:00",
    "title": "Mercedes-Benz takes on Tesla FSD with new point-to-point city driving assist",
@@ -11990,17 +12001,6 @@
    "sources": 1,
    "summary": "Moore Threads teased its Lushan gaming GPU ahead of MDC 2026, with a product manager claiming record VRAM for a consumer graphics card.",
    "title_ar": "وحدة معالجة الرسوميات القادمة Lushan من Moore Threads قد تضم رقماً قياسياً يبلغ 64 جيجابايت من الذاكرة العشوائية للرسوميات"
-  },
-  "tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028": {
-   "at": "2026-11-16T19:50:23.589554+00:00",
-   "title": "Nvidia announces Rubin HPC GPU with 'record number of CUDA cores' at Supercomputing 2026",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028",
-   "score": 2,
-   "sources": 1,
-   "summary": "Nvidia took the wraps off its Rubin HPC GPU at Supercomputing 2026.",
-   "title_ar": "Nvidia تعلن عن معالج الرسوميات Rubin HPC المزود بـ \"عدد قياسي من أنوية CUDA\" في مؤتمر Supercomputing 2026"
   },
   "tomshardware.com/pc-components/gpus/nvidias-revenue-hits-usd115-8-billion-as-vera-rubin-generates-usd20-billion-in-another-record-setting-quarter-commitments-increase-to-usd390-billion-fy28-forecast-raised": {
    "at": "2026-11-18T13:15:30.091944+00:00",
@@ -12953,7 +12953,7 @@
   "AI": "2026-11-23T19:00:41.499044+00:00",
   "Anime": "2026-11-23T16:30:44.151198+00:00",
   "Games": "2026-11-23T19:45:27.670567+00:00",
-  "Tech": "2026-11-23T19:30:36.152676+00:00"
+  "Tech": "2026-11-23T20:00:40.935025+00:00"
  },
  "digest_day": "2026-11-23",
  "weekly_day": "2026-11-20"
