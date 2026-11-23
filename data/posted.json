@@ -3037,17 +3037,6 @@
    "summary": "Ceremony takes place on February 18 in Las Vegas",
    "title_ar": ""
   },
-  "crunchyroll.com/news/latest/2026/11/16/skip-and-loafer-season-2-anime-trailer-key-visual-additional-cast": {
-   "at": "2026-11-16T10:00:41.449115+00:00",
-   "title": "Skip and Loafer Season 2 Anime Releases New Trailer, Key Visual",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://crunchyroll.com/news/latest/2026/11/16/skip-and-loafer-season-2-anime-trailer-key-visual-additional-cast",
-   "score": 0,
-   "sources": 1,
-   "summary": "Crunchyroll will stream the new season when it premieres in April 2027",
-   "title_ar": ""
-  },
   "crunchyroll.com/news/latest/2026/11/16/the-days-of-diamond-anime-adaptation-announced": {
    "at": "2026-11-16T16:15:29.153434+00:00",
    "title": "The Days of Diamond Anime Adaptation Announced",
@@ -3619,6 +3608,17 @@
    "sources": 1,
    "summary": "A teaser visual was unveiled, along with cast and staff details",
    "title_ar": "الإعلان عن تحويل The One. Later On… إلى أنمي موعد عرضه في عام 2027"
+  },
+  "crunchyroll.com/news/latest/2026/11/23/the-daily-life-of-the-immortal-king-season-6-trailer-visual-release-date": {
+   "at": "2026-11-23T10:00:53.331607+00:00",
+   "title": "The Daily Life of the Immortal King Season 6 Releases New Trailer, Visual",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://crunchyroll.com/news/latest/2026/11/23/the-daily-life-of-the-immortal-king-season-6-trailer-visual-release-date",
+   "score": 1,
+   "sources": 1,
+   "summary": "Wang Ling returns in the first half of 2027",
+   "title_ar": "إطلاق عرض دعصي جديد وملصق بصري للموسم 6 من The Daily Life of the Immortal King"
   },
   "crunchyroll.com/news/quizzes/2026/11/16/anime-crosswords-puzzles-vol-81": {
    "at": "2026-11-16T15:15:27.546146+00:00",
@@ -8504,17 +8504,6 @@
    "summary": "Fans still want Zelda on a cartridge",
    "title_ar": ""
   },
-  "myanimelist.net/news/74945973?_location=rss": {
-   "at": "2026-11-16T10:00:41.449115+00:00",
-   "title": "'Skip to Loafer 2nd Season' Reveals Additional Cast Pair, First Promo",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://myanimelist.net/news/74945973?_location=rss",
-   "score": 1,
-   "sources": 1,
-   "summary": "The official website for the Skip to Loafer (Skip and Loafer) television anime revealed an additional pair of cast, new key visual, and the first promotional video for the Season 2 on Monday.",
-   "title_ar": "الموسم الثاني من Skip to Loafer يكشف عن ثنائي تمثيل إضافي والعرض الترويجي الأول"
-  },
   "myanimelist.net/news/74946798?_location=rss": {
    "at": "2026-11-16T15:30:38.841161+00:00",
    "title": "Manga 'Diamond no Kouzai' Gets TV Anime",
@@ -12959,17 +12948,6 @@
    "summary": "Vivendi wanted to scrap the project, but Starbreeze only thought it had been cut on PS2",
    "title_ar": "لعبة Xbox الشهيرة The Chronicles of Riddick: Escape from Butcher Bay ألغيت لفترة وجيزة، لكن لم يخبر أحد مطورها"
   },
-  "videogameschronicle.com/news/xbox-says-project-helix-is-a-console-that-can-play-pc-games-not-a-pc-that-can-play-console-games": {
-   "at": "2026-11-16T10:00:41.449115+00:00",
-   "title": "Xbox says Project Helix is a console that can play PC games, not a PC that can play console games",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.videogameschronicle.com/news/xbox-says-project-helix-is-a-console-that-can-play-pc-games-not-a-pc-that-can-play-console-games/",
-   "score": 0,
-   "sources": 1,
-   "summary": "A focus on neural rendering is also intended to offset constantly increasing costs",
-   "title_ar": ""
-  },
   "videogameschronicle.com/news/you-can-win-a-free-devolver-digital-game-if-you-delete-gta-6": {
    "at": "2026-11-17T22:15:30.159290+00:00",
    "title": "You can win a free Devolver Digital game – if you delete GTA 6",
@@ -13105,7 +13083,7 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-23T01:30:36.371011+00:00",
-  "Anime": "2026-11-23T02:30:34.188113+00:00",
+  "Anime": "2026-11-23T10:00:53.331607+00:00",
   "Games": "2026-11-22T12:15:37.092096+00:00",
   "Tech": "2026-11-23T04:45:29.204336+00:00"
  },
