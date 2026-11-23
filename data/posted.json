@@ -584,6 +584,17 @@
    "summary": "Personal Intelligence in AI Mode is expanding today with Google Drive, Wallet, and even Gemini app integrations. more…",
    "title_ar": "وضع الذكاء الاصطناعي يضيف تكاملاً مع Google Drive وWallet وتطبيق Gemini"
   },
+  "9to5google.com/2026/11/23/antigravity-gemini-4-carbon": {
+   "at": "2026-11-23T21:45:27.685382+00:00",
+   "title": "Gemini 4 Carbon is now available in Google Antigravity for AI Pro",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/23/antigravity-gemini-4-carbon/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Following all the model launches this month, Google is bringing Gemini 4 Carbon to paid AI Pro subscribers in Antigravity. more…",
+   "title_ar": ""
+  },
   "9to5google.com/2026/11/23/kodak-slidetag-android-iphone-e-ink-tracker": {
    "at": "2026-11-23T21:15:26.278479+00:00",
    "title": "Kodak SlideTag is a $35 Android & iPhone tracker with an E-Ink display to show your photos and more [Gallery]",
@@ -7756,17 +7767,6 @@
    "summary": "An unusual signing bonus",
    "title_ar": ""
   },
-  "kotaku.com/activision-treyarch-layoffs-call-of-duty-zombies-craig-houston-2000757439": {
-   "at": "2026-11-16T21:30:38.279985+00:00",
-   "title": "Xbox Layoffs Hit 20-Year Call Of Duty Veteran Who Wrote On Every Black Ops Game",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://kotaku.com/activision-treyarch-layoffs-call-of-duty-zombies-craig-houston-2000757439",
-   "score": 2,
-   "sources": 1,
-   "summary": "Craig Houston had been writing for the series since Call of Duty 3",
-   "title_ar": "تسريحات إكس بوكس تطال مخضرم Call of Duty صاحب الـ 20 عاماً والذي كتب لكل ألعاب Black Ops"
-  },
   "kotaku.com/after-finishing-gta-6-i-can-confirm-its-trailers-and-teasers-mostly-featured-very-early-moments-from-the-game-2000755910": {
    "at": "2026-11-18T12:00:48.673192+00:00",
    "title": "After Finishing GTA 6, I Can Confirm Its Trailers And Teasers Mostly Featured Very Early Moments From The Game",
@@ -7919,6 +7919,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Arcade addicts of the 1980s inspired the cyberspace of William Gibson’s influential Neuromancer, now the author is transfixed on viral footage of Rockstar’s ultra-hit",
+   "title_ar": ""
+  },
+  "kotaku.com/grand-theft-auto-6-gta-6-hacker-sentence-warning-rockstar-2000759580": {
+   "at": "2026-11-23T21:45:27.685382+00:00",
+   "title": "The 2022 GTA 6 Hacker Goes Free With A Warning And Reduced Sentence: ‘Don’t Let This Happen Again’",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/grand-theft-auto-6-gta-6-hacker-sentence-warning-rockstar-2000759580",
+   "score": 0,
+   "sources": 1,
+   "summary": "Arion Kurtaj was 17 years old when he hacked into Rockstar",
    "title_ar": ""
   },
   "kotaku.com/grand-theft-auto-6-gta6-fox-news-lucia-hooker-rachel-campos-duffy-2000757710": {
@@ -9679,17 +9690,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Huang announced that he would accept reinstatement, but Nvidia isn't offering it.",
-   "title_ar": ""
-  },
-  "pcgamer.com/software/ai/trump-supports-jensen-huangs-return-as-nvidia-ceo-but-it-doesnt-sound-like-the-board-is-interested": {
-   "at": "2026-11-16T21:30:38.279985+00:00",
-   "title": "Trump supports Jensen Huang's return as Nvidia CEO, but it doesn't sound like the board is interested",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/software/ai/trump-supports-jensen-huangs-return-as-nvidia-ceo-but-it-doesnt-sound-like-the-board-is-interested/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The US president doesn't seem too concerned about the potential risks to US national security: \"I think he learned a big lesson, I guess.\"",
    "title_ar": ""
   },
   "pushsquare.com/news/2026/11/61percent-of-all-us-ps5-owners-played-gta-6-on-launch-day-averaging-8-hours": {
@@ -12975,7 +12975,7 @@
   "AI": "2026-11-23T21:00:40.293618+00:00",
   "Anime": "2026-11-23T20:30:36.394673+00:00",
   "Games": "2026-11-23T19:45:27.670567+00:00",
-  "Tech": "2026-11-23T21:30:33.327316+00:00"
+  "Tech": "2026-11-23T21:45:27.685382+00:00"
  },
  "digest_day": "2026-11-23",
  "weekly_day": "2026-11-20"
