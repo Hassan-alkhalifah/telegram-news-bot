@@ -1,17 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/16/gemini-rolling-out-66-new-regional-voices-on-android-and-ios-including-10-uk-dialects": {
-   "at": "2026-11-16T17:45:30.575392+00:00",
-   "title": "Gemini rolling out 66 new regional voices on Android and iOS, including 10+ UK dialects",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5google.com/2026/11/16/gemini-rolling-out-66-new-regional-voices-on-android-and-ios-including-10-uk-dialects/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Following a preview at Google I/O , Google is rolling out 66 new regional voices to the Gemini app on both Android and iOS today.",
-   "title_ar": ""
-  },
   "9to5google.com/2026/11/16/google-intelligent-eyewear-gentle-monster-android-xr-sold-out": {
    "at": "2026-11-16T19:15:28.268205+00:00",
    "title": "Google’s Intelligent Eyewear glasses from Gentle Monster are already sold out",
@@ -3641,17 +3630,6 @@
    "sources": 1,
    "summary": "Editing the AI's memory is one way you can shape its responses.",
    "title_ar": "يمكنك الآن رؤية وتعديل ما يتذكره Google Gemini عنك"
-  },
-  "engadget.com/2317417/google-adds-66-regional-dialects-to-gemini": {
-   "at": "2026-11-16T17:45:30.575392+00:00",
-   "title": "Google adds 66 regional dialects to Gemini",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2317417/google-adds-66-regional-dialects-to-gemini/",
-   "score": 3,
-   "sources": 2,
-   "summary": "From today, Gemini's making more of an effort to speak your language in a way that sounds more accurate.",
-   "title_ar": "جوجل تزيد 66 لهجة إقليمية إلى Gemini"
   },
   "engadget.com/2317961/used-apple-airpods-deep-discounts-not-worth-it": {
    "at": "2026-11-21T14:15:30.516074+00:00",
@@ -8394,17 +8372,6 @@
    "summary": "Galactic Racer is going old-school",
    "title_ar": ""
   },
-  "kotaku.com/the-entire-internet-is-hoping-robert-pattinson-makes-james-bond-a-big-ol-weirdo-2000757473": {
-   "at": "2026-11-16T17:45:30.575392+00:00",
-   "title": "The Entire Internet Is Hoping Robert Pattinson Makes James Bond A Big Ol’ Weirdo",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/the-entire-internet-is-hoping-robert-pattinson-makes-james-bond-a-big-ol-weirdo-2000757473",
-   "score": 0,
-   "sources": 1,
-   "summary": "'This is the skin of a killer, Moneypenny.'",
-   "title_ar": ""
-  },
   "kotaku.com/turns-out-gta-san-andreas-remastered-was-teasing-gta-6-back-in-2021-2000758132": {
    "at": "2026-11-18T21:15:27.276622+00:00",
    "title": "Turns Out GTA San Andreas Remastered Was Teasing GTA 6 Back In 2021",
@@ -9218,6 +9185,17 @@
    "sources": 1,
    "summary": "The leaked file is apparently around 200 GB.",
    "title_ar": ""
+  },
+  "pcgamer.com/games/grand-theft-auto/cyberleek-releases-executable-for-gta-6-xbox-build-leaked-last-week-the-torch-passes-to-the-open-source-recomp-and-emulation-projects": {
+   "at": "2026-11-23T18:00:44.584816+00:00",
+   "title": "Cyberleek releases executable for GTA 6 Xbox build leaked last week: 'The torch passes to the open source recomp and emulation projects'",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-releases-executable-for-gta-6-xbox-build-leaked-last-week-the-torch-passes-to-the-open-source-recomp-and-emulation-projects/",
+   "score": 2,
+   "sources": 1,
+   "summary": "The notorious GTA 6 leaker called it \"an early Christmas gift.\"",
+   "title_ar": "Cyberleek تصدر ملفاً قابلاً للتنفيذ لنسخة Xbox من لعبة GTA 6 التي تسربت الأسبوع الماضي: \"الشموع تنتقل إلى مشاريع إعادة بناء الشيفرة والمحاكاة مفتوحة المصدر\""
   },
   "pcgamer.com/games/grand-theft-auto/devolvers-not-just-launching-a-game-on-the-same-day-as-gta-6-its-using-a-shot-by-shot-remake-of-the-gta-6-launch-trailer-too": {
    "at": "2026-11-18T22:30:36.207855+00:00",
@@ -10208,17 +10186,6 @@
    "sources": 1,
    "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
    "title_ar": "عملاق الأمن السيبراني Infoblox يؤكد وقوع حادث أمني بعد وصول قراصنة إلى معلومات الشركة"
-  },
-  "techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours": {
-   "at": "2026-11-16T18:00:43.512004+00:00",
-   "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-   "score": 1,
-   "sources": 1,
-   "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S.",
-   "title_ar": "مكتب التحقيقات الفيدرالي يقول إن أداة الاختراق مفتوحة المصدر Artex AI استُخدمت لاختراق الشبكات في \"أقل من ثلاث ساعات\""
   },
   "techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam": {
    "at": "2026-11-16T18:45:27.900329+00:00",
@@ -13102,6 +13069,17 @@
    "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
    "title_ar": "\"كذب\" Jensen Huang أثار قلق مجلس إدارة Nvidia قبيل استقالته"
   },
+  "wired.com/story/jensens-back-stocks-up-what-the-hell-sure": {
+   "at": "2026-11-23T18:00:44.584816+00:00",
+   "title": "Jensen Huang Is Back and So Is Nvidia’s Stock",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Jensen Huang comes back, numbers go up.",
+   "title_ar": ""
+  },
   "wired.com/story/nvidia-is-powering-brain-computer-interfaces-now": {
    "at": "2026-11-23T13:30:35.007374+00:00",
    "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
@@ -13128,9 +13106,9 @@
  "topic_last_posted": {
   "AI": "2026-11-23T16:00:44.821504+00:00",
   "Anime": "2026-11-23T16:30:44.151198+00:00",
-  "Games": "2026-11-23T17:30:38.574815+00:00",
+  "Games": "2026-11-23T18:00:44.584816+00:00",
   "Tech": "2026-11-23T17:45:29.489626+00:00"
  },
- "digest_day": "2026-11-22",
+ "digest_day": "2026-11-23",
  "weekly_day": "2026-11-20"
 }
