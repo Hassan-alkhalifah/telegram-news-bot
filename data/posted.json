@@ -628,17 +628,6 @@
    "summary": "Following the arrival of Apple Intelligence on iPhones in China with iOS 27.3 beta 1, Apple is now expanding support to iPads and Macs ahead of the public release of its 27.3 updates.",
    "title_ar": ""
   },
-  "9to5mac.com/2026/11/16/apple-intelligence-siri-ai-usage-limits": {
-   "at": "2026-11-16T18:30:39.525694+00:00",
-   "title": "Apple reveals how iCloud+ increases Siri AI and Apple Intelligence usage limits",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/16/apple-intelligence-siri-ai-usage-limits/",
-   "score": 0,
-   "sources": 1,
-   "summary": "iOS 27.3 beta 2 is now available, and Apple is adding the ability for users to unlock higher usage limits for Apple Intelligence and Siri AI via iCloud+.",
-   "title_ar": ""
-  },
   "9to5mac.com/2026/11/16/apple-provides-a-safe-way-to-ask-an-ai-questions-about-your-health": {
    "at": "2026-11-16T19:45:28.179505+00:00",
    "title": "Apple provides a safe way to ask an AI questions about your health",
@@ -648,28 +637,6 @@
    "score": 0,
    "sources": 1,
    "summary": "A growing number of people are asking AI chatbots about their health issues, raising two major concerns: safety and privacy.",
-   "title_ar": ""
-  },
-  "9to5mac.com/2026/11/16/apple-releases-beta-2-for-ipados-27-3-watchos-27-3-and-more": {
-   "at": "2026-11-16T18:30:39.525694+00:00",
-   "title": "Apple releases beta 2 for iPadOS 27.3, watchOS 27.3, and more",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/16/apple-releases-beta-2-for-ipados-27-3-watchos-27-3-and-more/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple has just released beta 2 for iPadOS 27.3, watchOS 27.3, visionOS 27.3, and more.",
-   "title_ar": ""
-  },
-  "9to5mac.com/2026/11/16/apple-releases-ios-27-3-beta-2-for-iphone": {
-   "at": "2026-11-16T18:30:39.525694+00:00",
-   "title": "Apple releases iOS 27.3 beta 2 for iPhone",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/16/apple-releases-ios-27-3-beta-2-for-iphone/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple has released the second iOS 27.3 developer beta for iPhone.",
    "title_ar": ""
   },
   "9to5mac.com/2026/11/16/apple-website-now-available-in-spanish-for-us-users": {
@@ -1661,6 +1628,17 @@
    "sources": 1,
    "summary": "Nvidia has announced that disgraced CEO Jensen Huang has been reinstated to the role, effective immediately.",
    "title_ar": ""
+  },
+  "9to5mac.com/2026/11/23/threads-app-for-ipad-launching-very-soon": {
+   "at": "2026-11-23T18:45:38.977778+00:00",
+   "title": "Threads app for iPad launching ‘very soon’",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/23/threads-app-for-ipad-launching-very-soon/",
+   "score": 2,
+   "sources": 1,
+   "summary": "More than three years after it launched, Meta’s Threads social network is coming to the iPad.",
+   "title_ar": "تطبيق Threads لأجهزة iPad سيتم إطلاقه قريبًا جداً"
   },
   "animecorner.me/bang-dream-yumemita-gets-new-anime-series": {
    "at": "2026-11-20T15:00:58.715478+00:00",
@@ -4456,6 +4434,17 @@
    "summary": "It's also removing Google Assistant from smart speakers and displays.",
    "title_ar": ""
   },
+  "engadget.com/2325472/uber-now-lets-riders-request-drivers-who-are-recording-their-trips": {
+   "at": "2026-11-23T18:45:38.977778+00:00",
+   "title": "Uber now lets riders request drivers who are recording their trips",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2325472/uber-now-lets-riders-request-drivers-who-are-recording-their-trips/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Uber's Recorded Rides option is rolling out to Baltimore, Raleigh, Indianapolis and St.",
+   "title_ar": ""
+  },
   "eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed": {
    "at": "2026-11-22T17:30:34.644514+00:00",
    "title": "Binding of Isaac dev pulls AI-generated music from Repentance+ after players expose it",
@@ -6535,17 +6524,6 @@
    "summary": "Vivo will apparently be flushing out its budget lineup in India soon with at least three new devices.",
    "title_ar": "تسريب مواصفات وصور هواتف vivo Y21s 5G و Y11s 5G و Y05s 4G"
   },
-  "gsmarena.com/watch_xiaomis_global_launch_event_for_the_xiaomi_18_pro_and_xiaomi_18_pro_max_here-news-75494.php": {
-   "at": "2026-11-16T18:30:39.525694+00:00",
-   "title": "Watch the Xiaomi 18 Pro and Xiaomi 18 Pro Max global launch event here",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.gsmarena.com/watch_xiaomis_global_launch_event_for_the_xiaomi_18_pro_and_xiaomi_18_pro_max_here-news-75494.php",
-   "score": 2,
-   "sources": 1,
-   "summary": "The time has come for Xiaomi to bring its latest flagship smartphones to the global market.",
-   "title_ar": "شاهد حدث الإطلاق العالمي لهاتفي Xiaomi 18 Pro و Xiaomi 18 Pro Max هنا"
-  },
   "gsmarena.com/whatsapp_encrypted_cloud_storage_backup_android_beta-news-75501.php": {
    "at": "2026-11-17T08:00:43.824166+00:00",
    "title": "WhatsApp's own encrypted cloud storage backup option is now available to some beta users on Android",
@@ -6786,17 +6764,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Carina Conti plays the female version of Jun Aslan in the upcoming sci-fi RPG Exodus alongside Stephen Oyoung as male Jun.",
-   "title_ar": ""
-  },
-  "ign.com/articles/family-guy-holiday-special-2026-trailer-key-art-release-date-plot": {
-   "at": "2026-11-16T18:30:39.525694+00:00",
-   "title": "Family Guy: Holiday Special 2026 Exclusive Trailer, Key Art and Hulu Release Date Revealed",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/family-guy-holiday-special-2026-trailer-key-art-release-date-plot",
-   "score": 0,
-   "sources": 1,
-   "summary": "IGN can exclusively reveal the new trailer, key art and release date for Family Guy’s next holiday special, “The Peter Clause,” which premieres on Hulu on November 30, 2026.",
    "title_ar": ""
   },
   "ign.com/articles/firaxis-lays-off-one-third-of-its-workforce": {
@@ -7195,17 +7162,6 @@
    "summary": "Even if you've been under a rock all year, it's hard to ignore the massive RAM crisis that's been going on since late 2025.",
    "title_ar": ""
   },
-  "ign.com/articles/nba-2k27-is-adding-vice-city-gta-6-themed-cosmetics-and-much-more-as-part-of-massive-rockstar-games-collaboration": {
-   "at": "2026-11-16T18:30:39.525694+00:00",
-   "title": "NBA 2K27 Is Adding Vice City, GTA 6-Themed Cosmetics, and Much More as Part of Massive Rockstar Games Collaboration",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/nba-2k27-is-adding-vice-city-gta-6-themed-cosmetics-and-much-more-as-part-of-massive-rockstar-games-collaboration",
-   "score": 0,
-   "sources": 1,
-   "summary": "Vice City is coming to NBA 2K27 as part of a massive crossover with GTA 6.",
-   "title_ar": ""
-  },
   "ign.com/articles/nvidia-board-reinstates-jensen-huang-as-ceo-amid-donald-trump-social-media-pressure": {
    "at": "2026-11-23T15:15:29.725530+00:00",
    "title": "Nvidia Board Reinstates Jensen Huang as CEO Amid Donald Trump Social Media Pressure",
@@ -7248,17 +7204,6 @@
    "score": 0,
    "sources": 1,
    "summary": "In the run-up to GTA 6's launch, one of the biggest questions was how well the Xbox Series S would handle the game.",
-   "title_ar": ""
-  },
-  "ign.com/articles/robert-pattinson-cast-as-james-bond-in-next-007-movie": {
-   "at": "2026-11-16T18:30:39.525694+00:00",
-   "title": "Robert Pattinson Cast as James Bond in Next 007 Movie",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/robert-pattinson-cast-as-james-bond-in-next-007-movie",
-   "score": 0,
-   "sources": 1,
-   "summary": "After years of rumors and speculation, Twilight and The Batman star Robert Pattinson has officially been cast as James Bond in Denis Villeneuve's 007 movie.",
    "title_ar": ""
   },
   "ign.com/articles/robert-pattinson-was-watching-werwulf-movie-when-his-james-bond-casting-broke": {
@@ -7360,17 +7305,6 @@
    "summary": "The 2026 Game Award nominations have finally been revealed.",
    "title_ar": ""
   },
-  "ign.com/articles/the-gta-leaker-who-revealed-lucia-after-hacking-rockstar-through-his-hotel-tv-pleads-guilty": {
-   "at": "2026-11-16T18:30:39.525694+00:00",
-   "title": "The GTA Leaker Who Revealed Lucia — After Hacking Rockstar Through His Hotel TV — Pleads Guilty",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/the-gta-leaker-who-revealed-lucia-after-hacking-rockstar-through-his-hotel-tv-pleads-guilty",
-   "score": 0,
-   "sources": 1,
-   "summary": "Arion Kurtaj, 21, pleads guilty to cybercrimes related to the 2022 Rockstar hack and GTA 6 leaks.",
-   "title_ar": ""
-  },
   "ign.com/articles/the-hunger-games-sunrise-on-the-reaping-plows-through-gta-6-hype-with-225-million-opening-weekend": {
    "at": "2026-11-23T02:00:40.157828+00:00",
    "title": "The Hunger Games: Sunrise on the Reaping Plows Through GTA 6 Hype With $225 Million Opening Weekend",
@@ -7457,17 +7391,6 @@
    "score": 0,
    "sources": 1,
    "summary": "GTA 6 lacks a parody of Disney World partially because developer Rockstar felt there wasn't a strong enough narrative justification for all the work that would have to go into meeting player…",
-   "title_ar": ""
-  },
-  "ign.com/articles/xbox-project-helix-isnt-a-pc-after-all": {
-   "at": "2026-11-16T18:30:39.525694+00:00",
-   "title": "Xbox Project Helix Isn't a PC After All",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/xbox-project-helix-isnt-a-pc-after-all",
-   "score": 0,
-   "sources": 1,
-   "summary": "Ever since Microsoft first teased its next-generation console/PC hybrid last year, there's been a lot of speculation on what Project Helix even is.",
    "title_ar": ""
   },
   "ign.com/articles/you-can-now-buy-the-steam-machine-without-a-reservation-but-supplies-are-limited": {
@@ -7688,17 +7611,6 @@
    "score": 0,
    "sources": 1,
    "summary": "NVIDIA has announced that it has reinstated Jensen Huang as President, CEO, and Board Director following his resignation on November 12, 2026.",
-   "title_ar": ""
-  },
-  "insider-gaming.com/nba-2k-season-3-brings-in-vice-city": {
-   "at": "2026-11-16T18:45:27.900329+00:00",
-   "title": "NBA 2K27 Season 3 Brings in Vice City",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/nba-2k-season-3-brings-in-vice-city/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Season 3 of NBA 2K27 offers Vice City Edition featuring GTA locations, cosmetics, and more.",
    "title_ar": ""
   },
   "insider-gaming.com/new-gta-6-screenshots-showcase-intense-weather-systems": {
@@ -8075,17 +7987,6 @@
    "summary": "The massive open-world game features its own social media network complete with a GTA joke",
    "title_ar": ""
   },
-  "kotaku.com/grand-theft-auto-6-leak-gta6-hacker-pleads-guilty-2000757500": {
-   "at": "2026-11-16T18:45:27.900329+00:00",
-   "title": "GTA 6 Hacker Pleads Guilty To Cybercrimes After Infamous 2022 Leak",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/grand-theft-auto-6-leak-gta6-hacker-pleads-guilty-2000757500",
-   "score": 0,
-   "sources": 1,
-   "summary": "The leak in 2022 was the first time the game was seen by the public before it was officially unveiled the following year",
-   "title_ar": ""
-  },
   "kotaku.com/grand-theft-auto-6-weight-muscle-gain-fat-jason-lucia-2000758438": {
    "at": "2026-11-19T19:15:30.589313+00:00",
    "title": "Grand Theft Auto 6’s Weight System Can Give Jason A Dad Bod, But Lucia Isn’t Quite As Malleable",
@@ -8117,6 +8018,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Getting your money for nothing and your chicks for free does not make for great game design",
+   "title_ar": ""
+  },
+  "kotaku.com/gta-6-leaker-cyberleek-claims-to-have-to-released-exe-file-that-could-lead-to-unofficial-pc-port-2000759529": {
+   "at": "2026-11-23T18:45:38.977778+00:00",
+   "title": "The Race Is On To Unofficially Port GTA 6 To PC After Cyberleek Drops .Exe File",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/gta-6-leaker-cyberleek-claims-to-have-to-released-exe-file-that-could-lead-to-unofficial-pc-port-2000759529",
+   "score": 0,
+   "sources": 1,
+   "summary": "They swear it's not all lies and crypto schemes",
    "title_ar": ""
   },
   "kotaku.com/gta-6-release-was-so-big-it-broke-internet-download-records-twice-in-one-week-2000758654": {
@@ -10198,17 +10110,6 @@
    "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
    "title_ar": "عملاق الأمن السيبراني Infoblox يؤكد وقوع حادث أمني بعد وصول قراصنة إلى معلومات الشركة"
   },
-  "techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam": {
-   "at": "2026-11-16T18:45:27.900329+00:00",
-   "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-   "score": 1,
-   "sources": 1,
-   "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
-   "title_ar": "OpenAI تطلق تصنيفاً جديداً للصور وتحذيرات في ChatGPT لمكافحة المحتوى الجنسي للأطفال"
-  },
   "techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion": {
    "at": "2026-11-17T05:45:29.813315+00:00",
    "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin gigafactory expansion",
@@ -11287,6 +11188,17 @@
    "summary": "OpenAI has released new prompt templates for GPT-6.2 Astra and Sol meant to fix common model behaviors such as overly brief answers, unnecessary follow-up questions, and excessive testing when coding.",
    "title_ar": "OpenAI تشارك نصائح توجيه جديدة لـ GPT-6.2 Astra و Sol لحل مشكلة الإجابات المقتضبة والأسئلة غير الضرورية"
   },
+  "the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits": {
+   "at": "2026-11-23T18:45:38.977778+00:00",
+   "title": "OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/",
+   "score": 0,
+   "sources": 1,
+   "summary": "OpenAI chief scientist Jakub Pachocki has released internal perplexity scores for the entire GPT series for the first time, up to an unreleased model beyond the current generation.",
+   "title_ar": ""
+  },
   "the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice": {
    "at": "2026-11-16T19:30:36.541129+00:00",
    "title": "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice",
@@ -11606,28 +11518,6 @@
    "summary": "Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, \"the Nvidia board unanimously accepted his resignation and does…",
    "title_ar": ""
   },
-  "theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back": {
-   "at": "2026-11-16T18:45:27.900329+00:00",
-   "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
-   "score": 0,
-   "sources": 1,
-   "summary": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC.",
-   "title_ar": ""
-  },
-  "theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning": {
-   "at": "2026-11-16T18:45:27.900329+00:00",
-   "title": "15 hotel guests were injured by chlorine poisoning due to Microsoft’s global email outage",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning",
-   "score": 0,
-   "sources": 1,
-   "summary": "Microsoft's worldwide 365 and Outlook outage had real-world consequences after it cut off email alerts for a German hotel's pool safety system.",
-   "title_ar": ""
-  },
   "theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription": {
    "at": "2026-11-16T19:30:36.541129+00:00",
    "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
@@ -11637,17 +11527,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features…",
-   "title_ar": ""
-  },
-  "theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta": {
-   "at": "2026-11-16T18:45:27.900329+00:00",
-   "title": "Apple is adding face unlock to the iPhone Duo — without new hardware",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple is working on a face unlock feature for the iPhone Duo that uses the front-facing camera for authentication, and it's already testing it with the new iOS 27.3 beta released today, as reported…",
    "title_ar": ""
   },
   "theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories": {
@@ -12585,17 +12464,6 @@
    "summary": "The emergence of AI has seemingly posed a threat to high-precision FP64 computation, but AMD doesn't think the HPC world is moving away from those complex calculations in the wake of AI.",
    "title_ar": "الباحثون \"يُدركون أن الذكاء الاصطناعي لن يحل محل الحوسبة عالية الأداء HPC\"، وفقاً لمسؤول تنفيذي في AMD - أحمال العمل عالية الدقة \"ستظل موجودة لفترة طويلة جداً\" حتى مع توسع استخدام الذكاء الاصطناعي"
   },
-  "tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen": {
-   "at": "2026-11-16T18:30:39.525694+00:00",
-   "title": "Trump calls for Jensen Huang reinstatement as Nvidia CEO",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen",
-   "score": 0,
-   "sources": 1,
-   "summary": "President Trump has called for Jensen Huang to return as Nvidia CEO, but a new report says the board is not considering the move.",
-   "title_ar": ""
-  },
   "tomshardware.com/video-games/console-gaming/gta-vi-runs-at-1440p-on-ps5-and-xbox-series-x-but-just-720p-with-upscaling-on-series-s-rockstar-details-upscaling-technologies-for-launch": {
    "at": "2026-11-18T16:15:29.193296+00:00",
    "title": "GTA VI runs at 1440p on PS5 and Xbox Series X, but just 720p with upscaling on Series S",
@@ -13129,7 +12997,7 @@
   "AI": "2026-11-23T18:15:30.436100+00:00",
   "Anime": "2026-11-23T16:30:44.151198+00:00",
   "Games": "2026-11-23T18:30:36.354437+00:00",
-  "Tech": "2026-11-23T17:45:29.489626+00:00"
+  "Tech": "2026-11-23T18:45:38.977778+00:00"
  },
  "digest_day": "2026-11-23",
  "weekly_day": "2026-11-20"
