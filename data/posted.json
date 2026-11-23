@@ -584,6 +584,17 @@
    "summary": "Following all the model launches this month, Google is bringing Gemini 4 Carbon to paid AI Pro subscribers in Antigravity. more…",
    "title_ar": ""
   },
+  "9to5google.com/2026/11/23/claude-android-material-3-update": {
+   "at": "2026-11-23T22:15:30.597617+00:00",
+   "title": "Claude rolling out updated Android app with Material 3 Expressive redesign",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/23/claude-android-material-3-update/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Anthropic is rolling out a new Claude app for Android that picks up a Material 3 Expressive redesign. more…",
+   "title_ar": "Claude يطرح تطبيق Android محدثاً بتصميم Material 3 Expressive الجديد"
+  },
   "9to5google.com/2026/11/23/kodak-slidetag-android-iphone-e-ink-tracker": {
    "at": "2026-11-23T21:15:26.278479+00:00",
    "title": "Kodak SlideTag is a $35 Android & iPhone tracker with an E-Ink display to show your photos and more [Gallery]",
@@ -2762,17 +2773,6 @@
    "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
    "title_ar": "Microsoft تصف Copilot بأنه \"نظام التشغيل الجديد للعمل\" في الكلمة الرئيسية لمؤتمر Ignite"
   },
-  "arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage": {
-   "at": "2026-11-16T22:15:29.191428+00:00",
-   "title": "Microsoft details how three problems combined for a global outage",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
-   "score": 0,
-   "sources": 1,
-   "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
-   "title_ar": ""
-  },
   "arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits": {
    "at": "2026-11-19T03:00:48.698346+00:00",
    "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
@@ -2870,17 +2870,6 @@
    "score": 0,
    "sources": 1,
    "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
-   "title_ar": ""
-  },
-  "arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips": {
-   "at": "2026-11-16T22:15:29.191428+00:00",
-   "title": "US moves to cut China’s remote access to AI chips",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Trump bets China won’t mind US blocking remote access to AI chips.",
    "title_ar": ""
   },
   "crunchyroll.com/news/announcements/2026/11/19/spice-and-wolf-merchant-meets-the-wise-wolf-season-2-stream-crunchyroll": {
@@ -6546,17 +6535,6 @@
    "summary": "It’s never just one thing with Xiaomi – the company just announced the global rollout of its Xiaomi 18 Pro flagships and it is also bringing several accessories to the global market.",
    "title_ar": ""
   },
-  "ign.com/articles/007-fans-react-to-robert-pattinsons-james-bond-casting": {
-   "at": "2026-11-16T22:15:29.191428+00:00",
-   "title": "007 Fans React to Robert Pattinson's James Bond Casting",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/007-fans-react-to-robert-pattinsons-james-bond-casting",
-   "score": 0,
-   "sources": 1,
-   "summary": "Robert Pattinson is the next James Bond, which means there is no shortage of opinions flying around the internet about this news.",
-   "title_ar": ""
-  },
   "ign.com/articles/2-million-people-new-zealand-gta-6-early": {
    "at": "2026-11-19T19:00:41.686613+00:00",
    "title": "An Estimated 2 Million Eager Xbox Gamers Made Use of the 'New Zealand Trick' to Play GTA 6 Early",
@@ -7107,17 +7085,6 @@
    "summary": "Former Nvidia boss Jensen Huang has said he is ready to return to the company he co-founded, after he resigned amid a scandal involving infidelity and alleged espionage.",
    "title_ar": ""
   },
-  "ign.com/articles/judge-denies-motion-to-dismiss-ram-price-fixing-lawsuit": {
-   "at": "2026-11-16T22:15:29.191428+00:00",
-   "title": "Judge Denies Motion to Dismiss RAM Price Fixing Lawsuit",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/judge-denies-motion-to-dismiss-ram-price-fixing-lawsuit",
-   "score": 0,
-   "sources": 1,
-   "summary": "Even if you've been under a rock all year, it's hard to ignore the massive RAM crisis that's been going on since late 2025.",
-   "title_ar": ""
-  },
   "ign.com/articles/nvidia-board-reinstates-jensen-huang-as-ceo-amid-donald-trump-social-media-pressure": {
    "at": "2026-11-23T15:15:29.725530+00:00",
    "title": "Nvidia Board Reinstates Jensen Huang as CEO Amid Donald Trump Social Media Pressure",
@@ -7129,15 +7096,15 @@
    "summary": "The Nvidia board has reinstated Jensen Huang as President, CEO and Board Director amid social media pressure from Donald Trump.",
    "title_ar": ""
   },
-  "ign.com/articles/nvidia-reportedly-uninterested-in-bringing-jensen-huang-back-as-ceo": {
-   "at": "2026-11-16T22:15:29.191428+00:00",
-   "title": "Nvidia Reportedly Uninterested in Bringing Jensen Huang Back as CEO",
+  "ign.com/articles/nvidia-ceo-jensen-huang-will-have-to-testify-publicly-before-us-senate": {
+   "at": "2026-11-23T22:15:30.597617+00:00",
+   "title": "Nvidia CEO Jensen Huang Will Have to Testify Publicly Before US Senate",
    "topic": "Games",
    "status": "duplicate",
-   "url": "https://www.ign.com/articles/nvidia-reportedly-uninterested-in-bringing-jensen-huang-back-as-ceo",
+   "url": "https://www.ign.com/articles/nvidia-ceo-jensen-huang-will-have-to-testify-publicly-before-us-senate",
    "score": 0,
    "sources": 1,
-   "summary": "Nvidia is reportedly not entertaining the idea of bringing Jensen Huang back as CEO following rumors that his allies had established a \"war room\" to push for his reinstatement.",
+   "summary": "Earlier today, Nvidia reinstated Jensen Huang as CEO, after two weeks of scandals involving multiple affairs and a suspected spy.",
    "title_ar": ""
   },
   "ign.com/articles/parties-murals-and-anxiety-what-its-like-to-launch-a-gta-game": {
@@ -8834,17 +8801,6 @@
    "summary": "Wait, there are OTHER games??",
    "title_ar": "حصاد الأسبوع: فكروا قليلاً في هذه الألعاب التي تصدر في يوم GTA 6"
   },
-  "nintendolife.com/news/2026/11/rumour-atlus-may-be-gearing-up-for-a-huge-persona-6-reveal": {
-   "at": "2026-11-16T22:15:29.191428+00:00",
-   "title": "Rumour: Atlus May Be Gearing Up For A Huge Persona 6 Reveal",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.nintendolife.com/news/2026/11/rumour-atlus-may-be-gearing-up-for-a-huge-persona-6-reveal",
-   "score": 3,
-   "sources": 2,
-   "summary": "Take your time.",
-   "title_ar": "شائعة: استوديو Atlus قد يستعد للكشف عن Persona 6 قريباً"
-  },
   "nintendolife.com/news/2026/11/splatoon-3-version-12-0-0-announced-here-are-the-full-patch-notes": {
    "at": "2026-11-17T02:15:29.000252+00:00",
    "title": "Splatoon 3 Version 12.0.0 Announced, Here Are The Full Patch Notes",
@@ -9879,17 +9835,6 @@
    "summary": "Square Enix criticised for Toriyama credits.",
    "title_ar": ""
   },
-  "pushsquare.com/news/2026/11/rumour-persona-6-blowout-primed-for-the-game-awards": {
-   "at": "2026-11-16T22:15:29.191428+00:00",
-   "title": "Rumour: Persona 6 Blowout Primed for The Game Awards",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pushsquare.com/news/2026/11/rumour-persona-6-blowout-primed-for-the-game-awards",
-   "score": 0,
-   "sources": 1,
-   "summary": "Green for go.",
-   "title_ar": ""
-  },
   "pushsquare.com/news/2026/11/silent-hill-fatal-frame-inspire-this-promising-new-ps5-horror-game": {
    "at": "2026-11-23T13:15:42.554074+00:00",
    "title": "Silent Hill, Fatal Frame Inspire This Promising New PS5 Horror Game",
@@ -10757,6 +10702,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Politicians on both side of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.",
+   "title_ar": ""
+  },
+  "techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios": {
+   "at": "2026-11-23T22:15:30.597617+00:00",
+   "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Think you know where the market is headed?",
    "title_ar": ""
   },
   "techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing": {
@@ -12931,7 +12887,7 @@
   "AI": "2026-11-23T21:00:40.293618+00:00",
   "Anime": "2026-11-23T20:30:36.394673+00:00",
   "Games": "2026-11-23T19:45:27.670567+00:00",
-  "Tech": "2026-11-23T22:00:42.983752+00:00"
+  "Tech": "2026-11-23T22:15:30.597617+00:00"
  },
  "digest_day": "2026-11-23",
  "weekly_day": "2026-11-20"
