@@ -13014,6 +13014,17 @@
    "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
    "title_ar": "\"كذب\" Jensen Huang أثار قلق مجلس إدارة Nvidia قبيل استقالته"
   },
+  "wired.com/story/nvidia-is-powering-brain-computer-interfaces-now": {
+   "at": "2026-11-23T13:30:35.007374+00:00",
+   "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
+   "title_ar": "Nvidia تدعم واجهات الدماغ والحاسوب الآن"
+  },
   "wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang": {
    "at": "2026-11-17T22:30:40.650802+00:00",
    "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
@@ -13027,7 +13038,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-23T12:30:38.285314+00:00",
+  "AI": "2026-11-23T13:30:35.007374+00:00",
   "Anime": "2026-11-23T11:30:34.634511+00:00",
   "Games": "2026-11-23T12:45:27.338609+00:00",
   "Tech": "2026-11-23T13:15:42.554074+00:00"
