@@ -1,17 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/16/google-intelligent-eyewear-gentle-monster-android-xr-sold-out": {
-   "at": "2026-11-16T19:15:28.268205+00:00",
-   "title": "Google’s Intelligent Eyewear glasses from Gentle Monster are already sold out",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/16/google-intelligent-eyewear-gentle-monster-android-xr-sold-out/",
-   "score": 3,
-   "sources": 2,
-   "summary": "One of the first partner brands selling Android XR glasses, “Intelligent Eyewear” as Google calls it, has already completely sold out, with Gentle Monster no longer accepting pre-orders just days…",
-   "title_ar": "نظارات Intelligent Eyewear الذكية من Google بالتعاون مع Gentle Monster نفدت بالكامل بالفعل"
-  },
   "9to5google.com/2026/11/16/november-2026-google-system-updates": {
    "at": "2026-11-17T00:45:30.312750+00:00",
    "title": "What’s new in Android’s November 2026 Google System Updates [U: Pixel virtual gamepad]",
@@ -606,6 +595,17 @@
    "summary": "After shutting down its US operations earlier this year, OnePlus has quietly closed its website in some regions as it shifts to “focus on customer support.” more…",
    "title_ar": "OnePlus تبدأ في إغلاق موقعها الإلكتروني \"للتركيز على دعم العملاء\""
   },
+  "9to5google.com/2026/11/23/oura-ring-5-black-friday-week-2026-deal": {
+   "at": "2026-11-23T19:30:36.152676+00:00",
+   "title": "You’ll be aura farming with this amazing $100-off Oura Ring 5 deal",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5google.com/2026/11/23/oura-ring-5-black-friday-week-2026-deal/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The world’s highest-rated smart ring is on sale for Black Friday week, and it’ll blow you away. more…",
+   "title_ar": ""
+  },
   "9to5google.com/2026/11/23/samsung-galaxy-watch-10-new-schedule-report": {
    "at": "2026-11-23T13:45:29.387367+00:00",
    "title": "‘Galaxy Watch 10’ won’t launch in 2027 as Samsung tries to slow RAMageddon losses",
@@ -726,17 +726,6 @@
    "sources": 1,
    "summary": "Apple marketing SVP Greg Joswiak said today that the number of iPhone Duo-ready apps on the App Store is twice what it was when Apple last reported the figure.",
    "title_ar": "تطبيق iPhone Duo يمتلك الآن ضعف عدد التطبيقات المحسّنة مقارنة بما كان عليه قبل 10 أيام"
-  },
-  "9to5mac.com/2026/11/16/macos-27-3-beta-2-now-available": {
-   "at": "2026-11-16T19:15:28.268205+00:00",
-   "title": "macOS 27.3 beta 2 now available with vertical tabs in Safari, native Live Activities, more",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/16/macos-27-3-beta-2-now-available/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple is rolling out the second developer beta of macOS 27.3 ahead of the official launch of the update, which includes several notable additions.",
-   "title_ar": ""
   },
   "9to5mac.com/2026/11/16/new-iphone-duo-orders-now-deliver-a-month-earlier-than-before": {
    "at": "2026-11-17T03:00:44.641259+00:00",
@@ -1793,17 +1782,6 @@
    "sources": 2,
    "summary": "Live-action Street Fighter ranks at #16 in U.S.",
    "title_ar": "فيلم Godzilla Minus Zero يحقق 8 ملايين دولار بانخفاض بنسبة 73% في شباك التذاكر الأمريكي، ويتجاوز 100 مليون دولار عالمياً"
-  },
-  "animenewsnetwork.com/news/2026-11-16/lisa-babymetal-earn-nominations-for-2027-grammy-awards-new-best-asian-pop-music-performance-category/.243861": {
-   "at": "2026-11-16T19:15:28.268205+00:00",
-   "title": "LiSA, BABYMETAL Earn Nominations for 2027 Grammy Awards' New Best Asian Pop Music Performance Category",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-16/lisa-babymetal-earn-nominations-for-2027-grammy-awards-new-best-asian-pop-music-performance-category/.243861",
-   "score": 0,
-   "sources": 1,
-   "summary": "BINI, SB19, IVE, KiiiKiii also nominated for new category",
-   "title_ar": ""
   },
   "animenewsnetwork.com/news/2026-11-16/live-action-my-sister-boyfriend-film-new-video-highlights-song-by-timelesz/.243893": {
    "at": "2026-11-17T05:00:44.779285+00:00",
@@ -3992,6 +3970,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Rockstar has a history of releasing its games at lower framerates than rival titles.",
+   "title_ar": ""
+  },
+  "engadget.com/2320286/underrated-smart-rings-more-affordable-oura-ring-5": {
+   "at": "2026-11-23T19:30:36.152676+00:00",
+   "title": "These underrated smart rings are more affordable than the Oura Ring 5",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2320286/underrated-smart-rings-more-affordable-oura-ring-5/",
+   "score": 2,
+   "sources": 2,
+   "summary": "Find out how affordable smart rings compare with the Oura Ring 5 on upfront price and long-term cost and know which trade-offs come with paying less.",
    "title_ar": ""
   },
   "engadget.com/2320303/youll-need-the-latest-ps5-firmware-update-to-play-gta-vi": {
@@ -6425,17 +6414,6 @@
    "summary": "Samsung recently unveiled its first clip-on earbuds, the Galaxy Buds On, and it looks like another new pair is on the way.",
    "title_ar": "تسريب معلومات حول سماعات Galaxy Buds Active الرياضية من Samsung مع ميزات متطورة"
   },
-  "gsmarena.com/samsungs_gentle_monster_smart_glasses_preorders_are_already_sold_out-news-75496.php": {
-   "at": "2026-11-16T19:15:28.268205+00:00",
-   "title": "Samsung's Gentle Monster smart glasses pre-orders are already sold out",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.gsmarena.com/samsungs_gentle_monster_smart_glasses_preorders_are_already_sold_out-news-75496.php",
-   "score": 0,
-   "sources": 1,
-   "summary": "Samsung opened pre-orders for its Intelligent Eyewear smart glasses on November 12 in the US and South Korea.",
-   "title_ar": ""
-  },
   "gsmarena.com/samsungs_mobile_repair_vans_have_fixed_over_50000_galaxy_devices_in_europe-news-75550.php": {
    "at": "2026-11-20T06:15:40.081738+00:00",
    "title": "Samsung's mobile repair vans have fixed over 50,000 Galaxy devices in Europe",
@@ -6656,6 +6634,17 @@
    "summary": "Marvel has released a major new Avengers: Doomsday trailer showing our best look at the film yet, though the studio is seemingly keeping some of its big cards close to its chest.",
    "title_ar": "العرض الدعائي الأخير لـ Avengers: Doomsday يركز بشكل كبير على Steve Rogers بينما تستمر Marvel في إبقاء الكشوفات الكبرى طّي الكتمان"
   },
+  "ign.com/articles/avengers-doomsday-poster-gives-us-our-closest-look-at-doctor-dooms-mask-yet": {
+   "at": "2026-11-23T19:30:36.152676+00:00",
+   "title": "Avengers: Doomsday Poster Gives Us Our Closest Look at Doctor Doom's Mask Yet",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/avengers-doomsday-poster-gives-us-our-closest-look-at-doctor-dooms-mask-yet",
+   "score": 0,
+   "sources": 1,
+   "summary": "Marvel Studios has released a new Avengers: Doomsday poster that gives us our closest look at Doctor Doom's mask yet.",
+   "title_ar": ""
+  },
   "ign.com/articles/avengers-doomsday-runtime-revealed-as-trailer-teased-for-today": {
    "at": "2026-11-23T15:45:28.235141+00:00",
    "title": "Avengers: Doomsday Runtime Revealed as Trailer Teased for Today",
@@ -6720,6 +6709,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Cyberleek has returned for the launch of GTA 6 to allegedly release a near complete Xbox build of the game — and has threatened to release its executable in just days.",
+   "title_ar": ""
+  },
+  "ign.com/articles/deborah-ann-woll-will-reprise-her-role-as-faye-in-the-god-of-war-show": {
+   "at": "2026-11-23T19:30:36.152676+00:00",
+   "title": "Deborah Ann Woll Will Reprise Her Role as Faye in the God of War Show",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/deborah-ann-woll-will-reprise-her-role-as-faye-in-the-god-of-war-show",
+   "score": 0,
+   "sources": 1,
+   "summary": "Deborah Ann Woll will reprise her role as Faye in Prime Video's live-action God of War show.",
    "title_ar": ""
   },
   "ign.com/articles/devgamm-awards-2026-winners-revealed": {
@@ -7292,6 +7292,17 @@
    "score": 0,
    "sources": 1,
    "summary": "The Hunger Games: Sunrise on the Reaping took GTA 6 players off of their couches and into movie theaters with a staggering estimated box office total of $225 million in its opening weekend.",
+   "title_ar": ""
+  },
+  "ign.com/articles/the-internet-reacts-to-jensen-huangs-shock-return-as-nvidia-ceo": {
+   "at": "2026-11-23T19:30:36.152676+00:00",
+   "title": "The Internet Reacts to Jensen Huang's Shock Return as Nvidia CEO",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/the-internet-reacts-to-jensen-huangs-shock-return-as-nvidia-ceo",
+   "score": 0,
+   "sources": 1,
+   "summary": "The internet is reacting to Jensen Huang's shock return as Nvidia CEO.",
    "title_ar": ""
   },
   "ign.com/articles/this-is-akin-to-a-moon-landing-how-gamings-top-content-creators-are-preparing-for-gta-6s-launch-and-beyond": {
@@ -9494,6 +9505,17 @@
    "summary": "The Game Awards says its judges \"may be provided with advance or pre-release access to games for critical evaluation.\"",
    "title_ar": ""
   },
+  "pcgamer.com/gaming-industry/former-dragon-age-boss-questions-whether-bioware-should-have-become-a-one-project-studio-dropping-either-mass-effect-or-dragon-age-to-survive-ea": {
+   "at": "2026-11-23T19:30:36.152676+00:00",
+   "title": "Former Dragon Age boss questions whether BioWare should have become 'a one project studio' dropping either Mass Effect or Dragon Age to survive EA",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/gaming-industry/former-dragon-age-boss-questions-whether-bioware-should-have-become-a-one-project-studio-dropping-either-mass-effect-or-dragon-age-to-survive-ea/",
+   "score": 0,
+   "sources": 1,
+   "summary": "\"There are lots of studios within EA that did that and it didn't work—they still got murdered in their sleep.\"",
+   "title_ar": ""
+  },
   "pcgamer.com/gaming-industry/gamestop-boss-calls-for-return-of-physical-discs-just-as-gta-6-does-digital-gangbusters": {
    "at": "2026-11-20T17:00:44.397019+00:00",
    "title": "GameStop boss calls for return of physical discs just as GTA 6 does digital gangbusters",
@@ -10087,17 +10109,6 @@
    "sources": 1,
    "summary": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin gigafactory.",
    "title_ar": "تيسلا تراهن كلياً على مركبة Cybercab مع التوسع القادم لمصنعها الضخم في برلين بقيمة 3 مليارات يورو"
-  },
-  "techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security": {
-   "at": "2026-11-16T19:15:28.268205+00:00",
-   "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-   "title_ar": ""
   },
   "techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach": {
    "at": "2026-11-17T04:15:27.056743+00:00",
@@ -10757,6 +10768,17 @@
    "score": 0,
    "sources": 1,
    "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+   "title_ar": ""
+  },
+  "techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet": {
+   "at": "2026-11-23T19:30:36.152676+00:00",
+   "title": "Jensen Huang isn’t out of the woods yet",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
    "title_ar": ""
   },
   "techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo": {
@@ -12975,7 +12997,7 @@
   "AI": "2026-11-23T19:00:41.499044+00:00",
   "Anime": "2026-11-23T16:30:44.151198+00:00",
   "Games": "2026-11-23T19:15:28.120416+00:00",
-  "Tech": "2026-11-23T18:45:38.977778+00:00"
+  "Tech": "2026-11-23T19:30:36.152676+00:00"
  },
  "digest_day": "2026-11-23",
  "weekly_day": "2026-11-20"
