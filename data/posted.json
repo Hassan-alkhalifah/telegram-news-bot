@@ -1761,17 +1761,6 @@
    "summary": "SHIBOYUGI: Playing Death Games to Put Food on the Table anime is getting a…",
    "title_ar": ""
   },
-  "animecorner.me/skip-and-loafer-season-2-reveals-new-key-visual-new-trailer": {
-   "at": "2026-11-16T12:15:34.564378+00:00",
-   "title": "Skip and Loafer Season 2 Reveals New Key Visual, New Trailer",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://animecorner.me/skip-and-loafer-season-2-reveals-new-key-visual-new-trailer/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The previously announced Skip and Loafer Season 2 revealed a key visual and a…",
-   "title_ar": ""
-  },
   "animecorner.me/spice-and-wolf-season-2-announces-january-2027-premiere": {
    "at": "2026-11-18T11:30:33.937179+00:00",
    "title": "Spice and Wolf Season 2 Announces January 2027 Premiere",
@@ -5016,17 +5005,6 @@
    "sources": 2,
    "summary": "Infinity Nikki , the free-to-play, cozy, open-world dress-up game, is at the centre of controversy again, though this time not because fans disliked one of the game's updates .",
    "title_ar": "عشاق لعبة Infinity Nikki يهددون بمقاطعة اللعبة بعد الترويج لها من قبل والدة Elon Musk، ولكن قد يكون هناك سبب حقيقي لمشاركتها"
-  },
-  "eurogamer.net/microsoft-project-helix-interview-details": {
-   "at": "2026-11-16T12:15:34.564378+00:00",
-   "title": "The next Xbox, Project Helix, is a console and \"not a PC\" says Microsoft, as it clarifies that computational power isn't sole focus this time",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.eurogamer.net/microsoft-project-helix-interview-details",
-   "score": 0,
-   "sources": 1,
-   "summary": "Microsoft has stressed that its next-generation Xbox console, Project Helix, \"is not a PC that can also play console games\", but rather \"a console that is also capable of playing games from your PC\".",
-   "title_ar": ""
   },
   "eurogamer.net/new-zealand-tourist-board-gives-nod-grand-theft-auto-timezone-trick": {
    "at": "2026-11-18T11:30:33.937179+00:00",
@@ -8944,17 +8922,6 @@
    "summary": "One of 2027's big-hitters.",
    "title_ar": "الكشف عن تفاصيل لعبة Kirby And The World Beyond في كتالوج نينتندو"
   },
-  "nintendolife.com/news/2026/11/mega-man-dual-override-reveals-robot-master-design-contest-winner": {
-   "at": "2026-11-16T12:15:34.564378+00:00",
-   "title": "Mega Man: Dual Override Reveals Robot Master Design Contest Winner",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.nintendolife.com/news/2026/11/mega-man-dual-override-reveals-robot-master-design-contest-winner",
-   "score": 3,
-   "sources": 2,
-   "summary": "Gold Prize Man.",
-   "title_ar": "Mega Man: Dual Override يكشف عن الفائز في مسابقة تصميم Robot Master"
-  },
   "nintendolife.com/news/2026/11/nba-2k27-brings-a-slice-of-gta-6s-vice-city-to-switch-2-this-month": {
    "at": "2026-11-16T19:00:45.669826+00:00",
    "title": "NBA 2K27 Brings A Slice Of GTA 6's Vice City To Switch 2 This Month",
@@ -9954,17 +9921,6 @@
    "score": 0,
    "sources": 1,
    "summary": "A third of Firaxis staff to lose their job.",
-   "title_ar": ""
-  },
-  "pushsquare.com/news/2026/11/mega-man-dual-overrides-boss-design-contest-winner-has-been-decided": {
-   "at": "2026-11-16T12:15:34.564378+00:00",
-   "title": "Mega Man: Dual Override's Boss Design Contest Winner Has Been Decided",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pushsquare.com/news/2026/11/mega-man-dual-overrides-boss-design-contest-winner-has-been-decided",
-   "score": 0,
-   "sources": 1,
-   "summary": "Clean sweep.",
    "title_ar": ""
   },
   "pushsquare.com/news/2026/11/nba-players-receive-this-special-gta-6-ps5-pro-console-and-were-not-jealous-at-all": {
@@ -11154,6 +11110,17 @@
    "sources": 1,
    "summary": "OpenAI's GPT-6.2 Astra and Sol give much shorter, more direct answers than their predecessors, but they are also less willing to admit uncertainty.",
    "title_ar": ""
+  },
+  "the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy": {
+   "at": "2026-11-23T12:30:38.285314+00:00",
+   "title": "GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/",
+   "score": 1,
+   "sources": 1,
+   "summary": "OpenAI's GPT-6.2 Astra independently produced a machine-verifiable Lean proof of Smoktunowicz's gap theorem, the first of its kind according to Vals AI.",
+   "title_ar": "GPT-6.2 Astra يحل نظرية رياضية لم نستطع أي ذكاء اصطناعي آخر فك طلاسمها، ثم يبتكر استراتيجية إثبات خاصة به"
   },
   "the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft": {
    "at": "2026-11-21T11:30:34.370486+00:00",
@@ -13115,7 +13082,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-23T01:30:36.371011+00:00",
+  "AI": "2026-11-23T12:30:38.285314+00:00",
   "Anime": "2026-11-23T11:30:34.634511+00:00",
   "Games": "2026-11-23T12:00:46.788927+00:00",
   "Tech": "2026-11-23T12:15:29.698095+00:00"
