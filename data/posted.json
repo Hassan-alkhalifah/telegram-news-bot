@@ -7184,6 +7184,17 @@
    "summary": "Rockstar seems to be releasing a new update for GTA 6 in phases today and the size of the latest patch has been revealed too.",
    "title_ar": "صدور تحديث جديد لـ GTA 6 على مراحل وكشف حجمه"
   },
+  "insider-gaming.com/gta-6-runs-better-xbox-series-x": {
+   "at": "2026-11-24T23:00:41.564488+00:00",
+   "title": "GTA 6 Runs Better On Xbox Series X Than Base PS5",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/gta-6-runs-better-xbox-series-x/",
+   "score": 0,
+   "sources": 1,
+   "summary": "After extensive testing from Digital Foundry, it's been found that GTA 6 performs better on Xbox Series X compared to base PS5.",
+   "title_ar": ""
+  },
   "insider-gaming.com/gta-6-screenshots-surface-social-media": {
    "at": "2026-11-18T00:00:51.118565+00:00",
    "title": "New GTA 6 Screenshots Surface Online Showing New Weapons, Scenes",
@@ -10429,6 +10440,17 @@
    "summary": "OpenAI has significantly strengthened safeguards against extracting internal reasoning from GPT-6.2 Astra and GPT-6.2 Sol.",
    "title_ar": "أوبن إيه آي تجعل من الصعب جداً على المهاجمين استخراج طريقة تفكير أحدث نماذج الذكاء الاصطناعي لديها"
   },
+  "the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress": {
+   "at": "2026-11-24T23:00:41.564488+00:00",
+   "title": "OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a \"very steep rate of progress\"",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress/",
+   "score": 1,
+   "sources": 1,
+   "summary": "OpenAI researcher Noam Brown is urging promising students to drop out, saying it's \"not a great time to sit on the sidelines.\" The o1 co-creator says AI is still in a \"centaur period\" and struggles…",
+   "title_ar": "مشارس مبيتكر OpenAI o1 نوعام براون يحث الطلاب الواعدين على ترك الدراسة مع دخول الذكاء الاصطناعي \"معدل تقدم شديد الانحدار\""
+  },
   "the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time": {
    "at": "2026-11-18T14:45:28.968423+00:00",
    "title": "OpenAI opens its AI systems to four independent on-site auditors for the first time",
@@ -12136,7 +12158,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-24T22:15:28.848468+00:00",
+  "AI": "2026-11-24T23:00:41.564488+00:00",
   "Anime": "2026-11-24T17:30:40.453460+00:00",
   "Games": "2026-11-24T22:30:39.883778+00:00",
   "Tech": "2026-11-24T22:45:38.939340+00:00"
