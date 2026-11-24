@@ -1563,6 +1563,17 @@
    "summary": "A security researcher has discovered a publicly exposed database containing approximately two billion credentials.",
    "title_ar": "تسريب ملياري بيان اعتماد علناً، بما في ذلك كل ما يلزم لسرقة الهوية"
   },
+  "9to5mac.com/2026/11/24/walmart-drops-apple-pay-support-from-its-app-and-website": {
+   "at": "2026-11-24T22:00:44.054820+00:00",
+   "title": "Walmart drops Apple Pay support from its app and website",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/24/walmart-drops-apple-pay-support-from-its-app-and-website/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Walmart appears to have dropped support for Apple Pay on its website and in its iPhone app.",
+   "title_ar": "Walmart يتخلى عن دعم Apple Pay في تطبيقه وموقعه الإلكتروني"
+  },
   "animecorner.me/bang-dream-yumemita-gets-new-anime-series": {
    "at": "2026-11-20T15:00:58.715478+00:00",
    "title": "BanG Dream! Yume∞Mita Gets New Anime Series",
@@ -7217,17 +7228,6 @@
    "summary": "Nioh 3 Complete Edition has been leaked through the Korean game rating board, GRAC, hinting at a potential early 2027 release date.",
    "title_ar": ""
   },
-  "insider-gaming.com/no-sony-game-of-the-year-nominations": {
-   "at": "2026-11-17T21:45:29.099483+00:00",
-   "title": "Sony Has No Game of the Year Nods for First Time Since 2014",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/no-sony-game-of-the-year-nominations/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Typical mainstays in the Game of the Year conversation, Sony doesn't have a nominee for the first time in 11 years.",
-   "title_ar": ""
-  },
   "insider-gaming.com/playstation-confirms-latest-ps5-system-software-update-is-needed-to-play-gta-6": {
    "at": "2026-11-18T14:30:41.729060+00:00",
    "title": "PlayStation Confirms Latest PS5 System Software Update is Needed to Play GTA 6",
@@ -8702,6 +8702,17 @@
    "summary": "Rockstar brought weather back to Leonida.",
    "title_ar": ""
   },
+  "pcgamer.com/games/grand-theft-auto/gta-6-recomp-explained": {
+   "at": "2026-11-24T22:00:44.054820+00:00",
+   "title": "The race to port GTA 6 to PC, explained",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-explained/",
+   "score": 0,
+   "sources": 1,
+   "summary": "GTA 6 could be a PC game (illegally) in a matter of days.",
+   "title_ar": ""
+  },
   "pcgamer.com/games/grand-theft-auto/gta-6-refuel-repair-cars": {
    "at": "2026-11-19T15:00:46.925457+00:00",
    "title": "Refueling cars in GTA 6 is barely necessary, but there's much better reason to visit garages",
@@ -9406,17 +9417,6 @@
    "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher.",
    "title_ar": "أمازون وغوغل ستملكان معاً ما يقرب من 30% من شركة Anthropic بعد طرحها العام الأول"
   },
-  "techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one": {
-   "at": "2026-11-17T21:45:29.099483+00:00",
-   "title": "Google joins the tech outage trend by announcing it’s not having one",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
-   "score": 2,
-   "sources": 1,
-   "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
-   "title_ar": "Google تنضم إلى موجة الأعطال التقنية بالإعلان عن عدم وجود أي عطل لديها"
-  },
   "techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster": {
    "at": "2026-11-17T23:45:30.792875+00:00",
    "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
@@ -10075,6 +10075,17 @@
    "score": 0,
    "sources": 1,
    "summary": "During a meeting before his reinstatement, Huang admitted to more affairs beyond the two that have been reported in the news, according to The Wall Street Journal.",
+   "title_ar": ""
+  },
+  "techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy": {
+   "at": "2026-11-24T22:00:44.054820+00:00",
+   "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
    "title_ar": ""
   },
   "techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself": {
@@ -10813,17 +10824,6 @@
    "sources": 1,
    "summary": "Instagram is beginning to roll out a \"content protection\" feature that lets creators see and review copies of their videos posted to the platform.",
    "title_ar": "Instagram يساعد صناع المحتوى في التصدي للفيديوهات المقلدة"
-  },
-  "theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang": {
-   "at": "2026-11-17T21:45:29.099483+00:00",
-   "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
-   "score": 0,
-   "sources": 1,
-   "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang - though that will likely change once analysts are on the line…",
-   "title_ar": ""
   },
   "theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub": {
    "at": "2026-11-17T22:45:27.301875+00:00",
@@ -11826,6 +11826,17 @@
    "summary": "Arion Kurtaj was deemed to fit to stand trial earlier this year",
    "title_ar": ""
   },
+  "videogameschronicle.com/news/gta-6-has-more-framerate-drops-on-ps5-than-xbox-series-x-according-to-analysis": {
+   "at": "2026-11-24T22:00:44.054820+00:00",
+   "title": "GTA 6 has more framerate drops on PS5 than Xbox Series X, according to analysis",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.videogameschronicle.com/news/gta-6-has-more-framerate-drops-on-ps5-than-xbox-series-x-according-to-analysis/",
+   "score": 0,
+   "sources": 1,
+   "summary": "It looks like Xbox Series X can maintain 30fps more reliably than PS5",
+   "title_ar": ""
+  },
   "videogameschronicle.com/news/gta-6-players-discover-our-real-first-look-at-the-game-was-likely-hidden-in-a-2021-remaster": {
    "at": "2026-11-18T19:45:31.552390+00:00",
    "title": "GTA 6 players discover our real first look at the game was likely hidden in a 2021 remaster",
@@ -12205,7 +12216,7 @@
   "AI": "2026-11-24T21:30:36.227910+00:00",
   "Anime": "2026-11-24T17:30:40.453460+00:00",
   "Games": "2026-11-24T21:45:28.171834+00:00",
-  "Tech": "2026-11-24T21:15:31.231920+00:00"
+  "Tech": "2026-11-24T22:00:44.054820+00:00"
  },
  "digest_day": "2026-11-24",
  "weekly_day": "2026-11-20"
