@@ -10077,6 +10077,17 @@
    "summary": "During a meeting before his reinstatement, Huang admitted to more affairs beyond the two that have been reported in the news, according to The Wall Street Journal.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself": {
+   "at": "2026-11-24T21:30:36.227910+00:00",
+   "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+   "score": 1,
+   "sources": 1,
+   "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+   "title_ar": "شركة Maple تجمع 5.3 ملايين دولار لبناء منتجات ذكاء اصطناعي تحمي بياناتك حتى منها نفسها"
+  },
   "techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms": {
    "at": "2026-11-24T18:30:36.671489+00:00",
    "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
@@ -12191,7 +12202,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-24T20:45:27.303493+00:00",
+  "AI": "2026-11-24T21:30:36.227910+00:00",
   "Anime": "2026-11-24T17:30:40.453460+00:00",
   "Games": "2026-11-24T21:00:53.640826+00:00",
   "Tech": "2026-11-24T21:15:31.231920+00:00"
