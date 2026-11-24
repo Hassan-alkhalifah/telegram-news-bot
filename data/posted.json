@@ -6018,17 +6018,6 @@
    "summary": "Earlier this month, the iPhone Air 2 and the standard iPhone 18 showed up as dummy units on Weibo.",
    "title_ar": ""
   },
-  "gsmarena.com/iphone_duo_2_could_get_face_id_but_apple_is_running_out_of_time-news-75500.php": {
-   "at": "2026-11-16T23:45:29.284385+00:00",
-   "title": "iPhone Duo 2 could get Face ID, but Apple is running out of time",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.gsmarena.com/iphone_duo_2_could_get_face_id_but_apple_is_running_out_of_time-news-75500.php",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple wants to bring Face ID to the iPhone Duo 2, but it's running out of time, according to Bloomberg's Mark Gurman.",
-   "title_ar": ""
-  },
   "gsmarena.com/iphone_duo_gets_face_unlock_feature_in_latest_ios_273_beta-news-75502.php": {
    "at": "2026-11-17T09:30:46.648938+00:00",
    "title": "iPhone Duo gets face unlock feature in latest iOS 27.3 beta",
@@ -10781,17 +10770,6 @@
    "summary": "A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep developing software on their own and…",
    "title_ar": ""
   },
-  "the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices": {
-   "at": "2026-11-16T23:45:29.284385+00:00",
-   "title": "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Alibaba launches Qwen4-Max, a new flagship model with 2.4 trillion parameters that activates only 71 billion per token.",
-   "title_ar": "نموذج Qwen4-Max من Alibaba ينافس Opus 5.5 و GPT-6 و Kimi K3.1 Pro بأسعار أقل بكثير"
-  },
   "the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool": {
    "at": "2026-11-19T21:45:26.976771+00:00",
    "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
@@ -12530,6 +12508,17 @@
    "summary": "This would easily give it the highest day one sales in entertainment history",
    "title_ar": ""
   },
+  "videogameschronicle.com/news/gta-6-was-the-biggest-launch-in-playstation-history-with-over-39-million-players": {
+   "at": "2026-11-24T00:00:42.018277+00:00",
+   "title": "GTA 6 was the ‘biggest launch in PlayStation history’ with over 39 million players",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.videogameschronicle.com/news/gta-6-was-the-biggest-launch-in-playstation-history-with-over-39-million-players/",
+   "score": 2,
+   "sources": 1,
+   "summary": "GTA 6 has broken another record",
+   "title_ar": ""
+  },
   "videogameschronicle.com/news/indiana-jones-and-the-great-circle-designer-says-it-was-very-tough-to-make-a-machinegames-title-that-didnt-focus-on-guns": {
    "at": "2026-11-17T00:30:36.360305+00:00",
    "title": "Indiana Jones and the Great Circle designer says it was ‘very tough’ to make a MachineGames title that didn’t focus on guns",
@@ -12908,7 +12897,7 @@
  "topic_last_posted": {
   "AI": "2026-11-23T21:00:40.293618+00:00",
   "Anime": "2026-11-23T20:30:36.394673+00:00",
-  "Games": "2026-11-23T19:45:27.670567+00:00",
+  "Games": "2026-11-24T00:00:42.018277+00:00",
   "Tech": "2026-11-23T23:45:28.061890+00:00"
  },
  "digest_day": "2026-11-23",
