@@ -1706,17 +1706,6 @@
    "summary": "Yūichirō Umehara joins cast with some staff changes after delay of more than a year",
    "title_ar": ""
   },
-  "animenewsnetwork.com/news/2026-11-17/reading-our-way-to-a-happy-new-world-manga-listed-to-end-with-3rd-volume/.243882": {
-   "at": "2026-11-17T22:00:49.505897+00:00",
-   "title": "Reading Our Way to a Happy New World Manga Listed to End With 3rd Volume",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-17/reading-our-way-to-a-happy-new-world-manga-listed-to-end-with-3rd-volume/.243882",
-   "score": 0,
-   "sources": 1,
-   "summary": "Series debuted in June 2025",
-   "title_ar": ""
-  },
   "animenewsnetwork.com/news/2026-11-17/rpg-maker-u2u-software-launches-for-pc-via-steam-on-january-28/.243916": {
    "at": "2026-11-17T23:00:44.352035+00:00",
    "title": "RPG Maker U2U Software Launches for PC via Steam on January 28",
@@ -7899,6 +7888,17 @@
    "summary": "Everyone is doing it",
    "title_ar": ""
   },
+  "kotaku.com/yes-despite-what-some-say-online-there-are-thunderstorms-in-gta-6-2001000112": {
+   "at": "2026-11-24T22:15:28.848468+00:00",
+   "title": "Yes, Despite What Some Say Online, There Are Thunderstorms In GTA 6",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/yes-despite-what-some-say-online-there-are-thunderstorms-in-gta-6-2001000112",
+   "score": 0,
+   "sources": 1,
+   "summary": "It seems like things weren't working properly for some people until a recent patch, though",
+   "title_ar": ""
+  },
   "myanimelist.net/news/74951722?_location=rss": {
    "at": "2026-11-18T01:30:34.240039+00:00",
    "title": "'Soara to Mamono no Ie' Announces Additional Cast Pair",
@@ -9472,17 +9472,6 @@
    "summary": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
    "title_ar": "تقنية الدماغ من شركة Science Corporation تبلغ قيمتها 3.5 مليارات دولار بعد تمويل جديد"
   },
-  "techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit": {
-   "at": "2026-11-17T22:00:49.505897+00:00",
-   "title": "SEC reportedly investigating Nvidia amid Huang exit",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
-   "title_ar": ""
-  },
   "techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order": {
    "at": "2026-11-17T22:15:30.159290+00:00",
    "title": "Waymo suspends freeway rides nationwide after California DMV order",
@@ -10693,6 +10682,17 @@
    "summary": "Tidal is officially banning AI-generated music on December 9th.",
    "title_ar": ""
   },
+  "theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive": {
+   "at": "2026-11-24T22:15:28.848468+00:00",
+   "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+   "score": 1,
+   "sources": 1,
+   "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised…",
+   "title_ar": "ديفيد فينشر يتعرض لانتقادات بسبب الاشتباه في استخدامه الذكاء الاصطناعي في أحدث أفلامه"
+  },
   "theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording": {
    "at": "2026-11-23T20:30:36.394673+00:00",
    "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
@@ -11749,17 +11749,6 @@
    "summary": "\"They basically said 'you've gotta hit your financials, so what are you going to do?'\"",
    "title_ar": ""
   },
-  "videogameschronicle.com/news/first-look-at-gtas-miami-heat-full-stadium-transformation": {
-   "at": "2026-11-17T22:00:49.505897+00:00",
-   "title": "First look at GTA’s Miami Heat full stadium transformation",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.videogameschronicle.com/news/first-look-at-gtas-miami-heat-full-stadium-transformation/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Miami Heat introduces \"the Vice City hardwood\"",
-   "title_ar": "نظرة أولى على تحويل ملعب Miami Heat بالكامل بثيمة GTA"
-  },
   "videogameschronicle.com/news/grand-theft-auto-6-has-received-a-new-patch-which-fixes-autosaving": {
    "at": "2026-11-23T17:15:39.309842+00:00",
    "title": "Grand Theft Auto 6 has received a new update which fixes autosaving",
@@ -12213,7 +12202,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-24T21:30:36.227910+00:00",
+  "AI": "2026-11-24T22:15:28.848468+00:00",
   "Anime": "2026-11-24T17:30:40.453460+00:00",
   "Games": "2026-11-24T21:45:28.171834+00:00",
   "Tech": "2026-11-24T22:00:44.054820+00:00"
