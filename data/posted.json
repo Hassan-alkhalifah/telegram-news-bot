@@ -4973,6 +4973,17 @@
    "summary": "Don't expect GTA 6 to get an update supporting higher framerate modes, at least, not on current-generation consoles.",
    "title_ar": ""
   },
+  "eurogamer.net/red-dead-redemption-movie-tv-rights-100-million-usd-no-gta": {
+   "at": "2026-11-24T12:00:43.798810+00:00",
+   "title": "Rockstar is actively shopping Read Dead Redemption movie and TV rights around, just don't expect the same for Grand Theft Auto",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.eurogamer.net/red-dead-redemption-movie-tv-rights-100-million-usd-no-gta",
+   "score": 2,
+   "sources": 1,
+   "summary": "Rockstar Games is seemingly interested in expanding Red Dead Redemption beyond video games, after years of Hollywood knocking on its doors.",
+   "title_ar": "شركة Rockstar تبحث بجدية عن عروض لحقوق تحويل Red Dead Redemption إلى فيلم ومسلسل، ولكن لا تتوقع الأمر ذاته مع Grand Theft Auto"
+  },
   "eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-physical-sales-us-1-million": {
    "at": "2026-11-17T14:30:39.373129+00:00",
    "title": "The Legend of Zelda: Ocarina of Time on Switch 2 is the US' best-selling physical game so far this year",
@@ -8282,17 +8293,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Everyone is doing it",
-   "title_ar": ""
-  },
-  "kotaku.com/zelda-ocarina-of-time-remake-sold-1-million-physical-copies-in-its-first-week-the-most-since-tears-of-the-kingdom-2000757645": {
-   "at": "2026-11-17T11:45:31.717233+00:00",
-   "title": "Zelda: Ocarina Of Time Remake Sold 1 Million Physical Copies In Its First Week, The Most Since Tears Of The Kingdom",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/zelda-ocarina-of-time-remake-sold-1-million-physical-copies-in-its-first-week-the-most-since-tears-of-the-kingdom-2000757645",
-   "score": 0,
-   "sources": 1,
-   "summary": "Fans still want Zelda on a cartridge",
    "title_ar": ""
   },
   "myanimelist.net/news/74949726?_location=rss": {
@@ -12310,17 +12310,6 @@
    "summary": "Intel's 18A yields achieve an important milestone as the company signs a long-term Xeon supply deal and EMIB usage agreement with Microsoft.",
    "title_ar": "معدلات استرداد تقنية Intel 18A تصل إلى 70% مع توقيع الشركة مع Microsoft كعميل لتقنية EMIB"
   },
-  "tomshardware.com/tech-industry/semiconductors/samsung-sk-hynix-and-micron-form-unlikely-alliance-to-standardize-robot-charging-as-chipmakers-push-toward-unmanned-chip-fabs-standard-specs-would-allow-manufacturer-agnostic-charging-equipment": {
-   "at": "2026-11-17T11:45:31.717233+00:00",
-   "title": "Samsung, SK hynix, and Micron form unlikely alliance to standardize robot charging as chipmakers push toward unmanned fabs",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/tech-industry/semiconductors/samsung-sk-hynix-and-micron-form-unlikely-alliance-to-standardize-robot-charging-as-chipmakers-push-toward-unmanned-chip-fabs-standard-specs-would-allow-manufacturer-agnostic-charging-equipment",
-   "score": 1,
-   "sources": 1,
-   "summary": "Samsung, SK hynix, and Micron are working to standardize charging infrastructure for mobile fab robot batteries to simplify automation and help fabs deploy larger mixed robotic fleets.",
-   "title_ar": "شركات Samsung و SK hynix و Micron تشكل تحالفاً غير متوقع توحيداً لعملية شحن الروبوتات بينما يدفع مصنعو الرقاقات نحو مصانع بلا بشري"
-  },
   "tomshardware.com/tech-industry/space/voyager-1-spacecraft-crosses-milestones-distance-of-one-light-day-from-earth-49-years-after-launch-now-16-09-billion-miles-away-signal-takes-full-24-hours-to-travel-home": {
    "at": "2026-11-18T12:30:50.138616+00:00",
    "title": "Voyager 1 spacecraft crosses milestones distance of one-light day from Earth 49 years after launch",
@@ -12831,7 +12820,7 @@
  "topic_last_posted": {
   "AI": "2026-11-23T21:00:40.293618+00:00",
   "Anime": "2026-11-24T10:30:40.226692+00:00",
-  "Games": "2026-11-24T10:15:27.847395+00:00",
+  "Games": "2026-11-24T12:00:43.798810+00:00",
   "Tech": "2026-11-24T11:30:37.650888+00:00"
  },
  "digest_day": "2026-11-23",
