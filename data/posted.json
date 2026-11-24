@@ -826,17 +826,6 @@
    "summary": "Apple could see iPhone shipments rise 7% next year, giving it a 26% share of global smartphone shipments, according to a new report.",
    "title_ar": "تقرير: iPhone في طريقه لزيادة حصته السوقية في عام 2027 وسط ركود يضرب الصناعة بأكملها"
   },
-  "9to5mac.com/2026/11/17/vsco-launches-its-first-native-mac-photo-editor-with-raw-support-batch-editing-more": {
-   "at": "2026-11-17T17:00:45.712547+00:00",
-   "title": "VSCO launches its first native Mac photo editor with RAW support, batch editing, more",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/17/vsco-launches-its-first-native-mac-photo-editor-with-raw-support-batch-editing-more/",
-   "score": 2,
-   "sources": 1,
-   "summary": "VSCO today released Studio Pro Desktop, its first native photo editor for Mac, bringing many of the company’s familiar editing tools to macOS, alongside new features aimed at photographers working…",
-   "title_ar": "VSCO تطلق أول محرر صور أصلي لجهاز Mac مع دعم ملفات RAW والتعديل الدفعي والمزيد"
-  },
   "9to5mac.com/2026/11/17/whatsapps-first-party-chat-history-backup-service-moves-ahead": {
    "at": "2026-11-17T23:45:30.792875+00:00",
    "title": "WhatsApp’s first-party chat history backup service moves ahead",
@@ -5600,17 +5589,6 @@
    "summary": "The Switch 2 version of simulation game Coral Island will launch on December 7 alongside …",
    "title_ar": "لعبة Coral Island على Switch 2 تصدر في 7 ديسمبر بالتزامن مع تحديث الإصدار 1.4"
   },
-  "gematsu.com/2026/11/firaxis-games-lays-off-a-third-of-staff": {
-   "at": "2026-11-17T17:00:45.712547+00:00",
-   "title": "Firaxis Games lays off a third of staff",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gematsu.com/2026/11/firaxis-games-lays-off-a-third-of-staff",
-   "score": 0,
-   "sources": 1,
-   "summary": "Firaxis Games, the 2K-owned studio behind the Civilization and XCOM series, has laid off around …",
-   "title_ar": ""
-  },
   "gematsu.com/2026/11/grand-theft-auto-vi-for-ps5-tops-39-million-players": {
    "at": "2026-11-24T01:00:41.250308+00:00",
    "title": "Grand Theft Auto VI for PS5 tops 39 million players",
@@ -7085,6 +7063,17 @@
    "summary": "Former Nvidia boss Jensen Huang has said he is ready to return to the company he co-founded, after he resigned amid a scandal involving infidelity and alleged espionage.",
    "title_ar": ""
   },
+  "ign.com/articles/mass-effect-universe-trilogy-endings-squadmate-fates": {
+   "at": "2026-11-24T17:15:31.648321+00:00",
+   "title": "Mass Effect Universe Would Have Answered Trilogy Ending Questions and Squadmate Fates, Writer Says",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/mass-effect-universe-trilogy-endings-squadmate-fates",
+   "score": 0,
+   "sources": 1,
+   "summary": "BioWare's canceled Mass Effect Universe would have addressed Mass Effect 3's controversial endings and the fates of Shepard's squadmates.",
+   "title_ar": ""
+  },
   "ign.com/articles/naruto-movie-closes-in-on-casting-hiroyuki-sanada-as-live-action-hiruzen-sarutobi": {
    "at": "2026-11-24T03:00:46.590560+00:00",
    "title": "Naruto Movie Closes in on Casting Hiroyuki Sanada as Live-Action Hiruzen Sarutobi",
@@ -7756,17 +7745,6 @@
    "summary": "The studio, now in administration, owes over $47 million to Netease and, er, $25 to OpenAI",
    "title_ar": ""
   },
-  "kotaku.com/civilization-developer-firaxis-games-hit-by-mass-layoffs-as-new-xcom-reportedly-misses-milestone-2000757725": {
-   "at": "2026-11-17T17:00:45.712547+00:00",
-   "title": "Civilization Developer Firaxis Games Hit By Mass Layoffs As New XCOM Reportedly Misses Milestone",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/civilization-developer-firaxis-games-hit-by-mass-layoffs-as-new-xcom-reportedly-misses-milestone-2000757725",
-   "score": 0,
-   "sources": 1,
-   "summary": "Civilization 7 has struggled in its first year",
-   "title_ar": ""
-  },
   "kotaku.com/crystal-dynamics-cuts-even-more-developers-as-it-prepares-to-ship-two-massive-tomb-raider-games-my-first-layoff-in-14-years-2000757917": {
    "at": "2026-11-18T05:15:29.134888+00:00",
    "title": "Crystal Dynamics Cuts Even More Developers As It Prepares To Ship Two Massive Tomb Raider Games: ‘My First Layoff In 14 Years’",
@@ -8074,6 +8052,17 @@
    "sources": 1,
    "summary": "We're tracking all of the news, discoveries, and conversations as Rockstar's new open-world blockbuster goes live",
    "title_ar": "تحديثات مباشرة حول GTA 6: الإطلاق الأكبر في تاريخ الألعاب"
+  },
+  "kotaku.com/mass-effect-5-universe-3-me3-canon-ending-destroy-control-synthesis-2001000044": {
+   "at": "2026-11-24T17:15:31.648321+00:00",
+   "title": "Mass Effect: Universe Writer Says BioWare Spent A ‘Long And Laborious’ Time On Making Sure It Handled ME3’s Endings In A Way That ‘Wouldn’t Piss Everyone Off’",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/mass-effect-5-universe-3-me3-canon-ending-destroy-control-synthesis-2001000044",
+   "score": 0,
+   "sources": 1,
+   "summary": "‘I know so many people think it’s easy, just make Destroy canon and move on’",
+   "title_ar": ""
   },
   "kotaku.com/mass-effect-spiritual-successor-exodus-has-revealed-its-version-of-femshep-and-i-have-a-couple-of-questions-2000757696": {
    "at": "2026-11-18T00:30:35.883916+00:00",
@@ -9239,6 +9228,17 @@
    "score": 0,
    "sources": 1,
    "summary": "There's always room for a bit more polish.",
+   "title_ar": ""
+  },
+  "pcgamer.com/games/mass-effect/mass-effect-writer-says-as-a-fan-i-would-have-been-happy-with-the-solution-they-came-up-with-for-me3s-endings-in-me-universe": {
+   "at": "2026-11-24T17:15:31.648321+00:00",
+   "title": "Mass Effect writer says 'as a fan I would have been happy with the solution' they came up with for ME3's endings in ME Universe",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-writer-says-as-a-fan-i-would-have-been-happy-with-the-solution-they-came-up-with-for-me3s-endings-in-me-universe/",
+   "score": 4,
+   "sources": 3,
+   "summary": "My personal solution would be playable elcor main character.",
    "title_ar": ""
   },
   "pcgamer.com/games/rpg/clair-obscur-expedition-33-lead-writer-left-sandfall-interactive-last-summer-weve-parted-ways": {
@@ -12409,17 +12409,6 @@
    "summary": "Jason and Lucia's actors finally confirm they are in GTA 6",
    "title_ar": ""
   },
-  "videogameschronicle.com/news/take-two-lays-off-third-of-firaxis-staff": {
-   "at": "2026-11-17T17:00:45.712547+00:00",
-   "title": "Take-Two has laid off a third of staff at Civilization and XCOM studio Firaxis",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.videogameschronicle.com/news/take-two-lays-off-third-of-firaxis-staff/",
-   "score": 5,
-   "sources": 3,
-   "summary": "Days before GTA 6's launch, Take-Two has rolled out layoffs at Firaxis",
-   "title_ar": "شركة Take-Two تسرح ثلث موظفي استوديو Firaxis المطور لسلسلة Civilization و XCOM"
-  },
   "videogameschronicle.com/news/the-game-awards-2026-nominations": {
    "at": "2026-11-17T22:15:30.159290+00:00",
    "title": "GTA 6 is the most nominated game at The Game Awards 2026",
@@ -12644,7 +12633,7 @@
  "topic_last_posted": {
   "AI": "2026-11-24T16:45:29.292029+00:00",
   "Anime": "2026-11-24T10:30:40.226692+00:00",
-  "Games": "2026-11-24T17:00:43.052031+00:00",
+  "Games": "2026-11-24T17:15:31.648321+00:00",
   "Tech": "2026-11-24T16:30:35.982555+00:00"
  },
  "digest_day": "2026-11-23",
