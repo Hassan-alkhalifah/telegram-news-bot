@@ -1486,6 +1486,17 @@
    "summary": "More than three years after it launched, Meta’s Threads social network is coming to the iPad.",
    "title_ar": "تطبيق Threads لأجهزة iPad سيتم إطلاقه قريبًا جداً"
   },
+  "9to5mac.com/2026/11/24/anthropic-just-gave-claude-users-a-new-way-to-make-mac-apps": {
+   "at": "2026-11-24T20:45:27.303493+00:00",
+   "title": "Anthropic just gave Claude users a new way to make Mac apps",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/24/anthropic-just-gave-claude-users-a-new-way-to-make-mac-apps/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Use Claude on Mac or Windows?",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/24/apple-home-accessories-here-are-my-five-top-picks-for-your-smart-home": {
    "at": "2026-11-24T19:45:28.568888+00:00",
    "title": "Apple Home accessories: Here are my five top picks for your smart home",
@@ -7316,6 +7327,17 @@
    "summary": "Several environment artists have revealed their work on Senua, showing the Mission Levels and other areas in early concept art.",
    "title_ar": ""
   },
+  "insider-gaming.com/showa-american-story-releasing-october-2027": {
+   "at": "2026-11-24T20:45:27.303493+00:00",
+   "title": "Showa American Story Releasing October 2027",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/showa-american-story-releasing-october-2027/",
+   "score": 0,
+   "sources": 1,
+   "summary": "One of the wildest looking upcoming games finally has an official release date.",
+   "title_ar": ""
+  },
   "insider-gaming.com/spyro-the-dragon-game-awards-appearance": {
    "at": "2026-11-17T20:45:27.817205+00:00",
    "title": "Spyro the Dragon Teased for Game Awards Appearance",
@@ -10220,6 +10242,17 @@
    "summary": "Two years after launch, Anthropic reports more than 700 million monthly downloads for its MCP interface standard.",
    "title_ar": "Anthropic تتجاوز 700 مليون عملية تحميل شهرياً لـ MCP SDK وتوسع البروتوكول من أجل وكلاء ذكاء اصطناعي أكثر استقلالية"
   },
+  "the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows": {
+   "at": "2026-11-24T20:45:27.303493+00:00",
+   "title": "Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
+   "score": 3,
+   "sources": 2,
+   "summary": "Anthropic now lets you install Claude Artifacts as desktop apps on Mac and Windows, and a free account is enough.",
+   "title_ar": ""
+  },
   "the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector": {
    "at": "2026-11-19T14:15:41.986120+00:00",
    "title": "Anthropic's $81.3 billion IPO shatters SpaceX's record as rising rates and political headwinds shake the sector",
@@ -12213,7 +12246,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-24T20:00:52.746936+00:00",
+  "AI": "2026-11-24T20:45:27.303493+00:00",
   "Anime": "2026-11-24T17:30:40.453460+00:00",
   "Games": "2026-11-24T20:15:36.430479+00:00",
   "Tech": "2026-11-24T20:30:44.064533+00:00"
