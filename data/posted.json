@@ -3477,17 +3477,6 @@
    "summary": "Connecting your Android phone to your Windows PC wirelessly doesn't have to cost money or require a multi-step setup, as this free app proves.",
    "title_ar": "هذا التطبيق المجاني يربط هاتفك الـ Android بجهاز حاسوبك الـ Windows لاسلكياً"
   },
-  "engadget.com/2319947/waymo-is-pausing-all-freeway-rides-after-california-dmv-says-the-robotaxis-are-imminent-hazard-to-public-safety": {
-   "at": "2026-11-17T22:15:30.159290+00:00",
-   "title": "Waymo is pausing all freeway rides after California DMV says the robotaxis are 'imminent hazard to public safety'",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2319947/waymo-is-pausing-all-freeway-rides-after-california-dmv-says-the-robotaxis-are-imminent-hazard-to-public-safety/",
-   "score": 2,
-   "sources": 2,
-   "summary": "Restrictions were made by California's DMV after a driverless Waymo was caught trying to pass a Highway Patrol vehicle that was slowing traffic.",
-   "title_ar": "Waymo توقف جميع رحلات الطرق السريعة بعد أن قالت إدارة المركبات في كاليفورنيا إن سيارات الأجرة ذاتية القيادة تمثل \"خطرًا وشيكًا على السلامة العامة\""
-  },
   "engadget.com/2319982/nvidias-board-chair-says-the-company-is-not-considering-reinstating-jensen-huang-as-ceo": {
    "at": "2026-11-17T22:45:27.301875+00:00",
    "title": "NVIDIA's board chair says the company is not considering reinstating Jensen Huang as CEO",
@@ -4555,6 +4544,17 @@
    "summary": "One of the best things to emerge from Grand Theft Auto over the years has been the community's truly spectacular stunts: players soaring under bridges, leaping across buildings, and more.",
    "title_ar": "لاعبو GTA 6 ينفذون بالفعل حركات استعراضية بهلوانية جريئة وغيرها من الحركات المبهرة بعد أيام قليلة فقط من الإطلاق"
   },
+  "eurogamer.net/gta-6-players-getting-very-good-at-heists-despite-challenges": {
+   "at": "2026-11-24T22:30:39.883778+00:00",
+   "title": "GTA 6 players are already starting to get very good at heists, despite all the new challenges Rockstar has added to the game",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/gta-6-players-getting-very-good-at-heists-despite-challenges",
+   "score": 0,
+   "sources": 1,
+   "summary": "Grand Theft Auto 6 has been out for a little while now, and already players are showing off their skills when it comes to the game's many heists.",
+   "title_ar": ""
+  },
   "eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort": {
    "at": "2026-11-22T11:30:34.505179+00:00",
    "title": "GTA 6 player gets 30-day PSN ban for sharing in-game nudist photo with a friend",
@@ -4752,6 +4752,17 @@
    "sources": 1,
    "summary": "Rockstar Games is seemingly interested in expanding Red Dead Redemption beyond video games, after years of Hollywood knocking on its doors.",
    "title_ar": "شركة Rockstar تبحث بجدية عن عروض لحقوق تحويل Red Dead Redemption إلى فيلم ومسلسل، ولكن لا تتوقع الأمر ذاته مع Grand Theft Auto"
+  },
+  "eurogamer.net/remedy-max-payne-1-2-remake-rockstar-relationship": {
+   "at": "2026-11-24T22:30:39.883778+00:00",
+   "title": "Remedy CEO praises Rockstar's support for the Max Payne 1 & 2 remake and respecting Remedy's creative vision",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.eurogamer.net/remedy-max-payne-1-2-remake-rockstar-relationship",
+   "score": 2,
+   "sources": 1,
+   "summary": "Alan Wake and Control studio Remedy Entertainment is currently developing a highly-anticipated Max Payne 1 & 2 remake.",
+   "title_ar": "الرئيس التنفيذي لشركة Remedy يشيد بدعم Rockstar لنسخة الريميك من Max Payne 1 & 2 واحترامها للرؤية الإبداعية لـ Remedy"
   },
   "eurogamer.net/ubisoft-assassins-creed-jade-still-in-development-creative-houses-merge": {
    "at": "2026-11-19T21:15:27.638906+00:00",
@@ -5963,17 +5974,6 @@
    "summary": "Samsung announced that it started seeding the One UI 9 Watch update to the Galaxy Watch8 series.",
    "title_ar": ""
   },
-  "gsmarena.com/samsung_could_beat_apple_to_market_with_a_bezelless_phone_display-news-75510.php": {
-   "at": "2026-11-17T22:15:30.159290+00:00",
-   "title": "Samsung could beat Apple to market with a bezel-less phone display",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.gsmarena.com/samsung_could_beat_apple_to_market_with_a_bezelless_phone_display-news-75510.php",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple's 20th anniversary iPhones, expected next year, are rumored to bring a quad-curved front glass with extremely slim bezels, but it now looks like Samsung may want to get there first.",
-   "title_ar": ""
-  },
   "gsmarena.com/samsung_details_the_tech_behind_the_galaxy_smarttag3s_longer_finding_range-news-75596.php": {
    "at": "2026-11-23T23:15:39.480052+00:00",
    "title": "Samsung details the tech behind the Galaxy SmartTag3's longer finding range",
@@ -6337,6 +6337,17 @@
    "summary": "Clair Obscur: Expedition 33’s lead writer has left Sandfall to help other game developers think about story from the outset.",
    "title_ar": ""
   },
+  "ign.com/articles/crazy-secretive-gta-6-voice-actor-reveals-details-of-rockstars-humongous-nda": {
+   "at": "2026-11-24T22:30:39.883778+00:00",
+   "title": "'Crazy Secretive' — GTA 6 Voice Actor Reveals Details of Rockstar's 'Humongous' NDA",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/crazy-secretive-gta-6-voice-actor-reveals-details-of-rockstars-humongous-nda",
+   "score": 0,
+   "sources": 1,
+   "summary": "A voice actor who appeared in GTA 6 described the wild non-disclosure agreement she had to sign before working on the game, calling the project “crazy secretive.”",
+   "title_ar": ""
+  },
   "ign.com/articles/cyberleek-returns-for-gta-6-launch-to-reportedly-release-a-near-complete-xbox-build-threatens-to-release-the-games-executable-in-days": {
    "at": "2026-11-20T11:00:43.914326+00:00",
    "title": "Cyberleek Returns for GTA 6 Launch to Reportedly Release a Near-Complete Xbox Build, Threatens to Release the Game's Executable in Days",
@@ -6346,6 +6357,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Cyberleek has returned for the launch of GTA 6 to allegedly release a near complete Xbox build of the game — and has threatened to release its executable in just days.",
+   "title_ar": ""
+  },
+  "ign.com/articles/cyberpunk-2-is-still-a-ways-out-but-cd-projekt-red-says-its-rpgs-will-come-out-faster-in-the-future": {
+   "at": "2026-11-24T22:30:39.883778+00:00",
+   "title": "Cyberpunk 2 Is Still a Ways Out, but CD Projekt Red Says Its RPGs Will Come Out Faster in the Future",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/cyberpunk-2-is-still-a-ways-out-but-cd-projekt-red-says-its-rpgs-will-come-out-faster-in-the-future",
+   "score": 0,
+   "sources": 1,
+   "summary": "We are still two years out from The Witcher 4, but Ciri's big breakout adventure isn't the only massive RPG cooking at CD Projekt Red.",
    "title_ar": ""
   },
   "ign.com/articles/deborah-ann-woll-will-reprise-her-role-as-faye-in-the-god-of-war-show": {
@@ -6951,6 +6973,17 @@
    "score": 0,
    "sources": 1,
    "summary": "The internet is reacting to Jensen Huang's shock return as Nvidia CEO.",
+   "title_ar": ""
+  },
+  "ign.com/articles/the-witcher-4-will-have-a-comparable-leap-from-gta-5-to-gta-6-says-cd-projekt-red": {
+   "at": "2026-11-24T22:30:39.883778+00:00",
+   "title": "The Witcher 4 Will Have a Comparable Leap From GTA 5 to GTA 6, Says CD Projekt Red",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/the-witcher-4-will-have-a-comparable-leap-from-gta-5-to-gta-6-says-cd-projekt-red",
+   "score": 0,
+   "sources": 1,
+   "summary": "CD Projekt Red expects a leap between The Witcher 3 and 4 that is comparable to the one between GTA 5 and 6.",
    "title_ar": ""
   },
   "ign.com/articles/ubisoft-creates-generative-ai-game-studio-called-motherbrain": {
@@ -8713,6 +8746,17 @@
    "summary": "GTA 6 could be a PC game (illegally) in a matter of days.",
    "title_ar": ""
   },
+  "pcgamer.com/games/grand-theft-auto/gta-6-recomp-leaders-bail-out-as-take-two-cracks-down-on-illicit-efforts-to-get-the-game-running-on-pc": {
+   "at": "2026-11-24T22:30:39.883778+00:00",
+   "title": "GTA 6 recomp leaders bail out as Take-Two cracks down on illicit efforts to get the game running on PC",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-leaders-bail-out-as-take-two-cracks-down-on-illicit-efforts-to-get-the-game-running-on-pc/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The leads of Leonida, the biggest and best-known effort to recreate GTA 6 on PC, have quit the project, although others are still trying to carry it on.",
+   "title_ar": ""
+  },
   "pcgamer.com/games/grand-theft-auto/gta-6-refuel-repair-cars": {
    "at": "2026-11-19T15:00:46.925457+00:00",
    "title": "Refueling cars in GTA 6 is barely necessary, but there's much better reason to visit garages",
@@ -9471,17 +9515,6 @@
    "sources": 1,
    "summary": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
    "title_ar": "تقنية الدماغ من شركة Science Corporation تبلغ قيمتها 3.5 مليارات دولار بعد تمويل جديد"
-  },
-  "techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order": {
-   "at": "2026-11-17T22:15:30.159290+00:00",
-   "title": "Waymo suspends freeway rides nationwide after California DMV order",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety.",
-   "title_ar": ""
   },
   "techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers": {
    "at": "2026-11-18T12:15:29.928878+00:00",
@@ -11980,17 +12013,6 @@
    "summary": "Jason and Lucia's actors finally confirm they are in GTA 6",
    "title_ar": ""
   },
-  "videogameschronicle.com/news/the-game-awards-2026-nominations": {
-   "at": "2026-11-17T22:15:30.159290+00:00",
-   "title": "GTA 6 is the most nominated game at The Game Awards 2026",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.videogameschronicle.com/news/the-game-awards-2026-nominations/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Grand Theft Auto 6 and Nintendo lead The Game Awards 2026 nominations",
-   "title_ar": ""
-  },
   "videogameschronicle.com/news/the-xbox-series-s-version-of-gta-6-is-seemingly-the-first-to-use-amds-fsr-4-1-upscaling": {
    "at": "2026-11-19T10:15:30.236255+00:00",
    "title": "The Xbox Series S version of GTA 6 is seemingly the first to use AMD’s FSR 4.1 upscaling",
@@ -12055,17 +12077,6 @@
    "score": 0,
    "sources": 1,
    "summary": "It's the first time Nintendo's racing sequel has been re-released in 25 years",
-   "title_ar": ""
-  },
-  "videogameschronicle.com/news/you-can-win-a-free-devolver-digital-game-if-you-delete-gta-6": {
-   "at": "2026-11-17T22:15:30.159290+00:00",
-   "title": "You can win a free Devolver Digital game – if you delete GTA 6",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.videogameschronicle.com/news/you-can-win-a-free-devolver-digital-game-if-you-delete-gta-6/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Devolver Digital takes on GTA 6 with a unique giveaway",
    "title_ar": ""
   },
   "wired.com/story/ai-agents-can-get-honeypotted-too-aw": {
@@ -12204,7 +12215,7 @@
  "topic_last_posted": {
   "AI": "2026-11-24T22:15:28.848468+00:00",
   "Anime": "2026-11-24T17:30:40.453460+00:00",
-  "Games": "2026-11-24T21:45:28.171834+00:00",
+  "Games": "2026-11-24T22:30:39.883778+00:00",
   "Tech": "2026-11-24T22:00:44.054820+00:00"
  },
  "digest_day": "2026-11-24",
