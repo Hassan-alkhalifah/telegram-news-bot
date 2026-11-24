@@ -5226,17 +5226,6 @@
    "summary": "Grand Theft Auto 6 has finally arrived--at least in New Zealand and Australia.",
    "title_ar": "خريطة لعبة GTA 6 ضخمة حقاً حقاً (بالطبع)"
   },
-  "gamespot.com/articles/this-fighting-game-is-nominated-for-a-tga-despite-development-shutting-down": {
-   "at": "2026-11-17T21:15:28.632064+00:00",
-   "title": "This Fighting Game Is Nominated For A TGA Despite Development Shutting Down",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gamespot.com/articles/this-fighting-game-is-nominated-for-a-tga-despite-development-shutting-down/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Earlier today, Geoff Keighley announced all of the nominees for The Game Awards 2026 , the annual celebration of gaming held in Los Angeles.",
-   "title_ar": ""
-  },
   "gamespot.com/articles/this-terrifying-gta-6-easter-egg-will-give-you-nightmares": {
    "at": "2026-11-23T17:30:38.574815+00:00",
    "title": "This Terrifying GTA 6 Easter Egg Will Give You Nightmares",
@@ -6996,17 +6985,6 @@
    "sources": 2,
    "summary": "Warhammer 40,000: Dawn of War 4 is almost upon us, and publisher Plaion has released a new trailer that teases the appearance of a fan-favorite character from the tabletop game — and even the fifth…",
    "title_ar": "إعلان تشويقي لـ Warhammer 40,000: Dawn of War 4 يؤكد تقريباً الفصيلة الخامسة القابلة للعب - وظهر إله الفوضى المحتمل"
-  },
-  "ign.com/articles/warnings-encouragement-and-gift-cards-how-schools-are-preparing-for-mass-absences-on-gta-6-launch-day": {
-   "at": "2026-11-17T21:15:28.632064+00:00",
-   "title": "Warnings, Encouragement, and Gift Cards: How Schools Are Preparing for Mass Absences on GTA 6 Launch Day",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.ign.com/articles/warnings-encouragement-and-gift-cards-how-schools-are-preparing-for-mass-absences-on-gta-6-launch-day",
-   "score": 2,
-   "sources": 1,
-   "summary": "As GTA 6 launch day nears, schools are preparing for mass absences among pupils by issuing warnings to parents — and offering children the chance to win gift cards just for turning up.",
-   "title_ar": "تحذيرات وتشجيع وبطاقات هدايا: كيف تستعد المدارس للغياب الجماعي في يوم إطلاق GTA 6"
   },
   "ign.com/articles/were-getting-gta-6-first-new-zealand-trick-celebrated-by-countrys-official-tourist-board": {
    "at": "2026-11-18T12:30:50.138616+00:00",
@@ -10077,6 +10055,17 @@
    "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
    "title_ar": "أسهم Anthropic تنخفض دون سعر الاطروحة الأولية، في مؤشر مقلق للشركات الناشئة في مجال الذكاء الاصطناعي"
   },
+  "techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report": {
+   "at": "2026-11-24T21:15:31.231920+00:00",
+   "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.",
+   "title_ar": "تقرير: تعرض عشرات ناقلات النفط والشحن للاختراق في الأسابيع الأخيرة"
+  },
   "techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board": {
    "at": "2026-11-24T13:30:47.601063+00:00",
    "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
@@ -11386,6 +11375,17 @@
    "summary": "An anthropic mathematician claims to have solved the Riemann hypothesis using Claude.",
    "title_ar": ""
   },
+  "tomshardware.com/tech-industry/artificial-intelligence/frontier-ai-employees-alarmed-that-unseen-open-ai-and-anthropic-models-are-too-powerful-to-release-report-claims-worry-spreads-that-executives-are-out-of-touch-with-severity-of-risks-will-choose-profit-over-safety": {
+   "at": "2026-11-24T21:15:31.231920+00:00",
+   "title": "Frontier AI employees alarmed that unseen Open AI and Anthropic models are too powerful to release, report claims",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/frontier-ai-employees-alarmed-that-unseen-open-ai-and-anthropic-models-are-too-powerful-to-release-report-claims-worry-spreads-that-executives-are-out-of-touch-with-severity-of-risks-will-choose-profit-over-safety",
+   "score": 0,
+   "sources": 1,
+   "summary": "Researchers are still looking for ways to contain and control unreleased models, but one source said that these could trick human testers successfully.",
+   "title_ar": ""
+  },
   "tomshardware.com/tech-industry/artificial-intelligence/homelabbers-second-gen-optane-build-runs-2-8-trillion-parameter-kimi-k3-at-3-11-tokens-per-second-after-adding-two-rtx-3090s-moving-nearly-half-the-model-into-a-ram-drive-boosted-performance-by-41-percent": {
    "at": "2026-11-21T12:15:32.167202+00:00",
    "title": "Homelabber’s second-gen Optane build uses two RTX 3090s to run 2.8-trillion-parameter Kimi AI model at 3.11 tokens per second",
@@ -11461,17 +11461,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Jensen Huang returned to the office after being reinstated to CEO to cheers, according to videos spread on social media.",
-   "title_ar": ""
-  },
-  "tomshardware.com/tech-industry/big-tech/nvidia-employee-warns-of-irreplaceable-talent-exodus-if-jensen-huang-not-reinstated-cautions-board-and-top-brass-that-talent-at-nvidia-is-now-contemplating-departing": {
-   "at": "2026-11-17T21:15:28.632064+00:00",
-   "title": "Nvidia employee warns of 'irreplaceable' talent exodus if Jensen Huang not reinstated",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-employee-warns-of-irreplaceable-talent-exodus-if-jensen-huang-not-reinstated-cautions-board-and-top-brass-that-talent-at-nvidia-is-now-contemplating-departing",
-   "score": 0,
-   "sources": 1,
-   "summary": "An internal letter was sent to Nvidia's board and top executives warning that \"irreplaceable talent\" could leave if Jensen Huang isn't reinstated as CEO.",
    "title_ar": ""
   },
   "tomshardware.com/tech-industry/big-tech/nvidia-promises-employee-pay-raises-equity-before-december-to-quell-unrest-in-wake-of-jensen-huang-scandal-at-first-all-hands-meeting-since-ceos-departure-staff-offered-perks-told-were-going-to-be-fine": {
@@ -11791,6 +11780,17 @@
    "score": 0,
    "sources": 1,
    "summary": "GTA 6 can maintain 30 FPS on PS5 Pro, but not base PS5",
+   "title_ar": ""
+  },
+  "videogameschronicle.com/news/gta-6-chapter-5-mission-list-every-mission-in-order-point-of-no-return": {
+   "at": "2026-11-24T21:15:31.231920+00:00",
+   "title": "GTA 6 Chapter 5 Mission List: Every Mission in Order & Point Of No Return",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.videogameschronicle.com/news/gta-6-chapter-5-mission-list-every-mission-in-order-point-of-no-return/",
+   "score": 0,
+   "sources": 1,
+   "summary": "How many missions are in GTA 6 Chapter 5?",
    "title_ar": ""
   },
   "videogameschronicle.com/news/gta-6-earns-3-79-billion-in-one-day-as-the-biggest-entertainment-launch-in-history": {
@@ -12194,7 +12194,7 @@
   "AI": "2026-11-24T20:45:27.303493+00:00",
   "Anime": "2026-11-24T17:30:40.453460+00:00",
   "Games": "2026-11-24T21:00:53.640826+00:00",
-  "Tech": "2026-11-24T20:30:44.064533+00:00"
+  "Tech": "2026-11-24T21:15:31.231920+00:00"
  },
  "digest_day": "2026-11-24",
  "weekly_day": "2026-11-20"
