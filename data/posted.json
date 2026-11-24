@@ -2674,6 +2674,17 @@
    "summary": "Charles Melton also in talks to join cast",
    "title_ar": ""
   },
+  "animenewsnetwork.com/news/2026-11-23/getbackers-voice-comic-staff-apologizes-for-generative-ai-use-in-pr-video/.244140": {
+   "at": "2026-11-24T04:30:34.657478+00:00",
+   "title": "Getbackers Voice Comic Staff Apologizes for Generative AI Use in PR Video",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-23/getbackers-voice-comic-staff-apologizes-for-generative-ai-use-in-pr-video/.244140",
+   "score": 1,
+   "sources": 1,
+   "summary": "Staff: Voice comic itself does not use generative AI",
+   "title_ar": "طاقم عمل Getbackers Voice Comic يعتذر عن استخدام الذكاء الاصطناعي التوليدي في فيديو ترويجي"
+  },
   "animenewsnetwork.com/news/2026-11-23/jimoto-no-ijimekko-tachi-ni-shikaeshi-shiyo-to-shitara-anime-video-unveils-cast/.244049": {
    "at": "2026-11-24T03:30:39.033348+00:00",
    "title": "Jimoto no Ijimekko-tachi ni Shikaeshi Shiyō to Shitara Anime's Video Unveils Cast",
@@ -3476,6 +3487,17 @@
    "sources": 1,
    "summary": "Wang Ling returns in the first half of 2027",
    "title_ar": "إطلاق عرض دعصي جديد وملصق بصري للموسم 6 من The Daily Life of the Immortal King"
+  },
+  "crunchyroll.com/news/latest/2026/11/24/jimoto-no-ijimekko-tachi-ni-shikaeshi-shiyoto-shitara-betsu-no-tatakai-ga-hajimatta-anime-announcement-trailer-lead-voice-actors": {
+   "at": "2026-11-24T04:30:34.657478+00:00",
+   "title": "Jimoto no Ijimekko-tachi ni Shikaeshi Shiyoto Shitara, Betsu no Tatakai ga Hajimatta Anime Reveals Voice Actor Leads in 1st Trailer",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://crunchyroll.com/news/latest/2026/11/24/jimoto-no-ijimekko-tachi-ni-shikaeshi-shiyoto-shitara-betsu-no-tatakai-ga-hajimatta-anime-announcement-trailer-lead-voice-actors",
+   "score": 0,
+   "sources": 1,
+   "summary": "The anime series is scheduled to premiere in 2027",
+   "title_ar": ""
   },
   "crunchyroll.com/news/latest/2026/11/24/psyren-anime-new-cast-members": {
    "at": "2026-11-24T00:45:30.955684+00:00",
@@ -10022,17 +10044,6 @@
    "summary": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin gigafactory.",
    "title_ar": "تيسلا تراهن كلياً على مركبة Cybercab مع التوسع القادم لمصنعها الضخم في برلين بقيمة 3 مليارات يورو"
   },
-  "techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach": {
-   "at": "2026-11-17T04:15:27.056743+00:00",
-   "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
-   "score": 1,
-   "sources": 1,
-   "summary": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
-   "title_ar": "أوبر تقول إن المخترقين سرقوا معلومات تخص ما يقرب من 150 ألف رخصة قيادة خلال اختراق للبيانات"
-  },
   "techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo": {
    "at": "2026-11-17T22:30:40.650802+00:00",
    "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
@@ -12929,7 +12940,7 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-23T21:00:40.293618+00:00",
-  "Anime": "2026-11-24T03:30:39.033348+00:00",
+  "Anime": "2026-11-24T04:30:34.657478+00:00",
   "Games": "2026-11-24T03:45:37.399363+00:00",
   "Tech": "2026-11-24T04:15:26.044565+00:00"
  },
