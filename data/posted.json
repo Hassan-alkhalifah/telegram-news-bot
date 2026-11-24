@@ -716,6 +716,28 @@
    "summary": "Good morning.",
    "title_ar": "Nvidia تثبت أنها أكبر من أن تسقط"
   },
+  "9to5google.com/2026/11/24/openai-anthropic-new-models-safety-concerns-report": {
+   "at": "2026-11-24T15:00:44.316092+00:00",
+   "title": "New OpenAI and Anthropic models sound alarms on safety and control, report",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5google.com/2026/11/24/openai-anthropic-new-models-safety-concerns-report/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Frontier AI models that have yet to be released by OpenAI and Anthropic are reportedly reaching the point where employees believe they cannot be safely released or controlled, employees reportedly…",
+   "title_ar": ""
+  },
+  "9to5google.com/2026/11/24/samsung-galaxy-watch-wear-os-7-rollout": {
+   "at": "2026-11-24T15:00:44.316092+00:00",
+   "title": "Samsung officially starts rolling out Wear OS 7 to these older Galaxy Watch models",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5google.com/2026/11/24/samsung-galaxy-watch-wear-os-7-rollout/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Following its debut on the Galaxy Watch 9 earlier this year, Samsung is finally rolling out Wear OS 7 to older Galaxy Watch models with its One UI 9 Watch update. more…",
+   "title_ar": ""
+  },
   "9to5google.com/2026/11/24/the-honor-magic-9-pro-max-is-making-its-global-debut-today-with-huge-preorder-bonuses": {
    "at": "2026-11-24T14:45:29.801702+00:00",
    "title": "The Honor Magic 9 Pro Max is making its global debut today with huge preorder bonuses",
@@ -747,17 +769,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Apple today announced that App Store prices for apps and In-App Purchases will be adjusted in five countries starting December 3, following changes in taxes and foreign exchange rates.",
-   "title_ar": ""
-  },
-  "9to5mac.com/2026/11/17/apple-memory-supplier-expects-price-increases-through-at-least-2030": {
-   "at": "2026-11-17T14:45:30.275938+00:00",
-   "title": "Apple memory suppliers expect price increases through at least 2030 [U]",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/17/apple-memory-supplier-expects-price-increases-through-at-least-2030/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Key Apple memory supplier SK Hynix has warned that RAM and flash memory shortages are likely to last through at least 2030, keeping product prices high.",
    "title_ar": ""
   },
   "9to5mac.com/2026/11/17/apple-now-selling-iphone-duo-replacement-parts-and-tools": {
@@ -6524,17 +6535,6 @@
    "summary": "The Xiaomi 18 launch could be just around the corner, as the company has started accepting blind pre-reservations for the handset in China.",
    "title_ar": "بدء الحجز المسبق لهاتف Xiaomi 18 في الصين"
   },
-  "gsmarena.com/xiaomi_18_pro_18_pro_max_international_launch-news-75505.php": {
-   "at": "2026-11-17T14:45:30.275938+00:00",
-   "title": "Xiaomi 18 Pro and 18 Pro Max begin their international rollout",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.gsmarena.com/xiaomi_18_pro_18_pro_max_international_launch-news-75505.php",
-   "score": 0,
-   "sources": 1,
-   "summary": "Xiaomi hosted an event in Paris, France, today for the international launch of the Xiaomi 18 Pro and Xiaomi 18 Pro Max, which were unveiled in China in September.",
-   "title_ar": ""
-  },
   "gsmarena.com/xiaomi_18_purportedly_leaks_in_live_image-news-75515.php": {
    "at": "2026-11-18T01:15:33.016892+00:00",
    "title": "Xiaomi 18 purportedly leaks in live image",
@@ -9274,17 +9274,6 @@
    "summary": "There's always room for a bit more polish.",
    "title_ar": ""
   },
-  "pcgamer.com/games/grand-theft-auto/twitchers-rejoice-gta-6-will-have-62-different-species-of-birds-though-that-falls-a-bit-short-of-the-over-500-native-species-found-in-florida": {
-   "at": "2026-11-17T14:45:30.275938+00:00",
-   "title": "Twitchers rejoice: GTA 6 will have 62 different species of birds, though that falls a bit short of the over 500 native species found in Florida",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/games/grand-theft-auto/twitchers-rejoice-gta-6-will-have-62-different-species-of-birds-though-that-falls-a-bit-short-of-the-over-500-native-species-found-in-florida/",
-   "score": 0,
-   "sources": 1,
-   "summary": "They better have a Snowy Plover.",
-   "title_ar": ""
-  },
   "pcgamer.com/games/rpg/clair-obscur-expedition-33-lead-writer-left-sandfall-interactive-last-summer-weve-parted-ways": {
    "at": "2026-11-18T22:45:25.547716+00:00",
    "title": "Clair Obscur: Expedition 33 lead writer left Sandfall Interactive last summer: 'We've parted ways'",
@@ -10801,6 +10790,17 @@
    "score": 0,
    "sources": 1,
    "summary": "California Attorney General Rob Bonta is suing OpenAI over a cyberattack that the company's out-of-control AI models launched against AI platform Hugging Face in July.",
+   "title_ar": ""
+  },
+  "the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures": {
+   "at": "2026-11-24T15:00:44.316092+00:00",
+   "title": "Dozens of insiders say OpenAI and Anthropic's unreleased models have outgrown their safety measures",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/",
+   "score": 3,
+   "sources": 2,
+   "summary": "According to an Axios report, many employees at OpenAI and Anthropic believe the companies' own unreleased frontier models can no longer be safely controlled.",
    "title_ar": ""
   },
   "the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing": {
@@ -12785,7 +12785,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-24T14:30:37.352184+00:00",
+  "AI": "2026-11-24T15:00:44.316092+00:00",
   "Anime": "2026-11-24T10:30:40.226692+00:00",
   "Games": "2026-11-24T14:45:29.801702+00:00",
   "Tech": "2026-11-24T14:45:29.801702+00:00"
