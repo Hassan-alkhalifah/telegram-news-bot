@@ -716,28 +716,6 @@
    "summary": "Apple is making a notable change to Apple․com.",
    "title_ar": "موقع Apple.com متاح الآن باللغة الإسبانية لمستخدمي الولايات المتحدة"
   },
-  "9to5mac.com/2026/11/16/iphone-duo-gets-one-of-face-ids-best-features-with-upcoming-ios-27-3-update": {
-   "at": "2026-11-17T03:30:48.012844+00:00",
-   "title": "iPhone Duo gets one of Face ID’s best features with upcoming iOS 27.3 update",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/16/iphone-duo-gets-one-of-face-ids-best-features-with-upcoming-ios-27-3-update/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Soon, your alarms, timers, and phone calls will be less disruptive on iPhone Duo. more…",
-   "title_ar": ""
-  },
-  "9to5mac.com/2026/11/16/iphone-duo-now-has-twice-as-many-optimized-apps-as-it-did-10-days-ago": {
-   "at": "2026-11-17T03:45:28.337505+00:00",
-   "title": "iPhone Duo now has twice as many optimized apps as it did 10 days ago",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/16/iphone-duo-now-has-twice-as-many-optimized-apps-as-it-did-10-days-ago/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Apple marketing SVP Greg Joswiak said today that the number of iPhone Duo-ready apps on the App Store is twice what it was when Apple last reported the figure.",
-   "title_ar": "تطبيق iPhone Duo يمتلك الآن ضعف عدد التطبيقات المحسّنة مقارنة بما كان عليه قبل 10 أيام"
-  },
   "9to5mac.com/2026/11/17/airpods-pro-3-keep-getting-better-heres-whats-new-ios-27": {
    "at": "2026-11-17T19:30:36.148932+00:00",
    "title": "AirPods Pro 3 keep getting better, here’s what’s new in iOS 27",
@@ -5786,6 +5764,17 @@
    "sources": 2,
    "summary": "The Nintendo GameCube – Nintendo Classics app has added watercraft racing game Wave Race: Blue …",
    "title_ar": "نينتندو جيم كิวب - تطبيق Nintendo Classics يضيف لعبة Wave Race: Blue Storm"
+  },
+  "gematsu.com/2026/11/nioh-3-dlc-bloody-insurrection-launches-december-17-complete-edition-launches-january-28-2027-alongside-xbox-series-version": {
+   "at": "2026-11-24T03:45:37.399363+00:00",
+   "title": "Nioh 3 DLC ‘Bloody Insurrection’ launches December 17; Complete Edition launches January 28, 2027 alongside Xbox Series version",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.gematsu.com/2026/11/nioh-3-dlc-bloody-insurrection-launches-december-17-complete-edition-launches-january-28-2027-alongside-xbox-series-version",
+   "score": 2,
+   "sources": 1,
+   "summary": "Nioh 3 downloadable content “Bloody Insurrection” will launch on December 17, and a Nioh 3 …",
+   "title_ar": "إطلاق محتوى Nioh 3 الإضافي بعنوان Bloody Insurrection في 17 ديسمبر، والإصدار الكامل Complete Edition في 28 يناير 2027 بالتزامن مع نسخة Xbox Series"
   },
   "gematsu.com/2026/11/splatoon-raiders-demo-now-available": {
    "at": "2026-11-17T10:45:28.951216+00:00",
@@ -12398,17 +12387,6 @@
    "summary": "NASA anticipates that Voyager 1 will be the first human-made object to reach space beyond one light-day away from Earth on Wednesday.",
    "title_ar": ""
   },
-  "tomshardware.com/tech-industry/supercomputers/amd-grabs-over-40-percent-of-new-top500-list-for-supercomputers-up-14-percent-since-last-year-new-lux-system-developed-between-amd-and-department-of-energy-debuts-at-no-14-with-epyc-cpus-and-instinct-mi355x-gpus": {
-   "at": "2026-11-17T03:30:48.012844+00:00",
-   "title": "AMD grabs over 40% of new TOP500 list for supercomputers, up 14% since last year",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/tech-industry/supercomputers/amd-grabs-over-40-percent-of-new-top500-list-for-supercomputers-up-14-percent-since-last-year-new-lux-system-developed-between-amd-and-department-of-energy-debuts-at-no-14-with-epyc-cpus-and-instinct-mi355x-gpus",
-   "score": 1,
-   "sources": 1,
-   "summary": "AMD's Lux supercomputer debuted at position 14 on the new TOP500 list published during SC26.",
-   "title_ar": "AMD تستحوذ على أكثر من 40% من قائمة TOP500 الجديدة للحواسيب العملاقة، بزيادة قدرها 14% مقارنة بالعام الماضي"
-  },
   "tomshardware.com/tech-industry/supercomputers/japans-most-powerful-supercomputer-may-have-been-hacked-over-4-000-users-personal-data-stolen-investigation-opened-into-fugaku-breach-after-unauthorized-software-installed": {
    "at": "2026-11-17T12:00:47.749801+00:00",
    "title": "Japan’s most powerful supercomputer may have been hacked, over 4,000 users’ personal data stolen",
@@ -12941,7 +12919,7 @@
  "topic_last_posted": {
   "AI": "2026-11-23T21:00:40.293618+00:00",
   "Anime": "2026-11-24T03:30:39.033348+00:00",
-  "Games": "2026-11-24T03:00:46.590560+00:00",
+  "Games": "2026-11-24T03:45:37.399363+00:00",
   "Tech": "2026-11-24T03:15:37.487930+00:00"
  },
  "digest_day": "2026-11-23",
