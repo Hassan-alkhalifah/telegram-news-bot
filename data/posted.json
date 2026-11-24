@@ -133,17 +133,6 @@
    "summary": "The Pixel Tag will begin selling in Europe soon, according to a recent leak.",
    "title_ar": "تقرير مسرّب يؤكد إطلاق Google Pixel Tag في أوروبا قريباً جداً"
   },
-  "9to5google.com/2026/11/17/samsung-galaxy-s27-redesign-confirmed-poll": {
-   "at": "2026-11-17T14:00:55.202248+00:00",
-   "title": "Samsung’s Galaxy S27 redesign is ‘100%’ confirmed, leaker says – do you like it? [Poll]",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5google.com/2026/11/17/samsung-galaxy-s27-redesign-confirmed-poll/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Samsung’s upcoming Galaxy S27 series is getting a redesign, with a reliable leaker saying it’s definitely happening.",
-   "title_ar": ""
-  },
   "9to5google.com/2026/11/17/the-xiaomi-18-pro-debuts-globally-with-sub-mm-bezels-privacy-display-4000-nit-back-display-and-dual-200mp-leica-cameras": {
    "at": "2026-11-17T15:45:27.158653+00:00",
    "title": "The Xiaomi 18 Pro debuts globally with sub-mm bezels, privacy display, 4000-nit back display, and dual 200MP Leica cameras",
@@ -1672,6 +1661,17 @@
    "sources": 1,
    "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform.",
    "title_ar": ""
+  },
+  "9to5mac.com/2026/11/24/two-billion-credentials-publicly-exposed-including-everything-needed-for-identity-theft": {
+   "at": "2026-11-24T14:00:56.861572+00:00",
+   "title": "Two billion credentials publicly exposed, including everything needed for identity theft",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/24/two-billion-credentials-publicly-exposed-including-everything-needed-for-identity-theft/",
+   "score": 1,
+   "sources": 1,
+   "summary": "A security researcher has discovered a publicly exposed database containing approximately two billion credentials.",
+   "title_ar": "تسريب ملياري بيان اعتماد علناً، بما في ذلك كل ما يلزم لسرقة الهوية"
   },
   "animecorner.me/bang-dream-yumemita-gets-new-anime-series": {
    "at": "2026-11-20T15:00:58.715478+00:00",
@@ -6205,17 +6205,6 @@
    "summary": "Motorola's first wide foldable, the Razr Flex, has been leaking a lot lately.",
    "title_ar": ""
   },
-  "gsmarena.com/new_leak_offers_a_first_look_at_the_iphone_20_pros_front_glass-news-75503.php": {
-   "at": "2026-11-17T13:45:28.567575+00:00",
-   "title": "New leak offers a first look at the iPhone 20 Pro's front glass",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.gsmarena.com/new_leak_offers_a_first_look_at_the_iphone_20_pros_front_glass-news-75503.php",
-   "score": 0,
-   "sources": 1,
-   "summary": "A new leak has surfaced online, offering an alleged first look at the front glass of Apple's 20th-anniversary iPhones, expected to launch next year.",
-   "title_ar": ""
-  },
   "gsmarena.com/nothing_ai_device_gets_teased_in_a_new_image-news-75540.php": {
    "at": "2026-11-19T22:15:26.512721+00:00",
    "title": "Nothing AI device gets teased in a new image",
@@ -9527,17 +9516,6 @@
    "summary": "\"The Nvidia Board of Directors has made the correct and proper decision,\" says the US president.",
    "title_ar": ""
   },
-  "pcgamer.com/hardware/graphics-cards/us-agencies-confirm-criminal-investigation-into-megaspeed-datacenter-company-is-in-a-colossal-tangle-over-nvidia-chips": {
-   "at": "2026-11-17T13:45:28.567575+00:00",
-   "title": "US agencies confirm criminal investigation into Megaspeed - datacenter company is in a colossal tangle over Nvidia chips",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.pcgamer.com/hardware/graphics-cards/us-agencies-confirm-criminal-investigation-into-megaspeed-datacenter-company-is-in-a-colossal-tangle-over-nvidia-chips/",
-   "score": 3,
-   "sources": 2,
-   "summary": "Investigation into Megaspeed first started in 2024.",
-   "title_ar": "وكالات أمريكية تؤكد بدء تحقيق جنائي مع شركة Megaspeed - شركة مراكز البيانات متورطة في أزمة ضخمة بشأن شائحنات Nvidia"
-  },
   "pcgamer.com/hardware/handheld-gaming-pcs/the-first-image-of-the-lenovo-legion-go-beam-has-seemingly-leaked-and-its-got-a-love-it-or-hate-it-colour-palette": {
    "at": "2026-11-19T15:45:33.055360+00:00",
    "title": "The first image of the Lenovo Legion Go Beam has seemingly leaked, and it's got a love-it-or-hate-it colour palette",
@@ -12222,17 +12200,6 @@
    "summary": "The president wants U.S. data center companies to stay within U.S. borders or pay a hefty fee if they want to build in foreign countries.",
    "title_ar": "ترامب يريد حظر الشركات الأمريكية من بناء مراكز بيانات في الخارج مع إبطاء الحظر للتطوير"
   },
-  "tomshardware.com/tech-industry/data-centers/us-government-confirms-criminal-investigation-into-singapore-company-at-the-heart-of-jensen-huang-scandal-megaspeed-identified-over-suspicious-activity-company-placed-on-no-sell-list-by-nvidia": {
-   "at": "2026-11-17T13:45:28.567575+00:00",
-   "title": "US government confirms criminal investigation into Singapore company at the heart of Jensen Huang scandal",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.tomshardware.com/tech-industry/data-centers/us-government-confirms-criminal-investigation-into-singapore-company-at-the-heart-of-jensen-huang-scandal-megaspeed-identified-over-suspicious-activity-company-placed-on-no-sell-list-by-nvidia",
-   "score": 0,
-   "sources": 1,
-   "summary": "The Justice and Commerce Departments have announced an investigation into Megaspeed over concerns that it may have been involved in the illegal export of Nvidia's AI hardware.",
-   "title_ar": ""
-  },
   "tomshardware.com/tech-industry/data-centers/usd3-26-million-in-spacex-ai-data-center-revenue-will-be-pumped-back-into-the-city-of-memphis-up-to-usd25-000-on-offer-to-low-income-residents-for-repairs-and-home-improvements": {
    "at": "2026-11-18T10:00:43.613079+00:00",
    "title": "$3.26 million in SpaceX AI data center revenue will be pumped back into the City of Memphis",
@@ -12266,16 +12233,16 @@
    "summary": "Nvidia has reinstated Jensen Huang.",
    "title_ar": ""
   },
-  "tomshardware.com/tech-industry/policy/nvidia-warns-customers-of-new-us-rule-that-could-expose-them-to-lawsuits-for-serving-chinese-clients-commerce-department-releases-interim-regulations-preventing-foreign-actors-from-using-advanced-compute-based-on-american-tech": {
-   "at": "2026-11-17T14:00:55.202248+00:00",
-   "title": "Nvidia warns customers of new US rule that could expose them to lawsuits for serving Chinese clients",
+  "tomshardware.com/tech-industry/policy/trump-pressured-nvidia-to-bring-jensen-back-called-into-board-meeting-to-push-reinstatement-reports-claim-president-concerned-over-falling-stock-prices-with-huangs-return-reversing-slide": {
+   "at": "2026-11-24T14:00:56.861572+00:00",
+   "title": "Trump pressured Nvidia to bring Jensen back, called into board meeting to push reinstatement, reports claim",
    "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/tech-industry/policy/nvidia-warns-customers-of-new-us-rule-that-could-expose-them-to-lawsuits-for-serving-chinese-clients-commerce-department-releases-interim-regulations-preventing-foreign-actors-from-using-advanced-compute-based-on-american-tech",
-   "score": 2,
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/tech-industry/policy/trump-pressured-nvidia-to-bring-jensen-back-called-into-board-meeting-to-push-reinstatement-reports-claim-president-concerned-over-falling-stock-prices-with-huangs-return-reversing-slide",
+   "score": 0,
    "sources": 1,
-   "summary": "This warning comes amid Jensen Huang's scandal, a new rule from the U.S.",
-   "title_ar": "Nvidia تحذر العملاء من قاعدة أمريكية جديدة قد تعرضهم للمساءلة القانونية بسبب تقديم الخدمات لعملاء صينيين"
+   "summary": "Nvidia's crashing stock market prices is threatening to take down the entire market with it, which is why President Donald Trump decided to intervene and steady the situation.",
+   "title_ar": ""
   },
   "tomshardware.com/tech-industry/semiconductors/ai-agents-design-an-entirely-new-cpu-architecture-from-scratch-startup-claims-frostbite-posts-4-59x-the-performance-per-watt-of-an-in-order-core-in-pre-silicon-tests": {
    "at": "2026-11-22T13:15:27.043574+00:00",
@@ -12810,7 +12777,7 @@
   "AI": "2026-11-24T12:45:29.351098+00:00",
   "Anime": "2026-11-24T10:30:40.226692+00:00",
   "Games": "2026-11-24T12:00:43.798810+00:00",
-  "Tech": "2026-11-24T13:45:27.949160+00:00"
+  "Tech": "2026-11-24T14:00:56.861572+00:00"
  },
  "digest_day": "2026-11-23",
  "weekly_day": "2026-11-20"
