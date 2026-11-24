@@ -716,17 +716,6 @@
    "summary": "Apple is making a notable change to Apple․com.",
    "title_ar": "موقع Apple.com متاح الآن باللغة الإسبانية لمستخدمي الولايات المتحدة"
   },
-  "9to5mac.com/2026/11/16/apples-leadership-overhaul-continues-with-new-apple-pay-and-wallet-chief": {
-   "at": "2026-11-17T03:15:26.622325+00:00",
-   "title": "Apple’s leadership overhaul continues with new Apple Pay and Wallet chief",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/16/apples-leadership-overhaul-continues-with-new-apple-pay-and-wallet-chief/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Bloomberg reports that Apple lifer Corey Fugman will replace Jennifer Bailey as the head of the Apple Pay and Wallet division.",
-   "title_ar": "استمرار تغييرات القيادة في Apple مع تعيين مسؤول جديد لـ Apple Pay وWallet"
-  },
   "9to5mac.com/2026/11/16/iphone-duo-gets-one-of-face-ids-best-features-with-upcoming-ios-27-3-update": {
    "at": "2026-11-17T03:30:48.012844+00:00",
    "title": "iPhone Duo gets one of Face ID’s best features with upcoming iOS 27.3 update",
@@ -6139,6 +6128,17 @@
    "summary": "Motorola unveiled the Moto Tag in 2024 and followed up with the Moto Tag 2 in January this year.",
    "title_ar": "رصد جهاز Motorola Moto Tag 3 على أمازون"
   },
+  "gsmarena.com/motorola_officially_announces_when_the_signature_27_is_coming_to_india-news-75601.php": {
+   "at": "2026-11-24T03:15:37.487930+00:00",
+   "title": "Motorola officially announces when the Signature 27 is coming to India",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.gsmarena.com/motorola_officially_announces_when_the_signature_27_is_coming_to_india-news-75601.php",
+   "score": 1,
+   "sources": 1,
+   "summary": "Motorola semi-announced the Signature 27 back in September and made it fully official earlier this month, with sales in Europe starting on November 16.",
+   "title_ar": "موتورولا تعلن رسمياً عن موعد إطلاق هاتف Signature 27 في الهند"
+  },
   "gsmarena.com/motorola_razr_flex_certification_reveals_an_unexpected_chipset_as_a_live_image_leaks-news-75553.php": {
    "at": "2026-11-20T13:30:34.780991+00:00",
    "title": "Motorola Razr Flex certification reveals an unexpected chipset as a live image leaks",
@@ -9692,6 +9692,17 @@
    "summary": "Rolling launch across PS5 consoles.",
    "title_ar": ""
   },
+  "pushsquare.com/news/2026/11/god-of-war-laufey-star-will-reprise-role-for-live-action-tv-show": {
+   "at": "2026-11-24T03:15:37.487930+00:00",
+   "title": "God of War Laufey Star Will Reprise Role for Live-Action TV Show",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pushsquare.com/news/2026/11/god-of-war-laufey-star-will-reprise-role-for-live-action-tv-show",
+   "score": 0,
+   "sources": 1,
+   "summary": "That makes sense.",
+   "title_ar": ""
+  },
   "pushsquare.com/news/2026/11/gta-6-base-ps5-performance-suffers-minor-and-sustained-frame-rate-drops-but-its-unwavering-on-ps5-pro": {
    "at": "2026-11-18T16:15:29.193296+00:00",
    "title": "GTA 6 Base PS5 Performance Suffers 'Minor' and 'Sustained' Frame Rate Drops, But It's 'Unwavering' on PS5 Pro",
@@ -12909,7 +12920,7 @@
   "AI": "2026-11-23T21:00:40.293618+00:00",
   "Anime": "2026-11-24T02:30:38.432647+00:00",
   "Games": "2026-11-24T03:00:46.590560+00:00",
-  "Tech": "2026-11-24T02:45:29.298763+00:00"
+  "Tech": "2026-11-24T03:15:37.487930+00:00"
  },
  "digest_day": "2026-11-23",
  "weekly_day": "2026-11-20"
