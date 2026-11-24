@@ -639,6 +639,17 @@
    "summary": "Set to launch on December 8, Nothing has confirmed its mysterious AI product will be called “Ear (note),” and it’s an AI recorder with earbuds inside. more…",
    "title_ar": ""
   },
+  "9to5google.com/2026/11/23/november-2026-google-system-updates": {
+   "at": "2026-11-24T02:45:29.298763+00:00",
+   "title": "What’s new in Android’s November 2026 Google System Updates [U]",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/23/november-2026-google-system-updates/",
+   "score": 1,
+   "sources": 1,
+   "summary": "The monthly “ Google System Release Notes ” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC.",
+   "title_ar": "ما الجديد في تحديثات نظام Google لشهر نوفمبر 2026 لنظام Android [تحديث]"
+  },
   "9to5google.com/2026/11/23/oneplus-us-website-shuts-down": {
    "at": "2026-11-23T15:45:28.235141+00:00",
    "title": "OnePlus starts shutting down its website to ‘focus on customer support’",
@@ -6314,17 +6325,6 @@
    "sources": 1,
    "summary": "Samsung's rollout of stable One UI 9 for eligible Galaxy devices is still ongoing, but it has already opened the One UI 9.5 beta program for the Galaxy S26 series, which received the stable One UI 9…",
    "title_ar": ""
-  },
-  "gsmarena.com/samsung_galaxy_z_fold8_and_fold8_ultra_win_ces_2027_best_of_innovation_awards-news-75498.php": {
-   "at": "2026-11-17T02:42:57.962359+00:00",
-   "title": "Samsung Galaxy Z Fold8 and Fold8 Ultra win CES 2027 Best of Innovation awards",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_and_fold8_ultra_win_ces_2027_best_of_innovation_awards-news-75498.php",
-   "score": 1,
-   "sources": 1,
-   "summary": "Today, Samsung announced that a range of its products have been recognized by the Consumer Technology Association as part of the CES 2027 Innovation Awards program.",
-   "title_ar": "Samsung Galaxy Z Fold8 و Fold8 Ultra يفوزان بجوائز CES 2027 لأفضل ابتكار"
   },
   "gsmarena.com/samsung_may_shift_galaxy_watch_to_a_twoyear_launch_cycle-news-75587.php": {
    "at": "2026-11-23T04:45:29.204336+00:00",
@@ -12376,17 +12376,6 @@
    "summary": "Fugaku, Japan's most powerful supercomputer, has suffered a suspected data breach, with the information of more than 4,000 of its users potentially stolen as a result.",
    "title_ar": "تعرض أقوى كمبيوتر خارق في اليابان للاختراق على الأرجح، وسرقة البيانات الشخصية لأكثر من 4000 مستخدم"
   },
-  "tomshardware.com/tech-industry/supercomputers/researchers-recognize-that-ai-will-never-replace-hpc-says-amd-executive-high-precision-workloads-will-exist-for-a-very-long-time-even-as-ai-usage-expands": {
-   "at": "2026-11-17T02:45:29.078401+00:00",
-   "title": "Researchers ‘recognize that AI will never replace HPC,’ says AMD executive — high-precision workloads will ‘exist for a very long time’ even as AI usage expands",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/tech-industry/supercomputers/researchers-recognize-that-ai-will-never-replace-hpc-says-amd-executive-high-precision-workloads-will-exist-for-a-very-long-time-even-as-ai-usage-expands",
-   "score": 1,
-   "sources": 1,
-   "summary": "The emergence of AI has seemingly posed a threat to high-precision FP64 computation, but AMD doesn't think the HPC world is moving away from those complex calculations in the wake of AI.",
-   "title_ar": "الباحثون \"يُدركون أن الذكاء الاصطناعي لن يحل محل الحوسبة عالية الأداء HPC\"، وفقاً لمسؤول تنفيذي في AMD - أحمال العمل عالية الدقة \"ستظل موجودة لفترة طويلة جداً\" حتى مع توسع استخدام الذكاء الاصطناعي"
-  },
   "tomshardware.com/video-games/console-gaming/gta-vi-runs-at-1440p-on-ps5-and-xbox-series-x-but-just-720p-with-upscaling-on-series-s-rockstar-details-upscaling-technologies-for-launch": {
    "at": "2026-11-18T16:15:29.193296+00:00",
    "title": "GTA VI runs at 1440p on PS5 and Xbox Series X, but just 720p with upscaling on Series S",
@@ -12909,7 +12898,7 @@
   "AI": "2026-11-23T21:00:40.293618+00:00",
   "Anime": "2026-11-24T02:30:38.432647+00:00",
   "Games": "2026-11-24T02:15:29.911367+00:00",
-  "Tech": "2026-11-24T02:00:41.881587+00:00"
+  "Tech": "2026-11-24T02:45:29.298763+00:00"
  },
  "digest_day": "2026-11-23",
  "weekly_day": "2026-11-20"
