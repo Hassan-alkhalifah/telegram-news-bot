@@ -45,17 +45,6 @@
    "summary": "Following last week’s Gemini 4 Hydrogen launch , a small update to AI Mode today lets you start a “temporary thread” that won’t be saved to your Google history. more…",
    "title_ar": "وضع الذكاء الاصطناعي من Google يطلق محادثات مؤقتة"
   },
-  "9to5google.com/2026/11/17/google-android-fast-switch-sim-iphone-handoff": {
-   "at": "2026-11-17T20:45:27.817205+00:00",
-   "title": "Google’s new ‘Fast Switch’ feature leaks, lets you use one number on two Android phones",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/17/google-android-fast-switch-sim-iphone-handoff/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Similar to a recent iPhone feature, Google appears to be working on “Fast Switch” as a way to share one SIM and phone number on two Android phones at once, and it sounds pretty cool. more…",
-   "title_ar": "تسرب ميزة Fast Switch الجديدة من جوجل، وتتيح لك استخدام رقم واحد على هاتفي Android"
-  },
   "9to5google.com/2026/11/17/material-3-expressive-scrolling-time-picker": {
    "at": "2026-11-17T23:15:27.298280+00:00",
    "title": "Material 3 Expressive adds scrolling time picker, AI Studio upgrades Android app creation",
@@ -2750,17 +2739,6 @@
    "sources": 1,
    "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
    "title_ar": "مراهقون مصابون بصدمة يقاضون المدرسة والشرطة بعد أن تسبب كيس دوريتوس في إنذار ذكاء اصطناعي للسلاح"
-  },
-  "arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia": {
-   "at": "2026-11-17T20:45:27.817205+00:00",
-   "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
-   "score": 0,
-   "sources": 1,
-   "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
-   "title_ar": ""
   },
   "crunchyroll.com/news/announcements/2026/11/19/spice-and-wolf-merchant-meets-the-wise-wolf-season-2-stream-crunchyroll": {
    "at": "2026-11-19T01:00:41.232317+00:00",
@@ -5985,17 +5963,6 @@
    "summary": "Back in April, analyst Ming-Chi Kuo said that OpenAI is working on a smartphone with a custom chipset, and in May he claimed that the project has been fast-tracked.",
    "title_ar": "شائعات حول تصنيع أول هاتف ذكي من OpenAI بواسطة شركة معروفة بتجميع أجهزة iPhone"
   },
-  "gsmarena.com/over_200000_apps_are_now_optimized_for_the_iphone_duo-news-75506.php": {
-   "at": "2026-11-17T20:45:27.817205+00:00",
-   "title": "Over 200,000 apps are now optimized for the iPhone Duo",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.gsmarena.com/over_200000_apps_are_now_optimized_for_the_iphone_duo-news-75506.php",
-   "score": 0,
-   "sources": 1,
-   "summary": "One of the complaints following the iPhone Duo's launch was the lack of apps optimized for its wide inner display and user interface.",
-   "title_ar": ""
-  },
   "gsmarena.com/samsung_appoints_new_leadership_tm_roh_remains_ceo-news-75568.php": {
    "at": "2026-11-20T22:30:37.675414+00:00",
    "title": "Samsung appoints new leadership, TM Roh remains CEO",
@@ -6513,6 +6480,17 @@
    "summary": "GTA 6 fans are a bit surprised that the actor playing Jason wasn't nominated at The Game Awards.",
    "title_ar": ""
   },
+  "ign.com/articles/gta-6-gets-officially-licensed-trading-cards-based-on-in-game-collectibles": {
+   "at": "2026-11-24T21:00:53.640826+00:00",
+   "title": "GTA 6 Gets Officially Licensed Trading Cards Based on In-Game Collectibles",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.ign.com/articles/gta-6-gets-officially-licensed-trading-cards-based-on-in-game-collectibles",
+   "score": 3,
+   "sources": 2,
+   "summary": "Rockstar is teaming up with Panini America to bring the hunt for GTA 6 trading cards to life.",
+   "title_ar": ""
+  },
   "ign.com/articles/gta-6-hacker-free-after-time-served-over-2022-cyber-attack": {
    "at": "2026-11-23T17:45:29.489626+00:00",
    "title": "Judge Lets Hacker Behind Massive GTA 6 Leak of 2022 Go Free With a Warning: 'Don't Let This Happen Again'",
@@ -6885,6 +6863,17 @@
    "score": 0,
    "sources": 1,
    "summary": "In the run-up to GTA 6's launch, one of the biggest questions was how well the Xbox Series S would handle the game.",
+   "title_ar": ""
+  },
+  "ign.com/articles/playstation-secures-marketing-agreement-for-the-witcher-4": {
+   "at": "2026-11-24T21:00:53.640826+00:00",
+   "title": "PlayStation Secures Marketing Agreement for The Witcher 4",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/playstation-secures-marketing-agreement-for-the-witcher-4",
+   "score": 0,
+   "sources": 1,
+   "summary": "CD Projekt Red has signed a marketing deal with PlayStation for The Witcher 4.",
    "title_ar": ""
   },
   "ign.com/articles/robert-pattinsons-james-bond-casting-process-details-revealed-by-amazons-jeff-bezos": {
@@ -7336,17 +7325,6 @@
    "score": 0,
    "sources": 1,
    "summary": "One of the wildest looking upcoming games finally has an official release date.",
-   "title_ar": ""
-  },
-  "insider-gaming.com/spyro-the-dragon-game-awards-appearance": {
-   "at": "2026-11-17T20:45:27.817205+00:00",
-   "title": "Spyro the Dragon Teased for Game Awards Appearance",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/spyro-the-dragon-game-awards-appearance/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Adding to The Game Awards hype, it seems Spyro's official X account is hinting the purple dragon may be part of the show.",
    "title_ar": ""
   },
   "insider-gaming.com/steam-machine-512gb-2tb-reservation-update": {
@@ -8361,17 +8339,6 @@
    "summary": "Wave Race: Blue Storm makes a splash.",
    "title_ar": ""
   },
-  "nintendolife.com/news/2026/11/nintendos-switch-2-holiday-experience-might-be-coming-to-a-city-near-you-next-month-us": {
-   "at": "2026-11-17T20:45:27.817205+00:00",
-   "title": "Nintendo's 'Switch 2 Holiday Experience' Might Be Coming To A City Near You Next Month (US)",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.nintendolife.com/news/2026/11/nintendos-switch-2-holiday-experience-might-be-coming-to-a-city-near-you-next-month-us",
-   "score": 0,
-   "sources": 1,
-   "summary": "Try out some 2026 hits.",
-   "title_ar": ""
-  },
   "nintendolife.com/news/2026/11/persona-6-doesnt-have-a-date-yet-but-atlus-says-you-wont-have-to-wait-as-long-for-persona-7": {
    "at": "2026-11-20T18:15:31.152134+00:00",
    "title": "Persona 6 Doesn't Have A Date Yet, But Atlus Says You Won't Have To Wait As Long For Persona 7",
@@ -9340,17 +9307,6 @@
    "summary": "The biggest entertainment launch of all time.",
    "title_ar": ""
   },
-  "pushsquare.com/news/2026/11/layoffs-hit-xcom-dev-as-it-struggles-with-production-of-third-entry": {
-   "at": "2026-11-17T20:45:27.817205+00:00",
-   "title": "Layoffs Hit XCOM Dev as It Struggles with Production of Third Entry",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pushsquare.com/news/2026/11/layoffs-hit-xcom-dev-as-it-struggles-with-production-of-third-entry",
-   "score": 0,
-   "sources": 1,
-   "summary": "A third of Firaxis staff to lose their job.",
-   "title_ar": ""
-  },
   "pushsquare.com/news/2026/11/nba-players-receive-this-special-gta-6-ps5-pro-console-and-were-not-jealous-at-all": {
    "at": "2026-11-18T17:15:30.738582+00:00",
    "title": "NBA Players Receive This Special GTA 6 PS5 Pro Console, and We're Not Jealous at All",
@@ -9526,17 +9482,6 @@
    "sources": 1,
    "summary": "Nvidia's interim CEO reaffirmed its open-source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
    "title_ar": ""
-  },
-  "techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop": {
-   "at": "2026-11-17T21:00:42.092749+00:00",
-   "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
-   "title_ar": "إطلاق Lumo من Proton، وهو بديل لـ ChatGPT و Claude يركز على الخصوصية، على أجهزة سطح المكتب"
   },
   "techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding": {
    "at": "2026-11-17T23:30:35.323229+00:00",
@@ -10460,17 +10405,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Nvidia's board of directors has reinstated Jensen Huang as president, CEO, and board member, effective immediately.",
-   "title_ar": ""
-  },
-  "the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains": {
-   "at": "2026-11-17T20:45:27.817205+00:00",
-   "title": "OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/",
-   "score": 0,
-   "sources": 1,
-   "summary": "OpenAI releases GPT-6.2 Astra and Sol, two new models that are more capable and cheaper than their predecessors.",
    "title_ar": ""
   },
   "the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think": {
@@ -11936,6 +11870,17 @@
    "summary": "Players are using the New Zealand trick to play GTA before it arrives in their country",
    "title_ar": ""
   },
+  "videogameschronicle.com/news/official-gta-6-trading-cards-are-coming-next-month": {
+   "at": "2026-11-24T21:00:53.640826+00:00",
+   "title": "Official GTA 6 trading cards are coming next month",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.videogameschronicle.com/news/official-gta-6-trading-cards-are-coming-next-month/",
+   "score": 0,
+   "sources": 1,
+   "summary": "GTA 6's in-game trading cards are getting a physical release this December",
+   "title_ar": ""
+  },
   "videogameschronicle.com/news/one-of-gta-6s-most-elaborate-easter-eggs-has-been-solved": {
    "at": "2026-11-23T23:30:34.430300+00:00",
    "title": "One of GTA 6’s most elaborate Easter eggs has been solved",
@@ -12248,7 +12193,7 @@
  "topic_last_posted": {
   "AI": "2026-11-24T20:45:27.303493+00:00",
   "Anime": "2026-11-24T17:30:40.453460+00:00",
-  "Games": "2026-11-24T20:15:36.430479+00:00",
+  "Games": "2026-11-24T21:00:53.640826+00:00",
   "Tech": "2026-11-24T20:30:44.064533+00:00"
  },
  "digest_day": "2026-11-24",
