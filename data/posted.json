@@ -4181,6 +4181,17 @@
    "summary": "You no longer need to free up 212GB on your PS5 for Rockstar's blockbuster.",
    "title_ar": ""
   },
+  "engadget.com/2327450/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules": {
+   "at": "2026-11-24T23:30:37.781423+00:00",
+   "title": "Huawei is guilty of conspiracy to steal trade secrets, US jury rules",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2327450/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The charges against the Chinese tech company date back to 2019.",
+   "title_ar": ""
+  },
   "eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed": {
    "at": "2026-11-22T17:30:34.644514+00:00",
    "title": "Binding of Isaac dev pulls AI-generated music from Repentance+ after players expose it",
@@ -9483,17 +9494,6 @@
    "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
    "title_ar": "Nvidia تعد بأن تستمر الإيرادات في الارتفاع الصاروخي — في الوقت الحالي"
   },
-  "techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding": {
-   "at": "2026-11-17T23:30:35.323229+00:00",
-   "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
-   "title_ar": "تقنية الدماغ من شركة Science Corporation تبلغ قيمتها 3.5 مليارات دولار بعد تمويل جديد"
-  },
   "techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers": {
    "at": "2026-11-18T12:15:29.928878+00:00",
    "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
@@ -11133,6 +11133,17 @@
    "summary": "TikTok is experiencing some issues right now, with videos, search results, favorites, and other features not loading as they usually do.",
    "title_ar": "توقف تطبيق TikTok عن العمل"
   },
+  "theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial": {
+   "at": "2026-11-24T23:30:37.781423+00:00",
+   "title": "Huawei found guilty of stealing trade secrets",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+   "score": 2,
+   "sources": 2,
+   "summary": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg.",
+   "title_ar": "إدانة شركة Huawei بسرقة أسرار تجارية"
+  },
   "tomshardware.com/laptops/gaming-laptops/amazon-lists-the-asus-rog-strix-g16-at-a-new-all-time-low-price-of-usd1-179-rtx-5060-powered-gaming-laptop-comes-with-16gb-of-ddr5-ram-and-a-1tb-ssd": {
    "at": "2026-11-20T12:00:41.794635+00:00",
    "title": "Amazon lists the Asus ROG Strix G16 at a new all-time low price of $1,179",
@@ -12139,7 +12150,7 @@
   "AI": "2026-11-24T23:00:41.564488+00:00",
   "Anime": "2026-11-24T17:30:40.453460+00:00",
   "Games": "2026-11-24T23:15:28.234374+00:00",
-  "Tech": "2026-11-24T22:45:38.939340+00:00"
+  "Tech": "2026-11-24T23:30:37.781423+00:00"
  },
  "digest_day": "2026-11-24",
  "weekly_day": "2026-11-20"
