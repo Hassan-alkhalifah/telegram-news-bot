@@ -4324,6 +4324,17 @@
    "summary": "The scale of the exposed data underscores how important it is to take steps to stay safe online.",
    "title_ar": "باحثون يعثرون على 3.6 مليار اسم مستخدم وكلمة مرور ومستند في قواعد بيانات غير محمية"
   },
+  "engadget.com/2326663/meta-is-bringing-muse-to-instagram": {
+   "at": "2026-11-24T18:30:36.671489+00:00",
+   "title": "Meta is bringing Muse to Instagram",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2326663/meta-is-bringing-muse-to-instagram/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Instagram will prompt people to use the agent to sort through their saved content.",
+   "title_ar": ""
+  },
   "engadget.com/2326812/tidal-is-banning-ai-generated-music-entirely": {
    "at": "2026-11-24T18:15:40.507881+00:00",
    "title": "Tidal is banning AI-generated music entirely",
@@ -4333,6 +4344,17 @@
    "score": 0,
    "sources": 1,
    "summary": "The company expects to purge 29 million tracks starting on December 9.",
+   "title_ar": ""
+  },
+  "engadget.com/2326845/gta-6-cloud-streaming-comes-to-ps5-and-playstation-portal": {
+   "at": "2026-11-24T18:30:36.671489+00:00",
+   "title": "GTA 6 cloud streaming comes to PS5 and PlayStation Portal",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2326845/gta-6-cloud-streaming-comes-to-ps5-and-playstation-portal/",
+   "score": 0,
+   "sources": 1,
+   "summary": "You no longer need to free up 212GB on your PS5 for Rockstar's blockbuster.",
    "title_ar": ""
   },
   "eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed": {
@@ -10385,6 +10407,17 @@
    "summary": "During a meeting before his reinstatement, Huang admitted to more affairs beyond the two that have been reported in the news, according to The Wall Street Journal.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms": {
+   "at": "2026-11-24T18:30:36.671489+00:00",
+   "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+   "score": 3,
+   "sources": 2,
+   "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+   "title_ar": "Meta تدمج مساعدها الذكي Muse مباشرة في رسائل Instagram المباشرة"
+  },
   "techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming": {
    "at": "2026-11-24T17:45:30.670879+00:00",
    "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
@@ -12444,7 +12477,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-24T17:45:30.670879+00:00",
+  "AI": "2026-11-24T18:30:36.671489+00:00",
   "Anime": "2026-11-24T17:30:40.453460+00:00",
   "Games": "2026-11-24T18:00:40.032240+00:00",
   "Tech": "2026-11-24T18:15:40.507881+00:00"
