@@ -1,17 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/16/phone-by-google-246-new-icon": {
-   "at": "2026-11-17T04:00:45.472441+00:00",
-   "title": "Phone by Google 246 rolls out gradient icon redesign on Android [U]",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/16/phone-by-google-246-new-icon/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Following the Messages update earlier this week , Phone by Google has received its redesigned gradient icon in the beta channel. more…",
-   "title_ar": "تطبيق Phone by Google يطرح إعادة تصميم لأيقونته المتدرجة على نظام Android [تحديث]"
-  },
   "9to5google.com/2026/11/17/email-text-with-gemini": {
    "at": "2026-11-18T04:15:28.214612+00:00",
    "title": "You can now Email and Text (via Google Messages, iMessage) with Gemini",
@@ -4411,6 +4400,17 @@
    "sources": 1,
    "summary": "It's also removing Google Assistant from smart speakers and displays.",
    "title_ar": ""
+  },
+  "engadget.com/2325384/samsung-odyssey-g6-g60h-is-the-worlds-first-1100hz-gaming-monitor": {
+   "at": "2026-11-24T04:15:26.044565+00:00",
+   "title": "The Samsung Odyssey G6 G60H is the world's first 1,100Hz gaming monitor",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2325384/samsung-odyssey-g6-g60h-is-the-worlds-first-1100hz-gaming-monitor/",
+   "score": 1,
+   "sources": 1,
+   "summary": "That big catch is that this monitor's refresh rate only gets that high in HD mode.",
+   "title_ar": "شاشة Samsung Odyssey G6 G60H هي أول شاشة ألعاب بمعدل 1100 هرتز في العالم"
   },
   "engadget.com/2325472/uber-now-lets-riders-request-drivers-who-are-recording-their-trips": {
    "at": "2026-11-23T18:45:38.977778+00:00",
@@ -12931,7 +12931,7 @@
   "AI": "2026-11-23T21:00:40.293618+00:00",
   "Anime": "2026-11-24T03:30:39.033348+00:00",
   "Games": "2026-11-24T03:45:37.399363+00:00",
-  "Tech": "2026-11-24T04:00:40.496978+00:00"
+  "Tech": "2026-11-24T04:15:26.044565+00:00"
  },
  "digest_day": "2026-11-23",
  "weekly_day": "2026-11-20"
