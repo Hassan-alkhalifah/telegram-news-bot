@@ -804,17 +804,6 @@
    "summary": "iOS 27.3 will introduce an all-new Apple Health experience when it ships next month, but you’ll need an AI-compatible iPhone to get it.",
    "title_ar": ""
   },
-  "9to5mac.com/2026/11/17/jensen-huang-says-hes-ready-to-rejoin-nvidia-as-ceo-if-asked": {
-   "at": "2026-11-17T16:15:29.055263+00:00",
-   "title": "Jensen Huang says he’s ready to rejoin Nvidia as CEO (if asked)",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/17/jensen-huang-says-hes-ready-to-rejoin-nvidia-as-ceo-if-asked/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Jensen Huang’s resignation as Nvidia CEO shook up the AI market and US economy last week , but now via The Wall Street Journal Huang has spoken out publicly for the first time since stepping down…",
-   "title_ar": ""
-  },
   "9to5mac.com/2026/11/17/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-2-astra-and-sol-models": {
    "at": "2026-11-17T18:00:48.514494+00:00",
    "title": "OpenAI upgrades ChatGPT and Codex with new GPT-6.2 Astra and Sol models",
@@ -5490,6 +5479,17 @@
    "summary": "Rockstar's GTA 6 features a massive open world to explore, and people continue to make new discoveries, including a terrifying killer clown Easter egg.",
    "title_ar": ""
   },
+  "gamespot.com/articles/thursday-night-football-had-lowest-viewership-all-season-on-gta-6-launch-day": {
+   "at": "2026-11-24T16:15:36.953024+00:00",
+   "title": "Thursday Night Football Had Lowest Viewership All Season On GTA 6 Launch Day",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.gamespot.com/articles/thursday-night-football-had-lowest-viewership-all-season-on-gta-6-launch-day/",
+   "score": 2,
+   "sources": 1,
+   "summary": "The Thursday Night Football matchup on November 19, the day that GTA 6 came out, had the lowest viewership of the entire season so far for a TNF game, but the low ratings might not be due entirely…",
+   "title_ar": "مباراة Thursday Night Football تسجل أدنى نسبة مشاهدة طوال الموسم في يوم إطلاق GTA 6"
+  },
   "gamespot.com/articles/want-a-custom-gta-6-ps5-pro-just-play-in-the-nba": {
    "at": "2026-11-18T14:15:28.155067+00:00",
    "title": "Want A Custom GTA 6 PS5 Pro? Just Play In The NBA",
@@ -7558,6 +7558,17 @@
    "summary": "GTA 6 on PS5 Pro adds ray-traced shadows and PSSR improvements, but Rockstar says CPU limits prevent the game from reaching higher FPS.",
    "title_ar": ""
   },
+  "insider-gaming.com/red-dead-redemption-developer-reportedly-open-to-selling-tv-rights": {
+   "at": "2026-11-24T16:15:36.953024+00:00",
+   "title": "Rockstar Reportedly Open to Selling Red Dead Redemption TV Rights",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/red-dead-redemption-developer-reportedly-open-to-selling-tv-rights/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Rockstar Games is reportedly interested in selling the licensing rights to its popular game series Red Dead Redemption.",
+   "title_ar": ""
+  },
   "insider-gaming.com/rockstar-explains-why-gta-6-doesnt-have-a-40-fps-mode": {
    "at": "2026-11-18T13:30:38.996689+00:00",
    "title": "Rockstar Explains Why GTA 6 Doesn’t Have a 40 FPS Mode",
@@ -7567,6 +7578,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Rockstar has revealed why they have locked GTA 6 to 30 FPS and it's because of the \"complexity' of all moving parts.",
+   "title_ar": ""
+  },
+  "insider-gaming.com/rockstar-shuts-down-discord-server-trying-to-port-gta-6-to-pc": {
+   "at": "2026-11-24T16:15:36.953024+00:00",
+   "title": "Rockstar Shuts Down Discord Server Trying to Port GTA 6 to PC",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/rockstar-shuts-down-discord-server-trying-to-port-gta-6-to-pc/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Rockstar Games and Take-Two have shut down a Discord server that was working on an unauthorized PC port for GTA 6",
    "title_ar": ""
   },
   "insider-gaming.com/senua-concept-art": {
@@ -9978,17 +10000,6 @@
    "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
    "title_ar": ""
   },
-  "techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant": {
-   "at": "2026-11-17T16:15:29.055263+00:00",
-   "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Planning a trip is a favorite demo for personal AI assistants: you can try it with Muse, or with Gemini or half a dozen other choices.",
-   "title_ar": "Voyage Labs تجمع 12 مليون دولار لصالح مساعد سفر ذكي ومخصص"
-  },
   "techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order": {
    "at": "2026-11-17T22:15:30.159290+00:00",
    "title": "Waymo suspends freeway rides nationwide after California DMV order",
@@ -12299,17 +12310,6 @@
    "summary": "A YouTuber has discovered one of GTA 6's biggest secrets",
    "title_ar": ""
   },
-  "videogameschronicle.com/news/playstation-beats-2-6-billion-lawsuit-over-its-game-prices": {
-   "at": "2026-11-17T16:15:29.055263+00:00",
-   "title": "PlayStation beats $2.6 billion lawsuit over its game prices",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.videogameschronicle.com/news/playstation-beats-2-6-billion-lawsuit-over-its-game-prices/",
-   "score": 0,
-   "sources": 1,
-   "summary": "PlayStation will not be compelled to allow third-party stores on its consoles",
-   "title_ar": ""
-  },
   "videogameschronicle.com/news/ps5-gets-its-third-system-software-update-in-a-month-right-before-grand-theft-auto-6-is-released": {
    "at": "2026-11-18T10:15:27.044119+00:00",
    "title": "PS5 gets its third system software update in a month, right before Grand Theft Auto 6 is released",
@@ -12611,7 +12611,7 @@
  "topic_last_posted": {
   "AI": "2026-11-24T16:00:43.321259+00:00",
   "Anime": "2026-11-24T10:30:40.226692+00:00",
-  "Games": "2026-11-24T15:45:31.014052+00:00",
+  "Games": "2026-11-24T16:15:36.953024+00:00",
   "Tech": "2026-11-24T15:46:14.901934+00:00"
  },
  "digest_day": "2026-11-23",
