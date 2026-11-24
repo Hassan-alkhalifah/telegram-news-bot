@@ -2949,17 +2949,6 @@
    "summary": "Crunchyroll streams all 12 episodes of the first season",
    "title_ar": ""
   },
-  "crunchyroll.com/news/latest/2026/11/17/onee-chan-no-midori-kun-live-action-film-new-clip-timelesz-theme-song": {
-   "at": "2026-11-17T04:45:28.745017+00:00",
-   "title": "Onee-chan no Midori-kun Live-Action Film Releases New Clip Featuring Timelesz Theme Song",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://crunchyroll.com/news/latest/2026/11/17/onee-chan-no-midori-kun-live-action-film-new-clip-timelesz-theme-song",
-   "score": 1,
-   "sources": 1,
-   "summary": "The adaptation of Amu Meguro's romance manga opens on December 4",
-   "title_ar": "إطلاق مقطع مصور جديد لفيلم الأوساخ الحي Onee-chan no Midori-kun يتضمن الأغنية الرئيسية لفرقة Timelesz"
-  },
   "crunchyroll.com/news/latest/2026/11/17/pokemon-boss-coffee-alien-tommy-lee-jones-collab": {
    "at": "2026-11-17T16:30:38.123447+00:00",
    "title": "Pokémon and BOSS Welcome Back Alien Jones for Ongoing Collab",
@@ -8856,6 +8845,17 @@
    "summary": "A'ight, slow down.",
    "title_ar": "لعبة Persona 6 ليس لها موعد إطلاق بعد، لكن Atlus تقول إنك لن تضطر للانتظار طويلاً من أجل Persona 7"
   },
+  "nintendolife.com/news/2026/11/pikmin-4-switch-2-edition-plus-dandori-academy-x-tetris-99-event-announced-unlock-a-special-theme": {
+   "at": "2026-11-24T04:45:30.647286+00:00",
+   "title": "Pikmin 4 Switch 2 Edition + Dandori Academy X Tetris 99 Event Announced, Unlock A Special Theme",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.nintendolife.com/news/2026/11/pikmin-4-switch-2-edition-plus-dandori-academy-x-tetris-99-event-announced-unlock-a-special-theme",
+   "score": 2,
+   "sources": 1,
+   "summary": "Dropping later this week.",
+   "title_ar": "الإعلان عن إصدار Pikmin 4 Switch 2 Edition + Dandori Academy X Tetris 99 مع حدث لفتح سمة خاصة"
+  },
   "nintendolife.com/news/2026/11/random-gta-6-hides-an-adorable-mario-and-luigi-easter-egg-in-its-massive-world": {
    "at": "2026-11-23T17:30:38.574815+00:00",
    "title": "Random: GTA 6 Hides An Adorable Mario & Luigi Easter Egg In Its Massive World",
@@ -11881,17 +11881,6 @@
    "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail.",
    "title_ar": "منصة Kagi البديلة لـ Google تطلق خدمة بريد إلكتروني"
   },
-  "theverge.com/transportation/1034321/mercedes-benz-mb-drive-assist-pro-hands-free-highway-assist-2027": {
-   "at": "2026-11-17T04:30:38.322442+00:00",
-   "title": "Mercedes-Benz takes on Tesla FSD with new point-to-point city driving assist",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.theverge.com/transportation/1034321/mercedes-benz-mb-drive-assist-pro-hands-free-highway-assist-2027",
-   "score": 1,
-   "sources": 1,
-   "summary": "Mercedes-Benz is tossing its hat into the partial autonomy ring with the launch of two new features next year: hands-free highway driving and a point-to-point city navigation system.",
-   "title_ar": "Mercedes-Benz تتحدى نظام FSD من Tesla بمساعد جديد للقيادة في المدن من نقطة إلى نقطة"
-  },
   "theverge.com/transportation/1034794/uber-eats-zipline-drone-delivery-launch-texas-houston-dallas": {
    "at": "2026-11-17T15:15:40.604808+00:00",
    "title": "Uber and Zipline’s drone delivery service takes flight in Houston",
@@ -12941,7 +12930,7 @@
  "topic_last_posted": {
   "AI": "2026-11-23T21:00:40.293618+00:00",
   "Anime": "2026-11-24T04:30:34.657478+00:00",
-  "Games": "2026-11-24T03:45:37.399363+00:00",
+  "Games": "2026-11-24T04:45:30.647286+00:00",
   "Tech": "2026-11-24T04:15:26.044565+00:00"
  },
  "digest_day": "2026-11-23",
