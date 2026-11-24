@@ -89,17 +89,6 @@
    "summary": "Google has given the time picker component a Material 3 Expressive redesign, while adding a new scrolling variant.",
    "title_ar": "Material 3 Expressive يضيف أداة اختيار الوقت القابلة للتمرير، وAI Studio يُحسّن إنشاء تطبيقات Android"
   },
-  "9to5google.com/2026/11/17/openai-releases-gpt-6-2-astra-and-sol-for-complex-projects-a-week-after-claude-5-2": {
-   "at": "2026-11-17T18:45:28.218639+00:00",
-   "title": "OpenAI releases GPT-6.2 Astra to regain performance lead from Claude Fable 5.2",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5google.com/2026/11/17/openai-releases-gpt-6-2-astra-and-sol-for-complex-projects-a-week-after-claude-5-2/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The frontier model races continues.",
-   "title_ar": ""
-  },
   "9to5google.com/2026/11/17/whatsapp-cloud-backups-free-beta": {
    "at": "2026-11-17T19:00:43.400058+00:00",
    "title": "WhatsApp starts rolling out built-in cloud backup on Android, and it’s free",
@@ -650,6 +639,17 @@
    "summary": "The iconic YouTube app icon that looked like a retro TV found on iOS might be making a comeback, with new customizable icons showing up behind the scenes of a new YouTube update. more…",
    "title_ar": "أيقه ՄYouTube الشهيرة لتطبيق iOS قد تعود قريبًا مع أيقونات جديدة قابلة للتخصيص [معرض الصور]"
   },
+  "9to5google.com/2026/11/24/kagi-the-paid-google-search-alternative-now-has-a-gmail-rival-too": {
+   "at": "2026-11-24T18:45:41.259554+00:00",
+   "title": "Kagi, the paid Google Search alternative, now has a Gmail rival too",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5google.com/2026/11/24/kagi-the-paid-google-search-alternative-now-has-a-gmail-rival-too/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Kagi is best known as a paid alternative to Google Search, but the company is now introducing its own email service that offers an alternative to Gmail. more…",
+   "title_ar": ""
+  },
   "9to5google.com/2026/11/24/lenovo-legion-go-beam-leak": {
    "at": "2026-11-24T18:15:40.507881+00:00",
    "title": "Lenovo Legion Go Beam leaks with Android instead of SteamOS",
@@ -747,17 +747,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Apple today announced that App Store prices for apps and In-App Purchases will be adjusted in five countries starting December 3, following changes in taxes and foreign exchange rates.",
-   "title_ar": ""
-  },
-  "9to5mac.com/2026/11/17/disney-and-hulus-fully-unified-app-is-coming-next-month": {
-   "at": "2026-11-17T18:45:28.218639+00:00",
-   "title": "Disney+ and Hulu’s ‘fully unified’ app is coming next month",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/17/disney-and-hulus-fully-unified-app-is-coming-next-month/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Disney has announced a major milestone coming next month in its plans to merge the Disney+ and Hulu apps, which will be “fully unified” into Disney+ soon. more…",
    "title_ar": ""
   },
   "9to5mac.com/2026/11/17/epic-accuses-apple-of-withholding-122000-documents-seeks-daily-fines": {
@@ -1748,17 +1737,6 @@
    "score": 0,
    "sources": 1,
    "summary": "The 22nd volume of Tatsuki Fujimoto's Chainsaw Man manga ranked at #4 on The New York Times' monthly Graphic Books and Manga bestseller list released in...",
-   "title_ar": ""
-  },
-  "animenewsnetwork.com/news/2026-11-17/arika-director-software-development-head-game-programmer-akira-kurabayashi-dies/.243908": {
-   "at": "2026-11-17T18:30:39.355161+00:00",
-   "title": "ARIKA Director, Software Development Head, Game Programmer Akira Kurabayashi Dies",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-17/arika-director-software-development-head-game-programmer-akira-kurabayashi-dies/.243908",
-   "score": 0,
-   "sources": 1,
-   "summary": "Kurabayashi worked on Tetris 99 , Pac-Man 99 , Street Fighter EX games",
    "title_ar": ""
   },
   "animenewsnetwork.com/news/2026-11-17/hidive-streams-giant-ojosama-tv-anime-this-winter-screens-n-american-premiere-at-anime-frontier-on-/.243917": {
@@ -3510,17 +3488,6 @@
    "summary": "Here's a rundown of some Google tools that ended up in the graveyard this year.",
    "title_ar": "ستة منتجات وخدمات أوقفتها Google في عام 2026"
   },
-  "engadget.com/2319193/unified-disney-plus-and-hulu-app-is-set-to-arrive-in-december": {
-   "at": "2026-11-17T18:45:28.218639+00:00",
-   "title": "The unified Disney+ and Hulu app is set to arrive in December",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2319193/unified-disney-plus-and-hulu-app-is-set-to-arrive-in-december/",
-   "score": 2,
-   "sources": 2,
-   "summary": "Disney has been working to bring the streaming services together for several years.",
-   "title_ar": "تطبيق Disney+ و Hulu الموحد قادم في شهر ديسمبر"
-  },
   "engadget.com/2319367/ipad-alternatives-to-ditch-apple": {
    "at": "2026-11-22T16:00:42.256832+00:00",
    "title": "4 iPad Pro alternatives for those looking to ditch Apple",
@@ -3564,17 +3531,6 @@
    "sources": 1,
    "summary": "There are a few ways you can multitask on a traditional smartphone.",
    "title_ar": "لست بحاجة إلى هاتف قابل للطي لاستخدام الشاشة المقسمة في نظام Android"
-  },
-  "engadget.com/2319504/icloud-and-other-apple-services-are-down-in-an-apparent-outage": {
-   "at": "2026-11-17T18:30:39.355161+00:00",
-   "title": "iCloud and other Apple services are down in an apparent outage",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.engadget.com/2319504/icloud-and-other-apple-services-are-down-in-an-apparent-outage/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The full extent of the disruption isn't known yet.",
-   "title_ar": ""
   },
   "engadget.com/2319509/what-tiny-key-icon-means-android-device": {
    "at": "2026-11-22T20:45:27.693546+00:00",
@@ -4544,6 +4500,17 @@
    "summary": "Surprise, surprise - GTA 6 is officially the biggest entertainment launch of all time, surpassing its predecessor's 13-year-long record and the already optimistic analyst estimates.",
    "title_ar": ""
   },
+  "eurogamer.net/gta-6-call-of-duty-fortnite-fc-27-daily-players-alinea": {
+   "at": "2026-11-24T18:45:41.259554+00:00",
+   "title": "GTA 6 launch knocked Call of Duty's daily players down 42 percent, Alinea estimates",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.eurogamer.net/gta-6-call-of-duty-fortnite-fc-27-daily-players-alinea",
+   "score": 2,
+   "sources": 1,
+   "summary": "Grand Theft Auto 6 's launch took a big bite out of Call of Duty’s player base, according to new estimates from Alinea Analytics, and four days on, it still hasn't recovered.",
+   "title_ar": "تقديرات Alinea تشير إلى أن إطلاق GTA 6 تسبب في انخفاض اللاعبين اليوميين لـ Call of Duty بنسبة 42 بالمئة"
+  },
   "eurogamer.net/gta-6-credits-florida-joker-rockstar": {
    "at": "2026-11-20T18:30:42.309899+00:00",
    "title": "GTA 6 credits actually include 'Florida Joker', the viral internet personality who once demanded $10 million from Rockstar Games",
@@ -5215,17 +5182,6 @@
    "summary": "Rockstar's Grand Theft Auto 6 has finally arrived, and, to the surprise of no one, it's putting up some big numbers that speak to the pent-up demand.",
    "title_ar": ""
   },
-  "gamespot.com/articles/gta-6s-lucia-actor-revealed-and-its-the-person-everyone-already-guessed": {
-   "at": "2026-11-17T18:30:39.355161+00:00",
-   "title": "GTA 6’s Lucia Actor Revealed, And It’s The Person Everyone Already Guessed",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gamespot.com/articles/gta-6s-lucia-actor-revealed-and-its-the-person-everyone-already-guessed/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The actor playing Lucia in Grand Theft Auto 6 has been revealed, and it's Manni L.",
-   "title_ar": ""
-  },
   "gamespot.com/articles/gta-6s-stars-release-a-very-nice-statement-as-game-goes-live": {
    "at": "2026-11-19T16:30:36.870371+00:00",
    "title": "GTA 6’s Stars Release A Very Nice Statement As Game Goes Live",
@@ -5490,17 +5446,6 @@
    "summary": "Arcade Archives 2 TX-1 V.8 will launch for PlayStation 5, Xbox Series, and Switch 2, and …",
    "title_ar": ""
   },
-  "gematsu.com/2026/11/arika-director-akira-kurabayashi-dies": {
-   "at": "2026-11-17T18:30:39.355161+00:00",
-   "title": "ARIKA director Akira Kurabayashi dies",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.gematsu.com/2026/11/arika-director-akira-kurabayashi-dies",
-   "score": 3,
-   "sources": 2,
-   "summary": "Akira Kurabayashi, a company director and head of the software development division at ARIKA, passed …",
-   "title_ar": "وفاة المدير في شركة ARIKA، Akira Kurabayashi"
-  },
   "gematsu.com/2026/11/console-archives-the-firemen-2-pete-danny-launches-november-19": {
    "at": "2026-11-18T18:15:29.300227+00:00",
    "title": "Console Archives The Firemen 2: Pete & Danny launches November 19",
@@ -5599,17 +5544,6 @@
    "sources": 2,
    "summary": "Publisher 4Divinity and developer NEKCOM Games have delayed “post-apocalyptic romance RPG” and “alternate history ensemble …",
    "title_ar": "تأجيل لعبة Showa American Story إلى 28 أكتوبر 2027"
-  },
-  "gematsu.com/2026/11/spyro-a-realm-beyond-teased-for-the-game-awards-2026": {
-   "at": "2026-11-17T18:45:28.218639+00:00",
-   "title": "Spyro: A Realm Beyond teased for The Game Awards 2026",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gematsu.com/2026/11/spyro-a-realm-beyond-teased-for-the-game-awards-2026",
-   "score": 0,
-   "sources": 1,
-   "summary": "Publisher Activision and developer Toys for Bob will share more information on Spyro: A Realm …",
-   "title_ar": ""
   },
   "gematsu.com/2026/11/stardust-wish-of-witch-for-ps5-switch-2-launches-december-14": {
    "at": "2026-11-24T15:45:31.014052+00:00",
@@ -9197,17 +9131,6 @@
    "summary": "\"Did they make us make Dragon Age 2?",
    "title_ar": "مدير سابق لسلسلة Dragon Age يوضح أن سوء الإدارة من EA أدى إلى إغلاق BioWare لأن الخيارات المتاحة كانت سيئة للغاية"
   },
-  "pcgamer.com/gaming-industry/events-conferences/we-got-8-game-awards-nominations-for-gta-6-before-gta-6": {
-   "at": "2026-11-17T18:45:28.218639+00:00",
-   "title": "We got 8 Game Awards nominations for GTA 6 before GTA 6",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/gaming-industry/events-conferences/we-got-8-game-awards-nominations-for-gta-6-before-gta-6/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The Game Awards says its judges \"may be provided with advance or pre-release access to games for critical evaluation.\"",
-   "title_ar": ""
-  },
   "pcgamer.com/gaming-industry/former-dragon-age-boss-questions-whether-bioware-should-have-become-a-one-project-studio-dropping-either-mass-effect-or-dragon-age-to-survive-ea": {
    "at": "2026-11-23T19:30:36.152676+00:00",
    "title": "Former Dragon Age boss questions whether BioWare should have become 'a one project studio' dropping either Mass Effect or Dragon Age to survive EA",
@@ -9668,17 +9591,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Montreal and Quebec hit.",
-   "title_ar": ""
-  },
-  "pushsquare.com/news/2026/11/uks-health-service-issues-warning-over-gta-6-urges-players-to-take-care-of-their-hands": {
-   "at": "2026-11-17T18:45:28.218639+00:00",
-   "title": "UK's Health Service Issues Warning Over GTA 6, Urges Players to Take Care of Their Hands",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pushsquare.com/news/2026/11/uks-health-service-issues-warning-over-gta-6-urges-players-to-take-care-of-their-hands",
-   "score": 0,
-   "sources": 1,
-   "summary": "Point the finger.",
    "title_ar": ""
   },
   "pushsquare.com/news/2026/11/youve-basically-got-to-wait-an-entire-year-to-play-showa-american-story": {
@@ -11100,17 +11012,6 @@
    "summary": "Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, \"the Nvidia board unanimously accepted his resignation and does…",
    "title_ar": ""
   },
-  "theverge.com/tech/1035740/meta-instagram-direct-messaging-app": {
-   "at": "2026-11-17T18:45:28.218639+00:00",
-   "title": "Meta is testing a new standalone messaging app called Direct",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app",
-   "score": 0,
-   "sources": 1,
-   "summary": "Meta announced Direct, a new messaging app from Instagram that it's currently testing in Turkey and Thailand on iOS and Android.",
-   "title_ar": ""
-  },
   "theverge.com/tech/1035756/google-spark-ai-tasks-free": {
    "at": "2026-11-17T20:15:28.473630+00:00",
    "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
@@ -12479,7 +12380,7 @@
  "topic_last_posted": {
   "AI": "2026-11-24T18:30:36.671489+00:00",
   "Anime": "2026-11-24T17:30:40.453460+00:00",
-  "Games": "2026-11-24T18:00:40.032240+00:00",
+  "Games": "2026-11-24T18:45:41.259554+00:00",
   "Tech": "2026-11-24T18:15:40.507881+00:00"
  },
  "digest_day": "2026-11-24",
