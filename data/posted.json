@@ -5490,6 +5490,17 @@
    "summary": "Edia has announced Kendo Rage 1&2, a two-game collection featuring side-scrolling action game Kendo Rage …",
    "title_ar": "الإعلان عن لعبة Kendo Rage 1&2 لأجهزة PS5 و Switch و PC"
   },
+  "gematsu.com/2026/11/lords-of-the-fallen-ii-launches-in-april-2027": {
+   "at": "2026-11-24T19:15:28.626958+00:00",
+   "title": "Lords of the Fallen II launches in April 2027",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gematsu.com/2026/11/lords-of-the-fallen-ii-launches-in-april-2027",
+   "score": 0,
+   "sources": 1,
+   "summary": "Soulslike action RPG Lords of the Fallen II will launch for PlayStation 5, Xbox Series, Switch …",
+   "title_ar": ""
+  },
   "gematsu.com/2026/11/nintendo-gamecube-nintendo-classics-adds-wave-race-blue-storm": {
    "at": "2026-11-24T01:45:27.473312+00:00",
    "title": "Nintendo GameCube – Nintendo Classics adds Wave Race: Blue Storm",
@@ -7864,6 +7875,17 @@
    "score": 0,
    "sources": 1,
    "summary": "‘I know so many people think it’s easy, just make Destroy canon and move on’",
+   "title_ar": ""
+  },
+  "kotaku.com/mass-effect-5-universe-liara-garrus-tali-grunt-edi-shepard-2001000067": {
+   "at": "2026-11-24T19:15:28.626958+00:00",
+   "title": "The Plan Was For Mass Effect: Universe To Tell You What Happened To All Your Favorite Characters",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/mass-effect-5-universe-liara-garrus-tali-grunt-edi-shepard-2001000067",
+   "score": 0,
+   "sources": 1,
+   "summary": "The now-canceled fifth game in the sci-fi series was meant to pick up old threads",
    "title_ar": ""
   },
   "kotaku.com/mass-effect-spiritual-successor-exodus-has-revealed-its-version-of-femshep-and-i-have-a-couple-of-questions-2000757696": {
@@ -10253,6 +10275,17 @@
    "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
    "title_ar": "استحواذ Amazon على شركة Decart هو رهان على استخدام البرمجيات لتضييق الفجوة مع Nvidia في سباق شرق الذكاء الاصطناعي"
   },
+  "techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups": {
+   "at": "2026-11-24T19:15:28.626958+00:00",
+   "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+   "title_ar": "أسهم Anthropic تنخفض دون سعر الاطروحة الأولية، في مؤشر مقلق للشركات الناشئة في مجال الذكاء الاصطناعي"
+  },
   "techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board": {
    "at": "2026-11-24T13:30:47.601063+00:00",
    "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
@@ -12334,7 +12367,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-24T18:30:36.671489+00:00",
+  "AI": "2026-11-24T19:15:28.626958+00:00",
   "Anime": "2026-11-24T17:30:40.453460+00:00",
   "Games": "2026-11-24T18:45:41.259554+00:00",
   "Tech": "2026-11-24T19:00:54.862646+00:00"
