@@ -10715,6 +10715,17 @@
    "summary": "A Vals AI investigation shows that leading AI models from Anthropic, OpenAI and Google have almost no safeguards against use in autonomous weapons systems.",
    "title_ar": "نماذج Anthropic و OpenAI و Google حددت بسهولة مسعفين وصحفيين وجنوداً مستسلمين كأهداف لطائرات كاميكازي المسيرة"
   },
+  "the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout": {
+   "at": "2026-11-24T14:30:37.352184+00:00",
+   "title": "Anthropic researcher stands by his AI-assisted Riemann proof but owns up to \"stupid things\" in the rollout",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Anthropic researcher Levent Alpöge is walking back parts of his announcement of an AI-assisted proof of the generalized Riemann hypothesis.",
+   "title_ar": ""
+  },
   "the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector": {
    "at": "2026-11-19T14:15:41.986120+00:00",
    "title": "Anthropic's $81.3 billion IPO shatters SpaceX's record as rising rates and political headwinds shake the sector",
@@ -11991,6 +12002,17 @@
    "summary": "A homelab builder runs Qwen 3.6 35B on three used Nvidia Tesla V100 GPUs at about 100 tokens per second, in a $1,042 build.",
    "title_ar": "ثلاث وحدات Nvidia V100 من النفايات الإلكترونية تصل إلى 100 رمز في الثانية على نموذج Qwen 3.6 35B في جهاز منزلي بتكلفة 1042 دولاراً"
   },
+  "tomshardware.com/tech-industry/big-tech/jensen-huang-confessed-to-more-affairs-before-the-board-reinstated-him-as-nvidia-ceo-report-claims-contrite-chief-disclosed-at-least-two-additional-affairs-beyond-megaspeed-exec-and-nvidias-vp-of-health-care": {
+   "at": "2026-11-24T14:30:37.352184+00:00",
+   "title": "Jensen Huang confessed to more affairs before the board reinstated him as Nvidia CEO, report claims",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-confessed-to-more-affairs-before-the-board-reinstated-him-as-nvidia-ceo-report-claims-contrite-chief-disclosed-at-least-two-additional-affairs-beyond-megaspeed-exec-and-nvidias-vp-of-health-care",
+   "score": 0,
+   "sources": 1,
+   "summary": "Jensen Huang admitted to more affairs than the two that Nvidia's board members were already aware of before they agreed to let him return to the company as CEO, President, and board member, amid…",
+   "title_ar": ""
+  },
   "tomshardware.com/tech-industry/big-tech/jensen-huang-returns-to-applause-from-employees-at-nvidia-hq-some-employees-reportedly-disgruntled-by-return-saying-this-is-the-worst-outcome": {
    "at": "2026-11-23T21:15:26.278479+00:00",
    "title": "Jensen Huang returns to applause from employees at Nvidia HQ",
@@ -12730,7 +12752,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-24T12:45:29.351098+00:00",
+  "AI": "2026-11-24T14:30:37.352184+00:00",
   "Anime": "2026-11-24T10:30:40.226692+00:00",
   "Games": "2026-11-24T12:00:43.798810+00:00",
   "Tech": "2026-11-24T14:00:56.861572+00:00"
