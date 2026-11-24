@@ -760,17 +760,6 @@
    "summary": "Interested in getting an iPhone Duo before Christmas?",
    "title_ar": "طلبات iPhone Duo الجديد تُشحن الآن قبل شهر كامل من الموعد السابق"
   },
-  "9to5mac.com/2026/11/16/tvos-27-3-beta-2-brings-siri-ai-to-apple-tv-beta-testers": {
-   "at": "2026-11-17T01:45:28.224020+00:00",
-   "title": "tvOS 27.3 beta 2 brings Siri AI to Apple TV beta testers",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/16/tvos-27-3-beta-2-brings-siri-ai-to-apple-tv-beta-testers/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Following the rollout of Siri AI to select Apple TV models with tvOS 27.2.1, Apple today expanded availability to users running the tvOS 27.3 developer beta.",
-   "title_ar": ""
-  },
   "9to5mac.com/2026/11/17/airpods-pro-3-keep-getting-better-heres-whats-new-ios-27": {
    "at": "2026-11-17T19:30:36.148932+00:00",
    "title": "AirPods Pro 3 keep getting better, here’s what’s new in iOS 27",
@@ -2949,17 +2938,6 @@
    "summary": "Studios Passione and Hayabusa Film produce the rom-com series",
    "title_ar": "الإعلان عن عرض أنمي Kusunoki's Flunking Her High School Glow-Up في أبريل 2027"
   },
-  "crunchyroll.com/news/latest/2026/11/17/lisa-grammy-nomination-best-asian-pop-music-performance-category": {
-   "at": "2026-11-17T01:45:28.224020+00:00",
-   "title": "LiSA Earns Grammy Nomination for The Irregular at Magic High School THE MOVIE -Yotsuba Succession Arc- Anime Theme Song",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://crunchyroll.com/news/latest/2026/11/17/lisa-grammy-nomination-best-asian-pop-music-performance-category",
-   "score": 0,
-   "sources": 1,
-   "summary": "\"YES\" is the only anime theme song in the Best Asian Pop Music Performance category",
-   "title_ar": ""
-  },
   "crunchyroll.com/news/latest/2026/11/17/mistress-kanan-is-devilishly-easy-season-2-anime-2027-release-date-trailer-teaser-visual": {
    "at": "2026-11-17T09:45:29.383628+00:00",
    "title": "Mistress Kanan is Devilishly Easy Season 2 Anime Reveals 2027 Broadcast in New Trailer, Visual",
@@ -4004,6 +3982,17 @@
    "sources": 1,
    "summary": "Double-check your PS5's firmware is up to date, or you may not be able to play GTA VI.",
    "title_ar": ""
+  },
+  "engadget.com/2320620/dism-commands-for-windows-system-image-repair": {
+   "at": "2026-11-24T02:00:41.881587+00:00",
+   "title": "The three DISM commands you should know to fix your Windows system images",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2320620/dism-commands-for-windows-system-image-repair/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Check and repair damaged system files with these DISM commands.",
+   "title_ar": "أوامر DISM الثلاثة التي يجب عليك معرفتها لإصلاح صور نظام Windows الخاص بك"
   },
   "engadget.com/2320713/xbox-series-x-s-settings-change-before-playing-gta-6": {
    "at": "2026-11-19T17:15:27.451428+00:00",
@@ -8933,17 +8922,6 @@
    "summary": "A weekend of review bombing.",
    "title_ar": ""
   },
-  "nintendolife.com/news/2026/11/zelda-ocarina-of-time-remake-crowned-2026s-best-selling-physical-video-game-in-the-us": {
-   "at": "2026-11-17T01:45:28.224020+00:00",
-   "title": "Zelda: Ocarina Of Time Remake Crowned 2026's \"Best-Selling Physical Video Game In The US\"",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-remake-crowned-2026s-best-selling-physical-video-game-in-the-us",
-   "score": 2,
-   "sources": 1,
-   "summary": "\"After just one week\".",
-   "title_ar": "النسخة الجديدة من Zelda: Ocarina Of Time تتوج \"أكثر فيديو جيمز مبيعاً بنسخه الفيزيائية في الولايات المتحدة\" لعام 2026."
-  },
   "nintendolife.com/news/2026/11/zeldas-ocarina-remake-is-one-of-metacritics-highest-rated-games-in-2026-according-to-user-scores": {
    "at": "2026-11-21T06:00:50.374510+00:00",
    "title": "Zelda's Ocarina Remake Is One Of Metacritic's Highest-Rated Games In 2026, According To User Scores",
@@ -12953,7 +12931,7 @@
   "AI": "2026-11-23T21:00:40.293618+00:00",
   "Anime": "2026-11-23T20:30:36.394673+00:00",
   "Games": "2026-11-24T01:45:27.473312+00:00",
-  "Tech": "2026-11-24T01:30:35.432889+00:00"
+  "Tech": "2026-11-24T02:00:41.881587+00:00"
  },
  "digest_day": "2026-11-23",
  "weekly_day": "2026-11-20"
