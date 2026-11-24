@@ -749,17 +749,6 @@
    "summary": "Apple marketing SVP Greg Joswiak said today that the number of iPhone Duo-ready apps on the App Store is twice what it was when Apple last reported the figure.",
    "title_ar": "تطبيق iPhone Duo يمتلك الآن ضعف عدد التطبيقات المحسّنة مقارنة بما كان عليه قبل 10 أيام"
   },
-  "9to5mac.com/2026/11/16/new-iphone-duo-orders-now-deliver-a-month-earlier-than-before": {
-   "at": "2026-11-17T03:00:44.641259+00:00",
-   "title": "New iPhone Duo orders now deliver a month earlier than before",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/16/new-iphone-duo-orders-now-deliver-a-month-earlier-than-before/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Interested in getting an iPhone Duo before Christmas?",
-   "title_ar": "طلبات iPhone Duo الجديد تُشحن الآن قبل شهر كامل من الموعد السابق"
-  },
   "9to5mac.com/2026/11/17/airpods-pro-3-keep-getting-better-heres-whats-new-ios-27": {
    "at": "2026-11-17T19:30:36.148932+00:00",
    "title": "AirPods Pro 3 keep getting better, here’s what’s new in iOS 27",
@@ -2716,6 +2705,17 @@
    "score": 0,
    "sources": 1,
    "summary": "New season starts streaming on ABEMA, Netflix on January 10",
+   "title_ar": ""
+  },
+  "animenewsnetwork.com/news/2026-11-23/deadline-live-action-naruto-film-in-talks-to-cast-hiroyuki-sanada-as-sarutobi/.244138": {
+   "at": "2026-11-24T03:00:46.590560+00:00",
+   "title": "Deadline: Live-Action Naruto Film in Talks to Cast Hiroyuki Sanada as Sarutobi",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-23/deadline-live-action-naruto-film-in-talks-to-cast-hiroyuki-sanada-as-sarutobi/.244138",
+   "score": 0,
+   "sources": 1,
+   "summary": "Charles Melton also in talks to join cast",
    "title_ar": ""
   },
   "animenewsnetwork.com/news/2026-11-23/magical-buffs-anime-announces-3-more-cast-members/.244111": {
@@ -7106,6 +7106,17 @@
    "sources": 1,
    "summary": "Former Nvidia boss Jensen Huang has said he is ready to return to the company he co-founded, after he resigned amid a scandal involving infidelity and alleged espionage.",
    "title_ar": ""
+  },
+  "ign.com/articles/naruto-movie-closes-in-on-casting-hiroyuki-sanada-as-live-action-hiruzen-sarutobi": {
+   "at": "2026-11-24T03:00:46.590560+00:00",
+   "title": "Naruto Movie Closes in on Casting Hiroyuki Sanada as Live-Action Hiruzen Sarutobi",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.ign.com/articles/naruto-movie-closes-in-on-casting-hiroyuki-sanada-as-live-action-hiruzen-sarutobi",
+   "score": 3,
+   "sources": 2,
+   "summary": "Hiroyuki Sanada has reportedly entered final negotiations to play Hiruzen Sarutobi in Destin Daniel Cretton's live-action Naruto movie.",
+   "title_ar": "فيلم Naruto يقترب من اختيار Hiroyuki Sanada لتجسيد شخصية Hiruzen Sarutobi في النسخة الواقعية"
   },
   "ign.com/articles/nvidia-board-reinstates-jensen-huang-as-ceo-amid-donald-trump-social-media-pressure": {
    "at": "2026-11-23T15:15:29.725530+00:00",
@@ -12897,7 +12908,7 @@
  "topic_last_posted": {
   "AI": "2026-11-23T21:00:40.293618+00:00",
   "Anime": "2026-11-24T02:30:38.432647+00:00",
-  "Games": "2026-11-24T02:15:29.911367+00:00",
+  "Games": "2026-11-24T03:00:46.590560+00:00",
   "Tech": "2026-11-24T02:45:29.298763+00:00"
  },
  "digest_day": "2026-11-23",
