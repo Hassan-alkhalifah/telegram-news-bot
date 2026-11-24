@@ -6150,6 +6150,17 @@
    "summary": "After seven years, Samsung is shaking up its leadership and is replacing the head of the mobile division.",
    "title_ar": "سامسونغ تعين قيادة جديدة، وTM Roh يظل رئيساً تنفيذياً"
   },
+  "gsmarena.com/samsung_brings_new_health_features_to_the_galaxy_watch8_series_with_one_ui_9_watch_update-news-75617.php": {
+   "at": "2026-11-24T18:00:40.032240+00:00",
+   "title": "Samsung brings new health features to the Galaxy Watch8 series with One UI 9 Watch update",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/samsung_brings_new_health_features_to_the_galaxy_watch8_series_with_one_ui_9_watch_update-news-75617.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "Samsung announced that it started seeding the One UI 9 Watch update to the Galaxy Watch8 series.",
+   "title_ar": ""
+  },
   "gsmarena.com/samsung_could_beat_apple_to_market_with_a_bezelless_phone_display-news-75510.php": {
    "at": "2026-11-17T22:15:30.159290+00:00",
    "title": "Samsung could beat Apple to market with a bezel-less phone display",
@@ -7194,6 +7205,17 @@
    "sources": 1,
    "summary": "As gaming headlines focus on the launch of GTA 6, Assassin's Creed maker Ubisoft has announced another round of restructuring that eliminates 166 more jobs.",
    "title_ar": ""
+  },
+  "ign.com/articles/warhammer-40000-dawn-of-war-4-teaser-pretty-much-confirms-fifth-playable-faction-and-the-appearance-of-a-would-be-chaos-god": {
+   "at": "2026-11-24T18:00:40.032240+00:00",
+   "title": "Warhammer 40,000: Dawn of War 4 Teaser Pretty Much Confirms Fifth Playable Faction — and the Appearance of a Would-Be Chaos God",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.ign.com/articles/warhammer-40000-dawn-of-war-4-teaser-pretty-much-confirms-fifth-playable-faction-and-the-appearance-of-a-would-be-chaos-god",
+   "score": 4,
+   "sources": 2,
+   "summary": "Warhammer 40,000: Dawn of War 4 is almost upon us, and publisher Plaion has released a new trailer that teases the appearance of a fan-favorite character from the tabletop game — and even the fifth…",
+   "title_ar": "إعلان تشويقي لـ Warhammer 40,000: Dawn of War 4 يؤكد تقريباً الفصيلة الخامسة القابلة للعب - وظهر إله الفوضى المحتمل"
   },
   "ign.com/articles/warnings-encouragement-and-gift-cards-how-schools-are-preparing-for-mass-absences-on-gta-6-launch-day": {
    "at": "2026-11-17T21:15:28.632064+00:00",
@@ -9118,6 +9140,17 @@
    "score": 0,
    "sources": 1,
    "summary": "\"Persona 6 is not the end\".",
+   "title_ar": ""
+  },
+  "pcgamer.com/games/rts/were-giving-away-warhammer-40-000-dawn-of-war-4-commander-edition-steam-codes": {
+   "at": "2026-11-24T18:00:40.032240+00:00",
+   "title": "We're giving away Warhammer 40,000: Dawn of War 4 Commander Edition Steam codes",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/games/rts/were-giving-away-warhammer-40-000-dawn-of-war-4-commander-edition-steam-codes/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Join the war effort.",
    "title_ar": ""
   },
   "pcgamer.com/games/world-of-warcraft/ive-done-some-stupid-stuff-says-wow-forever-dev-whos-adding-unique-fun-items-to-the-game-theres-a-lot-theyve-not-seen-that-im-very-happy-with": {
@@ -12387,6 +12420,17 @@
    "summary": "Interim CEO Collette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation across the board.",
    "title_ar": ""
   },
+  "wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return": {
+   "at": "2026-11-24T18:00:40.032240+00:00",
+   "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The reinstated Nvidia CEO acknowledged violating the company’s code of conduct and said he had made some “very serious personal mistakes.”",
+   "title_ar": ""
+  },
   "wired.com/story/jensen-huang-is-back-as-nvidia-ceo": {
    "at": "2026-11-23T14:45:33.706042+00:00",
    "title": "Jensen Huang Is Back as Nvidia CEO",
@@ -12446,9 +12490,9 @@
  "topic_last_posted": {
   "AI": "2026-11-24T17:45:30.670879+00:00",
   "Anime": "2026-11-24T17:30:40.453460+00:00",
-  "Games": "2026-11-24T17:15:31.648321+00:00",
+  "Games": "2026-11-24T18:00:40.032240+00:00",
   "Tech": "2026-11-24T17:30:40.453460+00:00"
  },
- "digest_day": "2026-11-23",
+ "digest_day": "2026-11-24",
  "weekly_day": "2026-11-20"
 }
