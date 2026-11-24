@@ -1,17 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/16/november-2026-google-system-updates": {
-   "at": "2026-11-17T00:45:30.312750+00:00",
-   "title": "What’s new in Android’s November 2026 Google System Updates [U: Pixel virtual gamepad]",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/16/november-2026-google-system-updates/",
-   "score": 1,
-   "sources": 1,
-   "summary": "The monthly “ Google System Release Notes ” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC.",
-   "title_ar": "ما الجديد في تحديثات نظام Google لشهر نوفمبر 2026 في Android [تحديث: لوحة الافتراضية لألعاب Pixel]"
-  },
   "9to5google.com/2026/11/16/phone-by-google-246-new-icon": {
    "at": "2026-11-17T04:00:45.472441+00:00",
    "title": "Phone by Google 246 rolls out gradient icon redesign on Android [U]",
@@ -1595,6 +1584,17 @@
    "sources": 1,
    "summary": "Apple TV ( now $6.99/month for limited time ) has just announced that Ted Lasso will return for season 5.",
    "title_ar": ""
+  },
+  "9to5mac.com/2026/11/23/apple-pay-is-getting-even-better-with-four-new-features": {
+   "at": "2026-11-24T00:45:30.955684+00:00",
+   "title": "Apple Pay just got even better with four new features and more",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/23/apple-pay-is-getting-even-better-with-four-new-features/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Apple Pay is a go-to feature for iPhone users when shopping in stores, online, and in apps.",
+   "title_ar": "خدمة Apple Pay تصبح أفضل مع أربعة مزايا جديدة والمزيد"
   },
   "9to5mac.com/2026/11/23/apple-releasing-productred-homepod-mini-and-airpods-max-per-report": {
    "at": "2026-11-23T20:00:40.935025+00:00",
@@ -3520,6 +3520,17 @@
    "sources": 1,
    "summary": "Wang Ling returns in the first half of 2027",
    "title_ar": "إطلاق عرض دعصي جديد وملصق بصري للموسم 6 من The Daily Life of the Immortal King"
+  },
+  "crunchyroll.com/news/latest/2026/11/24/psyren-anime-new-cast-members": {
+   "at": "2026-11-24T00:45:30.955684+00:00",
+   "title": "PSYREN Anime Announces 6 New Cast Members",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://crunchyroll.com/news/latest/2026/11/24/psyren-anime-new-cast-members",
+   "score": 0,
+   "sources": 1,
+   "summary": "Crunchyroll is currently streaming the action-suspense series",
+   "title_ar": ""
   },
   "crunchyroll.com/news/quizzes/2026/11/23/anime-crosswords-puzzles-vol-82": {
    "at": "2026-11-23T15:00:46.538114+00:00",
@@ -12898,7 +12909,7 @@
   "AI": "2026-11-23T21:00:40.293618+00:00",
   "Anime": "2026-11-23T20:30:36.394673+00:00",
   "Games": "2026-11-24T00:00:42.018277+00:00",
-  "Tech": "2026-11-24T00:30:36.710944+00:00"
+  "Tech": "2026-11-24T00:45:30.955684+00:00"
  },
  "digest_day": "2026-11-23",
  "weekly_day": "2026-11-20"
