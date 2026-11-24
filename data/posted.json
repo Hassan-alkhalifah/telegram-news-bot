@@ -1651,6 +1651,17 @@
    "summary": "CAD images of the iPhone 18e , said to come from a previously reliable source, have shown a rather odd new design for the camera bump.",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/24/iphone-handoff-carriers-support-ios-27": {
+   "at": "2026-11-24T13:45:27.949160+00:00",
+   "title": "iPhone Handoff: Here’s the latest on carrier availability and pricing",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/24/iphone-handoff-carriers-support-ios-27/",
+   "score": 1,
+   "sources": 1,
+   "summary": "iPhone Handoff is a new feature in iOS 27 that lets you use the same phone number across two different iPhones.",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/24/smplify-wants-ai-agents-to-manage-your-macs-with-a-human-approving-every-change": {
    "at": "2026-11-24T13:00:45.380040+00:00",
    "title": "Apple @ Work Podcast: Smplify wants AI agents to manage your Macs, with a human approving every change.",
@@ -4597,6 +4608,17 @@
    "score": 0,
    "sources": 1,
    "summary": "With Grand Theft Auto 6 launching late last night ( unless you're in New Zealand, in-person or otherwise ), players have been flocking to online spaces to share their favourite moments.",
+   "title_ar": ""
+  },
+  "eurogamer.net/grand-theft-auto-6-project-leonida-discord-github-vanish": {
+   "at": "2026-11-24T13:45:27.949160+00:00",
+   "title": "Unofficial GTA 6 PC port effort suffers setback as Rockstar seemingly takes down Project Leonida, one of the internet's biggest recompilation projects",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/grand-theft-auto-6-project-leonida-discord-github-vanish",
+   "score": 0,
+   "sources": 1,
+   "summary": "A lot has happened in the last 24 hours in the community working to get Grand Theft Auto 6 running on PC.",
    "title_ar": ""
   },
   "eurogamer.net/grand-theft-auto-6-streaming-record-broken": {
@@ -12788,7 +12810,7 @@
   "AI": "2026-11-24T12:45:29.351098+00:00",
   "Anime": "2026-11-24T10:30:40.226692+00:00",
   "Games": "2026-11-24T12:00:43.798810+00:00",
-  "Tech": "2026-11-24T13:30:47.601063+00:00"
+  "Tech": "2026-11-24T13:45:27.949160+00:00"
  },
  "digest_day": "2026-11-23",
  "weekly_day": "2026-11-20"
