@@ -683,17 +683,6 @@
    "summary": "Apple today announced that App Store prices for apps and In-App Purchases will be adjusted in five countries starting December 3, following changes in taxes and foreign exchange rates.",
    "title_ar": ""
   },
-  "9to5mac.com/2026/11/17/ifixit-tears-down-apple-homeview-finds-lots-of-glue-and-endless-frustration": {
-   "at": "2026-11-17T23:45:30.792875+00:00",
-   "title": "iFixit tears down Apple HomeView, finds lots of glue and endless frustration",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/17/ifixit-tears-down-apple-homeview-finds-lots-of-glue-and-endless-frustration/",
-   "score": 0,
-   "sources": 1,
-   "summary": "iFixit’s teardown of the new Apple HomeView is now up, revealing a device that seems nearly impossible to take apart and repair.",
-   "title_ar": ""
-  },
   "9to5mac.com/2026/11/17/report-iphone-set-to-gain-market-share-in-2027-amid-industry-wide-slump": {
    "at": "2026-11-18T00:45:28.867219+00:00",
    "title": "Report: iPhone set to gain market share in 2027 amid industry-wide slump",
@@ -704,17 +693,6 @@
    "sources": 1,
    "summary": "Apple could see iPhone shipments rise 7% next year, giving it a 26% share of global smartphone shipments, according to a new report.",
    "title_ar": "تقرير: iPhone في طريقه لزيادة حصته السوقية في عام 2027 وسط ركود يضرب الصناعة بأكملها"
-  },
-  "9to5mac.com/2026/11/17/whatsapps-first-party-chat-history-backup-service-moves-ahead": {
-   "at": "2026-11-17T23:45:30.792875+00:00",
-   "title": "WhatsApp’s first-party chat history backup service moves ahead",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/17/whatsapps-first-party-chat-history-backup-service-moves-ahead/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Select WhatsApp beta testers on iOS are now seeing an option to use the app’s own backup service as an alternative to iCloud.",
-   "title_ar": "خدمة النسخ الاحتياطي الخاصة لسجل الدردشة في WhatsApp تتقدم للأمام"
   },
   "9to5mac.com/2026/11/17/why-iphone-duo-wasnt-for-me-but-might-be-for-you": {
    "at": "2026-11-18T02:30:37.401534+00:00",
@@ -7536,6 +7514,17 @@
    "summary": "Arcade addicts of the 1980s inspired the cyberspace of William Gibson’s influential Neuromancer, now the author is transfixed on viral footage of Rockstar’s ultra-hit",
    "title_ar": ""
   },
+  "kotaku.com/grand-theft-auto-6-gta-6-furries-mission-illegal-2001000147": {
+   "at": "2026-11-24T23:45:31.954412+00:00",
+   "title": "Fursuit Bans, Furry Hunters, And A Chaotic Rescue: What’s Actually Going On With Furries In GTA 6",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://kotaku.com/grand-theft-auto-6-gta-6-furries-mission-illegal-2001000147",
+   "score": 2,
+   "sources": 1,
+   "summary": "‘All this for the crime of being cute and huggable’",
+   "title_ar": "حظر بدلات الفرو، صائدو الفرو، وعملية إنقاذ فوضوية: ما الذي يحدث حقاً مع مجتمع الفرو في لعبة GTA 6"
+  },
   "kotaku.com/grand-theft-auto-6-gta-6-hacker-sentence-warning-rockstar-2000759580": {
    "at": "2026-11-23T21:45:27.685382+00:00",
    "title": "The 2022 GTA 6 Hacker Goes Free With A Warning And Reduced Sentence: ‘Don’t Let This Happen Again’",
@@ -9470,17 +9459,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Set for 28th October 2027 on PS5.",
-   "title_ar": ""
-  },
-  "techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster": {
-   "at": "2026-11-17T23:45:30.792875+00:00",
-   "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Nvidia's interim CEO says the company is done selling chips to China.",
    "title_ar": ""
   },
   "techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now": {
@@ -12112,6 +12090,17 @@
    "summary": "The company’s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report.",
    "title_ar": ""
   },
+  "wired.com/story/jensen-huang-nvidia-us-national-security-risks": {
+   "at": "2026-11-24T23:45:31.954412+00:00",
+   "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
+   "title_ar": ""
+  },
   "wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation": {
    "at": "2026-11-20T20:00:50.831558+00:00",
    "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
@@ -12149,7 +12138,7 @@
  "topic_last_posted": {
   "AI": "2026-11-24T23:00:41.564488+00:00",
   "Anime": "2026-11-24T17:30:40.453460+00:00",
-  "Games": "2026-11-24T23:15:28.234374+00:00",
+  "Games": "2026-11-24T23:45:31.954412+00:00",
   "Tech": "2026-11-24T23:30:37.781423+00:00"
  },
  "digest_day": "2026-11-24",
