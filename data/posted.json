@@ -705,17 +705,6 @@
    "summary": "The iconic YouTube app icon that looked like a retro TV found on iOS might be making a comeback, with new customizable icons showing up behind the scenes of a new YouTube update. more…",
    "title_ar": "أيقه ՄYouTube الشهيرة لتطبيق iOS قد تعود قريبًا مع أيقونات جديدة قابلة للتخصيص [معرض الصور]"
   },
-  "9to5mac.com/2026/11/16/apple-website-now-available-in-spanish-for-us-users": {
-   "at": "2026-11-17T06:00:40.267633+00:00",
-   "title": "Apple․com now available in Spanish for US users",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/16/apple-website-now-available-in-spanish-for-us-users/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Apple is making a notable change to Apple․com.",
-   "title_ar": "موقع Apple.com متاح الآن باللغة الإسبانية لمستخدمي الولايات المتحدة"
-  },
   "9to5mac.com/2026/11/17/airpods-pro-3-keep-getting-better-heres-whats-new-ios-27": {
    "at": "2026-11-17T19:30:36.148932+00:00",
    "title": "AirPods Pro 3 keep getting better, here’s what’s new in iOS 27",
@@ -6490,6 +6479,17 @@
    "sources": 1,
    "summary": "WhatsApp has increased the group chat limit from 1,024 to 1,500 members, reports WABetaInfo.",
    "title_ar": ""
+  },
+  "gsmarena.com/whatsapp_view_once_text_message_ios_beta_users-news-75604.php": {
+   "at": "2026-11-24T06:00:40.635837+00:00",
+   "title": "WhatsApp's 'View Once' text messages feature is now available to beta users on iOS",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.gsmarena.com/whatsapp_view_once_text_message_ios_beta_users-news-75604.php",
+   "score": 1,
+   "sources": 1,
+   "summary": "About two weeks ago, we learned that WhatsApp's \"View Once\" feature for text messages was available to beta users on Android.",
+   "title_ar": "ميزة رسائل النص \"العرض لمرة واحدة\" في واتساب متوفرة الآن لمختبري النسخة التجريبية على نظام iOS"
   },
   "gsmarena.com/xiaomi_18_prereservations_are_now_live_in_china-news-75561.php": {
    "at": "2026-11-20T23:45:27.501475+00:00",
@@ -12887,7 +12887,7 @@
   "AI": "2026-11-23T21:00:40.293618+00:00",
   "Anime": "2026-11-24T04:30:34.657478+00:00",
   "Games": "2026-11-24T04:45:30.647286+00:00",
-  "Tech": "2026-11-24T04:57:32.295410+00:00"
+  "Tech": "2026-11-24T06:00:40.635837+00:00"
  },
  "digest_day": "2026-11-23",
  "weekly_day": "2026-11-20"
