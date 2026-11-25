@@ -3477,17 +3477,6 @@
    "summary": "Mac users have their reasons for ditching Apple's Magic Mouse despite its slick touch gestures.",
    "title_ar": "أكبر عيوب استخدام Magic Mouse من Apple"
   },
-  "engadget.com/2320303/youll-need-the-latest-ps5-firmware-update-to-play-gta-vi": {
-   "at": "2026-11-18T13:15:30.091944+00:00",
-   "title": "You'll need the latest PS5 firmware update to play GTA VI",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.engadget.com/2320303/youll-need-the-latest-ps5-firmware-update-to-play-gta-vi/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Double-check your PS5's firmware is up to date, or you may not be able to play GTA VI.",
-   "title_ar": ""
-  },
   "engadget.com/2320620/dism-commands-for-windows-system-image-repair": {
    "at": "2026-11-24T02:00:41.881587+00:00",
    "title": "The three DISM commands you should know to fix your Windows system images",
@@ -8251,6 +8240,17 @@
    "summary": "One of 2027's big-hitters.",
    "title_ar": "الكشف عن تفاصيل لعبة Kirby And The World Beyond في كتالوج نينتندو"
   },
+  "nintendolife.com/news/2026/11/lords-of-the-fallen-2-launches-april-2027-final-date-coming-next-month": {
+   "at": "2026-11-25T13:15:30.143805+00:00",
+   "title": "Lords Of The Fallen 2 Launches April 2027, Final Date Coming Next Month",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/lords-of-the-fallen-2-launches-april-2027-final-date-coming-next-month",
+   "score": 0,
+   "sources": 1,
+   "summary": "Escaping the 2026 deluge.",
+   "title_ar": ""
+  },
   "nintendolife.com/news/2026/11/mario-kart-world-has-been-updated-to-version-1-9-0-here-are-the-full-patch-notes": {
    "at": "2026-11-25T03:00:40.474317+00:00",
    "title": "Mario Kart World Has Been Updated To Version 1.9.0, Here Are The Full Patch Notes",
@@ -9087,6 +9087,17 @@
    "summary": "Plot twist.",
    "title_ar": ""
   },
+  "pushsquare.com/news/2026/11/cyberpunk-2-development-really-ramping-up-as-team-targets-big-2027": {
+   "at": "2026-11-25T13:15:30.143805+00:00",
+   "title": "Cyberpunk 2 Development Really Ramping Up as Team Targets Big 2027",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pushsquare.com/news/2026/11/cyberpunk-2-development-really-ramping-up-as-team-targets-big-2027",
+   "score": 0,
+   "sources": 1,
+   "summary": "Everyone's Chippin' In.",
+   "title_ar": ""
+  },
   "pushsquare.com/news/2026/11/first-gta-6-ps5-patch-live-now-get-all-the-details-here": {
    "at": "2026-11-23T14:45:33.706042+00:00",
    "title": "First GTA 6 PS5 Patch Live Now, Get All the Details Here",
@@ -9228,17 +9239,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Not one bit.",
-   "title_ar": ""
-  },
-  "pushsquare.com/news/2026/11/ps5-pro-is-not-powerful-enough-to-run-gta-6-at-60fps-rockstar-explains-frame-rate-decision": {
-   "at": "2026-11-18T13:15:30.091944+00:00",
-   "title": "'PS5 Pro Is Not Powerful Enough to Run GTA 6 at 60fps': Rockstar Explains Frame Rate Decision",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pushsquare.com/news/2026/11/ps5-pro-is-not-powerful-enough-to-run-gta-6-at-60fps-rockstar-explains-frame-rate-decision",
-   "score": 0,
-   "sources": 1,
-   "summary": "And why it's not the end of the world.",
    "title_ar": ""
   },
   "pushsquare.com/news/2026/11/ps5-rpg-lords-of-the-fallen-2-locks-on-to-april-2027-release-date-following-lengthy-delay": {
@@ -9416,17 +9416,6 @@
    "sources": 1,
    "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
    "title_ar": "المزيد من البنوك تقول إن العملاء الذين يستخدمون وكلاء الذكاء الاصطناعي يتحملون المسؤولية وحدها - حتى لو تعرضوا للاختراق"
-  },
-  "techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds": {
-   "at": "2026-11-18T13:00:45.679198+00:00",
-   "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
-   "score": 1,
-   "sources": 1,
-   "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress…",
-   "title_ar": "Nvidia توضح متى ستقوم بتمويل السحابيات الناشئة - ومتى لن تفعل ذلك"
   },
   "techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report": {
    "at": "2026-11-18T22:00:46.577554+00:00",
@@ -10010,6 +9999,17 @@
    "sources": 1,
    "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to…",
    "title_ar": ""
+  },
+  "techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty": {
+   "at": "2026-11-25T13:15:30.143805+00:00",
+   "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.",
+   "title_ar": "رئيس تنفيذ شركة Flipkart، Kalyan Krishnamurthy، يتنحى عن منصبه الأسبوع القادم وسط حالة من عدم اليقين بشأن الاكتتاب العام"
   },
   "techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed": {
    "at": "2026-11-25T13:00:41.463037+00:00",
@@ -11155,17 +11155,6 @@
    "summary": "Moore Threads teased its Lushan gaming GPU ahead of MDC 2026, with a product manager claiming record VRAM for a consumer graphics card.",
    "title_ar": "وحدة معالجة الرسوميات القادمة Lushan من Moore Threads قد تضم رقماً قياسياً يبلغ 64 جيجابايت من الذاكرة العشوائية للرسوميات"
   },
-  "tomshardware.com/pc-components/gpus/nvidias-revenue-hits-usd115-8-billion-as-vera-rubin-generates-usd20-billion-in-another-record-setting-quarter-commitments-increase-to-usd390-billion-fy28-forecast-raised": {
-   "at": "2026-11-18T13:15:30.091944+00:00",
-   "title": "Nvidia's revenue hits $115.8 billion as Vera Rubin generates $20 billion in another record-setting quarter",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-revenue-hits-usd115-8-billion-as-vera-rubin-generates-usd20-billion-in-another-record-setting-quarter-commitments-increase-to-usd390-billion-fy28-forecast-raised",
-   "score": 2,
-   "sources": 1,
-   "summary": "Nvidia's quarterly revenue surged to $115.8 billion as Vera Rubin achieved a record $20 billion debut, while total commitments to suppliers and customers climbed to $540 billion and rising costs…",
-   "title_ar": "إيرادات Nvidia تصل إلى 115.8 مليار دولار مع تحقيق Vera Rubin لـ 20 مليار دولار في ربع قياسي آخر"
-  },
   "tomshardware.com/pc-components/gpus/radeon-rx-9060-xt-sets-new-gpu-frequency-world-record-of-4-837-ghz-amd-overclocking-team-pushes-mid-range-rdna-4-gpu-to-the-max-under-liquid-nitrogen": {
    "at": "2026-11-25T11:45:33.651580+00:00",
    "title": "AMD's Radeon RX 9060 XT sets new GPU frequency world record of 4.837 GHz",
@@ -12062,7 +12051,7 @@
   "AI": "2026-11-24T23:00:41.564488+00:00",
   "Anime": "2026-11-25T11:00:43.499954+00:00",
   "Games": "2026-11-25T09:45:27.988470+00:00",
-  "Tech": "2026-11-25T13:00:41.463037+00:00"
+  "Tech": "2026-11-25T13:15:30.143805+00:00"
  },
  "digest_day": "2026-11-24",
  "weekly_day": "2026-11-20"
