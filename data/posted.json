@@ -4302,6 +4302,17 @@
    "summary": "Sad news dinosaur lovers.",
    "title_ar": "لعبة تصويب الديناصورات الخيالية العلمية Exoprimal من Capcom ستغلق أبوابها العام القادم"
   },
+  "eurogamer.net/fable-the-witcher-3-gold-standard": {
+   "at": "2026-11-25T20:00:41.983196+00:00",
+   "title": "The Fable reboot had to look beyond Lionhead's RPG trilogy because games like The Witcher 3 \"became the gold standard\"",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/fable-the-witcher-3-gold-standard",
+   "score": 0,
+   "sources": 1,
+   "summary": "Developer Playground Games had to look beyond Lionhead's original run of Fable games when rebooting the classic fantasy series, and it's all thanks to games like The Witcher 3 , which changed what…",
+   "title_ar": ""
+  },
   "eurogamer.net/god-of-war-laufey-faye-amazon-series": {
    "at": "2026-11-23T18:30:36.354437+00:00",
    "title": "God of War Laufey's Faye actor jumps from games to live-action, as Amazon casts Deborah Ann Woll in upcoming series",
@@ -6996,6 +7007,17 @@
    "sources": 1,
    "summary": "The internet is reacting to Jensen Huang's shock return as Nvidia CEO.",
    "title_ar": ""
+  },
+  "ign.com/articles/the-witcher-3-and-assassins-creed-reset-player-expectations-for-open-world-action-rpgs-so-the-fable-reboot-devs-had-to-look-beyond-the-original-trilogy-for-inspiration": {
+   "at": "2026-11-25T20:00:41.983196+00:00",
+   "title": "The Witcher 3 and Assassin's Creed 'Reset Player Expectations' for Open-World Action RPGs, So the Fable Reboot Devs Had to Look Beyond the Original Trilogy for Inspiration",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.ign.com/articles/the-witcher-3-and-assassins-creed-reset-player-expectations-for-open-world-action-rpgs-so-the-fable-reboot-devs-had-to-look-beyond-the-original-trilogy-for-inspiration",
+   "score": 3,
+   "sources": 2,
+   "summary": "Why has the Fable reboot taken so long to develop?",
+   "title_ar": "لعبة The Witcher 3 و Assassin's Creed \"تعيدان ضبط توقعات اللاعبين\" لألعاب تقمص Roles المفتوحة، لذا اضطر مطورو ريبوت Fable إلى النظر لما وراء الثلاثية الأصلية بحثاً عن الإلهام."
   },
   "ign.com/articles/the-witcher-4-and-all-cd-projekts-upcoming-games-remain-multiplatform-despite-playstation-marketing-deal-cd-projekt-boss-reassures": {
    "at": "2026-11-25T16:00:52.553912+00:00",
@@ -10044,6 +10066,17 @@
    "summary": "Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.",
    "title_ar": "رئيس تنفيذ شركة Flipkart، Kalyan Krishnamurthy، يتنحى عن منصبه الأسبوع القادم وسط حالة من عدم اليقين بشأن الاكتتاب العام"
   },
+  "techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it": {
+   "at": "2026-11-25T20:00:41.983196+00:00",
+   "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Most codes of conduct serve as a reflection of corporate culture.",
+   "title_ar": ""
+  },
   "techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed": {
    "at": "2026-11-25T13:00:41.463037+00:00",
    "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
@@ -11705,17 +11738,6 @@
    "summary": "It looks like Xbox Series X can maintain 30fps more reliably than PS5",
    "title_ar": ""
   },
-  "videogameschronicle.com/news/gta-6-players-discover-our-real-first-look-at-the-game-was-likely-hidden-in-a-2021-remaster": {
-   "at": "2026-11-18T19:45:31.552390+00:00",
-   "title": "GTA 6 players discover our real first look at the game was likely hidden in a 2021 remaster",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.videogameschronicle.com/news/gta-6-players-discover-our-real-first-look-at-the-game-was-likely-hidden-in-a-2021-remaster/",
-   "score": 2,
-   "sources": 1,
-   "summary": "The image from 2021 may have been our first look at GTA 6",
-   "title_ar": "لاعبو GTA 6 يكتشفون أن أول نظرة حقيقية لنا على اللعبة ربما كانت مخفية في نسخة معاد تحسينها صدرت عام 2021"
-  },
   "videogameschronicle.com/news/gta-6-sold-around-25-million-copies-and-made-2-36-billion-in-its-first-day-estimates-suggest": {
    "at": "2026-11-20T09:45:27.209512+00:00",
    "title": "GTA 6 sold around 25 million copies and made $2.36 billion in its first day, estimates suggest",
@@ -12050,7 +12072,7 @@
  "topic_last_posted": {
   "AI": "2026-11-25T19:45:26.581059+00:00",
   "Anime": "2026-11-25T16:15:41.912830+00:00",
-  "Games": "2026-11-25T19:15:32.375856+00:00",
+  "Games": "2026-11-25T20:00:41.983196+00:00",
   "Tech": "2026-11-25T19:30:35.279756+00:00"
  },
  "digest_day": "2026-11-25",
