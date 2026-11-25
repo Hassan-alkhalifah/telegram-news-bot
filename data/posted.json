@@ -9164,17 +9164,6 @@
    "summary": "Sony delivers steady and stable experience.",
    "title_ar": "أجهزة PS5 تتجاوز الإطلاق الضخم وغير المسبوق للعبة GTA 6 بسلاسة تامّة"
   },
-  "pushsquare.com/news/2026/11/psn-down-sporadically-for-some-as-gta-6-launches-around-the-world": {
-   "at": "2026-11-18T23:30:35.418884+00:00",
-   "title": "PSN Down Sporadically for Some as GTA 6 Launches Around the World",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.pushsquare.com/news/2026/11/psn-down-sporadically-for-some-as-gta-6-launches-around-the-world",
-   "score": 2,
-   "sources": 1,
-   "summary": "Squeaky bum time.",
-   "title_ar": "تعطل شبكة PSN بشكل متقطع لدى البعض مع إطلاق لعبة GTA 6 حول العالم"
-  },
   "pushsquare.com/news/2026/11/real-life-gta-6-trading-cards-are-about-to-get-scalped": {
    "at": "2026-11-25T02:15:30.376124+00:00",
    "title": "Real-Life GTA 6 Trading Cards Are About to Get Scalped",
@@ -9283,17 +9272,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another…",
-   "title_ar": ""
-  },
-  "techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit": {
-   "at": "2026-11-18T23:30:35.418884+00:00",
-   "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
    "title_ar": ""
   },
   "techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor": {
@@ -9867,6 +9845,17 @@
    "sources": 1,
    "summary": "Most codes of conduct serve as a reflection of corporate culture.",
    "title_ar": ""
+  },
+  "techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work": {
+   "at": "2026-11-25T23:30:36.238745+00:00",
+   "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+   "score": 1,
+   "sources": 1,
+   "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+   "title_ar": "OpenAI تقرر دمج خياري Chat و Work، وتعلن أن مستخدمي ChatGPT الكثيفين قد يبلغون الحدود المسموحة بشكل أسرع"
   },
   "techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks": {
    "at": "2026-11-25T22:45:26.800879+00:00",
@@ -11927,7 +11916,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-25T22:45:26.800879+00:00",
+  "AI": "2026-11-25T23:30:36.238745+00:00",
   "Anime": "2026-11-25T16:15:41.912830+00:00",
   "Games": "2026-11-25T23:00:43.878461+00:00",
   "Tech": "2026-11-25T23:15:26.969741+00:00"
