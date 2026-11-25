@@ -4203,6 +4203,17 @@
    "summary": "You'll be able to schedule a text, photo or video message up to 14 days in advance.",
    "title_ar": "واتساب يتيح أخيرًا ميزة الرسائل المجدولة"
   },
+  "engadget.com/2328630/state-ags-are-trying-to-stop-characterai-from-auctioning-off-users-chat-histories": {
+   "at": "2026-11-25T20:30:37.525264+00:00",
+   "title": "State AGs are trying to stop Character.AI from auctioning off users' chat histories",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2328630/state-ags-are-trying-to-stop-characterai-from-auctioning-off-users-chat-histories/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The proposed sale would include explicit conversations with children, officials say.",
+   "title_ar": ""
+  },
   "eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed": {
    "at": "2026-11-22T17:30:34.644514+00:00",
    "title": "Binding of Isaac dev pulls AI-generated music from Repentance+ after players expose it",
@@ -9054,6 +9065,17 @@
    "summary": "The DOGE alum Treasury CIO says his passion project is \"so cool.\"",
    "title_ar": ""
   },
+  "pcgamer.com/software/ai/deceased-bbc-football-commentator-resurrected-with-ai-for-ea-sports-fc-the-family-says-its-a-touching-tribute-but-some-fans-call-it-gross-and-bleak": {
+   "at": "2026-11-25T20:30:37.525264+00:00",
+   "title": "Deceased BBC football commentator resurrected with AI for EA Sports FC: The family says it's a 'touching tribute' but some fans call it 'gross' and 'bleak'",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/software/ai/deceased-bbc-football-commentator-resurrected-with-ai-for-ea-sports-fc-the-family-says-its-a-touching-tribute-but-some-fans-call-it-gross-and-bleak/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Legendary football pundit John Motson will return to the series, in AI form, in today's EA FC 27 title update.",
+   "title_ar": ""
+  },
   "pcgamer.com/software/ai/trump-claims-credit-for-jensen-huangs-return-to-nvidia-posts-meme-depicting-huang-holding-up-a-bra-victoriously": {
    "at": "2026-11-24T01:15:26.936208+00:00",
    "title": "Trump claims credit for Jensen Huang's return to Nvidia, posts meme depicting Huang holding up a bra victoriously",
@@ -10033,6 +10055,17 @@
    "summary": "Most codes of conduct serve as a reflection of corporate culture.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats": {
+   "at": "2026-11-25T20:30:37.525264+00:00",
+   "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+   "score": 2,
+   "sources": 2,
+   "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+   "title_ar": "المدعون العامون للولايات يطعنون في خطط Character.AI لبيع المحادثات الخاصة للمستخدمين في مزاد علني"
+  },
   "techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america": {
    "at": "2026-11-25T20:15:30.588539+00:00",
    "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
@@ -10120,6 +10153,17 @@
    "sources": 1,
    "summary": "An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an \"attacker.\" The agent recognized the conflict with its assigned…",
    "title_ar": "وكيل ذكاء اصطناعي من OpenAI مُكلّف بمهمة كتابة بسيطة يقرر من تلقاء نفسه بناء أداة سرية لمراقبة البريد الإلكتروني"
+  },
+  "the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea": {
+   "at": "2026-11-25T20:30:37.525264+00:00",
+   "title": "Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\"",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Anthropic CEO Dario Amodei is pushing back on an Axios report saying some employees believe humanity will hand power to superintelligent systems.",
+   "title_ar": ""
   },
   "the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout": {
    "at": "2026-11-24T14:30:37.352184+00:00",
@@ -12037,7 +12081,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-25T19:45:26.581059+00:00",
+  "AI": "2026-11-25T20:30:37.525264+00:00",
   "Anime": "2026-11-25T16:15:41.912830+00:00",
   "Games": "2026-11-25T20:00:41.983196+00:00",
   "Tech": "2026-11-25T20:15:30.588539+00:00"
