@@ -3455,17 +3455,6 @@
    "summary": "Connecting your Android phone to your Windows PC wirelessly doesn't have to cost money or require a multi-step setup, as this free app proves.",
    "title_ar": "هذا التطبيق المجاني يربط هاتفك الـ Android بجهاز حاسوبك الـ Windows لاسلكياً"
   },
-  "engadget.com/2320281/why-gta-6-no-60-fps-performance-mode": {
-   "at": "2026-11-18T17:30:38.146394+00:00",
-   "title": "Why GTA 6 doesn't have a 60 fps performance mode",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.engadget.com/2320281/why-gta-6-no-60-fps-performance-mode/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Rockstar has a history of releasing its games at lower framerates than rival titles.",
-   "title_ar": ""
-  },
   "engadget.com/2320286/underrated-smart-rings-more-affordable-oura-ring-5": {
    "at": "2026-11-23T19:30:36.152676+00:00",
    "title": "These underrated smart rings are more affordable than the Oura Ring 5",
@@ -5632,17 +5621,6 @@
    "sources": 1,
    "summary": "According to a new report by Bloomberg's Mark Gurman, Apple plans to launch several new (Product) Red variants of its devices as early as next week.",
    "title_ar": ""
-  },
-  "gsmarena.com/apple_maps_gets_major_upgrade_in_india_with_3d_landmarks_and_improved_look_around-news-75530.php": {
-   "at": "2026-11-18T17:30:38.146394+00:00",
-   "title": "Apple Maps gets major upgrade in India with 3D landmarks and improved Look Around",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.gsmarena.com/apple_maps_gets_major_upgrade_in_india_with_3d_landmarks_and_improved_look_around-news-75530.php",
-   "score": 1,
-   "sources": 1,
-   "summary": "Apple has announced an updated Maps experience for users across India, bringing faster navigation, new 3D landmarks, Natural Language Guidance for more conversational directions, and several other…",
-   "title_ar": "تطبيق Apple Maps يحصل على ترقية رئيسية في الهند مع معالم ثلاثية الأبعاد وميزة Look Around محسنة"
   },
   "gsmarena.com/apple_reportedly_developing_an_ai_agent_that_can_code_and_use_apps-news-75557.php": {
    "at": "2026-11-20T17:00:44.397019+00:00",
@@ -8251,6 +8229,17 @@
    "summary": "\"This nautical nemesis unleashes a typhoon of tyranny\".",
    "title_ar": "Capcom تكشف رسمياً عن روبوت Mega Man: Dual Override الرئيسي السادس"
   },
+  "nintendolife.com/news/2026/11/final-fantasy-resonance-devs-are-somehow-surprised-that-fans-still-like-turn-based-combat": {
+   "at": "2026-11-25T17:45:27.114850+00:00",
+   "title": "Final Fantasy Resonance Devs Are Somehow Surprised That Fans Still Like Turn-Based Combat",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.nintendolife.com/news/2026/11/final-fantasy-resonance-devs-are-somehow-surprised-that-fans-still-like-turn-based-combat",
+   "score": 3,
+   "sources": 2,
+   "summary": "\"I expected opinions on it might be divided\".",
+   "title_ar": "مطوروا Final Fantasy Resonance متفاجئون بطريقة ما من أن المعجبين ما زالوا يفضلون القتال القائم على الأدوار"
+  },
   "nintendolife.com/news/2026/11/harada-reveals-the-pokemon-he-wanted-to-add-to-pokken-tournament": {
    "at": "2026-11-22T07:30:41.387484+00:00",
    "title": "Harada Reveals The Pokémon He Wanted To Add To Pokken Tournament",
@@ -9120,6 +9109,17 @@
    "summary": "Everyone's Chippin' In.",
    "title_ar": ""
   },
+  "pushsquare.com/news/2026/11/final-fantasy-resonance-devs-surprised-by-how-many-fans-wanted-a-traditional-turn-based-rpg": {
+   "at": "2026-11-25T17:45:27.114850+00:00",
+   "title": "Final Fantasy Resonance Devs Surprised by How Many Fans Wanted a Traditional, Turn-Based RPG",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pushsquare.com/news/2026/11/final-fantasy-resonance-devs-surprised-by-how-many-fans-wanted-a-traditional-turn-based-rpg",
+   "score": 0,
+   "sources": 1,
+   "summary": "Action (not) required.",
+   "title_ar": ""
+  },
   "pushsquare.com/news/2026/11/first-gta-6-ps5-patch-live-now-get-all-the-details-here": {
    "at": "2026-11-23T14:45:33.706042+00:00",
    "title": "First GTA 6 PS5 Patch Live Now, Get All the Details Here",
@@ -9327,6 +9327,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Montreal and Quebec hit.",
+   "title_ar": ""
+  },
+  "pushsquare.com/news/2026/11/yooka-laylee-and-the-impossible-lair-gets-a-ps5-definitive-edition-out-this-december": {
+   "at": "2026-11-25T17:45:27.114850+00:00",
+   "title": "Yooka-Laylee and the Impossible Lair Gets a PS5 Definitive Edition, Out This December",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pushsquare.com/news/2026/11/yooka-laylee-and-the-impossible-lair-gets-a-ps5-definitive-edition-out-this-december",
+   "score": 0,
+   "sources": 1,
+   "summary": "Digital PS4 owners get a free upgrade.",
    "title_ar": ""
   },
   "pushsquare.com/news/2026/11/youve-basically-got-to-wait-an-entire-year-to-play-showa-american-story": {
@@ -12017,7 +12028,7 @@
  "topic_last_posted": {
   "AI": "2026-11-25T14:15:36.620782+00:00",
   "Anime": "2026-11-25T16:15:41.912830+00:00",
-  "Games": "2026-11-25T17:15:30.148843+00:00",
+  "Games": "2026-11-25T17:45:27.114850+00:00",
   "Tech": "2026-11-25T17:30:37.596566+00:00"
  },
  "digest_day": "2026-11-24",
