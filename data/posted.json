@@ -4214,6 +4214,17 @@
    "summary": "GTA 6 is out at midnight everywhere (19th November), but it's far from the only game in town.",
    "title_ar": ""
   },
+  "eurogamer.net/exo-primal-shutting-down-2027": {
+   "at": "2026-11-25T09:45:27.988470+00:00",
+   "title": "Capcom's sci-fi dinosaur shooter Exoprimal is shutting down next year",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.eurogamer.net/exo-primal-shutting-down-2027",
+   "score": 4,
+   "sources": 2,
+   "summary": "Sad news dinosaur lovers.",
+   "title_ar": "لعبة تصويب الديناصورات الخيالية العلمية Exoprimal من Capcom ستغلق أبوابها العام القادم"
+  },
   "eurogamer.net/fired-rockstar-employees-named-gta-6-credits-tribunal": {
    "at": "2026-11-18T17:45:45.588246+00:00",
    "title": "Most, though not quite all, of the 34 fired Rockstar employees are named in the GTA 6 credits",
@@ -11551,6 +11562,17 @@
    "summary": "Project Leonida, a recompilation project aiming to bring the console version of GTA 6 to the PC, has shut down with its Discord and GitHub servers offline, and its creator is now banned from the…",
    "title_ar": ""
   },
+  "videogameschronicle.com/news/capcoms-online-dinosaur-shooter-exoprimal-is-officially-shutting-down-next-year": {
+   "at": "2026-11-25T09:45:27.988470+00:00",
+   "title": "Capcom’s online dinosaur shooter Exoprimal is officially shutting down next year",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.videogameschronicle.com/news/capcoms-online-dinosaur-shooter-exoprimal-is-officially-shutting-down-next-year/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The game will no longer be playable once Capcom turns off its server",
+   "title_ar": ""
+  },
   "videogameschronicle.com/news/cdpr-claims-leap-to-witcher-4-is-comparable-to-leap-from-gta-5-to-gta-6": {
    "at": "2026-11-24T20:15:36.430479+00:00",
    "title": "CDPR claims leap to Witcher 4 is ‘comparable’ to leap from GTA 5 to GTA 6",
@@ -12039,7 +12061,7 @@
  "topic_last_posted": {
   "AI": "2026-11-24T23:00:41.564488+00:00",
   "Anime": "2026-11-25T06:15:27.279233+00:00",
-  "Games": "2026-11-25T03:00:40.474317+00:00",
+  "Games": "2026-11-25T09:45:27.988470+00:00",
   "Tech": "2026-11-25T09:30:40.001428+00:00"
  },
  "digest_day": "2026-11-24",
