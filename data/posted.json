@@ -2465,6 +2465,17 @@
    "summary": "1st film earned 516 million yen in 1st 4 days",
    "title_ar": ""
   },
+  "animenewsnetwork.com/news/2026-11-25/kindergarten-wars-anime-video-reveals-more-staff-ado-opening-song-april-debut/.244176": {
+   "at": "2026-11-25T10:15:26.565927+00:00",
+   "title": "Kindergarten Wars Anime's Video Reveals More Staff, ado's Opening Song, April Debut",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-25/kindergarten-wars-anime-video-reveals-more-staff-ado-opening-song-april-debut/.244176",
+   "score": 0,
+   "sources": 1,
+   "summary": "Ado performs anime's opening theme \"Bibayatarametta\"",
+   "title_ar": ""
+  },
   "animenewsnetwork.com/news/2026-11-25/the-kept-man-of-the-princess-knight-anime-new-video-reveals-more-cast-ending-song-january-3-debut/.244177": {
    "at": "2026-11-25T08:30:37.933779+00:00",
    "title": "The Kept Man of the Princess Knight Anime's New Video Reveals More Cast, Ending Song, January 3 Debut",
@@ -4730,6 +4741,17 @@
    "sources": 1,
    "summary": "Alan Wake and Control studio Remedy Entertainment is currently developing a highly-anticipated Max Payne 1 & 2 remake.",
    "title_ar": "الرئيس التنفيذي لشركة Remedy يشيد بدعم Rockstar لنسخة الريميك من Max Payne 1 & 2 واحترامها للرؤية الإبداعية لـ Remedy"
+  },
+  "eurogamer.net/showa-american-story-delay-2027": {
+   "at": "2026-11-25T10:15:26.565927+00:00",
+   "title": "Promising action-RPG, Showa American Story, has been delayed into late 2027 in order to feel \"cohesive, responsive and complete\" at launch",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/showa-american-story-delay-2027",
+   "score": 0,
+   "sources": 1,
+   "summary": "Publisher 4Divinity and developer Nekcom Entertainment have announced that upcoming action-RPG Showa American Story will now launch on 28th October, 2027.",
+   "title_ar": ""
   },
   "eurogamer.net/ubisoft-assassins-creed-jade-still-in-development-creative-houses-merge": {
    "at": "2026-11-19T21:15:27.638906+00:00",
@@ -11100,6 +11122,17 @@
    "summary": "Intel’s next-gen Xeon Diamond Rapids CPUs appeared at two booths during SC26, one of which featured a running server, but neither were directly from Intel.",
    "title_ar": "معالجات Intel Diamond Rapids تظهر مؤشرات حياة في عرض حي لخادم ضمن فعاليات SC26"
   },
+  "tomshardware.com/pc-components/cpus/new-cpu-benchmark-tool-promises-40-years-of-compatibility-with-support-as-far-back-as-i386-windows-95-crystalmark-cpuix-tested-on-nec-pc-98-21bs-pentium-100-and-more": {
+   "at": "2026-11-25T10:15:26.565927+00:00",
+   "title": "New CPU benchmark tool promises 40 years of compatibility, with support as far back as i386, Windows 95",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/pc-components/cpus/new-cpu-benchmark-tool-promises-40-years-of-compatibility-with-support-as-far-back-as-i386-windows-95-crystalmark-cpuix-tested-on-nec-pc-98-21bs-pentium-100-and-more",
+   "score": 1,
+   "sources": 1,
+   "summary": "There's a new CPU benchmark on the way designed to span 40 years of personal computer chipmaking from the i386 to the present day.",
+   "title_ar": "أداة قياس أداء معالجات جديدة تعد بتوافق لمدّة 40 عاماً، مع دعم يمتد إلى معالجات i386 ونظام Windows 95"
+  },
   "tomshardware.com/pc-components/gpu-drivers/nvidia-geforce-driver-bug-reportedly-hammers-ssds-with-up-to-30gb-of-writes-per-hour-users-trace-massive-idle-wear-to-background-service-newer-driver-reportedly-still-affected": {
    "at": "2026-11-19T06:00:52.906018+00:00",
    "title": "Nvidia GeForce driver bug reportedly hammers SSDs with up to 30GB of writes per hour",
@@ -12029,7 +12062,7 @@
   "AI": "2026-11-24T23:00:41.564488+00:00",
   "Anime": "2026-11-25T10:00:49.893208+00:00",
   "Games": "2026-11-25T09:45:27.988470+00:00",
-  "Tech": "2026-11-25T09:30:40.001428+00:00"
+  "Tech": "2026-11-25T10:15:26.565927+00:00"
  },
  "digest_day": "2026-11-24",
  "weekly_day": "2026-11-20"
