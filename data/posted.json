@@ -3466,17 +3466,6 @@
    "summary": "Connecting your Android phone to your Windows PC wirelessly doesn't have to cost money or require a multi-step setup, as this free app proves.",
    "title_ar": "هذا التطبيق المجاني يربط هاتفك الـ Android بجهاز حاسوبك الـ Windows لاسلكياً"
   },
-  "engadget.com/2320041/oregon-is-the-latest-state-to-sue-openai-over-child-safety": {
-   "at": "2026-11-18T00:00:51.118565+00:00",
-   "title": "Oregon is the latest state to sue OpenAI over child safety",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2320041/oregon-is-the-latest-state-to-sue-openai-over-child-safety/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Oregon's Attorney General filed a lawsuit against the maker of ChatGPT over alleged child safety issues.",
-   "title_ar": "أوريغون هي أحدث ولاية تقاضي OpenAI بسبب سلامة الأطفال"
-  },
   "engadget.com/2320163/youtube-will-start-boosting-public-view-counts-when-you-watch-on-a-tv": {
    "at": "2026-11-18T06:30:37.609795+00:00",
    "title": "YouTube will start boosting public view counts when you watch on a TV",
@@ -3630,6 +3619,17 @@
    "sources": 1,
    "summary": "See how a single setting in the Starlink app can improve your home internet speed, and figure out whether switching it on makes sense for your setup.",
    "title_ar": "حسن سرعة شبكة Wi-Fi لنظام Starlink باستخدام إعداد هذا التطبيق"
+  },
+  "engadget.com/2321251/apple-watch-tell-time-without-looking-haptic-feedback": {
+   "at": "2026-11-25T00:10:48.565480+00:00",
+   "title": "You don't have to look at your Apple Watch to get the time",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2321251/apple-watch-tell-time-without-looking-haptic-feedback/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Your Apple Watch has a way to share the time that even supports Morse Code.",
+   "title_ar": "لا داعي للنظر إلى Apple Watch لمعرفة الوقت"
   },
   "engadget.com/2321318/canva-will-let-users-switch-off-most-generative-ai": {
    "at": "2026-11-19T12:30:36.241327+00:00",
@@ -7206,17 +7206,6 @@
    "summary": "After extensive testing from Digital Foundry, it's been found that GTA 6 performs better on Xbox Series X compared to base PS5.",
    "title_ar": ""
   },
-  "insider-gaming.com/gta-6-screenshots-surface-social-media": {
-   "at": "2026-11-18T00:00:51.118565+00:00",
-   "title": "New GTA 6 Screenshots Surface Online Showing New Weapons, Scenes",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/gta-6-screenshots-surface-social-media/",
-   "score": 0,
-   "sources": 1,
-   "summary": "On social media, six new GTA 6 screenshots have surfaced, reportedly having been datamined by a reputable Rockstar insider.",
-   "title_ar": ""
-  },
   "insider-gaming.com/gta-6-streaming-launch-record": {
    "at": "2026-11-18T20:30:45.248115+00:00",
    "title": "GTA 6 Sets Streaming Launch Record Within Minutes",
@@ -7908,6 +7897,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Of the five nominees, one is dead and one is on developmental life support",
+   "title_ar": ""
+  },
+  "kotaku.com/tidal-bans-ai-generated-music-deleting-29-million-songs-from-the-app-2001000141": {
+   "at": "2026-11-25T00:10:48.565480+00:00",
+   "title": "Tidal Bans AI-Generated Music, Deleting 29 Million Songs From The App",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/tidal-bans-ai-generated-music-deleting-29-million-songs-from-the-app-2001000141",
+   "score": 0,
+   "sources": 1,
+   "summary": "Once the policy goes into effect, he app estimates it will reject 80,000 AI-generated songs a day",
    "title_ar": ""
   },
   "kotaku.com/turns-out-gta-san-andreas-remastered-was-teasing-gta-6-back-in-2021-2000758132": {
@@ -10132,6 +10132,17 @@
    "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
    "title_ar": "منصة Tidal تحظر وتحذف ملايين المقاطع الموسيقية المولدة بالذكاء الاصطناعي مع إغراق هذه المقاطع لخدمات بث الموسيقى"
   },
+  "techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary": {
+   "at": "2026-11-25T00:10:48.565480+00:00",
+   "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The New York Post says that, in an exclusive interview, the President said that pardoning the Nvidia co-founder is \"an option,\" but not one that he thought he would need to use.",
+   "title_ar": ""
+  },
   "techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch": {
    "at": "2026-11-24T17:30:40.453460+00:00",
    "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
@@ -12172,7 +12183,7 @@
   "AI": "2026-11-24T23:00:41.564488+00:00",
   "Anime": "2026-11-24T17:30:40.453460+00:00",
   "Games": "2026-11-24T23:45:31.954412+00:00",
-  "Tech": "2026-11-25T00:00:45.033775+00:00"
+  "Tech": "2026-11-25T00:10:48.565480+00:00"
  },
  "digest_day": "2026-11-24",
  "weekly_day": "2026-11-20"
