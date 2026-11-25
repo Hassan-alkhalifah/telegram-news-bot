@@ -694,17 +694,6 @@
    "summary": "Apple today announced that App Store prices for apps and In-App Purchases will be adjusted in five countries starting December 3, following changes in taxes and foreign exchange rates.",
    "title_ar": ""
   },
-  "9to5mac.com/2026/11/17/report-iphone-set-to-gain-market-share-in-2027-amid-industry-wide-slump": {
-   "at": "2026-11-18T00:45:28.867219+00:00",
-   "title": "Report: iPhone set to gain market share in 2027 amid industry-wide slump",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/17/report-iphone-set-to-gain-market-share-in-2027-amid-industry-wide-slump/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Apple could see iPhone shipments rise 7% next year, giving it a 26% share of global smartphone shipments, according to a new report.",
-   "title_ar": "تقرير: iPhone في طريقه لزيادة حصته السوقية في عام 2027 وسط ركود يضرب الصناعة بأكملها"
-  },
   "9to5mac.com/2026/11/17/why-iphone-duo-wasnt-for-me-but-might-be-for-you": {
    "at": "2026-11-18T02:30:37.401534+00:00",
    "title": "Why iPhone Duo wasn’t for me (but might be for you)",
@@ -2586,17 +2575,6 @@
    "summary": "Former FAA insider on reducing the risks of upgrading a decades-old network.",
    "title_ar": "الولايات المتحدة ستعلن قريباً عن السبب الرئيسي وراء توقف رحلات إدارة الطيران الفيدرالية في جميع أنحاء البلاد"
   },
-  "arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote": {
-   "at": "2026-11-18T00:30:35.883916+00:00",
-   "title": "Microsoft calls Copilot \"the new OS for work\" at Ignite keynote",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
-   "title_ar": "Microsoft تصف Copilot بأنه \"نظام التشغيل الجديد للعمل\" في الكلمة الرئيسية لمؤتمر Ignite"
-  },
   "arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war": {
    "at": "2026-11-24T22:45:38.939340+00:00",
    "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
@@ -3619,6 +3597,17 @@
    "sources": 1,
    "summary": "Your Apple Watch has a way to share the time that even supports Morse Code.",
    "title_ar": "لا داعي للنظر إلى Apple Watch لمعرفة الوقت"
+  },
+  "engadget.com/2321253/haptic-navigation-helpful-apple-watch-feature-works-seamlessly-carplay": {
+   "at": "2026-11-25T00:45:28.945277+00:00",
+   "title": "This helpful Apple Watch feature works seamlessly with Apple CarPlay",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2321253/haptic-navigation-helpful-apple-watch-feature-works-seamlessly-carplay/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Long drives call for every trick you can get.",
+   "title_ar": "هذه الميزة المفيدة في Apple Watch تعمل بسلاسة مع Apple CarPlay"
   },
   "engadget.com/2321318/canva-will-let-users-switch-off-most-generative-ai": {
    "at": "2026-11-19T12:30:36.241327+00:00",
@@ -5589,6 +5578,17 @@
    "summary": "Google has just announced Gemini 4 Neon, the latest member of its Gemini 4 family of AI models.",
    "title_ar": ""
   },
+  "gsmarena.com/gta_vi_was_the_biggest_launch_in_playstation_history-news-75621.php": {
+   "at": "2026-11-25T00:45:28.945277+00:00",
+   "title": "GTA VI was the biggest launch in PlayStation history",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/gta_vi_was_the_biggest_launch_in_playstation_history-news-75621.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "GTA VI has been out for the better part of five days now and it has garnered unparalleled attention.",
+   "title_ar": ""
+  },
   "gsmarena.com/heres_when_iphone_18_and_iphone_air_2_display_production_will_reportedly_start-news-75525.php": {
    "at": "2026-11-18T23:15:26.582727+00:00",
    "title": "Here's when iPhone 18 and iPhone Air 2 display production will reportedly start",
@@ -6876,17 +6876,6 @@
    "summary": "CD Projekt Red has signed a marketing deal with PlayStation for The Witcher 4.",
    "title_ar": ""
   },
-  "ign.com/articles/robert-pattinsons-james-bond-casting-process-details-revealed-by-amazons-jeff-bezos": {
-   "at": "2026-11-18T00:30:35.883916+00:00",
-   "title": "Robert Pattinson's James Bond Casting Process Details Revealed by Amazon's Jeff Bezos",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/robert-pattinsons-james-bond-casting-process-details-revealed-by-amazons-jeff-bezos",
-   "score": 0,
-   "sources": 1,
-   "summary": "Amazon founder Jeff Bezos, who purchased MGM Studios in 2022 and assumed full control over the James Bond 007 franchise last year, shared details on the casting process and how the creative leads…",
-   "title_ar": ""
-  },
   "ign.com/articles/rockstar-president-sam-houser-issues-rare-statement-to-celebrate-gta-6-launch": {
    "at": "2026-11-18T20:30:45.248115+00:00",
    "title": "Rockstar President Sam Houser Issues Rare Statement to Celebrate GTA 6 Launch",
@@ -7767,17 +7756,6 @@
    "summary": "The now-canceled fifth game in the sci-fi series was meant to pick up old threads",
    "title_ar": ""
   },
-  "kotaku.com/mass-effect-spiritual-successor-exodus-has-revealed-its-version-of-femshep-and-i-have-a-couple-of-questions-2000757696": {
-   "at": "2026-11-18T00:30:35.883916+00:00",
-   "title": "Mass Effect Spiritual Successor Exodus Has Revealed Its Version Of FemShep And I Have A Couple Of Questions",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/mass-effect-spiritual-successor-exodus-has-revealed-its-version-of-femshep-and-i-have-a-couple-of-questions-2000757696",
-   "score": 0,
-   "sources": 1,
-   "summary": "Namely, do the developers of games with customizable characters know there are ethnicities other than Caucasian?",
-   "title_ar": ""
-  },
   "kotaku.com/miami-heat-players-flaunt-neat-looking-gta-6-themed-ps5-pros-2000757883": {
    "at": "2026-11-18T04:00:41.455589+00:00",
    "title": "Miami Heat Players Flaunt Neat-Looking GTA 6-Themed PS5 Pros",
@@ -7875,6 +7853,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Of the five nominees, one is dead and one is on developmental life support",
+   "title_ar": ""
+  },
+  "kotaku.com/the-actor-behind-gta-6s-viral-npc-mandy-reacts-to-all-of-the-attention-its-sort-of-bittersweet-2001000149": {
+   "at": "2026-11-25T00:45:28.945277+00:00",
+   "title": "The Actor Behind GTA 6′s Viral NPC Mandy Reacts To All Of The Attention: ‘It’s Sort Of Bittersweet’",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/the-actor-behind-gta-6s-viral-npc-mandy-reacts-to-all-of-the-attention-its-sort-of-bittersweet-2001000149",
+   "score": 0,
+   "sources": 1,
+   "summary": "Lexie Shoaibi recently guested on Hasan Piker's Twitch channel",
    "title_ar": ""
   },
   "kotaku.com/tidal-bans-ai-generated-music-deleting-29-million-songs-from-the-app-2001000141": {
@@ -8821,17 +8810,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Unlocking a cheats menu takes dozens of hours, and even then there are still heavy restrictions.",
-   "title_ar": ""
-  },
-  "pcgamer.com/games/grand-theft-auto/newzoo-analyst-expects-grand-theft-auto-to-turn-around-a-rough-year-for-console-gaming-without-gta-6-the-console-market-would-likely-be-down-year-over-year-in-2026": {
-   "at": "2026-11-18T00:45:28.867219+00:00",
-   "title": "Newzoo analyst expects Grand Theft Auto to turn around a rough year for console gaming: 'without GTA 6 the console market would likely be down year-over-year in 2026'",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/games/grand-theft-auto/newzoo-analyst-expects-grand-theft-auto-to-turn-around-a-rough-year-for-console-gaming-without-gta-6-the-console-market-would-likely-be-down-year-over-year-in-2026/",
-   "score": 0,
-   "sources": 1,
-   "summary": "There's a lot riding on Jason and Lucia.",
    "title_ar": ""
   },
   "pcgamer.com/games/grand-theft-auto/peter-moore-who-famously-announced-gta-4-with-a-tattoo-posts-fake-gta-6-tattoo-pic-and-says-he-hopes-it-will-give-the-industry-a-shot-in-the-arm": {
@@ -12183,7 +12161,7 @@
   "AI": "2026-11-24T23:00:41.564488+00:00",
   "Anime": "2026-11-24T17:30:40.453460+00:00",
   "Games": "2026-11-24T23:45:31.954412+00:00",
-  "Tech": "2026-11-25T00:15:29.826914+00:00"
+  "Tech": "2026-11-25T00:45:28.945277+00:00"
  },
  "digest_day": "2026-11-24",
  "weekly_day": "2026-11-20"
