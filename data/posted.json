@@ -45,17 +45,6 @@
    "summary": "Following last week’s Gemini 4 Hydrogen launch , a small update to AI Mode today lets you start a “temporary thread” that won’t be saved to your Google history. more…",
    "title_ar": "وضع الذكاء الاصطناعي من Google يطلق محادثات مؤقتة"
   },
-  "9to5google.com/2026/11/17/youtube-music-no-samples-tab": {
-   "at": "2026-11-18T02:00:42.031463+00:00",
-   "title": "YouTube Music removing Samples tab on Android & iOS",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/17/youtube-music-no-samples-tab/",
-   "score": 1,
-   "sources": 1,
-   "summary": "YouTube Music is simplifying its core navigation on Android and iOS by removing the Samples tab, though the vertical video format remains in the app. more…",
-   "title_ar": "YouTube Music يزيل تبويب Samples على أجهزة Android و iOS"
-  },
   "9to5google.com/2026/11/18/android-foldable-apps-google-play": {
    "at": "2026-11-18T18:45:28.132523+00:00",
    "title": "Google Play wants Android apps to nail foldable basics by April 2027",
@@ -1616,17 +1605,6 @@
    "score": 0,
    "sources": 1,
    "summary": "KUKU-LOOP: The 100th Time’s the Charm TV anime adaptation was officially announced for 2027, revealing a teaser visual, main cast, and staff.",
-   "title_ar": ""
-  },
-  "animecorner.me/sakamoto-days-season-2-reveals-key-visual-main-trailer-january-18-premiere-creepy-nuts-theme-song-artist": {
-   "at": "2026-11-18T02:00:42.031463+00:00",
-   "title": "Sakamoto Days Season 2 Reveals Key Visual, Main Trailer, January 18 Premiere, Creepy Nuts Theme Song Artist",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://animecorner.me/sakamoto-days-season-2-reveals-key-visual-main-trailer-january-18-premiere-creepy-nuts-theme-song-artist/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Sakamoto Days Season 2 revealed a key visual, trailer, and a January 18 premiere…",
    "title_ar": ""
   },
   "animecorner.me/shiboyugi-playing-death-games-to-put-food-on-the-table-anime-announces-sequel": {
@@ -5941,6 +5919,17 @@
    "summary": "OnePlus launched the Turbo 6 in China back in January, and the Turbo 7's key specs leaked earlier this month.",
    "title_ar": "حصول هاتف OnePlus Turbo 7 Pro على الشهادات تمهيداً لإطلاقه وتسريب المزيد من المواصفات"
   },
+  "gsmarena.com/only_the_higher_memory_tiers_of_the_galaxy_s27_pro_and_s27_ultra_will_get_lpddr6_and_ufs_50-news-75611.php": {
+   "at": "2026-11-25T02:00:55.157658+00:00",
+   "title": "Only the higher memory tiers of the Galaxy S27 Pro and S27 Ultra will get LPDDR6 and UFS 5.0",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.gsmarena.com/only_the_higher_memory_tiers_of_the_galaxy_s27_pro_and_s27_ultra_will_get_lpddr6_and_ufs_50-news-75611.php",
+   "score": 1,
+   "sources": 1,
+   "summary": "Keen smartphone buyers know that models with 128GB storage usually get slower UFS 3.1 chips, while 256GB models (at least on higher-end phones) get faster UFS 4.x.",
+   "title_ar": "فقط فئات الذاكرة الأعلى من Galaxy S27 Pro و S27 Ultra ستحصل على LPDDR6 و UFS 5.0"
+  },
   "gsmarena.com/openais_first_smartphone_is_rumored_to_be_made_by_a_wellknown_iphone_assembler-news-75555.php": {
    "at": "2026-11-20T07:15:27.638314+00:00",
    "title": "OpenAI's first smartphone is rumored to be made by a well-known iPhone assembler",
@@ -7391,17 +7380,6 @@
    "score": 0,
    "sources": 1,
    "summary": "There's also a fun reference to Cyclops' iconic 'To me, my X-Men' line",
-   "title_ar": ""
-  },
-  "kotaku.com/birdwatchers-catholic-schools-and-the-weather-channel-everyones-hyping-up-gta-6-release-day-2000757823": {
-   "at": "2026-11-18T02:00:42.031463+00:00",
-   "title": "Birdwatchers, Catholic Schools, And The Weather Channel: Everyone’s Hyping Up GTA 6 Release Day",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/birdwatchers-catholic-schools-and-the-weather-channel-everyones-hyping-up-gta-6-release-day-2000757823",
-   "score": 0,
-   "sources": 1,
-   "summary": "They're making sandwiches about video games now, I guess",
    "title_ar": ""
   },
   "kotaku.com/build-a-rocket-boy-mindseye-debt-creditors-netease-legal-action-2000757975": {
@@ -12095,7 +12073,7 @@
   "AI": "2026-11-24T23:00:41.564488+00:00",
   "Anime": "2026-11-25T01:30:39.654890+00:00",
   "Games": "2026-11-24T23:45:31.954412+00:00",
-  "Tech": "2026-11-25T01:45:30.129699+00:00"
+  "Tech": "2026-11-25T02:00:55.157658+00:00"
  },
  "digest_day": "2026-11-24",
  "weekly_day": "2026-11-20"
