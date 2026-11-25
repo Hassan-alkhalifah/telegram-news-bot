@@ -3158,6 +3158,17 @@
    "summary": "The 1st feature film is currently showing in theaters across Japan",
    "title_ar": ""
   },
+  "crunchyroll.com/news/latest/2026/11/25/at-25-00-in-akasaka-anime-adaptation-announced-for-2027": {
+   "at": "2026-11-25T11:00:43.499954+00:00",
+   "title": "At 25:00 in Akasaka Anime Adaptation Announced for 2027",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://crunchyroll.com/news/latest/2026/11/25/at-25-00-in-akasaka-anime-adaptation-announced-for-2027",
+   "score": 1,
+   "sources": 1,
+   "summary": "The lead cast members were also revealed",
+   "title_ar": "الإعلان عن اقتباس أنيمي لـ At 25:00 in Akasaka لعام 2027"
+  },
   "crunchyroll.com/news/latest/2026/11/25/historie-anime-january-8-release-date-trailer-key-visual": {
    "at": "2026-11-25T04:30:35.895671+00:00",
    "title": "Historie Anime Reveals Premiere Date, Theme Songs in New Trailer",
@@ -6117,6 +6128,17 @@
    "summary": "According to the latest rumors, Samsung is planning to cut corners with the Galaxy A38 by using an inferior main camera.",
    "title_ar": "تسريبات تشير إلى أن هاتف Samsung Galaxy A38 سيأتي بكاميرا أقل جودة، بينما يبقى طراز A58 كما هو"
   },
+  "gsmarena.com/tidal_is_banning_fully_aigenerated_music-news-75623.php": {
+   "at": "2026-11-25T11:00:43.499954+00:00",
+   "title": "Tidal is banning fully AI-generated music",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/tidal_is_banning_fully_aigenerated_music-news-75623.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "Tidal introduced an AI Policy back in June to identify, label, and demonetize tracks it determined are 100% AI-generated outputs of tools like Suno, Lyria, and more.",
+   "title_ar": ""
+  },
   "gsmarena.com/vivo_s70_pro_v90_pro_leaks_with_live_photo_and_basic_specs_sheet-news-75582.php": {
    "at": "2026-11-22T13:00:43.051515+00:00",
    "title": "vivo S70 Pro/V90 Pro leaks with live photo and basic specs sheet",
@@ -8150,6 +8172,17 @@
    "score": 0,
    "sources": 1,
    "summary": "The official website for the Youchien Wars (Kindergarten Wars) revealed additional staff, opening theme, main visual, and main promotional video on Wednesday.",
+   "title_ar": ""
+  },
+  "myanimelist.net/news/74979702?_location=rss": {
+   "at": "2026-11-25T11:00:43.499954+00:00",
+   "title": "Manga '25-ji, Akasaka de' Gets TV Anime in 2027",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://myanimelist.net/news/74979702?_location=rss",
+   "score": 0,
+   "sources": 1,
+   "summary": "An official website opened for a television anime adaptation of Hiroko Natsuno's 25-ji, Akasaka de (At 25:00 in Akasaka) web manga on Wednesday, revealing the main cast, teaser visual (pictured)…",
    "title_ar": ""
   },
   "nintendolife.com/news/2026/11/8bitdo-reveals-its-own-gamecube-controller-for-switch-2": {
@@ -12060,7 +12093,7 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-24T23:00:41.564488+00:00",
-  "Anime": "2026-11-25T10:30:36.683000+00:00",
+  "Anime": "2026-11-25T11:00:43.499954+00:00",
   "Games": "2026-11-25T09:45:27.988470+00:00",
   "Tech": "2026-11-25T10:45:26.117189+00:00"
  },
