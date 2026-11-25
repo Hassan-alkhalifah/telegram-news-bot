@@ -12,17 +12,6 @@
    "summary": "As previewed at I/O 2026, you can text — via Google Messages and iMessage — or email directly with Gemini. more…",
    "title_ar": "يمكنك الآن المراسلة وإرسال الرسائل النصية (عبر Google Messages و iMessage) باستخدام Gemini"
   },
-  "9to5google.com/2026/11/17/google-ai-mode-temporary-threads": {
-   "at": "2026-11-18T04:00:41.455589+00:00",
-   "title": "Google AI Mode rolling out temporary threads",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/17/google-ai-mode-temporary-threads/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Following last week’s Gemini 4 Hydrogen launch , a small update to AI Mode today lets you start a “temporary thread” that won’t be saved to your Google history. more…",
-   "title_ar": "وضع الذكاء الاصطناعي من Google يطلق محادثات مؤقتة"
-  },
   "9to5google.com/2026/11/18/android-foldable-apps-google-play": {
    "at": "2026-11-18T18:45:28.132523+00:00",
    "title": "Google Play wants Android apps to nail foldable basics by April 2027",
@@ -539,6 +528,17 @@
    "sources": 1,
    "summary": "The iconic YouTube app icon that looked like a retro TV found on iOS might be making a comeback, with new customizable icons showing up behind the scenes of a new YouTube update. more…",
    "title_ar": "أيقه ՄYouTube الشهيرة لتطبيق iOS قد تعود قريبًا مع أيقونات جديدة قابلة للتخصيص [معرض الصور]"
+  },
+  "9to5google.com/2026/11/24/amazon-tv-black-friday-sale-2026": {
+   "at": "2026-11-25T04:00:43.912140+00:00",
+   "title": "This $199 Amazon TV is an easy choice for your guest bedroom",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/24/amazon-tv-black-friday-sale-2026/",
+   "score": 1,
+   "sources": 1,
+   "summary": "This Amazon Ember TV Black Friday deal takes up to 40% off the company’s own TV brand, making it ideal for a secondary set. more…",
+   "title_ar": "تلفزيون Amazon هذا بسعر 199 دولاراً هو الخيار الأسهل لغرفة ضيوفك"
   },
   "9to5google.com/2026/11/24/google-maps-new-colors-high-visibility": {
    "at": "2026-11-25T02:45:31.024530+00:00",
@@ -1627,28 +1627,6 @@
    "score": 0,
    "sources": 1,
    "summary": "The 22nd volume of Tatsuki Fujimoto's Chainsaw Man manga ranked at #4 on The New York Times' monthly Graphic Books and Manga bestseller list released in...",
-   "title_ar": ""
-  },
-  "animenewsnetwork.com/news/2026-11-17/otherworldly-munchkin-anime-new-video-reveals-more-cast-staff-theme-songs-january-7-debut/.243921": {
-   "at": "2026-11-18T04:00:41.455589+00:00",
-   "title": "Otherworldly Munchkin Anime's New Video Reveals More Cast, Staff, Theme Songs, January 7 Debut",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-17/otherworldly-munchkin-anime-new-video-reveals-more-cast-staff-theme-songs-january-7-debut/.243921",
-   "score": 0,
-   "sources": 1,
-   "summary": "Yūichirō Umehara joins cast with some staff changes after delay of more than a year",
-   "title_ar": ""
-  },
-  "animenewsnetwork.com/news/2026-11-17/yaiba-samurai-legend-season-2-reveals-cast-member-yuma-uchida-opening-song-artists/.243924": {
-   "at": "2026-11-18T04:00:41.455589+00:00",
-   "title": "Yaiba: Samurai Legend Season 2 Reveals Cast Member Yūma Uchida, Opening Song Artists",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-17/yaiba-samurai-legend-season-2-reveals-cast-member-yuma-uchida-opening-song-artists/.243924",
-   "score": 0,
-   "sources": 1,
-   "summary": "Uchida plays Gekkō, CHiCO with HoneyWorks performs opening song \"CHASE!\"",
    "title_ar": ""
   },
   "animenewsnetwork.com/news/2026-11-18/blood-addict-manga-ends/.243919": {
@@ -7668,17 +7646,6 @@
    "summary": "The now-canceled fifth game in the sci-fi series was meant to pick up old threads",
    "title_ar": ""
   },
-  "kotaku.com/miami-heat-players-flaunt-neat-looking-gta-6-themed-ps5-pros-2000757883": {
-   "at": "2026-11-18T04:00:41.455589+00:00",
-   "title": "Miami Heat Players Flaunt Neat-Looking GTA 6-Themed PS5 Pros",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://kotaku.com/miami-heat-players-flaunt-neat-looking-gta-6-themed-ps5-pros-2000757883",
-   "score": 0,
-   "sources": 1,
-   "summary": "The NBA team has been part of an IRL Vice City takeover",
-   "title_ar": ""
-  },
   "kotaku.com/no-websites-in-gta-6-vice-city-rockstar-rob-nelson-interview-2000757890": {
    "at": "2026-11-18T18:15:29.300227+00:00",
    "title": "The Web Is Dead In GTA 6: ‘It Didn’t Feel Necessary For Us’",
@@ -12040,7 +12007,7 @@
   "AI": "2026-11-24T23:00:41.564488+00:00",
   "Anime": "2026-11-25T03:45:31.867692+00:00",
   "Games": "2026-11-25T03:00:40.474317+00:00",
-  "Tech": "2026-11-25T03:30:36.060757+00:00"
+  "Tech": "2026-11-25T04:00:43.912140+00:00"
  },
  "digest_day": "2026-11-24",
  "weekly_day": "2026-11-20"
