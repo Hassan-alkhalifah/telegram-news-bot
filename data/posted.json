@@ -1,17 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/18/gemini-4-neon-announcement": {
-   "at": "2026-11-18T21:45:28.960539+00:00",
-   "title": "Google launches Gemini 4 Neon with Carbon quality at Flash speeds, live for AI Pro",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Following last week’s release of Carbon and Hydrogen , Google today is rolling out Gemini 4 Neon. more…",
-   "title_ar": ""
-  },
   "9to5google.com/2026/11/18/google-ai-ultra-youtube-premium-family": {
    "at": "2026-11-18T23:45:28.350880+00:00",
    "title": "Google AI Ultra upgrade adds YouTube Premium Family",
@@ -33,17 +22,6 @@
    "sources": 1,
    "summary": "Google this week completed the rollout of its new gradient icons with updates for Messages and Contacts. more…",
    "title_ar": "إطلاق أيقونات ذات تدرجات لونية جديدة لتطبيقي Google Messages و Contacts"
-  },
-  "9to5google.com/2026/11/18/motorola-razr-fold-android-17-update": {
-   "at": "2026-11-18T21:45:28.960539+00:00",
-   "title": "Motorola Razr Fold finally gets its Android 17 update – hopefully the next 7 years go faster",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/18/motorola-razr-fold-android-17-update/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Motorola has kicked off its Android 17 rollout for the Razr Fold, marking the first major update for the company’s first book-style foldable, and the start of a potentially interest 7 years of…",
-   "title_ar": "هاتف Motorola Razr Fold يحصل أخيراً على تحديث Android 17 – نأمل أن تمر الأعوام الـ 7 القادمة بشكل أسرع"
   },
   "9to5google.com/2026/11/19/android-3d-emoji-specs-requirements": {
    "at": "2026-11-20T00:43:14.832131+00:00",
@@ -5974,17 +5952,6 @@
    "summary": "Nothing is set to launch its first AI-native product on December 8.",
    "title_ar": ""
   },
-  "gsmarena.com/nvidia_halts_its_h200_chip_sales_to_china_-news-75528.php": {
-   "at": "2026-11-18T21:45:28.960539+00:00",
-   "title": "Nvidia halts its H200 chip sales to China",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.gsmarena.com/nvidia_halts_its_h200_chip_sales_to_china_-news-75528.php",
-   "score": 0,
-   "sources": 1,
-   "summary": "Back in December, Nvidia received government approval to sell its H200 AI chips to specially approved customers in China.",
-   "title_ar": ""
-  },
   "gsmarena.com/only_the_higher_memory_tiers_of_the_galaxy_s27_pro_and_s27_ultra_will_get_lpddr6_and_ufs_50-news-75611.php": {
    "at": "2026-11-25T02:00:55.157658+00:00",
    "title": "Only the higher memory tiers of the Galaxy S27 Pro and S27 Ultra will get LPDDR6 and UFS 5.0",
@@ -7204,6 +7171,17 @@
    "score": 0,
    "sources": 1,
    "summary": "CI Games has announced that Lords of the Fallen 2 will launch in April 2027.",
+   "title_ar": ""
+  },
+  "insider-gaming.com/mario-kart-world-1-9-0-adds-replays-and-new-course-picks": {
+   "at": "2026-11-25T22:00:41.405675+00:00",
+   "title": "Mario Kart World 1.9.0 Adds Replays and New Course Picks",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/mario-kart-world-1-9-0-adds-replays-and-new-course-picks/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Mario Kart World just received a new update.",
    "title_ar": ""
   },
   "insider-gaming.com/nioh-3-complete-edition-rated": {
@@ -8823,17 +8801,6 @@
    "summary": "\"There may be an item that is master looter BiS.\"",
    "title_ar": ""
   },
-  "pcgamer.com/games/world-of-warcraft/wow-forever-is-huge-players-have-created-over-15-million-characters-so-far": {
-   "at": "2026-11-18T21:45:28.960539+00:00",
-   "title": "WoW: Forever is huge: Players have created over 15 million characters so far",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-is-huge-players-have-created-over-15-million-characters-so-far/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Blizzard has called it \"the biggest launch in WoW history by peak concurrent players.\"",
-   "title_ar": ""
-  },
   "pcgamer.com/games/world-of-warcraft/wow-forever-item-designer-wants-to-get-rid-of-bis-encouraging-players-who-want-to-sweatily-optimise-to-bring-unique-sets-of-gear-to-raids": {
    "at": "2026-11-20T12:15:28.951732+00:00",
    "title": "WoW: Forever item designer wants to 'get rid of BiS', encouraging players who want to sweatily optimise to bring unique sets of gear to raids",
@@ -9405,17 +9372,6 @@
    "sources": 1,
    "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
    "title_ar": "أثارت Nvidia بعض الغموض المريب عبر عدم تقديم تقرير روتيني لهيئة الأوراق المالية والبورصات الأمريكية SEC"
-  },
-  "techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated": {
-   "at": "2026-11-18T21:45:28.960539+00:00",
-   "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
-   "score": 0,
-   "sources": 1,
-   "summary": "\"[China knows] it makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
-   "title_ar": ""
   },
   "techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor": {
    "at": "2026-11-19T01:18:22.705402+00:00",
@@ -10604,6 +10560,17 @@
    "sources": 1,
    "summary": "As a longtime fan of the films, Blade Runner 2099 showrunner Silka Luisa says she was more excited than scared when it came to adapting the series for TV.",
    "title_ar": ""
+  },
+  "theverge.com/entertainment/1042221/google-my-channel-ai-video-patent": {
+   "at": "2026-11-25T22:00:41.405675+00:00",
+   "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+   "score": 1,
+   "sources": 1,
+   "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company…",
+   "title_ar": "براءة اختراع جوجل لمقاطع الفيديو المخصصة بالذكاء الاصطناعي ترسم صورة قاتمة لمستقبل الترفيه"
   },
   "theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording": {
    "at": "2026-11-23T20:30:36.394673+00:00",
@@ -12037,7 +12004,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-25T21:15:28.526262+00:00",
+  "AI": "2026-11-25T22:00:41.405675+00:00",
   "Anime": "2026-11-25T16:15:41.912830+00:00",
   "Games": "2026-11-25T21:30:35.239269+00:00",
   "Tech": "2026-11-25T21:45:27.047916+00:00"
