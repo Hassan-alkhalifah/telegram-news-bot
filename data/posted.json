@@ -661,6 +661,17 @@
    "summary": "If you’re looking for a decent replacement for an older phone or a backup, and the Pixel 10 looks eerily similar to the Pixel 11, is it still worth it?",
    "title_ar": "نعم، هاتف Pixel 10 لا يزال صفقة رائعة [فيديو]"
   },
+  "9to5google.com/2026/11/25/google-maps-android-auto-motorcycle-navigation-routes": {
+   "at": "2026-11-25T12:30:43.678465+00:00",
+   "title": "Google Maps update on Android Auto adds navigation routes for motorcycles",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/25/google-maps-android-auto-motorcycle-navigation-routes/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Google Maps is rolling out an update on Android Auto that provides better navigation routes specifically for motorcycles. more…",
+   "title_ar": "تحديث Google Maps على Android Auto يضيف مسارات ملاحة للدراجات النارية"
+  },
   "9to5google.com/2026/11/25/youtube-tv-black-friday-sale": {
    "at": "2026-11-25T12:15:28.415370+00:00",
    "title": "YouTube TV sale drops the price to $49.99/month for a limited time",
@@ -1530,6 +1541,17 @@
    "summary": "Walmart appears to have dropped support for Apple Pay on its website and in its iPhone app.",
    "title_ar": "Walmart يتخلى عن دعم Apple Pay في تطبيقه وموقعه الإلكتروني"
   },
+  "9to5mac.com/2026/11/25/microsoft-declares-a-code-red-in-response-to-worst-ever-outage": {
+   "at": "2026-11-25T12:30:43.678465+00:00",
+   "title": "Microsoft declares a Code Red in response to worst ever outage",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/25/microsoft-declares-a-code-red-in-response-to-worst-ever-outage/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The recent Microsoft 365 outage was the worst the service had ever experienced, with more than 80% of the company’s servers unresponsive at the worst point.",
+   "title_ar": ""
+  },
   "animecorner.me/bang-dream-yumemita-gets-new-anime-series": {
    "at": "2026-11-20T15:00:58.715478+00:00",
    "title": "BanG Dream! Yume∞Mita Gets New Anime Series",
@@ -1662,17 +1684,6 @@
    "summary": "Bad boy romance title launches in 2027",
    "title_ar": "Hiromasa Okujima يعلن عن أول مانغا Boys-Love أصلية له"
   },
-  "animenewsnetwork.com/news/2026-11-18/kuku-loop-the-100th-time-the-charm-anime-reveals-main-cast-staff-2027-tv-debut/.243942": {
-   "at": "2026-11-18T12:15:29.928878+00:00",
-   "title": "KuKu-Loop: The 100th Time's the Charm Anime Reveals Main Cast, Staff, 2027 TV Debut",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-18/kuku-loop-the-100th-time-the-charm-anime-reveals-main-cast-staff-2027-tv-debut/.243942",
-   "score": 0,
-   "sources": 1,
-   "summary": "Ikumi Hasegawa, Kazuki Ura star in XINGFU anime",
-   "title_ar": ""
-  },
   "animenewsnetwork.com/news/2026-11-18/live-action-leviathan-film-casts-shun-oguri-ai-hashimoto/.243960": {
    "at": "2026-11-19T04:30:35.103449+00:00",
    "title": "Live-Action Leviathan Film Casts Shun Oguri, Ai Hashimoto",
@@ -1749,17 +1760,6 @@
    "sources": 1,
    "summary": "Ōta died on November 12 following battle with breast cancer",
    "title_ar": "وفاة المغنية وكاتبة الأغاني Hiromi Ōta عن عمر يناهز 71 عاماً"
-  },
-  "animenewsnetwork.com/news/2026-11-18/spice-and-wolf-merchant-meets-the-wise-wolf-season-2-to-debut-in-january/.243941": {
-   "at": "2026-11-18T12:15:29.928878+00:00",
-   "title": "Spice & Wolf: merchant meets the wise wolf Season 2 to Debut in January",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-18/spice-and-wolf-merchant-meets-the-wise-wolf-season-2-to-debut-in-january/.243941",
-   "score": 0,
-   "sources": 1,
-   "summary": "Season 2's key visual, character visuals also revealed",
-   "title_ar": ""
   },
   "animenewsnetwork.com/news/2026-11-18/sumikko-gurashi-franchise-new-switch-2-game-launches-on-november-19/.243949": {
    "at": "2026-11-18T18:00:56.960760+00:00",
@@ -9384,17 +9384,6 @@
    "summary": "Set for 28th October 2027 on PS5.",
    "title_ar": ""
   },
-  "techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers": {
-   "at": "2026-11-18T12:15:29.928878+00:00",
-   "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
-   "title_ar": "شركة Humyn Labs الهندية تجمّع 47 مليون دولار لتزويد شركات الروبوتات الأمريكية بالبيانات التي تحتاجها"
-  },
   "techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range": {
    "at": "2026-11-18T23:00:41.626270+00:00",
    "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
@@ -11804,17 +11793,6 @@
    "summary": "Build A Rocket Boy has sought further investment to fund this legal action",
    "title_ar": ""
   },
-  "videogameschronicle.com/news/new-zealands-official-tourism-agency-jokes-about-gta-6-players-joining-us-to-play-the-game-early": {
-   "at": "2026-11-18T12:15:29.928878+00:00",
-   "title": "New Zealand’s official tourism agency jokes about GTA 6 players ‘joining us’ to play the game early",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.videogameschronicle.com/news/new-zealands-official-tourism-agency-jokes-about-gta-6-players-joining-us-to-play-the-game-early/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Players are using the New Zealand trick to play GTA before it arrives in their country",
-   "title_ar": ""
-  },
   "videogameschronicle.com/news/official-gta-6-trading-cards-are-coming-next-month": {
    "at": "2026-11-24T21:00:53.640826+00:00",
    "title": "Official GTA 6 trading cards are coming next month",
@@ -12106,7 +12084,7 @@
   "AI": "2026-11-24T23:00:41.564488+00:00",
   "Anime": "2026-11-25T11:00:43.499954+00:00",
   "Games": "2026-11-25T09:45:27.988470+00:00",
-  "Tech": "2026-11-25T12:15:28.415370+00:00"
+  "Tech": "2026-11-25T12:30:43.678465+00:00"
  },
  "digest_day": "2026-11-24",
  "weekly_day": "2026-11-20"
