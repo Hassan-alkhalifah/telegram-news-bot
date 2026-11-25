@@ -67,17 +67,6 @@
    "summary": "Motorola has kicked off its Android 17 rollout for the Razr Fold, marking the first major update for the company’s first book-style foldable, and the start of a potentially interest 7 years of…",
    "title_ar": "هاتف Motorola Razr Fold يحصل أخيراً على تحديث Android 17 – نأمل أن تمر الأعوام الـ 7 القادمة بشكل أسرع"
   },
-  "9to5google.com/2026/11/18/youtube-music-ask-gemini-2": {
-   "at": "2026-11-18T17:00:45.850781+00:00",
-   "title": "YouTube Music rolling out corner Gemini icon to launch Ask Music",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5google.com/2026/11/18/youtube-music-ask-gemini-2/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Besides removing the Samples tab , YouTube Music for Android and iOS is rolling out instant access to Ask Music with a new Gemini icon in the top-right corner. more…",
-   "title_ar": ""
-  },
   "9to5google.com/2026/11/19/android-3d-emoji-specs-requirements": {
    "at": "2026-11-20T00:43:14.832131+00:00",
    "title": "Google’s 3D emoji has wild Android spec requirements: 10GB of free space, 6GB RAM",
@@ -738,17 +727,6 @@
    "summary": "Every once in a while, Instagram rolls out an update that addresses one of its users’ most longstanding requests.",
    "title_ar": "إنستغرام يتيح أخيراً للمستخدمين تعديل قصصهم بعد نشرها، ولكن هناك شرط"
   },
-  "9to5mac.com/2026/11/18/iphone-18-iphone-air-2-get-new-release-timing-updates": {
-   "at": "2026-11-18T17:00:45.850781+00:00",
-   "title": "iPhone 18, iPhone Air 2 get new release timing updates",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/18/iphone-18-iphone-air-2-get-new-release-timing-updates/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Apple only launched high-end ‘Pro’ and ‘Duo’ iPhones this fall, marking a departure from previous years when more affordable models debuted too.",
-   "title_ar": "تحديثات جديدة بشأن موعد إطلاق iPhone 18 و iPhone Air 2"
-  },
   "9to5mac.com/2026/11/18/new-leaks-detail-next-years-iphone-pro-redesign-and-iphone-duo-2": {
    "at": "2026-11-18T20:00:48.512263+00:00",
    "title": "New leaks detail next year’s iPhone Pro redesign and iPhone Duo 2",
@@ -770,17 +748,6 @@
    "sources": 1,
    "summary": "Siri Modular, the new Apple Watch face in watchOS 27, is gaining new style options. watchOS 27.3, currently in beta, adds two more style options to the existing set.",
    "title_ar": "واجهة Apple Watch المسمى Siri Modular تحصل على نمطين جديدين مع تحديث watchOS 27.3"
-  },
-  "9to5mac.com/2026/11/18/the-uk-and-some-other-countries-dont-get-more-siri-ai-usage-with-icloud": {
-   "at": "2026-11-18T17:00:45.850781+00:00",
-   "title": "The UK and some other countries don’t get more Siri AI usage with iCloud+",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/18/the-uk-and-some-other-countries-dont-get-more-siri-ai-usage-with-icloud/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple this week revealed the additional Siri AI usage you’ll get if you have an iCloud+ subscription.",
-   "title_ar": ""
   },
   "9to5mac.com/2026/11/18/zane-lowe-shares-apple-music-radio-audience-numbers-recalls-crickets-in-the-early-days": {
    "at": "2026-11-18T22:45:25.547716+00:00",
@@ -4775,6 +4742,17 @@
    "summary": "Persona 6 is still slowly chugging in the background, but developer Atlus is promising that future games in its beloved RPG series won't take quite as long as they used to.",
    "title_ar": ""
   },
+  "eurogamer.net/playstation-plus-monthly-games-december-2026": {
+   "at": "2026-11-25T17:15:30.148843+00:00",
+   "title": "Here are our PS Plus monthly games for December 2026",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/playstation-plus-monthly-games-december-2026",
+   "score": 0,
+   "sources": 1,
+   "summary": "There's a chill in the air and a snowman (plastic) at the end of the street, meaning winter is firmly upon us.",
+   "title_ar": ""
+  },
   "eurogamer.net/ps5-pro-not-powerful-enough-gta-6-60fps": {
    "at": "2026-11-18T18:30:39.042625+00:00",
    "title": "Even the PS5 Pro is \"not powerful enough\" to run GTA 6 at 60FPS or 40FPS, Rockstar says",
@@ -5609,6 +5587,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Ubisoft has laid off 166 staff across its Ubisoft Montreal and Ubisoft Quebec studios, the …",
+   "title_ar": ""
+  },
+  "gematsu.com/2026/11/yooka-laylee-and-the-impossible-lair-definitive-edition-announced-for-ps5-switch-2-and-pc": {
+   "at": "2026-11-25T17:15:30.148843+00:00",
+   "title": "Yooka-Laylee and the Impossible Lair: Definitive Edition announced for PS5, Switch 2, and PC",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gematsu.com/2026/11/yooka-laylee-and-the-impossible-lair-definitive-edition-announced-for-ps5-switch-2-and-pc",
+   "score": 0,
+   "sources": 1,
+   "summary": "Playtonic Games has announced Yooka-Laylee and the Impossible Lair: Definitive Edition, an enhanced re-release of …",
    "title_ar": ""
   },
   "gsmarena.com/amazon_uk_drops_the_prices_of_the_new_xiaomi_18_pro_and_xiaomi_18_pro_max_for_prime_subscribers-news-75546.php": {
@@ -6513,6 +6502,17 @@
    "summary": "The 3rd annual DevGAMM Awards took place today, November 18, in Lisbon, Portugal, and celebrated 70 nominated games from 25 countries across 17 award categories.",
    "title_ar": ""
   },
+  "ign.com/articles/fan-made-gta-5-port-for-apple-shut-down": {
+   "at": "2026-11-25T17:15:30.148843+00:00",
+   "title": "Fan-Made GTA 5 Port for iPhone Shuts Down After Take-Two Cease and Desist",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/fan-made-gta-5-port-for-apple-shut-down",
+   "score": 0,
+   "sources": 1,
+   "summary": "A cease and desist from Rockstar parent company Take-Two has put an end to a fan-made port of GTA 5 for Apple devices a month after the creator went public with it.",
+   "title_ar": ""
+  },
   "ign.com/articles/gamestop-ceo-blasts-digital-only-gta-6-no-disc": {
    "at": "2026-11-19T13:15:43.819973+00:00",
    "title": "As GTA 6 Skips Discs, GameStop CEO Says Digital-Only 'Has Hurt Consumers' and Retailers",
@@ -6775,6 +6775,17 @@
    "score": 0,
    "sources": 1,
    "summary": "GTA 6 is here, and IGN has gathered all of the best (spoiler-free) clips from the world's first weekend with the game.",
+   "title_ar": ""
+  },
+  "ign.com/articles/hollow-knight-silksong-dev-gets-into-the-direct-business-with-cherry-time-special-presentation": {
+   "at": "2026-11-25T17:15:30.148843+00:00",
+   "title": "Hollow Knight: Silksong Dev Gets Into the Direct Business With Cherry Time! Special Presentation",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/hollow-knight-silksong-dev-gets-into-the-direct-business-with-cherry-time-special-presentation",
+   "score": 0,
+   "sources": 1,
+   "summary": "Team Cherry has announced an upcoming Cherry Time!",
    "title_ar": ""
   },
   "ign.com/articles/i-made-the-deal-president-trump-takes-credit-for-jensen-huangs-return-to-nvidia-posts-bizarre-ai-image-to-celebrate": {
@@ -7248,6 +7259,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Nioh 3 Complete Edition has been leaked through the Korean game rating board, GRAC, hinting at a potential early 2027 release date.",
+   "title_ar": ""
+  },
+  "insider-gaming.com/playstation-plus-monthly-games-for-december-2026-revealed": {
+   "at": "2026-11-25T17:15:30.148843+00:00",
+   "title": "PlayStation Plus Monthly Games For December 2026 Revealed",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/playstation-plus-monthly-games-for-december-2026-revealed/",
+   "score": 0,
+   "sources": 1,
+   "summary": "PlayStation Plus Essential and higher memberships will have access to three new games in December as part of the subscription.",
    "title_ar": ""
   },
   "insider-gaming.com/ps5-pros-cpu-upgrade-is-not-enough-for-gta-6-at-60-fps": {
@@ -8427,6 +8449,17 @@
    "summary": "A weekend of review bombing.",
    "title_ar": ""
   },
+  "nintendolife.com/news/2026/11/yooka-laylee-and-the-impossible-lair-is-getting-a-definitive-edition-on-switch-2": {
+   "at": "2026-11-25T17:15:30.148843+00:00",
+   "title": "Yooka-Laylee And The Impossible Lair Is Getting A Definitive Edition On Switch 2",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/yooka-laylee-and-the-impossible-lair-is-getting-a-definitive-edition-on-switch-2",
+   "score": 0,
+   "sources": 1,
+   "summary": "And it's out next month!",
+   "title_ar": ""
+  },
   "nintendolife.com/news/2026/11/zeldas-ocarina-remake-is-one-of-metacritics-highest-rated-games-in-2026-according-to-user-scores": {
    "at": "2026-11-21T06:00:50.374510+00:00",
    "title": "Zelda's Ocarina Remake Is One Of Metacritic's Highest-Rated Games In 2026, According To User Scores",
@@ -8920,17 +8953,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Ubisoft Montreal and Quebec are the latest to fall under the axe.",
-   "title_ar": ""
-  },
-  "pcgamer.com/gaming-industry/we-need-to-come-together-on-the-eve-of-gta-6-1-600-rockstar-workers-are-voting-on-unionization": {
-   "at": "2026-11-18T17:00:45.850781+00:00",
-   "title": "'We need to come together': On the eve of GTA 6, 1,600 Rockstar workers are voting on unionization",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/gaming-industry/we-need-to-come-together-on-the-eve-of-gta-6-1-600-rockstar-workers-are-voting-on-unionization/",
-   "score": 0,
-   "sources": 1,
-   "summary": "\"Our games are industry-leading.",
    "title_ar": ""
   },
   "pcgamer.com/hardware/graphics-cards/jensen-huang-has-been-reinstated-as-nvidia-ceo-i-take-this-responsibility-with-the-greatest-humility-and-renewed-commitment": {
@@ -9427,17 +9449,6 @@
    "sources": 1,
    "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
    "title_ar": "سام ألتمان يقول إن حياته غريبة لدرجة أنه غير متأثر بتجسيد أندرو غارفيلد لشخصيته في الفيلم القادم"
-  },
-  "techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots": {
-   "at": "2026-11-18T17:00:45.850781+00:00",
-   "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
-   "title_ar": ""
   },
   "techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor": {
    "at": "2026-11-19T01:18:22.705402+00:00",
@@ -10660,17 +10671,6 @@
    "summary": "If someone handed you $8,300 every second, what would you do?",
    "title_ar": "ما هي خطوة Nvidia القادمة؟ أي شيء لا يزعج سفينتها مربحة الأطراف بشكل مذهل"
   },
-  "theverge.com/tech/1036578/8bitdo-gb-bluetooth-gamepad-wireless-controller-nintendo-gamecube-wavebird": {
-   "at": "2026-11-18T17:00:45.850781+00:00",
-   "title": "8BitDo’s new gamepad modernizes the Nintendo GameCube’s WaveBird",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/tech/1036578/8bitdo-gb-bluetooth-gamepad-wireless-controller-nintendo-gamecube-wavebird",
-   "score": 0,
-   "sources": 1,
-   "summary": "The 8BitDo 64 was a loose remake of the Nintendo 64's unusual triple-grip controller that did away with that gamepad's centered analog stick.",
-   "title_ar": ""
-  },
   "theverge.com/tech/1036796/google-android-app-games-developers-foldables-support": {
    "at": "2026-11-18T18:30:39.042625+00:00",
    "title": "Google is forcing Android app developers to properly support foldables",
@@ -11870,6 +11870,17 @@
    "summary": "It's the first time Nintendo's racing sequel has been re-released in 25 years",
    "title_ar": ""
   },
+  "videogameschronicle.com/news/yooka-laylee-and-the-impossible-lair-is-getting-a-switch-2-definitive-edition": {
+   "at": "2026-11-25T17:15:30.148843+00:00",
+   "title": "Yooka-Laylee and the Impossible Lair is getting a Switch 2 Definitive Edition",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.videogameschronicle.com/news/yooka-laylee-and-the-impossible-lair-is-getting-a-switch-2-definitive-edition/",
+   "score": 6,
+   "sources": 3,
+   "summary": "Yooka-Laylee and the Impossible Lair will boast better visuals and 120FPS on Switch 2",
+   "title_ar": "لعبة Yooka-Laylee and the Impossible Lair ستحصل على نسخة Definitive Edition لجهاز Switch 2"
+  },
   "wired.com/story/ai-agents-can-get-honeypotted-too-aw": {
    "at": "2026-11-24T16:45:29.292029+00:00",
    "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
@@ -12006,7 +12017,7 @@
  "topic_last_posted": {
   "AI": "2026-11-25T14:15:36.620782+00:00",
   "Anime": "2026-11-25T16:15:41.912830+00:00",
-  "Games": "2026-11-25T16:45:40.966411+00:00",
+  "Games": "2026-11-25T17:15:30.148843+00:00",
   "Tech": "2026-11-25T17:00:45.687832+00:00"
  },
  "digest_day": "2026-11-24",
