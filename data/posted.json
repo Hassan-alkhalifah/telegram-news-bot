@@ -2663,17 +2663,6 @@
    "summary": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
    "title_ar": "أوكرانيا تفجر جسر بوتين باستخدام طائرات مسيرة ترحيلية لتجاوز قيود Starlink"
   },
-  "arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach": {
-   "at": "2026-11-18T20:45:28.245153+00:00",
-   "title": "Windows Server 2028 public preview bets on a security-first approach",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
-   "title_ar": "النسخة التمهيدية العامة لـ Windows Server 2028 تراهن على نهج يضع الأمان في المقام الأول"
-  },
   "arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input": {
    "at": "2026-11-24T12:45:29.351098+00:00",
    "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
@@ -6909,17 +6898,6 @@
    "summary": "CD Projekt Red has signed a marketing deal with PlayStation for The Witcher 4.",
    "title_ar": ""
   },
-  "ign.com/articles/rockstar-president-sam-houser-issues-rare-statement-to-celebrate-gta-6-launch": {
-   "at": "2026-11-18T20:30:45.248115+00:00",
-   "title": "Rockstar President Sam Houser Issues Rare Statement to Celebrate GTA 6 Launch",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.ign.com/articles/rockstar-president-sam-houser-issues-rare-statement-to-celebrate-gta-6-launch",
-   "score": 2,
-   "sources": 1,
-   "summary": "As GTA 6 launches around the world, Rockstar president and co-founder Sam Houser has issued a rare statement to celebrate the occasion and \"many more years\" of experiences ahead.",
-   "title_ar": "رئيس شركة Rockstar سام هاوسر يصدر بياناً نادراً للاحتفال بإطلاق GTA 6"
-  },
   "ign.com/articles/satoru-gojos-english-voice-actor-didnt-realize-these-wild-lines-he-recorded-were-for-gta-6": {
    "at": "2026-11-20T22:00:43.015324+00:00",
    "title": "Satoru Gojo's English Voice Actor Didn't Realize These Wild Lines He Recorded Were for GTA 6",
@@ -7215,17 +7193,6 @@
    "score": 0,
    "sources": 1,
    "summary": "After extensive testing from Digital Foundry, it's been found that GTA 6 performs better on Xbox Series X compared to base PS5.",
-   "title_ar": ""
-  },
-  "insider-gaming.com/gta-6-streaming-launch-record": {
-   "at": "2026-11-18T20:30:45.248115+00:00",
-   "title": "GTA 6 Sets Streaming Launch Record Within Minutes",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/gta-6-streaming-launch-record/",
-   "score": 0,
-   "sources": 1,
-   "summary": "GTA 6 broke the game-launch streaming record within minutes of release, with an early peak of over 5.3 million viewers.",
    "title_ar": ""
   },
   "insider-gaming.com/halo-infinite-project-tatanka-concept-art": {
@@ -7601,6 +7568,17 @@
    "sources": 1,
    "summary": "The techperts at Digital Foundry have all the nerdy details",
    "title_ar": ""
+  },
+  "kotaku.com/gta-6-boss-reveals-how-that-very-surprising-cameo-happened-and-what-it-means-for-the-character-2000758616": {
+   "at": "2026-11-25T20:45:28.968543+00:00",
+   "title": "GTA 6 Boss Reveals How That Very Surprising Cameo Happened And What It Means For The Character",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://kotaku.com/gta-6-boss-reveals-how-that-very-surprising-cameo-happened-and-what-it-means-for-the-character-2000758616",
+   "score": 2,
+   "sources": 1,
+   "summary": "A certain someone from the franchise's past makes a fun, brief, and important appearance near the end of GTA 6",
+   "title_ar": "مسؤول في GTA 6 يكشف كيف حدثت تلك الظهور الخاص المفاجئ للغاية وما يعنيه للشخصية"
   },
   "kotaku.com/gta-6-includes-compelling-evidence-that-its-set-in-the-same-universe-as-red-dead-redemption-2000758912": {
    "at": "2026-11-20T20:45:28.690951+00:00",
@@ -9483,17 +9461,6 @@
    "summary": "\"[China knows] it makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
    "title_ar": ""
   },
-  "techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie": {
-   "at": "2026-11-18T20:45:28.245153+00:00",
-   "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
-   "score": 0,
-   "sources": 1,
-   "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
-   "title_ar": ""
-  },
   "techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor": {
    "at": "2026-11-19T01:18:22.705402+00:00",
    "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
@@ -11067,6 +11034,17 @@
    "summary": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems.",
    "title_ar": ""
   },
+  "theverge.com/tech/1042532/whatsapp-scheduled-messages": {
+   "at": "2026-11-25T20:45:28.968543+00:00",
+   "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
+   "score": 0,
+   "sources": 1,
+   "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats.",
+   "title_ar": ""
+  },
   "tomshardware.com/laptops/gaming-laptops/amazon-lists-the-asus-rog-strix-g16-at-a-new-all-time-low-price-of-usd1-179-rtx-5060-powered-gaming-laptop-comes-with-16gb-of-ddr5-ram-and-a-1tb-ssd": {
    "at": "2026-11-20T12:00:41.794635+00:00",
    "title": "Amazon lists the Asus ROG Strix G16 at a new all-time low price of $1,179",
@@ -11793,6 +11771,17 @@
    "summary": "Build A Rocket Boy has sought further investment to fund this legal action",
    "title_ar": ""
   },
+  "videogameschronicle.com/news/no-one-gets-left-behind-cdpr-says-the-witcher-4-will-launch-on-xbox-day-one-despite-sony-agreement": {
+   "at": "2026-11-25T20:45:28.968543+00:00",
+   "title": "‘No one gets left behind’: CDPR says The Witcher 4 will launch on Xbox day one, despite Sony agreement",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.videogameschronicle.com/news/no-one-gets-left-behind-cdpr-says-the-witcher-4-will-launch-on-xbox-day-one-despite-sony-agreement/",
+   "score": 0,
+   "sources": 1,
+   "summary": "CDPR reassures Xbox fans after signing a marketing agreement with Sony",
+   "title_ar": ""
+  },
   "videogameschronicle.com/news/official-gta-6-trading-cards-are-coming-next-month": {
    "at": "2026-11-24T21:00:53.640826+00:00",
    "title": "Official GTA 6 trading cards are coming next month",
@@ -12083,7 +12072,7 @@
  "topic_last_posted": {
   "AI": "2026-11-25T20:30:37.525264+00:00",
   "Anime": "2026-11-25T16:15:41.912830+00:00",
-  "Games": "2026-11-25T20:00:41.983196+00:00",
+  "Games": "2026-11-25T20:45:28.968543+00:00",
   "Tech": "2026-11-25T20:15:30.588539+00:00"
  },
  "digest_day": "2026-11-25",
