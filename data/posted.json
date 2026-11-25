@@ -78,17 +78,6 @@
    "summary": "Motorola has kicked off its Android 17 rollout for the Razr Fold, marking the first major update for the company’s first book-style foldable, and the start of a potentially interest 7 years of…",
    "title_ar": "هاتف Motorola Razr Fold يحصل أخيراً على تحديث Android 17 – نأمل أن تمر الأعوام الـ 7 القادمة بشكل أسرع"
   },
-  "9to5google.com/2026/11/18/samsung-one-ui-9-5-beta-release": {
-   "at": "2026-11-18T13:45:29.492013+00:00",
-   "title": "Samsung releases its next major update, One UI 9.5, in beta for Galaxy S26 – what’s new",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5google.com/2026/11/18/samsung-one-ui-9-5-beta-release/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Samsung is officially launching its One UI 9.5 beta program today on Galaxy S26 series devices, and it’s packing some features we didn’t expect. more…",
-   "title_ar": ""
-  },
   "9to5google.com/2026/11/18/youtube-music-ask-gemini-2": {
    "at": "2026-11-18T17:00:45.850781+00:00",
    "title": "YouTube Music rolling out corner Gemini icon to launch Ask Music",
@@ -1540,6 +1529,17 @@
    "sources": 1,
    "summary": "Walmart appears to have dropped support for Apple Pay on its website and in its iPhone app.",
    "title_ar": "Walmart يتخلى عن دعم Apple Pay في تطبيقه وموقعه الإلكتروني"
+  },
+  "9to5mac.com/2026/11/25/apple-has-ipads-running-macos-already-but-dont-get-too-excited": {
+   "at": "2026-11-25T13:45:31.989807+00:00",
+   "title": "Apple has iPads running macOS already, but don’t get too excited",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/25/apple-has-ipads-running-macos-already-but-dont-get-too-excited/",
+   "score": 1,
+   "sources": 1,
+   "summary": "With iPads running the same chips as Macs , many have wished Apple would give us the option of running macOS on them instead of the somewhat clunky iPadOS windowing system.",
+   "title_ar": "أجهزة iPad من Apple تشغل نظام macOS بالفعل، ولكن لا تكن متحمسماً للغاية"
   },
   "9to5mac.com/2026/11/25/microsoft-declares-a-code-red-in-response-to-worst-ever-outage": {
    "at": "2026-11-25T12:30:43.678465+00:00",
@@ -6744,17 +6744,6 @@
    "summary": "GTA 6 is here, and IGN has gathered all of the best (spoiler-free) clips from the world's first weekend with the game.",
    "title_ar": ""
   },
-  "ign.com/articles/how-gta-6-came-together-at-rockstar-north": {
-   "at": "2026-11-18T13:45:29.492013+00:00",
-   "title": "How GTA 6 Came Together at Rockstar North",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/how-gta-6-came-together-at-rockstar-north",
-   "score": 0,
-   "sources": 1,
-   "summary": "Current Rockstar North Co-Studio Head and Head of Development Rob Nelson seems relaxed for a man in Rockstar North’s bridge, essentially moments from steering what may well be the most anticipated…",
-   "title_ar": ""
-  },
   "ign.com/articles/i-made-the-deal-president-trump-takes-credit-for-jensen-huangs-return-to-nvidia-posts-bizarre-ai-image-to-celebrate": {
    "at": "2026-11-24T17:00:43.052031+00:00",
    "title": "'I Made the Deal' – President Trump Takes Credit for Jensen Huang's Return to Nvidia, Posts Bizarre AI Image to Celebrate",
@@ -7228,17 +7217,6 @@
    "summary": "Rockstar Games is reportedly interested in selling the licensing rights to its popular game series Red Dead Redemption.",
    "title_ar": ""
   },
-  "insider-gaming.com/rockstar-explains-why-gta-6-doesnt-have-a-40-fps-mode": {
-   "at": "2026-11-18T13:30:38.996689+00:00",
-   "title": "Rockstar Explains Why GTA 6 Doesn’t Have a 40 FPS Mode",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/rockstar-explains-why-gta-6-doesnt-have-a-40-fps-mode/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Rockstar has revealed why they have locked GTA 6 to 30 FPS and it's because of the \"complexity' of all moving parts.",
-   "title_ar": ""
-  },
   "insider-gaming.com/rockstar-shuts-down-discord-server-trying-to-port-gta-6-to-pc": {
    "at": "2026-11-24T16:15:36.953024+00:00",
    "title": "Rockstar Shuts Down Discord Server Trying to Port GTA 6 to PC",
@@ -7612,17 +7590,6 @@
    "sources": 1,
    "summary": "It's also set a new record for concurrent players on the PS5",
    "title_ar": ""
-  },
-  "kotaku.com/heres-what-gets-added-to-a-gta-game-right-before-launch-2000757897": {
-   "at": "2026-11-18T13:30:38.996689+00:00",
-   "title": "Here’s What Gets Added To A GTA Game Right Before Launch",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://kotaku.com/heres-what-gets-added-to-a-gta-game-right-before-launch-2000757897",
-   "score": 2,
-   "sources": 1,
-   "summary": "Rockstar North head of production Rob Nelson shares the last bits and bobs that made it into GTA 6",
-   "title_ar": "إليك ما تتم إضافته إلى لعبة GTA قبل إطلاقها مباشرة"
   },
   "kotaku.com/heres-what-people-are-playing-thats-not-gta-6-2000758577": {
    "at": "2026-11-20T00:15:29.746030+00:00",
@@ -10418,17 +10385,6 @@
    "summary": "OpenAI's internal use of coding agents is growing fast, with theoretical token costs now exceeding researchers' base salaries.",
    "title_ar": "باحثو OpenAI أنفسهم يقولون الآن إنهم يدركون قيمة أدوات الذكاء الاصطناعي الخاصة بهم أكثر من نصف زملائهم تقريباً"
   },
-  "the-decoder.com/sec-probes-nvidia-over-undisclosed-chip-sales-tied-to-china": {
-   "at": "2026-11-18T13:45:29.492013+00:00",
-   "title": "SEC probes Nvidia over undisclosed chip sales tied to China",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://the-decoder.com/sec-probes-nvidia-over-undisclosed-chip-sales-tied-to-china/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The U.S.",
-   "title_ar": ""
-  },
   "the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats": {
    "at": "2026-11-20T20:00:50.831558+00:00",
    "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
@@ -10703,17 +10659,6 @@
    "sources": 1,
    "summary": "If someone handed you $8,300 every second, what would you do?",
    "title_ar": "ما هي خطوة Nvidia القادمة؟ أي شيء لا يزعج سفينتها مربحة الأطراف بشكل مذهل"
-  },
-  "theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling": {
-   "at": "2026-11-18T13:45:29.492013+00:00",
-   "title": "Nvidia isn’t selling any more AI chips to China",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
-   "score": 3,
-   "sources": 2,
-   "summary": "Nvidia has stopped sending its advanced AI chips to China, despite the approval it received from the White House to do so in December last year.",
-   "title_ar": "Nvidia لا تبيع أي رقاقات ذكاء اصطناعي أخرى إلى الصين"
   },
   "theverge.com/tech/1036494/shelly-neo-smart-home-water-valve-sensor-shut-off": {
    "at": "2026-11-18T16:30:56.961102+00:00",
@@ -11463,17 +11408,6 @@
    "summary": "The $43 billion loan is structured as a unique arrangement in which a different company buys the Nvidia chips, while SpaceX makes quarterly payments to use them.",
    "title_ar": "المقرضون يدعمون صفقة وحدات معالجة الرسوميات Nvidia التابعة لـ SpaceX بقيمة 43 مليار دولار، لكنهم يشعرون بالقلق من أن الضمانات قد تنتهي في المدار، مما يجعل استردادها مستحيلاً إذا تخلف Musk عن السداد"
   },
-  "tomshardware.com/tech-industry/data-centers/nvidia-board-faction-angling-for-jensen-huang-return-as-ceo-report-claims-company-defiant-at-earnings-calls-says-no-possibility-of-reinstatement": {
-   "at": "2026-11-18T13:45:29.492013+00:00",
-   "title": "Nvidia board faction angling for Jensen Huang return as CEO, report claims",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-board-faction-angling-for-jensen-huang-return-as-ceo-report-claims-company-defiant-at-earnings-calls-says-no-possibility-of-reinstatement",
-   "score": 0,
-   "sources": 1,
-   "summary": "Despite Nvidia's board saying it has no intention of bringing former CEO Jensen Huang back to the company, some directors are reportedly still pushing for that to happen.",
-   "title_ar": ""
-  },
   "tomshardware.com/tech-industry/data-centers/trump-wants-to-ban-us-companies-from-building-overseas-data-centers-as-bans-slow-development-also-considers-putting-a-tremendous-tax-in-lieu-of-prohibition": {
    "at": "2026-11-21T16:45:29.886062+00:00",
    "title": "Trump wants to ban US companies from building overseas data centers as bans slow development",
@@ -12073,7 +12007,7 @@
   "AI": "2026-11-25T13:30:35.993121+00:00",
   "Anime": "2026-11-25T11:00:43.499954+00:00",
   "Games": "2026-11-25T09:45:27.988470+00:00",
-  "Tech": "2026-11-25T13:15:30.143805+00:00"
+  "Tech": "2026-11-25T13:45:31.989807+00:00"
  },
  "digest_day": "2026-11-24",
  "weekly_day": "2026-11-20"
