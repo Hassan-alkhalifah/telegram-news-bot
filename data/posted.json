@@ -1552,6 +1552,17 @@
    "summary": "iOS 27.3 includes many new features for Apple’s built-in apps, but it also introduces design changes on the iPhone across Calendar, Safari, Music, and more.",
    "title_ar": "iOS 27.3 يقدم تغييرات في التصميم لهذه التطبيقات من Apple"
   },
+  "9to5mac.com/2026/11/25/ios-27-3-release-date-heres-when-to-expect-new-iphone-features": {
+   "at": "2026-11-25T19:45:26.581059+00:00",
+   "title": "iOS 27.3 release date: Here’s when new iPhone features are coming",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/25/ios-27-3-release-date-heres-when-to-expect-new-iphone-features/",
+   "score": 0,
+   "sources": 1,
+   "summary": "iOS 27.3 is coming soon, packed with new features for iPhone users.",
+   "title_ar": ""
+  },
   "9to5mac.com/2026/11/25/microsoft-declares-a-code-red-in-response-to-worst-ever-outage": {
    "at": "2026-11-25T12:30:43.678465+00:00",
    "title": "Microsoft declares a Code Red in response to worst ever outage",
@@ -6183,6 +6194,17 @@
    "summary": "Tidal introduced an AI Policy back in June to identify, label, and demonetize tracks it determined are 100% AI-generated outputs of tools like Suno, Lyria, and more.",
    "title_ar": ""
   },
+  "gsmarena.com/us_court_finds_huawei_gealty_of_stealing_trade_secrets-news-75637.php": {
+   "at": "2026-11-25T19:45:26.581059+00:00",
+   "title": "US court finds Huawei guilty of stealing trade secrets",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/us_court_finds_huawei_gealty_of_stealing_trade_secrets-news-75637.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "A US jury has found Huawei guilty of 10 out of 12 counts, including charges of conspiracy to steal trade secrets, wire fraud, bank fraud, violation of US economic sanctions, and money laundering.",
+   "title_ar": ""
+  },
   "gsmarena.com/vivo_s70_pro_v90_pro_leaks_with_live_photo_and_basic_specs_sheet-news-75582.php": {
    "at": "2026-11-22T13:00:43.051515+00:00",
    "title": "vivo S70 Pro/V90 Pro leaks with live photo and basic specs sheet",
@@ -7534,6 +7556,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Not every potential grand theft auto victim will go quietly into the night",
+   "title_ar": ""
+  },
+  "kotaku.com/grand-theft-auto-6-last-of-us-reference-easter-egg-2001000427": {
+   "at": "2026-11-25T19:45:26.581059+00:00",
+   "title": "Grand Theft Auto 6 Roasts Naughty Dog For Constantly Repackaging The Last Of Us",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/grand-theft-auto-6-last-of-us-reference-easter-egg-2001000427",
+   "score": 0,
+   "sources": 1,
+   "summary": "Throwing stones in glass houses, aren’t we?",
    "title_ar": ""
   },
   "kotaku.com/grand-theft-auto-6-weight-muscle-gain-fat-jason-lucia-2000758438": {
@@ -9989,6 +10022,17 @@
    "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd": {
+   "at": "2026-11-25T19:45:26.581059+00:00",
+   "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model…",
+   "title_ar": "Dario Amodei من شركة Anthropic يصف اتهامات التخلي عن التحكم البشري لصالح الذكاء الاصطناعي بأنها \"سخيفة\""
+  },
   "techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty": {
    "at": "2026-11-25T13:15:30.143805+00:00",
    "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
@@ -10681,17 +10725,6 @@
    "sources": 1,
    "summary": "As Jensen Huang returns to his post as Nvidia's CEO with support from the Trump Administration, the Department of Commerce has added Megaspeed to its Entity List, which blocks trade with the…",
    "title_ar": ""
-  },
-  "theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang": {
-   "at": "2026-11-18T19:30:36.392427+00:00",
-   "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
-   "score": 1,
-   "sources": 1,
-   "summary": "If someone handed you $8,300 every second, what would you do?",
-   "title_ar": "ما هي خطوة Nvidia القادمة؟ أي شيء لا يزعج سفينتها مربحة الأطراف بشكل مذهل"
   },
   "theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them": {
    "at": "2026-11-18T21:00:42.185991+00:00",
@@ -12015,7 +12048,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-25T18:30:38.812392+00:00",
+  "AI": "2026-11-25T19:45:26.581059+00:00",
   "Anime": "2026-11-25T16:15:41.912830+00:00",
   "Games": "2026-11-25T19:15:32.375856+00:00",
   "Tech": "2026-11-25T19:30:35.279756+00:00"
