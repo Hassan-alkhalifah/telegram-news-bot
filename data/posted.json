@@ -6095,17 +6095,6 @@
    "summary": "Samsung has announced that its mobile repair service has completed over 50,000 phone and tablet repairs across 12 European countries.",
    "title_ar": "شاحنات الإصلاح المحمولة من Samsung تصلح أكثر من 50,000 جهاز Galaxy في أوروبا"
   },
-  "gsmarena.com/the_apple_homeview_is_a_repairability_nightmare-news-75519.php": {
-   "at": "2026-11-18T11:45:28.855882+00:00",
-   "title": "The Apple HomeView is a repairability nightmare",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.gsmarena.com/the_apple_homeview_is_a_repairability_nightmare-news-75519.php",
-   "score": 1,
-   "sources": 1,
-   "summary": "The Apple HomeView made its debut over a month ago, and the folks over at iFixit have now performed their signature teardown test.",
-   "title_ar": "جهاز Apple HomeView يُعد كابوساً فيما يتعلق بسهولة الإصلاح"
-  },
   "gsmarena.com/the_honor_watch_6_pro_launches_in_europe_with_an_early_bird_price_free_strap_and_clipon_buds-news-75521.php": {
    "at": "2026-11-19T09:15:32.144538+00:00",
    "title": "The Honor Watch 6 Pro launches in Europe with an early bird price, free strap and clip-on buds",
@@ -6413,6 +6402,17 @@
    "sources": 2,
    "summary": "As GTA 6 launches without a physical disc, GameStop CEO Ryan Cohen warns that the industry's shift to digital-only games has hurt both consumers and retail.",
    "title_ar": "مع تخلي GTA 6 عن الأقراص، رئيس GameStop التنفيذي يقول إن الإصدارات الرقمية فقط \"أضرَت بالمستهلكين\" وتجار التجزئة"
+  },
+  "ign.com/articles/gta-6-analysis-shows-ps5-version-suffers-substantially-more-frequent-frame-rate-drops-than-xbox-series-x-version-sparking-debate-about-sonys-plays-best-on-ps5-marketing": {
+   "at": "2026-11-25T11:45:33.651580+00:00",
+   "title": "GTA 6 Analysis Shows PS5 Version Suffers 'Substantially' More Frequent Frame Rate Drops Than Xbox Series X Version, Sparking Debate About Sony's 'Plays Best on PS5' Marketing",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/gta-6-analysis-shows-ps5-version-suffers-substantially-more-frequent-frame-rate-drops-than-xbox-series-x-version-sparking-debate-about-sonys-plays-best-on-ps5-marketing",
+   "score": 0,
+   "sources": 1,
+   "summary": "The tech experts at Digital Foundry have revealed their analysis of GTA 6, and found the game performs “meaningfully better” on Xbox Series X than the base PS5.",
+   "title_ar": ""
   },
   "ign.com/articles/gta-6-dev-honors-late-mother-with-in-game-memorial-that-players-can-visit": {
    "at": "2026-11-23T01:00:46.423285+00:00",
@@ -7402,6 +7402,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Yes, crypto is involved this time too",
+   "title_ar": ""
+  },
+  "kotaku.com/cyberpunk-2-cd-projekt-red-the-witcher-4-sirius-gta6-rockstar-2001000233": {
+   "at": "2026-11-25T11:45:33.651580+00:00",
+   "title": "Cyberpunk 2 Development Ramps Up At CD Projekt Red, But Ambitions For The Project Are ‘Not Changed’ By GTA 6′s Success",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/cyberpunk-2-cd-projekt-red-the-witcher-4-sirius-gta6-rockstar-2001000233",
+   "score": 0,
+   "sources": 1,
+   "summary": "Company proclaims GTA 6 an “inspiration” as they celebrate transmedia efforts in keeping The Witcher and Cyberpunk popular",
    "title_ar": ""
   },
   "kotaku.com/gamestop-ceo-criticizes-digital-only-games-gta-6-releases-without-a-disc-2000758233": {
@@ -11177,6 +11188,17 @@
    "summary": "Nvidia's quarterly revenue surged to $115.8 billion as Vera Rubin achieved a record $20 billion debut, while total commitments to suppliers and customers climbed to $540 billion and rising costs…",
    "title_ar": "إيرادات Nvidia تصل إلى 115.8 مليار دولار مع تحقيق Vera Rubin لـ 20 مليار دولار في ربع قياسي آخر"
   },
+  "tomshardware.com/pc-components/gpus/radeon-rx-9060-xt-sets-new-gpu-frequency-world-record-of-4-837-ghz-amd-overclocking-team-pushes-mid-range-rdna-4-gpu-to-the-max-under-liquid-nitrogen": {
+   "at": "2026-11-25T11:45:33.651580+00:00",
+   "title": "AMD's Radeon RX 9060 XT sets new GPU frequency world record of 4.837 GHz",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/pc-components/gpus/radeon-rx-9060-xt-sets-new-gpu-frequency-world-record-of-4-837-ghz-amd-overclocking-team-pushes-mid-range-rdna-4-gpu-to-the-max-under-liquid-nitrogen",
+   "score": 2,
+   "sources": 1,
+   "summary": "AMD's Radeon RX 9060 XT has reached a new GPU frequency world record of 4,837 MHz.",
+   "title_ar": "بطاقة Radeon RX 9060 XT من AMD تسجل رقماً قياسياً عالمياً جديداً في تردد معالجات الرسوميات بلغ 4.837 GHz"
+  },
   "tomshardware.com/pc-components/ssds/save-36-percent-on-this-4tb-samsung-990-pro-ssd-upgrade-for-your-gaming-pc-now-just-17-5-cents-per-gb-our-top-gen-4-drive-recommendation-is-now-usd100-cheaper-than-last-week": {
    "at": "2026-11-19T11:00:45.237272+00:00",
    "title": "Save 36% on this 4TB Samsung 990 Pro SSD upgrade for your gaming PC, now just 17.5 cents per GB",
@@ -12051,7 +12073,7 @@
   "AI": "2026-11-24T23:00:41.564488+00:00",
   "Anime": "2026-11-25T11:00:43.499954+00:00",
   "Games": "2026-11-25T09:45:27.988470+00:00",
-  "Tech": "2026-11-25T11:30:37.066963+00:00"
+  "Tech": "2026-11-25T11:45:33.651580+00:00"
  },
  "digest_day": "2026-11-24",
  "weekly_day": "2026-11-20"
