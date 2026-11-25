@@ -12,17 +12,6 @@
    "summary": "As previewed at I/O 2026, you can text — via Google Messages and iMessage — or email directly with Gemini. more…",
    "title_ar": "يمكنك الآن المراسلة وإرسال الرسائل النصية (عبر Google Messages و iMessage) باستخدام Gemini"
   },
-  "9to5google.com/2026/11/17/galaxy-ai-paywall-details-emerge-starting-with-now-brief": {
-   "at": "2026-11-18T03:30:33.413070+00:00",
-   "title": "More paid Galaxy AI details emerge, starting with Now Brief limitations",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/17/galaxy-ai-paywall-details-emerge-starting-with-now-brief/",
-   "score": 1,
-   "sources": 1,
-   "summary": "We know Galaxy AI subscriptions are coming soon, but the details have been kept under wraps.",
-   "title_ar": "ظهور المزيد من التفاصيل حول ميزات Galaxy AI المدفوعة، بدءاً من قيود Now Brief"
-  },
   "9to5google.com/2026/11/17/google-ai-mode-temporary-threads": {
    "at": "2026-11-18T04:00:41.455589+00:00",
    "title": "Google AI Mode rolling out temporary threads",
@@ -9967,6 +9956,17 @@
    "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
    "title_ar": "Meta تدمج مساعدها الذكي Muse مباشرة في رسائل Instagram المباشرة"
   },
+  "techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags": {
+   "at": "2026-11-25T03:30:36.060757+00:00",
+   "title": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
+   "score": 1,
+   "sources": 1,
+   "summary": "The addition of live stock quotes and charts could help Threads attract the financial community that has historically relied on X.",
+   "title_ar": "تطبيق Threads يصل إلى أجهزة iPad ويقتبس ميزة من منصة X عبر إضافة رموز الأسهم المالية (Cashtags)"
+  },
   "techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming": {
    "at": "2026-11-24T17:45:30.670879+00:00",
    "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
@@ -12040,7 +12040,7 @@
   "AI": "2026-11-24T23:00:41.564488+00:00",
   "Anime": "2026-11-25T03:15:30.193225+00:00",
   "Games": "2026-11-25T03:00:40.474317+00:00",
-  "Tech": "2026-11-25T02:45:31.024530+00:00"
+  "Tech": "2026-11-25T03:30:36.060757+00:00"
  },
  "digest_day": "2026-11-24",
  "weekly_day": "2026-11-20"
