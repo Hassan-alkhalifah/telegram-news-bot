@@ -2729,17 +2729,6 @@
    "summary": "Teaser trailer published for series based on mascot characters created by Yurie Sekiya",
    "title_ar": ""
   },
-  "crunchyroll.com/news/latest/2026/11/18/sakamoto-days-season-2-anime-creepy-nuts-opening-theme-song-trailer": {
-   "at": "2026-11-18T02:15:28.580453+00:00",
-   "title": "Sakamoto Days Season 2 Anime Trailer Reveals Premiere Date, Creepy Nuts Opening Theme Song",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://crunchyroll.com/news/latest/2026/11/18/sakamoto-days-season-2-anime-creepy-nuts-opening-theme-song-trailer",
-   "score": 0,
-   "sources": 1,
-   "summary": "The action comedy series returns on January 18",
-   "title_ar": ""
-  },
   "crunchyroll.com/news/latest/2026/11/18/spice-and-wolf-merchant-meets-the-wise-wolf-season-2-january-2027-premiere-key-visual": {
    "at": "2026-11-18T10:15:27.044119+00:00",
    "title": "Spice and Wolf: MERCHANT MEETS THE WISE WOLF Season 2 Reveals January 2027 Premiere",
@@ -5314,6 +5303,17 @@
    "summary": "The Switch 2 version of simulation game Coral Island will launch on December 7 alongside …",
    "title_ar": "لعبة Coral Island على Switch 2 تصدر في 7 ديسمبر بالتزامن مع تحديث الإصدار 1.4"
   },
+  "gematsu.com/2026/11/demon-tides-coming-to-ps5-switch-2-and-switch-on-january-21-2027": {
+   "at": "2026-11-25T02:15:30.376124+00:00",
+   "title": "Demon Tides coming to PS5, Switch 2, and Switch on January 21, 2027",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.gematsu.com/2026/11/demon-tides-coming-to-ps5-switch-2-and-switch-on-january-21-2027",
+   "score": 4,
+   "sources": 2,
+   "summary": "Publisher PM Studios and developer Fabraz will release open-world 3D platformer Demon Tides for PlayStation …",
+   "title_ar": "لعبة Demon Tides قادمة إلى PS5 و Switch 2 و Switch في 21 يناير 2027"
+  },
   "gematsu.com/2026/11/grand-theft-auto-vi-for-ps5-tops-39-million-players": {
    "at": "2026-11-24T01:00:41.250308+00:00",
    "title": "Grand Theft Auto VI for PS5 tops 39 million players",
@@ -7877,17 +7877,6 @@
    "summary": "It seems like things weren't working properly for some people until a recent patch, though",
    "title_ar": ""
   },
-  "myanimelist.net/news/74951901?_location=rss": {
-   "at": "2026-11-18T02:15:28.580453+00:00",
-   "title": "'Sakamoto Days 2nd Season' Unveils Additional Cast, Opening Theme, First Promo",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://myanimelist.net/news/74951901?_location=rss",
-   "score": 0,
-   "sources": 1,
-   "summary": "The official website of the Sakamoto Days television anime unveiled a pair of additional cast, key visual (pictured), the opening theme, and first promotional video for the second season on Wednesday.",
-   "title_ar": ""
-  },
   "myanimelist.net/news/74952442?_location=rss": {
    "at": "2026-11-18T05:00:49.771860+00:00",
    "title": "'Isekai Munchkin' Reveals New Staff, Theme Songs, Second Promo",
@@ -8393,6 +8382,17 @@
    "sources": 1,
    "summary": "Ohh God, the teeth.",
    "title_ar": "التأكيد على صدور لعبة رعب مقلقة مستوحاة من Silent Hill على جهاز Switch 2"
+  },
+  "nintendolife.com/news/2026/11/we-saw-your-hopeful-requests-fabraz-announces-demon-tides-switch-2-release": {
+   "at": "2026-11-25T02:15:30.376124+00:00",
+   "title": "\"We Saw Your Hopeful Requests\" - Fabraz Announces Demon Tides Switch 2 Release",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/we-saw-your-hopeful-requests-fabraz-announces-demon-tides-switch-2-release",
+   "score": 0,
+   "sources": 1,
+   "summary": "Launching the same day as the Switch version in 2027.",
+   "title_ar": ""
   },
   "nintendolife.com/news/2026/11/woke-up-to-a-st-show-binding-of-isaac-dev-shocked-to-find-genai-music-in-repentanceplus": {
    "at": "2026-11-23T11:15:28.380472+00:00",
@@ -9306,6 +9306,17 @@
    "sources": 1,
    "summary": "Squeaky bum time.",
    "title_ar": "تعطل شبكة PSN بشكل متقطع لدى البعض مع إطلاق لعبة GTA 6 حول العالم"
+  },
+  "pushsquare.com/news/2026/11/real-life-gta-6-trading-cards-are-about-to-get-scalped": {
+   "at": "2026-11-25T02:15:30.376124+00:00",
+   "title": "Real-Life GTA 6 Trading Cards Are About to Get Scalped",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pushsquare.com/news/2026/11/real-life-gta-6-trading-cards-are-about-to-get-scalped",
+   "score": 0,
+   "sources": 1,
+   "summary": "You too can add Maleek Rivers to your collection.",
+   "title_ar": ""
   },
   "pushsquare.com/news/2026/11/silent-hill-fatal-frame-inspire-this-promising-new-ps5-horror-game": {
    "at": "2026-11-23T13:15:42.554074+00:00",
@@ -10704,17 +10715,6 @@
    "summary": "If someone handed you $8,300 every second, what would you do?",
    "title_ar": "ما هي خطوة Nvidia القادمة؟ أي شيء لا يزعج سفينتها مربحة الأطراف بشكل مذهل"
   },
-  "theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos": {
-   "at": "2026-11-18T02:15:28.580453+00:00",
-   "title": "Instagram is helping creators crack down on copycat videos",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos",
-   "score": 1,
-   "sources": 1,
-   "summary": "Instagram is beginning to roll out a \"content protection\" feature that lets creators see and review copies of their videos posted to the platform.",
-   "title_ar": "Instagram يساعد صناع المحتوى في التصدي للفيديوهات المقلدة"
-  },
   "theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling": {
    "at": "2026-11-18T13:45:29.492013+00:00",
    "title": "Nvidia isn’t selling any more AI chips to China",
@@ -12072,7 +12072,7 @@
  "topic_last_posted": {
   "AI": "2026-11-24T23:00:41.564488+00:00",
   "Anime": "2026-11-25T01:30:39.654890+00:00",
-  "Games": "2026-11-24T23:45:31.954412+00:00",
+  "Games": "2026-11-25T02:15:30.376124+00:00",
   "Tech": "2026-11-25T02:00:55.157658+00:00"
  },
  "digest_day": "2026-11-24",
