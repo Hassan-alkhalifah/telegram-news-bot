@@ -1519,6 +1519,17 @@
    "summary": "iOS 27.3 is coming soon, packed with new features for iPhone users.",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/25/major-developers-legal-experts-and-32-states-back-epic-in-apples-scotus-appeal": {
+   "at": "2026-11-25T22:30:38.562593+00:00",
+   "title": "Major developers, legal experts, and 32 states back Epic in Apple’s SCOTUS appeal",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/25/major-developers-legal-experts-and-32-states-back-epic-in-apples-scotus-appeal/",
+   "score": 1,
+   "sources": 1,
+   "summary": "In a significant development in Apple’s Supreme Court appeal of a civil contempt ruling, Epic Games has received backing from 32 states and the District of Columbia, along with major developers…",
+   "title_ar": "أبرز المطورين والخبراء القانونيين و32 ولاية يدعمون Epic في طعن Apple أمام المحكمة العليا"
+  },
   "9to5mac.com/2026/11/25/microsoft-declares-a-code-red-in-response-to-worst-ever-outage": {
    "at": "2026-11-25T12:30:43.678465+00:00",
    "title": "Microsoft declares a Code Red in response to worst ever outage",
@@ -8471,17 +8482,6 @@
    "summary": "The notorious GTA 6 leaker called it \"an early Christmas gift.\"",
    "title_ar": "Cyberleek تصدر ملفاً قابلاً للتنفيذ لنسخة Xbox من لعبة GTA 6 التي تسربت الأسبوع الماضي: \"الشموع تنتقل إلى مشاريع إعادة بناء الشيفرة والمحاكاة مفتوحة المصدر\""
   },
-  "pcgamer.com/games/grand-theft-auto/devolvers-not-just-launching-a-game-on-the-same-day-as-gta-6-its-using-a-shot-by-shot-remake-of-the-gta-6-launch-trailer-too": {
-   "at": "2026-11-18T22:30:36.207855+00:00",
-   "title": "Devolver's not just launching a game on the same day as GTA 6, it's using a shot-by-shot remake of the GTA 6 launch trailer too",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.pcgamer.com/games/grand-theft-auto/devolvers-not-just-launching-a-game-on-the-same-day-as-gta-6-its-using-a-shot-by-shot-remake-of-the-gta-6-launch-trailer-too/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Ever see cartoon rodents get it on in the shower?",
-   "title_ar": ""
-  },
   "pcgamer.com/games/grand-theft-auto/expedition-33-lead-writer-says-grand-theft-auto-6-layoff-concerns-show-that-people-creating-the-value-do-not-receive-a-proportionate-amount-of-that-value": {
    "at": "2026-11-21T12:00:40.621282+00:00",
    "title": "Expedition 33 lead writer says Grand Theft Auto 6 layoff concerns show that 'people creating the value do not receive a proportionate amount of that value'",
@@ -11727,6 +11727,17 @@
    "summary": "A YouTuber has discovered one of GTA 6's biggest secrets",
    "title_ar": ""
   },
+  "videogameschronicle.com/news/playstation-plus-games-for-december-include-tony-hawks-pro-skater-34": {
+   "at": "2026-11-25T22:30:38.562593+00:00",
+   "title": "PlayStation Plus games for December include Tony Hawk’s Pro Skater 3+4",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.videogameschronicle.com/news/playstation-plus-games-for-december-include-tony-hawks-pro-skater-34/",
+   "score": 0,
+   "sources": 1,
+   "summary": "PlayStation reveals its games for PS Plus in December, and when November's picks will leave",
+   "title_ar": ""
+  },
   "videogameschronicle.com/news/resident-evil-creator-shinji-mikami-says-he-wishes-ai-would-disappear-entirely-but-that-he-experiments-with-it-as-a-tool": {
    "at": "2026-11-23T13:45:29.387367+00:00",
    "title": "Resident Evil creator Shinji Mikami says he wishes AI would disappear entirely, but that he experiments with it as a tool",
@@ -11914,17 +11925,6 @@
    "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
    "title_ar": "Google تبني إنترنت \"بعداً انعكاسياً\" ضخماً لاختبار وكلاء الذكاء الاصطناعي في متصفح Chrome"
   },
-  "wired.com/story/guys-really-we-got-this": {
-   "at": "2026-11-18T22:30:36.207855+00:00",
-   "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://www.wired.com/story/guys-really-we-got-this/",
-   "score": 0,
-   "sources": 1,
-   "summary": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
-   "title_ar": ""
-  },
   "wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return": {
    "at": "2026-11-24T18:00:40.032240+00:00",
    "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
@@ -11996,7 +11996,7 @@
   "AI": "2026-11-25T22:00:41.405675+00:00",
   "Anime": "2026-11-25T16:15:41.912830+00:00",
   "Games": "2026-11-25T22:15:38.027140+00:00",
-  "Tech": "2026-11-25T21:45:27.047916+00:00"
+  "Tech": "2026-11-25T22:30:38.562593+00:00"
  },
  "digest_day": "2026-11-25",
  "weekly_day": "2026-11-20"
