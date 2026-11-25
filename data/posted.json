@@ -1,17 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/18/android-foldable-apps-google-play": {
-   "at": "2026-11-18T18:45:28.132523+00:00",
-   "title": "Google Play wants Android apps to nail foldable basics by April 2027",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5google.com/2026/11/18/android-foldable-apps-google-play/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Google Play is introducing new adaptive app and game quality requirements next year to elevate the Android foldable experience. more…",
-   "title_ar": ""
-  },
   "9to5google.com/2026/11/18/gemini-4-neon-announcement": {
    "at": "2026-11-18T21:45:28.960539+00:00",
    "title": "Google launches Gemini 4 Neon with Carbon quality at Flash speeds, live for AI Pro",
@@ -638,6 +627,17 @@
    "sources": 1,
    "summary": "Google Maps is rolling out an update on Android Auto that provides better navigation routes specifically for motorcycles. more…",
    "title_ar": "تحديث Google Maps على Android Auto يضيف مسارات ملاحة للدراجات النارية"
+  },
+  "9to5google.com/2026/11/25/hello-weather-android-apple": {
+   "at": "2026-11-25T18:45:30.347951+00:00",
+   "title": "Hello Weather is the best Apple Weather app on Android",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/25/hello-weather-android-apple/",
+   "score": 1,
+   "sources": 1,
+   "summary": "While Pixel Weather serves my needs quite well, I’ve been looking for a way to check Apple Weather (previously Dark Sky) forecast data on Android, and I’ve finally found it with Hello Weather by…",
+   "title_ar": "Hello Weather هو أفضل تطبيق طقس خاص بـ Apple على نظام Android"
   },
   "9to5google.com/2026/11/25/nothing-ear-note-ai-recorder-teaser": {
    "at": "2026-11-25T15:00:44.932072+00:00",
@@ -1550,6 +1550,17 @@
    "score": 0,
    "sources": 1,
    "summary": "The recent Microsoft 365 outage was the worst the service had ever experienced, with more than 80% of the company’s servers unresponsive at the worst point.",
+   "title_ar": ""
+  },
+  "9to5mac.com/2026/11/25/whatsapp-launches-highly-requested-new-feature-for-sending-messages-later": {
+   "at": "2026-11-25T18:45:30.347951+00:00",
+   "title": "WhatsApp launches highly requested new feature for sending messages later",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/25/whatsapp-launches-highly-requested-new-feature-for-sending-messages-later/",
+   "score": 0,
+   "sources": 1,
+   "summary": "WhatsApp just announced that it is rolling out scheduled messages, which it says is one of users’ most requested features.",
    "title_ar": ""
   },
   "9to5mac.com/2026/11/25/whatsapp-testing-stickers-with-audio-including-make-your-own-option": {
@@ -2663,17 +2674,6 @@
    "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
    "title_ar": "النسخة التمهيدية العامة لـ Windows Server 2028 تراهن على نهج يضع الأمان في المقام الأول"
   },
-  "arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories": {
-   "at": "2026-11-18T18:45:28.132523+00:00",
-   "title": "Will Wright's next simulation will use AI to mine content from your memories",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
-   "score": 0,
-   "sources": 1,
-   "summary": "With MyMems , Wright says he wants to \"turn the simulation inward.\"",
-   "title_ar": ""
-  },
   "arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input": {
    "at": "2026-11-24T12:45:29.351098+00:00",
    "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
@@ -3520,17 +3520,6 @@
    "sources": 1,
    "summary": "Wireless Android Auto can drain your phone's battery, but a few easy adjustments can help reduce power use and keep your phone cooler while you're driving.",
    "title_ar": "Android Auto اللاسلكي يواجه مشكلة استنزاف بطارية الهاتف، ولكن يمكنك إصلاحها"
-  },
-  "engadget.com/2320852/you-cant-use-gta-6-cheats-until-you-beat-the-game": {
-   "at": "2026-11-18T18:45:28.132523+00:00",
-   "title": "You can't use GTA 6 cheats until you beat the game",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.engadget.com/2320852/you-cant-use-gta-6-cheats-until-you-beat-the-game/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Some even require players to complete specific challenges.",
-   "title_ar": ""
   },
   "engadget.com/2320953/you-can-finally-edit-an-instagram-story-without-deleting-it": {
    "at": "2026-11-18T21:00:42.185991+00:00",
@@ -4544,17 +4533,6 @@
    "summary": "We already knew there'd be a frantic clamour for GTA 6 this week, and we also knew plenty of players would be eyeing up Xbox's 'New Zealand trick' to get in on the action early.",
    "title_ar": ""
   },
-  "eurogamer.net/gta-6-no-cheats-until-completing-main-story": {
-   "at": "2026-11-18T18:45:28.132523+00:00",
-   "title": "GTA 6 won't let you use cheats until you complete the main story, and locks progression when you do",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.eurogamer.net/gta-6-no-cheats-until-completing-main-story",
-   "score": 0,
-   "sources": 1,
-   "summary": "Here's a twist: you can't use cheats in Grand Theft Auto 6 until you complete the entire game's main story.",
-   "title_ar": ""
-  },
   "eurogamer.net/gta-6-plane-vehicle-stunts-impressive": {
    "at": "2026-11-20T16:15:28.721971+00:00",
    "title": "GTA 6 players are already pulling off high-flying tricks and other impressive stunts, just days after launch",
@@ -4742,17 +4720,6 @@
    "summary": "There's a chill in the air and a snowman (plastic) at the end of the street, meaning winter is firmly upon us.",
    "title_ar": ""
   },
-  "eurogamer.net/ps5-pro-not-powerful-enough-gta-6-60fps": {
-   "at": "2026-11-18T18:30:39.042625+00:00",
-   "title": "Even the PS5 Pro is \"not powerful enough\" to run GTA 6 at 60FPS or 40FPS, Rockstar says",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.eurogamer.net/ps5-pro-not-powerful-enough-gta-6-60fps",
-   "score": 0,
-   "sources": 1,
-   "summary": "Don't expect GTA 6 to get an update supporting higher framerate modes, at least, not on current-generation consoles.",
-   "title_ar": ""
-  },
   "eurogamer.net/red-dead-redemption-movie-tv-rights-100-million-usd-no-gta": {
    "at": "2026-11-24T12:00:43.798810+00:00",
    "title": "Rockstar is actively shopping Read Dead Redemption movie and TV rights around, just don't expect the same for Grand Theft Auto",
@@ -4896,17 +4863,6 @@
    "summary": "Capcom has had a big year, but amid the hits comes news that its Overwatch-with-dinosaurs game, Exoprimal, will join the live-service graveyard next year.",
    "title_ar": ""
   },
-  "gamespot.com/articles/bigfoot-is-back-in-gta-6-and-apparently-he-smells-revolting": {
-   "at": "2026-11-18T18:30:39.042625+00:00",
-   "title": "Bigfoot Is Back In GTA 6, And Apparently He Smells Revolting",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gamespot.com/articles/bigfoot-is-back-in-gta-6-and-apparently-he-smells-revolting/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Grand Theft Auto games have been home to some weird phenomena over the years, and in GTA 6 , it looks like Bigfoot is back and stinkier than ever.",
-   "title_ar": ""
-  },
   "gamespot.com/articles/cyberpunk-2-is-canceled-director-jokes-after-gta-6-raises-the-bar": {
    "at": "2026-11-23T19:45:27.670567+00:00",
    "title": "Cyberpunk 2 Is Canceled, Director Jokes, After GTA 6 Raises The Bar",
@@ -4938,6 +4894,17 @@
    "score": 0,
    "sources": 1,
    "summary": "One of Diablo 4's oldest endgame activities, Helltides, is getting a major refresh for Season 16.",
+   "title_ar": ""
+  },
+  "gamespot.com/articles/diablo-4s-most-nostalgic-season-is-becoming-mostly-permanent": {
+   "at": "2026-11-25T18:45:30.347951+00:00",
+   "title": "Diablo 4’s Most Nostalgic Season Is Becoming (Mostly) Permanent",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gamespot.com/articles/diablo-4s-most-nostalgic-season-is-becoming-mostly-permanent/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Diablo 4 is gearing up for the arrival of Season 16, but it won't be leaving its popular previous season behind entirely.",
    "title_ar": ""
   },
   "gamespot.com/articles/gta-6-digital-release-has-gamestop-ceo-defending-physical-games-for-obvious-reasons": {
@@ -5345,17 +5312,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Arcade Archives 2 Dirt Dash will launch for PlayStation 5, Xbox Series, and Switch 2, and …",
-   "title_ar": ""
-  },
-  "gematsu.com/2026/11/arcade-archives-tx-1-v-8-launches-november-19": {
-   "at": "2026-11-18T18:30:39.042625+00:00",
-   "title": "Arcade Archives TX-1 V.8 launches November 19",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gematsu.com/2026/11/arcade-archives-tx-1-v-8-launches-november-19",
-   "score": 0,
-   "sources": 1,
-   "summary": "Arcade Archives 2 TX-1 V.8 will launch for PlayStation 5, Xbox Series, and Switch 2, and …",
    "title_ar": ""
   },
   "gematsu.com/2026/11/cherry-time-broadcast-set-for-november-27-featuring-exciting-announcements-and-hollow-knight-silksong-free-expansion-sea-of-sorrow": {
@@ -10594,17 +10550,6 @@
    "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release.",
    "title_ar": ""
   },
-  "theverge.com/games/1036140/will-wright-mymems-ai-game-interview": {
-   "at": "2026-11-18T18:45:28.132523+00:00",
-   "title": "Will Wright’s next game uses AI to map your memories",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
-   "score": 2,
-   "sources": 2,
-   "summary": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI.",
-   "title_ar": "لعبة Will Wright القادمة تستخدم الذكاء الاصطناعي لرسم خريطة ذكرياتك"
-  },
   "theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need": {
    "at": "2026-11-19T06:45:30.461224+00:00",
    "title": "The leaked Lenovo Legion Go Beam could be the affordable handheld we need",
@@ -10692,17 +10637,6 @@
    "sources": 1,
    "summary": "If someone handed you $8,300 every second, what would you do?",
    "title_ar": "ما هي خطوة Nvidia القادمة؟ أي شيء لا يزعج سفينتها مربحة الأطراف بشكل مذهل"
-  },
-  "theverge.com/tech/1036796/google-android-app-games-developers-foldables-support": {
-   "at": "2026-11-18T18:30:39.042625+00:00",
-   "title": "Google is forcing Android app developers to properly support foldables",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.theverge.com/tech/1036796/google-android-app-games-developers-foldables-support",
-   "score": 1,
-   "sources": 1,
-   "summary": "Now that Apple's foldable is here, Google wants to make sure apps on Android foldables are a good experience.",
-   "title_ar": "Google تجبر مطوري تطبيقات أندرويد على دعم الهواتف القابلة للطي بشكل صحيح"
   },
   "theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops": {
    "at": "2026-11-18T19:15:29.036433+00:00",
@@ -11340,17 +11274,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Jensen Huang returned to the office after being reinstated to CEO to cheers, according to videos spread on social media.",
-   "title_ar": ""
-  },
-  "tomshardware.com/tech-industry/big-tech/nvidia-promises-employee-pay-raises-equity-before-december-to-quell-unrest-in-wake-of-jensen-huang-scandal-at-first-all-hands-meeting-since-ceos-departure-staff-offered-perks-told-were-going-to-be-fine": {
-   "at": "2026-11-18T18:45:28.132523+00:00",
-   "title": "Nvidia promises employee pay raises, equity before December to quell unrest in wake of Jensen Huang scandal — at first all-hands meeting since CEO’s departure, staff offered perks, told ‘we’re going to be fine’",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-promises-employee-pay-raises-equity-before-december-to-quell-unrest-in-wake-of-jensen-huang-scandal-at-first-all-hands-meeting-since-ceos-departure-staff-offered-perks-told-were-going-to-be-fine",
-   "score": 0,
-   "sources": 1,
-   "summary": "Interim CEO Collete Kress reportedly offered staffers higher wages and more equity on an advanced schedule at the company's first all-hands after Jensen Huang resigned.",
    "title_ar": ""
   },
   "tomshardware.com/tech-industry/big-tech/president-trump-says-nvidia-board-rehiring-jensen-huang-would-be-best-for-the-company-and-the-us-treasury-sec-bessent-walks-back-outsider-ceo-comments-claims-huang-is-technically-an-outsider-now": {
@@ -12040,7 +11963,7 @@
   "AI": "2026-11-25T18:30:38.812392+00:00",
   "Anime": "2026-11-25T16:15:41.912830+00:00",
   "Games": "2026-11-25T18:15:30.732103+00:00",
-  "Tech": "2026-11-25T18:00:42.596970+00:00"
+  "Tech": "2026-11-25T18:45:30.347951+00:00"
  },
  "digest_day": "2026-11-25",
  "weekly_day": "2026-11-20"
