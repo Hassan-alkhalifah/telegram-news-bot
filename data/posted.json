@@ -3290,17 +3290,6 @@
    "summary": "Unanswered calls and missing read receipts don't always mean a block.",
    "title_ar": "طرق لمعرفة ما إذا قام شخص ما بحظر رقم هاتفك على iPhone"
   },
-  "engadget.com/2315475/google-gemini-memory-summary-see-what-remembers-about-you": {
-   "at": "2026-11-18T00:15:29.434017+00:00",
-   "title": "You can now see and edit what Google Gemini remembers about you",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2315475/google-gemini-memory-summary-see-what-remembers-about-you/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Editing the AI's memory is one way you can shape its responses.",
-   "title_ar": "يمكنك الآن رؤية وتعديل ما يتذكره Google Gemini عنك"
-  },
   "engadget.com/2317961/used-apple-airpods-deep-discounts-not-worth-it": {
    "at": "2026-11-21T14:15:30.516074+00:00",
    "title": "Why deep discounts on used Apple AirPods just aren't worth it",
@@ -4883,17 +4872,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Grand Theft Auto games have been home to some weird phenomena over the years, and in GTA 6 , it looks like Bigfoot is back and stinkier than ever.",
-   "title_ar": ""
-  },
-  "gamespot.com/articles/bioware-is-dead-but-mass-effects-spiritual-successor-exodus-just-gave-us-a-glimpse-of-a-spicy-romance": {
-   "at": "2026-11-18T00:15:29.434017+00:00",
-   "title": "BioWare Is Dead, But Mass Effect’s Spiritual Successor Exodus Just Gave Us A Glimpse of A Spicy Romance",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gamespot.com/articles/bioware-is-dead-but-mass-effects-spiritual-successor-exodus-just-gave-us-a-glimpse-of-a-spicy-romance/",
-   "score": 0,
-   "sources": 1,
-   "summary": "For the first time since its announcement during December 2023's The Game Awards, players are getting a look at the female player-character from its upcoming sci-fi RPG Exodus --which was full of…",
    "title_ar": ""
   },
   "gamespot.com/articles/cyberpunk-2-is-canceled-director-jokes-after-gta-6-raises-the-bar": {
@@ -10154,6 +10132,17 @@
    "summary": "Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Francisco Bay Area.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion": {
+   "at": "2026-11-25T00:15:29.826914+00:00",
+   "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to…",
+   "title_ar": ""
+  },
   "technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument": {
    "at": "2026-11-23T18:15:30.436100+00:00",
    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
@@ -11518,6 +11507,17 @@
    "summary": "Windows 0-day lets attackers run software by partially bypass the lock screen with just some keystrokes — even BitLocker-protected machines are seemingly vulnerable",
    "title_ar": "ثغرة يوم الصفر الجديدة في شاشة قفل Windows 11 تفتح أجهزة الكمبيوتر المحمية بـ BitLocker بضع ضغطات مفاتيح فقط"
   },
+  "tomshardware.com/tech-industry/cyber-security/us-doj-touts-largest-ever-crackdown-on-scammers-across-the-globe-as-it-seizes-14-000-devices-and-usd17-billion-in-illicit-funds-operation-results-in-800-defendants-and-frees-2-200-forced-laborers": {
+   "at": "2026-11-25T00:15:29.826914+00:00",
+   "title": "US DOJ touts \"largest-ever\" crackdown on scammers across the globe as it seizes 14,000 devices and $17 billion in illicit funds",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/us-doj-touts-largest-ever-crackdown-on-scammers-across-the-globe-as-it-seizes-14-000-devices-and-usd17-billion-in-illicit-funds-operation-results-in-800-defendants-and-frees-2-200-forced-laborers",
+   "score": 1,
+   "sources": 1,
+   "summary": "The U.S.",
+   "title_ar": "وزارة العدل الأمريكية تروج لأكبر حملة قمع على الإطلاق ضد المحتالين حول العالم مع مصادرة 14000 جهاز و 17 مليار دولار من الأموال غير المشروعة"
+  },
   "tomshardware.com/tech-industry/cyber-security/vulnerability-could-let-hacker-hijack-electric-trailer-braking-system-remotely-via-bluetooth-apply-any-amount-of-force-remotely-elecbrakes-flaw-reverse-engineered-using-claude-patched-by-manufacturer": {
    "at": "2026-11-24T13:00:45.380040+00:00",
    "title": "Vulnerability could let hacker hijack electric trailer braking system remotely via Bluetooth, apply any amount of force remotely",
@@ -12183,7 +12183,7 @@
   "AI": "2026-11-24T23:00:41.564488+00:00",
   "Anime": "2026-11-24T17:30:40.453460+00:00",
   "Games": "2026-11-24T23:45:31.954412+00:00",
-  "Tech": "2026-11-25T00:10:48.565480+00:00"
+  "Tech": "2026-11-25T00:15:29.826914+00:00"
  },
  "digest_day": "2026-11-24",
  "weekly_day": "2026-11-20"
