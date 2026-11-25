@@ -1563,6 +1563,17 @@
    "summary": "The recent Microsoft 365 outage was the worst the service had ever experienced, with more than 80% of the company’s servers unresponsive at the worst point.",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/25/report-apple-gains-ground-as-latin-american-smartphone-shipments-plunge-24-in-q3": {
+   "at": "2026-11-25T21:00:38.869123+00:00",
+   "title": "Report: Apple gains ground as Latin American smartphone shipments plunge 24% in Q3",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/25/report-apple-gains-ground-as-latin-american-smartphone-shipments-plunge-24-in-q3/",
+   "score": 1,
+   "sources": 1,
+   "summary": "According to a new Counterpoint Research report, Apple increased its share of Latin America’s smartphone shipments in Q3 2026, recording the smallest decline among the region’s top five brands.",
+   "title_ar": "تقرير: Apple تكسب حصة إضافية مع انخفاض شحنات الهواتف الذكية في أمريكا اللاتينية بنسبة 24% في الربع الثالث"
+  },
   "9to5mac.com/2026/11/25/whatsapp-launches-highly-requested-new-feature-for-sending-messages-later": {
    "at": "2026-11-25T18:45:30.347951+00:00",
    "title": "WhatsApp launches highly requested new feature for sending messages later",
@@ -10066,6 +10077,17 @@
    "summary": "Todoist said a hacker gained access to its production systems and stole customer data, including email IDs, password hashes, and account creation dates.",
    "title_ar": "Todoist تؤكد سرقة تفاصيل 6% من عملائها في خرق بيانات"
   },
+  "techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats": {
+   "at": "2026-11-25T21:00:38.869123+00:00",
+   "title": "WhatsApp now lets you schedule messages in group and individual chats",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Users can schedule messages from 10 minutes later to after 14 days.",
+   "title_ar": ""
+  },
   "technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument": {
    "at": "2026-11-23T18:15:30.436100+00:00",
    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
@@ -12073,7 +12095,7 @@
   "AI": "2026-11-25T20:30:37.525264+00:00",
   "Anime": "2026-11-25T16:15:41.912830+00:00",
   "Games": "2026-11-25T20:45:28.968543+00:00",
-  "Tech": "2026-11-25T20:15:30.588539+00:00"
+  "Tech": "2026-11-25T21:00:38.869123+00:00"
  },
  "digest_day": "2026-11-25",
  "weekly_day": "2026-11-20"
