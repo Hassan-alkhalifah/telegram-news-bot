@@ -12,17 +12,6 @@
    "summary": "Google introduced 3D emoji on Pixel this year, and has just detailed the minimum specifications required to get them on your Android phone. more…",
    "title_ar": "رموز تعبيرية ثلاثية الأبعاد من Google تتطلب مواصفات خارقة لنظام Android: مساحة خالية 10 جيجابايت و6 جيجابايت من ذاكرة الوصول العشوائي"
   },
-  "9to5google.com/2026/11/19/gemini-mac-computer-use": {
-   "at": "2026-11-19T19:00:41.686613+00:00",
-   "title": "Gemini app for Mac adds computer use to control desktop apps",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5google.com/2026/11/19/gemini-mac-computer-use/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Google is upgrading the Gemini app on Mac with computer use capabilities that can work across local desktop applications and the web. more…",
-   "title_ar": ""
-  },
   "9to5google.com/2026/11/19/google-search-homepage-gemini-sidebar-update": {
    "at": "2026-11-19T22:30:34.878537+00:00",
    "title": "Google homepage rolling out AI-focused redesign that includes your Gemini chats [Video]",
@@ -2608,17 +2597,6 @@
    "summary": "The pitch is an unusual combination of privacy promises and AI features.",
    "title_ar": ""
   },
-  "arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027": {
-   "at": "2026-11-19T19:00:41.686613+00:00",
-   "title": "Google will launch Android app verification requirement globally in January 2027",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Google says almost all developers have already gotten on board with verification.",
-   "title_ar": "جوجل ستطلق متطلب التحقق من تطبيقات Android عالمياً في يناير 2027"
-  },
   "arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops": {
    "at": "2026-11-20T22:48:42.604126+00:00",
    "title": "US will soon announce root cause behind FAA nationwide ground stop",
@@ -3553,17 +3531,6 @@
    "sources": 1,
    "summary": "This is part of Project Suncatcher, an experiment aimed at running AI systems in space.",
    "title_ar": "جوجل توقيع اتفاقية مع Blue Origin لإرسال مراكز بيانات عبر الأقمار الصناعية إلى المدار"
-  },
-  "engadget.com/2322144/anthropic-is-now-a-public-company-worth-more-than-1-trillion": {
-   "at": "2026-11-19T19:00:41.686613+00:00",
-   "title": "Anthropic is now a public company worth more than $1 trillion",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.engadget.com/2322144/anthropic-is-now-a-public-company-worth-more-than-1-trillion/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The company was briefly valued at more than $2 trillion.",
-   "title_ar": ""
   },
   "engadget.com/2322205/ubisoft-lays-off-166-more-workers-opens-a-generative-ai-studio": {
    "at": "2026-11-19T19:30:36.011283+00:00",
@@ -4729,17 +4696,6 @@
    "score": 0,
    "sources": 1,
    "summary": "With World of Warcraft: Forever's first raids set to release in early December, developers of the game have spoken about endgame itemisation and their desire to disrupt the \"best-in-slot\" (BIS)…",
-   "title_ar": ""
-  },
-  "eurogamer.net/wow-forever-weekly-players-15-years": {
-   "at": "2026-11-19T19:00:41.686613+00:00",
-   "title": "World of Warcraft: Forever has more weekly players than WoW has seen in 15 years, says Blizzard",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.eurogamer.net/wow-forever-weekly-players-15-years",
-   "score": 0,
-   "sources": 1,
-   "summary": "World of Warcraft: Forever now has more people playing each week than World of Warcraft has seen in 15 years, according to Blizzard.",
    "title_ar": ""
   },
   "eurogamer.net/xbox-live-helix-killing-paid-membership": {
@@ -6149,17 +6105,6 @@
    "sources": 1,
    "summary": "Xiaomi has just published its unaudited financial results for the third quarter (the three months that ended on September 30).",
    "title_ar": "إيرادات Xiaomi في الربع الثالث تتجاوز 100 مليار يوان مع ارتفاع أسعار الهواتف"
-  },
-  "ign.com/articles/2-million-people-new-zealand-gta-6-early": {
-   "at": "2026-11-19T19:00:41.686613+00:00",
-   "title": "An Estimated 2 Million Eager Xbox Gamers Made Use of the 'New Zealand Trick' to Play GTA 6 Early",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/2-million-people-new-zealand-gta-6-early",
-   "score": 0,
-   "sources": 1,
-   "summary": "Enough people to fill a third of New Zealand’s population changed their console settings to play GTA 6 a day early.",
-   "title_ar": ""
   },
   "ign.com/articles/actor-who-plays-mandy-in-gta-6-excitedly-speaks-out-after-character-goes-viral": {
    "at": "2026-11-21T05:30:42.650543+00:00",
@@ -8537,17 +8482,6 @@
    "summary": "The leads of Leonida, the biggest and best-known effort to recreate GTA 6 on PC, have quit the project, although others are still trying to carry it on.",
    "title_ar": ""
   },
-  "pcgamer.com/games/grand-theft-auto/im-counting-the-minutes-until-the-pc-version-fixes-the-weirdly-restrictive-cheats-in-gta-6": {
-   "at": "2026-11-19T18:45:27.645489+00:00",
-   "title": "Cheats in GTA 6 are weirdly restrictive, and I'm counting the minutes until the PC version fixes them",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/games/grand-theft-auto/im-counting-the-minutes-until-the-pc-version-fixes-the-weirdly-restrictive-cheats-in-gta-6/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Unlocking a cheats menu takes dozens of hours, and even then there are still heavy restrictions.",
-   "title_ar": ""
-  },
   "pcgamer.com/games/grand-theft-auto/peter-moore-who-famously-announced-gta-4-with-a-tattoo-posts-fake-gta-6-tattoo-pic-and-says-he-hopes-it-will-give-the-industry-a-shot-in-the-arm": {
    "at": "2026-11-19T19:15:30.589313+00:00",
    "title": "Peter Moore, who famously announced GTA 4 with a tattoo, posts fake GTA 6 tattoo pic and says he hopes it will give the industry 'a shot in the arm'",
@@ -9218,17 +9152,6 @@
    "sources": 1,
    "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
    "title_ar": "شركة Everful التابعة لتنفيذ سابق في Alibaba تجمع 48.5 مليون دولار لربط تجار التجزئة بالمصانع الصينية"
-  },
-  "techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says": {
-   "at": "2026-11-19T18:45:27.645489+00:00",
-   "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-   "score": 1,
-   "sources": 1,
-   "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account…",
-   "title_ar": "تقرير يفيد بأن وكيل الذكاء الاصطناعي Muse من Meta يخلط المحادثات ويكشف عن بيانات خاصة"
   },
   "techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300": {
    "at": "2026-11-19T22:00:41.507260+00:00",
