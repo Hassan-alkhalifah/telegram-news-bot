@@ -848,17 +848,6 @@
    "summary": "Rumors about next year’s 20th anniversary iPhone Pro models have been ramping up, and they suggest Apple is designing an ‘iPhone 20 Pro’ that combines traits from two current models. more…",
    "title_ar": ""
   },
-  "9to5mac.com/2026/11/19/oled-imac-plans-may-be-cancelled-by-apple-for-two-reasons": {
-   "at": "2026-11-19T13:00:44.987847+00:00",
-   "title": "OLED iMac plans may be cancelled by Apple for two reasons",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/19/oled-imac-plans-may-be-cancelled-by-apple-for-two-reasons/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Apple is considering abandoning plans to launch an OLED iMac , according to a new supply chain report.",
-   "title_ar": "Apple قد تلغي خطط طرح OLED iMac لسببين"
-  },
   "9to5mac.com/2026/11/19/openai-begins-testing-dots-with-chatgpt-plus-users-expands-business-access": {
    "at": "2026-11-20T00:15:29.746030+00:00",
    "title": "OpenAI begins testing dots with ChatGPT Plus users, expands Business access",
@@ -6094,6 +6083,17 @@
    "sources": 1,
    "summary": "Samsung has announced that its mobile repair service has completed over 50,000 phone and tablet repairs across 12 European countries.",
    "title_ar": "شاحنات الإصلاح المحمولة من Samsung تصلح أكثر من 50,000 جهاز Galaxy في أوروبا"
+  },
+  "gsmarena.com/smartphone_shipments_on_track_for_record_drop_in_2026-news-75647.php": {
+   "at": "2026-11-26T13:15:28.586314+00:00",
+   "title": "Counterpoint: Smartphone shipments on track for record drop in 2026",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.gsmarena.com/smartphone_shipments_on_track_for_record_drop_in_2026-news-75647.php",
+   "score": 1,
+   "sources": 1,
+   "summary": "It’s been a tough year for smartphone shipments as surging memory prices have led to substantial component price hikes and costlier devices.",
+   "title_ar": "Counterpoint: شحنات الهواتف الذكية في طريقها لتسجيل انخفاض قياسي في عام 2026"
   },
   "gsmarena.com/the_samsung_galaxy_a38_tipped_to_have_a_downgraded_camera_the_a58_stays_the_same-news-75598.php": {
    "at": "2026-11-23T20:22:53.042783+00:00",
@@ -11842,7 +11842,7 @@
   "AI": "2026-11-26T12:00:44.889835+00:00",
   "Anime": "2026-11-26T09:45:27.761379+00:00",
   "Games": "2026-11-26T02:15:29.453807+00:00",
-  "Tech": "2026-11-26T13:00:43.071219+00:00"
+  "Tech": "2026-11-26T13:15:28.586314+00:00"
  },
  "digest_day": "2026-11-25",
  "weekly_day": "2026-11-20"
