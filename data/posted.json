@@ -683,17 +683,6 @@
    "summary": "Apple has released iOS 27.3 public beta 2 for iPhone.",
    "title_ar": ""
   },
-  "9to5mac.com/2026/11/19/apple-tv-f1-academy-stream-next-year": {
-   "at": "2026-11-19T19:45:36.623601+00:00",
-   "title": "Apple TV will stream all-female racing series F1 Academy starting next year",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/19/apple-tv-f1-academy-stream-next-year/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple is coming up to the end of its first year as the exclusive broadcaster of Formula 1 in the United States, with the deal set to continue through 2031.",
-   "title_ar": ""
-  },
   "9to5mac.com/2026/11/19/apple-tv-reveals-new-series-with-andrew-garfield-jude-law-as-magicians": {
    "at": "2026-11-19T20:30:36.492396+00:00",
    "title": "Apple TV reveals new series with Andrew Garfield, Jude Law as magicians",
@@ -1496,6 +1485,17 @@
    "sources": 1,
    "summary": "iOS 28 is coming next year, and a new rumor says the update will “revamp the iPhone’s notification system.” This comes as Android has introduced features like “Notification Organizer” to help users…",
    "title_ar": ""
+  },
+  "9to5mac.com/2026/11/26/judge-orders-apple-to-produce-3200-documents-in-epic-games-dispute": {
+   "at": "2026-11-26T20:00:43.908972+00:00",
+   "title": "Judge orders Apple to produce 3,200 documents in Epic Games dispute",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/26/judge-orders-apple-to-produce-3200-documents-in-epic-games-dispute/",
+   "score": 1,
+   "sources": 1,
+   "summary": "A federal judge has ordered Apple to produce a random sample of 3,200 documents for Epic Games to review, following Epic’s allegations that Apple improperly withheld more than 122,000 documents…",
+   "title_ar": "قاض يأمر شركة Apple بتقديم 3200 وثيقة في نزاع Epic Games"
   },
   "9to5mac.com/2026/11/26/sketchy-suggestion-of-ceramic-iphone-20-pro": {
    "at": "2026-11-26T14:00:45.430164+00:00",
@@ -3532,17 +3532,6 @@
    "summary": "This is part of Project Suncatcher, an experiment aimed at running AI systems in space.",
    "title_ar": "جوجل توقيع اتفاقية مع Blue Origin لإرسال مراكز بيانات عبر الأقمار الصناعية إلى المدار"
   },
-  "engadget.com/2322221/apple-tv-expands-its-racing-coverage-with-the-all-female-f1-academy": {
-   "at": "2026-11-19T19:45:36.623601+00:00",
-   "title": "Apple TV expands its racing coverage with the all-female F1 Academy",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2322221/apple-tv-expands-its-racing-coverage-with-the-all-female-f1-academy/",
-   "score": 3,
-   "sources": 2,
-   "summary": "The platform will air \"every qualifying session and race throughout the season.\"",
-   "title_ar": "Apple TV توسع تغطيتها لسباقات السيارات مع بطولة F1 Academy المخصصة للسيدات بالكامل"
-  },
   "engadget.com/2322304/employees-call-out-google-over-ai-search-in-schools": {
    "at": "2026-11-19T20:15:28.361697+00:00",
    "title": "Employees call out Google over AI Search in schools",
@@ -5468,17 +5457,6 @@
    "summary": "In traditional Google fashion, the online titan just can’t seem to make up its mind on what is mostly semantics and end-user marketing matters.",
    "title_ar": ""
   },
-  "gsmarena.com/google_launches_gemini_4_neon_its_new_midtier_ai_model-news-75544.php": {
-   "at": "2026-11-19T19:45:36.623601+00:00",
-   "title": "Google launches Gemini 4 Neon, its new mid-tier AI model",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.gsmarena.com/google_launches_gemini_4_neon_its_new_midtier_ai_model-news-75544.php",
-   "score": 0,
-   "sources": 1,
-   "summary": "Google has just announced Gemini 4 Neon, the latest member of its Gemini 4 family of AI models.",
-   "title_ar": ""
-  },
   "gsmarena.com/gta_vi_was_the_biggest_launch_in_playstation_history-news-75621.php": {
    "at": "2026-11-25T00:45:28.945277+00:00",
    "title": "GTA VI was the biggest launch in PlayStation history",
@@ -6282,17 +6260,6 @@
    "summary": "A GTA 6 developer has paid tribute to his late mother with an in-game memorial in Leonida that players can find and visit for themselves.",
    "title_ar": ""
   },
-  "ign.com/articles/gta-6-devs-are-still-worried-about-layoffs-despite-making-one-of-the-most-successful-games-ever-made": {
-   "at": "2026-11-19T20:00:41.637549+00:00",
-   "title": "GTA 6 Devs Are Still Worried About Layoffs, Despite Making One of the Most Successful Games Ever Made",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.ign.com/articles/gta-6-devs-are-still-worried-about-layoffs-despite-making-one-of-the-most-successful-games-ever-made",
-   "score": 2,
-   "sources": 1,
-   "summary": "GTA 6 is already an incredibly successful game, and when the dust settles, it'll likely end up as one of the most lucrative entertainment releases of all time, yet some of the developers are still…",
-   "title_ar": "مطورُو GTA 6 ما زالوا قلقين بشأن عمليات التسريح، على الرغم من صنع واحدة من أنجح الألعاب في التاريخ"
-  },
   "ign.com/articles/gta-6-doesnt-let-you-replay-missions-and-rockstar-says-theres-a-good-reason-for-that": {
    "at": "2026-11-25T22:15:38.027140+00:00",
    "title": "GTA 6 Doesn't Let You Replay Missions, and Rockstar Says There's a Good Reason for That",
@@ -6456,17 +6423,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Now that the dust has somewhat settled after the avalanche that was the launch of GTA 6, PlayStation has revealed some of its stats from the game, revealing that this was the single largest game…",
-   "title_ar": ""
-  },
-  "ign.com/articles/gta-6s-jason-and-lucia-actors-break-years-of-silence-with-new-joint-statement": {
-   "at": "2026-11-19T20:00:41.637549+00:00",
-   "title": "GTA 6's Jason and Lucia Actors Break Years of Silence With New Joint Statement",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/gta-6s-jason-and-lucia-actors-break-years-of-silence-with-new-joint-statement",
-   "score": 0,
-   "sources": 1,
-   "summary": "GTA 6's lead actors, Dylan Rourke and Manni L.",
    "title_ar": ""
   },
   "ign.com/articles/here-are-all-of-the-best-clips-from-the-worlds-first-weekend-with-gta-6": {
@@ -8183,17 +8139,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Toss a patch to your Witcher.",
-   "title_ar": ""
-  },
-  "nintendolife.com/news/2026/11/these-30plus-games-are-coming-to-nintendo-switch-eshop-this-week-november-19": {
-   "at": "2026-11-19T19:45:36.623601+00:00",
-   "title": "These 30+ Games Are Coming To Nintendo Switch eShop This Week (November 19)",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.nintendolife.com/news/2026/11/these-30plus-games-are-coming-to-nintendo-switch-eshop-this-week-november-19",
-   "score": 0,
-   "sources": 1,
-   "summary": "Barbenhammer.",
    "title_ar": ""
   },
   "nintendolife.com/news/2026/11/unsettling-silent-hill-inspired-horror-game-confirmed-for-switch-2": {
@@ -11441,28 +11386,6 @@
    "summary": "Ubisoft says it encourages developers to use gen AI, rather than mandate it",
    "title_ar": "شركة Ubisoft تنفي إجبار المطورين على استخدام الذكاء الاصطناعي التوليدي"
   },
-  "videogameschronicle.com/news/ubisoft-has-founded-a-studio-dedicated-to-generative-ai-in-games": {
-   "at": "2026-11-19T19:45:36.623601+00:00",
-   "title": "Ubisoft has founded a studio dedicated to generative AI in games",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.videogameschronicle.com/news/ubisoft-has-founded-a-studio-dedicated-to-generative-ai-in-games/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Ubisoft confirms reports that it has a dedicated gen AI studio",
-   "title_ar": ""
-  },
-  "videogameschronicle.com/news/ubisoft-pins-strong-assassins-creed-sales-on-black-flag-resynced-and-nolans-odyssey": {
-   "at": "2026-11-19T20:00:41.637549+00:00",
-   "title": "Ubisoft pins strong Assassin’s Creed sales on Black Flag Resynced, and Nolan’s Odyssey",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.videogameschronicle.com/news/ubisoft-pins-strong-assassins-creed-sales-on-black-flag-resynced-and-nolans-odyssey/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Assassin's Creed Odyssey saw an increase in sales, thanks to Christopher Nolan's The Odyssey",
-   "title_ar": ""
-  },
   "videogameschronicle.com/news/unofficial-gta-6-pc-ports-are-already-getting-shut-down": {
    "at": "2026-11-24T15:15:30.782488+00:00",
    "title": "Unofficial GTA 6 PC ports are already getting shut down",
@@ -11622,7 +11545,7 @@
   "AI": "2026-11-26T19:45:29.315478+00:00",
   "Anime": "2026-11-26T17:30:41.162456+00:00",
   "Games": "2026-11-26T18:45:25.829826+00:00",
-  "Tech": "2026-11-26T19:15:28.961267+00:00"
+  "Tech": "2026-11-26T20:00:43.908972+00:00"
  },
  "digest_day": "2026-11-26",
  "weekly_day": "2026-11-20"
