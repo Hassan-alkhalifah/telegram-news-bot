@@ -683,6 +683,17 @@
    "summary": "YouTube TV isn’t cheap, but a sale around Black Friday cuts the cost of the service down to just $49.99/month for a limited time, with a couple of strings attached. more…",
    "title_ar": "تخفيض في سعر YouTube TV ليصبح 49.99 دولاراً في الشهر لفترة محدودة"
   },
+  "9to5google.com/2026/11/26/the-motorola-signature-27s-haptics-finally-feel-more-like-a-pixel-and-its-about-time": {
+   "at": "2026-11-26T16:15:29.247924+00:00",
+   "title": "The Motorola Signature 27’s haptics finally feel more like a Pixel, and it’s about time",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/26/the-motorola-signature-27s-haptics-finally-feel-more-like-a-pixel-and-its-about-time/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Motorola has been content with mid-grade haptics for years, but the Motorola Signature 27’s haptics rightfully upgrade the experience. more…",
+   "title_ar": "الاستشعار اللمسي في هاتف Motorola Signature 27 يبدو أخيرًا أقرب إلى هواتف Pixel، وقد حان الوقت لذلك"
+  },
   "9to5mac.com/2026/11/19/apple-fires-back-at-epic-over-claims-it-withheld-122000-documents": {
    "at": "2026-11-20T03:00:45.544725+00:00",
    "title": "Apple fires back at Epic over claims it withheld 122,000 documents",
@@ -5402,6 +5413,17 @@
    "summary": "Sony Interactive Entertainment has announced the December 2026 Monthly Games lineup for PlayStation Plus Essential …",
    "title_ar": ""
   },
+  "gematsu.com/2026/11/retail-hell-coming-to-ps5-xbox-series-and-switch": {
+   "at": "2026-11-26T16:15:29.247924+00:00",
+   "title": "Retail Hell coming to PS5, Xbox Series, and Switch",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gematsu.com/2026/11/retail-hell-coming-to-ps5-xbox-series-and-switch",
+   "score": 0,
+   "sources": 1,
+   "summary": "Publisher Feardemic and developer LEAP Game Studios will release simulation horror game Retail Hell for …",
+   "title_ar": ""
+  },
   "gematsu.com/2026/11/sentimental-graffiti-re-launches-march-25-2027-in-japan": {
    "at": "2026-11-25T15:30:37.102954+00:00",
    "title": "Sentimental Graffiti Re launches March 25, 2027 in Japan",
@@ -7140,6 +7162,17 @@
    "summary": "Rockstar Games and Take-Two have shut down a Discord server that was working on an unauthorized PC port for GTA 6",
    "title_ar": ""
   },
+  "insider-gaming.com/rockstar-workers-vote-against-unionization": {
+   "at": "2026-11-26T16:15:29.247924+00:00",
+   "title": "Majority of Rockstar Workers Vote Against Unionization",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/rockstar-workers-vote-against-unionization/",
+   "score": 0,
+   "sources": 1,
+   "summary": "A new update has revealed that 75% of the workers at Rockstar Games UK have voted against unionization.",
+   "title_ar": ""
+  },
   "insider-gaming.com/senua-concept-art": {
    "at": "2026-11-24T12:45:29.351098+00:00",
    "title": "Senua Concept Art Surfaces Online, Revealing Mission Levels & Starting Area",
@@ -8777,6 +8810,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Yes, it's true: this man has no disc.",
+   "title_ar": ""
+  },
+  "pcgamer.com/gaming-industry/rockstar-workers-vote-overwhelmingly-against-union-recognition": {
+   "at": "2026-11-26T16:15:29.247924+00:00",
+   "title": "Rockstar workers vote overwhelmingly against union recognition",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/gaming-industry/rockstar-workers-vote-overwhelmingly-against-union-recognition/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The IWGB says efforts will continue, but with only 25% of Rockstar workers voting in favor, there's a long way to go.",
    "title_ar": ""
   },
   "pcgamer.com/gaming-industry/ubisoft-says-assassins-creed-black-flag-resynced-outperformed-expectations-lays-off-166-more-people-anyway": {
@@ -11243,6 +11287,17 @@
    "summary": "The president apparently threatened the Intel board with \"consequences\" if they did not accept his demand for a 10% stake on the company.",
    "title_ar": "دعوى قضائية تزعم أن ترامب مارس ضغوطاً قوية على Intel"
   },
+  "tomshardware.com/tech-industry/policy/nvidia-stops-ai-gpu-shipments-to-southeast-asia-report-claims-data-centers-in-singapore-other-countries-in-trouble-as-commerce-department-requires-cloud-providers-to-obtain-export-license": {
+   "at": "2026-11-26T16:15:29.247924+00:00",
+   "title": "Nvidia stops AI GPU shipments to Southeast Asia amid purported China cloud access ban, report claims",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/tech-industry/policy/nvidia-stops-ai-gpu-shipments-to-southeast-asia-report-claims-data-centers-in-singapore-other-countries-in-trouble-as-commerce-department-requires-cloud-providers-to-obtain-export-license",
+   "score": 0,
+   "sources": 1,
+   "summary": "Data centers in Singapore, Malaysia, Thailand, and Indonesia are now required to obtain export licenses if they want to get their Nvidia AI GPUs delivered.",
+   "title_ar": ""
+  },
   "tomshardware.com/tech-industry/policy/reinstated-nvidia-ceo-jensen-huang-must-still-face-china-congressional-and-senate-banking-committees-senators-and-representatives-demand-answers-from-nvidia-ceo-on-national-security-threats-and-export-controls": {
    "at": "2026-11-24T16:30:35.982555+00:00",
    "title": "Reinstated Nvidia CEO Jensen Huang must still face China congressional and Senate Banking committees",
@@ -11765,7 +11820,7 @@
   "AI": "2026-11-26T16:00:46.269557+00:00",
   "Anime": "2026-11-26T15:15:29.778198+00:00",
   "Games": "2026-11-26T15:45:36.078344+00:00",
-  "Tech": "2026-11-26T15:15:29.778198+00:00"
+  "Tech": "2026-11-26T16:15:29.247924+00:00"
  },
  "digest_day": "2026-11-25",
  "weekly_day": "2026-11-20"
