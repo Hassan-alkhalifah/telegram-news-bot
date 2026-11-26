@@ -3213,6 +3213,17 @@
    "summary": "The fantasy series' ending theme song is also previewed",
    "title_ar": ""
   },
+  "crunchyroll.com/news/latest/2026/11/26/armored-trooper-votoms-die-graue-hexe-anime-film-theme-song-music-video-mika-nakashima": {
+   "at": "2026-11-26T02:00:42.930736+00:00",
+   "title": "Mika Nakashima Releases Armored Trooper VOTOMS: Die Graue Hexe Anime Film Theme Song Music Video",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://crunchyroll.com/news/latest/2026/11/26/armored-trooper-votoms-die-graue-hexe-anime-film-theme-song-music-video-mika-nakashima",
+   "score": 1,
+   "sources": 1,
+   "summary": "The single ranked number 17 on the daily chart",
+   "title_ar": "ميكا ناكاشيما تصدر الفيديو الموسيقي لأغنية فيلم الأنمي Armored Trooper VOTOMS: Die Graue Hexe"
+  },
   "crunchyroll.com/news/latest/2026/11/26/precure-24th-anime-series-funtasic-precure-toei-animation": {
    "at": "2026-11-26T01:15:37.962347+00:00",
    "title": "Toei Animation Announces 24th Precure TV Anime Series \"FUNtasic Precure!\"",
@@ -10594,17 +10605,6 @@
    "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative.",
    "title_ar": "لجنة الاتصالات الفيدرالية الموافقة على خطة SpaceX لإطلاق ما يصل إلى مليون قمر صناعي لمراكز البيانات في الفضاء"
   },
-  "theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook": {
-   "at": "2026-11-19T01:45:28.817385+00:00",
-   "title": "Elon Musk tries to explain what’s going on with Ukraine and Starlink",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
-   "score": 1,
-   "sources": 1,
-   "summary": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for military purposes.",
-   "title_ar": "Elon Musk يحاول شرح ما يجري بخصوص Ukraine و Starlink"
-  },
   "theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029": {
    "at": "2026-11-19T16:30:36.870371+00:00",
    "title": "Blue Origin will launch Google’s AI server satellites in 2029",
@@ -11928,7 +11928,7 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-25T23:30:36.238745+00:00",
-  "Anime": "2026-11-26T01:15:37.962347+00:00",
+  "Anime": "2026-11-26T02:00:42.930736+00:00",
   "Games": "2026-11-26T01:30:34.139249+00:00",
   "Tech": "2026-11-26T01:45:27.002328+00:00"
  },
