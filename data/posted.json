@@ -4203,6 +4203,28 @@
    "summary": "New York governor Kathy Hochul has signed into law a five-year ban on the sale of AI chatbot toys.",
    "title_ar": "ولاية نيويورك تحظر ألعاب الروبوتات المحادثة المدعومة بالذكاء الاصطناعي للأطفال"
   },
+  "engadget.com/2329049/x-is-adding-its-first-ever-parental-controls": {
+   "at": "2026-11-26T11:09:52.759536+00:00",
+   "title": "X is adding its first-ever parental controls",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2329049/x-is-adding-its-first-ever-parental-controls/",
+   "score": 0,
+   "sources": 1,
+   "summary": "X (and Twitter before it) have never really had real parental controls.",
+   "title_ar": ""
+  },
+  "engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center": {
+   "at": "2026-11-26T11:09:52.759536+00:00",
+   "title": "SpaceX gets FCC approval to deploy 1 million satellites for its AI orbital data center",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The FCC has granted SpaceX's request to deploy 1 million satellites to build an AI data center in orbit.",
+   "title_ar": ""
+  },
   "eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed": {
    "at": "2026-11-22T17:30:34.644514+00:00",
    "title": "Binding of Isaac dev pulls AI-generated music from Repentance+ after players expose it",
@@ -10473,6 +10495,17 @@
    "summary": "This month's Exchange Online and Microsoft Outlook outage has prompted the software giant to declare an unusual \"Code Red\" internally, Reuters reports.",
    "title_ar": "Microsoft تعلن حالة الطوارئ \"Code Red\" بعد انقطاع كبير في خدمة Outlook"
   },
+  "theverge.com/news/1043078/x-parental-controls-features": {
+   "at": "2026-11-26T11:09:52.759536+00:00",
+   "title": "X is finally getting its first parental controls",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.theverge.com/news/1043078/x-parental-controls-features",
+   "score": 2,
+   "sources": 2,
+   "summary": "X is finally rolling out parental controls that allow parents and guardians to manage teens' accounts on the platform.",
+   "title_ar": "منصة X تحصل أخيراً على أولى أدوات الرقابة الأائلية لديه"
+  },
   "theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated": {
    "at": "2026-11-23T16:30:44.151198+00:00",
    "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
@@ -11155,6 +11188,17 @@
    "summary": "A civil lawsuit claimed that there was \"no way Cenly Chen lacked knowledge about the company's illicit sales.\"",
    "title_ar": ""
   },
+  "tomshardware.com/tech-industry/big-tech/trump-says-a-pardon-for-nvidia-ceo-jensen-huang-is-always-an-option-urges-him-not-to-plead-the-fifth-ahead-of-house-committee-grilling": {
+   "at": "2026-11-26T11:09:52.759536+00:00",
+   "title": "Trump says a pardon for Nvidia CEO Jensen Huang is 'always an option'",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/tech-industry/big-tech/trump-says-a-pardon-for-nvidia-ceo-jensen-huang-is-always-an-option-urges-him-not-to-plead-the-fifth-ahead-of-house-committee-grilling",
+   "score": 0,
+   "sources": 1,
+   "summary": "U.S.",
+   "title_ar": ""
+  },
   "tomshardware.com/tech-industry/cyber-security/new-windows-11-lock-screen-zero-day-unlocks-bitlocker-protected-pcs-with-just-a-few-keystrokes-win-u-keyboard-trick-lets-physical-attackers-run-usb-payloads-or-create-new-admin-accounts": {
    "at": "2026-11-20T01:45:27.911174+00:00",
    "title": "New Windows 11 lock screen zero-day unlocks BitLocker-protected PCs with just a few keystrokes",
@@ -11809,7 +11853,7 @@
   "AI": "2026-11-26T11:00:46.924969+00:00",
   "Anime": "2026-11-26T09:45:27.761379+00:00",
   "Games": "2026-11-26T02:15:29.453807+00:00",
-  "Tech": "2026-11-26T10:45:36.053024+00:00"
+  "Tech": "2026-11-26T11:09:52.759536+00:00"
  },
  "digest_day": "2026-11-25",
  "weekly_day": "2026-11-20"
