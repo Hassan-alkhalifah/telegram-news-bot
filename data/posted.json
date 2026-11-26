@@ -1453,6 +1453,17 @@
    "summary": "A sketchy rumor is doing the rounds suggesting that Apple is working on a ceramic edition of the iPhone 20 Pro .",
    "title_ar": "معلومة غير مؤكدة تشير إلى احتمال إصدار iPhone 20 Pro من السيراميك"
   },
+  "9to5mac.com/2026/11/26/south-korea-proceeds-with-case-over-allegedly-misleading-apple-intelligence-ads": {
+   "at": "2026-11-26T23:00:48.603080+00:00",
+   "title": "South Korea proceeds with case over allegedly misleading Apple Intelligence ads",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/26/south-korea-proceeds-with-case-over-allegedly-misleading-apple-intelligence-ads/",
+   "score": 1,
+   "sources": 1,
+   "summary": "South Korea’s Fair Trade Commission (KFTC) announced today that it has opened formal proceedings against Apple over its advertising of Apple Intelligence features for the iPhone 16 lineup.",
+   "title_ar": "كوريا الجنوبية تمضي قدماً في قضية بشأن إعلانات Apple Intelligence المضللة المزعومة"
+  },
   "9to5mac.com/2026/11/26/the-character%e2%80%a4ai-mess-underlines-the-importance-of-apples-approach-to-ai-privacy": {
    "at": "2026-11-26T13:00:43.071219+00:00",
    "title": "The Character․AI mess underlines the importance of Apple’s approach to AI privacy",
@@ -3114,6 +3125,17 @@
    "summary": "The media mix adaptation premieres on January 7",
    "title_ar": "أنمي Charisma يكشف عن العرض الدعائي لشخصية Minato Ohse"
   },
+  "crunchyroll.com/news/latest/2026/11/26/fool-night-anime-announces-three-new-cast-members": {
+   "at": "2026-11-26T23:00:48.603080+00:00",
+   "title": "Fool Night Anime Announces Three New Cast Members",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://crunchyroll.com/news/latest/2026/11/26/fool-night-anime-announces-three-new-cast-members",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nobuo Tobita, Akiko Yajima and Yumiko Kobayashi join the cast",
+   "title_ar": ""
+  },
   "crunchyroll.com/news/latest/2026/11/26/killer-shark-in-another-world-tv-anime-announced": {
    "at": "2026-11-26T15:15:29.778198+00:00",
    "title": "Killer Shark in Another World TV Anime Announced",
@@ -3465,17 +3487,6 @@
    "sources": 1,
    "summary": "This is part of Project Suncatcher, an experiment aimed at running AI systems in space.",
    "title_ar": "جوجل توقيع اتفاقية مع Blue Origin لإرسال مراكز بيانات عبر الأقمار الصناعية إلى المدار"
-  },
-  "engadget.com/2322377/you-can-now-purchase-the-512gb-steam-machine-like-a-normal-console": {
-   "at": "2026-11-19T23:00:41.478852+00:00",
-   "title": "You can now purchase the 512GB Steam Machine like a normal console",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.engadget.com/2322377/you-can-now-purchase-the-512gb-steam-machine-like-a-normal-console/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Valve has worked through the waitlist for the smaller version of its gaming PC.",
-   "title_ar": ""
   },
   "engadget.com/2322541/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g": {
    "at": "2026-11-19T23:15:31.964553+00:00",
@@ -6897,17 +6908,6 @@
    "sources": 1,
    "summary": "One of the wildest looking upcoming games finally has an official release date.",
    "title_ar": ""
-  },
-  "insider-gaming.com/steam-machine-512gb-2tb-reservation-update": {
-   "at": "2026-11-19T23:00:41.478852+00:00",
-   "title": "Steam Machine Update Details 512GB and 2TB Reservations",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://insider-gaming.com/steam-machine-512gb-2tb-reservation-update/",
-   "score": 3,
-   "sources": 2,
-   "summary": "Valve has sent purchase invites to all remaining Steam Machine 2TB reservation holders and says the 512GB model no longer has a waitlist.",
-   "title_ar": "تحديث Steam Machine يوضح تفاصيل حجز نسختي 512GB و 2TB"
   },
   "insider-gaming.com/the-witcher-3-update-5-02-patch-notes-photo-mode-improvements-bug-fixes-and-more": {
    "at": "2026-11-26T16:30:43.376275+00:00",
@@ -11314,7 +11314,7 @@
   "AI": "2026-11-26T19:45:29.315478+00:00",
   "Anime": "2026-11-26T17:30:41.162456+00:00",
   "Games": "2026-11-26T22:15:29.831393+00:00",
-  "Tech": "2026-11-26T22:30:36.174581+00:00"
+  "Tech": "2026-11-26T23:00:48.603080+00:00"
  },
  "digest_day": "2026-11-26",
  "weekly_day": "2026-11-20"
