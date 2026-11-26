@@ -683,17 +683,6 @@
    "summary": "Apple has released iOS 27.3 public beta 2 for iPhone.",
    "title_ar": ""
   },
-  "9to5mac.com/2026/11/19/apple-tv-reveals-new-series-with-andrew-garfield-jude-law-as-magicians": {
-   "at": "2026-11-19T20:30:36.492396+00:00",
-   "title": "Apple TV reveals new series with Andrew Garfield, Jude Law as magicians",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/19/apple-tv-reveals-new-series-with-andrew-garfield-jude-law-as-magicians/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Jude Law and Andrew Garfield star as Siegfried & Roy, the famous magicians, in Apple TV’s forthcoming series Wild Things.",
-   "title_ar": "Apple TV يكشف عن مسلسل جديد يجمع Andrew Garfield و Jude Law بدور ساحرين"
-  },
   "9to5mac.com/2026/11/19/chatgpt-health-feature-will-soon-work-with-mac-app-dots-more": {
    "at": "2026-11-19T23:15:31.964553+00:00",
    "title": "ChatGPT Health feature now works with Mac app, Dots, more",
@@ -7074,6 +7063,17 @@
    "summary": "CD Projekt Red has shared the data on how many developers they have on each of its current projects, The Witcher 4 takes a majority.",
    "title_ar": ""
   },
+  "insider-gaming.com/ubisoft-generative-ai-denied": {
+   "at": "2026-11-26T20:45:26.908986+00:00",
+   "title": "Ubisoft Denies It Requires Developers to Use Generative AI, But The Full Story is Blurry",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/ubisoft-generative-ai-denied/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Ubisoft has denied rumors that it is requiring developers to use generative AI during video game development.",
+   "title_ar": ""
+  },
   "insider-gaming.com/ubisoft-merges-creative-houses": {
    "at": "2026-11-19T21:30:40.800987+00:00",
    "title": "Ubisoft Merges Two Creative Houses as New Leadership Structure Is Finalized",
@@ -9041,17 +9041,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-   "title_ar": ""
-  },
-  "techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline": {
-   "at": "2026-11-19T20:30:36.492396+00:00",
-   "title": "The unfolding Jensen Huang scandal: a timeline",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
    "title_ar": ""
   },
   "techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers": {
