@@ -1,17 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/18/google-ai-ultra-youtube-premium-family": {
-   "at": "2026-11-18T23:45:28.350880+00:00",
-   "title": "Google AI Ultra upgrade adds YouTube Premium Family",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/18/google-ai-ultra-youtube-premium-family/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Google today updated its flagship AI Ultra tier to include YouTube Premium Family after previously limiting subscribers to the Individual plan. more…",
-   "title_ar": "ترقية Google AI Ultra تضفي اشتراك YouTube Premium العائلي"
-  },
   "9to5google.com/2026/11/18/google-messages-contacts-gradient": {
    "at": "2026-11-19T05:15:28.985721+00:00",
    "title": "New gradient icons roll out to Google Messages & Contacts",
@@ -594,6 +583,17 @@
    "sources": 1,
    "summary": "The “Enough Phone” is trying to fulfill the small Android phone dream and, now, it’s getting some spec upgrades to the battery, RAM, and storage, all with no added cost. more…",
    "title_ar": "هاتف «Enough Phone» يضيف بطارية أكبر، وذاكرة وصول عشوائي (RAM) ومساحة تخزين أكبر إلى هاتف أندرويد الصغير الخاص به دون أي تكلفة إضافية"
+  },
+  "9to5google.com/2026/11/25/google-home-update-nest-cam-thermostat-gemini-features": {
+   "at": "2026-11-26T00:00:45.204416+00:00",
+   "title": "Big Google Home update adds these new Nest Cam, app, and Gemini features",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/25/google-home-update-nest-cam-thermostat-gemini-features/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Google Home is rolling out another big update, this time adding features and bringing improvements across Nest Cam, Nest Thermostarts, Gemini, and more. more…",
+   "title_ar": "تحديث كبير لـ Google Home يضيف ميزات جديدة لـ Nest Cam والتطبيق وGemini"
   },
   "9to5google.com/2026/11/25/google-maps-android-auto-motorcycle-navigation-routes": {
    "at": "2026-11-25T12:30:43.678465+00:00",
@@ -5125,17 +5125,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Rockstar's Grand Theft Auto 6 is finally here, and to play the game natively, you need a PlayStation 5 or Xbox Series X|S.",
-   "title_ar": ""
-  },
-  "gamespot.com/articles/psn-went-down-sorta-on-gta-6-eve": {
-   "at": "2026-11-18T23:45:28.350880+00:00",
-   "title": "PSN Went Down Sorta On GTA 6 Eve",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gamespot.com/articles/psn-went-down-sorta-on-gta-6-eve/",
-   "score": 0,
-   "sources": 1,
-   "summary": "On the eve of GTA 6' s official launch on November 19, Sony's PlayStation Network appears to be facing some issues, at least for some people, at some point, today.",
    "title_ar": ""
   },
   "gamespot.com/articles/somehow-jensen-huang-returned": {
@@ -11930,7 +11919,7 @@
   "AI": "2026-11-25T23:30:36.238745+00:00",
   "Anime": "2026-11-25T16:15:41.912830+00:00",
   "Games": "2026-11-25T23:45:25.363928+00:00",
-  "Tech": "2026-11-25T23:15:26.969741+00:00"
+  "Tech": "2026-11-26T00:00:45.204416+00:00"
  },
  "digest_day": "2026-11-25",
  "weekly_day": "2026-11-20"
