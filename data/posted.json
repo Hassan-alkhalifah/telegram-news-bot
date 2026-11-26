@@ -8119,6 +8119,17 @@
    "summary": "The official website for a television anime adaptation of Arcanadea model series unveiled an additional cast pair on Thursday.",
    "title_ar": ""
   },
+  "nintendolife.com/news/2026/11/ea-sports-fc-27-is-using-ai-to-add-the-voice-of-late-commentator-john-motson": {
+   "at": "2026-11-26T11:30:35.220997+00:00",
+   "title": "EA Sports FC 27 Is Using AI To Add The Voice Of Late Commentator John Motson",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/ea-sports-fc-27-is-using-ai-to-add-the-voice-of-late-commentator-john-motson",
+   "score": 0,
+   "sources": 1,
+   "summary": "Motson's widow and son gave permission.",
+   "title_ar": ""
+  },
   "nintendolife.com/news/2026/11/final-fantasy-resonance-devs-are-somehow-surprised-that-fans-still-like-turn-based-combat": {
    "at": "2026-11-25T17:45:27.114850+00:00",
    "title": "Final Fantasy Resonance Devs Are Somehow Surprised That Fans Still Like Turn-Based Combat",
@@ -10143,6 +10154,17 @@
    "summary": "Nvidia is close to acquiring AI startup Inception for at least $500 million, according to The Information.",
    "title_ar": ""
   },
+  "the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls": {
+   "at": "2026-11-26T11:30:35.220997+00:00",
+   "title": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Nvidia has told partners such as Dell and Supermicro to stop shipping servers to Malaysia, Singapore, Thailand, and Indonesia.",
+   "title_ar": "Nvidia توقف شحنات الخوادم إلى ماليزيا وسنغافورة وتايلاند وإندونيسيا بعد تشديد قيود التصدير الأمريكية"
+  },
   "the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end": {
    "at": "2026-11-21T16:30:46.691937+00:00",
    "title": "Nvidia researchers argue huge AI context windows are a dead end",
@@ -11817,7 +11839,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-26T11:00:46.924969+00:00",
+  "AI": "2026-11-26T11:30:35.220997+00:00",
   "Anime": "2026-11-26T09:45:27.761379+00:00",
   "Games": "2026-11-26T02:15:29.453807+00:00",
   "Tech": "2026-11-26T11:09:52.759536+00:00"
