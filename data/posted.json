@@ -3521,17 +3521,6 @@
    "summary": "Valve has worked through the waitlist for the smaller version of its gaming PC.",
    "title_ar": ""
   },
-  "engadget.com/2322428/meta-quest-adds-3d-movie-purchases-and-rentals-to-its-tv-app": {
-   "at": "2026-11-19T21:30:40.800987+00:00",
-   "title": "Meta Quest adds 3D movie purchases and rentals to its TV app",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2322428/meta-quest-adds-3d-movie-purchases-and-rentals-to-its-tv-app/",
-   "score": 2,
-   "sources": 1,
-   "summary": "The headlining film is a Billie Eilish 3D concert experience co-directed by James Cameron.",
-   "title_ar": "Meta Quest تضيف ميزات شراء واستئجار الأفلام ثلاثية الأبعاد إلى تطبيق TV الخاص بها"
-  },
   "engadget.com/2322541/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g": {
    "at": "2026-11-19T23:15:31.964553+00:00",
    "title": "Meta's Muse Charm will reportedly cost $300 and come with free Verizon 5G",
@@ -4125,6 +4114,17 @@
    "sources": 1,
    "summary": "In the same week that NVIDIA reinstated Jensen Huang as its CEO, the company has reportedly also blocked shipments to Southeast Asia.",
    "title_ar": ""
+  },
+  "engadget.com/2329256/backloggd-breach-november-2026-password-reset": {
+   "at": "2026-11-26T21:45:26.036138+00:00",
+   "title": "Backloggd urges users to change their passwords after a breach",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2329256/backloggd-breach-november-2026-password-reset/",
+   "score": 1,
+   "sources": 1,
+   "summary": "If you use Backloggd, you might need to log in again and reset your password.",
+   "title_ar": "Backloggd تحث المستخدمين على تغيير كلمات مرورهم بعد اختراق أمني"
   },
   "eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed": {
    "at": "2026-11-22T17:30:34.644514+00:00",
@@ -7006,17 +7006,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Ubisoft has denied rumors that it is requiring developers to use generative AI during video game development.",
-   "title_ar": ""
-  },
-  "insider-gaming.com/ubisoft-merges-creative-houses": {
-   "at": "2026-11-19T21:30:40.800987+00:00",
-   "title": "Ubisoft Merges Two Creative Houses as New Leadership Structure Is Finalized",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/ubisoft-merges-creative-houses/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Ubisoft has merged Creative Houses 3 and 5 under Julien Bares and confirmed all leadership positions across its Creative Houses are filled.",
    "title_ar": ""
   },
   "kotaku.com/are-we-going-too-crazy-heres-why-rockstar-put-a-red-hulk-in-gta-6-2000758505": {
@@ -11435,7 +11424,7 @@
   "AI": "2026-11-26T19:45:29.315478+00:00",
   "Anime": "2026-11-26T17:30:41.162456+00:00",
   "Games": "2026-11-26T18:45:25.829826+00:00",
-  "Tech": "2026-11-26T20:19:10.291149+00:00"
+  "Tech": "2026-11-26T21:45:26.036138+00:00"
  },
  "digest_day": "2026-11-26",
  "weekly_day": "2026-11-20"
