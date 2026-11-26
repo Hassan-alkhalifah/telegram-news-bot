@@ -7019,17 +7019,6 @@
    "summary": "Four days removed from launch, Sony is already reporting insane player numbers for GTA 6.",
    "title_ar": ""
   },
-  "insider-gaming.com/clair-obscur-expedition-33-writer-left-sandfall": {
-   "at": "2026-11-19T02:00:51.520077+00:00",
-   "title": "Clair Obscur: Expedition 33 Writer Has Left Sandfall",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/clair-obscur-expedition-33-writer-left-sandfall/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Clair Obscur: Expedition 33 narrative lead Jennifer Svedberg-Yen left Sandfall, planning to pursue her own projects and mentor writers.",
-   "title_ar": ""
-  },
   "insider-gaming.com/ea-uses-ai-to-add-john-motson-back-in-ea-sports-fc-27": {
    "at": "2026-11-25T19:00:42.603890+00:00",
    "title": "EA Uses AI to Add John Motson Back in EA Sports FC 27",
@@ -8152,17 +8141,6 @@
    "summary": "Ocarina's remake arrived a week before Tanuki: Pon's Summer.",
    "title_ar": "لعبة التزلج على الدراجات BMXing Tanuki Game جُمِّزت لإطلاق GTA 6، لكنها لم تكن تتوقع Zelda"
   },
-  "nintendolife.com/news/2026/11/capcom-officially-reveals-sixth-mega-man-dual-override-robot-master": {
-   "at": "2026-11-19T02:15:29.011321+00:00",
-   "title": "Capcom Officially Reveals Sixth Mega Man: Dual Override Robot Master",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.nintendolife.com/news/2026/11/capcom-officially-reveals-sixth-mega-man-dual-override-robot-master",
-   "score": 2,
-   "sources": 1,
-   "summary": "\"This nautical nemesis unleashes a typhoon of tyranny\".",
-   "title_ar": "Capcom تكشف رسمياً عن روبوت Mega Man: Dual Override الرئيسي السادس"
-  },
   "nintendolife.com/news/2026/11/final-fantasy-resonance-devs-are-somehow-surprised-that-fans-still-like-turn-based-combat": {
    "at": "2026-11-25T17:45:27.114850+00:00",
    "title": "Final Fantasy Resonance Devs Are Somehow Surprised That Fans Still Like Turn-Based Combat",
@@ -8261,6 +8239,17 @@
    "sources": 1,
    "summary": "Wave Race: Blue Storm makes a splash.",
    "title_ar": ""
+  },
+  "nintendolife.com/news/2026/11/nintendo-restocks-metroid-dread-physical-copies-ahead-of-metroid-ravenous-launch": {
+   "at": "2026-11-26T02:15:29.453807+00:00",
+   "title": "Nintendo Restocks Metroid Dread Physical Copies Ahead Of Metroid Ravenous Launch",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.nintendolife.com/news/2026/11/nintendo-restocks-metroid-dread-physical-copies-ahead-of-metroid-ravenous-launch",
+   "score": 2,
+   "sources": 1,
+   "summary": "Demand for Dread.",
+   "title_ar": "نينتندو تعيد توفير النسخ الفيزيائية من لعبة Metroid Dread تمهيداً لإطلاق Metroid Ravenous"
   },
   "nintendolife.com/news/2026/11/persona-6-doesnt-have-a-date-yet-but-atlus-says-you-wont-have-to-wait-as-long-for-persona-7": {
    "at": "2026-11-20T18:15:31.152134+00:00",
@@ -10087,17 +10076,6 @@
    "sources": 2,
    "summary": "According to an Axios report, many employees at OpenAI and Anthropic believe the companies' own unreleased frontier models can no longer be safely controlled.",
    "title_ar": ""
-  },
-  "the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing": {
-   "at": "2026-11-19T02:00:51.520077+00:00",
-   "title": "Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/",
-   "score": 1,
-   "sources": 1,
-   "summary": "With Genie 4, Google DeepMind is launching its most realistic world model to date for Google AI Ultra subscribers.",
-   "title_ar": "تحديث Project Genie من Google DeepMind يلب جلب Genie 4 وعوالم قابلة للربط ومعرضاً للمجتمع لإعادة المزج"
   },
   "the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working": {
    "at": "2026-11-20T19:15:29.262790+00:00",
@@ -11929,7 +11907,7 @@
  "topic_last_posted": {
   "AI": "2026-11-25T23:30:36.238745+00:00",
   "Anime": "2026-11-26T02:00:42.930736+00:00",
-  "Games": "2026-11-26T01:30:34.139249+00:00",
+  "Games": "2026-11-26T02:15:29.453807+00:00",
   "Tech": "2026-11-26T01:45:27.002328+00:00"
  },
  "digest_day": "2026-11-25",
