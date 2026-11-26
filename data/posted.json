@@ -1486,6 +1486,17 @@
    "summary": "Apple TV ( now $6.99/month for Black Friday ) won big at this year’s Emmy Awards thanks to Widow’s Bay , and this week at the International Emmys, the streamer triumphed again as Carême won the top…",
    "title_ar": "Apple TV يفوز للتو بجائزة مرموقة عن مسلسل درامي ناجح"
   },
+  "9to5mac.com/2026/11/25/festivitas-brings-holiday-cheer-to-your-mac-with-snow-you-can-shovel": {
+   "at": "2026-11-26T03:00:51.675562+00:00",
+   "title": "Festivitas brings holiday cheer to your Mac with snow you can shovel",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/25/festivitas-brings-holiday-cheer-to-your-mac-with-snow-you-can-shovel/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Back in 2024, developer Simon Støvring launched Festivitas , an app that brings a ton of holiday cheer to your Mac.",
+   "title_ar": "تطبيق Festivitas يجلب أجواء العطلات إلى جهاز Mac مع ثلوج يمكنك إزالتها بالمجرفة"
+  },
   "9to5mac.com/2026/11/25/heres-everything-apple-still-has-left-to-launch-in-2026": {
    "at": "2026-11-25T16:00:52.553912+00:00",
    "title": "Here’s everything Apple still has left to launch in 2026",
@@ -2629,17 +2640,6 @@
    "sources": 1,
    "summary": "The free, open source PhoneBox dashboard puts old Android screens back to work.",
    "title_ar": "أمر واحد في الطرفية منح جهاز Android المنسي وظيفة مكتبية"
-  },
-  "arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits": {
-   "at": "2026-11-19T03:00:48.698346+00:00",
-   "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
-   "title_ar": "أوكرانيا تفجر جسر بوتين باستخدام طائرات مسيرة ترحيلية لتجاوز قيود Starlink"
   },
   "arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input": {
    "at": "2026-11-24T12:45:29.351098+00:00",
@@ -8130,6 +8130,17 @@
    "summary": "The official website of the Kakunaru Ue wa (Now That We Draw) television anime unveiled additional cast, a key visual (pictured), the theme songs, and second promotional video on Wednesday.",
    "title_ar": ""
   },
+  "myanimelist.net/news/74983014?_location=rss": {
+   "at": "2026-11-26T03:00:51.675562+00:00",
+   "title": "'Sasaki to Pii-chan Season 2' Unveils Additional Cast",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://myanimelist.net/news/74983014?_location=rss",
+   "score": 0,
+   "sources": 1,
+   "summary": "The official website for the television anime adaptation of Buncololi’s Sasaki to Pii-chan (Sasaki and Peeps) reveals additional cast on Wednesday.",
+   "title_ar": ""
+  },
   "nintendolife.com/news/2026/11/bmxing-tanuki-game-was-prepared-for-gta-6s-launch-but-wasnt-expecting-zelda": {
    "at": "2026-11-19T06:30:35.105237+00:00",
    "title": "\"BMXing Tanuki Game\" Was Prepared For GTA 6's Launch, But Wasn't Expecting Zelda",
@@ -8294,17 +8305,6 @@
    "sources": 1,
    "summary": "Wait, there are OTHER games??",
    "title_ar": "حصاد الأسبوع: فكروا قليلاً في هذه الألعاب التي تصدر في يوم GTA 6"
-  },
-  "nintendolife.com/news/2026/11/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-december": {
-   "at": "2026-11-19T03:00:48.698346+00:00",
-   "title": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This December",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.nintendolife.com/news/2026/11/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-december",
-   "score": 0,
-   "sources": 1,
-   "summary": "Update: Release date confirmed! : Here on Nintendo Life, we first heard about the laid-back co-op farming sim Coral Island back in 2021, when it successfully hit its Kickstarter goal .",
-   "title_ar": ""
   },
   "nintendolife.com/news/2026/11/the-legend-of-zelda-ocarina-of-time-switch-2-updated-version-1-1-2-here-are-the-patch-notes": {
    "at": "2026-11-26T01:30:34.139249+00:00",
@@ -11919,7 +11919,7 @@
   "AI": "2026-11-25T23:30:36.238745+00:00",
   "Anime": "2026-11-26T02:00:42.930736+00:00",
   "Games": "2026-11-26T02:15:29.453807+00:00",
-  "Tech": "2026-11-26T02:45:29.462093+00:00"
+  "Tech": "2026-11-26T03:00:51.675562+00:00"
  },
  "digest_day": "2026-11-25",
  "weekly_day": "2026-11-20"
