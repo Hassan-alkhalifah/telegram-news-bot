@@ -3598,17 +3598,6 @@
    "summary": "Canva is rolling out new settings to purge most generative AI from its app.",
    "title_ar": "Canva تتيح للمستخدمين إيقاف تشغيل معظم ميزات الذكاء الاصطناعي التوليدي"
   },
-  "engadget.com/2321464/elon-musk-accuses-ukraine-of-being-untruthful-about-starshield-disruptions": {
-   "at": "2026-11-19T08:55:50.758400+00:00",
-   "title": "Elon Musk accuses Ukraine of being 'untruthful' about Starshield disruptions",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.engadget.com/2321464/elon-musk-accuses-ukraine-of-being-untruthful-about-starshield-disruptions/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Elon Musk has accused Ukraine president Volodymyr Zelenskyy of being 'untruthful' about Starshield disruptions.",
-   "title_ar": ""
-  },
   "engadget.com/2321922/here-are-some-photos-of-elon-musk-who-is-not-maga": {
    "at": "2026-11-19T17:30:53.212437+00:00",
    "title": "Here are some photos of Elon Musk, who is 'not MAGA'",
@@ -6236,6 +6225,17 @@
    "score": 0,
    "sources": 1,
    "summary": "WhatsApp has increased the group chat limit from 1,024 to 1,500 members, reports WABetaInfo.",
+   "title_ar": ""
+  },
+  "gsmarena.com/whatsapp_scheduled_messages_are_now_rolling_out_globally-news-75645.php": {
+   "at": "2026-11-26T09:00:45.872490+00:00",
+   "title": "WhatsApp scheduled messages are now rolling out globally",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/whatsapp_scheduled_messages_are_now_rolling_out_globally-news-75645.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "WhatsApp started testing scheduled messages with some Android beta users in October, and expanded that to iOS a few weeks later.",
    "title_ar": ""
   },
   "gsmarena.com/whatsapp_starts_rolling_out_stickers_with_sound_heres_how_they_work-news-75640.php": {
