@@ -672,17 +672,6 @@
    "summary": "Apple has responded to Epic Games’ filing from last Friday, pushing back against accusations that it improperly withheld more than 122,000 documents related to its proposed App Store commissions.",
    "title_ar": "Apple ترد على Epic بشأن مزاعم حجبها 122 ألف مستند"
   },
-  "9to5mac.com/2026/11/19/apple-releases-ios-27-3-public-beta-2-heres-whats-new": {
-   "at": "2026-11-19T21:45:26.976771+00:00",
-   "title": "Apple releases iOS 27.3 public beta 2, new developer beta 2 build",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/19/apple-releases-ios-27-3-public-beta-2-heres-whats-new/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple has released iOS 27.3 public beta 2 for iPhone.",
-   "title_ar": ""
-  },
   "9to5mac.com/2026/11/19/chatgpt-health-feature-will-soon-work-with-mac-app-dots-more": {
    "at": "2026-11-19T23:15:31.964553+00:00",
    "title": "ChatGPT Health feature now works with Mac app, Dots, more",
@@ -704,17 +693,6 @@
    "sources": 1,
    "summary": "Benjamin and Chance discuss their HomeView experiences and Siri reliability issues after a week of the product being in the world.",
    "title_ar": "مشاكل HomeView، ميزة فتح القفل بالوجه في iPhone Duo، وتغييرات صلاحية الوصول الكامل للقرص في macOS"
-  },
-  "9to5mac.com/2026/11/19/ipados-27-3-watchos-27-3-more-get-public-beta-2-heres-whats-new": {
-   "at": "2026-11-19T21:45:26.976771+00:00",
-   "title": "iPadOS 27.3, watchOS 27.3, more get public beta 2, here’s what’s new",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/19/ipados-27-3-watchos-27-3-more-get-public-beta-2-heres-whats-new/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple has released public beta 2 for iPadOS 27.3 alongside a variety of other 27.3 updates.",
-   "title_ar": ""
   },
   "9to5mac.com/2026/11/19/macos-27-3-public-beta-2-now-available-heres-everything-new": {
    "at": "2026-11-19T23:15:31.964553+00:00",
@@ -1684,17 +1662,6 @@
    "summary": "The 22nd volume of Tatsuki Fujimoto's Chainsaw Man manga ranked at #4 on The New York Times' monthly Graphic Books and Manga bestseller list released in...",
    "title_ar": ""
   },
-  "animenewsnetwork.com/news/2026-11-19/grotesqqque-anime-film-screens-in-los-angeles-on-december-3-for-1-week-only/.243997": {
-   "at": "2026-11-19T22:00:41.507260+00:00",
-   "title": "Grotesqqque Anime Film Screens in Los Angeles on December 3 for 1-Week Only",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-19/grotesqqque-anime-film-screens-in-los-angeles-on-december-3-for-1-week-only/.243997",
-   "score": 1,
-   "sources": 1,
-   "summary": "Omnibus film with 3 stories screens at Alamo Drafthouse Cinema Downtown Los Angeles",
-   "title_ar": "عرض فيلم الأنمي Grotesqqque في لوس أنجلوس في 3 ديسمبر لمدة أسبوع واحد فقط"
-  },
   "animenewsnetwork.com/news/2026-11-19/i-am-the-only-one-who-is-not-attacked-in-the-world-filled-with-zombies-anime-reveals-more-cast-/.244007": {
    "at": "2026-11-20T04:00:43.092861+00:00",
    "title": "'I am the only one who is not attacked in the world filled with zombies' Anime Reveals More Cast, January 1 TV Debut",
@@ -2465,6 +2432,17 @@
    "summary": "Godzilla Minus Zero stays at #1 in 3rd weekend",
    "title_ar": "افتتاح فيلم Witch on the Holy Night في المركز الثاني"
   },
+  "animenewsnetwork.com/news/2026-11-26/ao-no-hana-utsuwa-no-mori-live-action-series-gets-2-episode-spinoff-drama-on-december-21/.244150": {
+   "at": "2026-11-26T22:00:44.942922+00:00",
+   "title": "Ao no Hana Utsuwa no Mori Live-Action Series Gets 2-Episode Spinoff Drama on December 21",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-26/ao-no-hana-utsuwa-no-mori-live-action-series-gets-2-episode-spinoff-drama-on-december-21/.244150",
+   "score": 0,
+   "sources": 1,
+   "summary": "Ao no Hana Utsuwa no Mori Spinoff Ano Ko no Kuchibeni features new story, cast members; main series also to end on December 17",
+   "title_ar": ""
+  },
   "animenewsnetwork.com/news/2026-11-26/arcanadea-tv-anime-casts-m.a.o-ai-kakuma/.244225": {
    "at": "2026-11-26T13:45:39.277541+00:00",
    "title": "Arcanadea TV Anime Casts M.A.O, Ai Kakuma",
@@ -2497,6 +2475,17 @@
    "sources": 1,
    "summary": "Shige Fukase directs series at Studio Lings",
    "title_ar": "مانغا Killer Shark in Another World للمؤلف kuboken تحصل على مسلسلات أنمي متلفز"
+  },
+  "animenewsnetwork.com/news/2026-11-26/live-action-darwin-game-film-trailer-reveals-more-cast/.244219": {
+   "at": "2026-11-26T22:00:44.942922+00:00",
+   "title": "Live-Action Darwin's Game Film's Trailer Reveals More Cast",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-26/live-action-darwin-game-film-trailer-reveals-more-cast/.244219",
+   "score": 0,
+   "sources": 1,
+   "summary": "Raul, Gaku Sano, Haruse Akune, Hinano Nakayama, Kōki Maeda, Kentarō Maeda join cast",
+   "title_ar": ""
   },
   "animenewsnetwork.com/news/2026-11-26/live-action-quiztopia-series-adds-13-cast-members/.244100": {
    "at": "2026-11-26T19:30:37.413511+00:00",
@@ -8933,17 +8922,6 @@
    "summary": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
    "title_ar": "إيلون ماسك يقول إن SpaceX تمتلك خطة للقضاء على مناطق انعدام إرسال الهواتف المحمولة"
   },
-  "techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300": {
-   "at": "2026-11-19T22:00:41.507260+00:00",
-   "title": "Meta’s new Muse Charm device may cost $300",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-   "title_ar": ""
-  },
   "techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers": {
    "at": "2026-11-20T06:45:26.852719+00:00",
    "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
@@ -9560,17 +9538,6 @@
    "summary": "Amazon and Meta are in talks to bring back Muse, Meta's AI shopping agent that Amazon kicked off its platform in September.",
    "title_ar": ""
   },
-  "the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool": {
-   "at": "2026-11-19T21:45:26.976771+00:00",
-   "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/",
-   "score": 1,
-   "sources": 1,
-   "summary": "An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an \"attacker.\" The agent recognized the conflict with its assigned…",
-   "title_ar": "وكيل ذكاء اصطناعي من OpenAI مُكلّف بمهمة كتابة بسيطة يقرر من تلقاء نفسه بناء أداة سرية لمراقبة البريد الإلكتروني"
-  },
   "the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea": {
    "at": "2026-11-25T20:30:37.525264+00:00",
    "title": "Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\"",
@@ -10153,17 +10120,6 @@
    "sources": 2,
    "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative.",
    "title_ar": "لجنة الاتصالات الفيدرالية الموافقة على خطة SpaceX لإطلاق ما يصل إلى مليون قمر صناعي لمراكز البيانات في الفضاء"
-  },
-  "theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app": {
-   "at": "2026-11-19T22:00:41.507260+00:00",
-   "title": "Meta now sells 3D movies on Quest VR headsets",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
-   "score": 0,
-   "sources": 1,
-   "summary": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today.",
-   "title_ar": ""
   },
   "theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing": {
    "at": "2026-11-19T22:45:25.559686+00:00",
