@@ -771,17 +771,6 @@
    "summary": "Benjamin and Chance discuss their HomeView experiences and Siri reliability issues after a week of the product being in the world.",
    "title_ar": "مشاكل HomeView، ميزة فتح القفل بالوجه في iPhone Duo، وتغييرات صلاحية الوصول الكامل للقرص في macOS"
   },
-  "9to5mac.com/2026/11/19/ios-27-3-beta-can-cause-homeview-issues-apple-confirms": {
-   "at": "2026-11-19T16:00:41.986617+00:00",
-   "title": "iOS 27.3 beta can cause HomeView issues, Apple confirms",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/19/ios-27-3-beta-can-cause-homeview-issues-apple-confirms/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple’s new HomeView just launched last Friday, but some early adopters reported issues with Siri AI in their first days of use.",
-   "title_ar": ""
-  },
   "9to5mac.com/2026/11/19/ipados-27-3-three-new-features-coming-to-your-ipad": {
    "at": "2026-11-19T16:15:29.829080+00:00",
    "title": "iPadOS 27.3: Three new features coming to your iPad",
@@ -813,17 +802,6 @@
    "score": 0,
    "sources": 1,
    "summary": "After releasing developer beta 2 of macOS 27.3 earlier this week, the company is now rolling out the public beta for users looking to try the new features ahead of next month’s official release.",
-   "title_ar": ""
-  },
-  "9to5mac.com/2026/11/19/microsoft-to-do-is-retiring-including-mac-and-ios-apps": {
-   "at": "2026-11-19T16:00:41.986617+00:00",
-   "title": "Microsoft To Do is retiring, including Mac and iOS apps",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/19/microsoft-to-do-is-retiring-including-mac-and-ios-apps/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Microsoft is saying goodbye to its task management service To Do, including the Mac and iOS apps.",
    "title_ar": ""
   },
   "9to5mac.com/2026/11/19/next-years-iphone-pro-redesign-sounds-like-exactly-what-ive-been-wanting": {
@@ -5312,6 +5290,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Grand Theft Auto VI achieved $3.79 billion in day one retail sales after selling 32.5 …",
+   "title_ar": ""
+  },
+  "gematsu.com/2026/11/hark-the-ghoul-launches-january-21-2027-for-ps5-xbox-series-switch-2-switch-and-pc": {
+   "at": "2026-11-26T16:00:46.269557+00:00",
+   "title": "HARK THE GHOUL launches January 21, 2027 for PS5, Xbox Series, Switch 2, Switch, and PC",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.gematsu.com/2026/11/hark-the-ghoul-launches-january-21-2027-for-ps5-xbox-series-switch-2-switch-and-pc",
+   "score": 0,
+   "sources": 1,
+   "summary": "Dungeon crawler HARK THE GHOUL will launch for PlayStation 5, Xbox Series, Switch 2, Switch, …",
    "title_ar": ""
   },
   "gematsu.com/2026/11/kendo-rage-1-2-announced-for-ps5-switch-and-pc": {
@@ -9857,6 +9846,17 @@
    "summary": "Users can schedule messages from 10 minutes later to after 14 days.",
    "title_ar": ""
   },
+  "techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue": {
+   "at": "2026-11-26T16:00:46.269557+00:00",
+   "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+   "score": 1,
+   "sources": 1,
+   "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+   "title_ar": "مع طرح Anthropic للاكتتاب العام، لعبة Grand Theft Auto VI تثبت سبب عدم اعتبار الكفاءة فضيلة"
+  },
   "technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument": {
    "at": "2026-11-23T18:15:30.436100+00:00",
    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
@@ -10263,17 +10263,6 @@
    "sources": 1,
    "summary": "Anthropic has officially gone public.",
    "title_ar": "Anthropic تبدأ التداول في وول ستريت"
-  },
-  "theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure": {
-   "at": "2026-11-19T16:00:41.986617+00:00",
-   "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-   "score": 2,
-   "sources": 1,
-   "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public…",
-   "title_ar": ""
   },
   "theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation": {
    "at": "2026-11-20T01:30:35.363236+00:00",
@@ -11773,7 +11762,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-26T12:00:44.889835+00:00",
+  "AI": "2026-11-26T16:00:46.269557+00:00",
   "Anime": "2026-11-26T15:15:29.778198+00:00",
   "Games": "2026-11-26T15:45:36.078344+00:00",
   "Tech": "2026-11-26T15:15:29.778198+00:00"
