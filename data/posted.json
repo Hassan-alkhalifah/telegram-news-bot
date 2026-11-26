@@ -826,17 +826,6 @@
    "summary": "After releasing developer beta 2 of macOS 27.3 earlier this week, the company is now rolling out the public beta for users looking to try the new features ahead of next month’s official release.",
    "title_ar": ""
   },
-  "9to5mac.com/2026/11/19/major-privacy-breaches-reported-in-muse-ai-including-bank-balances": {
-   "at": "2026-11-19T12:45:28.204672+00:00",
-   "title": "Major privacy breaches reported in Muse AI, including bank balances",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/19/major-privacy-breaches-reported-in-muse-ai-including-bank-balances/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Meta employees have expressed concerns about what appear to be major privacy breaches when using Muse , currently the second most popular free iPhone app in the App Store with over 10 million…",
-   "title_ar": "الإبلاغ عن انتهاكات رئيسية للخصوصية في تطبيق Muse AI تشمل أرصدة الحسابات البنكية"
-  },
   "9to5mac.com/2026/11/19/microsoft-to-do-is-retiring-including-mac-and-ios-apps": {
    "at": "2026-11-19T16:00:41.986617+00:00",
    "title": "Microsoft To Do is retiring, including Mac and iOS apps",
@@ -2596,6 +2585,17 @@
    "sources": 1,
    "summary": "Godzilla Minus Zero stays at #1 in 3rd weekend",
    "title_ar": "افتتاح فيلم Witch on the Holy Night في المركز الثاني"
+  },
+  "animenewsnetwork.com/news/2026-11-26/fool-night-anime-reveals-3-more-cast-members/.244230": {
+   "at": "2026-11-26T12:45:28.844808+00:00",
+   "title": "Fool Night Anime Reveals 3 More Cast Members",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-26/fool-night-anime-reveals-3-more-cast-members/.244230",
+   "score": 0,
+   "sources": 1,
+   "summary": "Entire series debuted on Netflix worldwide on Thursday",
+   "title_ar": ""
   },
   "animenewsnetwork.com/news/2026-11-26/shin-oishinbo-tv-anime-reveals-special-promo-video/.244229": {
    "at": "2026-11-26T11:45:28.050490+00:00",
@@ -4806,17 +4806,6 @@
    "score": 0,
    "sources": 1,
    "summary": "With World of Warcraft: Forever's first raids set to release in early December, developers of the game have spoken about endgame itemisation and their desire to disrupt the \"best-in-slot\" (BIS)…",
-   "title_ar": ""
-  },
-  "eurogamer.net/world-of-warcraft-forever-secret-hunter-pet-green-cat": {
-   "at": "2026-11-19T12:45:28.204672+00:00",
-   "title": "The hunt for World of Warcraft: Forever secrets continue with the discovery of an elusive pet",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.eurogamer.net/world-of-warcraft-forever-secret-hunter-pet-green-cat",
-   "score": 0,
-   "sources": 1,
-   "summary": "The search for secrets in World of Warcraft: Forever continues ever onwards, with a new breakthrough coming to light in recent days.",
    "title_ar": ""
   },
   "eurogamer.net/wow-forever-weekly-players-15-years": {
@@ -10308,17 +10297,6 @@
    "summary": "Anthropic has officially gone public.",
    "title_ar": "Anthropic تبدأ التداول في وول ستريت"
   },
-  "theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button": {
-   "at": "2026-11-19T12:45:28.204672+00:00",
-   "title": "Canva adds an AI ‘off’ button",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
-   "score": 0,
-   "sources": 1,
-   "summary": "Canva will now allow you to turn off its generative AI features.",
-   "title_ar": ""
-  },
   "theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure": {
    "at": "2026-11-19T16:00:41.986617+00:00",
    "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
@@ -10901,6 +10879,17 @@
    "sources": 1,
    "summary": "Cooler Master's Hyper 212 Halo air cooler is on sale for $15, making it one of the most affordable name-brandnd tower-style CPU coolers available right now.",
    "title_ar": "مبرد المعالج الهوائي الأسطوري Cooler Master Hyper 212 Halo ينخفض إلى أدنى سعر له على الإطلاق عند 15 دولاراً — حافظ على برودة معالج AMD أو Intel بتكلفة منخفضة"
+  },
+  "tomshardware.com/pc-components/cpus/amds-dominant-ryzen-7-9800x3d-plummets-to-all-time-low-of-usd369-at-amazon-astonishing-gaming-performance-for-am5": {
+   "at": "2026-11-26T12:45:28.844808+00:00",
+   "title": "AMD Ryzen 7 9800X3D plummets to an all-time low of $369 at Amazon",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/pc-components/cpus/amds-dominant-ryzen-7-9800x3d-plummets-to-all-time-low-of-usd369-at-amazon-astonishing-gaming-performance-for-am5",
+   "score": 1,
+   "sources": 1,
+   "summary": "One of the very best gaming CPUs on the market is now cheaper than ever.",
+   "title_ar": "معالج AMD Ryzen 7 9800X3D ينخفض إلى أدنى مستوى على الإطلاق ليصل إلى 369 دولاراً على متجر Amazon"
   },
   "tomshardware.com/pc-components/cpus/electric-intel-core-ultra-7-270k-plus-deal-knocks-it-down-to-just-usd232-25-percent-discount-marks-a-new-all-time-low-for-arrow-lake-refresh": {
    "at": "2026-11-23T20:15:29.894960+00:00",
@@ -11831,7 +11820,7 @@
   "AI": "2026-11-26T12:00:44.889835+00:00",
   "Anime": "2026-11-26T09:45:27.761379+00:00",
   "Games": "2026-11-26T02:15:29.453807+00:00",
-  "Tech": "2026-11-26T12:30:39.562055+00:00"
+  "Tech": "2026-11-26T12:45:28.844808+00:00"
  },
  "digest_day": "2026-11-25",
  "weekly_day": "2026-11-20"
