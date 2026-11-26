@@ -9648,6 +9648,17 @@
    "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
    "title_ar": "مع طرح Anthropic للاكتتاب العام، لعبة Grand Theft Auto VI تثبت سبب عدم اعتبار الكفاءة فضيلة"
   },
+  "techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years": {
+   "at": "2026-11-26T19:45:29.315478+00:00",
+   "title": "X finally gets parental controls after 20 years",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
+   "title_ar": ""
+  },
   "technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument": {
    "at": "2026-11-23T18:15:30.436100+00:00",
    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
@@ -9812,6 +9823,17 @@
    "sources": 1,
    "summary": "The FCC has authorized SpaceX to deploy up to 1 million Starmind satellites to process AI data as orbital data centers.",
    "title_ar": ""
+  },
+  "the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it": {
+   "at": "2026-11-26T19:45:29.315478+00:00",
+   "title": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Complexity theorist and former OpenAI researcher Scott Aaronson argues that AI's recent math breakthroughs matter far beyond academia.",
+   "title_ar": "باحث OpenAI السابق يقول إن إثبات فرضية ريمان أقل أهمية من حقيقة أن نظام الذكاء الاصطناعي يستطيع إنتاجه"
   },
   "the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working": {
    "at": "2026-11-20T19:15:29.262790+00:00",
@@ -11597,7 +11619,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-26T17:45:30.596718+00:00",
+  "AI": "2026-11-26T19:45:29.315478+00:00",
   "Anime": "2026-11-26T17:30:41.162456+00:00",
   "Games": "2026-11-26T18:45:25.829826+00:00",
   "Tech": "2026-11-26T19:15:28.961267+00:00"
