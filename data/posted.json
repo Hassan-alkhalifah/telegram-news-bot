@@ -4203,6 +4203,17 @@
    "summary": "The IWGB Rockstar Game Workers Union will continue to organize after only a quarter of workers voted in favor of a formal deal with the studio.",
    "title_ar": ""
   },
+  "engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia": {
+   "at": "2026-11-26T18:30:39.854681+00:00",
+   "title": "NVIDIA reportedly halts AI chip shipments to Southeast Asia",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/",
+   "score": 0,
+   "sources": 1,
+   "summary": "In the same week that NVIDIA reinstated Jensen Huang as its CEO, the company has reportedly also blocked shipments to Southeast Asia.",
+   "title_ar": ""
+  },
   "eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed": {
    "at": "2026-11-22T17:30:34.644514+00:00",
    "title": "Binding of Isaac dev pulls AI-generated music from Repentance+ after players expose it",
@@ -6050,6 +6061,17 @@
    "sources": 1,
    "summary": "A new leak has surfaced online, allegedly detailing and even depicting the unannounced vivo S70 Pro.",
    "title_ar": "تسريبات هاتف vivo S70 Pro/V90 Pro تظهر مع صورة حقيقية ورقة المواصفات الأساسية"
+  },
+  "gsmarena.com/vivo_x500s_rumored_to_launch_with_dimensity_9600_pro-news-75654.php": {
+   "at": "2026-11-26T18:30:39.854681+00:00",
+   "title": "vivo X500s rumored to launch with Dimensity 9600 Pro",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.gsmarena.com/vivo_x500s_rumored_to_launch_with_dimensity_9600_pro-news-75654.php",
+   "score": 1,
+   "sources": 1,
+   "summary": "The vivo X500 series currently consists of three models – the X500, X500 Pro and X500 Pro Max but the last few weeks saw some leaks about a fourth X500 series member – the X500s.",
+   "title_ar": "شائعات عن إطلاق vivo X500s بمعالج Dimensity 9600 Pro"
   },
   "gsmarena.com/vivo_y21s_5g_y11s_5g_y05s_4g_specs_and_images_leak-news-75584.php": {
    "at": "2026-11-22T02:45:35.983045+00:00",
@@ -9208,17 +9230,6 @@
    "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
    "title_ar": "شركة Everful التابعة لتنفيذ سابق في Alibaba تجمع 48.5 مليون دولار لربط تجار التجزئة بالمصانع الصينية"
   },
-  "techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you": {
-   "at": "2026-11-19T18:15:28.452295+00:00",
-   "title": "Google gives Gemini the ability to use your Mac for you",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-   "title_ar": "جوجل تمنح Gemini القدرة على استخدام جهاز Mac نيابة عنك"
-  },
   "techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says": {
    "at": "2026-11-19T18:45:27.645489+00:00",
    "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
@@ -11754,7 +11765,7 @@
   "AI": "2026-11-26T17:45:30.596718+00:00",
   "Anime": "2026-11-26T17:30:41.162456+00:00",
   "Games": "2026-11-26T18:15:26.013929+00:00",
-  "Tech": "2026-11-26T18:00:45.953379+00:00"
+  "Tech": "2026-11-26T18:30:39.854681+00:00"
  },
  "digest_day": "2026-11-26",
  "weekly_day": "2026-11-20"
