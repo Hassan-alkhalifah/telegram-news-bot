@@ -1750,17 +1750,6 @@
    "summary": "Idol group member plays Saku's childhood friend Rentarō Akizuki in March 2027 film",
    "title_ar": ""
   },
-  "animenewsnetwork.com/news/2026-11-19/masanao-kawajiri-cherry-and-virgin-film-wins-at-aichi-nagoya-intl-animation-film-fest/.243991": {
-   "at": "2026-11-19T17:30:53.212437+00:00",
-   "title": "Masanao Kawajiri's Cherry and Virgin Film Wins at Aichi Nagoya Int'l Animation Film Fest",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-19/masanao-kawajiri-cherry-and-virgin-film-wins-at-aichi-nagoya-intl-animation-film-fest/.243991",
-   "score": 1,
-   "sources": 1,
-   "summary": "2nd ANIAFF took place from November 13-18",
-   "title_ar": "فوز فيلم Cherry and Virgin للمخرج Masanao Kawajiri في مهرجان Aichi Nagoya الدولي لأفلام الرسوم المتحركة"
-  },
   "animenewsnetwork.com/news/2026-11-19/omoi-announces-digital-release-of-sho-asahina-tsuyo-girl-manga-in-january/.243981": {
    "at": "2026-11-19T21:15:27.638906+00:00",
    "title": "Omoi Announces Digital Release of Shō Asahina's Tsuyo-Girl Manga in January",
@@ -3565,17 +3554,6 @@
    "summary": "Long drives call for every trick you can get.",
    "title_ar": "هذه الميزة المفيدة في Apple Watch تعمل بسلاسة مع Apple CarPlay"
   },
-  "engadget.com/2321922/here-are-some-photos-of-elon-musk-who-is-not-maga": {
-   "at": "2026-11-19T17:30:53.212437+00:00",
-   "title": "Here are some photos of Elon Musk, who is 'not MAGA'",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.engadget.com/2321922/here-are-some-photos-of-elon-musk-who-is-not-maga/",
-   "score": 0,
-   "sources": 1,
-   "summary": "He's not even sure what that means, guys.",
-   "title_ar": ""
-  },
   "engadget.com/2321965/you-wont-find-this-fan-favorite-feature-in-gta-6": {
    "at": "2026-11-19T17:45:42.028402+00:00",
    "title": "You won't find this fan favorite feature in GTA 6",
@@ -4432,6 +4410,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Surprise, surprise - GTA 6 is officially the biggest entertainment launch of all time, surpassing its predecessor's 13-year-long record and the already optimistic analyst estimates.",
+   "title_ar": ""
+  },
+  "eurogamer.net/gta-6-boxed-physical-sales-uk": {
+   "at": "2026-11-26T17:45:30.596718+00:00",
+   "title": "GTA 6 causes surge in UK physical game sales, despite there being no disc in the box",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/gta-6-boxed-physical-sales-uk",
+   "score": 0,
+   "sources": 1,
+   "summary": "Grand Theft Auto 6 has had a huge effect on physical game sales in the UK, despite not actually containing a disc in the box.",
    "title_ar": ""
   },
   "eurogamer.net/gta-6-call-of-duty-fortnite-fc-27-daily-players-alinea": {
@@ -10066,6 +10055,17 @@
    "summary": "OpenAI's GPT-6.2 Astra independently produced a machine-verifiable Lean proof of Smoktunowicz's gap theorem, the first of its kind according to Vals AI.",
    "title_ar": "GPT-6.2 Astra يحل نظرية رياضية لم نستطع أي ذكاء اصطناعي آخر فك طلاسمها، ثم يبتكر استراتيجية إثبات خاصة به"
   },
+  "the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error": {
+   "at": "2026-11-26T17:45:30.596718+00:00",
+   "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
+   "score": 1,
+   "sources": 1,
+   "summary": "OpenAI says a billing bug gave GPT-6.2 users incorrect discounts.",
+   "title_ar": "مستخدمو GPT-6.2 Astra يصلون الآن إلى الحدود بنسبة 40% أسرع بعد أن قامت OpenAI بتصحيح خطأ في التسعير"
+  },
   "the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft": {
    "at": "2026-11-21T11:30:34.370486+00:00",
    "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
@@ -11795,7 +11795,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-26T16:45:36.683564+00:00",
+  "AI": "2026-11-26T17:45:30.596718+00:00",
   "Anime": "2026-11-26T17:30:41.162456+00:00",
   "Games": "2026-11-26T17:15:29.198286+00:00",
   "Tech": "2026-11-26T17:00:43.760702+00:00"
