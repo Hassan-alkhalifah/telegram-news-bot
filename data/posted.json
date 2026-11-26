@@ -2597,6 +2597,17 @@
    "summary": "Godzilla Minus Zero stays at #1 in 3rd weekend",
    "title_ar": "افتتاح فيلم Witch on the Holy Night في المركز الثاني"
   },
+  "animenewsnetwork.com/news/2026-11-26/the-final-boss-prince-is-somehow-obsessed-with-the-chubby-villainess-tv-anime-reveals-january-1-/.244224": {
+   "at": "2026-11-26T10:45:36.053024+00:00",
+   "title": "The Final-Boss Prince is Somehow Obsessed with the Chubby Villainess TV Anime Reveals January 1 Debut in Video",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-26/the-final-boss-prince-is-somehow-obsessed-with-the-chubby-villainess-tv-anime-reveals-january-1-/.244224",
+   "score": 0,
+   "sources": 1,
+   "summary": "New visual, more cast, theme song artists also revealed",
+   "title_ar": ""
+  },
   "arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar": {
    "at": "2026-11-20T22:15:27.064754+00:00",
    "title": "Google rolls out new search homepage with AI chat history and no search button",
@@ -11320,6 +11331,17 @@
    "summary": "China's memory output comes from CXMT and YMTC, a few smaller fabs, and Chinese Samsung and SK hynix plants, but no Chinese maker has HBM in volume yet.",
    "title_ar": "شركات الذاكرة العملاقة في الصين تسجل عاماً قياسياً مع شحن Huawei لذكريات HBM بدون مصدر معلن"
   },
+  "tomshardware.com/tech-industry/semiconductors/tsmc-files-for-usd22-6-billion-texas-fab-campus-with-local-tax-breaks-just-one-county-over-from-musks-terafab-proposed-brazos-county-plant-wont-make-2nm-class-chips-until-2031": {
+   "at": "2026-11-26T10:45:36.053024+00:00",
+   "title": "TSMC’s $22.6 billion Texas plan wouldn’t make 2nm-or-better chips until 2031",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-files-for-usd22-6-billion-texas-fab-campus-with-local-tax-breaks-just-one-county-over-from-musks-terafab-proposed-brazos-county-plant-wont-make-2nm-class-chips-until-2031",
+   "score": 1,
+   "sources": 1,
+   "summary": "TSMC’s Texas filing describes a $22.6 billion project in Brazos County for 2nm or more advanced chips, starting production in 2031.",
+   "title_ar": "خطة TSMC البالغة 22.6 مليار دولار في تكساس لن تنتج شرائح بدقة 2 نانومتر أو أفضل حتى عام 2031"
+  },
   "tomshardware.com/video-games/pc-gaming/rockstar-nukes-15-year-olds-gta-6-recompilation-project-discord-and-github-servers-taken-down-project-leonida-had-almost-180-000-discord-members-host-account-banned-for-two-years": {
    "at": "2026-11-24T16:30:35.982555+00:00",
    "title": "Rockstar nukes 15-year-old’s GTA 6 recompilation project, Discord and GitHub servers taken down",
@@ -11562,17 +11584,6 @@
    "summary": "Mikami was speaking to Shift Up's CEO about AI's use in streamlining production",
    "title_ar": ""
   },
-  "videogameschronicle.com/news/rockstar-explains-why-you-cant-play-darts-in-gta-6-we-dont-have-unlimited-time": {
-   "at": "2026-11-19T10:45:28.577659+00:00",
-   "title": "Rockstar explains why you can’t play darts in GTA 6: ‘We don’t have unlimited time’",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.videogameschronicle.com/news/rockstar-explains-why-you-cant-play-darts-in-gta-6-we-dont-have-unlimited-time/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Rockstar North's co-studio head explains why the pub classic is missing",
-   "title_ar": ""
-  },
   "videogameschronicle.com/news/rockstar-is-reportedly-interested-in-a-red-dead-redemption-film-or-tv-show": {
    "at": "2026-11-24T15:30:36.342435+00:00",
    "title": "Rockstar is reportedly interested in a Red Dead Redemption film or TV show",
@@ -11798,7 +11809,7 @@
   "AI": "2026-11-25T23:30:36.238745+00:00",
   "Anime": "2026-11-26T09:45:27.761379+00:00",
   "Games": "2026-11-26T02:15:29.453807+00:00",
-  "Tech": "2026-11-26T06:45:27.379244+00:00"
+  "Tech": "2026-11-26T10:45:36.053024+00:00"
  },
  "digest_day": "2026-11-25",
  "weekly_day": "2026-11-20"
