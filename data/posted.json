@@ -1739,17 +1739,6 @@
    "summary": "Taito develops game for Switch",
    "title_ar": ""
   },
-  "animenewsnetwork.com/news/2026-11-18/youre-so-sloppy-hotta-sensei-manga-ends-in-2-chapters/.243956": {
-   "at": "2026-11-19T01:18:22.705402+00:00",
-   "title": "'You're So Sloppy, Hotta-Sensei' Manga Ends in 2 Chapters",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-18/youre-so-sloppy-hotta-sensei-manga-ends-in-2-chapters/.243956",
-   "score": 0,
-   "sources": 1,
-   "summary": "Series debuted in March 2022",
-   "title_ar": ""
-  },
   "animenewsnetwork.com/news/2026-11-19/fatal-fury-city-of-the-wolves-game-new-animated-trailer-by-masami-obari-features-laocorn/.243989": {
    "at": "2026-11-19T15:00:46.925457+00:00",
    "title": "Fatal Fury City of the Wolves Game's New Animated Trailer by Masami Ōbari Features Laocorn",
@@ -5446,6 +5435,17 @@
    "summary": "Ubisoft has laid off 166 staff across its Ubisoft Montreal and Ubisoft Quebec studios, the …",
    "title_ar": ""
   },
+  "gematsu.com/2026/11/xenoblade-chronicles-3-nintendo-switch-2-edition-overview-trailer": {
+   "at": "2026-11-26T01:30:34.139249+00:00",
+   "title": "Xenoblade Chronicles 3 – Nintendo Switch 2 Edition ‘Overview’ trailer",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.gematsu.com/2026/11/xenoblade-chronicles-3-nintendo-switch-2-edition-overview-trailer",
+   "score": 2,
+   "sources": 1,
+   "summary": "Publisher Nintendo and developer Monolith Soft have released a three-minute overview trailer for Xenoblade Chronicles …",
+   "title_ar": "عرض نظرة عامة لنسخة Xenoblade Chronicles 3 لجهاز Nintendo Switch 2"
+  },
   "gematsu.com/2026/11/yooka-laylee-and-the-impossible-lair-definitive-edition-announced-for-ps5-switch-2-and-pc": {
    "at": "2026-11-25T17:15:30.148843+00:00",
    "title": "Yooka-Laylee and the Impossible Lair: Definitive Edition announced for PS5, Switch 2, and PC",
@@ -8295,6 +8295,17 @@
    "summary": "Update: Release date confirmed! : Here on Nintendo Life, we first heard about the laid-back co-op farming sim Coral Island back in 2021, when it successfully hit its Kickstarter goal .",
    "title_ar": ""
   },
+  "nintendolife.com/news/2026/11/the-legend-of-zelda-ocarina-of-time-switch-2-updated-version-1-1-2-here-are-the-patch-notes": {
+   "at": "2026-11-26T01:30:34.139249+00:00",
+   "title": "The Legend Of Zelda: Ocarina Of Time Switch 2 Updated (Version 1.1.2), Here Are The Patch Notes",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/the-legend-of-zelda-ocarina-of-time-switch-2-updated-version-1-1-2-here-are-the-patch-notes",
+   "score": 0,
+   "sources": 1,
+   "summary": "It resolves multiple bugs.",
+   "title_ar": ""
+  },
   "nintendolife.com/news/2026/11/the-reason-behind-pokemons-mysterious-social-media-countdown-has-been-revealed": {
    "at": "2026-11-24T23:15:28.234374+00:00",
    "title": "The Reason Behind Pokémon's Mysterious Social Media Countdown Has Been Revealed",
@@ -9197,6 +9208,17 @@
    "summary": "CDPR signs collaboration.",
    "title_ar": ""
   },
+  "pushsquare.com/news/2026/11/the-witcher-4-is-not-a-ps5-exclusive-cdpr-clarifies-after-sony-deal": {
+   "at": "2026-11-26T01:30:34.139249+00:00",
+   "title": "The Witcher 4 Is Not a PS5 Exclusive, CDPR Clarifies After Sony Deal",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pushsquare.com/news/2026/11/the-witcher-4-is-not-a-ps5-exclusive-cdpr-clarifies-after-sony-deal",
+   "score": 0,
+   "sources": 1,
+   "summary": "Well, duh.",
+   "title_ar": ""
+  },
   "pushsquare.com/news/2026/11/these-7-ps5-games-launched-on-the-same-day-as-gta-6-like-mad-men": {
    "at": "2026-11-20T17:00:44.397019+00:00",
    "title": "These 7 PS5 Games Launched on the Same Day as GTA 6 Like Mad Men",
@@ -9251,17 +9273,6 @@
    "sources": 1,
    "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
    "title_ar": "ميزة الذكاء الاصطناعي من Google في بحث Google تحصل على وضع التصفح المتخفي الخاص بها"
-  },
-  "techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor": {
-   "at": "2026-11-19T01:18:22.705402+00:00",
-   "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
-   "title_ar": "Snapchat يتيح الآن للمطورين بناء عدسات الواقع المعزز (AR) باستخدام مساعدين الذكاء الاصطناعي مثل Claude Code و Cursor"
   },
   "techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price": {
    "at": "2026-11-19T17:45:42.028402+00:00",
@@ -11907,7 +11918,7 @@
  "topic_last_posted": {
   "AI": "2026-11-25T23:30:36.238745+00:00",
   "Anime": "2026-11-26T01:15:37.962347+00:00",
-  "Games": "2026-11-26T00:45:28.750167+00:00",
+  "Games": "2026-11-26T01:30:34.139249+00:00",
   "Tech": "2026-11-26T01:00:44.356158+00:00"
  },
  "digest_day": "2026-11-25",
