@@ -749,17 +749,6 @@
    "summary": "Jude Law and Andrew Garfield star as Siegfried & Roy, the famous magicians, in Apple TV’s forthcoming series Wild Things.",
    "title_ar": "Apple TV يكشف عن مسلسل جديد يجمع Andrew Garfield و Jude Law بدور ساحرين"
   },
-  "9to5mac.com/2026/11/19/canva-introduces-new-controls-to-hide-generative-ai-features": {
-   "at": "2026-11-19T12:30:36.241327+00:00",
-   "title": "Canva introduces new controls to hide generative AI features",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/19/canva-introduces-new-controls-to-hide-generative-ai-features/",
-   "score": 0,
-   "sources": 1,
-   "summary": "In light of growing pushback from users who want more control over how AI is integrated into their apps (if at all), Canva is introducing new settings that let them hide generative AI features and…",
-   "title_ar": ""
-  },
   "9to5mac.com/2026/11/19/chatgpt-health-feature-will-soon-work-with-mac-app-dots-more": {
    "at": "2026-11-19T23:15:31.964553+00:00",
    "title": "ChatGPT Health feature now works with Mac app, Dots, more",
@@ -1594,6 +1583,28 @@
    "score": 0,
    "sources": 1,
    "summary": "WhatsApp is currently testing a new sticker format that plays a sound when the recipient taps on it.",
+   "title_ar": ""
+  },
+  "9to5mac.com/2026/11/26/check-out-this-beautiful-wallpaper-to-celebrate-the-opening-of-the-latest-apple-store": {
+   "at": "2026-11-26T12:30:39.562055+00:00",
+   "title": "Check out this beautiful wallpaper to celebrate the opening of the latest Apple Store",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/26/check-out-this-beautiful-wallpaper-to-celebrate-the-opening-of-the-latest-apple-store/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Apple has quietly announced the upcoming opening of its latest retail store in Hyderabad, India .",
+   "title_ar": "شاهد هذه الخلفية الجميلة احتفالاً بافتتاح أحدث متجر لشركة Apple"
+  },
+  "9to5mac.com/2026/11/26/x-finally-gets-six-parental-controls-for-teen-accounts-but-kids-must-consent": {
+   "at": "2026-11-26T12:30:39.562055+00:00",
+   "title": "X finally gets six parental controls for teen accounts, but kids must consent",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5mac.com/2026/11/26/x-finally-gets-six-parental-controls-for-teen-accounts-but-kids-must-consent/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Most social media platforms have long had parental controls to give oversight into the ways teens are using the service and to ensure they get appropriate content in their feeds.",
    "title_ar": ""
   },
   "animecorner.me/at-2500-in-akasaka-gets-anime": {
@@ -3587,17 +3598,6 @@
    "summary": "Long drives call for every trick you can get.",
    "title_ar": "هذه الميزة المفيدة في Apple Watch تعمل بسلاسة مع Apple CarPlay"
   },
-  "engadget.com/2321318/canva-will-let-users-switch-off-most-generative-ai": {
-   "at": "2026-11-19T12:30:36.241327+00:00",
-   "title": "Canva will let users switch off most generative AI",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2321318/canva-will-let-users-switch-off-most-generative-ai/",
-   "score": 2,
-   "sources": 2,
-   "summary": "Canva is rolling out new settings to purge most generative AI from its app.",
-   "title_ar": "Canva تتيح للمستخدمين إيقاف تشغيل معظم ميزات الذكاء الاصطناعي التوليدي"
-  },
   "engadget.com/2321922/here-are-some-photos-of-elon-musk-who-is-not-maga": {
    "at": "2026-11-19T17:30:53.212437+00:00",
    "title": "Here are some photos of Elon Musk, who is 'not MAGA'",
@@ -4575,17 +4575,6 @@
    "score": 0,
    "sources": 1,
    "summary": "A Grand Theft Auto 6 player says they've been hit with a 30-day PlayStation Network ban after sending a friend a photo they took in the game's nudist resort.",
-   "title_ar": ""
-  },
-  "eurogamer.net/gta-6-rockstar-developers-layoffs-worries": {
-   "at": "2026-11-19T12:30:36.241327+00:00",
-   "title": "GTA 6 developers at Rockstar are worried about being laid off after shipping \"the biggest game of all time\"",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.eurogamer.net/gta-6-rockstar-developers-layoffs-worries",
-   "score": 0,
-   "sources": 1,
-   "summary": "Rockstar has successfully shipped Grand Theft Auto 6 , after years of work and more than a billion dollars spent.",
    "title_ar": ""
   },
   "eurogamer.net/gta-6-rockstar-tribunal-awaits-verdict": {
@@ -11842,7 +11831,7 @@
   "AI": "2026-11-26T12:00:44.889835+00:00",
   "Anime": "2026-11-26T09:45:27.761379+00:00",
   "Games": "2026-11-26T02:15:29.453807+00:00",
-  "Tech": "2026-11-26T12:15:26.514939+00:00"
+  "Tech": "2026-11-26T12:30:39.562055+00:00"
  },
  "digest_day": "2026-11-25",
  "weekly_day": "2026-11-20"
