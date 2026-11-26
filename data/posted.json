@@ -2685,17 +2685,6 @@
    "summary": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.",
    "title_ar": ""
   },
-  "arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show": {
-   "at": "2026-11-19T02:45:27.407290+00:00",
-   "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
-   "title_ar": "انتهاكات خصوصية أداة Muse تثير قلق موظفي Meta، وفقاً لمحادثات داخلية"
-  },
   "arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert": {
    "at": "2026-11-19T23:30:38.682295+00:00",
    "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
@@ -9824,6 +9813,17 @@
    "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model…",
    "title_ar": "Dario Amodei من شركة Anthropic يصف اتهامات التخلي عن التحكم البشري لصالح الذكاء الاصطناعي بأنها \"سخيفة\""
   },
+  "techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers": {
+   "at": "2026-11-26T02:45:29.462093+00:00",
+   "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
+   "score": 1,
+   "sources": 1,
+   "summary": "U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.",
+   "title_ar": "وزارة العدل تتهم مسؤولي أمن سيبراني سابق بالاحتيال على ضحايا برامج الفدية عبر دفع الأموال للقراصنة سرا"
+  },
   "techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space": {
    "at": "2026-11-25T21:15:28.526262+00:00",
    "title": "FCC approves SpaceX plan to put AI data centers in space",
@@ -11919,7 +11919,7 @@
   "AI": "2026-11-25T23:30:36.238745+00:00",
   "Anime": "2026-11-26T02:00:42.930736+00:00",
   "Games": "2026-11-26T02:15:29.453807+00:00",
-  "Tech": "2026-11-26T02:30:36.275276+00:00"
+  "Tech": "2026-11-26T02:45:29.462093+00:00"
  },
  "digest_day": "2026-11-25",
  "weekly_day": "2026-11-20"
