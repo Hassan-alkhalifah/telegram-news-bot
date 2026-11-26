@@ -7778,17 +7778,6 @@
    "summary": "It seems like things weren't working properly for some people until a recent patch, though",
    "title_ar": ""
   },
-  "myanimelist.net/news/74957381?_location=rss": {
-   "at": "2026-11-19T10:00:40.696048+00:00",
-   "title": "'Boukensha License wo Hakudatsu sareta Ossan dakedo' Unveils Additional Staff, Opening Theme, First Promo",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://myanimelist.net/news/74957381?_location=rss",
-   "score": 0,
-   "sources": 1,
-   "summary": "The official website of the Boukensha License wo Hakudatsu sareta Ossan dakedo, Manamusume ga Dekita node Nonbiri Jinsei wo Ouka suru (I Lost My Adventurer's License, but It's Fine Because I Have an…",
-   "title_ar": ""
-  },
   "myanimelist.net/news/74957463?_location=rss": {
    "at": "2026-11-19T10:30:35.657081+00:00",
    "title": "'Shin Oishinbo' Reveals Additional Cast, Staff, Main Promo, Winter 2027 Premiere",
@@ -10526,6 +10515,17 @@
    "score": 0,
    "sources": 1,
    "summary": "As Jensen Huang returns to his post as Nvidia's CEO with support from the Trump Administration, the Department of Commerce has added Megaspeed to its Entity List, which blocks trade with the…",
+   "title_ar": ""
+  },
+  "theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats": {
+   "at": "2026-11-26T10:00:46.168178+00:00",
+   "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+   "score": 0,
+   "sources": 1,
+   "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings.",
    "title_ar": ""
   },
   "theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers": {
