@@ -5501,6 +5501,17 @@
    "summary": "According to a new report by Bloomberg's Mark Gurman, Apple plans to launch several new (Product) Red variants of its devices as early as next week.",
    "title_ar": ""
   },
+  "gsmarena.com/apple_is_running_macos_on_ipads_internally_new_report_claims-news-75641.php": {
+   "at": "2026-11-26T00:15:29.183388+00:00",
+   "title": "Apple is running macOS on iPads internally, new report claims",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/apple_is_running_macos_on_ipads_internally_new_report_claims-news-75641.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "Some iPad models have gotten plenty powerful in the last few years with the introduction of the in-house Apple M silicon, so users are now demanding a more powerful OS that can take advantage of the…",
+   "title_ar": ""
+  },
   "gsmarena.com/apple_reportedly_developing_an_ai_agent_that_can_code_and_use_apps-news-75557.php": {
    "at": "2026-11-20T17:00:44.397019+00:00",
    "title": "Apple reportedly developing an AI agent that can code and use apps",
@@ -7074,17 +7085,6 @@
    "summary": "The infamous GTA 6 leaker has reportedly threatened to release the game's XBOX build which can seemingly be emulated on PC.",
    "title_ar": ""
   },
-  "insider-gaming.com/gta-6-metacritic-score-maintains-goat-status": {
-   "at": "2026-11-19T00:15:28.716284+00:00",
-   "title": "GTA 6’s Record MetaCritic Score Stays, Maintains GOAT Status",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://insider-gaming.com/gta-6-metacritic-score-maintains-goat-status/",
-   "score": 2,
-   "sources": 1,
-   "summary": "After the review embargo for GTA 6 dropped and scores flooded in, it had the highest rating ever.",
-   "title_ar": "التقييم القياسي للعبة GTA 6 على موقع MetaCritic يبقى صامداً ويحافظ على مكانة GOAT"
-  },
   "insider-gaming.com/gta-6-new-update-releasing-in-phases-size-revealed": {
    "at": "2026-11-23T11:00:52.438671+00:00",
    "title": "GTA 6 New Update Releasing in Phases; Size Revealed",
@@ -7369,6 +7369,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Company proclaims GTA 6 an “inspiration” as they celebrate transmedia efforts in keeping The Witcher and Cyberpunk popular",
+   "title_ar": ""
+  },
+  "kotaku.com/dennys-posts-statement-celebrating-jensen-huangs-return-as-nvidia-ceo-some-things-you-just-dont-take-off-the-menu-2001000521": {
+   "at": "2026-11-26T00:15:29.183388+00:00",
+   "title": "Denny’s Posts Statement Celebrating Jensen Huang’s Return As Nvidia CEO: ‘Some Things You Just Don’t Take Off The Menu’",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://kotaku.com/dennys-posts-statement-celebrating-jensen-huangs-return-as-nvidia-ceo-some-things-you-just-dont-take-off-the-menu-2001000521",
+   "score": 0,
+   "sources": 1,
+   "summary": "The temporarily fired Nvidia boss previously worked at the diner chain",
    "title_ar": ""
   },
   "kotaku.com/everyones-getting-trolled-by-gta-6s-looney-toons-tunnel-2001000177": {
@@ -9241,17 +9252,6 @@
    "summary": "Set for 28th October 2027 on PS5.",
    "title_ar": ""
   },
-  "techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team": {
-   "at": "2026-11-19T00:00:53.851536+00:00",
-   "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-   "score": 1,
-   "sources": 1,
-   "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
-   "title_ar": "إيلون ماسك يقول إن الإطاحة بـ Jensen Huang تشبه \"طرد Michael Jordan من فريقك\""
-  },
   "techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode": {
    "at": "2026-11-19T05:00:41.259231+00:00",
    "title": "Google’s AI feature in Search gets its own incognito mode",
@@ -10902,6 +10902,17 @@
    "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats.",
    "title_ar": ""
   },
+  "theverge.com/tech/1042870/amazon-recall-order-cpsc": {
+   "at": "2026-11-26T00:15:29.183388+00:00",
+   "title": "Amazon loses its latest attempt to get out of handling more recall notices",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+   "score": 2,
+   "sources": 1,
+   "summary": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC).",
+   "title_ar": "أمازون تخسر محاولتها الأحدث للتخلّص من التعامل مع المزيد من إشعارات استدعاء المنتجات"
+  },
   "tomshardware.com/laptops/gaming-laptops/amazon-lists-the-asus-rog-strix-g16-at-a-new-all-time-low-price-of-usd1-179-rtx-5060-powered-gaming-laptop-comes-with-16gb-of-ddr5-ram-and-a-1tb-ssd": {
    "at": "2026-11-20T12:00:41.794635+00:00",
    "title": "Amazon lists the Asus ROG Strix G16 at a new all-time low price of $1,179",
@@ -11919,7 +11930,7 @@
   "AI": "2026-11-25T23:30:36.238745+00:00",
   "Anime": "2026-11-25T16:15:41.912830+00:00",
   "Games": "2026-11-25T23:45:25.363928+00:00",
-  "Tech": "2026-11-26T00:00:45.204416+00:00"
+  "Tech": "2026-11-26T00:15:29.183388+00:00"
  },
  "digest_day": "2026-11-25",
  "weekly_day": "2026-11-20"
