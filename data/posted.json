@@ -3257,6 +3257,17 @@
    "summary": "The single ranked number 17 on the daily chart",
    "title_ar": "ميكا ناكاشيما تصدر الفيديو الموسيقي لأغنية فيلم الأنمي Armored Trooper VOTOMS: Die Graue Hexe"
   },
+  "crunchyroll.com/news/latest/2026/11/26/new-oishinbo-tv-anime-special-trailer": {
+   "at": "2026-11-26T12:00:44.889835+00:00",
+   "title": "New Oishinbo TV Anime Releases Special Trailer",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://crunchyroll.com/news/latest/2026/11/26/new-oishinbo-tv-anime-special-trailer",
+   "score": 0,
+   "sources": 1,
+   "summary": "The gourmet series begins airing on January 4 next year",
+   "title_ar": ""
+  },
   "crunchyroll.com/news/latest/2026/11/26/precure-24th-anime-series-funtasic-precure-toei-animation": {
    "at": "2026-11-26T01:15:37.962347+00:00",
    "title": "Toei Animation Announces 24th Precure TV Anime Series \"FUNtasic Precure!\"",
@@ -4983,17 +4994,6 @@
    "sources": 2,
    "summary": "The Prime Minister of the UK, Andy Burnham, has labeled Rockstar Games a \"British success story\" amid GTA 6 's rave reviews and huge sales milestones .",
    "title_ar": "GTA 6 قصة نجاح بريطانية، كما يقول رئيس الوزراء، لكنه لن يلعبها"
-  },
-  "gamespot.com/articles/gta-6-is-finally-here-so-come-watch-us-make-terrible-decisions-in-vice-city": {
-   "at": "2026-11-19T12:00:44.341770+00:00",
-   "title": "GTA 6 Is Finally Here, So Come Watch Us Make Terrible Decisions In Vice City",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gamespot.com/articles/gta-6-is-finally-here-so-come-watch-us-make-terrible-decisions-in-vice-city/",
-   "score": 0,
-   "sources": 1,
-   "summary": "In just a few short hours, the years-long wait for Grand Theft Auto 6 will finally be over.",
-   "title_ar": ""
   },
   "gamespot.com/articles/gta-6-modders-are-trying-to-vibe-code-a-pc-port-and-its-not-going-well": {
    "at": "2026-11-25T14:45:38.247297+00:00",
@@ -8306,17 +8306,6 @@
    "summary": "Wahoo!",
    "title_ar": ""
   },
-  "nintendolife.com/news/2026/11/round-up-spare-a-thought-for-these-games-launching-on-gta-6-day": {
-   "at": "2026-11-19T12:00:44.341770+00:00",
-   "title": "Round Up: Spare A Thought For These Games Launching On 'GTA 6 Day'",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.nintendolife.com/news/2026/11/round-up-spare-a-thought-for-these-games-launching-on-gta-6-day",
-   "score": 2,
-   "sources": 1,
-   "summary": "Wait, there are OTHER games??",
-   "title_ar": "حصاد الأسبوع: فكروا قليلاً في هذه الألعاب التي تصدر في يوم GTA 6"
-  },
   "nintendolife.com/news/2026/11/the-legend-of-zelda-ocarina-of-time-switch-2-updated-version-1-1-2-here-are-the-patch-notes": {
    "at": "2026-11-26T01:30:34.139249+00:00",
    "title": "The Legend Of Zelda: Ocarina Of Time Switch 2 Updated (Version 1.1.2), Here Are The Patch Notes",
@@ -10143,6 +10132,17 @@
    "summary": "Meta's Chief AI Officer Alexandr Wang sees the recent AI-assisted proof sketch of the Riemann Hypothesis as a clear sign that superintelligence is right around the corner.",
    "title_ar": "ألكسندر وانغ من Meta يحذر من أن قطاع الذكاء الاصطناعي ليس مستعداً لما هو قادم بعد إنجاز Riemann"
   },
+  "the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks": {
+   "at": "2026-11-26T12:00:44.889835+00:00",
+   "title": "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Microsoft has published the technical architecture of ARTEX, an AI framework in wide use since July 2026 that runs cyberattacks with specialized agents and almost no human involvement.",
+   "title_ar": "مايكروسوفت توضح كيف تستخدم مجموعات القرصنة المدعومة من الدول إطار عمل الذكاء الاصطناعي ARTEX لأتمتة الهجمات السيبرانية"
+  },
   "the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup": {
    "at": "2026-11-20T15:00:58.715478+00:00",
    "title": "Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup",
@@ -11828,7 +11828,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-26T11:30:35.220997+00:00",
+  "AI": "2026-11-26T12:00:44.889835+00:00",
   "Anime": "2026-11-26T09:45:27.761379+00:00",
   "Games": "2026-11-26T02:15:29.453807+00:00",
   "Tech": "2026-11-26T11:45:28.050490+00:00"
