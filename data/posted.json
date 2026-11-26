@@ -12,17 +12,6 @@
    "summary": "Google introduced 3D emoji on Pixel this year, and has just detailed the minimum specifications required to get them on your Android phone. more…",
    "title_ar": "رموز تعبيرية ثلاثية الأبعاد من Google تتطلب مواصفات خارقة لنظام Android: مساحة خالية 10 جيجابايت و6 جيجابايت من ذاكرة الوصول العشوائي"
   },
-  "9to5google.com/2026/11/19/canva-ai-features-toggle": {
-   "at": "2026-11-19T17:15:27.451428+00:00",
-   "title": "AI features could be turned off with a simple toggle, Canva proves",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5google.com/2026/11/19/canva-ai-features-toggle/",
-   "score": 0,
-   "sources": 1,
-   "summary": "AI has taken over everything in the past few years, with AI features bombarding virtually every app or service available.",
-   "title_ar": ""
-  },
   "9to5google.com/2026/11/19/gemini-mac-computer-use": {
    "at": "2026-11-19T19:00:41.686613+00:00",
    "title": "Gemini app for Mac adds computer use to control desktop apps",
@@ -748,17 +737,6 @@
    "sources": 1,
    "summary": "OpenAI relaunched its ChatGPT Health feature over the summer after piloting earlier in the year.",
    "title_ar": "ميزة ChatGPT Health تعمل الآن مع تطبيق Mac و Dots والمزيد"
-  },
-  "9to5mac.com/2026/11/19/halide-3-4-adds-a-bigger-viewfinder-and-fill-flash-for-iphone-duo": {
-   "at": "2026-11-19T17:15:27.451428+00:00",
-   "title": "Halide camera app just got even better for iPhone Duo",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/19/halide-3-4-adds-a-bigger-viewfinder-and-fill-flash-for-iphone-duo/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Halide 3.4 is out today as the latest update to the pro camera app.",
-   "title_ar": "تطبيق الكاميرا Halide أصبح أفضل الآن لمستخدمي iPhone Duo"
   },
   "9to5mac.com/2026/11/19/happy-hour-617": {
    "at": "2026-11-20T03:15:34.272410+00:00",
@@ -3521,17 +3499,6 @@
    "summary": "Check and repair damaged system files with these DISM commands.",
    "title_ar": "أوامر DISM الثلاثة التي يجب عليك معرفتها لإصلاح صور نظام Windows الخاص بك"
   },
-  "engadget.com/2320713/xbox-series-x-s-settings-change-before-playing-gta-6": {
-   "at": "2026-11-19T17:15:27.451428+00:00",
-   "title": "Change these Xbox Series X/S settings before playing GTA 6",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.engadget.com/2320713/xbox-series-x-s-settings-change-before-playing-gta-6/",
-   "score": 0,
-   "sources": 1,
-   "summary": "For the best possible Grand Theft Auto VI experience, change these settings on your Xbox Series X/S to squeeze out every bit of performance.",
-   "title_ar": ""
-  },
   "engadget.com/2320821/wireless-android-auto-battery-drain-fix": {
    "at": "2026-11-25T04:15:31.838536+00:00",
    "title": "Wireless Android Auto has a phone battery draining problem, but you can fix it",
@@ -4245,6 +4212,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Edovia has updated its Screens remote desktop app with a new Laptop Mode for the iPhone Duo.",
+   "title_ar": ""
+  },
+  "engadget.com/2329177/workers-gta-6-studio-rockstar-games-vote-against-union-recognition": {
+   "at": "2026-11-26T17:15:29.198286+00:00",
+   "title": "Workers at GTA 6 studio Rockstar Games vote overwhelmingly against union recognition",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2329177/workers-gta-6-studio-rockstar-games-vote-against-union-recognition/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The IWGB Rockstar Game Workers Union will continue to organize after only a quarter of workers voted in favor of a formal deal with the studio.",
    "title_ar": ""
   },
   "eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed": {
@@ -6392,17 +6370,6 @@
    "summary": "A YouTuber has solved the wildest GTA 6 Easter egg puzzle yet in just three days.",
    "title_ar": ""
   },
-  "ign.com/articles/gta-6-estimated-to-have-reached-20-million-preorders-ahead-of-launch": {
-   "at": "2026-11-19T17:00:44.029518+00:00",
-   "title": "GTA 6 Estimated to Have Reached 20 Million Preorders Ahead of Launch",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.ign.com/articles/gta-6-estimated-to-have-reached-20-million-preorders-ahead-of-launch",
-   "score": 2,
-   "sources": 1,
-   "summary": "GTA 6 sold around 20 million copies via preorders before the game's general release, analysts estimate.",
-   "title_ar": ""
-  },
   "ign.com/articles/gta-6-gets-officially-licensed-trading-cards-based-on-in-game-collectibles": {
    "at": "2026-11-24T21:00:53.640826+00:00",
    "title": "GTA 6 Gets Officially Licensed Trading Cards Based on In-Game Collectibles",
@@ -6732,6 +6699,28 @@
    "sources": 1,
    "summary": "CD Projekt Red has signed a marketing deal with PlayStation for The Witcher 4.",
    "title_ar": ""
+  },
+  "ign.com/articles/rockstar-games-issues-statement-as-union-vote-fails": {
+   "at": "2026-11-26T17:15:29.198286+00:00",
+   "title": "Rockstar Games Issues Statement as Union Vote Fails",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/rockstar-games-issues-statement-as-union-vote-fails",
+   "score": 0,
+   "sources": 1,
+   "summary": "The Rockstar Games union vote has failed, with 75% voting against a recognition agreement with the IWGB Game Workers Union.",
+   "title_ar": ""
+  },
+  "ign.com/articles/rockstar-north-chief-was-praying-gta-6s-big-story-reveal-stayed-under-wraps-ahead-of-launch": {
+   "at": "2026-11-26T17:15:29.198286+00:00",
+   "title": "Rockstar North Chief Was Praying GTA 6's Big Story Reveal Stayed Under Wraps Ahead of Launch",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.ign.com/articles/rockstar-north-chief-was-praying-gta-6s-big-story-reveal-stayed-under-wraps-ahead-of-launch",
+   "score": 2,
+   "sources": 1,
+   "summary": "Rockstar North has explained why it was so important that GTA 6's big early story reveal stayed under wraps before the game came out.",
+   "title_ar": "رئيس استوديو Rockstar North كان يصلي لكي يظل الكشف الكبير عن قصة GTA 6 سرًا قبل الإطلاق"
   },
   "ign.com/articles/satoru-gojos-english-voice-actor-didnt-realize-these-wild-lines-he-recorded-were-for-gta-6": {
    "at": "2026-11-20T22:00:43.015324+00:00",
@@ -8546,17 +8535,6 @@
    "score": 0,
    "sources": 1,
    "summary": "The leads of Leonida, the biggest and best-known effort to recreate GTA 6 on PC, have quit the project, although others are still trying to carry it on.",
-   "title_ar": ""
-  },
-  "pcgamer.com/games/grand-theft-auto/im-all-about-the-heist-43-soldiers-re-enlisted-in-the-us-army-to-get-a-4-day-weekend-to-play-gta-6": {
-   "at": "2026-11-19T17:00:44.029518+00:00",
-   "title": "'I'm all about the heist': 43 soldiers re-enlisted in the US army to get a 4-day weekend to play GTA 6",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/games/grand-theft-auto/im-all-about-the-heist-43-soldiers-re-enlisted-in-the-us-army-to-get-a-4-day-weekend-to-play-gta-6/",
-   "score": 0,
-   "sources": 1,
-   "summary": "That's one way to get a long weekend.",
    "title_ar": ""
   },
   "pcgamer.com/games/grand-theft-auto/im-counting-the-minutes-until-the-pc-version-fixes-the-weirdly-restrictive-cheats-in-gta-6": {
@@ -11122,6 +11100,17 @@
    "summary": "Pentagon leaders considered using the Cold War-era Defense Production Act to pressure Nvidia to reinstate founder Jensen Huang as CEO following his resignation over an affair with a suspected…",
    "title_ar": ""
   },
+  "tomshardware.com/tech-industry/credit-rating-agency-puts-nvidia-on-notice-for-possible-downgrade-s-and-p-global-ratings-says-board-members-may-have-compromised-their-independence": {
+   "at": "2026-11-26T17:15:29.198286+00:00",
+   "title": "Credit rating agency puts Nvidia on notice for possible downgrade",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.tomshardware.com/tech-industry/credit-rating-agency-puts-nvidia-on-notice-for-possible-downgrade-s-and-p-global-ratings-says-board-members-may-have-compromised-their-independence",
+   "score": 0,
+   "sources": 1,
+   "summary": "S&P Global Ratings says that it could lower Nvidia's credit rating because of various risks that it faces, including the smuggling allegations and the fact the lack of succession planning for its CEO.",
+   "title_ar": ""
+  },
   "tomshardware.com/tech-industry/cyber-security/new-windows-11-lock-screen-zero-day-unlocks-bitlocker-protected-pcs-with-just-a-few-keystrokes-win-u-keyboard-trick-lets-physical-attackers-run-usb-payloads-or-create-new-admin-accounts": {
    "at": "2026-11-20T01:45:27.911174+00:00",
    "title": "New Windows 11 lock screen zero-day unlocks BitLocker-protected PCs with just a few keystrokes",
@@ -11775,7 +11764,7 @@
  "topic_last_posted": {
   "AI": "2026-11-26T16:45:36.683564+00:00",
   "Anime": "2026-11-26T15:15:29.778198+00:00",
-  "Games": "2026-11-26T16:30:43.376275+00:00",
+  "Games": "2026-11-26T17:15:29.198286+00:00",
   "Tech": "2026-11-26T17:00:43.760702+00:00"
  },
  "digest_day": "2026-11-25",
