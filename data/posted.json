@@ -1849,17 +1849,6 @@
    "summary": "Godzilla Minus Zero stays at #1, becomes highest-earning live-action IMAX film in Japan",
    "title_ar": "فيلم Rakuen Tsuihō -Expelled from Paradise- Kokoro no Resonance يفتتح في المركز 5 في اليابان"
   },
-  "animenewsnetwork.com/news/2026-11-19/shin-oishinbo-anime-reveals-more-cast-staff-january-4-debut-in-main-trailer/.243985": {
-   "at": "2026-11-19T11:00:45.237272+00:00",
-   "title": "Shin Oishinbo Anime Reveals More Cast, Staff, January 4 Debut in Main Trailer",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://www.animenewsnetwork.com/news/2026-11-19/shin-oishinbo-anime-reveals-more-cast-staff-january-4-debut-in-main-trailer/.243985",
-   "score": 0,
-   "sources": 1,
-   "summary": "Daisuke Ono, Yasuaki Takumi, Akane Fujita, Tomokazu Seki join anime's cast",
-   "title_ar": ""
-  },
   "animenewsnetwork.com/news/2026-11-19/this-world-is-worth-fighting-for-manga-gets-live-action-series/.243996": {
    "at": "2026-11-20T01:15:27.513340+00:00",
    "title": "This World is Worth Fighting For Manga Gets Live-Action Series",
@@ -3266,6 +3255,17 @@
    "score": 0,
    "sources": 1,
    "summary": "The teaser site launched with the title logo and tagline",
+   "title_ar": ""
+  },
+  "crunchyroll.com/news/latest/2026/11/26/the-final-boss-prince-is-somehow-obsessed-with-the-chubby-villainess-reincarnated-me-anime-january-1-premiere-second-trailer-main-visual": {
+   "at": "2026-11-26T11:00:46.924969+00:00",
+   "title": "The Final-Boss Prince Is Somehow Obsessed with the Chubby Villainess: Reincarnated Me Anime Reveals January 1 Premiere in New Trailer",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://crunchyroll.com/news/latest/2026/11/26/the-final-boss-prince-is-somehow-obsessed-with-the-chubby-villainess-reincarnated-me-anime-january-1-premiere-second-trailer-main-visual",
+   "score": 0,
+   "sources": 1,
+   "summary": "Another voice actor and the opening and ending theme songs have also been announced",
    "title_ar": ""
   },
   "crunchyroll.com/news/quizzes/2026/11/23/anime-crosswords-puzzles-vol-82": {
@@ -10957,17 +10957,6 @@
    "summary": "AMD's Radeon RX 9060 XT has reached a new GPU frequency world record of 4,837 MHz.",
    "title_ar": "بطاقة Radeon RX 9060 XT من AMD تسجل رقماً قياسياً عالمياً جديداً في تردد معالجات الرسوميات بلغ 4.837 GHz"
   },
-  "tomshardware.com/pc-components/ssds/save-36-percent-on-this-4tb-samsung-990-pro-ssd-upgrade-for-your-gaming-pc-now-just-17-5-cents-per-gb-our-top-gen-4-drive-recommendation-is-now-usd100-cheaper-than-last-week": {
-   "at": "2026-11-19T11:00:45.237272+00:00",
-   "title": "Save 36% on this 4TB Samsung 990 Pro SSD upgrade for your gaming PC, now just 17.5 cents per GB",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/pc-components/ssds/save-36-percent-on-this-4tb-samsung-990-pro-ssd-upgrade-for-your-gaming-pc-now-just-17-5-cents-per-gb-our-top-gen-4-drive-recommendation-is-now-usd100-cheaper-than-last-week",
-   "score": 1,
-   "sources": 1,
-   "summary": "Grab this 4TB Samsung 990 Pro SSD with Gen 4 speeds for $699.99, a 36% price drop compared to its list price and a $100 drop since last week.",
-   "title_ar": "وفر 36% على ترقية قرص التخزين SSD من سامسونج Samsung 990 Pro بسعة 4 تيرابايت لجهاز الألعاب الخاص بك، بسعر يبلغ 17.5 سنتاً فقط لكل جيجابايت"
-  },
   "tomshardware.com/pc-components/ssds/score-a-huge-49-percent-saving-on-a-2tb-samsung-9100-pro-ssd-while-you-can-now-17-5-cents-per-gb-ultra-fast-gen-5-drive-is-the-perfect-pc-storage-upgrade-down-to-usd349-99": {
    "at": "2026-11-20T11:15:27.483649+00:00",
    "title": "Score a huge 49% saving on a 2TB Samsung 9100 Pro SSD while you can",
@@ -11793,6 +11782,17 @@
    "summary": "Jensen Huang comes back, numbers go up.",
    "title_ar": ""
   },
+  "wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains": {
+   "at": "2026-11-26T11:00:46.924969+00:00",
+   "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+   "score": 1,
+   "sources": 1,
+   "summary": "The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday.",
+   "title_ar": "ميتا ترفض مشاركة نموذج Muse للاختبار وفقاً لشكوى هيئة الرقابة المالية البريطانية"
+  },
   "wired.com/story/nvidia-is-powering-brain-computer-interfaces-now": {
    "at": "2026-11-23T13:30:35.007374+00:00",
    "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
@@ -11806,7 +11806,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-25T23:30:36.238745+00:00",
+  "AI": "2026-11-26T11:00:46.924969+00:00",
   "Anime": "2026-11-26T09:45:27.761379+00:00",
   "Games": "2026-11-26T02:15:29.453807+00:00",
   "Tech": "2026-11-26T10:45:36.053024+00:00"
