@@ -2586,6 +2586,17 @@
    "summary": "Godzilla Minus Zero stays at #1 in 3rd weekend",
    "title_ar": "افتتاح فيلم Witch on the Holy Night في المركز الثاني"
   },
+  "animenewsnetwork.com/news/2026-11-26/shin-oishinbo-tv-anime-reveals-special-promo-video/.244229": {
+   "at": "2026-11-26T11:45:28.050490+00:00",
+   "title": "Shin Oishinbo TV Anime Reveals Special Promo Video",
+   "topic": "Anime",
+   "status": "duplicate",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-26/shin-oishinbo-tv-anime-reveals-special-promo-video/.244229",
+   "score": 0,
+   "sources": 1,
+   "summary": "Series debuts on January 4",
+   "title_ar": ""
+  },
   "animenewsnetwork.com/news/2026-11-26/the-final-boss-prince-is-somehow-obsessed-with-the-chubby-villainess-tv-anime-reveals-january-1-/.244224": {
    "at": "2026-11-26T10:45:36.053024+00:00",
    "title": "The Final-Boss Prince is Somehow Obsessed with the Chubby Villainess TV Anime Reveals January 1 Debut in Video",
@@ -10066,17 +10077,6 @@
    "summary": "Google is bringing \"Computer Use\" to Gemini for Mac, letting the AI operate desktop apps, local files, and websites in an isolated background window with a live preview while users keep working.",
    "title_ar": ""
   },
-  "the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago": {
-   "at": "2026-11-19T11:30:38.064409+00:00",
-   "title": "Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Google DeepMind has released Gemini 4 Neon, its fourth model in seven weeks, which is nearly 2x faster than its sibling Carbon, outperforms it on most benchmarks and comes in at a significantly…",
-   "title_ar": ""
-  },
   "the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine": {
    "at": "2026-11-20T13:30:34.780991+00:00",
    "title": "Google's latest homepage update pushes its search engine further toward an AI answer engine",
@@ -10891,6 +10891,17 @@
    "summary": "Samsung's newly launched Odyssey G60H display is targeted squarely at serious competitive gamers with QHD 600Hz and HD 1100HZ display modes.",
    "title_ar": ""
   },
+  "tomshardware.com/monitors/gaming-monitors/samsungs-giant-57-inch-ultra-sized-display-tumbles-to-usd1-349-curved-1000r-dual-4k-display-is-the-ultimate-desktop-monitor": {
+   "at": "2026-11-26T11:45:28.050490+00:00",
+   "title": "Samsung's giant 57-inch ultra-sized display tumbles to $1,349",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/monitors/gaming-monitors/samsungs-giant-57-inch-ultra-sized-display-tumbles-to-usd1-349-curved-1000r-dual-4k-display-is-the-ultimate-desktop-monitor",
+   "score": 1,
+   "sources": 1,
+   "summary": "Two become one with this giant 57-inch dual-4K behemoth from Samsung.",
+   "title_ar": "شاشة Samsung العملاقة فائقة الحجم بقياس 57 بوصة تنخفض إلى 1349 دولاراً"
+  },
   "tomshardware.com/pc-components/air-cooling/legendary-cooler-master-hyper-212-halo-cpu-air-cooler-drops-to-an-all-time-low-of-usd15-keep-your-amd-or-intel-processor-running-cool-on-the-cheap": {
    "at": "2026-11-24T19:00:54.862646+00:00",
    "title": "Legendary Cooler Master Hyper 212 Halo CPU air cooler drops to an all-time low of $15 — keep your AMD or Intel processor running cool on the cheap",
@@ -10923,17 +10934,6 @@
    "sources": 1,
    "summary": "Intel continues to reduce headcount, IT department affected this time.",
    "title_ar": "إنتل تواصل عمليات التسريح عبر تقليص قسم تقنية المعلومات، وتأثر مئات الموظفين بحسب التقارير"
-  },
-  "tomshardware.com/pc-components/cpus/intel-diamond-rapids-shows-signs-of-life-in-sc26-demo-running-live-server-next-gen-xeon-7-cpu-breaks-cover-at-partner-booths-no-showcase-from-intel": {
-   "at": "2026-11-19T11:45:27.950184+00:00",
-   "title": "Intel Diamond Rapids shows signs of life in SC26 demo running live server",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/pc-components/cpus/intel-diamond-rapids-shows-signs-of-life-in-sc26-demo-running-live-server-next-gen-xeon-7-cpu-breaks-cover-at-partner-booths-no-showcase-from-intel",
-   "score": 1,
-   "sources": 1,
-   "summary": "Intel’s next-gen Xeon Diamond Rapids CPUs appeared at two booths during SC26, one of which featured a running server, but neither were directly from Intel.",
-   "title_ar": "معالجات Intel Diamond Rapids تظهر مؤشرات حياة في عرض حي لخادم ضمن فعاليات SC26"
   },
   "tomshardware.com/pc-components/cpus/new-cpu-benchmark-tool-promises-40-years-of-compatibility-with-support-as-far-back-as-i386-windows-95-crystalmark-cpuix-tested-on-nec-pc-98-21bs-pentium-100-and-more": {
    "at": "2026-11-25T10:15:26.565927+00:00",
@@ -11099,17 +11099,6 @@
    "sources": 1,
    "summary": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helping Lisa Su's outfit boost its new CPUs",
    "title_ar": "شركة OpenAI تساعد AMD في تحسين تصميم وحدة معالجة الرسوميات الرائدة القادمة بنسبة 14% في مؤشرات PPA، ونماذج GPT تساعد أيضاً شركة Lisa Su في تعزيز وحدات المعالجة المركزية الجديدة"
-  },
-  "tomshardware.com/tech-industry/artificial-intelligence/three-e-waste-nvidia-v100s-hit-100-tokens-per-second-on-qwen-3-6-35b-in-a-usd1-042-homelab-rig-decommissioned-gpus-outpace-a-usd5-399-m5-max-mac-studio-at-long-contexts": {
-   "at": "2026-11-19T11:30:38.064409+00:00",
-   "title": "Three 'e-waste' Nvidia V100s hit 100 tokens per second on Qwen 3.6 35B in a $1,042 homelab rig",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/three-e-waste-nvidia-v100s-hit-100-tokens-per-second-on-qwen-3-6-35b-in-a-usd1-042-homelab-rig-decommissioned-gpus-outpace-a-usd5-399-m5-max-mac-studio-at-long-contexts",
-   "score": 1,
-   "sources": 1,
-   "summary": "A homelab builder runs Qwen 3.6 35B on three used Nvidia Tesla V100 GPUs at about 100 tokens per second, in a $1,042 build.",
-   "title_ar": "ثلاث وحدات Nvidia V100 من النفايات الإلكترونية تصل إلى 100 رمز في الثانية على نموذج Qwen 3.6 35B في جهاز منزلي بتكلفة 1042 دولاراً"
   },
   "tomshardware.com/tech-industry/artificial-intelligence/us-treasury-information-chief-spent-three-days-vibecoding-civilization-game-clone-amidst-treasury-database-hack-ai-agent-studiously-attends-to-personal-project-github-users-raise-tickets-asking-him-to-attend-to-cybersecurity-incident": {
    "at": "2026-11-25T16:30:36.722871+00:00",
@@ -11842,7 +11831,7 @@
   "AI": "2026-11-26T11:30:35.220997+00:00",
   "Anime": "2026-11-26T09:45:27.761379+00:00",
   "Games": "2026-11-26T02:15:29.453807+00:00",
-  "Tech": "2026-11-26T11:09:52.759536+00:00"
+  "Tech": "2026-11-26T11:45:28.050490+00:00"
  },
  "digest_day": "2026-11-25",
  "weekly_day": "2026-11-20"
