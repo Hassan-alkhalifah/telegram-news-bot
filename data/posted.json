@@ -3532,17 +3532,6 @@
    "summary": "This is part of Project Suncatcher, an experiment aimed at running AI systems in space.",
    "title_ar": "جوجل توقيع اتفاقية مع Blue Origin لإرسال مراكز بيانات عبر الأقمار الصناعية إلى المدار"
   },
-  "engadget.com/2322304/employees-call-out-google-over-ai-search-in-schools": {
-   "at": "2026-11-19T20:15:28.361697+00:00",
-   "title": "Employees call out Google over AI Search in schools",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.engadget.com/2322304/employees-call-out-google-over-ai-search-in-schools/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The Alphabet Workers Union voiced concern over Google requiring its AI tools be bundled with Search.",
-   "title_ar": ""
-  },
   "engadget.com/2322377/you-can-now-purchase-the-512gb-steam-machine-like-a-normal-console": {
    "at": "2026-11-19T23:00:41.478852+00:00",
    "title": "You can now purchase the 512GB Steam Machine like a normal console",
@@ -4092,6 +4081,17 @@
    "sources": 1,
    "summary": "New York governor Kathy Hochul has signed into law a five-year ban on the sale of AI chatbot toys.",
    "title_ar": "ولاية نيويورك تحظر ألعاب الروبوتات المحادثة المدعومة بالذكاء الاصطناعي للأطفال"
+  },
+  "engadget.com/2329013/1password-hacked-but-users-vaults-are-safe": {
+   "at": "2026-11-26T20:15:29.651407+00:00",
+   "title": "1Password says it was hacked but users' vaults are safe",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.engadget.com/2329013/1password-hacked-but-users-vaults-are-safe/",
+   "score": 1,
+   "sources": 1,
+   "summary": "1Password assures customers that their logins and other sensitive information were not compromised in a recent data breach.",
+   "title_ar": "شركة 1Password تعلن تعرضها للاختراق وتؤكد أن خزائن المستخدمين آمنة"
   },
   "engadget.com/2329049/x-is-adding-its-first-ever-parental-controls": {
    "at": "2026-11-26T11:09:52.759536+00:00",
@@ -7063,17 +7063,6 @@
    "summary": "CD Projekt Red has shared the data on how many developers they have on each of its current projects, The Witcher 4 takes a majority.",
    "title_ar": ""
   },
-  "insider-gaming.com/ubisoft-cfo-confirms-assassins-creed-jade-still-in-development": {
-   "at": "2026-11-19T20:15:28.361697+00:00",
-   "title": "Ubisoft CFO Confirms Assassin’s Creed Jade Still in Development",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://insider-gaming.com/ubisoft-cfo-confirms-assassins-creed-jade-still-in-development/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Assassin's Creed Jade mentioned in Ubisoft's November 19, 2026 Earnings Report call as an opportunity for mobile.",
-   "title_ar": ""
-  },
   "insider-gaming.com/ubisoft-merges-creative-houses": {
    "at": "2026-11-19T21:30:40.800987+00:00",
    "title": "Ubisoft Merges Two Creative Houses as New Leadership Structure Is Finalized",
@@ -9593,6 +9582,17 @@
    "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
    "title_ar": "مع طرح Anthropic للاكتتاب العام، لعبة Grand Theft Auto VI تثبت سبب عدم اعتبار الكفاءة فضيلة"
   },
+  "techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia": {
+   "at": "2026-11-26T20:15:29.651407+00:00",
+   "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+   "topic": "AI",
+   "status": "duplicate",
+   "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+   "title_ar": ""
+  },
   "techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years": {
    "at": "2026-11-26T19:45:29.315478+00:00",
    "title": "X finally gets parental controls after 20 years",
@@ -10252,17 +10252,6 @@
    "sources": 2,
    "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative.",
    "title_ar": "لجنة الاتصالات الفيدرالية الموافقة على خطة SpaceX لإطلاق ما يصل إلى مليون قمر صناعي لمراكز البيانات في الفضاء"
-  },
-  "theverge.com/tech/1038059/google-search-homepage-ai-chats": {
-   "at": "2026-11-19T20:15:28.361697+00:00",
-   "title": "Google is putting AI chats right on the homepage",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-   "score": 1,
-   "sources": 1,
-   "summary": "Google is updating its homepage to include AI searches.",
-   "title_ar": "غوغل تضع محادثات الذكاء الاصطناعي مباشرة على الصفحة الرئيسية"
   },
   "theverge.com/tech/1038087/meta-muse-charm-ai-price": {
    "at": "2026-11-19T20:45:35.552628+00:00",
@@ -11545,7 +11534,7 @@
   "AI": "2026-11-26T19:45:29.315478+00:00",
   "Anime": "2026-11-26T17:30:41.162456+00:00",
   "Games": "2026-11-26T18:45:25.829826+00:00",
-  "Tech": "2026-11-26T20:00:43.908972+00:00"
+  "Tech": "2026-11-26T20:15:29.651407+00:00"
  },
  "digest_day": "2026-11-26",
  "weekly_day": "2026-11-20"
