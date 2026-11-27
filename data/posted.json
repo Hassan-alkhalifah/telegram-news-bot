@@ -56,17 +56,6 @@
    "summary": "Microsoft announced this week that its To Do app is shutting down soon, taking the legacy of Wunderlist with it. more…",
    "title_ar": "Microsoft تغلق تطبيق To Do الذي حل محل Wunderlist، بدون بديل حقيقي"
   },
-  "9to5google.com/2026/11/20/motorola-confirms-list-of-devices-getting-android-17-updates": {
-   "at": "2026-11-20T14:45:28.420501+00:00",
-   "title": "Motorola confirms list of devices getting Android 17 updates",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5google.com/2026/11/20/motorola-confirms-list-of-devices-getting-android-17-updates/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Motorola has posted an updated list of devices getting its Android 17 update, with a few updates already available and many more left to go. more…",
-   "title_ar": ""
-  },
   "9to5google.com/2026/11/20/nest-app-google-assistant": {
    "at": "2026-11-20T18:00:44.657674+00:00",
    "title": "Google retiring Nest app and Google Assistant on speakers, displays in 2027",
@@ -606,6 +595,17 @@
    "summary": "Motorola has been content with mid-grade haptics for years, but the Motorola Signature 27’s haptics rightfully upgrade the experience. more…",
    "title_ar": "الاستشعار اللمسي في هاتف Motorola Signature 27 يبدو أخيرًا أقرب إلى هواتف Pixel، وقد حان الوقت لذلك"
   },
+  "9to5google.com/2026/11/27/google-gemini-chrome-ram-usage-error": {
+   "at": "2026-11-27T14:45:33.686342+00:00",
+   "title": "Google says it has fixed Gemini’s RAM usage error in Chrome",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/27/google-gemini-chrome-ram-usage-error/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Google has fixed an issue that caused excessive RAM use by Gemini for Chrome users. more…",
+   "title_ar": "Google تقول إنها أصلحت خطأ استهلاك الذاكرة العشوائية لـ Gemini في متصفح Chrome"
+  },
   "9to5google.com/2026/11/27/samsung-galaxy-z-fold-8-black-friday-deal": {
    "at": "2026-11-27T14:00:47.281236+00:00",
    "title": "Samsung’s biggest Galaxy Z Fold 8 discounts yet are live, up to $900 for some",
@@ -616,6 +616,17 @@
    "sources": 1,
    "summary": "Samsung’s hit Galaxy Z Fold 8 saved its best deal for Black Friday, with a new low price on Amazon and a targeted Samsung.com offer that drops the price by up to $900 – here’s what you should know…",
    "title_ar": "توفر أكبر خصومات حتى الآن على هاتف Samsung Galaxy Z Fold 8، لتصل إلى 900 دولار لبعض المستخدمين"
+  },
+  "9to5google.com/2026/11/27/whatsapp-is-adding-travel-esims": {
+   "at": "2026-11-27T14:45:33.686342+00:00",
+   "title": "WhatsApp is adding travel eSIMs",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://9to5google.com/2026/11/27/whatsapp-is-adding-travel-esims/",
+   "score": 0,
+   "sources": 1,
+   "summary": "WhatsApp is adding support for eSIMs in its app, designed for keeping you connected while traveling, though details are not fully clear. more…",
+   "title_ar": ""
   },
   "9to5mac.com/2026/11/20/apple-calendar-got-two-feature-upgrades-it-really-needed-in-ios-27": {
    "at": "2026-11-20T16:00:44.407143+00:00",
@@ -637,17 +648,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Apple TV ( now $6.99/month for limited time ) is primarily home to original shows and movies, but Apple recently started adding fan-favorite classic films too.",
-   "title_ar": ""
-  },
-  "9to5mac.com/2026/11/20/apple-tv-unveils-return-of-one-of-its-biggest-hit-series": {
-   "at": "2026-11-20T14:45:28.420501+00:00",
-   "title": "Apple TV unveils return of one of its biggest hit series",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/20/apple-tv-unveils-return-of-one-of-its-biggest-hit-series/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple TV ( now $6.99/month for limited time ) has just unveiled the return of one of its most popular series: Presumed Innocent.",
    "title_ar": ""
   },
   "9to5mac.com/2026/11/20/apple-watch-series-12-four-standout-features-glad-i-upgraded": {
@@ -2507,17 +2507,6 @@
    "score": 0,
    "sources": 1,
    "summary": "The first film premieres today in Japan",
-   "title_ar": ""
-  },
-  "crunchyroll.com/news/latest/2026/11/20/mercedes-and-the-waning-moon-anime-premiere-date-visual-cast": {
-   "at": "2026-11-20T14:45:28.420501+00:00",
-   "title": "Mercedes and the Waning Moon Anime Premiere Date, Visual, More Cast Revealed",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://crunchyroll.com/news/latest/2026/11/20/mercedes-and-the-waning-moon-anime-premiere-date-visual-cast",
-   "score": 0,
-   "sources": 1,
-   "summary": "Isekai fantasy adaptation premieres on January 10",
    "title_ar": ""
   },
   "crunchyroll.com/news/latest/2026/11/21/a-tale-of-the-secret-saint-anime-new-key-art-sutherland-arc": {
@@ -4401,17 +4390,6 @@
    "summary": "A new report from Windows Central details how Xbox was reportedly looking into removing the paywall that prevents players without Xbox Live from playing online games, only to potentially renege on…",
    "title_ar": ""
   },
-  "gamespot.com/articles/a-playable-gta-6-build-could-leak-but-theres-a-15-million-catch": {
-   "at": "2026-11-20T14:45:28.420501+00:00",
-   "title": "A Playable GTA 6 Build Could Leak, But There’s A $15 Million Catch",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.gamespot.com/articles/a-playable-gta-6-build-could-leak-but-theres-a-15-million-catch/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Somehow, Cyberleek, the notorious hacker behind multiple Grand Theft Auto 6 leaks, has returned.",
-   "title_ar": "قد يتم تسريب نسخة قابلة للعب من GTA 6، ولكن هناك شرط بقيمة 15 مليون دولار"
-  },
   "gamespot.com/articles/another-live-service-game-is-going-extinct-and-this-one-has-dinosaurs": {
    "at": "2026-11-25T18:15:30.732103+00:00",
    "title": "Another Live-Service Game Is Going Extinct, And This One Has Dinosaurs",
@@ -6238,17 +6216,6 @@
    "summary": "Kaiji Tang, the English voice actor behind iconic anime characters like Jujutsu Kaisen’s Satoru Gojo and Demon Slayer’s Sanemi Shinazugawa, was left stunned after learning that he had unknowingly…",
    "title_ar": ""
   },
-  "ign.com/articles/some-gta-6-players-think-max-weight-jason-and-lucia-arent-big-enough": {
-   "at": "2026-11-20T14:45:28.420501+00:00",
-   "title": "Some GTA 6 Players Think Max Weight Jason and Lucia Aren't Big Enough",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/some-gta-6-players-think-max-weight-jason-and-lucia-arent-big-enough",
-   "score": 0,
-   "sources": 1,
-   "summary": "Some GTA 6 players really want Jason and Lucia to be able to get as fat as CJ from GTA: San Andreas.",
-   "title_ar": ""
-  },
   "ign.com/articles/sony-confirms-playstation-plus-monthly-games-for-december-2026": {
    "at": "2026-11-25T19:10:24.127315+00:00",
    "title": "Sony Confirms PlayStation Plus Monthly Games for December 2026",
@@ -7667,6 +7634,17 @@
    "sources": 1,
    "summary": "Ohh God, the teeth.",
    "title_ar": "التأكيد على صدور لعبة رعب مقلقة مستوحاة من Silent Hill على جهاز Switch 2"
+  },
+  "nintendolife.com/news/2026/11/watch-team-cherrys-cherry-time-special-presentation-live": {
+   "at": "2026-11-27T14:45:33.686342+00:00",
+   "title": "Watch: Team Cherry's 'Cherry Time!' Special Presentation - Live!",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/watch-team-cherrys-cherry-time-special-presentation-live",
+   "score": 0,
+   "sources": 1,
+   "summary": "Take a dip in the DLSEA.",
+   "title_ar": ""
   },
   "nintendolife.com/news/2026/11/we-saw-your-hopeful-requests-fabraz-announces-demon-tides-switch-2-release": {
    "at": "2026-11-25T02:15:30.376124+00:00",
@@ -10819,7 +10797,7 @@
   "AI": "2026-11-26T19:45:29.315478+00:00",
   "Anime": "2026-11-27T13:45:38.130901+00:00",
   "Games": "2026-11-27T13:30:37.366163+00:00",
-  "Tech": "2026-11-27T14:00:47.281236+00:00"
+  "Tech": "2026-11-27T14:45:33.686342+00:00"
  },
  "digest_day": "2026-11-26",
  "weekly_day": "2026-11-20"
