@@ -10066,17 +10066,6 @@
    "summary": "A homelab builder runs four used Nvidia Tesla V100 32GB GPUs off a Lenovo ThinkCentre M720q Tiny over OCuLink for 128GB of VRAM.",
    "title_ar": "بناء منزلي بقيمة 3500 دولار يربط أربع بطاقات Nvidia V100 بسعة 32 جيجابايت بحاسوب Lenovo مصغر لتوفير 128 جيجابايت من ذاكرة الفيديو العشوائية"
   },
-  "tomshardware.com/tech-industry/artificial-intelligence/lawyers-usd9-450-private-ai-server-of-12-used-nvidia-v100s-now-runs-every-deepseek-v4-1-flash-expert-at-4-bit-nvfp4-up-to-184-tokens-per-second-on-code-and-long-documents-start-answering-in-about-half-the-time": {
-   "at": "2026-11-20T14:30:35.111068+00:00",
-   "title": "Lawyer’s $9,450 private AI server with 12 used Nvidia V100s now runs every DeepSeek V4.1 Flash expert",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyers-usd9-450-private-ai-server-of-12-used-nvidia-v100s-now-runs-every-deepseek-v4-1-flash-expert-at-4-bit-nvfp4-up-to-184-tokens-per-second-on-code-and-long-documents-start-answering-in-about-half-the-time",
-   "score": 1,
-   "sources": 1,
-   "summary": "A lawyer’s private AI server now runs DeepSeek V4.1 Flash on 12 used Nvidia V100 GPUs, with every expert at 4-bit NVFP4.",
-   "title_ar": "خادم ذكاء اصطناعي خاص لمحامٍ بتكلفة 9,450 دولاراً ويضم 12 وحدة معالجة رسوميات مستعملة من نوع Nvidia V100 يشغل الآن كل خبراء DeepSeek V4.1 Flash"
-  },
   "tomshardware.com/tech-industry/artificial-intelligence/new-york-governor-kathy-hochul-signs-ban-on-ai-chatbot-toys-backed-by-usd15-000-daily-fines-takes-effect-in-90-days-after-holiday-rush": {
    "at": "2026-11-26T13:45:39.277541+00:00",
    "title": "New York Governor Kathy Hochul signs ban on AI chatbot toys backed by $15,000 daily fines",
