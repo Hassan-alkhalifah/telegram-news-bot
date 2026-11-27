@@ -9241,6 +9241,17 @@
    "summary": "OpenAI says a billing bug gave GPT-6.2 users incorrect discounts.",
    "title_ar": "مستخدمو GPT-6.2 Astra يصلون الآن إلى الحدود بنسبة 40% أسرع بعد أن قامت OpenAI بتصحيح خطأ في التسعير"
   },
+  "the-decoder.com/hackers-breached-the-us-air-forces-flagship-cloud-one-platform-report-says": {
+   "at": "2026-11-27T16:15:28.291398+00:00",
+   "title": "Hackers breached the US Air Force's flagship Cloud One platform, report says",
+   "topic": "AI",
+   "status": "posted",
+   "url": "https://the-decoder.com/hackers-breached-the-us-air-forces-flagship-cloud-one-platform-report-says/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Hackers breached the US Air Force's flagship cloud platform.",
+   "title_ar": "تقرير يفيد بأن قراصنة اخترقوا منصة Cloud One الرائدة التابعة للقوات الجوية الأمريكية"
+  },
   "the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft": {
    "at": "2026-11-21T11:30:34.370486+00:00",
    "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
@@ -10539,6 +10550,17 @@
    "summary": "GTA 6 has broken another record",
    "title_ar": ""
   },
+  "videogameschronicle.com/news/hollow-knight-silksongs-first-expansion-sea-of-sorrow-is-officially-out-next-month": {
+   "at": "2026-11-27T16:15:28.291398+00:00",
+   "title": "Hollow Knight: Silksong’s first expansion, Sea of Sorrow, is officially out next month",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.videogameschronicle.com/news/hollow-knight-silksongs-first-expansion-sea-of-sorrow-is-officially-out-next-month/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Sea of Sorrow will add new areas and bosses to Silksong",
+   "title_ar": ""
+  },
   "videogameschronicle.com/news/lucia-actress-manni-l-perez-claims-she-worked-on-gta-6-for-almost-a-decade": {
    "at": "2026-11-26T22:15:29.831393+00:00",
    "title": "Lucia actress Manni L. Perez claims she worked on GTA 6 for ‘almost a decade’",
@@ -10816,7 +10838,7 @@
   }
  },
  "topic_last_posted": {
-  "AI": "2026-11-26T19:45:29.315478+00:00",
+  "AI": "2026-11-27T16:15:28.291398+00:00",
   "Anime": "2026-11-27T13:45:38.130901+00:00",
   "Games": "2026-11-27T15:00:44.849061+00:00",
   "Tech": "2026-11-27T16:00:54.876879+00:00"
