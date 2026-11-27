@@ -683,17 +683,6 @@
    "summary": "Apple Wallet car keys are about to get a big expansion, with GM launching support for a variety of vehicles across three of its popular brands: Cadillac, Chevrolet, and GMC. more…",
    "title_ar": "مفاتيح السيارات في Apple Wallet قريباً لتلك العلامات التجارية الشهيرة للسيارات"
   },
-  "9to5mac.com/2026/11/20/ios-27-3-new-features-release-date-more": {
-   "at": "2026-11-20T13:45:27.363388+00:00",
-   "title": "iOS 27.3: New features, release date, more",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/20/ios-27-3-new-features-release-date-more/",
-   "score": 0,
-   "sources": 1,
-   "summary": "iOS 27.3 is currently in beta testing with developers and public beta users.",
-   "title_ar": ""
-  },
   "9to5mac.com/2026/11/20/ios-27-has-clever-new-messages-feature-ive-been-using-a-lot": {
    "at": "2026-11-20T19:00:41.791820+00:00",
    "title": "iOS 27 has clever new Messages feature I’ve been using a lot",
@@ -2354,6 +2343,17 @@
    "sources": 1,
    "summary": "Mulasaki Ima performs theme song",
    "title_ar": ""
+  },
+  "animenewsnetwork.com/news/2026-11-27/pokemon-anime-gets-new-season-featuring-liko-roy-in-october-2027/.244257": {
+   "at": "2026-11-27T13:45:38.130901+00:00",
+   "title": "Pokémon Anime Gets New Season Featuring Liko, Roy in October 2027",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-27/pokemon-anime-gets-new-season-featuring-liko-roy-in-october-2027/.244257",
+   "score": 2,
+   "sources": 1,
+   "summary": "Separate new Pokémon program to air starting on January 8",
+   "title_ar": "أنمي Pokémon يحصل على موسم جديد يضم Liko و Roy في أكتوبر 2027"
   },
   "animenewsnetwork.com/news/2026-11-27/red-cat-ramen-anime-2nd-season-reveals-main-promo-video-january-10-debut/.244255": {
    "at": "2026-11-27T13:30:37.366163+00:00",
@@ -8372,6 +8372,17 @@
    "summary": "Tune in this Friday.",
    "title_ar": ""
   },
+  "pushsquare.com/news/2026/11/life-has-been-a-whirlwind-gta-6s-lucia-actress-says-thank-you-to-fans": {
+   "at": "2026-11-27T13:45:38.130901+00:00",
+   "title": "'Life Has Been a Whirlwind': GTA 6's Lucia Actress Says Thank You to Fans",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pushsquare.com/news/2026/11/life-has-been-a-whirlwind-gta-6s-lucia-actress-says-thank-you-to-fans",
+   "score": 0,
+   "sources": 1,
+   "summary": "Worked on game for almost a decade.",
+   "title_ar": ""
+  },
   "pushsquare.com/news/2026/11/ps-plus-essential-games-for-december-2026-announced": {
    "at": "2026-11-25T17:00:45.687832+00:00",
    "title": "PS Plus Essential Games for December 2026 Announced",
@@ -8525,17 +8536,6 @@
    "sources": 1,
    "summary": "Mathematicians are having their minds blown by the latest AI-driven result—and there's a competing human solution, too.",
    "title_ar": ""
-  },
-  "techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china": {
-   "at": "2026-11-20T13:45:27.363388+00:00",
-   "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
-   "score": 1,
-   "sources": 1,
-   "summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
-   "title_ar": "المدعي العام لولاية كاليفورنيا يصدر مذكرة استدعاء لشركة Nvidia بسبب المخاوف بشأن علاقات Huang بالصين"
   },
   "techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature": {
    "at": "2026-11-21T04:00:38.752262+00:00",
@@ -10850,7 +10850,7 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-26T19:45:29.315478+00:00",
-  "Anime": "2026-11-27T13:00:47.495510+00:00",
+  "Anime": "2026-11-27T13:45:38.130901+00:00",
   "Games": "2026-11-27T13:30:37.366163+00:00",
   "Tech": "2026-11-27T13:15:32.631867+00:00"
  },
