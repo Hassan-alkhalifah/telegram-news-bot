@@ -34,17 +34,6 @@
    "summary": "The latest quarterly data for the US smartphone market reveals that Google Pixel is holding its ground despite the overall market faltering, and the other two major Android brands struggling. more…",
    "title_ar": "Google Pixel تحافظ على مكانتها في الولايات المتحدة رغم إطلاق متوسط المستوى لهاتف Pixel 11"
   },
-  "9to5google.com/2026/11/20/microsoft-to-do-shut-down-wunderlist": {
-   "at": "2026-11-20T16:00:44.407143+00:00",
-   "title": "Microsoft is shutting down the ‘To Do’ app that replaced Wunderlist, with no real replacement",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/20/microsoft-to-do-shut-down-wunderlist/",
-   "score": 2,
-   "sources": 1,
-   "summary": "Microsoft announced this week that its To Do app is shutting down soon, taking the legacy of Wunderlist with it. more…",
-   "title_ar": "Microsoft تغلق تطبيق To Do الذي حل محل Wunderlist، بدون بديل حقيقي"
-  },
   "9to5google.com/2026/11/20/nest-app-google-assistant": {
    "at": "2026-11-20T18:00:44.657674+00:00",
    "title": "Google retiring Nest app and Google Assistant on speakers, displays in 2027",
@@ -595,6 +584,17 @@
    "summary": "Following new regulations, Google Play will require Android app developers to publicly post a business address starting in 2027 and, while there are workarounds, it’s not going to be the easiest…",
    "title_ar": ""
   },
+  "9to5google.com/2026/11/27/google-docs-microsoft-word-compare-documents": {
+   "at": "2026-11-27T16:00:54.876879+00:00",
+   "title": "Google Docs can now do more with Microsoft Word documents without converting the file",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/27/google-docs-microsoft-word-compare-documents/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Google Docs is getting an update in how it handles Microsoft Word documents, adding the ability to compare revisions without converting the file. more…",
+   "title_ar": "Google Docs يمكنه الآن فعل المزيد مع مستندات Microsoft Word دون تحويل الملف"
+  },
   "9to5google.com/2026/11/27/google-gemini-chrome-ram-usage-error": {
    "at": "2026-11-27T14:45:33.686342+00:00",
    "title": "Google says it has fixed Gemini’s RAM usage error in Chrome",
@@ -626,17 +626,6 @@
    "score": 0,
    "sources": 1,
    "summary": "WhatsApp is adding support for eSIMs in its app, designed for keeping you connected while traveling, though details are not fully clear. more…",
-   "title_ar": ""
-  },
-  "9to5mac.com/2026/11/20/apple-calendar-got-two-feature-upgrades-it-really-needed-in-ios-27": {
-   "at": "2026-11-20T16:00:44.407143+00:00",
-   "title": "Apple Calendar got two feature upgrades it really needed in iOS 27",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/20/apple-calendar-got-two-feature-upgrades-it-really-needed-in-ios-27/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple Calendar keeps getting better, including some design updates coming in iOS 27.3.",
    "title_ar": ""
   },
   "9to5mac.com/2026/11/20/apple-tv-keeps-adding-fan-favorite-movies-heres-whats-new-and-coming-next": {
@@ -4533,17 +4522,6 @@
    "summary": "One of the most talked-about characters in GTA 6 outside of Jason and Lucia has been Mandy , a woman who tries to seduce Jason early in the game.",
    "title_ar": ""
   },
-  "gamespot.com/articles/gta-7-please-let-gta-6-cook-first-take-two-ceo-says": {
-   "at": "2026-11-20T16:00:44.407143+00:00",
-   "title": "GTA 7? Please, Let GTA 6 Cook First, Take-Two CEO Says",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.gamespot.com/articles/gta-7-please-let-gta-6-cook-first-take-two-ceo-says/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Rockstar Games just launched Grand Theft Auto 6 on November 19 to rave reviews and huge sales .",
-   "title_ar": ""
-  },
   "gamespot.com/articles/is-gta-6-too-easy-rockstar-weighs-in": {
    "at": "2026-11-25T16:30:36.722871+00:00",
    "title": "Is GTA 6 Too Easy? Rockstar Weighs In",
@@ -6434,6 +6412,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Team Cherry has announced that an update on Hollow Knight: Silksong - Sea of Sorrow is coming on November 27.",
+   "title_ar": ""
+  },
+  "insider-gaming.com/hollow-knights-free-sea-of-sorrow-dlc-releases-in-december": {
+   "at": "2026-11-27T16:00:54.876879+00:00",
+   "title": "Hollow Knight: Silksong’s Free Sea of Sorrow DLC Releases in December",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/hollow-knights-free-sea-of-sorrow-dlc-releases-in-december/",
+   "score": 0,
+   "sources": 1,
+   "summary": "You don't have to wait long for Hollow Knight: Silksong's Sea of Sorrow DLC, as it's coming out this year in December 2026.",
    "title_ar": ""
   },
   "insider-gaming.com/jensen-huang-back-at-nvidia": {
@@ -10830,7 +10819,7 @@
   "AI": "2026-11-26T19:45:29.315478+00:00",
   "Anime": "2026-11-27T13:45:38.130901+00:00",
   "Games": "2026-11-27T15:00:44.849061+00:00",
-  "Tech": "2026-11-27T15:45:36.163861+00:00"
+  "Tech": "2026-11-27T16:00:54.876879+00:00"
  },
  "digest_day": "2026-11-26",
  "weekly_day": "2026-11-20"
