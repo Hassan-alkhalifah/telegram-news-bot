@@ -749,17 +749,6 @@
    "summary": "Motion-based automations are generally straightforward in Apple Home.",
    "title_ar": "نشرة HomeKit الأسبوعية: مستشعر الحضور 5 في 1 من Lafaer يعالج مشكلة مزعجة في الأتمتة داخل Apple Home"
   },
-  "9to5mac.com/2026/11/20/security-bite-podcast-not-amused-two-months-of-meta-muse-privacy-problems": {
-   "at": "2026-11-20T11:30:42.560819+00:00",
-   "title": "Security Bite Podcast: Not amused, two months of Meta Muse privacy problems",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/20/security-bite-podcast-not-amused-two-months-of-meta-muse-privacy-problems/",
-   "score": 1,
-   "sources": 1,
-   "summary": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform .",
-   "title_ar": "بودكاست Security Bite: غير راضين، شهران من مشاكل الخصوصية في Meta Muse"
-  },
   "9to5mac.com/2026/11/20/signal-now-blocks-screenshots-on-iphone-to-stop-siri-ai-from-seeing-chats": {
    "at": "2026-11-20T16:30:48.356113+00:00",
    "title": "Signal now blocks screenshots on iPhone to stop Siri AI from seeing chats",
@@ -4192,16 +4181,16 @@
    "summary": "A Grand Theft Auto 6 player says they've been hit with a 30-day PlayStation Network ban after sending a friend a photo they took in the game's nudist resort.",
    "title_ar": ""
   },
-  "eurogamer.net/gta-6-sales-estimate-rockstar-grand-theft-auto": {
-   "at": "2026-11-20T11:45:26.706136+00:00",
-   "title": "GTA 6 day-one sales are enormous, estimates suggest, making previous $2 billion opening weekend predictions seem conservative",
+  "eurogamer.net/gta-6-rockstar-debated-changing-jason-lucias-big-secret": {
+   "at": "2026-11-27T11:45:40.309710+00:00",
+   "title": "Rockstar boss \"so grateful\" to have kept GTA 6's big prologue twist a secret - and reveals Tomás' story could have been very different",
    "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.eurogamer.net/gta-6-sales-estimate-rockstar-grand-theft-auto",
-   "score": 0,
+   "status": "posted",
+   "url": "https://www.eurogamer.net/gta-6-rockstar-debated-changing-jason-lucias-big-secret",
+   "score": 2,
    "sources": 1,
-   "summary": "Grand Theft Auto 6 is estimated to have sold nearly 25 million copies in one day, generating approximately $2.5bn in sales revenue - a staggering result that's beyond even what even observers were…",
-   "title_ar": ""
+   "summary": "If you've played the first 20 minutes or so of Grand Theft Auto 6 , you'll know there's a hugely significant plot revelation there - one Rockstar somehow managed to keep entirely secret until the…",
+   "title_ar": "مدير Rockstar \"ممتن للغاية\" للحفاظ على سرية مفاجأة التمهيد الكبير في لعبة GTA 6 - ويكشف أن قصة Tomás كان يمكن أن تكون مختلفة تماماً"
   },
   "eurogamer.net/gta-6-spoiler-free-advice": {
    "at": "2026-11-20T12:45:39.324963+00:00",
@@ -5345,17 +5334,6 @@
    "score": 0,
    "sources": 1,
    "summary": "The Motorola Signature 27 was officially announced earlier this month on November 5, and even though the company promised that the handset would land in Europe on November 16, we still haven't seen…",
-   "title_ar": ""
-  },
-  "gsmarena.com/motorola_smartphone_android_17_update_list-news-75558.php": {
-   "at": "2026-11-20T11:30:42.560819+00:00",
-   "title": "Motorola shares a new list of smartphones eligible for Android 17 update",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.gsmarena.com/motorola_smartphone_android_17_update_list-news-75558.php",
-   "score": 0,
-   "sources": 1,
-   "summary": "In August, Lenovo shared a list of Motorola smartphones eligible for the Android 17 update.",
    "title_ar": ""
   },
   "gsmarena.com/motorolas_next_base_razr_has_its_specs_and_launch_window_leaked-news-75624.php": {
@@ -10906,7 +10884,7 @@
  "topic_last_posted": {
   "AI": "2026-11-26T19:45:29.315478+00:00",
   "Anime": "2026-11-27T09:45:29.959927+00:00",
-  "Games": "2026-11-26T23:15:27.712501+00:00",
+  "Games": "2026-11-27T11:45:40.309710+00:00",
   "Tech": "2026-11-27T11:30:36.307960+00:00"
  },
  "digest_day": "2026-11-26",
