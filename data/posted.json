@@ -672,17 +672,6 @@
    "summary": "9to5Mac is brought to you by Tello Mobile.",
    "title_ar": "iOS 18 يتيح لك استخدام هاتفين iPhone بنفس رقم الهاتف"
   },
-  "9to5mac.com/2026/11/20/lafaers-5-in-1-presence-sensor-fixes-the-most-annoying-automation-in-apple-home": {
-   "at": "2026-11-20T19:30:37.355775+00:00",
-   "title": "HomeKit Weekly: Lafaer’s 5-in-1 presence sensor fixes an annoying automation in Apple Home",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/20/lafaers-5-in-1-presence-sensor-fixes-the-most-annoying-automation-in-apple-home/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Motion-based automations are generally straightforward in Apple Home.",
-   "title_ar": "نشرة HomeKit الأسبوعية: مستشعر الحضور 5 في 1 من Lafaer يعالج مشكلة مزعجة في الأتمتة داخل Apple Home"
-  },
   "9to5mac.com/2026/11/21/heres-what-next-years-iphone-lineup-will-look-like": {
    "at": "2026-11-21T19:45:29.387775+00:00",
    "title": "Not upgrading to iPhone 18 Pro or Duo? Here’s what’s coming in 2027",
@@ -1309,6 +1298,17 @@
    "sources": 1,
    "summary": "Most social media platforms have long had parental controls to give oversight into the ways teens are using the service and to ensure they get appropriate content in their feeds.",
    "title_ar": ""
+  },
+  "9to5mac.com/2026/11/27/apple-tv-unveils-major-new-sci-fi-series-thats-coming-soon": {
+   "at": "2026-11-27T19:30:41.623221+00:00",
+   "title": "Apple TV unveils major new sci-fi series that’s coming soon",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/27/apple-tv-unveils-major-new-sci-fi-series-thats-coming-soon/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Apple TV ( only $6.99/month for Black Friday ) is about to debut its next major sci-fi series: Neuromancer.",
+   "title_ar": "Apple TV تكشف النقاب عن مسلسل خيال علمي رئيسي جديد قادم قريباً"
   },
   "9to5mac.com/2026/11/27/apples-new-homeview-is-exactly-the-home-product-ive-been-waiting-for": {
    "at": "2026-11-27T16:30:36.231956+00:00",
@@ -4247,17 +4247,6 @@
    "summary": "Gaming tech giant Nvidia has decided to reinstate Jensen Huang as its president and CEO, despite allegedly saying it wouldn't, and despite a string of extramarital affairs and investigations into…",
    "title_ar": ""
   },
-  "eurogamer.net/persona-6-games-come-quicker-atlus": {
-   "at": "2026-11-20T19:30:37.355775+00:00",
-   "title": "After taking seven years to make Persona 6 and four years to make Persona 5, Atlus promises future games will come quicker",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.eurogamer.net/persona-6-games-come-quicker-atlus",
-   "score": 0,
-   "sources": 1,
-   "summary": "Persona 6 is still slowly chugging in the background, but developer Atlus is promising that future games in its beloved RPG series won't take quite as long as they used to.",
-   "title_ar": ""
-  },
   "eurogamer.net/playstation-5-xbox-series-s-x-console-hardware-sales-gta-6": {
    "at": "2026-11-26T09:45:27.761379+00:00",
    "title": "GTA 6 reinvigorates PlayStation 5 and Xbox Series S/X console sales in the US, even at their inflated prices",
@@ -5686,6 +5675,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Fans are expecting a fresh Avengers: Doomsday trailer today, and now have a good idea of the movie's runtime.",
+   "title_ar": ""
+  },
+  "ign.com/articles/bioware-fans-hit-out-at-ea-for-selling-new-dragon-age-merch-after-killing-the-studio": {
+   "at": "2026-11-27T19:30:41.623221+00:00",
+   "title": "BioWare Fans Hit Out at EA for Selling New Dragon Age Merch After Killing the Studio",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/bioware-fans-hit-out-at-ea-for-selling-new-dragon-age-merch-after-killing-the-studio",
+   "score": 0,
+   "sources": 1,
+   "summary": "A new Dragon Age hoodie is available on the BioWare Gear store, as EA continues to sell merch based on BioWare's now dead franchises.",
    "title_ar": ""
   },
   "ign.com/articles/blade-director-says-he-walked-away-from-marvels-canceled-movie-because-lifes-too-short-to-make-st-films": {
@@ -8007,17 +8007,6 @@
    "score": 0,
    "sources": 1,
    "summary": "\"The Nvidia Board of Directors has made the correct and proper decision,\" says the US president.",
-   "title_ar": ""
-  },
-  "pcgamer.com/hardware/openai-says-it-redesigned-an-amd-gpu-and-amd-is-using-some-of-those-tweaks-for-use-in-future-products": {
-   "at": "2026-11-20T19:30:37.355775+00:00",
-   "title": "OpenAI says it redesigned an AMD GPU and AMD is using some of those tweaks ‘for use in future products’",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/hardware/openai-says-it-redesigned-an-amd-gpu-and-amd-is-using-some-of-those-tweaks-for-use-in-future-products/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Let's hope we actually see some performance gains from it.",
    "title_ar": ""
   },
   "pcgamer.com/movies-tv/god-of-war-laufey-star-deborah-ann-woll-will-reprise-the-role-in-amazons-god-of-war-show": {
@@ -10720,7 +10709,7 @@
   "AI": "2026-11-27T18:30:35.515070+00:00",
   "Anime": "2026-11-27T17:15:29.395180+00:00",
   "Games": "2026-11-27T15:00:44.849061+00:00",
-  "Tech": "2026-11-27T19:15:30.461400+00:00"
+  "Tech": "2026-11-27T19:30:41.623221+00:00"
  },
  "digest_day": "2026-11-27",
  "weekly_day": "2026-11-27"
