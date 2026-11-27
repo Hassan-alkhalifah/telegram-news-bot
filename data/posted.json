@@ -2542,17 +2542,6 @@
    "summary": "The first film premieres today in Japan",
    "title_ar": ""
   },
-  "crunchyroll.com/news/latest/2026/11/20/in-a-world-full-of-zombies-im-the-only-one-who-doesnt-get-attacked-anime-january-1-2027-premiere-date": {
-   "at": "2026-11-20T04:30:36.057715+00:00",
-   "title": "In a World Full of Zombies I'm the Only One Who Doesn't Get Attacked Anime Announces January 1, 2027 Premiere, New Cast Members",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://crunchyroll.com/news/latest/2026/11/20/in-a-world-full-of-zombies-im-the-only-one-who-doesnt-get-attacked-anime-january-1-2027-premiere-date",
-   "score": 0,
-   "sources": 1,
-   "summary": "The story is set in a world suddenly overrun with zombies",
-   "title_ar": ""
-  },
   "crunchyroll.com/news/latest/2026/11/20/jimoto-no-ijimekko-tachi-ni-shikaeshi-shiyoto-shitara-betsu-no-tatakai-ga-hajimatta-anime-announced-for-2027": {
    "at": "2026-11-20T10:15:31.450531+00:00",
    "title": "Jimoto no Ijimekko-tachi ni Shikaeshi Shiyoto Shitara, Betsu no Tatakai ga Hajimatta Anime Announced for 2027",
@@ -3069,6 +3058,17 @@
    "sources": 1,
    "summary": "The song debuted at number 8 on the weekly chart",
    "title_ar": ""
+  },
+  "crunchyroll.com/news/latest/2026/11/27/mobile-suit-gundam-zz-anime-40th-anniversary-key-visual": {
+   "at": "2026-11-27T04:30:36.742838+00:00",
+   "title": "Mobile Suit Gundam ZZ Anime Unveils 40th Anniversary Key Visual",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://crunchyroll.com/news/latest/2026/11/27/mobile-suit-gundam-zz-anime-40th-anniversary-key-visual",
+   "score": 2,
+   "sources": 1,
+   "summary": "The 3rd Gundam TV series is available on Crunchyroll",
+   "title_ar": "أنمي Mobile Suit Gundam ZZ يكشف عن الرسم الرئيسي بم الذكرى الأربعين"
   },
   "crunchyroll.com/news/quizzes/2026/11/23/anime-crosswords-puzzles-vol-82": {
    "at": "2026-11-23T15:00:46.538114+00:00",
@@ -8119,6 +8119,17 @@
    "summary": "CD Projekt Red reported its Q3 earnings today, but all anyone wanted to talk about was GTA 6.",
    "title_ar": ""
   },
+  "pcgamer.com/games/the-witcher/witcher-3-remastered-patch-has-lighting-fixes-sign-nerfs-and-gets-rid-of-a-nasty-werewolf-bug": {
+   "at": "2026-11-27T04:30:36.742838+00:00",
+   "title": "Witcher 3 Remastered patch has lighting fixes, sign nerfs, and gets rid of a nasty werewolf bug",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.pcgamer.com/games/the-witcher/witcher-3-remastered-patch-has-lighting-fixes-sign-nerfs-and-gets-rid-of-a-nasty-werewolf-bug/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Turns out they weren't meant to be that hard to kill after all.",
+   "title_ar": ""
+  },
   "pcgamer.com/games/third-person-shooter/capcoms-quirky-dinosaur-fighting-hero-shooter-is-shutting-down-in-2027": {
    "at": "2026-11-25T21:45:27.047916+00:00",
    "title": "Capcom's quirky dinosaur-fighting hero shooter is shutting down in 2027",
@@ -11004,7 +11015,7 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-26T19:45:29.315478+00:00",
-  "Anime": "2026-11-27T02:15:27.716497+00:00",
+  "Anime": "2026-11-27T04:30:36.742838+00:00",
   "Games": "2026-11-26T23:15:27.712501+00:00",
   "Tech": "2026-11-27T03:45:33.904053+00:00"
  },
