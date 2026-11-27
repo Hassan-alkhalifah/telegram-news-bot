@@ -1,17 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/19/android-3d-emoji-specs-requirements": {
-   "at": "2026-11-20T00:43:14.832131+00:00",
-   "title": "Google’s 3D emoji has wild Android spec requirements: 10GB of free space, 6GB RAM",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/19/android-3d-emoji-specs-requirements/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Google introduced 3D emoji on Pixel this year, and has just detailed the minimum specifications required to get them on your Android phone. more…",
-   "title_ar": "رموز تعبيرية ثلاثية الأبعاد من Google تتطلب مواصفات خارقة لنظام Android: مساحة خالية 10 جيجابايت و6 جيجابايت من ذاكرة الوصول العشوائي"
-  },
   "9to5google.com/2026/11/19/samsung-mobile-division-lead-choi-won-joon": {
    "at": "2026-11-20T02:15:27.026995+00:00",
    "title": "Samsung’s mobile division has someone new in charge for the first time in years",
@@ -5874,6 +5863,17 @@
    "sources": 1,
    "summary": "About two weeks ago, we learned that WhatsApp's \"View Once\" feature for text messages was available to beta users on Android.",
    "title_ar": "ميزة رسائل النص \"العرض لمرة واحدة\" في واتساب متوفرة الآن لمختبري النسخة التجريبية على نظام iOS"
+  },
+  "gsmarena.com/x_finally_launches_parental_controls_for_teen_accounts-news-75655.php": {
+   "at": "2026-11-27T00:45:27.714281+00:00",
+   "title": "X finally launches parental controls for teen accounts",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.gsmarena.com/x_finally_launches_parental_controls_for_teen_accounts-news-75655.php",
+   "score": 0,
+   "sources": 1,
+   "summary": "X says it's not designed for or promoted to children, but anyone aged 13 or older can sign up, and teen accounts already default to protected mode, with sensitive media restricted and targeted ads…",
+   "title_ar": ""
   },
   "gsmarena.com/xiaomi_18_prereservations_are_now_live_in_china-news-75561.php": {
    "at": "2026-11-20T23:45:27.501475+00:00",
