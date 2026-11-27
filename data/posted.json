@@ -3378,17 +3378,6 @@
    "summary": "Long drives call for every trick you can get.",
    "title_ar": "هذه الميزة المفيدة في Apple Watch تعمل بسلاسة مع Apple CarPlay"
   },
-  "engadget.com/2321988/google-signs-deal-with-blue-origin-to-send-satellite-data-centers-into-orbit": {
-   "at": "2026-11-20T03:45:25.897976+00:00",
-   "title": "Google signs deal with Blue Origin to send satellite data centers into orbit",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2321988/google-signs-deal-with-blue-origin-to-send-satellite-data-centers-into-orbit/",
-   "score": 1,
-   "sources": 1,
-   "summary": "This is part of Project Suncatcher, an experiment aimed at running AI systems in space.",
-   "title_ar": "جوجل توقيع اتفاقية مع Blue Origin لإرسال مراكز بيانات عبر الأقمار الصناعية إلى المدار"
-  },
   "engadget.com/2322647/google-latest-home-page-redesign-makes-gemini-even-more-prominent": {
    "at": "2026-11-20T06:00:41.206745+00:00",
    "title": "Google's latest home page redesign makes Gemini even more prominent",
@@ -5600,6 +5589,17 @@
    "summary": "Samsung announced the Galaxy SmartTag3 back in late September, and the tracker went on sale in the US earlier this month.",
    "title_ar": "سامسونج توضح التقنية الكامنة وراء نطاق البحث الأطول في Galaxy SmartTag3"
   },
+  "gsmarena.com/samsung_galaxy_a38_runs_geekbench_confirms_its_chipset-news-75662.php": {
+   "at": "2026-11-27T03:45:33.904053+00:00",
+   "title": "Samsung Galaxy A38 runs Geekbench, confirms its chipset",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.gsmarena.com/samsung_galaxy_a38_runs_geekbench_confirms_its_chipset-news-75662.php",
+   "score": 2,
+   "sources": 1,
+   "summary": "Samsung launched the Galaxy A37 in March and released it in April, so the company is now almost wrapping up the development of its successor, the A38, for a plausible early 2027 launch.",
+   "title_ar": "هاتف Samsung Galaxy A38 يظهر على منصة Geekbench مؤكداً معالجه"
+  },
   "gsmarena.com/samsung_galaxy_z_trifold2_codename_and_availability_details_leak-news-75630.php": {
    "at": "2026-11-25T13:00:41.463037+00:00",
    "title": "Samsung Galaxy Z Trifold2 codename and availability details leak",
@@ -7215,17 +7215,6 @@
    "score": 0,
    "sources": 1,
    "summary": "It seems like things weren't working properly for some people until a recent patch, though",
-   "title_ar": ""
-  },
-  "myanimelist.net/news/74960147?_location=rss": {
-   "at": "2026-11-20T03:45:25.897976+00:00",
-   "title": "Additional Cast for 'Zombie no Afureta Sekai de Ore dake ga Osowarenai' Announced",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://myanimelist.net/news/74960147?_location=rss",
-   "score": 0,
-   "sources": 1,
-   "summary": "The official website of the Zombie no Afureta Sekai de Ore dake ga Osowarenai (In a World Full of Zombies I'm the Only One Who Doesn't Get Attacked) television anime announced seven additional cast…",
    "title_ar": ""
   },
   "myanimelist.net/news/74960710?_location=rss": {
@@ -9758,17 +9747,6 @@
    "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music.",
    "title_ar": "مطور لعبة Binding of Isaac يزيل موسيقا الذكاء الاصطناعي من Repentance Plus"
   },
-  "theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads": {
-   "at": "2026-11-20T03:30:45.103063+00:00",
-   "title": "Some creators are skeptical of Instagram’s new affiliate program",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
-   "score": 1,
-   "sources": 1,
-   "summary": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers.",
-   "title_ar": "بعض صناع المحتوى متشككون تجاه برنامج المنتسبين الجديد في Instagram"
-  },
   "theverge.com/news/1042025/microsoft-code-red-outlook-outage": {
    "at": "2026-11-25T11:15:32.014816+00:00",
    "title": "Microsoft declares ‘Code Red’ after huge Outlook outage",
@@ -11061,7 +11039,7 @@
   "AI": "2026-11-26T19:45:29.315478+00:00",
   "Anime": "2026-11-27T02:15:27.716497+00:00",
   "Games": "2026-11-26T23:15:27.712501+00:00",
-  "Tech": "2026-11-27T02:15:27.716497+00:00"
+  "Tech": "2026-11-27T03:45:33.904053+00:00"
  },
  "digest_day": "2026-11-26",
  "weekly_day": "2026-11-20"
