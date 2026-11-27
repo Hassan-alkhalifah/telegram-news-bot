@@ -4346,6 +4346,17 @@
    "summary": "A new report from Windows Central details how Xbox was reportedly looking into removing the paywall that prevents players without Xbox Live from playing online games, only to potentially renege on…",
    "title_ar": ""
   },
+  "eurogamer.net/yooka-laylee-skipping-xbox-costs": {
+   "at": "2026-11-27T20:45:28.337122+00:00",
+   "title": "Yooka-Laylee studio explains upcoming Definitive Edition's absence on Xbox to 'frustrated' fans",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://www.eurogamer.net/yooka-laylee-skipping-xbox-costs",
+   "score": 3,
+   "sources": 2,
+   "summary": "Yooka-Laylee and the Impossible Lair : Definitive Edition is notably skipping Xbox Series X/S consoles, and the studio blames \"technical challenges and costs.\"",
+   "title_ar": "استوديو Yooka-Laylee يوضح للمعجبين الغاضبين سبب غياب نسخة Definitive Edition القادمة عن أجهزة Xbox"
+  },
   "gamespot.com/articles/another-live-service-game-is-going-extinct-and-this-one-has-dinosaurs": {
    "at": "2026-11-25T18:15:30.732103+00:00",
    "title": "Another Live-Service Game Is Going Extinct, And This One Has Dinosaurs",
@@ -6500,6 +6511,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Ubisoft has denied rumors that it is requiring developers to use generative AI during video game development.",
+   "title_ar": ""
+  },
+  "insider-gaming.com/yooka-laylee-team-skips-xbox": {
+   "at": "2026-11-27T20:45:28.337122+00:00",
+   "title": "Yooka-Laylee Team Skips Xbox for Definitive Edition",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://insider-gaming.com/yooka-laylee-team-skips-xbox/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Yooka-Laylee's second title, The Impossible Lair, is getting a Definitive Edition free to previous owners.",
    "title_ar": ""
   },
   "kotaku.com/attempts-to-vibe-code-pc-ports-of-gta-6-are-being-shut-down-but-it-might-be-too-late-to-put-the-genie-back-in-the-bottle-2001000396": {
@@ -10587,7 +10609,7 @@
  "topic_last_posted": {
   "AI": "2026-11-27T18:30:35.515070+00:00",
   "Anime": "2026-11-27T17:15:29.395180+00:00",
-  "Games": "2026-11-27T20:00:41.970560+00:00",
+  "Games": "2026-11-27T20:45:28.337122+00:00",
   "Tech": "2026-11-27T20:30:37.486235+00:00"
  },
  "digest_day": "2026-11-27",
