@@ -1,17 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/19/samsung-mobile-division-lead-choi-won-joon": {
-   "at": "2026-11-20T02:15:27.026995+00:00",
-   "title": "Samsung’s mobile division has someone new in charge for the first time in years",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/19/samsung-mobile-division-lead-choi-won-joon/",
-   "score": 1,
-   "sources": 1,
-   "summary": "After the better part of 7 years, Samsung’s mobile division has a new chief and it’s Choi Won-Joon, who is already off to a great start with the successful launch of Galaxy Z Fold 8. more…",
-   "title_ar": "قسْم الهواتف المحمولة في Samsung يمتلك مسؤولاً جديداً لأول مرة منذ سنوات"
-  },
   "9to5google.com/2026/11/20/alleged-pixel-11-pro-prototype-had-hilight-and-a-temperature-sensor": {
    "at": "2026-11-20T15:15:28.598264+00:00",
    "title": "Alleged Pixel 11 Pro prototype had HiLight and a temperature sensor",
@@ -2387,6 +2376,17 @@
    "sources": 1,
    "summary": "Entire series debuted on Netflix worldwide on Thursday",
    "title_ar": ""
+  },
+  "animenewsnetwork.com/news/2026-11-26/isekai-affair-writer-masakazu-ooi-launches-new-manga/.244113": {
+   "at": "2026-11-27T02:15:27.716497+00:00",
+   "title": "Isekai Affair Writer Masakazu Ooi Launches New Manga",
+   "topic": "Anime",
+   "status": "posted",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-26/isekai-affair-writer-masakazu-ooi-launches-new-manga/.244113",
+   "score": 1,
+   "sources": 1,
+   "summary": "Ooi launched Ma Mama Musō~Maō no Mama ni Amae Makuttara Saikyō ni!",
+   "title_ar": "مؤلف قصص الإيسيكاي Masakazu Ooi يطلق مانغا جديدة"
   },
   "animenewsnetwork.com/news/2026-11-26/kuboken-killer-shark-in-another-world-manga-gets-tv-anime/.244231": {
    "at": "2026-11-26T15:15:29.778198+00:00",
@@ -5346,6 +5346,17 @@
    "sources": 1,
    "summary": "Alongside the brand-new Mate 90 Air, Huawei also introduced a new smartwatch.",
    "title_ar": ""
+  },
+  "gsmarena.com/ios_and_harmonyos_gain_ground_as_androids_q3_share_hits_a_record_low-news-75653.php": {
+   "at": "2026-11-27T02:15:27.716497+00:00",
+   "title": "iOS and HarmonyOS gain ground as Android's Q3 share hits a record low",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.gsmarena.com/ios_and_harmonyos_gain_ground_as_androids_q3_share_hits_a_record_low-news-75653.php",
+   "score": 2,
+   "sources": 1,
+   "summary": "Last month Counterpoint Research (CR) told us that the Q3 smartphone market dropped 20%, and today the firm has published its breakdown of sales share by operating system for the same quarter.",
+   "title_ar": "iOS و HarmonyOS تكسبان أرضاً مع وصول حصة Android في الربع الثالث إلى أدنى مستوياتها على الإطلاق"
   },
   "gsmarena.com/iphone_18e_is_reportedly_getting_a_redesigned_camera_island-news-75613.php": {
    "at": "2026-11-24T23:15:28.234374+00:00",
@@ -11103,9 +11114,9 @@
  },
  "topic_last_posted": {
   "AI": "2026-11-26T19:45:29.315478+00:00",
-  "Anime": "2026-11-26T17:30:41.162456+00:00",
+  "Anime": "2026-11-27T02:15:27.716497+00:00",
   "Games": "2026-11-26T23:15:27.712501+00:00",
-  "Tech": "2026-11-26T23:30:37.842299+00:00"
+  "Tech": "2026-11-27T02:15:27.716497+00:00"
  },
  "digest_day": "2026-11-26",
  "weekly_day": "2026-11-20"
