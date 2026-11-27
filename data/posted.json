@@ -23,17 +23,6 @@
    "summary": "Google’s Fitbit Air is one of my favorite products of 2026 and my preferred workout companion, but not being able to see a workout while you’re in the middle of it has been a huge complaint of mine…",
    "title_ar": ""
   },
-  "9to5google.com/2026/11/20/google-pixel-us-smartphone-market-q3-2026": {
-   "at": "2026-11-20T18:30:42.309899+00:00",
-   "title": "Google Pixel held its ground in the US despite a middling Pixel 11 launch",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/20/google-pixel-us-smartphone-market-q3-2026/",
-   "score": 2,
-   "sources": 1,
-   "summary": "The latest quarterly data for the US smartphone market reveals that Google Pixel is holding its ground despite the overall market faltering, and the other two major Android brands struggling. more…",
-   "title_ar": "Google Pixel تحافظ على مكانتها في الولايات المتحدة رغم إطلاق متوسط المستوى لهاتف Pixel 11"
-  },
   "9to5google.com/2026/11/20/samsung-fans-continue-to-hate-on-galaxy-s27-ultra-redesign": {
    "at": "2026-11-20T23:00:42.307646+00:00",
    "title": "Samsung fans continue to hate on Galaxy S27 Ultra redesign",
@@ -605,6 +594,17 @@
    "sources": 1,
    "summary": "Like clockwork, the first quarter of the Pixel 11 brings discounts, and this shines a light on the base model that needs to be explored. more…",
    "title_ar": "مثل المعتاد، هاتف Pixel 11 يصبح خيار شراء أفضل بكثير بعد مرور بضعة أشهر [فيديو]"
+  },
+  "9to5google.com/2026/11/27/new-google-messages-features": {
+   "at": "2026-11-27T18:45:31.189548+00:00",
+   "title": "What new Google Messages features are rolling out [November 2026]",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/27/new-google-messages-features/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Like other Google apps, Messages for Android A/B tests many features.",
+   "title_ar": "ما هي ميزات Google Messages الجديدة التي يتم طرحها في نوفمبر 2026"
   },
   "9to5google.com/2026/11/27/ring-battery-doorbell-2k-cameras-black-friday-2026": {
    "at": "2026-11-27T18:00:42.842977+00:00",
@@ -3378,17 +3378,6 @@
    "summary": "Long drives call for every trick you can get.",
    "title_ar": "هذه الميزة المفيدة في Apple Watch تعمل بسلاسة مع Apple CarPlay"
   },
-  "engadget.com/2323016/openai-brings-its-collaborative-space-hubs-to-plus-users": {
-   "at": "2026-11-20T18:45:29.365606+00:00",
-   "title": "OpenAI brings its collaborative Space hubs to Plus users",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.engadget.com/2323016/openai-brings-its-collaborative-space-hubs-to-plus-users/",
-   "score": 1,
-   "sources": 1,
-   "summary": "You can upload documents, files and more to the hubs for easy sharing.",
-   "title_ar": "OpenAI تتيح مساحات التعاون Space hubs لمشتركي باقة Plus"
-  },
   "engadget.com/2323390/teenage-engineerings-first-cd-player-kind-of-looks-like-a-turntable": {
    "at": "2026-11-20T19:15:29.262790+00:00",
    "title": "Teenage Engineering's first CD player kind of looks like a turntable",
@@ -4114,17 +4103,6 @@
    "sources": 1,
    "summary": "Grand Theft Auto 6 's launch took a big bite out of Call of Duty’s player base, according to new estimates from Alinea Analytics, and four days on, it still hasn't recovered.",
    "title_ar": "تقديرات Alinea تشير إلى أن إطلاق GTA 6 تسبب في انخفاض اللاعبين اليوميين لـ Call of Duty بنسبة 42 بالمئة"
-  },
-  "eurogamer.net/gta-6-credits-florida-joker-rockstar": {
-   "at": "2026-11-20T18:30:42.309899+00:00",
-   "title": "GTA 6 credits actually include 'Florida Joker', the viral internet personality who once demanded $10 million from Rockstar Games",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.eurogamer.net/gta-6-credits-florida-joker-rockstar",
-   "score": 0,
-   "sources": 1,
-   "summary": "Lawrence Sullivan, better known to the online world as the 'Florida Joker', is in GTA 6 .",
-   "title_ar": ""
   },
   "eurogamer.net/gta-6-cyberleek-leaked-xbox-build-ported-pc": {
    "at": "2026-11-24T09:15:26.812402+00:00",
@@ -5917,17 +5895,6 @@
    "score": 0,
    "sources": 1,
    "summary": "The hacker behind the massive GTA 6 leak in September 2022 has been released on license with a strong warning from the judge.",
-   "title_ar": ""
-  },
-  "ign.com/articles/gta-6-has-only-been-out-for-a-day-and-people-are-already-asking-take-twos-boss-about-gta-7": {
-   "at": "2026-11-20T18:30:42.309899+00:00",
-   "title": "GTA 6 Has Only Been Out For a Day and People Are Already Asking Take-Two's Boss About GTA 7",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.ign.com/articles/gta-6-has-only-been-out-for-a-day-and-people-are-already-asking-take-twos-boss-about-gta-7",
-   "score": 0,
-   "sources": 1,
-   "summary": "GTA 6 has finally arrived after more than a decade of waiting, but apparently that's not enough for some people.",
    "title_ar": ""
   },
   "ign.com/articles/gta-6-is-the-biggest-entertainment-launch-of-all-time-at-379-billion-on-day-one": {
@@ -10797,7 +10764,7 @@
   "AI": "2026-11-27T18:30:35.515070+00:00",
   "Anime": "2026-11-27T17:15:29.395180+00:00",
   "Games": "2026-11-27T15:00:44.849061+00:00",
-  "Tech": "2026-11-27T18:15:27.522869+00:00"
+  "Tech": "2026-11-27T18:45:31.189548+00:00"
  },
  "digest_day": "2026-11-27",
  "weekly_day": "2026-11-27"
