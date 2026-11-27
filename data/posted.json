@@ -639,17 +639,6 @@
    "summary": "WhatsApp is adding support for eSIMs in its app, designed for keeping you connected while traveling, though details are not fully clear. more…",
    "title_ar": ""
   },
-  "9to5mac.com/2026/11/20/apple-tv-keeps-adding-fan-favorite-movies-heres-whats-new-and-coming-next": {
-   "at": "2026-11-20T20:00:50.831558+00:00",
-   "title": "Apple TV keeps adding fan-favorite movies, here’s what’s new and coming next",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5mac.com/2026/11/20/apple-tv-keeps-adding-fan-favorite-movies-heres-whats-new-and-coming-next/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Apple TV ( now $6.99/month for limited time ) is primarily home to original shows and movies, but Apple recently started adding fan-favorite classic films too.",
-   "title_ar": ""
-  },
   "9to5mac.com/2026/11/20/apple-watch-series-12-four-standout-features-glad-i-upgraded": {
    "at": "2026-11-20T21:45:28.281798+00:00",
    "title": "Apple Watch Series 12: Four standout features make me glad I upgraded",
@@ -1375,6 +1364,17 @@
    "sources": 1,
    "summary": "macOS 27.3 is launching next month alongside iOS 27.3 and more, and it includes a variety of new features for Mac users.",
    "title_ar": ""
+  },
+  "9to5mac.com/2026/11/27/meross-ms605": {
+   "at": "2026-11-27T20:15:28.461726+00:00",
+   "title": "HomeKit Weekly: Meross’s new presence sensor splits a room into three zones for Apple Home",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/27/meross-ms605/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Presence sensors tell Apple Home when someone is in a particular room, which is awesome for running automations based on that.",
+   "title_ar": "أخبار HomeKit الأسبوعية: مستشعر الحضور الجديد من Meross يقسم الغرفة إلى ثلاث مناطق لنظام Apple Home"
   },
   "9to5mac.com/2026/11/27/openai-countersues-apple-alleging-trade-secret-theft-and-supplier-threats": {
    "at": "2026-11-27T19:15:30.461400+00:00",
@@ -4091,17 +4091,6 @@
    "score": 0,
    "sources": 1,
    "summary": "A new survey of Grand Theft Auto 6 players has found some particularly interesting results.",
-   "title_ar": ""
-  },
-  "eurogamer.net/gta-6-biggest-entertainment-launch": {
-   "at": "2026-11-20T20:00:50.831558+00:00",
-   "title": "GTA 6 is officially the biggest entertainment launch of all time, selling 32.5 million pre-sale copies and a bonkers $3.79 billion in its first day",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.eurogamer.net/gta-6-biggest-entertainment-launch",
-   "score": 0,
-   "sources": 1,
-   "summary": "Surprise, surprise - GTA 6 is officially the biggest entertainment launch of all time, surpassing its predecessor's 13-year-long record and the already optimistic analyst estimates.",
    "title_ar": ""
   },
   "eurogamer.net/gta-6-boxed-physical-sales-uk": {
@@ -7734,17 +7723,6 @@
    "summary": "Looks like Lawrence Sullivan settled his differences with Rockstar.",
    "title_ar": ""
   },
-  "pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-earned-usd3-79-billion-on-launch-day": {
-   "at": "2026-11-20T20:00:50.831558+00:00",
-   "title": "Grand Theft Auto 6 earned $3.79 billion on launch day",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-earned-usd3-79-billion-on-launch-day/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Preorders of GTA 6 totalled approximately 32.5 million copies.",
-   "title_ar": ""
-  },
   "pcgamer.com/games/grand-theft-auto/gta-6-endings": {
    "at": "2026-11-24T08:00:41.334061+00:00",
    "title": "Every GTA 6 ending and how to get them",
@@ -8238,17 +8216,6 @@
    "score": 0,
    "sources": 1,
    "summary": "Digital Foundry discovers.",
-   "title_ar": ""
-  },
-  "pushsquare.com/news/2026/11/gta-6-sells-a-record-breaking-32-5-million-copies": {
-   "at": "2026-11-20T20:00:50.831558+00:00",
-   "title": "GTA 6 Sells a Record-Breaking 32.5 Million Copies",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pushsquare.com/news/2026/11/gta-6-sells-a-record-breaking-32-5-million-copies",
-   "score": 0,
-   "sources": 1,
-   "summary": "The biggest entertainment launch of all time.",
    "title_ar": ""
   },
   "pushsquare.com/news/2026/11/hollow-knight-silksong-dlc-news-and-exciting-reveals-from-dev-team-cherry-coming-this-week": {
@@ -9316,17 +9283,6 @@
    "score": 0,
    "sources": 1,
    "summary": "OpenAI chief scientist Jakub Pachocki has released internal perplexity scores for the entire GPT series for the first time, up to an unreleased model beyond the current generation.",
-   "title_ar": ""
-  },
-  "the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats": {
-   "at": "2026-11-20T20:00:50.831558+00:00",
-   "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Signal is blocking screenshots to stop AI agents like Apple's Siri AI, Google's Gemini Intelligence, and Meta's Muse from reading private chats.",
    "title_ar": ""
   },
   "the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models": {
@@ -10671,17 +10627,6 @@
    "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
    "title_ar": ""
   },
-  "wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation": {
-   "at": "2026-11-20T20:00:50.831558+00:00",
-   "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
-   "title_ar": "\"كذب\" Jensen Huang أثار قلق مجلس إدارة Nvidia قبيل استقالته"
-  },
   "wired.com/story/jensens-back-stocks-up-what-the-hell-sure": {
    "at": "2026-11-23T18:00:44.584816+00:00",
    "title": "Jensen Huang Is Back and So Is Nvidia’s Stock",
@@ -10720,7 +10665,7 @@
   "AI": "2026-11-27T18:30:35.515070+00:00",
   "Anime": "2026-11-27T17:15:29.395180+00:00",
   "Games": "2026-11-27T20:00:41.970560+00:00",
-  "Tech": "2026-11-27T19:45:29.398513+00:00"
+  "Tech": "2026-11-27T20:15:28.461726+00:00"
  },
  "digest_day": "2026-11-27",
  "weekly_day": "2026-11-27"
