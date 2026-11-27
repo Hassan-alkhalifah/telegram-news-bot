@@ -9153,17 +9153,6 @@
    "summary": "OpenAI's data agent in ChatGPT Work still isn't accurate enough.",
    "title_ar": "OpenAI تبني منصة البيانات \"Athena\" لتقليل التخمين لدى وكلاء الذكاء الاصطناعي"
   },
-  "the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think": {
-   "at": "2026-11-20T21:00:49.729112+00:00",
-   "title": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/",
-   "score": 1,
-   "sources": 1,
-   "summary": "OpenAI has significantly strengthened safeguards against extracting internal reasoning from GPT-6.2 Astra and GPT-6.2 Sol.",
-   "title_ar": "أوبن إيه آي تجعل من الصعب جداً على المهاجمين استخراج طريقة تفكير أحدث نماذج الذكاء الاصطناعي لديها"
-  },
   "the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress": {
    "at": "2026-11-24T23:00:41.564488+00:00",
    "title": "OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a \"very steep rate of progress\"",
@@ -9669,6 +9658,17 @@
    "sources": 1,
    "summary": "Samsung's newly launched Odyssey G60H display is targeted squarely at serious competitive gamers with QHD 600Hz and HD 1100HZ display modes.",
    "title_ar": ""
+  },
+  "tomshardware.com/monitors/gaming-monitors/samsungs-49-inch-oled-gaming-monitor-returns-to-its-lowest-price-ever-at-amazon-take-your-gpu-on-an-ultrawide-odyssey-for-usd854": {
+   "at": "2026-11-27T21:09:45.021721+00:00",
+   "title": "Samsung's 49-inch OLED gaming monitor drops to a new low price of $854",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/monitors/gaming-monitors/samsungs-49-inch-oled-gaming-monitor-returns-to-its-lowest-price-ever-at-amazon-take-your-gpu-on-an-ultrawide-odyssey-for-usd854",
+   "score": 1,
+   "sources": 1,
+   "summary": "Amazon is offering the Samsung Odyssey G9 G93SC at a price of $854, a new all-time low.",
+   "title_ar": "انخفاض سعر شاشة الألعاب OLED مقاس 49 بوصة من Samsung إلى مستوى قياسي جديد يبلغ 854 دولاراً"
   },
   "tomshardware.com/monitors/gaming-monitors/samsungs-giant-57-inch-ultra-sized-display-tumbles-to-usd1-349-curved-1000r-dual-4k-display-is-the-ultimate-desktop-monitor": {
    "at": "2026-11-26T11:45:28.050490+00:00",
@@ -10599,7 +10599,7 @@
   "AI": "2026-11-27T18:30:35.515070+00:00",
   "Anime": "2026-11-27T17:15:29.395180+00:00",
   "Games": "2026-11-27T20:45:28.337122+00:00",
-  "Tech": "2026-11-27T21:00:47.985949+00:00"
+  "Tech": "2026-11-27T21:09:45.021721+00:00"
  },
  "digest_day": "2026-11-27",
  "weekly_day": "2026-11-27"
