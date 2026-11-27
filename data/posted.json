@@ -617,17 +617,6 @@
    "summary": "WhatsApp is adding support for eSIMs in its app, designed for keeping you connected while traveling, though details are not fully clear. more…",
    "title_ar": ""
   },
-  "9to5mac.com/2026/11/20/apples-just-works-approach-is-great-but-goes-a-little-too-far": {
-   "at": "2026-11-20T23:30:37.472050+00:00",
-   "title": "Apple’s ‘just works’ approach is great, but goes a little too far",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5mac.com/2026/11/20/apples-just-works-approach-is-great-but-goes-a-little-too-far/",
-   "score": 1,
-   "sources": 1,
-   "summary": "“It just works” is one of the phrases most commonly associated with Apple .",
-   "title_ar": "نهج Apple القائم على \"العمل ببساطة\" رائع، لكنه يذهب أبعد من اللازم بقليل"
-  },
   "9to5mac.com/2026/11/21/heres-what-next-years-iphone-lineup-will-look-like": {
    "at": "2026-11-21T19:45:29.387775+00:00",
    "title": "Not upgrading to iPhone 18 Pro or Duo? Here’s what’s coming in 2027",
@@ -9219,6 +9208,17 @@
    "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music.",
    "title_ar": "مطور لعبة Binding of Isaac يزيل موسيقا الذكاء الاصطناعي من Repentance Plus"
   },
+  "theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox": {
+   "at": "2026-11-27T23:45:25.972856+00:00",
+   "title": "Yooka-Laylee’s free upgrade is skipping Xbox",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
+   "score": 0,
+   "sources": 1,
+   "summary": "Playtronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair: Definitive Edition as a free update on PlayStation 5, Switch 2, and PC on December 15th.",
+   "title_ar": ""
+  },
   "theverge.com/news/1042025/microsoft-code-red-outlook-outage": {
    "at": "2026-11-25T11:15:32.014816+00:00",
    "title": "Microsoft declares ‘Code Red’ after huge Outlook outage",
@@ -10394,17 +10394,6 @@
    "score": 2,
    "sources": 2,
    "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
-   "title_ar": ""
-  },
-  "wired.com/story/cops-are-being-extremely-corny-about-gta-vi": {
-   "at": "2026-11-20T23:30:37.472050+00:00",
-   "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The blockbuster game makes no secret of its contempt for law enforcement.",
    "title_ar": ""
   },
   "wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return": {
