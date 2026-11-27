@@ -10220,6 +10220,17 @@
    "summary": "S&P Global Ratings says that it could lower Nvidia's credit rating because of various risks that it faces, including the smuggling allegations and the fact the lack of succession planning for its CEO.",
    "title_ar": ""
   },
+  "tomshardware.com/tech-industry/cyber-security/amd-and-winbond-vulnerabilities-let-attackers-brute-force-bitlocker-pins-on-millions-of-pcs-cracking-a-six-digit-pin-drops-from-19-years-to-20-days": {
+   "at": "2026-11-27T12:45:27.998721+00:00",
+   "title": "AMD and Winbond vulnerabilities let attackers brute-force BitLocker PINs on millions of PCs",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/amd-and-winbond-vulnerabilities-let-attackers-brute-force-bitlocker-pins-on-millions-of-pcs-cracking-a-six-digit-pin-drops-from-19-years-to-20-days",
+   "score": 1,
+   "sources": 1,
+   "summary": "AMD and Winbond vulnerabilities let hacks let malfeasants guess Bitlocker PINs on millions of machines — brute-forcing a six-digit PIN takes 20 days instead of 19 years, at most",
+   "title_ar": "ثغرات AMD و Winbond تتيح للمهاجمين تخمين رموز PIN لخاصية BitLocker على ملايين أجهزة الحواسيب الشخصية"
+  },
   "tomshardware.com/tech-industry/cyber-security/us-doj-touts-largest-ever-crackdown-on-scammers-across-the-globe-as-it-seizes-14-000-devices-and-usd17-billion-in-illicit-funds-operation-results-in-800-defendants-and-frees-2-200-forced-laborers": {
    "at": "2026-11-25T00:15:29.826914+00:00",
    "title": "US DOJ touts \"largest-ever\" crackdown on scammers across the globe as it seizes 14,000 devices and $17 billion in illicit funds",
@@ -10830,7 +10841,7 @@
   "AI": "2026-11-26T19:45:29.315478+00:00",
   "Anime": "2026-11-27T09:45:29.959927+00:00",
   "Games": "2026-11-27T11:45:40.309710+00:00",
-  "Tech": "2026-11-27T11:30:36.307960+00:00"
+  "Tech": "2026-11-27T12:45:27.998721+00:00"
  },
  "digest_day": "2026-11-26",
  "weekly_day": "2026-11-20"
