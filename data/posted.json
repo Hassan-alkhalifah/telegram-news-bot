@@ -34,17 +34,6 @@
    "summary": "The latest quarterly data for the US smartphone market reveals that Google Pixel is holding its ground despite the overall market faltering, and the other two major Android brands struggling. more…",
    "title_ar": "Google Pixel تحافظ على مكانتها في الولايات المتحدة رغم إطلاق متوسط المستوى لهاتف Pixel 11"
   },
-  "9to5google.com/2026/11/20/nest-app-google-assistant": {
-   "at": "2026-11-20T18:00:44.657674+00:00",
-   "title": "Google retiring Nest app and Google Assistant on speakers, displays in 2027",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://9to5google.com/2026/11/20/nest-app-google-assistant/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Following the Android deprecation in September, Google Assistant is going away on speakers and smart displays next year.",
-   "title_ar": ""
-  },
   "9to5google.com/2026/11/20/samsung-fans-continue-to-hate-on-galaxy-s27-ultra-redesign": {
    "at": "2026-11-20T23:00:42.307646+00:00",
    "title": "Samsung fans continue to hate on Galaxy S27 Ultra redesign",
@@ -594,6 +583,17 @@
    "sources": 1,
    "summary": "Google has fixed an issue that caused excessive RAM use by Gemini for Chrome users. more…",
    "title_ar": "Google تقول إنها أصلحت خطأ استهلاك الذاكرة العشوائية لـ Gemini في متصفح Chrome"
+  },
+  "9to5google.com/2026/11/27/google-pixel-prepares-new-priority-notifications-feature-heres-what-it-will-do": {
+   "at": "2026-11-27T18:15:27.522869+00:00",
+   "title": "Google Pixel prepares new ‘Priority Notifications’ feature – here’s what it will do",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5google.com/2026/11/27/google-pixel-prepares-new-priority-notifications-feature-heres-what-it-will-do/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Google has a new “Priority Notifications” feature in the works for Pixel phones with the ability to pull your most important information to the top of the screen and even highlight it with a bit of…",
+   "title_ar": "Google Pixel تحضر ميزة \"Priority Notifications\" الجديدة - إليك ما ستقوم به"
   },
   "9to5google.com/2026/11/27/like-clockwork-the-pixel-11-is-a-way-better-buy-after-a-few-months-video": {
    "at": "2026-11-27T17:45:29.434938+00:00",
@@ -4368,6 +4368,17 @@
    "summary": "Publisher 4Divinity and developer Nekcom Entertainment have announced that upcoming action-RPG Showa American Story will now launch on 28th October, 2027.",
    "title_ar": ""
   },
+  "eurogamer.net/simpsons-hit-and-run-remake-rumored-cancelled": {
+   "at": "2026-11-27T18:15:27.522869+00:00",
+   "title": "Rumored The Simpsons: Hit & Run remake may be in trouble after one developer says their \"mind-blowingly awesome\" project is cancelled",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.eurogamer.net/simpsons-hit-and-run-remake-rumored-cancelled",
+   "score": 0,
+   "sources": 1,
+   "summary": "A rumored remake of The Simpsons: Hit & Run (the internet's most-wanted video game revival) may be in trouble.",
+   "title_ar": ""
+  },
   "eurogamer.net/ubisoft-reportedly-goes-all-in-on-company-wide-generative-ai-use-and-if-developers-dont-want-to-use-it-they-have-to-explain-why-in-detail": {
    "at": "2026-11-26T18:45:25.829826+00:00",
    "title": "Ubisoft reportedly goes all in on company-wide generative-AI use, and if developers don't want to use it, they have to explain why in detail",
@@ -7008,17 +7019,6 @@
    "summary": "It seems like things weren't working properly for some people until a recent patch, though",
    "title_ar": ""
   },
-  "myanimelist.net/news/74961958?_location=rss": {
-   "at": "2026-11-20T18:00:44.657674+00:00",
-   "title": "'Tougen Anki: Nikko Kegon no Taki-hen' Unveils Additional Cast",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://myanimelist.net/news/74961958?_location=rss",
-   "score": 0,
-   "sources": 1,
-   "summary": "The official website for the Tougen Anki: Nikko Kegon no Taki-hen (Tougen Anki: Nikko Kegon Falls Arc) television anime unveiled additional cast members on Saturday.",
-   "title_ar": ""
-  },
   "myanimelist.net/news/74963930?_location=rss": {
    "at": "2026-11-21T08:45:32.692597+00:00",
    "title": "Manga 'Yubisaki to Renren' Ends in Three Chapters",
@@ -9604,17 +9604,6 @@
    "summary": "Teenage Engineering announced what it describes as \"a modern take on a classic CD player\" with its new EP/BC-1 featuring a slab-like design that leaves the spinning disc exposed instead of hiding it…",
    "title_ar": "مشغل الأقراص المدمجة الأول من Teenage Engineering يعرض القرص الدوار بوضوح"
   },
-  "theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down": {
-   "at": "2026-11-20T18:00:44.657674+00:00",
-   "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
-   "score": 3,
-   "sources": 2,
-   "summary": "Google is announcing some significant changes to its smart home software.",
-   "title_ar": "تول جوجل إنها ستوقف خدمة Google Assistant على السماعات الذكية العام القادم"
-  },
   "theverge.com/tech/1039543/fbi-usda-hacked": {
    "at": "2026-11-21T18:00:41.247540+00:00",
    "title": "The FBI and USDA were reportedly hacked",
@@ -10819,7 +10808,7 @@
   "AI": "2026-11-27T17:30:36.235925+00:00",
   "Anime": "2026-11-27T17:15:29.395180+00:00",
   "Games": "2026-11-27T15:00:44.849061+00:00",
-  "Tech": "2026-11-27T18:00:42.842977+00:00"
+  "Tech": "2026-11-27T18:15:27.522869+00:00"
  },
  "digest_day": "2026-11-27",
  "weekly_day": "2026-11-27"
