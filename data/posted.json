@@ -1,17 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/20/alleged-pixel-11-pro-prototype-had-hilight-and-a-temperature-sensor": {
-   "at": "2026-11-20T15:15:28.598264+00:00",
-   "title": "Alleged Pixel 11 Pro prototype had HiLight and a temperature sensor",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/20/alleged-pixel-11-pro-prototype-had-hilight-and-a-temperature-sensor/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Google might have had a chance to keep the temperature sensor around, it seems, as a supposed prototype shows off a device that offered both the last-gen temperature sensor and the new HiLight LED…",
-   "title_ar": "نموذج أولي مزعوم لـ Pixel 11 Pro يضم خاصية HiLight ومستشعر حرارة"
-  },
   "9to5google.com/2026/11/20/google-health-5-13-release-notes": {
    "at": "2026-11-20T19:00:41.791820+00:00",
    "title": "Google Health 5.13 rolling out: Improved food search, more swimming controls",
@@ -1354,6 +1343,17 @@
    "summary": "Most social media platforms have long had parental controls to give oversight into the ways teens are using the service and to ensure they get appropriate content in their feeds.",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/27/ios-27-3-adds-limits-for-these-advanced-features-details-here": {
+   "at": "2026-11-27T15:15:29.598007+00:00",
+   "title": "iOS 27.3 adds limits for these advanced features, details here",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/27/ios-27-3-adds-limits-for-these-advanced-features-details-here/",
+   "score": 1,
+   "sources": 1,
+   "summary": "iOS 27.3 launches soon with a key change: certain advanced AI features will have daily usage limits.",
+   "title_ar": "iOS 27.3 يضيف قيوداً على هذه الميزات المتقدمة، التفاصيل هنا"
+  },
   "animecorner.me/at-2500-in-akasaka-gets-anime": {
    "at": "2026-11-25T14:45:38.247297+00:00",
    "title": "At 25:00, in Akasaka Gets Anime",
@@ -1363,17 +1363,6 @@
    "score": 0,
    "sources": 1,
    "summary": "At 25:00, in Akasaka boys' love manga by Hiroko Natsuno is getting an anime…",
-   "title_ar": ""
-  },
-  "animecorner.me/bang-dream-yumemita-gets-new-anime-series": {
-   "at": "2026-11-20T15:00:58.715478+00:00",
-   "title": "BanG Dream! Yume∞Mita Gets New Anime Series",
-   "topic": "Anime",
-   "status": "duplicate",
-   "url": "https://animecorner.me/bang-dream-yumemita-gets-new-anime-series/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Mugendai MewType announced during their 3rd anniversary livestream that BanG Dream!",
    "title_ar": ""
   },
   "animecorner.me/bride-of-the-barrier-master-anime-reveals-main-trailer-visual-additional-cast-opening-theme-song-artist": {
@@ -7008,17 +6997,6 @@
    "summary": "It seems like things weren't working properly for some people until a recent patch, though",
    "title_ar": ""
   },
-  "myanimelist.net/news/74961509?_location=rss": {
-   "at": "2026-11-20T15:00:58.715478+00:00",
-   "title": "'BanG Dream! Yume∞Mita' New Anime in Production",
-   "topic": "Anime",
-   "status": "posted",
-   "url": "https://myanimelist.net/news/74961509?_location=rss",
-   "score": 2,
-   "sources": 2,
-   "summary": "The 3rd Anniversary livestream event of Mugendai MewType announced a new anime for BanG Dream!",
-   "title_ar": ""
-  },
   "myanimelist.net/news/74961677?_location=rss": {
    "at": "2026-11-20T16:30:48.356113+00:00",
    "title": "Supporting Cast for 'Kaketa Tsuki no Mercedes' Announced",
@@ -7435,6 +7413,17 @@
    "score": 0,
    "sources": 1,
    "summary": "DLSEA of Sorrow.",
+   "title_ar": ""
+  },
+  "nintendolife.com/news/2026/11/hollow-knight-silksong-sea-of-sorrow-dlc-finally-has-a-release-date": {
+   "at": "2026-11-27T15:15:29.598007+00:00",
+   "title": "Hollow Knight: Silksong - Sea Of Sorrow DLC Finally Has A Release Date",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/hollow-knight-silksong-sea-of-sorrow-dlc-finally-has-a-release-date",
+   "score": 0,
+   "sources": 1,
+   "summary": "The game's first free expansion.",
    "title_ar": ""
   },
   "nintendolife.com/news/2026/11/jensen-huang-has-been-reinstated-as-nvidias-president-and-ceo": {
@@ -9285,17 +9274,6 @@
    "summary": "Microsoft has published the technical architecture of ARTEX, an AI framework in wide use since July 2026 that runs cyberattacks with specialized agents and almost no human involvement.",
    "title_ar": "مايكروسوفت توضح كيف تستخدم مجموعات القرصنة المدعومة من الدول إطار عمل الذكاء الاصطناعي ARTEX لأتمتة الهجمات السيبرانية"
   },
-  "the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup": {
-   "at": "2026-11-20T15:00:58.715478+00:00",
-   "title": "Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup",
-   "topic": "AI",
-   "status": "posted",
-   "url": "https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Nvidia is close to acquiring AI startup Inception for at least $500 million, according to The Information.",
-   "title_ar": ""
-  },
   "the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls": {
    "at": "2026-11-26T11:30:35.220997+00:00",
    "title": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls",
@@ -10830,7 +10808,7 @@
   "AI": "2026-11-26T19:45:29.315478+00:00",
   "Anime": "2026-11-27T13:45:38.130901+00:00",
   "Games": "2026-11-27T15:00:44.849061+00:00",
-  "Tech": "2026-11-27T14:45:33.686342+00:00"
+  "Tech": "2026-11-27T15:15:29.598007+00:00"
  },
  "digest_day": "2026-11-26",
  "weekly_day": "2026-11-20"
