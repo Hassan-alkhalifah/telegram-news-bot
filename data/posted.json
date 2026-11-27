@@ -1343,6 +1343,17 @@
    "summary": "Most social media platforms have long had parental controls to give oversight into the ways teens are using the service and to ensure they get appropriate content in their feeds.",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/27/apples-new-homeview-is-exactly-the-home-product-ive-been-waiting-for": {
+   "at": "2026-11-27T16:30:36.231956+00:00",
+   "title": "Apple’s new ‘HomeView’ is exactly the home product I’ve been waiting for",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/27/apples-new-homeview-is-exactly-the-home-product-ive-been-waiting-for/",
+   "score": 1,
+   "sources": 1,
+   "summary": "Apple has launched several exciting new products in the last month, including iPhone Duo and the redesigned MacBook Pro.",
+   "title_ar": "منتج Apple الجديد 'HomeView' هو تماماً المنتج المنزلي الذي كنت أ انتظره"
+  },
   "9to5mac.com/2026/11/27/ios-27-3-adds-limits-for-these-advanced-features-details-here": {
    "at": "2026-11-27T15:15:29.598007+00:00",
    "title": "iOS 27.3 adds limits for these advanced features, details here",
@@ -4126,17 +4137,6 @@
    "summary": "On Grand Theft Auto 6 's launch day, more than half of everyone playing on PS5 and Xbox was playing GTA 6.",
    "title_ar": "شركة Circana تقول إن أكثر من نصف لاعبي الأجهزة المنزلية النشطين في يوم إطلاق GTA 6 لعبوها"
   },
-  "eurogamer.net/gta-6-plane-vehicle-stunts-impressive": {
-   "at": "2026-11-20T16:15:28.721971+00:00",
-   "title": "GTA 6 players are already pulling off high-flying tricks and other impressive stunts, just days after launch",
-   "topic": "Games",
-   "status": "posted",
-   "url": "https://www.eurogamer.net/gta-6-plane-vehicle-stunts-impressive",
-   "score": 2,
-   "sources": 1,
-   "summary": "One of the best things to emerge from Grand Theft Auto over the years has been the community's truly spectacular stunts: players soaring under bridges, leaping across buildings, and more.",
-   "title_ar": "لاعبو GTA 6 ينفذون بالفعل حركات استعراضية بهلوانية جريئة وغيرها من الحركات المبهرة بعد أيام قليلة فقط من الإطلاق"
-  },
   "eurogamer.net/gta-6-players-getting-very-good-at-heists-despite-challenges": {
    "at": "2026-11-24T22:30:39.883778+00:00",
    "title": "GTA 6 players are already starting to get very good at heists, despite all the new challenges Rockstar has added to the game",
@@ -6016,6 +6016,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Team Cherry has announced an upcoming Cherry Time!",
+   "title_ar": ""
+  },
+  "ign.com/articles/hollow-knight-silksong-dlc-sea-of-sorrow-release-date": {
+   "at": "2026-11-27T16:30:36.231956+00:00",
+   "title": "Hollow Knight: Silksong - Sea of Sorrow Launch Trailer Finally Confirms Release Date, Teases Fishing",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/hollow-knight-silksong-dlc-sea-of-sorrow-release-date",
+   "score": 0,
+   "sources": 1,
+   "summary": "Team Cherry's latest showcase gives us a release date for Sea of Sorrow, the free DLC expansion coming to Hollow Knight: Silksong, and a launch trailer.",
    "title_ar": ""
   },
   "ign.com/articles/i-made-the-deal-president-trump-takes-credit-for-jensen-huangs-return-to-nvidia-posts-bizarre-ai-image-to-celebrate": {
@@ -10841,7 +10852,7 @@
   "AI": "2026-11-27T16:15:28.291398+00:00",
   "Anime": "2026-11-27T13:45:38.130901+00:00",
   "Games": "2026-11-27T15:00:44.849061+00:00",
-  "Tech": "2026-11-27T16:00:54.876879+00:00"
+  "Tech": "2026-11-27T16:30:36.231956+00:00"
  },
  "digest_day": "2026-11-26",
  "weekly_day": "2026-11-20"
