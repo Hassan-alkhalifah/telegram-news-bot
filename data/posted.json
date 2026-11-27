@@ -1365,6 +1365,17 @@
    "summary": "macOS 27.3 is launching next month alongside iOS 27.3 and more, and it includes a variety of new features for Mac users.",
    "title_ar": ""
   },
+  "9to5mac.com/2026/11/27/openai-countersues-apple-alleging-trade-secret-theft-and-supplier-threats": {
+   "at": "2026-11-27T19:15:30.461400+00:00",
+   "title": "OpenAI countersues Apple, alleging trade secret theft and supplier threats",
+   "topic": "Tech",
+   "status": "posted",
+   "url": "https://9to5mac.com/2026/11/27/openai-countersues-apple-alleging-trade-secret-theft-and-supplier-threats/",
+   "score": 1,
+   "sources": 1,
+   "summary": "OpenAI has countersued Apple, accusing the iPhone maker of stealing trade secrets and threatening suppliers working on its upcoming devices.",
+   "title_ar": "OpenAI تقاضي Apple مضادةً، وتزعم سرقة أسرار تجارية وتهديد الموردين"
+  },
   "9to5mac.com/2026/11/27/three-new-iphones-will-launch-early-next-year-heres-whats-coming": {
    "at": "2026-11-27T18:00:42.842977+00:00",
    "title": "Three new iPhones will launch early next year, here’s what’s coming",
@@ -3355,17 +3366,6 @@
    "sources": 1,
    "summary": "Long drives call for every trick you can get.",
    "title_ar": "هذه الميزة المفيدة في Apple Watch تعمل بسلاسة مع Apple CarPlay"
-  },
-  "engadget.com/2323390/teenage-engineerings-first-cd-player-kind-of-looks-like-a-turntable": {
-   "at": "2026-11-20T19:15:29.262790+00:00",
-   "title": "Teenage Engineering's first CD player kind of looks like a turntable",
-   "topic": "Tech",
-   "status": "duplicate",
-   "url": "https://www.engadget.com/2323390/teenage-engineerings-first-cd-player-kind-of-looks-like-a-turntable/",
-   "score": 0,
-   "sources": 1,
-   "summary": "The EP/BC-1 costs $329 and marks the start of a new line of \"broadcast\" audio equipment.",
-   "title_ar": ""
   },
   "engadget.com/2323542/change-these-settings-if-you-want-gta-6-to-feel-like-old-gta": {
    "at": "2026-11-20T20:15:36.813541+00:00",
@@ -9109,17 +9109,6 @@
    "summary": "Complexity theorist and former OpenAI researcher Scott Aaronson argues that AI's recent math breakthroughs matter far beyond academia.",
    "title_ar": "باحث OpenAI السابق يقول إن إثبات فرضية ريمان أقل أهمية من حقيقة أن نظام الذكاء الاصطناعي يستطيع إنتاجه"
   },
-  "the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working": {
-   "at": "2026-11-20T19:15:29.262790+00:00",
-   "title": "Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
-   "topic": "AI",
-   "status": "duplicate",
-   "url": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Google is bringing \"Computer Use\" to Gemini for Mac, letting the AI operate desktop apps, local files, and websites in an isolated background window with a live preview while users keep working.",
-   "title_ar": ""
-  },
   "the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude": {
    "at": "2026-11-22T09:45:28.765955+00:00",
    "title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
@@ -9526,17 +9515,6 @@
    "sources": 2,
    "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative.",
    "title_ar": "لجنة الاتصالات الفيدرالية الموافقة على خطة SpaceX لإطلاق ما يصل إلى مليون قمر صناعي لمراكز البيانات في الفضاء"
-  },
-  "theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth": {
-   "at": "2026-11-20T19:15:29.262790+00:00",
-   "title": "Teenage Engineering’s first CD player puts the spinning disc on display",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
-   "score": 2,
-   "sources": 2,
-   "summary": "Teenage Engineering announced what it describes as \"a modern take on a classic CD player\" with its new EP/BC-1 featuring a slab-like design that leaves the spinning disc exposed instead of hiding it…",
-   "title_ar": "مشغل الأقراص المدمجة الأول من Teenage Engineering يعرض القرص الدوار بوضوح"
   },
   "theverge.com/tech/1039543/fbi-usda-hacked": {
    "at": "2026-11-21T18:00:41.247540+00:00",
@@ -10742,7 +10720,7 @@
   "AI": "2026-11-27T18:30:35.515070+00:00",
   "Anime": "2026-11-27T17:15:29.395180+00:00",
   "Games": "2026-11-27T15:00:44.849061+00:00",
-  "Tech": "2026-11-27T18:45:31.189548+00:00"
+  "Tech": "2026-11-27T19:15:30.461400+00:00"
  },
  "digest_day": "2026-11-27",
  "weekly_day": "2026-11-27"
