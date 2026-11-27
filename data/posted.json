@@ -3895,6 +3895,28 @@
    "summary": "The breach was discovered within the last month during system upgrade work, according to Reuters.",
    "title_ar": ""
   },
+  "engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets": {
+   "at": "2026-11-27T20:00:41.970560+00:00",
+   "title": "OpenAI countersues Apple and accuses it of stealing trade secrets",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+   "score": 0,
+   "sources": 1,
+   "summary": "The suit suggests that the iPhone maker is trying to \"compete unfairly by any means available.\"",
+   "title_ar": ""
+  },
+  "engadget.com/2329748/restricted-nvidia-chips-were-installed-at-a-chinese-data-center-linked-to-alice-huang": {
+   "at": "2026-11-27T20:00:41.970560+00:00",
+   "title": "Restricted NVIDIA chips were installed at a Chinese data center linked to Alice Huang",
+   "topic": "Tech",
+   "status": "duplicate",
+   "url": "https://www.engadget.com/2329748/restricted-nvidia-chips-were-installed-at-a-chinese-data-center-linked-to-alice-huang/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Bloomberg traced the lineage of one GB300 server rack to Gigabyte Technology.",
+   "title_ar": ""
+  },
   "eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed": {
    "at": "2026-11-22T17:30:34.644514+00:00",
    "title": "Binding of Isaac dev pulls AI-generated music from Repentance+ after players expose it",
@@ -6281,6 +6303,17 @@
    "sources": 1,
    "summary": "Four days removed from launch, Sony is already reporting insane player numbers for GTA 6.",
    "title_ar": ""
+  },
+  "insider-gaming.com/call-of-duty-movie-director-says-to-expect-captain-price-in-the-film": {
+   "at": "2026-11-27T20:00:41.970560+00:00",
+   "title": "Call of Duty Movie Director Says To Expect Captain Price in the Film",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://insider-gaming.com/call-of-duty-movie-director-says-to-expect-captain-price-in-the-film/",
+   "score": 2,
+   "sources": 1,
+   "summary": "Call of Duty movie director Peter Berg suggests Captain Price will appear in the film as casting for the Modern Warfare adaptation begins.",
+   "title_ar": "مخرج فيلم Call of Duty يقول إنه يجب توقع ظهور الشخصية Captain Price في الفيلم"
   },
   "insider-gaming.com/ea-uses-ai-to-add-john-motson-back-in-ea-sports-fc-27": {
    "at": "2026-11-25T19:00:42.603890+00:00",
@@ -10686,7 +10719,7 @@
  "topic_last_posted": {
   "AI": "2026-11-27T18:30:35.515070+00:00",
   "Anime": "2026-11-27T17:15:29.395180+00:00",
-  "Games": "2026-11-27T15:00:44.849061+00:00",
+  "Games": "2026-11-27T20:00:41.970560+00:00",
   "Tech": "2026-11-27T19:45:29.398513+00:00"
  },
  "digest_day": "2026-11-27",
