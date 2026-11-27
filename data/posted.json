@@ -1,17 +1,6 @@
 {
  "version": 1,
  "posted": {
-  "9to5google.com/2026/11/20/samsung-fans-continue-to-hate-on-galaxy-s27-ultra-redesign": {
-   "at": "2026-11-20T23:00:42.307646+00:00",
-   "title": "Samsung fans continue to hate on Galaxy S27 Ultra redesign",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://9to5google.com/2026/11/20/samsung-fans-continue-to-hate-on-galaxy-s27-ultra-redesign/",
-   "score": 1,
-   "sources": 1,
-   "summary": "An alleged new video shows Galaxy S27 dummy units that look like the latest leaks, and Samsung fans aren’t having it. more…",
-   "title_ar": "محبّو Samsung يواصلون مهاجمة إعادة تصميم Galaxy S27 Ultra"
-  },
   "9to5google.com/2026/11/20/samsung-iphone-dynamic-island-feature-leak": {
    "at": "2026-11-21T03:30:42.588376+00:00",
    "title": "Samsung might copy the iPhone’s Dynamic Island soon, but it actually looks good [Video]",
@@ -2409,17 +2398,6 @@
    "sources": 1,
    "summary": "The pitch is an unusual combination of privacy promises and AI features.",
    "title_ar": ""
-  },
-  "arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops": {
-   "at": "2026-11-20T22:48:42.604126+00:00",
-   "title": "US will soon announce root cause behind FAA nationwide ground stop",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
-   "score": 1,
-   "sources": 1,
-   "summary": "Former FAA insider on reducing the risks of upgrading a decades-old network.",
-   "title_ar": "الولايات المتحدة ستعلن قريباً عن السبب الرئيسي وراء توقف رحلات إدارة الطيران الفيدرالية في جميع أنحاء البلاد"
   },
   "arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war": {
    "at": "2026-11-24T22:45:38.939340+00:00",
@@ -5149,17 +5127,6 @@
    "summary": "The iPhone Duo currently supports two customizable shortcuts on its lock screen, positioned in the bottom-right corner.",
    "title_ar": ""
   },
-  "gsmarena.com/iphone_duo_shipping_times_are_finally_getting_shorter-news-75573.php": {
-   "at": "2026-11-20T22:45:35.604038+00:00",
-   "title": "iPhone Duo shipping times are finally getting shorter",
-   "topic": "Tech",
-   "status": "posted",
-   "url": "https://www.gsmarena.com/iphone_duo_shipping_times_are_finally_getting_shorter-news-75573.php",
-   "score": 1,
-   "sources": 1,
-   "summary": "Apple's iPhone Duo sold out within hours of pre-orders opening last month, and if you've tried to order one from Apple since, you've been looking at a delivery estimate in late January.",
-   "title_ar": "أوقات شحن iPhone Duo تصبح أقصر أخيرًا"
-  },
   "gsmarena.com/iqoo_16s_design_colors-news-75626.php": {
    "at": "2026-11-25T10:45:26.117189+00:00",
    "title": "iQOO 16s' design and colors revealed",
@@ -6182,6 +6149,17 @@
    "sources": 2,
    "summary": "Warhammer 40,000: Dawn of War 4 is almost upon us, and publisher Plaion has released a new trailer that teases the appearance of a fan-favorite character from the tabletop game — and even the fifth…",
    "title_ar": "إعلان تشويقي لـ Warhammer 40,000: Dawn of War 4 يؤكد تقريباً الفصيلة الخامسة القابلة للعب - وظهر إله الفوضى المحتمل"
+  },
+  "ign.com/articles/yooka-laylee-and-the-impossible-lair-no-xbox-release": {
+   "at": "2026-11-27T23:00:42.366826+00:00",
+   "title": "Yooka-Laylee and the Impossible Lair Dev's Explanation for Skipping Xbox Sparks Backlash",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.ign.com/articles/yooka-laylee-and-the-impossible-lair-no-xbox-release",
+   "score": 0,
+   "sources": 1,
+   "summary": "Yooka-Laylee and the Impossible Lair: Definitive Edition developer Playtonic has come under fire from Xbox owners after it ruled out an Xbox Series X and S version of the rerelease.",
+   "title_ar": ""
   },
   "insider-gaming.com/40-million-gta-6-players-ps5": {
    "at": "2026-11-24T00:30:36.710944+00:00",
@@ -7600,17 +7578,6 @@
    "score": 0,
    "sources": 1,
    "summary": "All the endings (and a couple variations) for GTA 6 we've seen so far.",
-   "title_ar": ""
-  },
-  "pcgamer.com/games/grand-theft-auto/gta-6-how-long-to-fly-across-map": {
-   "at": "2026-11-20T22:45:35.604038+00:00",
-   "title": "Despite GTA 6's huge map, it only takes about 4 minutes to fly across it in a plane",
-   "topic": "Games",
-   "status": "duplicate",
-   "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-long-to-fly-across-map/",
-   "score": 0,
-   "sources": 1,
-   "summary": "Someone had to do it.",
    "title_ar": ""
   },
   "pcgamer.com/games/grand-theft-auto/gta-6-is-a-cozy-game": {
