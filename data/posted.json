@@ -6645,6 +6645,17 @@
    "summary": "Congrats on landing the job at Rockstar, Wil E.",
    "title_ar": ""
   },
+  "kotaku.com/fans-worry-the-simpsons-hit-run-remake-may-have-been-killed-amid-studio-layoffs-2001001317": {
+   "at": "2026-11-27T15:00:44.849061+00:00",
+   "title": "Fans Worry The Simpsons: Hit & Run Remake May Have Been Killed Amid Studio Layoffs",
+   "topic": "Games",
+   "status": "posted",
+   "url": "https://kotaku.com/fans-worry-the-simpsons-hit-run-remake-may-have-been-killed-amid-studio-layoffs-2001001317",
+   "score": 3,
+   "sources": 2,
+   "summary": "The GTA -style 2003 classic was rumored for a comeback",
+   "title_ar": "معجبو The Simpsons: Hit & Run يخشون إلغاء مشروع إعادة الإصدار وسط عمليات تسريح الموظفين في الاستوديو"
+  },
   "kotaku.com/github-microsoft-ps5-anyps5-emulation-sony-grand-theft-auto-gta6-2001000617": {
    "at": "2026-11-26T15:45:36.078344+00:00",
    "title": "Microsoft-Owned Github Deletes Unhinged Post Celebrating PlayStation 5 Emulator’s Success Following Launch Of GTA 6",
@@ -7589,6 +7600,17 @@
    "score": 0,
    "sources": 1,
    "summary": "Includes a fix for Anarchy Battle.",
+   "title_ar": ""
+  },
+  "nintendolife.com/news/2026/11/team-cherry-special-presentation-will-share-hollow-knight-silksong-dlc-news-today": {
+   "at": "2026-11-27T15:00:44.849061+00:00",
+   "title": "Team Cherry 'Special Presentation' Will Share Hollow Knight: Silksong DLC News Today",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.nintendolife.com/news/2026/11/team-cherry-special-presentation-will-share-hollow-knight-silksong-dlc-news-today",
+   "score": 0,
+   "sources": 1,
+   "summary": "DLSEA of Sorrow.",
    "title_ar": ""
   },
   "nintendolife.com/news/2026/11/the-legend-of-zelda-ocarina-of-time-switch-2-updated-version-1-1-2-here-are-the-patch-notes": {
@@ -10627,6 +10649,17 @@
    "summary": "Silksong's DLC could get a release date this week",
    "title_ar": ""
   },
+  "videogameschronicle.com/news/the-simpsons-hit-run-remake-may-have-been-cancelled-as-developer-drops-hints-they-were-working-on-it": {
+   "at": "2026-11-27T15:00:44.849061+00:00",
+   "title": "The Simpsons Hit & Run remake may have been cancelled as developer seemingly hints they were working on it",
+   "topic": "Games",
+   "status": "duplicate",
+   "url": "https://www.videogameschronicle.com/news/the-simpsons-hit-run-remake-may-have-been-cancelled-as-developer-drops-hints-they-were-working-on-it/",
+   "score": 0,
+   "sources": 1,
+   "summary": "Speculation surrounding a remake has been rife since Matt Groening suggested it was coming",
+   "title_ar": ""
+  },
   "videogameschronicle.com/news/ubisoft-defends-calling-skull-bones-a-quadruple-a-game-in-lawsuit": {
    "at": "2026-11-26T18:15:26.013929+00:00",
    "title": "Ubisoft defends calling Skull & Bones a ‘quadruple-A’ game in lawsuit",
@@ -10796,7 +10829,7 @@
  "topic_last_posted": {
   "AI": "2026-11-26T19:45:29.315478+00:00",
   "Anime": "2026-11-27T13:45:38.130901+00:00",
-  "Games": "2026-11-27T13:30:37.366163+00:00",
+  "Games": "2026-11-27T15:00:44.849061+00:00",
   "Tech": "2026-11-27T14:45:33.686342+00:00"
  },
  "digest_day": "2026-11-26",
